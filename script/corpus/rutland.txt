@@ -1,0 +1,293 @@
+<B_RUTLAND>
+
+<Q_RUT_C_1492_T_HENRY7> <L_RUTLAND_001> <A_HENRY_TUDOR_VII>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1457> <R_HENRY_VERNON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1445?>
+
+<P_13>
+
+{ED:HENRY_VII._TO_[SIR]_HE[NRY_VERNO]N,_KNIGHT.}
+
+{ED:1492,_April_13._Sheen.}
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:35
+RECIPIENT:HENRY_VERNON:MALE:_:1445?:47?
+LETTER:RUTLAND_001:M4:1492:COPY:OTHER
+Trusty and right welbeloved we grete you wele , ascertaynyng you that
+for the singulier trust that we have in your approved trouth and
+wisedome , we have appoincted you to be Comptroller of houshold with
+our derest son the Prince , entending by Goddes grace that he shal
+procede to the begynnyng of the same the vij. day of May next commyng .
+Wherfor we pray you that ye wil fully dispose you to take uppon you the
+said rowme and auctoritie , and to yeve your attendance in $the
+{TEXT:be} {COM:SIC?} begynnyng of the said housholde for the good
+ordering and establisshing of the same , desiring you that somwhat
+bifor the said tyme ye wol addresse you unto us to thentent that uppon
+convercacion we may shewe unto you our minde concernyng the premissez
+mor at large , not failling herof in any wise , as we specialy truste
+you . RUTLAND,13.001.1
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:35
+RECIPIENT:HENRY_VERNON:MALE:_:1445?:47?
+LETTER:RUTLAND_001:M4:1492:COPY:OTHER
+Yeven under our signet at our manoir of Shene the xiij day of April the
+seventhe yer of oure reigne . RUTLAND,13.001.2
+
+{ED:SIGN_MANUAL.}
+
+<Q_RUT_C_1492?_T_HENRY7> <L_RUTLAND_002> <A_HENRY_TUDOR_VII>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1457> <R_HENRY_VERNON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1445?>
+
+<P_13>
+
+{ED:HENRY_VII._TO_SIR_HENRY_VERNON,_KNIGHT.}
+
+{ED:1492?_April_26._Greenwich.}
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:35?
+RECIPIENT:HENRY_VERNON:MALE:_:1445?:47?
+LETTER:RUTLAND_002:M4:1492?:COPY:OTHER
+Trusty and welbeloved we grete you wel , lating you wite that as wel by
+our espies that we have in the parties beyond the see , as othrewise ,
+we undrestande that our ennemyes of Fraunce prepaire theymsilf to do
+all the hurt and annoyance that they can compasse and devise to this
+our reame and subgiettes of the same , for the $resisting and subduying
+of whoes malicious purpos we shal , with Goddes grace , suffisantly
+provide and putte us with a good multitude of our subgiettes in
+defensible redinesse for the same entent , which can in noo wise be
+doon without grete substance of good . Wherfor we holding for undoubted
+that ye bere a singulier tendrenesse to suche thinges as concerne the
+suretie and universal weale and tranquillite of our saide reame and
+subgiettes desire and hertily praye you that ye wil lene unto us the
+somme of an c=li= , and to sende it unto oure Tresourer of England by
+some trusty servauntes of yours to thentent that they maye receyve
+billes of hym for contentaccion therof ayen . RUTLAND,13.002.3
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:35?
+RECIPIENT:HENRY_VERNON:MALE:_:1445?:47?
+LETTER:RUTLAND_002:M4:1492?:COPY:OTHER
+And we feithfully promitte you by these oure lettres that ye shal have
+repayment or <P_14> suffisant assignement upon the half quinzame
+payable at Martilmasse next commyng , wherunto ye maye verrailly truste
+, RUTLAND,14.002.4
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:35?
+RECIPIENT:HENRY_VERNON:MALE:_:1445?:47?
+LETTER:RUTLAND_002:M4:1492?:COPY:OTHER
+wherin ye shal not oonly doo unto us thing of {ED:grete_?} and
+singulier pleasir , but also cause us to have you therfor moore
+specially recommended in the $honor of oure grace in such thinges as ye
+shal have to poursue unto us heraftre . RUTLAND,14.002.5
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:35?
+RECIPIENT:HENRY_VERNON:MALE:_:1445?:47?
+LETTER:RUTLAND_002:M4:1492?:COPY:OTHER
+Yeven undre our signet at our manoir of Grenewiche the xxvj day of
+April . RUTLAND,14.002.6
+
+{ED:SIGN_MANUAL.}
+
+<Q_RUT_C_1492_T_HENRY7> <L_RUTLAND_003> <A_HENRY_TUDOR_VII>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1457> <R_HENRY_VERNON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1445?>
+
+<P_14>
+
+{ED:HENRY_TO_SIR_HENRY_VERNON,_KNIGHT_FOR_HIS_BODY,_CONTROLLER_WIT
+H_THE_PRINCE.}
+
+{ED:1492,_August_31._Windsor.}
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:35
+RECIPIENT:HENRY_VERNON:MALE:_:1445?:47?
+LETTER:RUTLAND_003:M4:1492:COPY:OTHER
+Trusty and welbeloved we grete you wel . RUTLAND,14.003.7
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:35
+RECIPIENT:HENRY_VERNON:MALE:_:1445?:47?
+LETTER:RUTLAND_003:M4:1492:COPY:OTHER
+And inasmoche as we have appointed you to be Comptrollour of houshold
+with oure derrest son the Prince , and that we departe in all hast on
+oure voyage over the see , we therfor desire and praye you that ye wol
+geve your personall attendance uppon our said derrest son for the tyme
+we $shall $be {TEXT:shalbe} out of this our reame , and that ye faille
+not herof , as we truste you . RUTLAND,14.003.8
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:35
+RECIPIENT:HENRY_VERNON:MALE:_:1445?:47?
+LETTER:RUTLAND_003:M4:1492:COPY:OTHER
+Yeven undre our signet at our Castel of Windesor the last day of August
+, the viij=th= yer of our regne . RUTLAND,14.003.9
+
+{ED:SIGN_MANUAL._SIGNET.}
+
+<Q_RUT_D_1490S?_T_AVERNON> <L_RUTLAND_004> <A_ANNE_VERNON>
+<A-GENDER_FEMALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_ROLLASLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_14>
+
+{ED:LADY_ANNE_VERNON_TO_WILLIAM_ROLLASLEY,_GENTLEMAN.}
+
+{ED:1489-1494.}
+
+AUTHOR:ANNE_VERNON:FEMALE:_:_:_
+RECIPIENT:WILLIAM_ROLLASLEY:MALE:_:_:_
+LETTER:RUTLAND_004:M4:1490S?:UNKNOWN:OTHER
+Ryght trusty and welbelovyd , I recommawnd me to yow , desyryng to here
+of your welfare , desyring you for to delyver a yerd and a quarter of
+fyne blak velvet unto Maisteris Langton bunyng in Chepeside for to make
+me a bonett of , ayenst this good tyme , RUTLAND,14.004.10
+
+AUTHOR:ANNE_VERNON:FEMALE:_:_:_
+RECIPIENT:WILLIAM_ROLLASLEY:MALE:_:_:_
+LETTER:RUTLAND_004:M4:1490S?:UNKNOWN:OTHER
+for y know no nother but that I most cum to London unto my husbond
+afore Cristemas , RUTLAND,14.004.11
+
+AUTHOR:ANNE_VERNON:FEMALE:_:_:_
+RECIPIENT:WILLIAM_ROLLASLEY:MALE:_:_:_
+LETTER:RUTLAND_004:M4:1490S?:UNKNOWN:OTHER
+therfor I pray to delyver it as sone as ye have the letter unto the
+brynger or els unto one of her gentilwomen . RUTLAND,14.004.12
+
+AUTHOR:ANNE_VERNON:FEMALE:_:_:_
+RECIPIENT:WILLIAM_ROLLASLEY:MALE:_:_:_
+LETTER:RUTLAND_004:M4:1490S?:UNKNOWN:OTHER
+And tell you the pres unto Thomas Hunt gentilman of Lincoln In ,
+RUTLAND,14.004.13
+
+AUTHOR:ANNE_VERNON:FEMALE:_:_:_
+RECIPIENT:WILLIAM_ROLLASLEY:MALE:_:_:_
+LETTER:RUTLAND_004:M4:1490S?:UNKNOWN:OTHER
+and he shall content yow for the velvet and the gentylwoman for the
+makyng , as sone as it is done . RUTLAND,14.004.14
+
+AUTHOR:ANNE_VERNON:FEMALE:_:_:_
+RECIPIENT:WILLIAM_ROLLASLEY:MALE:_:_:_
+LETTER:RUTLAND_004:M4:1490S?:UNKNOWN:OTHER
+And yef ye woll geve a penyworth for a peny ye shall have xx nobles at
+my commyng to London . RUTLAND,14.004.15
+
+AUTHOR:ANNE_VERNON:FEMALE:_:_:_
+RECIPIENT:WILLIAM_ROLLASLEY:MALE:_:_:_
+LETTER:RUTLAND_004:M4:1490S?:UNKNOWN:OTHER
+No more to yow at this tyme , but Ihu. have yow in his kepyng .
+RUTLAND,14.004.16
+
+AUTHOR:ANNE_VERNON:FEMALE:_:_:_
+RECIPIENT:WILLIAM_ROLLASLEY:MALE:_:_:_
+LETTER:RUTLAND_004:M4:1490S?:UNKNOWN:OTHER
+By your good lady , Dame Anne Vernon . RUTLAND,14.004.17
+
+<Q_RUT_C_1494?_T_HENRY7> <L_RUTLAND_005> <A_HENRY_TUDOR_VII>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1457> <R_HENRY_VERNON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1445?>
+
+<P_15>
+
+{ED:HENRY_TO_SIR_HENRY_VERNON,_CONTROLLER_OF_THE_HOUSEHOLD_OF_THE_
+PRINCE.}
+
+{ED:1494?_June_2._Sheen.}
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:37?
+RECIPIENT:HENRY_VERNON:MALE:_:1445?:49?
+LETTER:RUTLAND_005:M4:1494?:COPY:OTHER
+Trusty and welbiloved we grete you wele . RUTLAND,15.005.18
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:37?
+RECIPIENT:HENRY_VERNON:MALE:_:1445?:49?
+LETTER:RUTLAND_005:M4:1494?:COPY:OTHER
+And for the true and acceptable service that ye have doon to our
+derrest son the Prince we can you special thanke , RUTLAND,15.005.19
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:37?
+RECIPIENT:HENRY_VERNON:MALE:_:1445?:49?
+LETTER:RUTLAND_005:M4:1494?:COPY:OTHER
+and considre wele that by your wise and poletike meanes his houshold is
+the better conducted and governed , which is greatly to your laude and
+praise . RUTLAND,15.005.20
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:37?
+RECIPIENT:HENRY_VERNON:MALE:_:1445?:49?
+LETTER:RUTLAND_005:M4:1494?:COPY:OTHER
+And therfore we pray you to dispose you to contynue and yeve your
+personal attendance there at such seasons as the counsail of our said
+son shal thinke necessarie and expedient , for thencreace of your said
+thanke . RUTLAND,15.005.21
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:37?
+RECIPIENT:HENRY_VERNON:MALE:_:1445?:49?
+LETTER:RUTLAND_005:M4:1494?:COPY:OTHER
+And elles we must of urgent necessite appointe oon of our hede officers
+exercise your saide rowme , and calle you to serve us in his stede .
+RUTLAND,15.005.22
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:37?
+RECIPIENT:HENRY_VERNON:MALE:_:1445?:49?
+LETTER:RUTLAND_005:M4:1494?:COPY:OTHER
+Yeven undre our signet at our manoir of Shene the secund day of Juyn .
+RUTLAND,15.005.23
+
+{ED:SIGN_MANUAL.}
+
+<Q_RUT_C_1503_T_HENRY7> <L_RUTLAND_006> <A_HENRY_TUDOR_VII>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1457> <R_HENRY_VERNON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1445?>
+
+<P_17>
+
+{ED:HENRY_VII._TO_SIR_HENRY_VERNON,_KNIGHT_FOR_HIS_BODY.}
+
+{ED:1503,_May_6._Richmond.}
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:46
+RECIPIENT:HENRY_VERNON:MALE:_:1445?:58?
+LETTER:RUTLAND_006:E1:1503:COPY:OTHER
+Trusty and welbiloved we grete you wele . RUTLAND,17.006.24
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:46
+RECIPIENT:HENRY_VERNON:MALE:_:1445?:58?
+LETTER:RUTLAND_006:E1:1503:COPY:OTHER
+And forsomouche as according to the treatie and convencion passed
+bitwene us and oure derrest sonne the King or Scottes , and of late at
+his special desir and instance , we have ordeyned and determyned oure
+moost dere doughter the Quene of Scottes to be delivered into Scotland
+for her traduccion and the solempnisacion of matrimony betwixte the
+said King and hir by the furst day of August next commyng , We willing
+as wel for the perfourmance of oure promyse made in that behalve , as
+also for the honnour of us and of this oure realme oure said doughter
+to bee honorably accompanyed as in like caas it hathe been hertofor
+accustumed not oonly for hir conveyance thoroughoute oure said reame
+and at hir entree into Scotland , but also during the feest of the
+solempnisacion of the said mariage , have appoincted you amonges othre
+nobles and estates to yeve youre attendance upon hir at hir commyng to
+oure Citie of Yorke , and from thens to contynue the same til the said
+mariage and feest bee doon and finisshed . RUTLAND,17.006.25
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:46
+RECIPIENT:HENRY_VERNON:MALE:_:1445?:58?
+LETTER:RUTLAND_006:E1:1503:COPY:OTHER
+Thefor we wol and desire you to prepaire youre self for this entente
+with as smal a nombre as ye shal thinke convenient , soo that ye maye
+bee in arredinesse to entre into your said attendance upon oure said
+doughter at hir commyng to Yorke forsaid , withoute any youre failling
+as ye tender the honnour of us and of this our reame .
+RUTLAND,17.006.26
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:46
+RECIPIENT:HENRY_VERNON:MALE:_:1445?:58?
+LETTER:RUTLAND_006:E1:1503:COPY:OTHER
+Over this insomoche as it is thought unto us and oure counsaill
+inconvenient and not mete that any mornyng or sorofull clothinges shuld
+be woran or used at suche noble triumphes of mariage , We therfor wol
+and desire you tattende upon oure said doughter in youre best arraye as
+in suche caas it apperteigneth . RUTLAND,17.006.27
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:46
+RECIPIENT:HENRY_VERNON:MALE:_:1445?:58?
+LETTER:RUTLAND_006:E1:1503:COPY:OTHER
+Yeven undre our signet at oure manouur of Richemounte the vj=th= day of
+May . RUTLAND,17.006.28

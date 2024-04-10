@@ -1,0 +1,4146 @@
+<B_SHILLIN>
+
+<Q_SHI_A_1447_T_JSHILLINGFORD> <L_SHILLIN_001> <A_JOHN_SHILLINGFORD>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_NAMES_UNKNOWN_1>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_3>
+
+{ED:II._SHILLINGFORD_TO_HIS_FELLOWS_AT_EXETER._DRAFT_LETTER.}
+
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_001:M4:1447:AUTOGRAPH:OTHER
+Worthy sires y grete yow well alle ; doyng yow to understonde that y
+rode fro Excetre on Fryday and cam to London on Tywysday by tyme at vii
+$at $te {TEXT:atte} cloke ; SHILLIN,3.001.1
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_001:M4:1447:AUTOGRAPH:OTHER
+and ther sithenys have full bisily labored to make an answere to the
+articulys . SHILLIN,3.001.2
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_001:M4:1447:AUTOGRAPH:OTHER
+The cause of so longe taryng yn makyng of the answers hath be for right
+grete bysynes y=t= Alisaunder Hody hath hadde aboute his awne maters ;
+SHILLIN,3.001.3
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_001:M4:1447:AUTOGRAPH:OTHER
+netheles by the avys of Alisaunder Hody and Dowrisshe and Roger Rawly ,
+{ED:they}_NP-SBJ beth made as may be yn so shorte tyme , trustyng to
+God that al the substance ys comprehended ther ynne , so that what tyme
+<P_4> hit is amended , corected and made by avys of counseyll to be
+right well ; of the whiche answeris so shortely made y sende to yow ij.
+copies , oon to be send to the Recorder yn hast yf hit may be for
+shortenys of tyme , &c. , that other copy to abide w=t= yow , prayng
+yow Thomas Cook most specially w=t= the lu tenaunt , callyng to yow
+William Noble , Coteler , Druell , and other wham ye seme is to be don
+, and that this answer be sadly over seyn ; SHILLIN,4.001.4
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_001:M4:1447:AUTOGRAPH:OTHER
+and yf eny thyng be ther yn to myche or to litell yn substance to sette
+the penne to sadly {ED:ORIGINALLY_to_sette_to_the_penne_sadly} . This
+don y pray yow to calle be fore yow $at $te {TEXT:atte} halle
+{ED:in_my_name_ERASED} the substance of the comminalte , praynge every
+of tham yn my name and chargyng tham yn +te most streytest wyse yn the
+Kynges byhalf to come to fore yow yn haste for the tydyngs that y have
+sent home to yow ; and that ye wysely declare to fore tham these
+answers ; so that they sey manly yee and nay yn suche poyntes as yow
+thynke to be don , &c. and +t=t= +tey wyll abide by +t=e= answers yn
+all wyse , and that labo=r= and spekyng be before to that entent .
+SHILLIN,4.001.5
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_001:M4:1447:AUTOGRAPH:OTHER
+This don y pray yow that y have a gode man sende to me yn hast .
+SHILLIN,4.001.6
+
+<Q_SHI_A_1447_T_JSHILLINGFORD> <L_SHILLIN_002> <A_JOHN_SHILLINGFORD>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_NAMES_UNKNOWN_1>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_4>
+
+{ED:III._TO_HIS_FELLOWS._LONDON,_OCT._30TH,_1447._DRAFT_LE TTER.}
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+Memo=d= that on Monedey next before the feste of Seynt Luke the yere of
+the regne of the kyng that now is xxvj <paren> Henry VI </paren> .
+<P_5> Richard Druell , William Speere and Henry Dobyn w=t= ham rode
+oute of Exceter to London-ward for nedes of the cite , that is to seye
+to kepe the dey of apparence $at $te {TEXT:atte} xv. of Seynt Michall
+as the cite was bounde to , as hit appereth by a bounde condycionell ,
+havyng w=t= ham sufficiant power and the comyn seell and xl s. of John
+Shillingford , Mayer , and xx s. of John Germyn , for their coustages ;
+and so departed the seyde Monedey yerly . SHILLIN,5.002.7
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+And as tochyng the seyde xl s. w=t= xl s. more that the seyde John
+Mayer payed to Trevylian , he was payed ayen by the feloship of the
+collecte mony to the plee , &c . SHILLIN,5.002.8
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+How the seyde Richard Druell and William Speere spedde when they came
+to London hit appereth yn a sedule by the sayde Richard Druell and
+William Speer therof made , remaynyng w=t= the {ED:seyde} Rychard
+Druell . SHILLIN,5.002.9
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+Forthermore as tochyng the goynge of the seyde John Shillyngforde ,
+mayer , he was all redy for to ride the seide Monedey :
+SHILLIN,5.002.10
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+varians y moved bytwene hym and the seyde Richard Druell , nerthelez
+better accorde hadde by mene of Thomas Cook , Richard Druell w=t= other
+held his wey , SHILLIN,5.002.11
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and the seyde mayer abode at home yn to a tuysday next after Seynt Luke
+is dey for settyng of the kynges dyme , comyng of Trevylian , and other
+grete maters toching the cite , and yn especiall to have the feloship
+togeder , a sadde communicacion to be had or his departyng , the whiche
+communicacion myght not be had before Saterdey next after Seynt Luke is
+dey for this cause that the grete part of the feloship was at Calston
+is fayre , SHILLIN,5.002.12
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and thoo that war at home , as Upton , Coteler and Pope , were syke on
+theire beddes ; SHILLIN,5.002.13
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and for alle these causes the mayer abode at home so longe ,
+SHILLIN,5.002.14
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and all that tyme he kepte his iij. hors yn stabill every dey redy to
+ride to hym {COM:FOR_his?} grete coste . SHILLIN,5.002.15
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+The tuysday he rode and w=t= hym William Hampton and John Fagot .
+SHILLIN,5.002.16
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+On Wendysdey at nyght they came to Sheftesbery SHILLIN,5.002.17
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and there mette w=t= Richard Druell , whiche made reporte of his gode
+spede and grete laboure at London , as hit appereth yn his sayde
+remembrance , and that on the beste wyse . SHILLIN,5.002.18
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+The Saterdey next ther after the mayer <P_6> came to Westminster sone
+apon ix. $at $te {TEXT:atte} belle , SHILLIN,6.002.19
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and ther mette w=t= my lorde Chaunceller $at $te {TEXT:atte} brode dore
+a litell fro the steire fote comyng fro the Sterre chamber , y yn the
+courte and by the dore knellyng and salutyng hym yn the moste godely
+wyse that {in}_P y cowde and recommended yn to his gode and gracious
+lordship my feloship and all the comminalte , his awne peeple and
+bedmen of the Cite of Exceter . SHILLIN,6.002.20
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+He seyde to the mayer ij. tymes " Well come , " and the iij=de=. tyme "
+Right well come Mayer , " SHILLIN,6.002.21
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and helde the mayer a grete while faste by the honde , SHILLIN,6.002.22
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and so went forth to his barge and w=t= hym grete presse , lordis and
+other , &c. and yn especiall the tresorer of the kynges housholde ,
+w=t= wham he was at right grete pryvy communicacion . SHILLIN,6.002.23
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+And therfor y , mayer , drowe me apart , SHILLIN,6.002.24
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and mette w=t= hym at his goyng yn to his barge , SHILLIN,6.002.25
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and ther toke my leve of hym , seyyng these wordis , SHILLIN,6.002.26
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+" My lord , y wolle awayte apon youre gode lordship and youre better
+leyser at another tyme . " SHILLIN,6.002.27
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+He seyde to me ayen , SHILLIN,6.002.28
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+" Mayer , y pray yow hertely that ye do so , and that ye speke w=t= the
+Chief Justyse SHILLIN,6.002.29
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and what tyme that ever he will y woll be all redy . " SHILLIN,6.002.30
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+And thus departed , &c . SHILLIN,6.002.31
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+The Soneday abowte viij. $at $te {TEXT:atte} clokke y came to Lambeth ,
+and w=t= me Dowrissh and Speere to myte and speke w=t= my seyd lord .
+SHILLIN,6.002.32
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+We mette SHILLIN,6.002.33
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and spake w=t= hym yn the ynner chamber , he at that tyme beyng right
+bysy goynge yn to his closet . SHILLIN,6.002.34
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+And w=t= right gode longage and gode chere yn godely wyse exscused hym
+that he myght not speke w=t= ous $at $te {TEXT:atte} that tyme for
+grete bysynes , SHILLIN,6.002.35
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and comaunded ous to come ayen the morun . SHILLIN,6.002.36
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+Y , mayer , prayed hym of oo a worde at that tyme and no more , y
+seyyng that y was enfourmed that he was dysplesed of my late comyng ,
+SHILLIN,6.002.37
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and yf he so were , y bysoghte hym to hire myne excuse grete .
+SHILLIN,6.002.38
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+He seyde " Nay ; " but that y was come yn right gode tyme and well come
+, SHILLIN,6.002.39
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and at his departyng yn to his closet he seide , " Mayer , wolde God ye
+hadde made a gode ende at home . " SHILLIN,6.002.40
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+And y seide , " Wolde God my lord that we so hadde , SHILLIN,6.002.41
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and God y take to recorde y have done my due dilygent part therto ,
+SHILLIN,6.002.42
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and that yn tyme y truste to God ye shall well knowe ; SHILLIN,6.002.43
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+for y have right meny thyng to enfourme yow <P_7> of yf y hadde tyme .
+" SHILLIN,7.002.44
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+He seide " Well , mayer , " SHILLIN,7.002.45
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and bade me come ayen that same dey afternone , SHILLIN,7.002.46
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and so departed , &c . SHILLIN,7.002.47
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+Y was by the Styward and meny other of the housholde full fayre y bede
+to abide $at $te {TEXT:atte} mete , SHILLIN,7.002.48
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+ne never hadde better chere of my lorde ne of the houshold then y hadde
+$at $te {TEXT:atte} tyme . SHILLIN,7.002.49
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+Netherlez y exscused me SHILLIN,7.002.50
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and wold not abide as for tyme . SHILLIN,7.002.51
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+And so went over the water to Temple to Bluet , &c . SHILLIN,7.002.52
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and so went w=t= Bluet , Dowrissh , Speere and y to the chief justice
+SHILLIN,7.002.53
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and comyned of meny thynges w=t= hym . SHILLIN,7.002.54
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+He is like as y conceve to have the grete rule yn this mater ,
+SHILLIN,7.002.55
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+for my lorde Chaunceller seide , as hit is aboveseid , that he wolde
+attende when the justyse wolde , the whiche y seide to the justyse .
+SHILLIN,7.002.56
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+The justyse seyde he wold be aredy at his callyng . SHILLIN,7.002.57
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+And as y conceve by dyvers wordes that they have comyned of a rule yn
+this mater ; SHILLIN,7.002.58
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+what ever hit be y can not wyte as yet . SHILLIN,7.002.59
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+God eve {ED:FIRST_WRITTEN_yeve} grace hit be gode , SHILLIN,7.002.60
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and so y truste to God that hit be . SHILLIN,7.002.61
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+That afternone y went ayen to Lambeth to my lord after his
+commaundement aboveseid SHILLIN,7.002.62
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and when y come thider to hym yn to his ynner chamber , there was myche
+peeple , lordes and other , my lord Tresorer , under Tresorer , the
+pryvy seel , land {COM:FOR_and?} dyvers abbottes and pryours , and meny
+strangers aleyns of other londys . SHILLIN,7.002.63
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+And then came yn the Duke of Bokyngham , SHILLIN,7.002.64
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and ther was grete bysynes at that tyme , SHILLIN,7.002.65
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+hardly alle men were bede to avoyde that chamber saaf the lordes .
+SHILLIN,7.002.66
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+Nerthelez y awayted my tyme SHILLIN,7.002.67
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and put me yn presse SHILLIN,7.002.68
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and went right to my lorde Chaunceller SHILLIN,7.002.69
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and seide , " My lorde y am come at youre commaundement ,
+SHILLIN,7.002.70
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+but y se youre grete bysynesse is suche that ye may not attende . "
+SHILLIN,7.002.71
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+He seide " Noo , by his trauthe and that y myght right well se . "
+SHILLIN,7.002.72
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+Y seide " Yee , and that y was sory and hadde pyty of his grete
+vexacion . " SHILLIN,7.002.73
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+He seide " Mayer , y moste to morun ride by tyme to the Kyng , and come
+ayen this wyke : SHILLIN,7.002.74
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+ye most awayte apon my comyng , SHILLIN,7.002.75
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and then y woll speke w=t= the justise and attende for yow , &c . "
+SHILLIN,7.002.76
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+Y seide , " My lorde , y woll do after youre commaundement , "
+SHILLIN,7.002.77
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and prayed hym of hys gode and gracyous lordship of oo worde more , yf
+he were enfourmed <P_8> by worde or by wrytyng of eny thyng that y have
+do or seyde or governed me yn eny wyse at home sithen the last terme my
+departyng fro hym other wyse then to his plesure and after his
+commaundement . SHILLIN,8.002.78
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+He seyde right hertly " Nay , " but that y hadde governed me at home yn
+the most best and godely wyse and therfor he oowde me grete thanke ,
+SHILLIN,8.002.79
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+and seide hertely that y sholde have Goddes blessyng and his therfor ,
+&c . SHILLIN,8.002.80
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+And so departed , &c . SHILLIN,8.002.81
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+Nota that Druell and Speere is beyng afore dide gode , SHILLIN,8.002.82
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_002:M4:1447:AUTOGRAPH:OTHER
+for they dide theire part yn the most best wyse . SHILLIN,8.002.83
+
+<Q_SHI_A_1447_T_JSHILLINGFORD> <L_SHILLIN_003> <A_JOHN_SHILLINGFORD>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_NAMES_UNKNOWN_1>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_8>
+
+{ED:IV._SHILLINGFORD_TO_HIS_FELLOWS._LONDON,_2_NOV._1447.}
+
+{ED:THE_OF_THIS_LETTER_PART_OF_THE_DRAFT_ARE_EXTANT;_THE_EMEND
+ED_WORDS_ARE_FILLED_IN_FROM_THE_DRAFT.}
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+<em> Worthy Sires , as yn the other letter &c. y grete yow </em> $well
+alle . Yn the whiche letter y wrote to yow that y hadde a dey to <P_9>
+appere before the lordis for <em> oure mater the Fridey next ther after
+; SHILLIN,9.003.84
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and for as moche as </em> my lord Chaunceller bade the Justyse to dyner
+ayenst that same day for <em> oure mater , seyyng that he sholde have a
+dys </em> of salt fisshe ; y hiryng this , y didde as me thoght aughte
+to be done , SHILLIN,9.003.85
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and by avys <em> of the Justise and of oure counseill , and sende </em>
+thider that day ij. stately pikerellis and ij. stately tenchis , for
+the whiche my <em> lord Chaunceller cowde right grete thank </em> ys
+and made right moche therof hardely ; SHILLIN,9.003.86
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+for hit came yn gode seson , SHILLIN,9.003.87
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+for my lordis <em> the Duke of Bokyngham , the Markis </em> of
+Southfolke and other , Bysshoppis divers dyned with my lord Chaunceller
+$that <em> dey . SHILLIN,9.003.88
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+But </em> as touchyng the laboure and spede of oure mater that day ,
+hit was by my seide lorde ajorned over yn to the <em> morun </em>
+Saterdey for these causis that a grete disputacion was be fore my lorde
+yn his chapell at Lambeth for <em> $prechyng of </em> Bysshoppis .
+SHILLIN,9.003.89
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+And the seide lordis that same Friday were there at diner .
+SHILLIN,9.003.90
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+And the Justise came not there that day ; SHILLIN,9.003.91
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+but the same Friday after mete y was with the Justise by longe tyme and
+yn gode leisure to comyne of oure mater . SHILLIN,9.003.92
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Y fynde hym a gode man and well willed yn oure right , and like to have
+the grete rule of the mater , as yn the other letter . SHILLIN,9.003.93
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+And he bade me move of some gode meene to ende the mater .
+SHILLIN,9.003.94
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Y seide ayen , savyng his commaundement , y cowde no skyll theryn ne to
+speke ne move of menys , SHILLIN,9.003.95
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+ne hit was not my part so to do ; SHILLIN,9.003.96
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+for hit wolde seme if y so didde , that y hadde doute of oure right ,
+where y have right none , SHILLIN,9.003.97
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+but we woll dwelle and abide thereapoun and go no ferther ;
+SHILLIN,9.003.98
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+but if eny man wolde move of eny meene , hit was my part to hire and so
+to reporte , &c . SHILLIN,9.003.99
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+But furthermore y seide that fro ij. thyngis w=t= oure gode will we
+wolde never departe ; that the churche and cimitere , as that they
+calle synt Stevyn is fe , is parcel of the cite and ever hath be and
+shall be ; and that we have a vyw and alle that to belongeth , and they
+right none , ne never hadde ne shall have but <P_10> ever w=t= ynne the
+jurisdiccion and under the correccion and punysshment of the cite , &c
+. SHILLIN,10.003.100
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+He seide that they claymed a viw and that they hadde used moche thyng ,
+&c . SHILLIN,10.003.101
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and he seide hit was aunsion demene . SHILLIN,10.003.102
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+And y seide nay , SHILLIN,10.003.103
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and proved hit by Domesday , SHILLIN,10.003.104
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and so were on grete argamentes by longe tyme , to longe to write :
+SHILLIN,10.003.105
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+all hit was to tempte me w=t= laghynge chere . SHILLIN,10.003.106
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Y seide they hadde no more but sympell Court Baron , if they so hadde .
+SHILLIN,10.003.107
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+He seide that every man myght have of his awne tenantis and aske no man
+no leve , &c . SHILLIN,10.003.108
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Y seide how sholde they have more ; SHILLIN,10.003.109
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+they have no olde grauntis of kynges , SHILLIN,10.003.110
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+ne clayme none allowance yn Eyere , ne instrument to do punysshement of
+that that longethe to a lete . SHILLIN,10.003.111
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+He seide hit was a fe called of olde tyme . SHILLIN,10.003.112
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Y seide yee , as suche fees as beth ther on towne , SHILLIN,10.003.113
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and reherced hym of vij. and that alle were parcell of the cite :
+SHILLIN,10.003.114
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and among other y rehersed hym of Seynt Nicholas fe .
+SHILLIN,10.003.115
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+He seide lete the Bisshoppis fe be as Seynt Nicholas fe is .
+SHILLIN,10.003.116
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Y seide , if hit pleased hym , nay , hit myght not be so ;
+SHILLIN,10.003.117
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+for Seynt Nicholas fe , y called Haroldis fe , is graunt of olde kyngis
+and confirmaciouns , &c . SHILLIN,10.003.118
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+He seide the Bisshop hadde the same . SHILLIN,10.003.119
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Y seide nay that I never knyw ne sigh , SHILLIN,10.003.120
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and if that they so hadde , lete hit be shewed SHILLIN,10.003.121
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and but hit be answered hit sholde ende the mater . SHILLIN,10.003.122
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Then he moved of divers menys and abstynance of arestis .
+SHILLIN,10.003.123
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Y seide when the last grete debate was of the suburbis w=t= oute Este
+yeate , of whiche debate he was cause of an ende by a recompense , $at
+$te {TEXT:atte} ende of whiche mater hit was desired for to have an
+abstynance , SHILLIN,10.003.124
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+but none y graunted but under this fourme , that the Maier that tyme
+beyng , and every man that hadde be Maier and like to be Maier ,
+promysed on his feith to forbere of arestis on the Churche for certyn
+ouris , alle that they myght godely , SHILLIN,10.003.125
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and sithenes hadde they no cause resonable to complaine ;
+SHILLIN,10.003.126
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and y seide this was a grete thynge as me thoght . SHILLIN,10.003.127
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+He seide nay for that that sholde be $at $tis {TEXT:attis} tyme sholde
+be do by writynge for a perpetual pees . SHILLIN,10.003.128
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Then he asked of me of this mene ; if we wolde absteyne us and forbere
+of arrestis of alle men of habite servantis familiars knawed without
+any fraude generally . SHILLIN,10.003.129
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Y seide , if hit <P_11> pleased hym , nay ; SHILLIN,11.003.130
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+for hit was better the last terme before this , that we sholde forbere
+of arrestis but yn tyme of doyng of divine servys of men of habite ,
+servantis familiars and theire Baillyffs knawed , &c. and of alle other
+as on Sent Paull is Chirche at London . SHILLIN,11.003.131
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+He seide hit was soth , SHILLIN,11.003.132
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and asked ayen if we wold forbere and absteyne and be recompensed
+therfor , SHILLIN,11.003.133
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and we to have the viw and alle that longeth therto generally , as well
+on the fe as , &c. and so to make arrestis w=t= ynne the fe , as y
+conceved hym , and to forbere alle other arrestis w=t= ynne his
+tenementis of the seide fe and to be recompensed &c. and the Bisshop to
+have his courtis of his awne tenantis and to holde plees of gretter
+somme thenne {ED:+ten_IN_DRAFT} Court Baron xl s . SHILLIN,11.003.134
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and spake of xl. marke . SHILLIN,11.003.135
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Apon this mene he stiked faste , SHILLIN,11.003.136
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and thoghte {ED:+toughte_IN_DRAFT} hit was resonable SHILLIN,11.003.137
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and ever asked of me divers tymes what y wolde seye therto , all as y
+conceve to tempte me , and to concente to a mene , &c .
+SHILLIN,11.003.138
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and then y seide " My lorde , if hit please you , ye shall have me
+exscused to answere , " &c . SHILLIN,11.003.139
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+for thogh me thoght that hit were a mene resonable y dar not sey yee ,
+thogh y have power , SHILLIN,11.003.140
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+for the mater toucheth a grete comminalte as well as me , and so that y
+dar not seye yn to tyme that y have spoke w=t= my felowship at home :
+SHILLIN,11.003.141
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and y seide , " My lorde , for as moche as y conceve right well that
+this mater , if hit ende $at $tis {TEXT:attis} tyme , hit is like to
+ende by a mene , hit is my part to hire and to reporte , &c .
+SHILLIN,11.003.142
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+but be the mene never so resonable to conclude with yow , thogh y have
+power ynogh , y beseche yow of youre gode lordship to have me exscused
+therof yn to tyme y have be at home with my felowship , or of tham here
+with me vj. or vij . SHILLIN,11.003.143
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+for other wyse woll y never conclude with my gode will , " &c .
+SHILLIN,11.003.144
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+He seide ayen , " Ye didde theron as right a wise man , "
+SHILLIN,11.003.145
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and so departyd , &c . SHILLIN,11.003.146
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+The morun Saterday y came to Westminster to kepe my day as hit is
+aboveseid . SHILLIN,11.003.147
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Y spake with my lorde Chaunceller . SHILLIN,11.003.148
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+He adjorned hit over yn to Soneday , and afterward fro Soneday yn to
+Moneday ; SHILLIN,11.003.149
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+for the Justises dyned with the Maier of London that Sonday .
+SHILLIN,11.003.150
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+The Moneday y maier , <P_12> Bluet , Hody , Dourissh , Germyn and
+Speere with me come to Lambeth to my lord , SHILLIN,12.003.151
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and ther was at that day $at $te {TEXT:atte} dyner with my lord the ij.
+chif justises , SHILLIN,12.003.152
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and so we appered before them ; and for oure party advers Kys ,
+Hengston , More , Wode and Wolston . SHILLIN,12.003.153
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+My lord hym self furst moved the mater to the Chif Justises , so that
+the Chif Justise seide the mater stondeth thus : that as to the
+compleyntis of the Bisshop Deane and Chapitre , hit is answered ,
+repplyed and rejoyned , and as moche do therynne as may be do ;
+SHILLIN,12.003.154
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and as tochynge the compleyntes of the maier and comminalte , the
+whiche them semeth grevous , beth not yet answered , and them semeth ,
+&c . My lord Chauncellor therwith sodenly went right to the justises
+bothen , SHILLIN,12.003.155
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and called to hym Nicholas Ayssheton at that tyme beynge there ,
+SHILLIN,12.003.156
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and leide theire iiij. heddis negh to gedder SHILLIN,12.003.157
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and comyned to geder right privyly a grete while , SHILLIN,12.003.158
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and alle as y conceve and as hit proved afterwardis that the answeris
+to oure articulis not to be spoke of . SHILLIN,12.003.159
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+After that my lorde toke his cheire SHILLIN,12.003.160
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and the justises sate with hym , SHILLIN,12.003.161
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and bothe parties with theire consell kneled before .
+SHILLIN,12.003.162
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+My lord asked how we last departed SHILLIN,12.003.163
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and therapoun stomped a grete while . SHILLIN,12.003.164
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+My lord asked the bokis . SHILLIN,12.003.165
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+He seide that his were on Kent is warde . SHILLIN,12.003.166
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+He asked of oure party advers theire bokis : SHILLIN,12.003.167
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+they wolde be knawe of none yn no wyse . SHILLIN,12.003.168
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+And y mayer , seide yes , with moche more therto , &c. and how my
+lordis commaundement was at London , and aggrementis at home yn the
+chaptry hous , that oure articulis sholde be answered or we proceded
+any ferder , y praynge my lorde that so , &c . SHILLIN,12.003.169
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+My lord was loth therto and the justises bothe . SHILLIN,12.003.170
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+My lorde seide furste merily of Vaspasianus . SHILLIN,12.003.171
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+And y seide that that was no mater of oure compleyntis ,
+SHILLIN,12.003.172
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+but y putte yn to prive {ED:prove_IN_DRAFT} what the cite was of olde
+tyme ; SHILLIN,12.003.173
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and then my lord seide some what strangely and sharpely that oure
+articulis many were maters of noyse and desclaunder ,
+SHILLIN,12.003.174
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and forto answers them hit wolde be cause of more <P_13> grucchynge and
+yvell wyll . SHILLIN,13.003.175
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+And y seide , " Yf eny suche be , lete tham be leide apart ,
+SHILLIN,13.003.176
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and tho that beth substancialle grete and grevous to us , and somme
+cause and begynnyng of alle this debate , lete tham be so answered : "
+SHILLIN,13.003.177
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and y reherced iij. yn especiall , oone of the Dyme , another of the
+feloun that toke the bysshoppis fe , and afterwarde of the churche ,
+and the coroners ylette , &c. and of the toure on the bisshoppis gardyn
+, &c . SHILLIN,13.003.178
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+The chif justise seyde as tochynge the articulis of bothe parties ,
+that there were maters amendis to be made to ayther party , and that
+were longe to do , and that hit myght be don as well after as before ,
+and that he hadde sey somme of oure articulis ij. in especiall , oone
+of the Deme , another of the feloun aboveseide ; SHILLIN,13.003.179
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and seide that us semed that they were grevous to us . Whereapoun my
+lord spake of the bokis to us ayen ; SHILLIN,13.003.180
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and y seide that my bokis were alle redy . SHILLIN,13.003.181
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+And my lord bade to leye ham forth ; SHILLIN,13.003.182
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and so we didde the articulis . SHILLIN,13.003.183
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+They were but litell y radde ne take kepe to . SHILLIN,13.003.184
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Thenne as touchyng the deme , Hengston seide that he wolde right well
+that the deme were payed with us , as hit aughte to be , and hath be of
+olde tyme ; SHILLIN,13.003.185
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+but we didde not so , SHILLIN,13.003.186
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+but sette hit SHILLIN,13.003.187
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and called none of the bysshoppis tenantis to us . SHILLIN,13.003.188
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Y saide nay , SHILLIN,13.003.189
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and made a longe rehersall therof fro kyng Edwardis tyme ynto this dey
+, how and under what fourme hit was don of olde tyme , how sithenes ,
+and how now , and how late they sette with ynne tham self , and kept
+the mony and yet kepeth , SHILLIN,13.003.190
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and that sholde be well y proved . SHILLIN,13.003.191
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+My lorde seide that as touchynge the settynge we were alle most
+accordyd theryn . SHILLIN,13.003.192
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Then seide Hengston lightly as touchynge settynge and kepyng of the
+mony of the deme , hit shall be sone answered ; SHILLIN,13.003.193
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+he menyng of Upton is tyme y wote right well , as y seide to yow at
+home . SHILLIN,13.003.194
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Y seyde to Hengston as lightly ayen , " As sone hit sholde be repplied
+and truly with the grace of god . " SHILLIN,13.003.195
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Then my lord asked furste of that other party if they hadde full
+auctorite and power and wolde consente to menys : SHILLIN,13.003.196
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and they seide anone with <P_14> gode wille , yee for theire part .
+SHILLIN,14.003.197
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+My lorde asked of me , Maier , if we wolde the same .
+SHILLIN,14.003.198
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Y seide as touchyng the power we hadde sufficiant and y nogh ;
+SHILLIN,14.003.199
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+as touchyng to menys , y bisoghte hym of his lordship that y myght go
+apart to comyne with my felowship and oure conseill there at that tyme
+; SHILLIN,14.003.200
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and so y didde , SHILLIN,14.003.201
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and yeaf an answere . SHILLIN,14.003.202
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Hody hadde the wordis of power as above ; SHILLIN,14.003.203
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and as touchyng the menys with this condicion that oure articulis were
+answered , that we wolde aggre to suche menys as they lordis wolde rule
+us to . SHILLIN,14.003.204
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Then hit was no more at that tyme but the articulis most be answered ;
+SHILLIN,14.003.205
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and as loth as they were to answere , and hadde no bokis as hit is
+abovesayde . Then they aggreed ham to bryng yn the answere the morun .
+SHILLIN,14.003.206
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Y seide they hadde seide dyvers tymes that they hadde olde charters ,
+evidences , and munymentis to ende the mater ; SHILLIN,14.003.207
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and y seide if they so hadde to bryng ham yn , and but they were
+answered to ende , &c . SHILLIN,14.003.208
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Hengston seide moche and strongely because y seide they hadde suche
+charters . SHILLIN,14.003.209
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Y seide yee , SHILLIN,14.003.210
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and avowed hit well they seide so . SHILLIN,14.003.211
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+He seide that they hadde olde recordis , &c . SHILLIN,14.003.212
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and y saide as above . SHILLIN,14.003.213
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Hengston honged sore to have a lete and a grete courte ,
+SHILLIN,14.003.214
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and y traversed hym ever , SHILLIN,14.003.215
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and seide to hym moche thynge , and yn especiall that they never hadde
+instrument , SHILLIN,14.003.216
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and reherced what that belongeth to a lete . SHILLIN,14.003.217
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Hengston seide but litell therto , SHILLIN,14.003.218
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+but made wyse as thogh hit were yes ; SHILLIN,14.003.219
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+but Wode seide that they hadde olde wrytinge to have hit ,
+SHILLIN,14.003.220
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and spake no more at all that tyme . SHILLIN,14.003.221
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Hengston seide openly that Radeford and he hadde communicacion at home
+of this mater , and were well negh accorded ; SHILLIN,14.003.222
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and my lord seide , " Wolde god hit hadde be so , " and yet " Wolde hit
+were so , for oure discharge . " SHILLIN,14.003.223
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Y , Mayer , seide y knywe well and was spoke to of suche a
+communicacion ; SHILLIN,14.003.224
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+but what the privyte and the menyng was y myghte not knowe ,
+SHILLIN,14.003.225
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and yf y hadde hit sholde have be never the werce but the better ;
+SHILLIN,14.003.226
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and so we departed , stondyng a <P_15> fer fro my lorde ,
+SHILLIN,15.003.227
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and he asked wyne SHILLIN,15.003.228
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and sende me his awne cuppe and to no moo . SHILLIN,15.003.229
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Y wende right to my lord ayen before them alle , SHILLIN,15.003.230
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and spake with my lorde prively a grete whiles of divers maters , and
+among other of thys blynde entrety that Hengston spake of , y seyynge
+to my lorde verily that this blynde entrety growith of my lorde of
+Excetre as y supposed . Wherfor and for as moche as Hengston seide yn
+his presence that Radeforde and he were negh accorded : y bysoghte my
+lorde , as me thoght his part was , and to ende the mater the rather to
+knowe of the communicacion , &c . SHILLIN,15.003.231
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+My lorde seide y moved hym right well and sholde have goddis blessyng
+and his , SHILLIN,15.003.232
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and seide he wolde do so , &c . SHILLIN,15.003.233
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and so we toke oure leve SHILLIN,15.003.234
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and departed fro my lord and my lordis alle . SHILLIN,15.003.235
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+My lord at this tyme didde me moche worsship , SHILLIN,15.003.236
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and openly yn the communicacion aboveseyde commended me for my gode
+rule at home , and yn especiall for the grete favo=r= that y have do to
+men of the churche , hongyng this debate ; SHILLIN,15.003.237
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and furthermore he of his awne mocion yn the communicacion aboveseid
+spake openly of the letter that he send home to the bysshop by me ,
+seiyng these wordes , SHILLIN,15.003.238
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+" Maier , apon the communicacion that y hadde with yow here y send home
+a letter by yow to my brother of Excetre , the whiche y hoped sholde
+have do moche gode and cause of spede the rather ende of the mater . "
+SHILLIN,15.003.239
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Y seide , " My lorde , that is true , SHILLIN,15.003.240
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and y have do my due diligent part therto , after youre commaundement
+by my trauthe . " SHILLIN,15.003.241
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Y seyde more to Kys these wordis , SHILLIN,15.003.242
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+" Kis , ye seide to me at home that y didde and seide moche thynge more
+there then my lorddis commaundement was , SHILLIN,15.003.243
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+sey ye here be fore my lorde what hit was ; SHILLIN,15.003.244
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and y truste to God and my lorde is gode lordship that my lord will
+avowe me on alle thyng that y didde and seide . " SHILLIN,15.003.245
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+My lorde sate stille a while , SHILLIN,15.003.246
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and Kys knelyng spake never a word , SHILLIN,15.003.247
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and thus passed over . SHILLIN,15.003.248
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Hengston among the maters abovesayd seyde moche more than is above
+writyn as touchyng the towre that stont on the bysshoppis gardyn ,
+seiyng that that towre stode upon the bisshoppis grounde , and the
+bisshop <P_16> sum tyme hadde his prison yn that towre , and that we
+repaired hit never , as is write on oure articulis : SHILLIN,16.003.249
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+$at $te {TEXT:atte} last hit was seide by their party that parcell of
+the towre stode upon the bisshoppis grounde as hit appereth openly
+there ; they menyng by a wall and kernellis stondynge withoute the
+towre and thiknys of the towne walle , toward the bisshoppis gardyn and
+annexed to the towre and towne wallis , &c . SHILLIN,16.003.250
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+The morun tuysday al Halwyn yeven y receyved the answeris to oure
+articulis at Westminster of the whiche y sende yow a true copy , yn the
+whiche articulis as hit appereth they have spatte out the uttmyst and
+worste venym that they cowde seye or thynke by me ; SHILLIN,16.003.251
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+y blessed be God hit is nother felony , ne treson , ne grete trespas ,
+SHILLIN,16.003.252
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and thogh hit hadde be , so they wolde have don , and werce yf they
+cowde : SHILLIN,16.003.253
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+but as for trawthe of the mater that tocheth me , meny worthy man
+stondeth on the same cas SHILLIN,16.003.254
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and have do moche werce than ever y didde , thogh that be to me none
+exscuse . SHILLIN,16.003.255
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+As touchyng the grete venym that they menyth of my lyvyng , y may and
+purpose be at my purge , as y may right well apon my sawle of alle
+wymmen alyve excepte oone , and of hire righte a grete while ;
+SHILLIN,16.003.256
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+therfor y take right noght by SHILLIN,16.003.257
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and sey sadly si recte vivas , &.c . SHILLIN,16.003.258
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and am right mery SHILLIN,16.003.259
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and fare right well , ever thankyng God and myn awne purse .
+SHILLIN,16.003.260
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+And y liyng on my bedde $at $te {TEXT:atte} writyng of this right yerly
+, myryly syngyng a myry song , SHILLIN,16.003.261
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and that ys this , SHILLIN,16.003.262
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Come no more at oure hous , SHILLIN,16.003.263
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+come , SHILLIN,16.003.264
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+come , SHILLIN,16.003.265
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+come . SHILLIN,16.003.266
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Y woll not dye nor for sorowe ne for anger , but be myry and fare right
+well , while y have mony ; SHILLIN,16.003.267
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+but that ys and like to be scarce with me , considerynge the bisynesse
+and coste that y have hadde : and like to have : SHILLIN,16.003.268
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and yet y hadde with me xx li . and more by my trauthe ; wherof of
+trauthe not right moche y spende yet , but like &c . SHILLIN,16.003.269
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Constre ye what ye will . SHILLIN,16.003.270
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Item , Thomas Montagew sholde sende me xj li. and odde mony as he wote
+well and can telle yowe : SHILLIN,16.003.271
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and y supposed that John Germyn sholde {ED:ORIGINALLY_wolde} have
+broght to me all most x li. all this of myne awne gode ; wherof <P_17>
+cometh to me no peny . Wherfor y sende home to yow $at $tis
+{TEXT:attis} tyme William Hampton , berer of this writyng , for this
+cause most specially that ye , how that ever ye do , sende me xx li. yn
+hast , as ye wolle the spede of youre mater and welfare of the cite , y
+not shamed but pleased $at $tis {TEXT:attis} tyme ; and that ye faill
+yn no wyse , mervaillyng moche , for as moche as y departed fro yow
+with oute eny mony of youris , that ye ne hadde sende to me sithenesse
+some mony by Germyn , Kyrton , or some other man , &c .
+SHILLIN,17.003.272
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Forthermore as tochyng the seide answeris , y pray yow that they be
+well redely avysely and distinctely over radde and the substance of
+them right well understonde , and most speciall the furste articule ,
+the whiche ys most and right harde to answere , and that oure Recorder
+have knoweliche of all thyng that y have write home yf he be here as y
+suppose $at $tis {TEXT:attis} tyme , and but yf he be , to sende home
+to hym in hast ; so that y have youre conceyt witte and entente to
+repplye to the seide answeris , and to the furste most specyally ,
+whiche is derke to my conceyte as yet ; SHILLIN,17.003.273
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+but y truste to God hit shall be right well with youre gode enformacion
+and helpe therto : to whiche entent y sende yow a rolle yn the whiche
+is conteyned copies of Domus Dey , copy of Eyris , of charters and
+other thynges that is necessary to be seye yn makyng of thes
+repplicacions . SHILLIN,17.003.274
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Y can no more $at $tis {TEXT:attis} tyme , SHILLIN,17.003.275
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+but y pray you to be not wery to over rede hire and se all the writyng
+that y have sende home to yow $at $tis {TEXT:attis} tyme ;
+SHILLIN,17.003.276
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and yf ye be , no mervaill thogh y be wery , &c . SHILLIN,17.003.277
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+and God be w=t= yow . SHILLIN,17.003.278
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+y-writen at London yn alle Sawlyn day afore day yn hast .
+SHILLIN,17.003.279
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+Item , y pray you to sende me the blak rolle whiche shall be delyvered
+to yow by Thomas Montegow , by William Hampton berer of this writyng ,
+the which is a man true ynogh as y truste and suppose and hath borwys
+for his office , SHILLIN,17.003.280
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_003:M4:1447:AUTOGRAPH:OTHER
+lete them be pryvy to , yf yow , that hit is to be do .
+SHILLIN,17.003.281
+
+<Q_SHI_A_1447_T_JSHILLINGFORD> <L_SHILLIN_004> <A_JOHN_SHILLINGFORD>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_NAMES_UNKNOWN_1>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_18>
+
+{ED:V._TO_HIS_FELLOWS._LONDON,_SAT._11_NOV._1447._DRAFT_LE TTER.}
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+I grete you well alle , doyng yow to understonde that y am at London as
+y have write to yow afore this tyme , &c . SHILLIN,18.004.282
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and as touchyng the laboure and spede of oure comyn mater sithen y
+wrote last to yow , y was at Lambeth with my lorde on Sonday next after
+alle Halwyn day SHILLIN,18.004.283
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and spake with hym at gode leisure and yn gode tyme and well disposed .
+SHILLIN,18.004.284
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+Among other thynges y asked <em> ... </em> at dey and how we sholde be
+demened to brynge yn oure repplicacions , SHILLIN,18.004.285
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+he seyde " Come the morun Monedey <em> ... </em> the love of god , "
+SHILLIN,18.004.286
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+Y seyde the tyme was to shorte , SHILLIN,18.004.287
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and prayed hym of Wendysdey ; SHILLIN,18.004.288
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+y enfourmed hym <em> of the </em> grete malice venym that they have
+spatte to me yn theire answeris as hit appereth yn a copy that y sende
+to yow of . SHILLIN,18.004.289
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+My lorde seide , " Alagge alagge , why wolde they do so ?
+SHILLIN,18.004.290
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+y woll seye right sharpely to ham therfor and y nogh , "
+SHILLIN,18.004.291
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and commaunded me to bryng the answeris to hym the morun at Westminster
+, SHILLIN,18.004.292
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and that he wolde amende hit w=t= his awne hondis , &c .
+SHILLIN,18.004.293
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and so y departed , SHILLIN,18.004.294
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and mette w=t= hym that morun yn the escheco=r= chamber ,
+SHILLIN,18.004.295
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and as sone as ever he saw me a ferre , he called me to hym
+SHILLIN,18.004.296
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and asked the seide answere , SHILLIN,18.004.297
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and he rased hit as hit plesed hym w=t= his owne handys , oure party
+advers w=t= theire counsell beyng present and yvell plesed and payde
+therwith , SHILLIN,18.004.298
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and my lorde was to tham right sadde SHILLIN,18.004.299
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+ne wolde hire ham speke no worde , SHILLIN,18.004.300
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+but spake to the chif Justyse Fortescu SHILLIN,18.004.301
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and prayed hym to be w=t= hym that morun $at $te {TEXT:atte} mete to
+comyne of oure mater , SHILLIN,18.004.302
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and yeaf no dey to that other <P_19> party ne to me to be there
+SHILLIN,19.004.303
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and so departed . SHILLIN,19.004.304
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+The morun tuysdey y came to my lorde at Westminster ayen
+SHILLIN,19.004.305
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and asked yf he wolde commaunde me eny thyng to do that dey ,
+SHILLIN,19.004.306
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+he seide yee , to be w=t= hym that after mete to comyne as hit is
+aboveseide . SHILLIN,19.004.307
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+Y seide , " My lorde oure repplicacions beth not yet alle redy ne mygh
+not be for shortenesse of tyme thogh y sholde dye therfor ,
+SHILLIN,19.004.308
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and yet y hadde waked nyghte and dey . " SHILLIN,19.004.309
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+He seide hit was right yvell y do yf hit myght otherwise have be ,
+SHILLIN,19.004.310
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and commaunded me not fealle but kepe my dey , that after mete :
+SHILLIN,19.004.311
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and so y didde and with me Dourissh and Speare , and for that other
+party Kys , Hengston , More , Wode , and Orcharde , a greet barre .
+SHILLIN,19.004.312
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+Furste my lorde asked how we departed laste . SHILLIN,19.004.313
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+Hit was seyde apoune the answerys of the Bysshop , Deane , and Chapitre
+, put yn and we to replye . SHILLIN,19.004.314
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+Y seyde , " My lorde , oure repplicacions beth not yet fully redy bot
+anon to oon and that oon almost as hit appereth here aredy to shewe . "
+SHILLIN,19.004.315
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+My lorde and the Justyse seyde no force to shewe and ryght meny resons
+why . SHILLIN,19.004.316
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+Y seyde yes , SHILLIN,19.004.317
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and made resons sympelly as y cowde ; SHILLIN,19.004.318
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+so hit was graunted that y sholde bryng ham yn , &c .
+SHILLIN,19.004.319
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+My lorde seyde that he wolde sende for the bokys that y have write to
+yow of yn Kent ys warde : SHILLIN,19.004.320
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+then he bade that other party goo a part SHILLIN,19.004.321
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and comyned w=t= my seyde felowship and me nigh by an oure ,
+SHILLIN,19.004.322
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and he was right mery SHILLIN,19.004.323
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and comyned meny dyvers maters bothe-1 of disporte and sadnesse :
+SHILLIN,19.004.324
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+furste of dysporte of Bysshop Stafford ys tyme when my lord was there ,
+SHILLIN,19.004.325
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and among other y spake to my lorde yn dysporte of the arest of S=r=
+Thomas Gogh and of Hugh Luccays $at $te {TEXT:atte} Denys place , and
+what favo=r= y had do and had no thanke and of other thyngys as come yn
+to my mynde . SHILLIN,19.004.326
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+He cowde telle us how Germyn toke the churche +te day of eleccion , &c
+. SHILLIN,19.004.327
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+Y seide <em> ... </em> therof a disporte , and that Germyn putte his
+fynger yn his ye and wepte , SHILLIN,19.004.328
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+also y t <em> ... </em> e most sadly wyse . SHILLIN,19.004.329
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+$At $te {TEXT:Atte} last fyll to mater of sadnesse , SHILLIN,19.004.330
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and they spake of Goddys hous Seynt Peter ys churche of Excetre ,
+SHILLIN,19.004.331
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and my lorde spake of his house , his halle , and the Justyse the same
+, how <P_20> loth they wolde be to make arestys theryn ,
+SHILLIN,20.004.332
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and seyde that seynt Peter ys churche was Goddis hous and his halle ,
+&c . SHILLIN,20.004.333
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and made meny resons to bryng yn abstynce of arestys .
+SHILLIN,20.004.334
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+They were answered as God wolde geve us grace . SHILLIN,20.004.335
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+Douryssh didde well his part ; SHILLIN,20.004.336
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+nerthelez all the longage bot hit were the lesse was by twene my lorde
+Chaunceller the Justyse and me . SHILLIN,20.004.337
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+My lorde Chaunceller wolde that y sholde myve of menys .
+SHILLIN,20.004.338
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+Y seyde , savyng his commaundement , that y cowde not theryn ;
+SHILLIN,20.004.339
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+hit was not my part : SHILLIN,20.004.340
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and then he hym self and the Justyse moved of menys dyvers ,
+SHILLIN,20.004.341
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and $at $te {TEXT:atte} {TEXT:the} laste my lorde moved of this mene to
+forbere arestys of alle men of habyte and theyre servantys , famylyars
+, and bailliffs , withynne the churche and cimetere at alle tymes , &c
+. SHILLIN,20.004.342
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+Douryssh acquytted hym well , SHILLIN,20.004.343
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and leyde meny myschyffys , &c . SHILLIN,20.004.344
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+Y seyde therto also as y cowde sympelly , SHILLIN,20.004.345
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and then y reherced to hym of the last accorde of the suberbys withoute
+Esteyeate and what abstynance was of courtesy y graunted at that tyme ,
+&c . SHILLIN,20.004.346
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+y conceyved that my lorde wolde move of no nyre mene SHILLIN,20.004.347
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and then y seyde to hym thus : SHILLIN,20.004.348
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+" My lorde , y beseke you of youre gode lordship to have me exscu <em>
+... </em> to move or aggre to eny mene <em> ... </em> y have speke with
+my felowship at home or they here with me . " SHILLIN,20.004.349
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+Tham thoghte y seyde reso <em> ... </em> hadde right moche longage of
+the Bysshoppis fe , and specyally of the vyw and of the Bysshoppis
+Court what court he hadde and sholde have : SHILLIN,20.004.350
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+here of was right moche longage and reson prove and contra .
+SHILLIN,20.004.351
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+Y hilde myn awne . SHILLIN,20.004.352
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+Y hadde maters y nogh , &c . SHILLIN,20.004.353
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+My seyde lordys bothe seyde that thay hadde olde recordys and evydences
+to prove their content . SHILLIN,20.004.354
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+My lord hym self spake derkely of right olde charters the whiche y as
+ever have supposed right well ; SHILLIN,20.004.355
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+so y said , " My lorde , y have hurde of suche thyngis ,
+SHILLIN,20.004.356
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+bot y sawe hit never , praying yow yf eny suche thyng be , that they
+may be shewed and seyn , and bot yf hit $may $be {TEXT:maybe} answered
+ellys so to make an ende , " &c . SHILLIN,20.004.357
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+My lorde conjoured me to make an ende of this mater SHILLIN,20.004.358
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and yf y so didde y sholde be cronycled . SHILLIN,20.004.359
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+Y seyde , " My lorde , y have don my <P_21> part as y truste to God ye
+shall knawe SHILLIN,21.004.360
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and wolle reporte as fer as y can may and thar do after youre
+commaundement . " SHILLIN,21.004.361
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+Y conjoured my lorde ayen SHILLIN,21.004.362
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and seyde these wordys , SHILLIN,21.004.363
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+" My lorde , ye beth lorde under hevyn , excepte the kyng , that the
+Cite of Excetre have most feyth hope and truste theryn ,
+SHILLIN,21.004.364
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and have fulle power to make an ende , SHILLIN,21.004.365
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+bysekyng you and as y dar requyre yow , se the ryght SHILLIN,21.004.366
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and lete hit never passe yo=r= hondes bot so to make an ende , "
+SHILLIN,21.004.367
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and made us go a part SHILLIN,21.004.368
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and called that other party . SHILLIN,21.004.369
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+They were with hym bote ryght a litell while SHILLIN,21.004.370
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and called us yn ayen , SHILLIN,21.004.371
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and bade that other go apart , SHILLIN,21.004.372
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and seyde to us that they hadde comyned wyth that other party ,
+SHILLIN,21.004.373
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and they seyn moche that they woll abyde apoun theire right , and shewe
+theire forseyde evydence to prove hit . SHILLIN,21.004.374
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+Y seyde , " My lorde , " as y have aboveseyde , &c . SHILLIN,21.004.375
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+My lorde seyde , " Mayer , ye seye right well , SHILLIN,21.004.376
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and so we woll do and precede , " SHILLIN,21.004.377
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and so we all departed sine die , &c . SHILLIN,21.004.378
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+Bot sythenys y have be w=t= my lorde dyvers tymes SHILLIN,21.004.379
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and now have a day , SHILLIN,21.004.380
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and that other party to be before my seide lordis the morun Sonedey
+apon the makyng of this letter ; they to shewe ther evydences as y
+suppose . SHILLIN,21.004.381
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+What they meneth that they woll abyde apon theire right and shew theire
+evydence constre ye . SHILLIN,21.004.382
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+Gode and gentell longage and shere y have of that other party , and
+that they will abyde the rule of the lordys , &c. and that the lordys
+purpose to make an ende , &c . SHILLIN,21.004.383
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+bote y fere therof bot the courte be so hard against us ,
+SHILLIN,21.004.384
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+therfor to speke wyth the nywe shyrf y sette hit grete wysedome so hit
+be by soche a mene as be knowe noght fro us for drede .
+SHILLIN,21.004.385
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+Certe hit be seyde that that ys the cause of the breche , &c .
+SHILLIN,21.004.386
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+for they have labored strongly SHILLIN,21.004.387
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_004:M4:1447:AUTOGRAPH:OTHER
+and sayeth nay , &c . SHILLIN,21.004.388
+
+<Q_SHI_A_1447_T_JSHILLINGFORD> <L_SHILLIN_005> <A_JOHN_SHILLINGFORD>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_NAMES_UNKNOWN_1>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_22>
+
+{ED:VI._TO_HIS_FELLOWS._LONDON_?NOV._OR_DEC._1447._DRAFT_L ETTER.}
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+Worthy siris y grete yow well alle ; doyng you to understonde as
+touchyng the laboure and spede of oure mater that Dourissh and Speere
+hadde be w=t= my lord on Soneday next before my comyng and hadde ther
+right gode chere of my lord and other SHILLIN,22.005.389
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+and right <em> ... </em> so spedde there yn the beste wyse at +t=t=
+tyme as the mater stondeth , SHILLIN,22.005.390
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+and yn especyall as tochyng the commaundement the whiche y reported at
+home , nywe bondis to be made and enseled at home to entrete yn to
+Candel masse and lenger yf +te parties myght so accorde to breve the
+mater to the lordis hondis ; SHILLIN,22.005.391
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+and that we myght not accorde therof to be remytted to the lordes and
+they so to make an ende ; of the whiche commaundement my lorde
+remembred hym right well therof as well as the Chif Justise ,
+SHILLIN,22.005.392
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+and my lord avowed me well therof SHILLIN,22.005.393
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+and was right well pleased of all my laboure at home y-reported to hym
+by Thomas Dourissh and Speere yn the beste wyse , my lorde seyng of me
+that y was never worthy to be called , that y was a godeman wyse and
+well do my part , after his commaundement $at $tis {TEXT:attis} tyme
+and shold have goddes blessyng and his , and whan that ever y come to
+be well come to hym , as the seide Dourissh and Speere reported to me ;
+SHILLIN,22.005.394
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+and also they spake to hym of a sute like to be take by +te B. D. and
+C. &c . SHILLIN,22.005.395
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+My lord answered bot litell therto at that tyme , SHILLIN,22.005.396
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+bot bade ham to awayte apoun hym that morun at Westminster
+SHILLIN,22.005.397
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+and so departed . SHILLIN,22.005.398
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+Ayenst whiche tyme the seide Dourissh and Speere right wysely ordeyned
+counsell Yong <P_23> and Beef , SHILLIN,23.005.399
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+and so came yn before my lord Chaunceller the morun Moneday ,
+SHILLIN,23.005.400
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+and nywe moved hym w=t= moche longage as tochyng the sute aboveseide .
+SHILLIN,23.005.401
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+My lorde seyde he myght not werne tham +te comyn lawe ,
+SHILLIN,23.005.402
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+bot he seide right feith fully and sadly he wolde consell ham the
+contrary SHILLIN,23.005.403
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+and commaunded to awayte apon hym and +te Chif Justise beyng togeder .
+A rule to be sette , &c . SHILLIN,23.005.404
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+And so departed SHILLIN,23.005.405
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+and stont yet . SHILLIN,23.005.406
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+Furthermore y do you to understonde y come to London on tuysdey , so
++tt y wolde have be w=t= my lord +tt same dey tymely y nogh afore mete
+; SHILLIN,23.005.407
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+bot I taried and yet tary because of +te buk horn +tt was boght or y
+went and forth before at Stoklond or y departed fro home as Germyn ,
+that never legh , tolde to me verily w=t= grete othis ; the whiche came
+not yet , me to right grete anger and discomfort by my trauthe ,
+SHILLIN,23.005.408
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+and the cause +t=t= hit was boght for myche like to be lost ;
+SHILLIN,23.005.409
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+for hit hadde be a gode mene and order after spekyng and communication
+aboveseid , the buk horn to have be presented , and y to have come
+there after , &c. and so to have sped moche the better :
+SHILLIN,23.005.410
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+but now hit is like to faille to hyndryng . SHILLIN,23.005.411
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+And so y have helpe ynogh abakward and but a litell forthward as hit at
+alle tyme proveth and appereth . SHILLIN,23.005.412
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+Y pray you specially to thanke moche t <em> ... </em> gentill Germyn
+Quasi duceret euge euge <font> Germyn </font> of his governaunce $at
+$tis {TEXT:attis} tyme , id male gaude Germyn . SHILLIN,23.005.413
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+Nothelez {ED:I_know} right well he woll ascuse hym right well by thike
+fals harlot his carioure , and the carioure yn like wyse by the seide
+Germyn , SHILLIN,23.005.414
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+and so I may say ait latro ad latronem and inter scabella duo anus
+labitur humo . SHILLIN,23.005.415
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+Cristes curse have they bothe , SHILLIN,23.005.416
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+and seye ye amen non sine merito , SHILLIN,23.005.417
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+and bot ye dar sey so , thynke so , SHILLIN,23.005.418
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+thynke so . SHILLIN,23.005.419
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_005:M4:1447:AUTOGRAPH:OTHER
+Also y charge Germyn under rule and commaundement of J. Coteler my
+lutenant , +t=t= he do that he can do , braule , bragge and brace , lye
+and swere well to , and yn especiall +t=t= +te stretes be right clene
+and specialle the litell lane yn the bak side be nethe the flessh folde
+yeate , for ther lieth many oxen hedes and bonys that they be removed
+away for the nonys ayenst my comyng as sone as y may by cokkis bonys .
+SHILLIN,23.005.420
+
+<Q_SHI_A_1447_T_JSHILLINGFORD> <L_SHILLIN_006> <A_JOHN_SHILLINGFORD>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_NAME_UNKNOWN_1>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_24>
+
+{ED:VII._TO_ONE_OF_THE_BISHOP'S_COUNSEL._14_DEC._1447._DRA FT_LETTER.}
+
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_006:M4:1447:AUTOGRAPH:OTHER
+Right worshipfull sir , y recommaunde me to yow . SHILLIN,24.006.421
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_006:M4:1447:AUTOGRAPH:OTHER
+Like yow to be remembred of the speche and communicacion +tt was late
+betwene yow and me at Westminster before my lorde Chif Justise and also
+what he seide and how that y conjured yow and ye conjured me ayen , and
+alle to the best entent to alle parties as y hope to God , trustyng
+that ye buth and woll be the same man as there , or better yf ye better
+may , and y the same after my sympell power by my trauthe : apon the
+whiche communicacion as y seide to yow that y wolde , and as ye seide
+my part was to spake with my lord Chaunceller , &c . SHILLIN,24.006.422
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_006:M4:1447:AUTOGRAPH:OTHER
+and afterward Maister Rogger Kys and y were before my two seid lordis
+to knowe of a rule and a departyng home , &c. Whas rule and
+commaundement as y conceved was this , to make and ensele nywe bondis
+yn to Candelmasse next comyng , and lenger yf the parties wolde at oure
+comyng home ; and yn the mene tyme to entrete at home to shorte the
+mater to their hondes ; and that we myght not accorde therof , they to
+make an ende , the whiche hath ever be my will and laboure y take God
+to wytnesse , and yet shall be . Wherapon y consideryng the rule and
+commaundement of the lordes and the entent of +te communicacion betwene
+yow and me abovesaide , y sende to yow at this tyme praying yow to
+considre the same , with more that hit is bot a short and a bysy tyme
+consyderyng the grete parties and maters , with the circumstance and
+grete and longe communicacion that is like to be . Wherfor y pray yow
+to prefixe place day and tyme as ye woll resonabilly , and that as sone
+as ye may godely , the rather the levere , and ye shall be all redy and
+wyth alle <P_25> thoo that longeth to be there , for oure party un
+failled ; so that noo cause of tarying $shall $be {TEXT:shallbe} founde
+yn oure party with the grace of God : praying yow the same , &c .
+SHILLIN,25.006.423
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_006:M4:1447:AUTOGRAPH:OTHER
+for ye may fully conceve +tt my felows and y wold fayne have a gode
+ende and pees , prayng you to applie yo=r= god will and favo=r= to the
+same . SHILLIN,25.006.424
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_006:M4:1447:AUTOGRAPH:OTHER
+And how hit may please you to do in +t=s= , y pray you to $sende hit me
+yn writyng SHILLIN,25.006.425
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_006:M4:1447:AUTOGRAPH:OTHER
+and alle shall be well w=t= +t=e= grace of God , whiche have yow yn
+kepyng . SHILLIN,25.006.426
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_006:M4:1447:AUTOGRAPH:OTHER
+Amen . SHILLIN,25.006.427
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_006:M4:1447:AUTOGRAPH:OTHER
+Writen at Exeter the thursday <em> next </em> after Sent Lucie .
+SHILLIN,25.006.428
+
+<Q_SHI_A_1447_T_JSHILLINGFORD> <L_SHILLIN_007> <A_JOHN_SHILLINGFORD>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_DOWRISH> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_--->
+
+<P_25>
+
+{ED:VIII._TO_DOWRISH._EXETER,_WEDNESDAY,_EVE_OF_ST._THOMAS
+_THE_APOSTLE,_DEC._20,_1447.}
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:DOWRISH:MALE:_:_:_
+LETTER:SHILLIN_007:M4:1447:AUTOGRAPH:OTHER
+Right Worshipfull ser , y recommaunde me un to yow ; doyng yow to
+understonde that as touchyng the grete maters yn debate by twene my
+lord the Bysshop of Excetre the Deane and the Chapiter ther , and the
+Maier and Comminalte of the seide Cite , the whiche maters at London
+this last term passed , by comaundement of the lordis ys put yn rule as
+hit appereth by a letter the whiche y have sende to William Hengston ,
+wherof y sende to yow a copy ; as well as of dyvers other bullis of
+supplicacions by the seide Maier and <P_26> Comminalte y putte yn be
+fore the seide lordis . The whiche copies all y pray yow avysely to
+over rede and well understonde after the commaundement and rule
+aboveseide . SHILLIN,26.007.429
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:DOWRISH:MALE:_:_:_
+LETTER:SHILLIN_007:M4:1447:AUTOGRAPH:OTHER
+And after the gode will , prayer , fourme , effecte , desire , and
+entent of the seide Maier and Comminalte comprehended yn the seide
+letter and bullis , to applie your gode will and to do your tendre and
+diligent labour to helpe to make a gode ende , SHILLIN,26.007.430
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:DOWRISH:MALE:_:_:_
+LETTER:SHILLIN_007:M4:1447:AUTOGRAPH:OTHER
+and that all my feloship and y pray yow right hertly . And yn especyall
+that ye be oon of thoo pryncipall endifferently to entrete ther ynne
+that most gode may do ther yn , and with yow Radeforde and Hengston ,
+and so that William Beef be oon with yow by your speciall meene to be
+brogh yn , for pleasur and the better to ende the mater hardly with the
+grace of God . SHILLIN,26.007.431
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:DOWRISH:MALE:_:_:_
+LETTER:SHILLIN_007:M4:1447:AUTOGRAPH:OTHER
+Ye may constre moche thyng &c. bot this aboveseide thus don ,
+SHILLIN,26.007.432
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:DOWRISH:MALE:_:_:_
+LETTER:SHILLIN_007:M4:1447:AUTOGRAPH:OTHER
+y dowte noght , bot truste to God verily to have a gode ende and pees
+with the grace of God , whiche have yow ynh is kepyng .
+SHILLIN,26.007.433
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:DOWRISH:MALE:_:_:_
+LETTER:SHILLIN_007:M4:1447:AUTOGRAPH:OTHER
+Amen . SHILLIN,26.007.434
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:DOWRISH:MALE:_:_:_
+LETTER:SHILLIN_007:M4:1447:AUTOGRAPH:OTHER
+Writen at Excetre on Wendisdey yn the vigill of Seynt Thomas the
+Apostell . SHILLIN,26.007.435
+
+<Q_SHI_A_1447_T_JSHILLINGFORD> <L_SHILLIN_008> <A_JOHN_SHILLINGFORD>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_EDMUND_LACEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_26>
+
+{ED:IX._TO_THE_BISHOP._EXETER,_24_DEC._1447._DRAFT_LETTER.
+}
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_008:M4:1447:AUTOGRAPH:OTHER
+Right Worshipfull and Reverend Fader yn God and gode lorde , y
+recommaunde me un to your right gode and gracyous lordship .
+SHILLIN,26.008.436
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_008:M4:1447:AUTOGRAPH:OTHER
+Please hit your gode and gracious lordship to have yn knowliche <P_27>
+as tochyng the grete maters yn variance betwene yo=r= right gode and
+gracious lordship the Deane and Chapiter of yo=r= Cathedrall Churche of
+the Cite of Exceter and the Maier and the Comminalte of the seide Cite
+, the which maters by yo=r= menys so labored un to the highnesse of our
+soverayn lorde the Kyng was broght yn and so by longe tyme hath honged
+and yet hongeth yn compremys be fore the lordis . The whiche {TEXT:by}
+the seide lordis this last terme as y conceyved thus ruled , and
+commaunded nywe bondis to be made and enseled to entrete yn to
+Candelmasse and lenger yf the parties myght so aggre and accorde at
+their comyng home ; and yn the mene tyme to entrete at home to shorte
+the mater to their hondis , and that we myght not accorde therof they
+to make an ende ; SHILLIN,27.008.437
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_008:M4:1447:AUTOGRAPH:OTHER
+and that by longe tyme hath be my lorde Chauncelleris commaundement as
+y knawe right well , and as hit proveth and appereth by a letter by hym
+late to yow sende , the whiche letter he this terme avowed well for myn
+excuse your conseill beyng present , and as y seid yn yo=r= presence yn
+the Chapetry hous of yo=r= Cathedrall Churche of Excetre . The whiche
+rule and commaundement the seid Maier and Comminalte fully aggreed ham
+for their part and were all redy to fulfille hit at London and so buth
+yet her at home , and shall be yn all wyse , or eny other resonable
+entrety that may be moved or stured or by yow commaunded , so hit be
+knowed to the pleasure of my seid lords aboveseid , praying yow and
+yo=r= parties and yow most specially of your gode and gracious lordship
+to yeve your gode will and applie yo=r= favo=r= to conforme to the same
+; considryng verily that we wold right fayne have a gode ende with yow
+as lawe , right , reson , and gode consience requiren , with all
+favo=r= desired resonable that by our part may be shewed or don , and
+to that is called your fe , most specially bysekyng yo=r= gode and
+gracious lordship to be amytted therto , SHILLIN,27.008.438
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_008:M4:1447:AUTOGRAPH:OTHER
+for hit was never our will to putte that yn debate ne to despute the
+right therof , SHILLIN,27.008.439
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_008:M4:1447:AUTOGRAPH:OTHER
+but as we have be forced therto by yo=r= Articulis of Complayntes and
+other actes of the same , or elles to lese our rig {ED:ht} , &c . Also
+hit was never known ne seide bot that the seide fe was a thyng by him
+self , and the seide Churche and Cimitere <P_28> another thyng by him
+self , as ye have supposed and claymed and allegged by two the furst
+divers articulis therof made yn your furst articulis of compleynts ,
+withoute that yo=r= Cathedrall Churche and Cimitere be parcell of the
+seid fe or annexed therto , as hit is and shall be well proved by
+evident writyng , witnesse , and other wyse . SHILLIN,28.008.440
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_008:M4:1447:AUTOGRAPH:OTHER
+But now late this last terme ye have supposed and leyde the seid fee
+Churche and Cimitere to be conjoyntly contrary to yo=r= furst clayme ,
+as hit openly appereth yn your furst articulis of yo=r= provys to have
+a colo=r= to the seide Churche and Cimitere by the seide fe , &c. , as
+hit is right well conceyved , SHILLIN,28.008.441
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_008:M4:1447:AUTOGRAPH:OTHER
+and therto ye have aleyed for yo=r= prove the boke of domysdey , the
+whiche is no prove , SHILLIN,28.008.442
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_008:M4:1447:AUTOGRAPH:OTHER
+and that we have SHILLIN,28.008.443
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_008:M4:1447:AUTOGRAPH:OTHER
+and shall comytte yn to the grete wysedomys of the lords abovseid .
+SHILLIN,28.008.444
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_008:M4:1447:AUTOGRAPH:OTHER
+But we truste to God , savyng yo=r= gode lordshippe , the same boke
+shall prove our entent as hit is proved and pleynly appereth yn our
+furst answer to the seide same articule of y=r= provys . The whiche
+with meny other thyngs shall be redy to be shewed before yo=r= gode
+lordships yf hit please you . SHILLIN,28.008.445
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_008:M4:1447:AUTOGRAPH:OTHER
+But what conclusion that ever ther folwe we trustyng to God to have
+yo=r= gode lordship , we woll be demened resonabilly with all favo=r=
+to the pleasur of your gode lordship as hit is aboveseid , and of the
+seid fe most specially , ever besekyng you and as we dar requyr you
+that ye woll applie yo=r= blessed favo=r= and benyvolence to the gode
+ende and appeasynge of this mater , after the will , desir , forme ,
+effecte and entente of dyvers bullis of supplicacons by us y put and to
+be put yn be fore the lordes of this mater , of the whiche bullis I
+sende to you copies by the berers of this my pore writyng , whiche
+copies please hit yo=r= gode and gracious lordship at yo=r= leysure to
+over se and fully conceyve , the rather to have a gode ende as we
+truste to God : SHILLIN,28.008.446
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_008:M4:1447:AUTOGRAPH:OTHER
+and like you to knowe that y have write to Copleston and Hengeston
+SHILLIN,28.008.447
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_008:M4:1447:AUTOGRAPH:OTHER
+and y spoke with Radeford of this maters for myn exscuse to be reported
+above be fore the lords , so that no cause of taryng shall be founde yn
+our party , but ever all redye , &c . SHILLIN,28.008.448
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_008:M4:1447:AUTOGRAPH:OTHER
+Bysekyng you of yo=r= right gode and gracious lordship , as y have my
+lord Chaunceller , to have me exscused of myn non comyng to you <P_29>
+as my dute hath be and is . SHILLIN,29.008.449
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_008:M4:1447:AUTOGRAPH:OTHER
+Considryng verily if y myght knowe <em> ... </em> lordships pleasur and
+commaundement therto , the whiche y wolde full fayne knowe
+SHILLIN,29.008.450
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_008:M4:1447:AUTOGRAPH:OTHER
+and come grete joye and comfort to alle your puple and gostly children
+of the Cite of Exceter and me most specially ; SHILLIN,29.008.451
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_008:M4:1447:AUTOGRAPH:OTHER
+and how hit may please your gode lordeship to do and commaunde us yn
+the rule and commaundement of the lords aboveseide to have yn knowliche
+by the berers of this my symple writyng at yo=r= pleasur .
+SHILLIN,29.008.452
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_008:M4:1447:AUTOGRAPH:OTHER
+Please yo=r= gode and gracious lordship to have yn rembrance that I and
+all the Comminalte of the seide Cite ben your gostly children and yo=r=
+men at yo=r= commaundement and ever shall be by Godd 's mercy , whiche
+preserve yo=r= gode and gracious lordship and yo=r= blessed faderhed yn
+his high mercy . SHILLIN,29.008.453
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_008:M4:1447:AUTOGRAPH:OTHER
+Writen at Exceter the xxiiii day of Decembre . By yo=r= awne servant
+and bedman , J. Shillyngford . SHILLIN,29.008.454
+
+<Q_SHI_A_1447_T_JSHILLINGFORD> <L_SHILLIN_009> <A_JOHN_SHILLINGFORD>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_NAME_UNKNOWN_2>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_29>
+
+{ED:X._FROM_SHILLINGFORD_TO_HIS_DEPUTY._24_DEC.,_1447.}_CO DE
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_2:MALE:_:_:_
+LETTER:SHILLIN_009:M4:1447:AUTOGRAPH:OTHER
+After the recommendacion had yn the most godely wyse , ye shall seye to
+my lord that the Maier yeveth yow yn commaundement to seye , that my
+lorde Chaunceller greteth hym well and sendeth hym the letter ,
+bysekyng hym of his gode lordship avisely to overse hit : wherapon as
+ye suppose after the entent of the letter that ye most speke myche more
+with him , also bysekyng him of his gode lordship <P_30> $at $te
+{TEXT:atte} reverence of my lorde Chaunceller to yeve leyser and
+attendence therto ; seyyng also that hit is the Maier is part to have
+come hym self with the letter and exscuse , &c. , and then how
+dangerous hit was to make eny worthy man to come to hym att tyme for
+strange chere at Clist , &c. , and that the Maier exscused hym ayenst
+my seide lorde Chaunceller to brynge the letter , &c. , and promytted
+to sende of the most worthiest as he hath , &c . SHILLIN,30.009.455
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_2:MALE:_:_:_
+LETTER:SHILLIN_009:M4:1447:AUTOGRAPH:OTHER
+Item , that ye commende my lorde Chaunceller yn the most beste and
+trusty wyse , and that hit is his commaundement and other lordes , and
+longe tyme hath be , that we sholde entrete at home , the whiche hath
+be the Maier is grete laboure the grete part of all this yere , and
+myghte noght be excepted therto , SHILLIN,30.009.456
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_2:MALE:_:_:_
+LETTER:SHILLIN_009:M4:1447:AUTOGRAPH:OTHER
+and so he hath reported before the lordes as well as the furst coming
+to hym to Clist to seke his gode lordeship and pees for his exscuse :
+SHILLIN,30.009.457
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_2:MALE:_:_:_
+LETTER:SHILLIN_009:M4:1447:AUTOGRAPH:OTHER
+and yet the Mayer and the Cite now aswell as before this tyme by
+commaundement of the lordis and by their awne gode wyll prayeth and
+desireth that the matter myght be disclosed before his gode lordship ,
+the Maier , the Recorder with other of the Cite at his pleser beyng
+present , trustyng to God verely al for the best , and myche the rather
+and the better to have a gode ende as lawe , reson , and right gode
+conscience requyren , he to fele alle the maters , and so as ye suppose
+to be his awne juge , and ende myche of the maters by his awne
+conscience , we knawing his blessednysse and gode conscience , &c .
+SHILLIN,30.009.458
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_2:MALE:_:_:_
+LETTER:SHILLIN_009:M4:1447:AUTOGRAPH:OTHER
+Forthermore , ye shall seye as for the Maier wher my seyde lorde hath
+seide , and sende hym word that he is not the man that he wend that he
+had be , the which worde is to hym right hevy , and seith that he shall
+fynde hym the same oo man and same true man as he hath be ,
+SHILLIN,30.009.459
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_2:MALE:_:_:_
+LETTER:SHILLIN_009:M4:1447:AUTOGRAPH:OTHER
+and so he trusteth to God he is take and knawe among the lordes above ;
+SHILLIN,30.009.460
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_2:MALE:_:_:_
+LETTER:SHILLIN_009:M4:1447:AUTOGRAPH:OTHER
+but thogh he and other labor for the right of the Cite w=t= true menys
+as he hath do and none otherwise as hit $shall $be {TEXT:shalbe} well
+proved , hit is no cause , &c. , SHILLIN,30.009.461
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_2:MALE:_:_:_
+LETTER:SHILLIN_009:M4:1447:AUTOGRAPH:OTHER
+they beth sworn therto as he is to the right of his benefice .
+SHILLIN,30.009.462
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_2:MALE:_:_:_
+LETTER:SHILLIN_009:M4:1447:AUTOGRAPH:OTHER
+Make ye myche of this matter and of the deme suying , and of the short
+chere at Cliste , and the gode chere that the Maier had yn his Closet ,
+bryngyng Coteler <P_31> to his gode grace , y yet praying the same yf y
+may be herde , and that ye desyre his gode leysur now , and but yf ye
+mowe now to come to hym ayen . SHILLIN,31.009.463
+
+<Q_SHI_A_1447_T_HWEBBER> <L_SHILLIN_010> <A_H_WEBBER> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_NAME_UNKNOWN_14> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_--->
+
+<P_33>
+
+{ED:XII._WEBBER,_PRIEST,_ON_BEHALF_OF_THE_BISHOP,_TO_THE_RECORDER_[?
+]._CHUDLEGH,_28_DEC._1447.}
+
+AUTHOR:H_WEBBER:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_14:MALE:_:_:_
+LETTER:SHILLIN_010:M4:1447:AUTOGRAPH:OTHER
+My right reverend trusty and singular maister , after dewe and entierly
+recommendacion with all worship and reverence , my lord the Bysshop of
+Excetre , of whas commaundement y write un to you at this tyme ,
+thanketh your kyndenesse of your gode and well conceyved letter that ye
+sende unto hym on Sonday last passed , the whiche day sone apon that he
+receyved your letter SHILLIN,33.010.464
+
+AUTHOR:H_WEBBER:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_14:MALE:_:_:_
+LETTER:SHILLIN_010:M4:1447:AUTOGRAPH:OTHER
+he receyved a long and right a diffuse letter y send to hym by the
+Mayer of Excetre remyttyng my seide lord in the same yn to a long rolle
+of supplicacions by hym made ther a fore , yn the whiche letters ye as
+yn youre by the enformacion of the seyde Mayer , and the seide Mayer as
+yn his letters conceyved , $at $te {TEXT:atte} laste terme that hit was
+appoynted by my lord of Canterbury and the two Chyf Justises , that the
+maters be twene my seide lord and the Deane and the Chapitre of his
+Churche of Excetre and the seyde Maier and the Comminalte of the said
+Cite hongyng sholde be entreted here at home yn this vacacon , with
+other larger words of the same in the Mayer 's letters comprehended .
+SHILLIN,33.010.465
+
+AUTHOR:H_WEBBER:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_14:MALE:_:_:_
+LETTER:SHILLIN_010:M4:1447:AUTOGRAPH:OTHER
+Trewly , S=r= , what the departyng and how at the laste terme was a
+fore my seid lord the Chaunceller and the seide Justises my seide lorde
+was a fore SHILLIN,33.010.466
+
+AUTHOR:H_WEBBER:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_14:MALE:_:_:_
+LETTER:SHILLIN_010:M4:1447:AUTOGRAPH:OTHER
+and is fully enfourmed therof . SHILLIN,33.010.467
+
+AUTHOR:H_WEBBER:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_14:MALE:_:_:_
+LETTER:SHILLIN_010:M4:1447:AUTOGRAPH:OTHER
+Notheles for as moche as ye fynde the seide Maier and his feloship of
+the Cite disiderable and aggreyng a communicacion to be hadde after the
+effecte that ye commyned with my seid lord sum <P_34> tyme at Excetre ,
+and yn maner so the seide Maier writeth hym self to my seid lord , with
+maters of pretens contrarye articulis and other allegauncies and
+remissions yn to meny diffuse supplicacions , seyng furdermore that he
+hath writen to John Copleston and William Hendiston for the same
+communicacion to be hadde for the gode ende and peasyng of the seide
+maters , of the whiche my seide lorde seith that hit pleaseth hym that
+a communicacion myght be hadde yn haste , SHILLIN,34.010.468
+
+AUTHOR:H_WEBBER:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_14:MALE:_:_:_
+LETTER:SHILLIN_010:M4:1447:AUTOGRAPH:OTHER
+and he woll do the seide John Copleston and William Hendeston to be at
+Excetre with other as well of the Chapitre is counseill as of his awne
+$at $te {TEXT:atte} next session of peas . So that the seide
+communicacion be no longe delaye to hyndryng of his Churche and of his
+right , SHILLIN,34.010.469
+
+AUTHOR:H_WEBBER:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_14:MALE:_:_:_
+LETTER:SHILLIN_010:M4:1447:AUTOGRAPH:OTHER
+for trewly he woll noo long delayes theron , bot to do his avail whan
+he shall se his tyme . SHILLIN,34.010.470
+
+AUTHOR:H_WEBBER:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_14:MALE:_:_:_
+LETTER:SHILLIN_010:M4:1447:AUTOGRAPH:OTHER
+And yf hit so be that ther shall be y-offered suche weyes that may be
+to the gode ende and peasying of the seide maters withoute hertyng and
+delayng of the right of his Churche , he woll applie hym self therto
+with gode will : SHILLIN,34.010.471
+
+AUTHOR:H_WEBBER:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_14:MALE:_:_:_
+LETTER:SHILLIN_010:M4:1447:AUTOGRAPH:OTHER
+and where ye wrote yn to my seide lorde that he moved to yow that
+William Hendeston and ye a certyn day limited by yow and by my seid
+lord for to commune for the gode ende to be hadde yn the seide maters ,
+and he kepte not his day , my seid lord seith that ye knowe well by
+certefyyng of right worthy men that he myght not be there at that day
+for certyn causes that they certefied yow therof resonable .
+SHILLIN,34.010.472
+
+AUTHOR:H_WEBBER:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_14:MALE:_:_:_
+LETTER:SHILLIN_010:M4:1447:AUTOGRAPH:OTHER
+Notheles sone apon he came to yow SHILLIN,34.010.473
+
+AUTHOR:H_WEBBER:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_14:MALE:_:_:_
+LETTER:SHILLIN_010:M4:1447:AUTOGRAPH:OTHER
+and ye and he communed to geder , the whiche communicacion was be case
+and litell fruite theron . SHILLIN,34.010.474
+
+AUTHOR:H_WEBBER:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_14:MALE:_:_:_
+LETTER:SHILLIN_010:M4:1447:AUTOGRAPH:OTHER
+And he seith that sith he came home from Courte he communed with yow of
+dyvers maters , SHILLIN,34.010.475
+
+AUTHOR:H_WEBBER:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_14:MALE:_:_:_
+LETTER:SHILLIN_010:M4:1447:AUTOGRAPH:OTHER
+bot ye moved noo thyng of the seide maters . SHILLIN,34.010.476
+
+AUTHOR:H_WEBBER:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_14:MALE:_:_:_
+LETTER:SHILLIN_010:M4:1447:AUTOGRAPH:OTHER
+And therfor my seide lord supposed ye wolde noo more therof .
+SHILLIN,34.010.477
+
+AUTHOR:H_WEBBER:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_14:MALE:_:_:_
+LETTER:SHILLIN_010:M4:1447:AUTOGRAPH:OTHER
+Notheles my seide lord , seyng your gode will , whiche ben of counseill
+with his Churche , wyth hym , and with the Maier of later date ,
+thanketh yow hertely of your gode letter and also the Maier for his
+godeley letters , SHILLIN,34.010.478
+
+AUTHOR:H_WEBBER:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_14:MALE:_:_:_
+LETTER:SHILLIN_010:M4:1447:AUTOGRAPH:OTHER
+and with the grace of God John a Copleston and William Hendeston and
+other , as hit is aboveseid
+{COM:IN_THE_EDITION_TWO_DOTS_ABOVE_THE_O_IN_aboveseid} , shall be a
+redy to commune with yow under the <P_35> fourme as hit is aboveseid to
+the effectuall gode ende with oute grete delay , SHILLIN,35.010.479
+
+AUTHOR:H_WEBBER:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_14:MALE:_:_:_
+LETTER:SHILLIN_010:M4:1447:AUTOGRAPH:OTHER
+for trewly y ther sey yow secretely , on grete truste that y have
+founde yn your person ever , my seid lord woll not be long delayed yn
+noowise , as y veryly conceyve by hym , SHILLIN,35.010.480
+
+AUTHOR:H_WEBBER:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_14:MALE:_:_:_
+LETTER:SHILLIN_010:M4:1447:AUTOGRAPH:OTHER
+and therfor y wolde for the reverence of God and ease of the pore puple
+and for your grete worship that ye myght be cause of the gode ende and
+peasyng of the seide maters . SHILLIN,35.010.481
+
+AUTHOR:H_WEBBER:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_14:MALE:_:_:_
+LETTER:SHILLIN_010:M4:1447:AUTOGRAPH:OTHER
+And yf y myght se that hit myght take effectuall and a spedefull ende ,
+y sey yow feithfully y shall do my part truly therto with the grace of
+God , the which have yow ever yn his gracyous kepyng ,
+SHILLIN,35.010.482
+
+AUTHOR:H_WEBBER:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_14:MALE:_:_:_
+LETTER:SHILLIN_010:M4:1447:AUTOGRAPH:OTHER
+and my seid lord praied yow that ye wolle notise his wyll aboveseid to
+the seid Maier and to such other as your worthy and appreved discrecion
+semyth best for be don . SHILLIN,35.010.483
+
+AUTHOR:H_WEBBER:MALE:_:_:_
+RECIPIENT:NAME_UNKNOWN_14:MALE:_:_:_
+LETTER:SHILLIN_010:M4:1447:AUTOGRAPH:OTHER
+Y-write at Chuddelegh the xxviii day of December . By your owne Prest ,
+H. Webber , dwellyng with the Bysshop of Excetr . SHILLIN,35.010.484
+
+<Q_SHI_A_1448_T_JSHILLINGFORD> <L_SHILLIN_011> <A_JOHN_SHILLINGFORD>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_NAMES_UNKNOWN_1>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_35>
+
+{ED:XIII._TO_HIS_FELLOWS._LONDON,_2_FEB._1447-8._DRAFT_LET TER.}
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_011:M4:1448:AUTOGRAPH:OTHER
+Right worthy siris , y grete yow well ; doyng yow to understonde that
+on Candlemasse yeve y receyved a letter y send to me by Harry Dobyn ,
+whiche letter yn my sympell conceyt y yn alle thynges have well
+understonde , SHILLIN,35.011.485
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_011:M4:1448:AUTOGRAPH:OTHER
+and y am and was before that letter fully remembred of all thynges that
+is comprehended theryn , as specially of Stokewode , as well as more of
+the entrety some tyme moved by Sir William Bonevill , and of the
+communycacion ther <P_36> upon hadde at London , and specially yn the
+Cloyster at Paulys , the right grete of the parties , with theire
+conseille , and moche other puple beyng present ; SHILLIN,36.011.486
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_011:M4:1448:AUTOGRAPH:OTHER
+what was comyned , moved , stured , desired , and by whom ; how hit was
+procured and shortly throwen of ; how hit was conceyved , reported ,
+and take there and ellis where , and what yvell wyll , waywardnys , and
+unkyndnesse was assigned , and what was promysed and what was do
+therfore , ye knowe right well , and Richard Druell specially : some
+wherof ye and y commyned therof the last hole day of my beyng at home
+at Exceter yn my parler ; SHILLIN,36.011.487
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_011:M4:1448:AUTOGRAPH:OTHER
+constre ye alle thynges what y mene . SHILLIN,36.011.488
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_011:M4:1448:AUTOGRAPH:OTHER
+What is to do furthermore y can not yet be redely avysed by conseill ,
+SHILLIN,36.011.489
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_011:M4:1448:AUTOGRAPH:OTHER
+bot y most doe as y se the mater woll be ruled , and as y can , may ,
+and dar do , eschewyng variance , breche , throwyng of , and
+yndyngnacion specially , SHILLIN,36.011.490
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_011:M4:1448:AUTOGRAPH:OTHER
+and so y shall by the grace of God , whiche have yow yn his kepyng .
+SHILLIN,36.011.491
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_011:M4:1448:AUTOGRAPH:OTHER
+Amen . SHILLIN,36.011.492
+
+<Q_SHI_A_1448_T_JSHILLINGFORD> <L_SHILLIN_012> <A_JOHN_SHILLINGFORD>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_NAMES_UNKNOWN_1>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_36>
+
+{ED:XIV._TO_HIS_FELLOWS._3_FEB._1447-8._ORIGINAL_DRAFT._TH
+E_EMENDED_WORDS_ARE_FILLED_IN_FROM_THE_DRAFT.}
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+<em> Worthy siris , y grete </em> yow well alle , doyng yow to
+understonde that the bukhorn came to me bot on Candelmasse yeven <em>
+afternone somewhat </em> better late than never , whiche bukhorn was
+presented to my lord on Candelmasse day by the <em> morun .
+SHILLIN,36.012.493
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+How hit </em> was presented y-take , and what thankys and better
+thankis y nogh therfor Harry Dobyn can telle <em> yow of some </em>
+what by mowthe . SHILLIN,36.012.494
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+That day was y <P_37> at Lambeth with my lorde at masse ,
+SHILLIN,37.012.495
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+and offered my candelle <em> to my lord is </em> blessed hond , y
+knelyng adoun offeryng my candell . SHILLIN,37.012.496
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+My lord with laghyng chere upon me seide hertely , " Graunt mercy ,
+Mayer , " &c . SHILLIN,37.012.497
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+That same day y abode there to mete by my seide lordis commaundement ;
+SHILLIN,37.012.498
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+<em> y mette </em> with my lorde $at $te {TEXT:atte} high table ende
+comyng to meteward , SHILLIN,37.012.499
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+and as sone as ever he saw me he <em> toke me </em> fast by the honde
+and thankis ynogh to : SHILLIN,37.012.500
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+y seide to my seid lorde hit was to symple a thyng considryng his
+astate to seye onys graunt mercy , SHILLIN,37.012.501
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+bot yf y hadde be at home at this faire he sholde have had better stuf
+and other thynges , &c . SHILLIN,37.012.502
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+Y went forth with hym to the myddis of the halle , he stondyng yn his
+astate ayenst the fire a grete whiles , and ij bisshoppis , the ij Chif
+Justises , and other lordis , knyghtes , and squyers , and other comyn
+puple grete multitude , the halle fulle , alle stondyng a far apart fro
+hym , y knelyng by hym , SHILLIN,37.012.503
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+and after recommendacion y moved hym of oure mater shortly as tyme
+asked , and yn especiall of the ij Chif Justises beyng there , bysekyng
+hym or their departyng to calle ham to hym for oure mater ;
+SHILLIN,37.012.504
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+he seid hertly with right $gode $will {TEXT:godewill} ,
+SHILLIN,37.012.505
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+and prayed God that ther myght be right a gode ende ;
+SHILLIN,37.012.506
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+and y thanked hym SHILLIN,37.012.507
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+and seide with his gode lordship we were almost thurgh and at an ende ,
+y seyyng also by these menys " My lord , y have herd yow seye that ye
+and the ij Chif Justises of a rule of the Churche and Cimitere were
+negh accorded . " SHILLIN,37.012.508
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+He seide hertely , " Yee for gode . " SHILLIN,37.012.509
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+Y seide , " My lord , as touchyng the fee Radford and Coplestone beth
+nigh accorded at home , whiche two accordis y knowe we buth alle most
+thurgh : " the whiche seyyng alle he toke on the best wyse and was well
+pleased therwith , SHILLIN,37.012.510
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+and so departed fro hym at that tyme . SHILLIN,37.012.511
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+Mete y doun , my lord toke his chamber , the astatis and other with hym
+. SHILLIN,37.012.512
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+Y put me yn presse and to my lorde SHILLIN,37.012.513
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+and spake with hym right a grete while , so that he called the Justises
+to hym and moved of oure mater . SHILLIN,37.012.514
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+Y wolde have seide , &c . SHILLIN,37.012.515
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+the Chif Justise toke upon hym to seye , &c . SHILLIN,37.012.516
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+and seide moche thyng for oure part , SHILLIN,37.012.517
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+and quytte hym a gode man to us . SHILLIN,37.012.518
+
+<P_38>
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+Furst he reherced how we were broght yn be fore tham by the Kynges
+commaundement , how we wolde have be dysmyssed and discharged fro tham
+, and be $at $te {TEXT:atte} comyn lawe and myght not , and how hit
+hath be labored ayenst us duryng the tyme of this entrety , so that
+ther is a Shirf y made and the contrey embraced ayenst <em> oure </em>
+entent and thus we stode at myschif , &c . SHILLIN,38.012.519
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+The other Chif Justise seide well therto also , SHILLIN,38.012.520
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+and my lord toke hit <em> welle </em> seyyng , " Hit may not be so ;
+SHILLIN,38.012.521
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+assigne ye a tyme the parties to be called , a rule to be sette , so
+that hit shold be amendyd : " SHILLIN,38.012.522
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+and so departed as for more communicacion of oure mater .
+SHILLIN,38.012.523
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+Afterward y spake with the ij=de= Chif Justise there a grete while , to
+whom oure mater myche was rawe . SHILLIN,38.012.524
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+He understode SHILLIN,38.012.525
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+and toke my seyyng and ynformacion <em> yn the moste </em> beste wise ,
+SHILLIN,38.012.526
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+and so seid therto for oure part . SHILLIN,38.012.527
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+<em> After this we toke our leve , SHILLIN,38.012.528
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+and y yn my leve takyng seyyng <em> these </em> wordis ,
+SHILLIN,38.012.529
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+" My lord , have mercy and pyty apoun that pore Cite , Jesus vidit
+civitatem et flevit super eam ; " SHILLIN,38.012.530
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+also bysekyng him to yeve me leve to sywe to his gode lordship to have
+the mater refourmed as hit is aboveseide ; SHILLIN,38.012.531
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+he seide y sholde be right welle come what tyme that ever y come ,
+SHILLIN,38.012.532
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+and so departed thens SHILLIN,38.012.533
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+and stonde this day , &c. SHILLIN,38.012.534
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+That nyght right late Harry <em> Brok </em> broght me a copy of a
+recorde whiche y sende to yow , to the whiche recorde with avys of
+conseill y thyng <em> $boldely to </em> appere forthwith this terme ,
+&c . SHILLIN,38.012.535
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+and y hope hit shall be right well as the cas stoondeth , and better
+than hit was desired and like to have be $at $te {TEXT:atte} last
+entrety at home , with the grace of God , whiche have you in his kepyng
+. SHILLIN,38.012.536
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+Writen at London the morun after Candelmasse day . By John Shillingford
+, M' of Excetre . SHILLIN,38.012.537
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+{ED:INDORSED.} After makyng of this letter y receyved a Copy of a
+writte ayenst John Hulle , as <em> $here folowyth </em> .
+SHILLIN,38.012.538
+
+<P_39>
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_012:M4:1448:AUTOGRAPH:OTHER
+{COM:LATIN_OMITTED} {ED:ADDRESSED.} To John Coteler , lutenant , Thomas
+Cook , John Germyn , Walter Pope , Richard Druell , and other , this
+letter be delyvered , &c . SHILLIN,39.012.539
+
+<Q_SHI_D_1448_T_JKEMP> <L_SHILLIN_013> <A_JOHN_KEMP> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1375?> <R_EDMUND_LACEY> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_--->
+
+<P_41>
+
+{ED:XVI._ARCHBISHOP_OF_CANTERBURY_TO_THE_BISHOP_OF_EXETER._LAMBETH,
+_16_FEB.,_1447-8,}
+
+AUTHOR:JOHN_KEMP:MALE:_:1375?:73?
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_013:M4:1448:UNKNOWN:OTHER
+Ryght Worshipfull and wyth all my herte right welbeloved Brother , I
+grete you well full hertly . SHILLIN,41.013.540
+
+AUTHOR:JOHN_KEMP:MALE:_:1375?:73?
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_013:M4:1448:UNKNOWN:OTHER
+And suppose ye be well remembrid howe that matier whiche longe tyme
+hath abiden yn travers bitwixte yow , your Brethren and myn , your
+Deane and Chapitre of yowre churche of Excetre , and the Mayer and the
+Comminalte of the same , by speciall comaundement of the Kyng was
+commytted and putte to the rule of the two chief Justises and me ,
+wheryn as God knowyth they and I have laboured long tyme , and
+specially the last term yn our effectuall wyse for the gode of pease
+and sure conclusion to growe therof , bryngyng the matier by daylie
+labour to grete ripenesse the soner therby to have concluded theryn :
+SHILLIN,41.013.541
+
+AUTHOR:JOHN_KEMP:MALE:_:1375?:73?
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_013:M4:1448:UNKNOWN:OTHER
+And for as moche as we myght not approchyng the ende of the terme
+further labour theryn , hit was comyned and desyred nywe bondis to be
+made and enselid at home by bothe parties unto Candelmasse last passed
+trustyng the matier to have be comyned and yn partie entreted at home .
+SHILLIN,41.013.542
+
+AUTHOR:JOHN_KEMP:MALE:_:1375?:73?
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_013:M4:1448:UNKNOWN:OTHER
+And as nowe we wold have preceded theryn to somme gode conclusion ;
+SHILLIN,41.013.543
+
+AUTHOR:JOHN_KEMP:MALE:_:1375?:73?
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_013:M4:1448:UNKNOWN:OTHER
+and the matier is attained at large yn the comyn lawe :
+SHILLIN,41.013.544
+
+AUTHOR:JOHN_KEMP:MALE:_:1375?:73?
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_013:M4:1448:UNKNOWN:OTHER
+We praye yow as yet that , notwithstondyng havyng consideracion the
+seide Mayer and Comminalte have att all tymes and yet ben as they seyen
+redy to obey and abide all entrety , yow like to putte the matier to
+take soner effectuall ende by entrety and yntercommunicacion than by
+rigour of the lawe . SHILLIN,41.013.545
+
+AUTHOR:JOHN_KEMP:MALE:_:1375?:73?
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_013:M4:1448:UNKNOWN:OTHER
+And yf ther be eny poynte of grete difficultee or travers , the seide
+Juges and I woll putte to owr labour to the remedy <P_42> and redresse
+therof with all our hertis and power . SHILLIN,42.013.546
+
+AUTHOR:JOHN_KEMP:MALE:_:1375?:73?
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_013:M4:1448:UNKNOWN:OTHER
+And almyghty Jhesu have yow ever yn his keeping . SHILLIN,42.013.547
+
+AUTHOR:JOHN_KEMP:MALE:_:1375?:73?
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_013:M4:1448:UNKNOWN:OTHER
+Writen at Lamehithe the xvj daye of February , SHILLIN,42.013.548
+
+AUTHOR:JOHN_KEMP:MALE:_:1375?:73?
+RECIPIENT:EDMUND_LACEY:MALE:_:_:_
+LETTER:SHILLIN_013:M4:1448:UNKNOWN:OTHER
+J. Archebysshop of Caunterbury . SHILLIN,42.013.549
+
+<Q_SHI_D_1447_T_JKEMP> <L_SHILLIN_014> <A_JOHN_KEMP> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1375?> <R_RICHARD_NUTON[?]> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_--->
+
+<P_42>
+
+{ED:XVII._THE_CHANCELLOR_TO_THE_CHIEF_JUSTICE.}
+
+AUTHOR:JOHN_KEMP:MALE:_:1375?:72?
+RECIPIENT:RICHARD_NUTON[?]:MALE:_:_:_
+LETTER:SHILLIN_014:M4:1447:UNKNOWN:OTHER
+Worshipfull and right welbeloved Frend , - Y grete yow well ,
+SHILLIN,42.014.550
+
+AUTHOR:JOHN_KEMP:MALE:_:1375?:72?
+RECIPIENT:RICHARD_NUTON[?]:MALE:_:_:_
+LETTER:SHILLIN_014:M4:1447:UNKNOWN:OTHER
+and doute not ye be well remembred of that mater whiche hath longe tyme
+abiden yn travers betwixte my Brother of Excestre the Deane and
+Chapitre and the Maier and the Comminalte of Excetre , wheryn ye for
+your part have hadde grete laboure ; SHILLIN,42.014.551
+
+AUTHOR:JOHN_KEMP:MALE:_:1375?:72?
+RECIPIENT:RICHARD_NUTON[?]:MALE:_:_:_
+LETTER:SHILLIN_014:M4:1447:UNKNOWN:OTHER
+y pray yow , considryng the mater is attainyd at large in the comyn
+lawe not likely by that mene to be ended lightly , as your wysedom
+knowyth well , yow like at this tyme yn your beyng ther to move and
+enduce my seid Brother and alle parties to putte the mater yn entrety
+at home , trustyng as me semyth fully wyth more charite and lasse coste
+the mater to take sonner ende by that mene than by processe or rigour
+of lawe withoute your dysplase . SHILLIN,42.014.552
+
+AUTHOR:JOHN_KEMP:MALE:_:1375?:72?
+RECIPIENT:RICHARD_NUTON[?]:MALE:_:_:_
+LETTER:SHILLIN_014:M4:1447:UNKNOWN:OTHER
+And almyghty Jhesu have yow yn his kepyng . SHILLIN,42.014.553
+
+AUTHOR:JOHN_KEMP:MALE:_:1375?:72?
+RECIPIENT:RICHARD_NUTON[?]:MALE:_:_:_
+LETTER:SHILLIN_014:M4:1447:UNKNOWN:OTHER
+Writen , &c . SHILLIN,42.014.554
+
+AUTHOR:JOHN_KEMP:MALE:_:1375?:72?
+RECIPIENT:RICHARD_NUTON[?]:MALE:_:_:_
+LETTER:SHILLIN_014:M4:1447:UNKNOWN:OTHER
+The bishop of Canterbury unto the lord Cheff Justice for an intrety to
+be had . SHILLIN,42.014.555
+
+<Q_SHI_A_1448_T_JSHILLINGFORD> <L_SHILLIN_015> <A_JOHN_SHILLINGFORD>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_JOHN_KEMP> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1375?>
+
+<P_50>
+
+{ED:XIX._TO_THE_CHANCELLOR._SOON_AFTER_13_MARCH,_1447-8._D
+RAFT_LETTER.}
+
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:JOHN_KEMP:MALE:_:1375?:73?
+LETTER:SHILLIN_015:M4:1448:AUTOGRAPH:OTHER
+Please hit your gode and gracious lordship to have yn your blessid
+remembraunce as touchyng the grete matiers yn debate betweene the right
+reverend fader in God and blessed man in him self and my right gode
+lord yn tyme hath be and yut throgh your gracious lordship I truste to
+God shal be , Edmond Bisshop of Exceter , the Deane and Chapitre of the
+same , and the Mayer and Cominalte yo=r= owne puple and poore bedemen
+of the seid Cite of Excetre , how hit pleased yo=r= gode and gracious
+lordshippe this same terme of Seynt Hillary to write a lettre unto my
+seid lord the Bysshop of Excetre , to have the seyd matier yn trete at
+home as hit was bi your lordship comaunded at Mighelmasse terme ,
+whiche lettre ye yeve me yn special comaundement to bere my self to my
+seid lord of Excetre ; after which comaundement I toke hit apoun me and
+so did , where , through favoure of yo=r= gode lordship , I ferid wel ,
+had gode chere , and was yn the best wise right wel come , and al thing
+comprehendid yn yo=r= lettris yn ful godely wise take , obeyed , assent
+, and agreed . SHILLIN,50.015.556
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:JOHN_KEMP:MALE:_:1375?:73?
+LETTER:SHILLIN_015:M4:1448:AUTOGRAPH:OTHER
+Radford and Copleston to be at Excetre to trete yn the matyer ;
+SHILLIN,50.015.557
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:JOHN_KEMP:MALE:_:1375?:73?
+LETTER:SHILLIN_015:M4:1448:AUTOGRAPH:OTHER
+and so thei were at tyme of assises , at whiche tyme S=r= Richard
+Neuton , chief Justise of the Comun plece , called the parties before
+him , and the seid John Copston and N. Radford , SHILLIN,50.015.558
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:JOHN_KEMP:MALE:_:1375?:73?
+LETTER:SHILLIN_015:M4:1448:AUTOGRAPH:OTHER
+and there he hardly did indifferently his true tendre and diligent
+labo=r= and parte for the gode appesyng and welfare of bothe parties yn
+the seid mater , after the effect and extent of y=e= blessid lettre fro
+your lordship to him send by me . <P_51> Whereapon day was assigned on
+Wensday next after Passion Sonday <em> ... </em> the seid Copleston and
+Radford to intrete of this mater ; at whiche day the seid Copston and
+Radford , and I the seyd Mayor , with my felowship , were at Kyrton
+before my seyd <em> ... </em> Bisshop of Excetre , my lorde of
+Devonshire at that tyme beyng present . SHILLIN,51.015.559
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:JOHN_KEMP:MALE:_:1375?:73?
+LETTER:SHILLIN_015:M4:1448:AUTOGRAPH:OTHER
+And there and at that tyme a reule was mouthid and had accordyng to the
+forme of a condicion of an obligation , whereof I have send to yo=r=
+lordship a copy yn this lettre , to whiche bothe parties at that tyme
+aggreed and assentid ham , a special communication had before with the
+seid justise by me the seyd <em> ... </em> my counseil and felowship ;
+trustying to God and to yo=r= gode lordship to have right a gode ende .
+And , yf noe , ever to resorte to your gode lordship accordant to the
+kynges comaundement , by Goddis mercy , whiche preserve yo=r= gode
+lordship in his high mercy . SHILLIN,51.015.560
+
+<Q_SHI_A_1448_T_JSHILLINGFORD> <L_SHILLIN_016> <A_JOHN_SHILLINGFORD>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_NAMES_UNKNOWN_1>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_65>
+
+{ED:XXV._SHILLINGFORD_TO_HIS_FELLOWS._[?]APRIL_1448._DRAFT_LETTE.}
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+Worthy sirs , y grete yow well alle , doyng yow to understonde that y
+was at Wyndesore to London wardis on seynt George is day , and there
+taried almost all that day , and cowde not hyre ne knowe <P_66> there
+of noo thyng comprehended yn the letter y sende home to yow by William
+Duke , ne of none other thyng , bot all ther as well as hit was wont to
+be , and as y suppose with laboure and other thyng that longeth therto
+, yf men wyll better may be . SHILLIN,66.016.561
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+The Wendisday y came to London , where was moche longage of oure comyn
+mater , and specially of this laste grete entrety at home , how hit was
+broken up , and for right litell thyng , and all yn oure defaute .
+SHILLIN,66.016.562
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+Thus hit was y seid that accorde was hadde here at home by the seide
+entrety , that the Bisshop sholde have his fee churche and cimitere
+parcell of the same , as he claymeth generally , and generall municion
+yn the churche , we to have right noght to don ne make none arestis
+withynne his fee , bot yn the cimitere to make arrestis , excepte of
+the Bysshop and his mayny , chanons , and alle men of habite ,
+SHILLIN,66.016.563
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+and for we wolde noght aggre bot to have power to arreste chanons men
+servants familiars withynne the cimitere , was only cause of brekyng up
+of the seide entrety . SHILLIN,66.016.564
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+Y of purpose mette with S=r= John Wolston , of wham y suppose growe all
+this untrue longage , SHILLIN,66.016.565
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+and asked hym , &c . SHILLIN,66.016.566
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+He seid every word , and that the accorde was suche as hit is
+aboveseide , with more that ther was writyng therof , and by what menys
+y write , by the hondis of John More , yn presence of my lord of
+Devonshire , $at $te {TEXT:atte} Blak Freris at Excetre , all redy to
+shewe ; SHILLIN,66.016.567
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+y seide if any suche writyng were knowe and proved by my seide Lorde
+and the other arbitrous , we moste nedys and with right gode will wolde
+abide hit , or any other reporte that they wolde make .
+SHILLIN,66.016.568
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+This same day Wendisday , as sone as y was come to towne ayenst mete
+tyme , my lord Chaunceller send for me yn hast . SHILLIN,66.016.569
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+Y came to hym in Lambyth , wher y founde the ii Chif Justises of purpos
+moche y suppose : of wham alle and specially of my lord y hadde right
+gode chere , never better , and right well come yn the best wise .
+SHILLIN,66.016.570
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+Y spake with my seide lord and the Justises , apart fro my Conseill , a
+grete whiles . SHILLIN,66.016.571
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+They moved me to knowe of the entrety and departyng at home .
+SHILLIN,66.016.572
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+Y prayed my lordes <P_67> to have my Conseill to seye for me .
+SHILLIN,67.016.573
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+He graunted hit to me . SHILLIN,67.016.574
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+S=r= John Wolston was yn the utter chamber , SHILLIN,67.016.575
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+and wolde come noo nyre , SHILLIN,67.016.576
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+and for as moche as Hengston was not there hit was enjorned over yn to
+the morun at Westminster , yn the Escheker Chamber , wher Hengston
+reported to my seid lord as S=r= John Wolston hath as hit is aboveseid
+, excepte of writyng . SHILLIN,67.016.577
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+Y answered and seide y knywe noght therof , nee of noo such accorde ,
+ne cowde make noo reporte , SHILLIN,67.016.578
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+and asked of hym what knowliche he hadde of that he reported .
+SHILLIN,67.016.579
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+He seide as he herde hit reported . SHILLIN,67.016.580
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+Y asked of wham . SHILLIN,67.016.581
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+He seide the comyn voys of the Cite . SHILLIN,67.016.582
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+Y seide of none bot of soche as were of theire part , and by tham self
+. SHILLIN,67.016.583
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_016:M4:1448:AUTOGRAPH:OTHER
+Y seid forthermore that y was enformed by S=r= John Walston ther beyng
+present that ther was writyng of that reporte , as hit is aboveseide .
+SHILLIN,67.016.584
+
+<Q_SHI_A_1448_T_JSHILLINGFORD> <L_SHILLIN_017> <A_JOHN_SHILLINGFORD>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_NAMES_UNKNOWN_1>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_67>
+
+{ED:XXVI._TO_HIS_FELLOWS._[?]_24_MAY,_1448._DRAFT_LETTER.}
+_@
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+Worthy siris , ryght feyne ffrendis and ffelows , y grete yow well alle
+, doyng yow to understonde that on Wendisday next after Corporis
+Christi day , as ye knowe right well , after vj $at $te {TEXT:atte}
+clokke yn the mornyng y rode oute of Exceter to London warde ;
+SHILLIN,67.017.585
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+the Saterdey next ther after at vij $at $te {TEXT:atte} clokke by the
+mornyng y came to London , and so to Westminster , SHILLIN,67.017.586
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+and ther mette with my lord Chaunceller , he beyng yn right grete
+bysyness ; SHILLIN,67.017.587
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+as sone as he sawe me seyde right hertely , " Mayer well come , "
+SHILLIN,67.017.588
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+and toke me by the honde , SHILLIN,67.017.589
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+and made me right gode chere , SHILLIN,67.017.590
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+and so departed fro hym at that tyme . SHILLIN,67.017.591
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+That day y hadde right grete bysynesse : SHILLIN,67.017.592
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+furst y went yn to the Escheco for oure mater of Exmouth ,
+SHILLIN,67.017.593
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+and there y spedde spede SHILLIN,67.017.594
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+can and may spede resonabylly well . SHILLIN,67.017.595
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+That day on Westminster halle y mette <P_68> with S=r= John Wolston ,
+and other of oure {ED:and} theire conseill , of wham alle y hadde gode
+chere , SHILLIN,68.017.596
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+and as they seide that y was right well come . SHILLIN,68.017.597
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+Afterward y spake w=t= the chif Justis S=r= John Fortescu , goyng w=t=
+hym homward , SHILLIN,68.017.598
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+and hadde with hym right muche gode longage and wordis of comfort .
+SHILLIN,68.017.599
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+After this y spake with the chif justice S=r= Richard Nuton , thankyng
+hym of his favo=r= the last terme , &c . SHILLIN,68.017.600
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+He , a full gode man , seide he wolde do for me what he myght godely .
+SHILLIN,68.017.601
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+That day y comyned w=t= oure conseill of oure maters ,
+SHILLIN,68.017.602
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+and hadde wordis of gode comfort to spede right well .
+SHILLIN,68.017.603
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+That day after none y wold have be at Lambeth w=t= my lord ,
+SHILLIN,68.017.604
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+bot y came not there because that Wolston was there that day .
+SHILLIN,68.017.605
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+The morun be tyme y came to my lord , SHILLIN,68.017.606
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+and hadde hym at right godd short leyso=r= ; to wham y recommended you
+all to hym yn the best maner that {in}_P y coude , thankyng hym of his
+gode lordship , &c. praying contynuance at this tyme specially , and to
+helpe that we myght have a gode ende by doyng after the kynges
+commaundement , SHILLIN,68.017.607
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+for elles we most to a triall , SHILLIN,68.017.608
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+and that were harde . SHILLIN,68.017.609
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+He seide , " God hit forbede , SHILLIN,68.017.610
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+then sholde ye never love , SHILLIN,68.017.611
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+and that were pyty , " SHILLIN,68.017.612
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+and he seide he woll speke with the Chif Justise Fortescu , and +ten
+another rule , &c . SHILLIN,68.017.613
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+Y thanked hym SHILLIN,68.017.614
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+and seide , " My lord , they take grete boldenesse of ij thynges , oon
+of truste of the Shirf , another apon the lawe , SHILLIN,68.017.615
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+y truste to Gode other wyse than they shall fynde hit . "
+SHILLIN,68.017.616
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+Also y seide to my lord that we hadde be yn debate by dyvers tymes ,
+almost by tyme of viij=xx= yere , and that y coude never knowe fynde ne
+rede that we ever toke a sute ayenst tham , but ever stonde yn defence
+, as a bokeler player , and smyte never , and that y hadde to seye fro
+you to hym that we were fully avysed , with leve of his gode lordeship
+, onys to smyte , takyng a sute , for we hadde meny and dyvers causis ,
+and they hadde none , bot that we wold no thyng do bote that his gode
+lordship hadde know liche of , SHILLIN,68.017.617
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+for we wold attempte hym yn no wyse . SHILLIN,68.017.618
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+He thanked SHILLIN,68.017.619
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+and seyde that he coude not blame us . SHILLIN,68.017.620
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+Y seide , " My lord , thus we most beare , serve and defende , "
+SHILLIN,68.017.621
+
+AUTHOR:JOHN_SHILLINGFORD:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_1:MALE:_:_:_
+LETTER:SHILLIN_017:M4:1448:AUTOGRAPH:OTHER
+that not with stondyng that , we woll be all redy at all tyme to obeye
+the kynges commaundement and his . SHILLIN,68.017.622

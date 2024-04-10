@@ -1,0 +1,2237 @@
+<B_PRIDEAU>
+
+<Q_PRI_A_1674_TC_HPRIDEAU> <L_PRIDEAU_001> <A_HUMPHREY_PRIDEAUX>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1648> <R_JOHN_ELLIS> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1645>
+
+<P_5>
+
+{ED:Oxford,}
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+Aug. 18th , {ED:16} 74 . PRIDEAU,5.001.1
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+I am got again to Oxford , PRIDEAU,5.001.2
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+but had such miserable bad company in my journey here , that , were it
+not that at London I had yours , it would be sufficient to make me
+repent my journey thither . PRIDEAU,5.001.3
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+I had a whore on on side and a pitifull rogue on the other ;
+PRIDEAU,5.001.4
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+and two schollars in the opposit seat violated my ears with such horrid
+, dissolute , and profane discourse , as I scarce should have thought
+the divell himselfe dared either use or teach others , were it not that
+I was soe unfortunate as to have this miserable experience thereof .
+PRIDEAU,5.001.5
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+On of them was a dull rogue , PRIDEAU,5.001.6
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+and only sordidly affected debauchery to be thought brave ,
+PRIDEAU,5.001.7
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+and by his discourse only seemed to arrive to the beastly part thereof
+, PRIDEAU,5.001.8
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+and appeared through his industry and continuall excercise to be , in
+spight of plegme , soe miserably versed therein that I believe he
+equalleth any whose affections better spirits doe more violently
+incline thereto . PRIDEAU,5.001.9
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+His name is Fincher , son to on Major Fincher , who liveth not far from
+this place , PRIDEAU,5.001.10
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+and pretendeth to a great deal of sanctifyed piety , PRIDEAU,5.001.11
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+but hath given very bad demonstration thereof in the education of his
+son . PRIDEAU,5.001.12
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+The other seemed to be a lad of very ingenious parts , much younger
+then the <P_6> other , and I believe his pupil ; PRIDEAU,6.001.13
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+but having better abilitys hath gon infinitely beyond him ,
+PRIDEAU,6.001.14
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+and in his discourse expressed such a violent affection to vice that he
+seemed to me to be mad therewith and in a frenzy all the while I was
+with him . PRIDEAU,6.001.15
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+His name is Daniel , and son to on Col=l= Daniel of Lancashire , a
+gentleman of good account and wealth in those parts , by whome he was
+sent to the University about last Christmas ; PRIDEAU,6.001.16
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+but his designes beeing after another sort of education , he hath not
+yet put on a gownd , that he may not be obstructed therein by the
+disciplin of the University ; PRIDEAU,6.001.17
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+and truely I thinke he hath imployed his time soe well as not to remain
+ignorant of anything that his own vile nature can incline him to or the
+divil teach him . PRIDEAU,6.001.18
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+It greived me to thinke soe dissolute a person was to be planted in a
+papist county , to give scandall to the religion by which he is named ,
+and make the adversarys thereof rejoice ; PRIDEAU,6.001.19
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+but , considering his course of live , I thinke I may without much
+uncertainty expect , and without uncharity hope , he may never live to
+it . PRIDEAU,6.001.20
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+This ill company made me very malancholy all the way . PRIDEAU,6.001.21
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+Only once I could not but heartyly laugh to see Fincher be sturdyly
+belaboured by five or six carmen with whips and prong-staves for
+provokeing them with some of his extravagant froliques .
+PRIDEAU,6.001.22
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+I must beg your pardon for beeing soe impertinently tedious in this
+relation . PRIDEAU,6.001.23
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+These two gentlemen beeing persons of quality and heirs to considerable
+estates , I thought fit to give you this account , that , if hereafter
+by chance you have anything to doe with them , you may from hence learn
+what kind of men they are . PRIDEAU,6.001.24
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+As soon as I came here , I went to All Souls to inquire of Dr. Bourcher
+concerneing your businesse , PRIDEAU,6.001.25
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+but found him not there , he beeing absent from the University and not
+expected here till October . PRIDEAU,6.001.26
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+On Sunday morneing I went to hear on Bayly of Maudlins preach , who is
+esteemed the mightiest man amongst his own , but made a very <P_7>
+sorry peece , and was guilty therein of severall absurd blunders ;
+PRIDEAU,7.001.27
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+for he proved the frailty of man 's nature in that by the weekly bills
+it appeared more always dyed then were born , as if all those that dyed
+were not born but dropt from the skys , to be mortall here , and afford
+him an argument that wanted better sense . PRIDEAU,7.001.28
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+He repeated a long sentence out of Tully to prove the same thing ,
+which he sayd he learnt from the Academy or Porch , as if the Academiks
+and Stoiks were the same , or Tully ever inclined to the later .
+PRIDEAU,7.001.29
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+If he had ever read his oration " pro Murena , " he might sufficiently
+from thence be informed what opinion Tully had of that extravagant sect
+. PRIDEAU,7.001.30
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+Severall others I omit to tell you , because I will have rome enough to
+write those your tutor Woodruffe was guilty of in a sermon preached the
+same day at the funerall of Alderman Harris , whom he observed to have
+been buryed in the sheet that was given him at his christneing , after
+haveing kept it eighty years ; and thereon gave advice to every on to
+give their godsons such giftes as might put them in mind of their
+mortality . PRIDEAU,7.001.31
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+He likewise observed that he catchd a cold by lyeing on the ground
+thirty years agoe in the King 's service ; that the last time he
+received the Sacrament was on his birthday ; that beeing a taylor he
+got his estate by his honest imployment , which is an epithet which I
+thinke doth not belong to that trade . PRIDEAU,7.001.32
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+He contradicted the Psalmist for sayeing that man 's life is but
+threescore and ten , Alderman Harris liveing eighty years .
+PRIDEAU,7.001.33
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+Some of the choicest things I $can $not {TEXT:cannot} tell you , not
+<P_8> beeing his auditor ; PRIDEAU,8.001.34
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+and those that were refuse to give as good an account as I would have ,
+out of a consciousnesse perchance that they themselves $can $not
+{TEXT:cannot} make better . PRIDEAU,8.001.35
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+This same sermon , as far as it was applicable , was formerly preached
+on the Duke 's coachman . PRIDEAU,8.001.36
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+Squib hath succeeded in his contest for his living and carryed it from
+his antagonist . PRIDEAU,8.001.37
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+The Bishop of Winchester hath suspended Byfeild , of Magdelen Coll. ,
+for sayeing that the Bishop did more hurt then good by his visiteing
+their colledge ; which hath appeared very true , haveing only spent the
+colledges money without doeing them any good those two times he hath
+been with them , not at the least endeavoureing to compose their
+difference and remove faction from among them , by which they are
+almost undon . PRIDEAU,8.001.38
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+If the old man had not lost his prudence , he would not have been so
+passionate a judge in his own case . PRIDEAU,8.001.39
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+At New Colledge he pretended to take great care for the prevention of
+resignations , PRIDEAU,8.001.40
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+but unluckyly , while his commissioners were there , a fellow cometh to
+the colledge with a letter from the Bishop himselfe for a fellowship by
+resignation , which he procured for ginnys from on Bigs , which hath by
+the same Bishop been admitted into orders , and instituted and inducted
+into a liveing of per an , not beeing yet graduate or exceeding the 21
+year of his age . PRIDEAU,8.001.41
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+Peers is very angry that he is not mentioned <P_9> in the Preface to
+the Antiquitys , PRIDEAU,9.001.42
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_001:E3:1674:AUTOGRAPH:FRIEND
+and hath , to give the worlde an account , printed a paper to inform us
+of his worke and how much he did of it . PRIDEAU,9.001.43
+
+<Q_PRI_A_1674_TC_HPRIDEAU> <L_PRIDEAU_002> <A_HUMPHREY_PRIDEAUX>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1648> <R_JOHN_ELLIS> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1645>
+
+<P_21>
+
+{ED:Oxford,}
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+Sep. 27th , {ED:1674} . PRIDEAU,21.002.44
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+This beeing now the criticall time in which you are to expect your doom
+, I long to hear how you have succeeded , that I may rejoice with you
+if you have got any advantage by Williamson 's <P_22> preferment , or
+share with you in greiveing for your ill fortune if you still remain as
+you were . PRIDEAU,22.002.45
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+Al the information I could possibly get concerneing D=rs= Commons I
+have already sent you , which I hope hath come safe to your hands ,
+although in your last letter you mentioned nothing thereof .
+PRIDEAU,22.002.46
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+I am now groaneing under the oppression of two or three heavy burdens
+which Mr. Dean hath layed upon me . PRIDEAU,22.002.47
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+After what rate I shall rid my hands of them I know not .
+PRIDEAU,22.002.48
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+John of Antioch , of which I formerly wrot unto you , is got into my
+hands to be prepared for the presse . PRIDEAU,22.002.49
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+Whatever I wrot to you of him formerly , I now sufficiently know him to
+be a horrid musty foolish booke , and many degrees below the worst of
+authors that I ever yet met with . PRIDEAU,22.002.50
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+I wish I were rid of him ; PRIDEAU,22.002.51
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+and , if my opinion were to be harkned to , instead of goeing to the
+presse , he should be condemned back again to the rubbish from whence
+he was taken , and there ly till moths and rats have rid the world of
+such horrid and insufferable nonsense . PRIDEAU,22.002.52
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+However I promise myselfe this happynesse from it , if you come hither
+this winter , to have your good company at a fire to be furnished from
+hence with subjects sufficient to make you laugh heartyly whensoever
+you are disposed thereto ; PRIDEAU,22.002.53
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+for I assure you he is a pleasant rogue PRIDEAU,22.002.54
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+and tells his lys not after an ordinary manner . PRIDEAU,22.002.55
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+But concerneing the marbles it is not agreed what shall be don .
+PRIDEAU,22.002.56
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+That which is y=e= best we have is the Parian Cronicle , a marble which
+containeth an epitome of all the Greeke cronology till the time of
+Alexander . PRIDEAU,22.002.57
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+My designe is , if they would approve thereof , to doe something
+thereon which should be profitable and usefull to the understandeing
+the Greeke historys ; PRIDEAU,22.002.58
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+for I propose to make first a table of all the Greeke cronology , to
+which I will likewise annex all necessary syncronismes , beginning it
+from the very first plantation of that country and endeing it in the
+end of y=e= Greeke Empire at the battle of Actium , which I will call "
+Cronologia Graeca ad epochas marmoris conformata , " and endeavour to
+<P_23> make it the most methodicall and correct of any that have been
+yet set forth . PRIDEAU,23.002.59
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+To it I will annex notes , in which I will determin all cronologicall
+controversys which have been ever moved in the Greeke history , and
+explain whatsoever else may be necessary to the understandeing of the
+antiquitys , customs , and historys of the Grecians , and call them "
+Notae ad Tabulum Cronologicam in quibus continetur quicquid
+Philologicum quicquid Cronologicum ad intelligendos Graecos Authores
+videatur necessarium . " PRIDEAU,23.002.60
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+You have here a full account of my designe ; PRIDEAU,23.002.61
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+I desire your judgement of it in your next . PRIDEAU,23.002.62
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+It is not approved of by Mr. Dean , because he thinketh the worke will
+require more time then he is willing to allow me ; he beeing desirous
+that his booke should be out speedyly , whereas my worke would at least
+require a whole year to make it full and compleat , as I designe it
+shall be , if it ever come forth . PRIDEAU,23.002.63
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+I confesse I am $forced to bestow my labour hereon , PRIDEAU,23.002.64
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+and am resolved again to move it to Mr. Dean , if I am encouraged by
+your good opinion and approbation hereof . PRIDEAU,23.002.65
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+I have likewise , besides this which is imposed on me by my superiors ,
+another designe of myne own goeing on , which would er this be in a
+good measure finished , had {ED:not} those other businesses come in to
+interrupt it . PRIDEAU,23.002.66
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+Of this I will talke with you when we next meet . PRIDEAU,23.002.67
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+Our town affordeth nothing worth informeing you ; PRIDEAU,23.002.68
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+only Woodruffe dayly exposeth himselfe to contempt by his ridiculous
+actions . PRIDEAU,23.002.69
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+Last night he had Madam Walcup at his lodgeings , PRIDEAU,23.002.70
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+and stood with her in a great window next the quadrangle , where he was
+seen by Mr. Dean himselfe and almost all the house toyeing with her
+most ridiculously , and fanneing himselfe with her fan for almost all
+the after noon . PRIDEAU,23.002.71
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+A little before , he put the D=rs= men out of commons for haveing the
+victualls on their table before he came in . PRIDEAU,23.002.72
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+It is a custom $observed by the servants , that if the canons come not
+before an half hour past 6 to take their victualls and fall to .
+PRIDEAU,23.002.73
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+Wodruffe comeing in at the third quarter and findeing the meat on their
+table , raged most furiously , which not beeing tuched by the <P_24>
+servants was carryed back again to the canons' table for Woodruffe to
+eat thereof if he had pleased ; PRIDEAU,24.002.74
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+but he , beeing exceeding offended at their insolence , as he calld it
+, in bringeing victualls to his table which had been defiled by haveing
+been on theirs , commanded his man to carry it to the prisoners , at
+which the rest of the canons were exceedingly angry , and sufficiently
+rebuked him for it the next day , and commanded their men not to let
+their victualls goe soe patiently another time ; by which they have
+been encouraged since to affront {ED:him} to his face , and he forced
+to take it patiently . PRIDEAU,24.002.75
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+Dic Pierce telleth me Busby hath his booke , and promised Crispion to
+send him three ginnys for it . PRIDEAU,24.002.76
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+He is now on a very ridiculous designe , in which , if he proceedeth ,
+he will get as little credit thereby as he did by his musty ballads he
+formerly set forth . PRIDEAU,24.002.77
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+Some seaman 's journall of the Streights of Magelan hath fallen into
+his hands , which he is furiously about to print , and intendeth to
+prefix a map ; PRIDEAU,24.002.78
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+but I have demonstrated to him the folly of his designe , and how much
+it is beneath a scoller to deal in tarpauleings writings , as likewise
+his own inabilitys of doeing therein that which will signify any thing
+, businesse of that nature not beeing to be don by speculation , but
+the experience of those which have been versed in sea affairs .
+PRIDEAU,24.002.79
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+Besides , the terms of forelands , rifs , and others such sea terms may
+be well supposed not to be understood by on which was never any thing
+else but an Oxford schollar ; PRIDEAU,24.002.80
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+beside , I showed him the description of Captain Narborow , put out but
+last year , of the <P_25> same place , in a fuller and better manner
+then we can expect from Dic . PRIDEAU,25.002.81
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+But , however , the conceat that he shall get mony by this foolish
+designe prevaileth more then anything I can say against it .
+PRIDEAU,25.002.82
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+Beside , the fool would willingly be in print , that in the preface of
+something he might let the wordl {ED:SIC} know that it was he that
+translated Woodses booke . PRIDEAU,25.002.83
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+I desire you to inform me whether I shall still direct my letters to
+the Paper Office , or reather at the Secretarys Office .
+PRIDEAU,25.002.84
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+I hope speedyly to hear from you . PRIDEAU,25.002.85
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+{ED:P.S.} We have had here news of the finisheing of the Royall
+Cittadal . PRIDEAU,25.002.86
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:26
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:29
+LETTER:PRIDEAU_002:E3:1674:AUTOGRAPH:FRIEND
+I desire you in your next to inform me what it meaneth .
+PRIDEAU,25.002.87
+
+<Q_PRI_A_1675_TC_HPRIDEAU> <L_PRIDEAU_003> <A_HUMPHREY_PRIDEAUX>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1648> <R_JOHN_ELLIS> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1645>
+
+<P_37>
+
+{ED:Oxford,}
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+March , {ED:1675} . PRIDEAU,37.003.88
+
+{ED:...}
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+We have got another booke of Dr. Willises in the presse , beside which
+nothing is to be expected from us that is worth the publicke vew , Mr.
+Dean at present dealeing in most vile small businesses .
+PRIDEAU,37.003.89
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+I must confesse most of his designes are shallow , and I am sure will
+conduce very little to the advancement of learneing and knowledge .
+PRIDEAU,37.003.90
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+We have scarce as yet set forth any booke of <P_38> worth ,
+PRIDEAU,38.003.91
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+neither can I perswade Mr. Dean to attempt any , his answare to all my
+proposals beeing , it will not sell . PRIDEAU,38.003.92
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+A Bible hath lately come forth from us ; PRIDEAU,38.003.93
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+if you hear anything of it pray inform us . PRIDEAU,38.003.94
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+I must confesse , since Mr. Dean hath taken the liberty of inventeing a
+new way of spelleing and useing it therein , which I thinke will
+confound and alter the analogy of the English tongue , y=t= I doe not
+at all approve thereof ; PRIDEAU,38.003.95
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+and I could hartyly wish that he would be a looser by the experiment ,
+that we may have noe more of it . PRIDEAU,38.003.96
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+Our prophecy and the effects thereof hath occasioned a great deal of
+bussel in town ; PRIDEAU,38.003.97
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+but your friend Dic Peirce hath got the worst , beeing baffled by the
+townsmen in his contention with them , since the Vice-Chancelour though
+{ED:t} not fit to joyne with him in his zeal against them , but , on
+the contrary , dismist his prisoners without suffereing them to pay
+their fees , and checked the yong man for his over hasty , and in his
+opinion imprudent , act in committing them . PRIDEAU,38.003.98
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+Beside , the townsmen , haveing got information that after he had
+finished his preamble he spent the residue of the night in the tavern ,
+have endeavoured to be revenged on him by spreadeing this story to his
+disgrace . PRIDEAU,38.003.99
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+Here is like to be a great contention between the Hales and St. Johns
+Colledge about the next years proctorship . PRIDEAU,38.003.100
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+The statutes , whensoever the Colledges do not present a man capable
+before the time prefixed , that is before six a clock the first
+Wednesday in Lent , give the election of the proctor that year to the
+Hals . PRIDEAU,38.003.101
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+St. John presented on Waple , who is not full four years standeing
+master , which is a standeing the statutes require to make a man
+capable of that office . PRIDEAU,38.003.102
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+The Hales therefore , claimeing the election as devolved on them by the
+default of St. Johns in not chuseing a statuteable man , hath choosen
+another man , PRIDEAU,38.003.103
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+and , as they say <P_39> <paren> since the rest of the University
+utterly disapprove of their pretentions and are resolved not to allow
+them , if they are made judges of the controversy </paren> , are
+resolved , in order to the establishing of him in the office , to
+petition the King that they may not be deprived of the right which they
+think the statutes give them ; PRIDEAU,39.003.104
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+but Waple beeing four years standeing in terms , the whole controversy
+is What is an academicall year ? whither it consist of quatuor terminos
+et quatuor vacationes or only of 4 terminos ; PRIDEAU,39.003.105
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+and this they say the King , as beeing the supreme interpreter of our
+statutes , must determine to decide the controversy .
+PRIDEAU,39.003.106
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+I have a letter here lately sent from Samaria by the residue of the
+Samaritans there , wherein they give a fuller account of their religion
+, customs , and manner of liveing , then hath as yet been known in
+Europe . PRIDEAU,39.003.107
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+It was write in Samaritan , from which I have it translated into Latin
+, PRIDEAU,39.003.108
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+and esteem it a great rarity ; PRIDEAU,39.003.109
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+and , if you doe so too , I shall take care to have it transcribed for
+you , PRIDEAU,39.003.110
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:27
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:30
+LETTER:PRIDEAU_003:E3:1675:AUTOGRAPH:FRIEND
+and will annext the history how it came here . PRIDEAU,39.003.111
+
+<Q_PRI_A_1676_TC_HPRIDEAU> <L_PRIDEAU_004> <A_HUMPHREY_PRIDEAUX>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1648> <R_JOHN_ELLIS> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1645>
+
+<P_51>
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+Ox {ED:ford} , PRIDEAU,51.004.112
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+Sept. 18th , {ED:1676} . PRIDEAU,51.004.113
+
+{ED:...}
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+I have little news worth sendeing you from this place .
+PRIDEAU,51.004.114
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+We busy ourselfes still at the presse , PRIDEAU,51.004.115
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+but the London printars are soe industrious to obstruct the sale of our
+bookes , that I beleive they must of necessity breake us .
+PRIDEAU,51.004.116
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+We have since my last put Jamblicus his workes into the presse , beeing
+prepared thereto by D=r= Gale , schoolmaster of Paul 's School .
+PRIDEAU,51.004.117
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+To contrive the sale of our bookes we have set forth a proposal for
+subscriptions , wherein we desire not paying any more before hand but
+only the engageing of promise to buy such bookes as they like when
+printed . PRIDEAU,51.004.118
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+I would put on of those proposals into this letter , but y=t= I
+remember it is to goe a great way and therefore will be chargeable unto
+you . PRIDEAU,51.004.119
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+Our bishop is likewise setteing forth another edition of Clements
+Epistle to the Corinthians . PRIDEAU,51.004.120
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+If you ever come hither again , you will find S=t= Marys quite
+transmografyed ; PRIDEAU,51.004.121
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+the old men , who are always against innovation or alterations let it
+be ever soe much for the better , exceedingly exclaim against it ;
+PRIDEAU,51.004.122
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+how it will be for my part I $can $not {TEXT:cannot} tell till I see it
+finished . PRIDEAU,51.004.123
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+Glocester Hal is like to be <P_52> demolished , the charge of Chimny
+money beeing soe great that Byram Eaton will scarce live there any
+longer . PRIDEAU,52.004.124
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+There hath been noe schollers there these three or four years ; for all
+which time the hal beeing in arrears for this tax the collectors have
+at last fallen upon the principal , who , beeing by the Act lyable to
+the payment , hath made great complaints about the town and created us
+very good sport ; PRIDEAU,52.004.125
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+but the old fool hath been forced to pay the money , which hath
+amounted to a considerable sum . PRIDEAU,52.004.126
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+We are now brought to great extremity concerning the election of a new
+Vice-Chancelour , we not knoweing whom to lay that office upon .
+PRIDEAU,52.004.127
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+D=r= Ironside was first designed , PRIDEAU,52.004.128
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+but , he haveing excused himselfe on the account of his wont wherewith
+to support the dignity , it was put on D=r= Clark , head of Magd. Col.
+, who hath likewise , pretendeing sicknesse , excused himselfe ; soe
+that it must on year more be conferred on D=r= Bathurst , who seemeth
+willing enough to accept thereof , hopeing y=t= it will at last get him
+a bishoprick , as it did his predecessor Mews . PRIDEAU,52.004.129
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+At All Souls there is great convaseing against the ensueing election ,
+there beeing four dead places this year , the last whereof was void by
+the death of Mr. Car , formerly proctor , a known boon blade of our
+town . PRIDEAU,52.004.130
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+Mr. Luzanzy , of whom the bussle <P_53> was last Session of Parliament
+, liveth still with us , PRIDEAU,53.004.131
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+and as far as I can judge he is a very prudent sober man and a good
+schollar , but exceedingly hated by the French Protestants at London as
+well as by the Papists . PRIDEAU,53.004.132
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+The former have printed pamphlets against him , wherein they horriblely
+asperse him . PRIDEAU,53.004.133
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+If he be an hypocrite , he is an exceeding cunning on , haveing for all
+the time he hath been here , which hath been for three-quarters of an
+year , soe behaved himselfe as not to give the least occasion for any
+on to suspect his reality or soundness of manners and integrity of life
+. PRIDEAU,53.004.134
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+Your tutor is like to be marryed speedyly to S=r= Blewet Stonehouses
+sister , with whom they say he is to have two thousand pounds .
+PRIDEAU,53.004.135
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+He is very troublesom here , especially to me . PRIDEAU,53.004.136
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+The Lord Chancelour haveing desired me to take his son into my tuition
+, Woodruff continually interposeth , PRIDEAU,53.004.137
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+and thereby creates me soe much trouble and the yong lad soe much losse
+of time , that I se I must of necessity quarrel with him , unlesse his
+marriage findeth him other businesse . PRIDEAU,53.004.138
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+Publick news I will not trouble you with , since you $can $not
+{TEXT:cannot} but have much better intelligence thereof in the Ld.
+Ambassadors house then any I can give him . PRIDEAU,53.004.139
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_004:E3:1676:AUTOGRAPH:FRIEND
+Pray present my service to M=r= Morice , M=r= Morley , and as many as I
+know y=t= are with you . PRIDEAU,53.004.140
+
+<Q_PRI_A_1676_TC_HPRIDEAU> <L_PRIDEAU_005> <A_HUMPHREY_PRIDEAUX>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1648> <R_JOHN_ELLIS> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1645>
+
+<P_53>
+
+{ED:Oxford,}
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+Oct. 31 , {ED:16} 76 . PRIDEAU,53.005.141
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+I have yours , PRIDEAU,53.005.142
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+and humbly thanke you for the trouble you have been pleased to take on
+yourselfe in sendeing to Amsterdam for <P_54> those bookes I writ you
+for . PRIDEAU,54.005.143
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+The Misna of Caph Nachad edition I would willingly have , as likewise
+Juchasin . PRIDEAU,54.005.144
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+If these 2 come to above 16 or 18 shillings they are dear ;
+PRIDEAU,54.005.145
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+however I would willingly have them , although the price be greater ;
+PRIDEAU,54.005.146
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+but , as for the other , I now care not for them , we haveing got a
+very good collection of Hebrews bookes in our library , where I can be
+furnished . PRIDEAU,54.005.147
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+We bought them from the public library , out of which all duplicates
+were lately sould to make more rome for other bookes .
+PRIDEAU,54.005.148
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+The Archbishop of Canterbury beeing like to dy , we talk much here as
+if S=r= Lionel Jinkings were to goe into orders and succeed him .
+PRIDEAU,54.005.149
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+If soe , I shall be glad of it on no other account then for your sake ,
+this beeing a designe layed by the Yorkish faction , who thinke S=r=
+Lionel a complying man and therefore judge him the fittest for their
+turn . PRIDEAU,54.005.150
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+Your tutor D=r= Woodruffe is this week to be marryed to on of S=r=
+Blewet Stonehouses sisters ; PRIDEAU,54.005.151
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+they talk y=t= she is worth ; PRIDEAU,54.005.152
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+if soe , I scarce think she would marry on with nothing , especially
+beeing guided in this businesse by her father-in-law Lental and her
+mother , who are both to cunning to be cheated <P_55> by Woodruffe .
+PRIDEAU,55.005.153
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+I suppose may be promised , PRIDEAU,55.005.154
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+but Woodruffe must get it where it can . PRIDEAU,55.005.155
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+Your old friend Peirce gets mony apace ; PRIDEAU,55.005.156
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+he made above $=l= {TEXT:200=l=} of his place last year .
+PRIDEAU,55.005.157
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+At Christmas he goeth out . PRIDEAU,55.005.158
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+Christ Church is now altogether becom a stranger to you , we beeing al
+almost your juniors . PRIDEAU,55.005.159
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+Cremer and Keeling , if you know them , are lately cut of from us by
+marriage , and the later since by death . PRIDEAU,55.005.160
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+Cremer hath marryed very wel , haveing above $=l= {TEXT:2000=l=} with
+his wife . PRIDEAU,55.005.161
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+I wonder how you have with patience endured your long tarrying where
+you are . PRIDEAU,55.005.162
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+I scarce yet thinke your treaty will come to any thing , but will ,
+notwithstandeing the States apointed a day for the openeing of the
+assembly , breake up without treateing till on side be well beaten ;
+PRIDEAU,55.005.163
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+neither will hearken to reasonable conditions . PRIDEAU,55.005.164
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+Our people here would fain have us goe to war to . PRIDEAU,55.005.165
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+We shall see what will be don when the Parliament meet .
+PRIDEAU,55.005.166
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+Old Cartret of Ano , of whom you must have heard , is dead , haveing
+left behind him about an $=l= {TEXT:120000=l=} in mony and per annum in
+land , a vast estate , which hath been collected togeather by much
+thrift and niggardlynesse ; PRIDEAU,55.005.167
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+but he that heaped it up had not the power to dispose of it , he dying
+before he could make his will , PRIDEAU,55.005.168
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+soe his mony is shared among his grandchildren , of which 2 little
+girles will have a peice , which before they are marriageable will grow
+to a much greater sum . PRIDEAU,55.005.169
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+I suppose the King may put in for some of his bastards .
+PRIDEAU,55.005.170
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+Y=t= which he hath here with us is kept very orderly ,
+PRIDEAU,55.005.171
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+but will ever be very simple , and scarce , I beleive , ever attain to
+the reputation of not beeing thought <P_56> a fool . PRIDEAU,56.005.172
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+If I can serve you in any thing here pray command me .
+PRIDEAU,56.005.173
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+I beleive there may now bee ougheing to you a pretty sum of mony from
+the College ; PRIDEAU,56.005.174
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+if you soe order it , it shall be returned to you . PRIDEAU,56.005.175
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:28
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:31
+LETTER:PRIDEAU_005:E3:1676:AUTOGRAPH:FRIEND
+My service to M=r= Morice , M=r= Morly , and M=r= Benson if he be with
+you . PRIDEAU,56.005.176
+
+<Q_PRI_A_1677_TC_HPRIDEAU> <L_PRIDEAU_006> <A_HUMPHREY_PRIDEAUX>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1648> <R_JOHN_ELLIS> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1645>
+
+<P_56>
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+Oxf {ED:ord} , PRIDEAU,56.006.177
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+Feb. 2d , 1676/7 {ED:...} . PRIDEAU,56.006.178
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+You may tell Mr. Benson , in answare to his query , that M=r= Wal ,
+senior , is first of the junior m=rs= table <paren> of which he is
+</paren> and Penny last , and that his brother Jack is senior bachelor
+and prospereth mightyly here <paren> to hear which I am sure will be a
+torment to him </paren> . PRIDEAU,56.006.179
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+Poor man ! PRIDEAU,56.006.180
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+he is of a restlesse disposition , PRIDEAU,56.006.181
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+and in what station soever he be in he will never enjoy tranquillity of
+mind , PRIDEAU,56.006.182
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+but envy and discontent will perpetually be knawering there .
+PRIDEAU,56.006.183
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+Dr. South and he are almost of the same disposition as to this point ,
+perpetually $discontented . PRIDEAU,56.006.184
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+I suppose I have formerly given you an account that we sent a present
+to the Duke of Tuscany from the University <paren> Woods Antiquitys of
+Oxford , the Catalogue of the Library , Loggins Cuts of the Colledges ,
+and D=r= Morisons Herbal </paren> , with a letter penned by D=r= South
+, and that we expected it would mightyly well be taken from us ; but
+{ED:we} have very much been <P_57> deceived in our expectations , the
+Duke scarce takeing any notice of it or showeing the least civility to
+the person that delivered it , which is solely to be attributed to the
+D=rs= letter , which I thinke the absurdest that was ever sent from any
+publick society where learneing is professed ; it containeing nothing
+else but hyperbolical praises of the present sent , and those to very
+dull ons , without passeing any complement to the person to whom it was
+sent , which ought to be the whole subject of this letter ;
+PRIDEAU,57.006.185
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+and this gave such distast to the Duke that he tooke noe notice of the
+present but seemed reather angry that we should accost him in soe rude
+a manner . PRIDEAU,57.006.186
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+Great persons expect enconiums and complements to the higth of flattery
+, especially in Italy where this art is soe much practiced ,
+PRIDEAU,57.006.187
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+and therefore the omission of it was accounted rudenesse ,
+PRIDEAU,57.006.188
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+and our present wrought a quite contrary effect to what we expected .
+PRIDEAU,57.006.189
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+The Ld Mohun my country man is , contrary to every ons expectations ,
+recovered of his wound . PRIDEAU,57.006.190
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+When he lay at the point of death he behaved himselfe very stupidly at
+in reference to his concern for a future life , Ashley haveing been
+with him and infused his principles into him . PRIDEAU,57.006.191
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+I thinke I told you in my last that he hath wrot a booke against the
+eternity of hell torments , a good step to athisme . PRIDEAU,57.006.192
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+The next progresse we expect from him will be to deny them altogeather
+, and the reather because he knows if there be any such he is sure to
+goe to them ; PRIDEAU,57.006.193
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+and this in effect my Ld of Anglesy told him , who is of late turnd of
+late a great divine , and hath wrot <P_58> a booke in defence of D=r=
+Tully concerneing justification by faith , PRIDEAU,58.006.194
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+but it is a very shallow on . PRIDEAU,58.006.195
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+S=r= Charles Wosely hath lately exceedingly well stated that point
+contrary to my lord 's and D=r= Barlow sense of it , which hath much
+offended them both . PRIDEAU,58.006.196
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+The Earles son is in orders , PRIDEAU,58.006.197
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+and is on of our Lent preachers at S=t= Peters this year ;
+PRIDEAU,58.006.198
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+he seems to be a sober honest gentleman . PRIDEAU,58.006.199
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+D=r= Floyd hath a new booke come out containeing a project for
+suppresseing popery , which he would have don by soweing divisions
+among them here by encourageing the seculars against the regulars ,
+between which there hath been a long controversy in England .
+PRIDEAU,58.006.200
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+My friend Mr. Bernard , who went into France to attend on the 2
+bastards of Cleveland , hath been soe affronted and abused there by
+that insolent woman that he hath been forced to quit that imployment
+and return . PRIDEAU,58.006.201
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+She driveth a cunneing trade PRIDEAU,58.006.202
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+and followeth her old imployment very hard there , especially with the
+Arch Bishop of Paris , who is her principal gallant .
+PRIDEAU,58.006.203
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+At Trinity Colledge at Cambridge there are mighty doeings , they beeing
+there buildeing a library <P_59> which will cost , PRIDEAU,59.006.204
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+and they doe this that there Colledge may without dispute be granted to
+exceed ours . PRIDEAU,59.006.205
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+I am glad their aemulation hath produced soe good effects .
+PRIDEAU,59.006.206
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+We shall goe on buildeing to , as soon as spring begins .
+PRIDEAU,59.006.207
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+Old Busby hath long talked to us of a benefaction he intends to bestow
+upon us for the erecteing of a catachist lecture {ED:in} the University
+, PRIDEAU,59.006.208
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+but hath soe many cautions in his head and adjoynes such hard
+conditions with it that the University $can $not {TEXT:cannot} receive
+it . PRIDEAU,59.006.209
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+The old man a little before Christmas spit blood PRIDEAU,59.006.210
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+and thought he should have immediately dyed , PRIDEAU,59.006.211
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+but when I was with him I thought him as well as ever I saw him since I
+knew him . PRIDEAU,59.006.212
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+Knipe hath quite ruined that school by his neglect to ly in the
+Colledge . PRIDEAU,59.006.213
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+Sprat hath marryed the other sister after she had been his and the Duke
+of Buckingams whore many years . PRIDEAU,59.006.214
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+My service to Mr. Dolbin , who you were pleased to mention in your last
+was soe kind as to remember me . PRIDEAU,59.006.215
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:29
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:32
+LETTER:PRIDEAU_006:E3:1677:AUTOGRAPH:FRIEND
+Pray likewise remember me to what others of my acquaintance are with
+you . PRIDEAU,59.006.216
+
+<Q_PRI_A_1679_TC_HPRIDEAU> <L_PRIDEAU_007> <A_HUMPHREY_PRIDEAUX>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1648> <R_JOHN_ELLIS> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1645>
+
+<P_63>
+
+{ED:Oxford,}
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+Jan. 5 , {ED:16} 78/9 . PRIDEAU,63.007.217
+
+{ED:...}
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+As to the gentleman for whom you desire a method of readeing the Greek
+and Latin historys , he may receive better information from Degory
+Whears booke , " de Methodo legendi Historias , " then any that I can
+give you . PRIDEAU,63.007.218
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+If he be a gentleman , Dr. Hoels Universal History in English will be
+sufficient for him ; PRIDEAU,63.007.219
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+but if he be a schollar , and desires to read the best historians in
+the original , for the Greeke he must begin with Herodotus , wherein he
+will find a ful history of the wars of the Persians with that people in
+the time of Darius and his son Xerxes . PRIDEAU,63.007.220
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+Thucydides begins where he leaves of , PRIDEAU,63.007.221
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+and Xenephon continues Thucydides till the end of the empire of the
+Thebans , which was extinct with their captain Epaminandos , slain at
+the battle of Mantinea ; PRIDEAU,63.007.222
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+after this the actions of King Philip and his son Alexander succeed in
+the order of time , PRIDEAU,63.007.223
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+and are fully related by Diodorus Siculus ; PRIDEAU,63.007.224
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+but as to the life of Alexander , I judge it best written by Arrian ;
+PRIDEAU,63.007.225
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+the wars of Alexanders captains about the division of his empire you
+have likewise related in Diodorus Siculus . PRIDEAU,63.007.226
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+What comes after are actions for the most part soe obscure as that they
+deserve noe historian , PRIDEAU,63.007.227
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+and I know none they have except Polybius , PRIDEAU,63.007.228
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+and his relations are reather of the Roman then <P_64> Greek affaires ,
+Greece in his time beeing made a province of the Roman Empire .
+PRIDEAU,64.007.229
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+As to the Roman history , Dionysius Halicarnassensis must be begun with
+; PRIDEAU,64.007.230
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+if your gentleman would reather read it in Latin then Greek , the
+translation of Aemilius Porta is much the best , PRIDEAU,64.007.231
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+and the best edition is that of Geneva . PRIDEAU,64.007.232
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+The original and first foundation of the Roman Empire is noe where
+better treated of then in this author , which I thinke to be much the
+best of any that relates the actions of ancient times and the most
+diverting . PRIDEAU,64.007.233
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+Livy may be read with him , PRIDEAU,64.007.234
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+and continues likewise the history where Dionysius leavs of , which is
+at the abolishing the government of the Decemviri . PRIDEAU,64.007.235
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+The second decade of Livy is wonteing , and with it likewise the
+history which he related in it , scarce any other author affordeing any
+narration of it , excepteing some summary accounts which you will find
+in the Epitomy of L. Florus , and in the first booke of Polybius
+PRIDEAU,64.007.236
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+The third decade of Livy fully relates the second Carthaginian war ,
+and the fourth those actions which followed with the Macedonians and
+other nations , of which likewise you have an account in those bookes
+of Polybius which are preserved from the injurys of time .
+PRIDEAU,64.007.237
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+From the time when Livy failes you , you must be contented with what
+Plutarch tels you in the lifes of Marius , Sylla , Lycurgus , and
+Cicero , till Dio Cassius comes in , who , from the piratical war till
+the death of the Emperour Claudius , gives you a full and most
+excellent history . PRIDEAU,64.007.238
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+The best edition of this author is by Leunclavius , in Greek and Latin
+. PRIDEAU,64.007.239
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+I need not tell you that Salust , Caesar in his Commentarys , Tacitus
+and Suetonius likewise treat of affaires within the same compasse of
+time , and that the 2 last continue their historys down farther .
+PRIDEAU,64.007.240
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+Appian is likewise to be consulted , particularly where he treats of
+the wars of Mitridates and the civil wars of the Romans with themselfes
+. PRIDEAU,64.007.241
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+The Mercurius <P_65> Librarius tells me that it is this term set forth
+in English . PRIDEAU,65.007.242
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+For the ensueing times are to be read Xiphilin , Herodian , and the
+Historiae Augustae Scriptores , and , if you will goe farther down ,
+Zosimus and Ammianus Marcellinus , which , although to his language is
+very barbarous , is however a most excellent author .
+PRIDEAU,65.007.243
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+In the readeing of both sort of historys , Plutarch is to be used ,
+because he writes the lives both-1 of Romans and Grecians .
+PRIDEAU,65.007.244
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+Simpsons Chronology will be of exceeding use in directeing to the true
+order of time , PRIDEAU,65.007.245
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+and he that intends to have a full prospect of the Greek and Latin
+history $can $not {TEXT:cannot} be without it . PRIDEAU,65.007.246
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+In reading the Roman history it is to be observed the faithfullest
+relators of it are the Grecians , and that more is to be learnt from
+them then the Roman writers themselfes , PRIDEAU,65.007.247
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+and therefore I judge Dionysius and Dio in those things they treat of
+are to be preferred to Livy and Tacitus . PRIDEAU,65.007.248
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+The hast I am in permits me not to give you a fuller account .
+PRIDEAU,65.007.249
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+If the gentleman desire a short account and an easy way to it , you
+$can $not {TEXT:cannot} put a better booke into his hands then D=r=
+Hoels General History set forth by Haringman ; PRIDEAU,65.007.250
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+but , if he be a schollar , give him M=r= Whears booke
+PRIDEAU,65.007.251
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+and bid him follow the method he prescribes ; PRIDEAU,65.007.252
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_007:E3:1679:AUTOGRAPH:FRIEND
+but , if you thinke not this sufficient , I shall be ready when I have
+more leasure , in an half-sheet of paper , to give him a full and ample
+account of all authors and their best editions which treat of those
+affaires he desires to inform himselfe in PRIDEAU,65.007.253
+
+{ED:...}
+
+<Q_PRI_A_1679_TC_HPRIDEAU> <L_PRIDEAU_008> <A_HUMPHREY_PRIDEAUX>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1648> <R_JOHN_ELLIS> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1645>
+
+<P_67>
+
+{ED:Oxford,}
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+June 18th , {ED:16} 79 . PRIDEAU,67.008.254
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+We have now quite finished your businesse , your letter having passed
+the Convocation this afternoon , soe y=t= now you have nothing else to
+doe but to come hither when your occasions will give you leave , and ,
+on the performance of those exercises I mentioned to you in my last ,
+take your degree . PRIDEAU,67.008.255
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+The Scotch businesse being over , I hope I shall have the happynesse of
+seeing you here this summer ; PRIDEAU,67.008.256
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+but as to the businesse of your degree , y=t= $can $not {TEXT:cannot}
+be don but in term time , as your occasions will give you leave .
+PRIDEAU,67.008.257
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+I would advise you to provide your lectures and declamations ;
+PRIDEAU,67.008.258
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+as to the other exercises , they are only form PRIDEAU,67.008.259
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+and will signify nothing to trouble you . PRIDEAU,67.008.260
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+I mus {ED:t} beg your assistance in a small affair ; PRIDEAU,67.008.261
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+from my sine cure in Wales I am charged with the arrears of 6 years
+tenths due in my predecessors time , and likewise with 19=s= charges
+for each year , soe that the whole amounts to 9=l= od mony , whereas in
+reality there is not above $4 $=l= {TEXT:4=l=} due . PRIDEAU,67.008.262
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+About 7 years since the knavery of some officers in the Exchequer had
+brought it to this , that if any incumbent should neglect his payments
+of tenths he was forthwith charged with 19=s= for the neglect each year
+; PRIDEAU,67.008.263
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+but on complaint made this abuse was rectifyed , and an order made y=t=
+noe commissioner for the collecteing of arrears shall charge on the
+under collector above 5=s= 8=d= , to be received by him with the
+arrears for how many years soever they were {for}_P to be payd .
+PRIDEAU,67.008.264
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+But the diocese of S=t= Davids beeing a great way of , those rogues of
+the Exchequer thinke they may play their old tricks there among the
+poor Welchmen without control . PRIDEAU,67.008.265
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+He that issueth out those commissions is on Pretyman , who keeps his
+office somewhere about the Exchequer ; PRIDEAU,67.008.266
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+on enquiry you may easyly find him out , he beeing the cheife man
+concerned in receiving the Kings tenths and first fruits there .
+PRIDEAU,67.008.267
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+I desire y=t= you would be pleased to talke with him <P_68> about this
+affaire , and knowe from him what is due to the King for the tenthes
+from the rectory of Landewy-belfry , in the diocesse of Pembroke and
+deanery of Carmarden , and what he demands for charges .
+PRIDEAU,68.008.268
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+If he tells you 19=s= each year , pray ask him wither there was not an
+order lately made that noe incumbent on the payment of arrears ,
+especially such as were due in his predecessors time , should be liable
+to pay above 5=s= 8=d= for charges ; and how comes it to passe that
+that order is not observed in the diocesse of S=t= Davids as in all
+others , and particularly in this , where the collector <paren> who is
+the bishops man </paren> assures me he never received above 5=s= and
+8=d= ever since he managed that office for charges with arrears for how
+many years soever . PRIDEAU,68.008.269
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+I am unwilling a rogue should cheat me of 5=l= if I can helpe it .
+PRIDEAU,68.008.270
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+I have enterest with them y=t= can doe me right , PRIDEAU,68.008.271
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+and I am resolved I will complain , PRIDEAU,68.008.272
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+and desire , if your occasions will give you leave to talke with this
+fellow , y=t= you would tell him as much . PRIDEAU,68.008.273
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+I beg your pardon for presumeing soe far on you , PRIDEAU,68.008.274
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+but since Westminster Hall is soe near , and your other occasions soe
+often call you there , I hope it may be noe great trouble to you to
+talke with this fellow . PRIDEAU,68.008.275
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+I am concerneing more for the poor Welch men then myselfe , who I doubt
+not imposed on on all occasions with such knaverys , PRIDEAU,68.008.276
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+and I would willingly doe them right ; although as to myselfe my case
+is hard enough to pay my predecessors arrears , and much more to pay
+charges likewise for his neglect . PRIDEAU,68.008.277
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+Drelincourts weaknesse dayly appears more and more , PRIDEAU,68.008.278
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+and I fear it is a great prejudice to the yong Lord that soe simple a
+fellow should have the government of him ; PRIDEAU,68.008.279
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+I fear he teacheth him many mean silly trickes much misbecomeing a
+person of his quality , PRIDEAU,68.008.280
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+but from w=t= you told me in London I fear there $can $not
+{TEXT:cannot} be a remedy . PRIDEAU,68.008.281
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_008:E3:1679:AUTOGRAPH:FRIEND
+I wish you all happynesse . PRIDEAU,68.008.282
+
+<Q_PRI_A_1679_TC_HPRIDEAU> <L_PRIDEAU_009> <A_HUMPHREY_PRIDEAUX>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1648> <R_JOHN_ELLIS> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1645>
+
+<P_71>
+
+{ED:Oxford,}
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+October 19 , {ED:16} 79 . PRIDEAU,71.009.283
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+I suppose you now begin to thinke of Spain , PRIDEAU,71.009.284
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+and since the Queen is now arrived there it will not be long er my L=d=
+carrys the complement after her . PRIDEAU,71.009.285
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+The yong L=d= James of late growing to hard for his governour , I
+perceive he hath made complaints of it , PRIDEAU,71.009.286
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+and that was the occasion of S=r= Robert Southwells comeing <P_72>
+hither , PRIDEAU,72.009.287
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+for since the Mons=r= hath engaged with Aldrich in beateing his pupil ,
+y=e= yong Bartlet , he and his mirmidons have made it their <P_73>
+businesse to make him contemptable to his L=d= , PRIDEAU,73.009.288
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+and have soe far effected it as I see he hath little heed to be
+governed by him . PRIDEAU,73.009.289
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+This is a wicked trick , but such as we must expect from such people .
+PRIDEAU,73.009.290
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+I have some thoughts of goeing into Cornwall this winter ;
+PRIDEAU,73.009.291
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+if they hold , I shall see you before you leave England .
+PRIDEAU,73.009.292
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+I have of late had a pleasant encounter with Coll. Vernon , w=ch= I
+$can $not {TEXT:cannot} but give you an account of . PRIDEAU,73.009.293
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+On his standeing to be Parliament man for the University , I , haveing
+occasion to visit a kinsman of mine that lives near him , made enquiry
+of him concerneing the gentleman , who in a passion immediately
+answered y=t= he was a papist , that his house was the greatest harbour
+of preists and jesuits in all the country , that he sent a son to S=t=
+Omers within these 2 years , and y=t= not long after the first
+discovery of the plot he , beeing a deputy lieutenant , had complaint
+brought him of a meeting of papists held at this Vernons house ;
+whereon he , takeing another deputy lieutenant with him , went thither
+, and , accordeing as information was given him , he found there Goring
+and Gage , w=ch= are in the Tower , y=e= Lady Abergenny , and severall
+other persons of quality of that communion , as many as filld 7 coaches
+, there in close consultation with their preists ; PRIDEAU,73.009.294
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+and he told me that he did verily beleive their <P_74> businesse there
+was to contrive how farther to carry on the plot , and that he
+suspected above 12 among them to have been preists . PRIDEAU,74.009.295
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+On my return to the University I informed every on of this story ,
+which beeing noised abroad squelchd the Colls pretensions ,
+PRIDEAU,74.009.296
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+and we heard noe more of him ; PRIDEAU,74.009.297
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+but ever since he hath been studying how to be revenged on me .
+PRIDEAU,74.009.298
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+First he sent me word he would sue me and that he would undoe me .
+PRIDEAU,74.009.299
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+I answered I was not soe easyly undon as {that_I_was_undone} he imagind
+; perchance I might have as much mony to spend as he had , and that I
+had sayd nothing but what I could prove ; whereon the Coll. , findeing
+he could nothing with me this way , came to the Bishop with a mighty
+complain against me , and the Bishop I found was prepared to give the
+Coll. some satisfaction , as far as his power would give him leave ,
+but that , as soon as the Bishop began to mention it , I musterd up my
+accusation with soe many circumstances , named the 2 deputy lieutenants
+who were ready to attest it , and added threats of putteing in an
+information to the Secret Comitty against him of this and many other
+things w=ch= I could prove against him ; whereon both the Bishop and
+the Coll. pulld in their horns , and I have since been troubled with
+neither of them concerneing this businesse , onlesse by a message to
+perswade me to acquiesce . PRIDEAU,74.009.300
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+His greatest argument he made for himselfe was y=t= he was a friend of
+the Chancellors , PRIDEAU,74.009.301
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+but your letter told me the contrary . PRIDEAU,74.009.302
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+I perceive the fellow to be a fool and I beleive a beggar .
+PRIDEAU,74.009.303
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+The prorogation of the Parliament to a farther day seems to me a
+prelude to a dissolution . PRIDEAU,74.009.304
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+I beleive in March we shall be again chooseing , PRIDEAU,74.009.305
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:31
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:34
+LETTER:PRIDEAU_009:E3:1679:AUTOGRAPH:FRIEND
+and perchance it may be my lot again to encounter the valiant Coll .
+PRIDEAU,74.009.306
+
+<Q_PRI_A_1680_TC_HPRIDEAU> <L_PRIDEAU_010> <A_HUMPHREY_PRIDEAUX>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1648> <R_JOHN_ELLIS> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1645>
+
+<P_79>
+
+{ED:Oxford,}
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:32
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:35
+LETTER:PRIDEAU_010:E3:1680:AUTOGRAPH:FRIEND
+Feb. 24th , 1679 {ED:80} . PRIDEAU,79.010.307
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:32
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:35
+LETTER:PRIDEAU_010:E3:1680:AUTOGRAPH:FRIEND
+I am heartyly glad at your safe return and the successe of your
+businesse , of w=ch= you are pleased to give me an account .
+PRIDEAU,79.010.308
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:32
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:35
+LETTER:PRIDEAU_010:E3:1680:AUTOGRAPH:FRIEND
+I beleive you find a great alteration at Court since your departure ,
+and a <P_80> greater will be on y=e= Dukes return . PRIDEAU,80.010.309
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:32
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:35
+LETTER:PRIDEAU_010:E3:1680:AUTOGRAPH:FRIEND
+They have talked furiously since your absence y=t= my patron y=e= Ld
+Chancellor was to be layd aside , PRIDEAU,80.010.310
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:32
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:35
+LETTER:PRIDEAU_010:E3:1680:AUTOGRAPH:FRIEND
+but I suppose there is noe truth in it . PRIDEAU,80.010.311
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:32
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:35
+LETTER:PRIDEAU_010:E3:1680:AUTOGRAPH:FRIEND
+I suppose my Ld of Ossory will now come in play again ,
+PRIDEAU,80.010.312
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:32
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:35
+LETTER:PRIDEAU_010:E3:1680:AUTOGRAPH:FRIEND
+for they say y=e= King hath declared y=t= he will have a court of his
+own . PRIDEAU,80.010.313
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:32
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:35
+LETTER:PRIDEAU_010:E3:1680:AUTOGRAPH:FRIEND
+We have gotten here a very od fellow mayor of the town , who seems to
+have been put into this office on purpose to serve y=e= Presbyterians ,
+as there shall be an occasion . PRIDEAU,80.010.314
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:32
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:35
+LETTER:PRIDEAU_010:E3:1680:AUTOGRAPH:FRIEND
+He was turnd out of the Corporation at the regulation after y=e= Kings
+return , PRIDEAU,80.010.315
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:32
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:35
+LETTER:PRIDEAU_010:E3:1680:AUTOGRAPH:FRIEND
+and soe hath remained till about last Michaelmas , to his not small
+advantage , because , when any squabble was between the town and us ,
+all repaired to him to be furnished at his shop , as beeing a fellow
+not concernd against us . PRIDEAU,80.010.316
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:32
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:35
+LETTER:PRIDEAU_010:E3:1680:AUTOGRAPH:FRIEND
+He is one of the richest men in the town , PRIDEAU,80.010.317
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:32
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:35
+LETTER:PRIDEAU_010:E3:1680:AUTOGRAPH:FRIEND
+and oweth it all to his not beeing of the Corporation ,
+PRIDEAU,80.010.318
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:32
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:35
+LETTER:PRIDEAU_010:E3:1680:AUTOGRAPH:FRIEND
+and therefore hath for many years refused all invitations of returneing
+among them . PRIDEAU,80.010.319
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:32
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:35
+LETTER:PRIDEAU_010:E3:1680:AUTOGRAPH:FRIEND
+But last Michaelmas , one of y=e= 13 dying , he made use of all the
+interest he could to get himselfe choosen to succeed him ,
+PRIDEAU,80.010.320
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:32
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:35
+LETTER:PRIDEAU_010:E3:1680:AUTOGRAPH:FRIEND
+and was thereon choosen mayor of the town , in which office he acteth
+to the utmost folly of phanaticisme , molesteing both the University
+and town , talkeing against the King and Government with the utmost
+malice . PRIDEAU,80.010.321
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:32
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:35
+LETTER:PRIDEAU_010:E3:1680:AUTOGRAPH:FRIEND
+Trenchard and Vaughan comeing here about the time of his <P_81>
+election , and beeing as I know in frequent conference with him , I
+believe it was by their influence y=t= he was choosen , as beeing a man
+very fit to be subservient to their designes . PRIDEAU,81.010.322
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:32
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:35
+LETTER:PRIDEAU_010:E3:1680:AUTOGRAPH:FRIEND
+Those rogues have designes goeing on , PRIDEAU,81.010.323
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:32
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:35
+LETTER:PRIDEAU_010:E3:1680:AUTOGRAPH:FRIEND
+but if the King will but put on a little rigour he may easyly quel them
+. PRIDEAU,81.010.324
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:32
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:35
+LETTER:PRIDEAU_010:E3:1680:AUTOGRAPH:FRIEND
+I hope he will continue as he hath begun . PRIDEAU,81.010.325
+
+AUTHOR:HUMPHREY_PRIDEAUX:MALE:_:1648:32
+RECIPIENT:JOHN_ELLIS:MALE:_:1645:35
+LETTER:PRIDEAU_010:E3:1680:AUTOGRAPH:FRIEND
+Our Atlas is now almost finished , of w=ch= Mr. Pit can give you an
+account . PRIDEAU,81.010.326

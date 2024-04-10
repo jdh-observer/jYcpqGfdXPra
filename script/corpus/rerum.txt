@@ -1,0 +1,1770 @@
+<B_RERUM>
+
+<Q_RER_C_1483_T_RICHARD3> <L_RERUM_001> <A_RICHARD_III> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1452> <R_JAMES_STUART_III> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1452>
+
+<P_I,53>
+
+{ED:XVII._RICHARD_III._TO_JAMES_III.}
+
+{ED:A.D._1483._16_Sept.}
+
+AUTHOR:RICHARD_III:MALE:_:1452:31
+RECIPIENT:JAMES_STUART_III:MALE:_:1452:31
+LETTER:RERUM_001:M4:1483:COPY:OTHER
+By the King of England . RERUM,I,53.001.1
+
+AUTHOR:RICHARD_III:MALE:_:1452:31
+RECIPIENT:JAMES_STUART_III:MALE:_:1452:31
+LETTER:RERUM_001:M4:1483:COPY:OTHER
+Right high and mighti prince , right trusty and welbeloved cousin , we
+commaunde us unto you . RERUM,I,53.001.2
+
+AUTHOR:RICHARD_III:MALE:_:1452:31
+RECIPIENT:JAMES_STUART_III:MALE:_:1452:31
+LETTER:RERUM_001:M4:1483:COPY:OTHER
+And where as by your lettres brought unto us by your pursevaunt
+Dyngvale , as amongst other largely shewed that for occasion in tyme
+past thenterupcion , breche , and disturbaunce of peas betwixt both
+realmes , hath growen thrugh the meanes of evyll disposed persones
+contrarie to your mynde and entencioun , and that ye remayne in good
+purpoos to thobservaunce of love , peas , and concorde of the same
+royalmes to be had , and for that entent have sent , at this tyme ,
+unto us your said pursuyvant to understande our goode mynde in that
+behalve , meovyng us for that cause that certaine your legates mought
+come unto us enstructed with your mynde in that partie ; cousyn , we
+acertaine you our mynde and disposicion is and ever $shall $be
+{TEXT:shalbe} confirmable to the will and pleasur of God our aller
+Creatour in all resounable and convenient peax , without fenyng , that
+shuld be desired of us by any nacion . RERUM,I,53.001.3
+
+AUTHOR:RICHARD_III:MALE:_:1452:31
+RECIPIENT:JAMES_STUART_III:MALE:_:1452:31
+LETTER:RERUM_001:M4:1483:COPY:OTHER
+And if that your desire and pleasure be to sende hider suche
+personnages to treate for thaccomplisshing therof , we , havyng
+knowlage fro you of their names , shall yeve unto theim oure sure
+saufconduyt for ane resonable nombre and season . RERUM,I,53.001.4
+
+AUTHOR:RICHARD_III:MALE:_:1452:31
+RECIPIENT:JAMES_STUART_III:MALE:_:1452:31
+LETTER:RERUM_001:M4:1483:COPY:OTHER
+And God kepe you , right high and mighti prince , our right trusty and
+welbeloved cousyn . RERUM,I,53.001.5
+
+AUTHOR:RICHARD_III:MALE:_:1452:31
+RECIPIENT:JAMES_STUART_III:MALE:_:1452:31
+LETTER:RERUM_001:M4:1483:COPY:OTHER
+Yeven the xvj=th= day of September . RERUM,I,53.001.6
+
+AUTHOR:RICHARD_III:MALE:_:1452:31
+RECIPIENT:JAMES_STUART_III:MALE:_:1452:31
+LETTER:RERUM_001:M4:1483:COPY:OTHER
+To , &c. , the King of Scottes . RERUM,I,53.001.7
+
+<Q_RER_C_1484_T_RICHARD3> <L_RERUM_002> <A_RICHARD_III> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1452> <R_JAMES_STUART_III> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1452>
+
+<P_I,61>
+
+{ED:XXII._RICHARD_III._TO_JAMES_III.}
+
+{ED:A.D._1484._7_Aug.}
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:JAMES_STUART_III:MALE:_:1452:32
+LETTER:RERUM_002:M4:1484:COPY:OTHER
+Right high and mighty prince , right trusty and welbeloved cousin , we
+commaunde us unto you in the moost herty wise . RERUM,I,61.002.8
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:JAMES_STUART_III:MALE:_:1452:32
+LETTER:RERUM_002:M4:1484:COPY:OTHER
+And where it hath pleased your cousinage to addresse unto us nowe of
+late your honorable lettres by our trusty servant and squier Edward
+Gower , signifiing by the same howe that upon the retornyng of your
+trusty and welbeloved cousin and counsaillor Robert lord Lile from us
+into your royaume agayne , and by his relacion and others ye have ben
+advertised of our mynde as touching the good of peas and abstinence of
+werre betwene bothe royaumes . Whereunto we shewed us wele applied and
+inclyned in suche manere as we largely commoned with the same lord Lile
+and yave in charge to our said servant topen unto your said highnesse
+or to suche lordes of your counsaille as it wold please you to depute
+and assigne to here the same . And that thereupon your said cousinage
+likewise inclyned , and according to our pleasire hathe lymited and
+ordeigned certaine grete lordes and othre of your counsaille with ful
+powair and commission to comme into our towne of Notingham the vij day
+of Septembre next to comme , to advyse , common , and conclude upon
+treux and abstynence <P_I,62> of werre to be observed and kept betwix
+your lieges and oures ; and also upon love and frendship aliaunces and
+mariages to be had in your blode and oures , like as in your said
+lettres it is conteigned more at large . Right highe and mighty prince
+, righte trusty and welbeloved cousin , we late your cousinage wite
+that this your loving and toward disposicion is to us right agreable ,
+trusting that by the mean of this your ambassade instructed in al the
+forsaid maters as plenerly as the caas shal require , and to doo
+therein as largely in al pointes as ye were present in propre persone ,
+according to that that is expressed in your said lettres , suche good
+weyes $shall $be {TEXT:shalbe} taken betwix bothe royaumes whereby
+effusion of Christen blood may be eschewed , love and tendrenesse growe
+daily and encreace , aswele betwix you and us as the inhabitauntes of
+bothe royaumes , whiche we take God in witnesse we as hertly have
+entended with good condicions , and soo shal hereafter , as any prince
+lyving cann or may . RERUM,I,62.002.9
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:JAMES_STUART_III:MALE:_:1452:32
+LETTER:RERUM_002:M4:1484:COPY:OTHER
+And to thentent no thing faille necessary or behoveful to the spedy
+execucion of the premisses , nor of your partie ne of oures , we have
+passed our lettres patentes of saufconduyt undre our gret seale for the
+sure commyng , abiding , and retornyng of your said ambassade , and the
+same lettres sent by this berer according to your desire and pleasure .
+RERUM,I,62.002.10
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:JAMES_STUART_III:MALE:_:1452:32
+LETTER:RERUM_002:M4:1484:COPY:OTHER
+Right high and mighty prince , right trusty and welbeloved cosyn , the
+blessed Trinite have you in his keping . RERUM,I,62.002.11
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:JAMES_STUART_III:MALE:_:1452:32
+LETTER:RERUM_002:M4:1484:COPY:OTHER
+Yeven undre our signet at our palois of Westminster , the vijth day of
+August . RERUM,I,62.002.12
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:JAMES_STUART_III:MALE:_:1452:32
+LETTER:RERUM_002:M4:1484:COPY:OTHER
+Ricardus Rex . RERUM,I,62.002.13
+
+<Q_RER_C_1484_T_RICHARD3> <L_RERUM_003> <A_RICHARD_III> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1452> <R_THOMAS_FITZGERALD> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1426?>
+
+<P_I,73>
+
+{COM:TO_THE_EARL_OF_DESMOND}
+
+{ED:A.D._1484._September.}
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:THOMAS_FITZGERALD:MALE:_:1426?:58?
+LETTER:RERUM_003:M4:1484:COPY:OTHER
+To therl of Desmond . RERUM,I,73.003.14
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:THOMAS_FITZGERALD:MALE:_:1426?:58?
+LETTER:RERUM_003:M4:1484:COPY:OTHER
+Right trusty and right welbiloved cousin , we grete you hertily wele .
+RERUM,I,73.003.15
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:THOMAS_FITZGERALD:MALE:_:1426?:58?
+LETTER:RERUM_003:M4:1484:COPY:OTHER
+Lating you wite that nat oonly the zelous desir and herty affeccion
+that ye bere unto us according to the duetie of your ligeance ,
+rapported on your behalve by the reverend fader in God , our ful trusti
+counseillor the bisshop of Enachden , bringer of these , bot also the
+reteignyng in our mynde of the manifold benivolent services and
+kindenesse by our cousin your fader in sundrie wise to the famous
+prince of noble memorie our fader , whom God rest , in <P_I,74> seasons
+of great necessite , and after that to our brother , late king , doon
+and shewed , causen us to have and accepte you into our singler favor
+and grace . RERUM,I,74.003.16
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:THOMAS_FITZGERALD:MALE:_:1426?:58?
+LETTER:RERUM_003:M4:1484:COPY:OTHER
+And forasmoch as it hathe pleased God to sende now the rule of this
+your reame , to have you the more tenderly recommended in the same as
+our said counseillor hath more plainly to shewe unto you aswele therin
+as our entent and pleasure for to have you to use the manere of our
+English habite and clothing ; for the which cause we sende you by hym a
+coller of gold of our liveree and divise with othre apparaill for your
+persoune of Thenglish fassion , which we wol ye shal receyve of hym in
+our name as we have advised ; trusting that at somme convenient season
+herafter we shal have you to comme over unto us hider , and bee more
+expert , both-6 in the maner and condicions of us and othre honorable
+and goodly behavynges of our subgettes here , as by instruccions we
+have informed hym therin more at large . RERUM,I,74.003.17
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:THOMAS_FITZGERALD:MALE:_:1426?:58?
+LETTER:RERUM_003:M4:1484:COPY:OTHER
+And as touching your demeanyng in mariage , that for special causes
+greatly resteth in our mynde and pleasure , we have in likewise shewed
+unto hym the same by our said instruccions , to whom in declaring
+therof , and of everi othre thing concernyng the premisses , we desire
+you to yeve unto hym ful feith and credence , and with al effect applie
+and endevoir you to thexecucion and performyng of the same , as our
+great trust is in you . RERUM,I,74.003.18
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:THOMAS_FITZGERALD:MALE:_:1426?:58?
+LETTER:RERUM_003:M4:1484:COPY:OTHER
+Yeven , &c. the xxix. day of Septembre . RERUM,I,74.003.19
+
+<Q_RER_C_1484_T_RICHARD3> <L_RERUM_004> <A_RICHARD_III> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1452> <R_GERALD_FITZGERALD> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1456?>
+
+<P_I,74>
+
+{COM:TO_GERALD_FITZGERALD}
+
+{ED:A.D._1484._September.}
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:GERALD_FITZGERALD:MALE:_:1456?:28?
+LETTER:RERUM_004:M4:1484:COPY:OTHER
+To Therle of Kildare . RERUM,I,74.004.20
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:GERALD_FITZGERALD:MALE:_:1456?:28?
+LETTER:RERUM_004:M4:1484:COPY:OTHER
+Right trusti , &c. Certifieng you that as touching the lieutenantship
+of our land of Irland , we have ordeigned and appointed our entierly
+biloved nepveu Therl of Lincolne to that office ; and have advised and
+willed him that ye $shall $be {TEXT:shalbe} his deputie in the same ,
+wherunto he is agreable , as your servant besides this <P_I,75> can
+accertaigne you more at large ; in the which we pray you to doo and
+continue as ye have doon for the good and wele of our said land .
+RERUM,I,75.004.21
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:GERALD_FITZGERALD:MALE:_:1456?:28?
+LETTER:RERUM_004:M4:1484:COPY:OTHER
+And over this where as we sende at this tyme unto thoes parties the
+reverend fader in God our ful trusti counseillor the bisshop of
+Enachden , bringer of these , for certain materes greatly concernyng
+our pleasure , which by our commandement he hath to shewe unto you , we
+desire you therin to yeve unto hym ful feith and credence , and with al
+diligence to the performyng of the same , RERUM,I,75.004.22
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:GERALD_FITZGERALD:MALE:_:1456?:28?
+LETTER:RERUM_004:M4:1484:COPY:OTHER
+what great pleasure in soo doing ye shal ministre unto us oure said
+counsaillor shal in like wise on our behalve enforme you .
+RERUM,I,75.004.23
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:GERALD_FITZGERALD:MALE:_:1456?:28?
+LETTER:RERUM_004:M4:1484:COPY:OTHER
+Yeven , &c. the xxij. day of Septembre . RERUM,I,75.004.24
+
+<Q_RER_C_1484_T_RICHARD3> <L_RERUM_005> <A_RICHARD_III> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1452> <R_LORD_BARRY> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_--->
+
+<P_I,75>
+
+{COM:TO_THE_LORD_BARRY_OF_MUNSTER}
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:LORD_BARRY:MALE:_:_:_
+LETTER:RERUM_005:M4:1484:COPY:OTHER
+To the Lord Barrey of Monyster . RERUM,I,75.005.25
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:LORD_BARRY:MALE:_:_:_
+LETTER:RERUM_005:M4:1484:COPY:OTHER
+Right trusti , &c. And where as we bee informed by the reverend fader
+in God , our ful trusti counseillor the bisshop of Enachden , how that
+in dayes heretofore in parte aswele thorough your awne negligence for
+lak of due sute and labor , as otherwise , ye have ben injured and
+wronged of certain lyvelode and landes , that ye clayme of enheritaunce
+, lieing in Wales ; we assure you that if ye by your self , or any
+other persone for you , shalle lust to make diligence for your recovere
+therof , after the processe and due ordure of our lawes we shalle shew
+you therin any thing that may apperteyne , asferforth as your said
+right , and our lawes shalle require in any wise . And over that for
+the true hert and feith that by our said counsellor we understande ye
+bere unto us according to the dutie of your liegeaunce be unto you and
+alle your kynnesmen verray good and graciouse soverayn lord in any
+other cause or mater , as we have commaunded him to shewe unto you in
+our behalve ; to whome herin ye wille geve playne credence , as our
+trust is in you . RERUM,I,75.005.26
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:LORD_BARRY:MALE:_:_:_
+LETTER:RERUM_005:M4:1484:COPY:OTHER
+Yoven , &c. the xx=ti= day of Septembre . RERUM,I,75.005.27
+
+<Q_RER_C_1484_T_RICHARD3> <L_RERUM_006> <A_RICHARD_III> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1452> <R_JOHN_&_PIERS_POWER> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_--->
+
+<P_I,76>
+
+{ED:A.D._1484._September.}
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:JOHN_&_PIERS_POWER:MALE:_:_:_
+LETTER:RERUM_006:M4:1484:COPY:OTHER
+To John Power and Piers Power , and aither of them . RERUM,I,76.006.28
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:JOHN_&_PIERS_POWER:MALE:_:_:_
+LETTER:RERUM_006:M4:1484:COPY:OTHER
+Righte trusty and welbeloved we grete you wele . RERUM,I,76.006.29
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:JOHN_&_PIERS_POWER:MALE:_:_:_
+LETTER:RERUM_006:M4:1484:COPY:OTHER
+Latting you wite that we have understande by the credable reaporte of
+reverende fadre in God the bisshop of Enachden of youre fast and good
+demeanyng , and specially in repressing and subduyng of our ennemyes in
+thoose parties , according to the duetie of your liegeaunce . For the
+which and your perfite contynuaunce in the same we $shall $be
+{TEXT:shalbe} verrey good and graciouse soverayn lord unto you and alle
+your kynnesmen . RERUM,I,76.006.30
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:JOHN_&_PIERS_POWER:MALE:_:_:_
+LETTER:RERUM_006:M4:1484:COPY:OTHER
+Desiring you both and aither of you to see that ye and they deale of
+oon accorde and unite , advoiding alle variaunces and stryves amonges
+you , as ye and they desire to please us . RERUM,I,76.006.31
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:JOHN_&_PIERS_POWER:MALE:_:_:_
+LETTER:RERUM_006:M4:1484:COPY:OTHER
+And our said counsellor hath in our name to shew unto you more at large
+concernyng the same , to whome therin ye will geve pleyne credence , as
+our trust is in you . RERUM,I,76.006.32
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:JOHN_&_PIERS_POWER:MALE:_:_:_
+LETTER:RERUM_006:M4:1484:COPY:OTHER
+Yeven , &c. the xxij=ti= day of Septembre . RERUM,I,76.006.33
+
+<Q_RER_C_1484_T_RICHARD3> <L_RERUM_007> <A_RICHARD_III> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1452> <R_UNKNOWN_RECIPIENT_1>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_I,76>
+
+{COM:UNKNOWN_RECIPIENT}
+
+
+{ED:A.D._1484._September.}
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:UNKNOWN_RECIPIENT_1:MALE:_:_:_
+LETTER:RERUM_007:M4:1484:COPY:OTHER
+To &c. Right trusty and welbeloved , we grete you wele .
+RERUM,I,76.007.34
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:UNKNOWN_RECIPIENT_1:MALE:_:_:_
+LETTER:RERUM_007:M4:1484:COPY:OTHER
+And have understanden to oure fulle good pleasur by the reaport of the
+reverende fader in God , oure fulle trusty counsellor , the bisshop of
+Enachden , this berer , that ye be descended of the auncien blood and
+lynage of our auncestres of Wolster , and also the good feithfulle hert
+and obeissaunce that ye bere unto us according to the duetie of your
+liegeaunce . RERUM,I,76.007.35
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:UNKNOWN_RECIPIENT_1:MALE:_:_:_
+LETTER:RERUM_007:M4:1484:COPY:OTHER
+Reteynyng also in mynde the noble service that ye and your kynnesmen in
+dayes past have doon unto the famouse prince of noble memorie , our
+fader <paren> whom Jesu rest </paren> , and other our progenitors . For
+the which we can you specialle thankes , desiring you in our herty wise
+fermely to contynue the same towardes us , and that <P_I,77> ye of that
+blood amongest you applie and dispose you to be of oon demeanyng and
+unite for the wele of your self and of the contre there , exhorting
+other lordes and gentilles , as ferforth as ye may to doo the same , as
+our trust is in you . RERUM,I,77.007.36
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:UNKNOWN_RECIPIENT_1:MALE:_:_:_
+LETTER:RERUM_007:M4:1484:COPY:OTHER
+Latting you wite that we more at large have enstructed our said
+counsellor with our ferther mynde and pleasur in our name to shew unto
+you ; wherein ye will geve unto him plaine credence , and in alle wise
+conforme you to thutter accomplisshing therof . For the whiche soo
+doyng we assure you to bee good and graciouse soverayn lord unto you
+and alle your kynnesmen in any your causes herafter . RERUM,I,77.007.37
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:UNKNOWN_RECIPIENT_1:MALE:_:_:_
+LETTER:RERUM_007:M4:1484:COPY:OTHER
+Yoven under our signet at Westminster , the xxj. day of Septembre .
+RERUM,I,77.007.38
+
+<Q_RER_C_1484_T_RICHARD3> <L_RERUM_008> <A_RICHARD_III> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1452> <R_ALEXANDER_PLUNKETT> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_--->
+
+<P_I,77>
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:ALEXANDER_PLUNKETT:MALE:_:_:_
+LETTER:RERUM_008:M4:1484:COPY:OTHER
+To Sir Alexander Plunkett . RERUM,I,77.008.39
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:ALEXANDER_PLUNKETT:MALE:_:_:_
+LETTER:RERUM_008:M4:1484:COPY:OTHER
+Trusty and welbeloved we grete you wele . RERUM,I,77.008.40
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:ALEXANDER_PLUNKETT:MALE:_:_:_
+LETTER:RERUM_008:M4:1484:COPY:OTHER
+And late you wite we have understande by the credable reaport of the
+reverend , &c. , the bisshop of Enachden of your fast and good
+demeanyng , and specially in repressing and subduyng of our ennemyes in
+those parties , according to the duetie of your liegeaunce , for the
+whiche and your perfite contynuaunce in the same we $shall $be
+{TEXT:shalbe} verray good and graciouse soverayn lord unto you and alle
+your kynnesmen , as our said counsellor hath in our name to shewe unto
+you more at large concernyng the same ; to whome therin ye will geve
+pleyne credence , as our trust is in you . RERUM,I,77.008.41
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:ALEXANDER_PLUNKETT:MALE:_:_:_
+LETTER:RERUM_008:M4:1484:COPY:OTHER
+Yoven , &c. , the xx=ti= day of September . RERUM,I,77.008.42
+
+<Q_RER_C_1484_T_RICHARD3> <L_RERUM_009> <A_RICHARD_III> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1452> <R_LORD_BARRY> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_--->
+
+<P_I,78>
+
+{COM:TO_THE_LORD_BARRY_OF_MUNSTER}
+
+{ED:A.D._1484._September.}
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:LORD_BARRY:MALE:_:_:_
+LETTER:RERUM_009:M4:1484:COPY:OTHER
+To the Lord Barry et Monystre . RERUM,I,78.009.43
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:LORD_BARRY:MALE:_:_:_
+LETTER:RERUM_009:M4:1484:COPY:OTHER
+Right trusty and welbeloved , we grete you wele , Latting you wite we
+be enformed by the reverende fader , &c. , the bisshop of Enachden ,
+that ye be enhabited in thextreme parties upon our ennemyes of the
+wilde Iresshe , and according to your liegeaunce daily kepe werre with
+them in the defense of your self and other our subgiettes there to your
+gret troubles , hurtes and charges . For the which we can you gret
+thankes , desiring you so perfilty to contynue , whiche we shalle not
+unremembre , but for the same be unto you and alle your kynnesmen good
+and graciouse soverayn lord in alle your causes herafter , as our said
+counsellor hath by our commaundement to shew unto you more at large ;
+to whome therin ye will geve fulle feith and credence .
+RERUM,I,78.009.44
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:LORD_BARRY:MALE:_:_:_
+LETTER:RERUM_009:M4:1484:COPY:OTHER
+Yoven , &c. , the xxij day of September . RERUM,I,78.009.45
+
+<Q_RER_C_1484_T_RICHARD3> <L_RERUM_010> <A_RICHARD_III> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1452> <R_JOHN_DAWSON> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_--->
+
+<P_I,87>
+
+{ED:XXIX.}
+
+{COM:TO_THE_DEAN_CHAPTER_OF_SALISBURY}
+
+{ED:A.D._1484._8_Dec.}
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:JOHN_DAWSON:MALE:_:_:_
+LETTER:RERUM_010:M4:1484:COPY:OTHER
+Ricardus Rex . RERUM,I,87.010.46
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:JOHN_DAWSON:MALE:_:_:_
+LETTER:RERUM_010:M4:1484:COPY:OTHER
+By the king . RERUM,I,87.010.47
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:JOHN_DAWSON:MALE:_:_:_
+LETTER:RERUM_010:M4:1484:COPY:OTHER
+Trusty and welbeloved , we grete you wele . RERUM,I,87.010.48
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:JOHN_DAWSON:MALE:_:_:_
+LETTER:RERUM_010:M4:1484:COPY:OTHER
+And forasmoche as by calling from this uncertaine and transitory lif of
+your late bisshop , ye stande destitute and desolate of a pastoralle
+hede and spirituelle governor ; for the whiche , by auctoritie of oure
+licence royal , ye must hastely procede to theliting of a newe pastor
+and bisshop : We , havyng tendre regarde aswele unto the laudable
+merites , highe vertues , and profounde <P_I,88> cunnyng , that the
+righte reverend fader in God , our righte trusty and righte welbeloved
+counsaillor , the bisshop of St. David , is notarily knowen to be of ,
+as unto othre his notable desertes , contynued trouthe , and feithful
+services to us in sundry wises doon to our singler pleasire , desire
+and hertly pray you that in your said eleccion ye wol have him to the
+said preemynence and pastoralle dignitie before alle othre especially
+recommended and preferred . Wherein we doubte not ye shal not oonly
+provyde righte sadly for the wele of the said cure , and for the honnor
+of our cathedralle churche there to the pleasire of God , but also
+cause us to departe with you the more largely the favor of our good
+grace in suche thinges as may be for the universal wele of you and of
+our said churche in tyme to come . RERUM,I,88.010.49
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:JOHN_DAWSON:MALE:_:_:_
+LETTER:RERUM_010:M4:1484:COPY:OTHER
+Yeven undre our signet at oure palois of Westminster the viijth day of
+Decembre . RERUM,I,88.010.50
+
+AUTHOR:RICHARD_III:MALE:_:1452:32
+RECIPIENT:JOHN_DAWSON:MALE:_:_:_
+LETTER:RERUM_010:M4:1484:COPY:OTHER
+To our trusty and welbeloved the dean and chapitre of oure cathedral
+churche of Sarum . RERUM,I,88.010.51
+
+<Q_RER_C_1491_T_HENRY7> <L_RERUM_011> <A_HENRY_TUDOR_VII>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1457> <R_JOHN_SHIRWOOD>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_I,98>
+
+{ED:IV._HENRY_VII._TO_THE_BISHOP_OF_DURHAM.}
+
+{COM:TO_JOHN_SHERWOOD}
+
+{ED:A.D._1491._5_Feb.}
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:34
+RECIPIENT:JOHN_SHIRWOOD:MALE:_:_:_
+LETTER:RERUM_011:M4:1491:COPY:OTHER
+By the King . H. R . RERUM,I,98.011.52
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:34
+RECIPIENT:JOHN_SHIRWOOD:MALE:_:_:_
+LETTER:RERUM_011:M4:1491:COPY:OTHER
+Right reverend fader in God , right trusty and right welbeloved , we
+grete you wel . RERUM,I,98.011.53
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:34
+RECIPIENT:JOHN_SHIRWOOD:MALE:_:_:_
+LETTER:RERUM_011:M4:1491:COPY:OTHER
+And have seyn youre writing of the date of the xxvj. day of January ,
+wherby and other wayes we understande wel that Sir <P_I,99> Robert
+Chambrelayne and diverse personnes with hym in company be taken at
+Hertilpole , within the precinct of the fraunchise of Saint Cuthebert
+belonging to you and to youre chirche of Duresme . Wherin ye beseche us
+humbly that we wol not doo breke , nor interupte the said franchises .
+RERUM,I,99.011.54
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:34
+RECIPIENT:JOHN_SHIRWOOD:MALE:_:_:_
+LETTER:RERUM_011:M4:1491:COPY:OTHER
+We late you wite that for thonnor of God and of that glorioux Confessor
+Saint Cuthebert , we be and $shall $be {TEXT:shalbe} as good and
+favorable souverain lord unto you and to thoes franchises and libertees
+as any oure noble progenitors hathe been in tyme passed , and shal
+moche rather assist and defende theym then in any wise suffre theym to
+be interupted or defeicted . RERUM,I,99.011.55
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:34
+RECIPIENT:JOHN_SHIRWOOD:MALE:_:_:_
+LETTER:RERUM_011:M4:1491:COPY:OTHER
+Desiring and hertily praying you that oure trusty and welbeloved
+servaunt Sir Edward Pykering , knight for oure body , may bring the
+said Sir Robert and thoes other oure rebelles and traitours to our
+presence . RERUM,I,99.011.56
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:34
+RECIPIENT:JOHN_SHIRWOOD:MALE:_:_:_
+LETTER:RERUM_011:M4:1491:COPY:OTHER
+And if youre shirief of the bisshopriche have the conveyance according
+to your said fraunchise , both of our said servant and of our rebelles
+and traitors asfer as the bondes streicheth of youre said libertiees ,
+for the better saufgard of the same , we $shall $be {TEXT:shalbe}
+therwith content and plaised . RERUM,I,99.011.57
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:34
+RECIPIENT:JOHN_SHIRWOOD:MALE:_:_:_
+LETTER:RERUM_011:M4:1491:COPY:OTHER
+And $as $touching {TEXT:astouching} the goodes taken with our said
+rebelles , we be content also ye have theym , if that your said
+fraunchises so require : RERUM,I,99.011.58
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:34
+RECIPIENT:JOHN_SHIRWOOD:MALE:_:_:_
+LETTER:RERUM_011:M4:1491:COPY:OTHER
+how be it the lord Clifford maketh clayme unto theym by raison of
+certain his libertees that he pretendeth to have in the lordship of
+Hert and Hertilpole forsaid . RERUM,I,99.011.59
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:34
+RECIPIENT:JOHN_SHIRWOOD:MALE:_:_:_
+LETTER:RERUM_011:M4:1491:COPY:OTHER
+And inasmoche as for divers grete considerations it behoveth us to
+understande what writinges and othre goodes our said rebelles had with
+theym , we eftsonnes praye you that by billes endented betwene you and
+your officers on the oon part and our said knight on the other , we may
+be certefyed purticulierly and by parcelles of all $suche writinges and
+goodes as $shall $be {TEXT:shalbe} founde in their caskettes , males ,
+tronkkes , or in othre their cariages . RERUM,I,99.011.60
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:34
+RECIPIENT:JOHN_SHIRWOOD:MALE:_:_:_
+LETTER:RERUM_011:M4:1491:COPY:OTHER
+Assuring you that our mynde ys not therby nor othrewise to breke or
+interupt your said fraunchises , but rathre <P_I,100> to
+{ED:LOST_BY_THE_MUTILATION_OF_THE_MS.} and defende theym as above .
+RERUM,I,100.011.61
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:34
+RECIPIENT:JOHN_SHIRWOOD:MALE:_:_:_
+LETTER:RERUM_011:M4:1491:COPY:OTHER
+Yeven under our signet at our paloys of Westminster , the v=th= day of
+Februarij . RERUM,I,100.011.62
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:34
+RECIPIENT:JOHN_SHIRWOOD:MALE:_:_:_
+LETTER:RERUM_011:M4:1491:COPY:OTHER
+{ED:ADDRESSED:} To the Right Reverend <em> Fader in God , our </em>
+right welbeloved the <em> bishop of Duresme </em> . RERUM,I,100.011.63
+
+<Q_RER_A_1505_FS_EDDELAPOLE> <L_RERUM_012> <A_EDMUND_DE_LA_POLE>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1472> <R_THOMAS_KILLINGWORTH>
+<R-GENDER_MALE> <R-REL_FAMILY_SERVANT/STEWARD> <R-DOB_--->
+
+<P_I,253>
+
+{ED:XXX._EDMUND_DE_LA_POLE_TO_THOMAS_KILLINGWORTH.}
+
+{ED:A.D._1505.}
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+Tomas Kellengwort , I prae yov goe yn to Breuryrissceles to the king ,
+RERUM,I,253.012.64
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+and speke yov with my lord Wele , and with ys broder ,
+RERUM,I,253.012.65
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+and recomand me to them , de serreng them to be my govd frendes as my
+spesale treust ys yn them . And that yt veld ples them to remenber me
+to the K. And that yt vold ples the K. that ys gras vold be so god lord
+to me that I met be hovt of thest manse hand , RERUM,I,253.012.66
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+for as I her that ale the land saeys planle he vele nat com to the K .
+RERUM,I,253.012.67
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+And ef yt be so the K. mae se a lekleode wedder the dewke vele com at
+hem or nat ; RERUM,I,253.012.68
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+stresting my lord my cosons , bovthe my lord Vele and my lord Fennes ys
+broder the vele have me yn rembererans , as the bovt promes me .
+RERUM,I,253.012.69
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+I ame her by the kinges comand ment , RERUM,I,253.012.70
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+and ys as glad to do the K. pleser and sarves as onne mane .
+RERUM,I,253.012.71
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+And sae thest vordes them " Ef I vare yn the fardes yend of the vord ,
+I veld be at ys comand ment to fovelfele ys plessor and comand ment as
+hone sarvant of ys {TEXT:ys_repeated} hovs . " RERUM,I,253.012.72
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+Marke vele thest RERUM,I,253.012.73
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+and do yt vesle , and planle , with govd and lovle as yov kane .
+RERUM,I,253.012.74
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+Also go to yenker Flovrens , RERUM,I,253.012.75
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+and sae I recommand me to hem ; RERUM,I,253.012.76
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+and sae to hem that I send yov spesale to hem for my heelepe be
+chescheng hem to speke to the K. for me , as ys vrytvn be fore ;
+RERUM,I,253.012.77
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+bovt yov mae nat let my lord Vele chake that yov come <P_I,254> to
+yenker Flovrens , RERUM,I,254.012.78
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+for hon of them lovef nat a nodder . RERUM,I,254.012.79
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+Yov mae sae I ame her , and that the dewke of Gelder send me no vord
+vat I sale do , nor heelpes me nat with notheng , as Petter sale chove
+yov , RERUM,I,254.012.80
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+bovt vane yov com therechove the Baster ale your masches
+RERUM,I,254.012.81
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+and fale nat the of . RERUM,I,254.012.82
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+Vat letters vat that the Baster sent you to Anssterdane vryt me yt yn
+Ingles . RERUM,I,254.012.83
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+Also I prae the Baster to send the menes I mae have som remede to have
+mone , RERUM,I,254.012.84
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+for ther vele none of my frendes {TEXT:vele} heelpe me with a pene , as
+yov ma chowe hem as yov have haneser fro Pole welyes I be her with the
+dewke of Gelder . RERUM,I,254.012.85
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+Also , ef yov se the K. of the Romes mak me recommand dase anurs to hem
+, and as yov {TEXT:yov} cheke hove the mater stovd be teven the K. of
+Romes and me , chev yt . RERUM,I,254.012.86
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+And sae " the favt vas nat yn my lord , RERUM,I,254.012.87
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+for my lord provfferd ef yovr gras veld en terten my lord for to monnet
+with xij hores , RERUM,I,254.012.88
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+my lord vas vel contend to beed yovr plsser , RERUM,I,254.012.89
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+and vane my lord vas gone I bod be hend xx days to cheke your plesser ,
+" RERUM,I,254.012.90
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+with ferder as yov thenk best . RERUM,I,254.012.91
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+LETTER:RERUM_012:E1:1505:AUTOGRAPH:FAMILY_SERVANT
+Edmund Suffolk . RERUM,I,254.012.92
+
+<Q_RER_A_1505?_FS_EDDELAPOLE> <L_RERUM_013> <A_EDMUND_DE_LA_POLE>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1472> <R_THOMAS_KILLINGWORTH>
+<R-GENDER_MALE> <R-REL_FAMILY_SERVANT/STEWARD> <R-DOB_--->
+
+<P_I,256>
+
+{ED:XXXII._EDMUND_DE_LA_POLE_TO_THOMAS_KILLINGWORTH.}
+
+{ED:A.D._1505?}
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+Tomas Kelengvort , I have reseved yovr letter , and also my schertes ,
+and to cheerges , and a bonete , RERUM,I,256.013.93
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+I thanke Clakes Bakker . RERUM,I,256.013.94
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+I marvele yov sond me nat my naggeletes , and my haste and bedes .
+RERUM,I,256.013.95
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+I toked yov mone for yt , RERUM,I,256.013.96
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+and thenke yov met vele send me that that I thake yov mone for ;
+RERUM,I,256.013.97
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+bovt I se vele ef I thake yov no mone yov vold make bovt letaile
+cheeufe for me . RERUM,I,256.013.98
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+Ther restes in yovr handes more thane xij. geldranes of the mone that
+Petter thoke yov to be my ger , RERUM,I,256.013.99
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+and also the mone vas as gevd mone as coode be . RERUM,I,256.013.100
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+Yov have done viesle to send Parrelebene to my cousene Nevele to povt
+me to more coostes . RERUM,I,256.013.101
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+Yt vas nat my commandment that yov chovld do so . RERUM,I,256.013.102
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+Me thenke yov do nat viesle nor honestele . RERUM,I,256.013.103
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+I have notheng bovt {TEXT:bovt} yov have yt , RERUM,I,256.013.104
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+and yov povt me to ale the coste , nat so meches as gakee {ED:?}
+RERUM,I,256.013.105
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+bovt I vas fane to geevf heme mone for ys retrovre ,
+RERUM,I,256.013.106
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+and yeet yov send nat me my ger , that I thoke yov mone to be yt .
+RERUM,I,256.013.107
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+And ale that I marvele nat so mes as of yov , and of John Grevfovn ,
+that yov send nat me vord with yn viij daes . RERUM,I,256.013.108
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+A vas yovr a pontement with me . RERUM,I,256.013.109
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+I vas yn that kas that I vest nat vat vas best to do ;
+RERUM,I,256.013.110
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+for I had vent yov and John RERUM,I,256.013.111
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+boovt had been trovbovld ; RERUM,I,256.013.112
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+and ef yt had ben so , parraventer <P_I,257> I vold a found some
+remedie for my cheelvf , RERUM,I,257.013.113
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+bovt be yovr bout folles ther met a theng a happenid $vech $es
+{TEXT:veches} ve ale met a repentte . RERUM,I,257.013.114
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+Loke vat dae yov a pont me to have vord frome yov . RERUM,I,257.013.115
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+Fale nat the dae . RERUM,I,257.013.116
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+Ve sal her the K. ys nove cerstond {ED:...} RERUM,I,257.013.117
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+Also the capetene has vord that the K. of Romes has send for me my
+naggetels iiij. pore , a nodder rede bonet . RERUM,I,257.013.118
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+Thest ys to lettele a gret dele , RERUM,I,257.013.119
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+my beddes my chekves for ale thest yov have mone , RERUM,I,257.013.120
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+for the reng I her no vord of yov . RERUM,I,257.013.121
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+Let me have vord for yov with ale hast , as yov have vord form the
+marchand , and also as yov her vord of the K . RERUM,I,257.013.122
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+Cheis vele with the herres for mone for me as veille as yov kane ;
+RERUM,I,257.013.123
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+yov mae sae I ame vele , and ef I hade mone . RERUM,I,257.013.124
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+Ef you se the Bastard Oskereke , sae I vort to you that I marled I hard
+no vord of hem . RERUM,I,257.013.125
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+He chekes bettst hove I stand her ; RERUM,I,257.013.126
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+and ef he be the mane I thenke he be , me thenke he met best speke that
+I met have some honestle en tertanement with mone . RERUM,I,257.013.127
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+And tele hem , thove he has for me , I have nat fore geet hem .
+RERUM,I,257.013.128
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+And I strest hones for ale thest to make heme govd cher with govd maner
+, and pavt hem to the speches for yt ; RERUM,I,257.013.129
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+bovt be yov nat bee vane he spekes . RERUM,I,257.013.130
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+Also chove hem of my xx geldrens for the months of xx stevers for the
+geldrens , RERUM,I,257.013.131
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+and yet I most bed tele the monthe be hovt or I kane have my gret and
+honorerabovle entertanement . RERUM,I,257.013.132
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+Yov hade x geldrens for my chertes , and the cherggs veches I hade ,
+and a geldrans for my caskeet ; RERUM,I,257.013.133
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+ver be comes ale the todder mone ? RERUM,I,257.013.134
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+Provf vele for my reng . RERUM,I,257.013.135
+
+AUTHOR:EDMUND_DE_LA_POLE:MALE:_:1472:33?
+RECIPIENT:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_?
+LETTER:RERUM_013:E1:1505?:AUTOGRAPH:FAMILY_SERVANT
+Edmund Suffolk . RERUM,I,257.013.136
+
+<Q_RER_C_1500_T_HENRY7> <L_RERUM_014> <A_HENRY_TUDOR_VII>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1457>
+<R_GILBERT_TALBOT_2[&_THOMAS_CRESSET]> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_--->
+
+<P_II,86>
+
+{ED:XVI._HENRY_VII._TO_SIR_GILBERT_TALBOT_THOMAS_CRESSET.}
+
+{ED:A.D._1500._6_May.}
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:43
+RECIPIENT:GILBERT_TALBOT_2[&_THOMAS_CRESSET]:MALE:_:_:_
+LETTER:RERUM_014:E1:1500:COPY:OTHER
+By the King . H. R . RERUM,II,86.014.137
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:43
+RECIPIENT:GILBERT_TALBOT_2[&_THOMAS_CRESSET]:MALE:_:_:_
+LETTER:RERUM_014:E1:1500:COPY:OTHER
+Trusty and welbeloved , we grete you wele . RERUM,II,86.014.138
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:43
+RECIPIENT:GILBERT_TALBOT_2[&_THOMAS_CRESSET]:MALE:_:_:_
+LETTER:RERUM_014:E1:1500:COPY:OTHER
+And late you wit that oure welbeloved servant Richard Bulkeley yeoman
+of oure Crowne hath shewed unto us how that in cessing of the
+benyvolence unto us graunted tawardes oure charges in oure last voiage
+and jorney into Fraunce , he was appoincted and cessed either to
+contente unto us x. poundes , or elles to goo and geve attendance upon
+us in the same voiage at his propre costes and charges .
+RERUM,II,86.014.139
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:43
+RECIPIENT:GILBERT_TALBOT_2[&_THOMAS_CRESSET]:MALE:_:_:_
+LETTER:RERUM_014:E1:1500:COPY:OTHER
+And albee it that the said Richard went and served us in his personne ,
+yet as he denyeth it not , he receyved oure wages unto the tyme of our
+arryvalle from thens into this oure reame ; for the whiche cause the
+said x. li. is nowe by you demanded of him according to the said
+cessing . Wherfor we , considring that as wele by grete rage of fyre as
+other infortunat chaunces he hath susteigned , as he sayeth , right
+grete losses , desire and pray you to enquere whether he bee hable to
+pay the said money , or fallen in suche povertie as is above surmysed .
+And if the same surmyse bee trewe that then ye certifie us therof ;
+RERUM,II,86.014.140
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:43
+RECIPIENT:GILBERT_TALBOT_2[&_THOMAS_CRESSET]:MALE:_:_:_
+LETTER:RERUM_014:E1:1500:COPY:OTHER
+and in the mean tyme see that he bee not distressed or troubled for the
+noon payement of the said x. li . RERUM,II,86.014.141
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:43
+RECIPIENT:GILBERT_TALBOT_2[&_THOMAS_CRESSET]:MALE:_:_:_
+LETTER:RERUM_014:E1:1500:COPY:OTHER
+And these oure lettres $shall $be {TEXT:shalbe} your discharge in that
+behalf . RERUM,II,86.014.142
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:43
+RECIPIENT:GILBERT_TALBOT_2[&_THOMAS_CRESSET]:MALE:_:_:_
+LETTER:RERUM_014:E1:1500:COPY:OTHER
+Yeven undre oure signet at our castell of Dover the vj=th= day of May .
+RERUM,II,86.014.143
+
+<P_II,87>
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:43
+RECIPIENT:GILBERT_TALBOT_2[&_THOMAS_CRESSET]:MALE:_:_:_
+LETTER:RERUM_014:E1:1500:COPY:OTHER
+{ED:ADDRESSED:} To our trusty and welbeloved counsaillor and knight for
+our body , Sir Gilbert Talbot , and Thomas Cresset , squier .
+RERUM,II,87.014.144
+
+<Q_RER_C_1500S?_T_HENRY7> <L_RERUM_015> <A_HENRY_TUDOR_VII>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1457> <R_GILBERT_TALBOT_2>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_II,179>
+
+{ED:XXXIII._HENRY_VII._TO_SIR_GILBERT_TALBOT.}
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_015:E1:1500S?:COPY:OTHER
+By the King . H. R . RERUM,II,179.015.145
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_015:E1:1500S?:COPY:OTHER
+Trusty and right welbiloved , we grete you wele . RERUM,II,179.015.146
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_015:E1:1500S?:COPY:OTHER
+And for thinformacion in writing subscribed by you and our servant
+Thomas Decon , touching Richard Knight , whiche ye have caused to bee
+notified and declared unto us , we geve you our especial thankes ,
+ascertaignyng you that we have upon knowlege of the said enformacion ,
+caused the said Richard Knight to bee comitted to warde $within our
+Towre of London . Wherfor we , considering that he had the keping of
+our towre of $Risebanke , wol and commaund you that $furthwith upon the
+sight herof ye do committe unto the said Thomas Decon the custodye of
+our said towre , and put hym into the same with noo gretter nombre of
+personnes than shal conveniently serve for the suer keping therof to
+our <P_II,180> moost proffit and avauntage , unto the tyme we shal have
+provided at convenient leysir a sufficient personne to have the charge
+and custodye of the said towre , and also til ye shal have from us by
+writing otherwise in commaundement . And that ye faille nat herof , as
+we trust you . RERUM,II,180.015.147
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_015:E1:1500S?:COPY:OTHER
+Yeven under our signet at our manor of Grenewiche , the xvij=th= day of
+May . RERUM,II,180.015.148
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_015:E1:1500S?:COPY:OTHER
+{ED:ADDRESSED:} To our trusty and right welbiloved counsaillor and
+knight for our body , Sir Gilbert Talbot , our deputie of oure towne
+and marches of Calays . RERUM,II,180.015.149
+
+<Q_RER_C_1500S?_T_HENRY7> <L_RERUM_016> <A_HENRY_TUDOR_VII>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1457> <R_GILBERT_TALBOT_2>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_II,180>
+
+{ED:XXXIV._HENRY_VII._TO_SIR_GILBERT_TALBOT.}
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_016:E1:1500S?:COPY:OTHER
+By the King . H. R . RERUM,II,180.016.150
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_016:E1:1500S?:COPY:OTHER
+Trusty and right welbiloved , we grete you well . RERUM,II,180.016.151
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_016:E1:1500S?:COPY:OTHER
+And have receyved your lettres wherby we conceyve suche newes as our
+servant William Woodhouse lately being at the towne of Amyas hath
+shewed unto you ; whiche newes we have also herd by the reapport of our
+pursevant Calays . RERUM,II,180.016.152
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_016:E1:1500S?:COPY:OTHER
+Thanking you for your diligent certificat in that behalve .
+RERUM,II,180.016.153
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_016:E1:1500S?:COPY:OTHER
+And as like newes shal fortune to comme unto your knowleage herafter ,
+soo we praye you to certifie us from tyme to tyme ; wherby ye shall
+ministre unto us right singlier pleasure . RERUM,II,180.016.154
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_016:E1:1500S?:COPY:OTHER
+Yeven under our signet at our manor of Richemount , $the iiij=th= day
+of July . RERUM,II,180.016.155
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_016:E1:1500S?:COPY:OTHER
+{ED:ADDRESSED:} To our trusty and right welbiloved counsaillor and
+knight for our body , Sir Gilbert Talbot , our deputie of our towne and
+marches of Calays . RERUM,II,180.016.156
+
+<Q_RER_C_1500S?_T_HENRY7> <L_RERUM_017> <A_HENRY_TUDOR_VII>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1457> <R_GILBERT_TALBOT_2>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_II,181>
+
+{ED:XXXV._HENRY_VII._TO_SIR_GILBERT_TALBOT.}
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_017:E1:1500S?:COPY:OTHER
+By the King . H. R . RERUM,II,181.017.157
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_017:E1:1500S?:COPY:OTHER
+Trusty and right welbiloved , we grete you wele . RERUM,II,181.017.158
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_017:E1:1500S?:COPY:OTHER
+And where as we understand that a frere Observant called frere Robert
+Steward , being a Scottishman , entendith to come out of the parties of
+Fraunce into this our reame , <em> We for </em> certain causes and
+consideracions us moving wol and commaunde you that in $case the said
+frere Robert happen at any season to comme unto that our towne of
+Calays , ye in no maner wise suffre hym to take any passage there , but
+that ye cause hym furthwith to retorne again unto his brethern and
+convent . And that ye faille not thus to doo as ye tendre our pleasure
+. RERUM,II,181.017.159
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_017:E1:1500S?:COPY:OTHER
+Yeven under our signet at our manor of Grenewiche , the xv. day of
+Aprill . RERUM,II,181.017.160
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_017:E1:1500S?:COPY:OTHER
+{ED:ADDRESSED:} To oure trusty and right welbiloved counsaillor and
+knight for our body , Sir Gilbert Talbot , our deputie of our town and
+marches of Calays . RERUM,II,181.017.161
+
+<Q_RER_C_1500S?_T_HENRY7> <L_RERUM_018> <A_HENRY_TUDOR_VII>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1457> <R_GILBERT_TALBOT_2>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_II,181>
+
+{ED:XXXVI._HENRY_VII._TO_SIR_GILBERT_TALBOT.}
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_018:E1:1500S?:COPY:OTHER
+By the King . H. R . RERUM,II,181.018.162
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_018:E1:1500S?:COPY:OTHER
+Trusty and welbiloved , we grete you wele . RERUM,II,181.018.163
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_018:E1:1500S?:COPY:OTHER
+And where as we lately by our othre lettres commaunded you to suffre
+and lette passe a certain curror whiche <P_II,182> cam from the corte
+of Rome to Laurence Bonvice , whom ye stopped , supposing that he had
+been the same personne that we certified you of by our former lettres ,
+whiche shuld bringe down proces for the alom lately brought in our ship
+the Souverain . Soo it is that we have receyved from you certain
+writinges , sealed with our seale , whiche the said curror brought
+according to our commaundement in our former lettres .
+RERUM,II,182.018.164
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_018:E1:1500S?:COPY:OTHER
+How bee it , as we understand , ye detaigne stil the said curror with
+his writinges . Wherupon our mynde and pleasure is that ye permitte and
+suffre the said curror incontinently to bee at his libertie , so that
+he may comme into this oure reame with his said writinges , your said
+restraint notwithstanding . Forseeng alwayes that in caas any suche
+personne shal happen to comme to that oure town , out of the parties of
+Flaundres , with suche proces as aforsaid , that than ye use and demean
+you in that behalf according to our former lettres without any failling
+, as our special trust is in you . RERUM,II,182.018.165
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_018:E1:1500S?:COPY:OTHER
+Yeven undre our signet at our manor of Grenewiche , the xvii. daye of
+August . RERUM,II,182.018.166
+
+AUTHOR:HENRY_TUDOR_VII:MALE:_:1457:_
+RECIPIENT:GILBERT_TALBOT_2:MALE:_:_:_
+LETTER:RERUM_018:E1:1500S?:COPY:OTHER
+{ED:ADDRESSED:} To oure trusty and welbiloved counsaillor and knight
+for our body , Sir Gilbert Talbot , our deputie of our towne and
+marches of Calays . RERUM,II,182.018.167
+
+<Q_RER_D_1505_FS_TKILLINGWORTH> <L_RERUM_019> <A_THOMAS_KILLINGWORTH>
+<A-GENDER_MALE> <A-REL_FAMILY_SERVANT/STEWARD> <A-DOB_--->
+<R_EDMUND_DE_LA_POLE> <R-GENDER_MALE> <R-REL_---> <R-DOB_1472>
+
+<P_II,381>
+
+{ED:KILLINGWORTH_TO_EDMUND_DE_LA_POLE.}
+
+{ED:A.D._1505._20_Dec.}
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+Sir , I humbly beseche your Grace not to bee myscontented that it is
+soo long or I have sent Sir Walter unto you , RERUM,II,381.019.168
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+for it was on Thursday last passed or I could have any answer .
+RERUM,II,381.019.169
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+Sir , I have delivered your lettres to my Lord Vylle in this towne
+thissame day xiiij. daies passed and shewed my credence ;
+RERUM,II,381.019.170
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+and by his wordes it appereth he is not contented that ye ar thus
+dealte with alle ; RERUM,II,381.019.171
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+and fromhens he made me goo bifor to Myddelburgh , to abyde there the
+kinges commyng and his also , whiche was vij. dayes after or the king
+and he camme thyder . RERUM,II,381.019.172
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+At Myddelburgh also I delivered your lettres to my Lord Feynes and
+suche lettres as camme from my Lord Richard by your commaund ;
+wheruponn my Lord Vyle and my Lord Fynes spake with the king , and they
+ij. have written theruponn to you a lettre , which I sende unto your
+Grace by this berer , to the whiche lettre my lord Shevers is also
+prevy . RERUM,II,381.019.173
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+Sir , I knowe wel this lettre is of noo effect ner answer to the
+weighte of your ease ner helpe , ner of my Lord your broders .
+RERUM,II,381.019.174
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+For my Lord Fynes shewed me thise wordes amonges other , that he is
+your servaunt to doo for you what he cann , RERUM,II,381.019.175
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+but ye must suffre pacience tylle the season shal comme ;
+RERUM,II,381.019.176
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+and he wold not that many wordes shuld bee spoken by your servauntes ,
+RERUM,II,381.019.177
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+for the over many wordes of the Bastart have doon noo good ;
+RERUM,II,381.019.178
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+and for any helpe for my Lord your broder there was noon but pacience
+also ; RERUM,II,381.019.179
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+and $as $for {TEXT:asfor} K. H. traffykkes they knewe theym wele ynough
+and better than ye did . And howe <P_II,382> the king is your good lord
+, and alle thinges $shall $be {TEXT:shalbe} openned and shewed to you
+by my Lord Shyvers at his commyng , which $shall $be {TEXT:shalbe} , I
+thinke , after the Kinges departing , whiche $shall $be {TEXT:shalbe}
+God knoweth when . RERUM,II,382.019.180
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+Somm saye he goeth , RERUM,II,382.019.181
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+somm saye naye ; RERUM,II,382.019.182
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+but my Lord Fynes saied to me he was sure ye wold sende me again or the
+Kinges going . RERUM,II,382.019.183
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+And if ye sende me to the court , Sir , if it please you , this is best
+: RERUM,II,382.019.184
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+cause a lettre of credence to bee made there in Frenche , or a lettre
+of your mynd to bee made to my Lord Shyvers aswele as to the other two
+, RERUM,II,382.019.185
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+and fele asmuche of his mynd as ye cann . RERUM,II,382.019.186
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+And asfor the mann with the clobbed fote , he was not in the courte .
+RERUM,II,382.019.187
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+He is at Brugges , where I thinke the king is nowe .
+RERUM,II,382.019.188
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+Don John axked me howe ye did . RERUM,II,382.019.189
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+Sir , for clothes and alle necessaries for your body , my Lord Fynes
+shewed me that the king hath commanded my lord Schyvers to provide
+theym for you ; RERUM,II,382.019.190
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+and also for money for you , my Lord Schyvers also shal delivere you
+from tyme to tyme ; to whom ye maye sende from tyme to tyme as it shal
+please you . RERUM,II,382.019.191
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+And also my Lord Schyvers hath saied to my Lord Feynes , that he hath
+sent to you alle redy both money and clothes , RERUM,II,382.019.192
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+and ye shal have more money shortely . RERUM,II,382.019.193
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+And my Lord your broder hath noo maner aunswer by John Coke
+RERUM,II,382.019.194
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+but alle is referred to your lettre . RERUM,II,382.019.195
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+Somm menn saye here that thambassadors ar on thissyde commen ,
+RERUM,II,382.019.196
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+but surely I here it not : RERUM,II,382.019.197
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+aggreed it is sayed they bee of suretie , and writing therupon commen
+hider xiiij. dayes past . RERUM,II,382.019.198
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+Rennyng noyse also that mariage $shall $be {TEXT:shalbe} bytwix K. H.
+and my Lady of Savoye ; and that also that a comynycacion there is for
+aggrement to bee made bytwix you and K. H.; RERUM,II,382.019.199
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+and if it were soo , I thinke ye shuld bee prevy to hyt .
+RERUM,II,382.019.200
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+Toysonn is here commen RERUM,II,382.019.201
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+and retorneth not , wheder the ambassadors be commen or not .
+RERUM,II,382.019.202
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+Sir , the Bastart have I handelled as ye have commanded me ,
+RERUM,II,382.019.203
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+and he is verrey sory of your caas , RERUM,II,382.019.204
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+and taketh on hym great defaulte ; RERUM,II,382.019.205
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+but asfor his trowthe ye knowe hit : RERUM,II,382.019.206
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+and I shewed hym as ye wrote to me , RERUM,II,382.019.207
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+but he besecheth you to have writing of your own hand touching your
+plaisir , what ye wol he shal doo . RERUM,II,382.019.208
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+And muche he hath mervailled that ye sent not to hym neyther William
+ner Hans ; RERUM,II,382.019.209
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+and the Bastart told me hym sylf that he knewe wel his wordes did him
+noo good . RERUM,II,382.019.210
+
+<P_II,383>
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+And asfor the hors , William hath hym , RERUM,II,383.019.211
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+and he was not sold . RERUM,II,383.019.212
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+Bankes and Thomas had their money after , as your Grace appointed ; and
+William also money of me to disloge his hors , RERUM,II,383.019.213
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+and they yode toguyder to Arneham . RERUM,II,383.019.214
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+And Yonker Florens recommandeth hym unto you as your servaunt if it
+laye in hym to doo you any service . RERUM,II,383.019.215
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+And he hath sent a lettre to my lord the Bastart of Burgoyne for to
+have iiij. of your servauntes into wages ; which lettre I have sent to
+Bottesford by Mr. Paules . RERUM,II,383.019.216
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+I mette hym in Berges to thentent Bottesford maye goo with alle to
+Arneham ; RERUM,II,383.019.217
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+and Mr. Pawles wol take Bottesford ij. guld. Brab. in his purs .
+RERUM,II,383.019.218
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+And Edward is wol amended , RERUM,II,383.019.219
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+and goeth up and down in his chamber ; RERUM,II,383.019.220
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+withoute faulte , Mr. Paules telleth me , his legge $shall $be
+{TEXT:shalbe} hole made . RERUM,II,383.019.221
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+Hans Nagell and Claus Baker recommande theym humbly unto you .
+RERUM,II,383.019.222
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+Jesus preserve you . RERUM,II,383.019.223
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+Written at Andewarpen , the xx. day of December . RERUM,II,383.019.224
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+Your humble servaunt , Thomas Kyllyngworth . RERUM,II,383.019.225
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+Hans Nagell openned your mynd , as ye knowe , by Gilken , to my Lordes
+of Ville and Fynes . RERUM,II,383.019.226
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+He wold goo with alle feyne , by him sylf or by other ;
+RERUM,II,383.019.227
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+he named Alexander the goldsmyth to me . RERUM,II,383.019.228
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+On Wennysday last was , the king made knightes of the Toyson at
+Myddelburgh x. or xij. , amonges whiche were my Lord Nassou , Don John
+Emanuel , Monsieur de Emery , Yonker Florens and Monsieur de la Layn ,
+etc. ; RERUM,II,383.019.229
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+but my Lord of Gheldres wold not comme yn to receve it .
+RERUM,II,383.019.230
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+And I mighte comme where thambassador with the clobbed fote is , I wold
+thinke to knowe somwhat of hym . RERUM,II,383.019.231
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+And Hans Nagell told me that a servaunt of the Kinges told hym that
+herde the said ambassador saye but late , that your pais shuld bee made
+. RERUM,II,383.019.232
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+Sir , my newes ar but smalle . RERUM,II,383.019.233
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+Yf ye have any , I beseche you to comforte me ; RERUM,II,383.019.234
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+ye shal perceive many thinges by the maner of menn there ;
+RERUM,II,383.019.235
+
+AUTHOR:THOMAS_KILLINGWORTH:MALE:FAMILY_SERVANT/STEWARD:_:_
+RECIPIENT:EDMUND_DE_LA_POLE:MALE:_:1472:33
+LETTER:RERUM_019:E1:1505:UNKNOWN:FAMILY_SERVANT
+and that it maye please you that I maye knowe your mynd by this bringer
+. RERUM,II,383.019.236

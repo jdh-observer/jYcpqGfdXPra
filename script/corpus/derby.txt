@@ -1,0 +1,2882 @@
+<B_DERBY>
+
+<Q_DER_C_1533_T_ESTANLEY> <L_DERBY_001> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_WILLIAM_FITZWILLIAM_2>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1506?>
+
+<P_13>
+
+{ED:II.}
+
+{COM:EDWARD_STANLEY_TO_SIR_WILLIAM_FITZWILLIAM}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:27?
+LETTER:DERBY_001:E1:1533:COPY:OTHER
+A Lr~e to S=r= Willm~ ffitzwillm~ concernyng the same . DERBY,13.001.1
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:27?
+LETTER:DERBY_001:E1:1533:COPY:OTHER
+Cosyn , in my moost herty maner I recomend me to you , right glad to
+here of your good welfar ; Certyfying you , that I and S=r= Henry
+ffarington knyght , perceyvyng by your severall lr~es to vs directed ,
+that it was the Kings pleas=r= , y=t= we shuld send vp to his Highnes
+an Examynac~on by vs takon towching the sklaunderous sayings of on S=r=
+Jamys Harrison , preist , anends the kyngs highnes and the quenes grace
+, whiche examynac~on I and the said Henry haue send vnto you herein
+closed , desiring you , that the same may be presented vnto his highnes
+by your hands or by the hands of my s~uant this berer , as ye shall
+thynke moost convenyent . DERBY,13.001.2
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:27?
+LETTER:DERBY_001:E1:1533:COPY:OTHER
+And thus I pray to God to send you as well to fare as I wold myself .
+DERBY,13.001.3
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:27?
+LETTER:DERBY_001:E1:1533:COPY:OTHER
+At &c. DERBY,13.001.4
+
+<Q_DER_C_1533_T_ESTANLEY> <L_DERBY_002> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_WILLIAM_DALTON_2>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_13>
+
+{ED:III.}
+
+{COM:EDWARD_STANLEY_TO_WILLIAM_DALTON}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_DALTON_2:MALE:_:_:_
+LETTER:DERBY_002:E1:1533:COPY:OTHER
+A Lr~e to Willm~ Dalton squyer c~ocernyng this mater . DERBY,13.002.5
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_DALTON_2:MALE:_:_:_
+LETTER:DERBY_002:E1:1533:COPY:OTHER
+Welbeloved , I grete you well . DERBY,13.002.6
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_DALTON_2:MALE:_:_:_
+LETTER:DERBY_002:E1:1533:COPY:OTHER
+And wher it is soe , that it is alleged , that sume of yo=r= tenn~ts or
+s~vants shuld be present , when a lewd Preist shuld speke raylyng and
+vnfyttyng words , as well anends the Kyngs highnes as the Quenes grace
+, I desire you and in the Kings name com~ande you , that ye endevo=r=
+you and do as moche as in you lyeth to cause as many of suche of the
+said persons as S=r= Henry ffaryngton knyght shall name vnto you to be
+and personally to appere before me at Ley , Sir Richard Hoghton is
+house , on Sunday next by ii of the cloke , wher they shall forther
+know of my mynd and pleas=r= and {ED:on_?} this behalf ; at whiche day
+and tyme I wold have you also to be w=th= me . DERBY,13.002.7
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_DALTON_2:MALE:_:_:_
+LETTER:DERBY_002:E1:1533:COPY:OTHER
+ffaile ye not herof w=th=out makyng any feaned excuses of their absens
+. DERBY,13.002.8
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_DALTON_2:MALE:_:_:_
+LETTER:DERBY_002:E1:1533:COPY:OTHER
+And thus fare ye well . DERBY,13.002.9
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_DALTON_2:MALE:_:_:_
+LETTER:DERBY_002:E1:1533:COPY:OTHER
+At Whalley . DERBY,13.002.10
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_DALTON_2:MALE:_:_:_
+LETTER:DERBY_002:E1:1533:COPY:OTHER
+A like Lr~e to the Vyker of Croston concernyng the same .
+DERBY,13.002.11
+
+<Q_DER_C_1536_T_HENRY8> <L_DERBY_003> <A_HENRY_TUDOR_VIII>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1491> <R_EDWARD_STANLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1508>
+
+<P_18>
+
+{ED:I.}
+
+{COM:HENRY_VIII_TO_EDWARD_STANLEY}
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_003:E1:1536:COPY:OTHER
+The Copy of the Kings first lr~e sent to my Lord . DERBY,18.003.12
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_003:E1:1536:COPY:OTHER
+By the King . DERBY,18.003.13
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_003:E1:1536:COPY:OTHER
+Right trusty and right welbeloved Cosyn , we grete you well .
+DERBY,18.003.14
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_003:E1:1536:COPY:OTHER
+And forasmoche as div~se trayto=r=s have lately assembled theymselfs
+together in Lyncolnshire and therabouts and at the wrytyng <P_19> herof
+do yet remayn trayterously together , albeit We have p~pared for their
+rep=r=ssion , as we dowt not but they $shall $be {TEXT:shalbe} shortly
+subduyd to the terrible example of all others ; yet being the events of
+suche interp~ses vncerteyn , and myndyng to be always in such aredynes
+as for such chaunces $shall $be {TEXT:shalbe} requysit and necessary ,
+Our pleasure and comandment ys , that vpon the receyt herof ye shall
+soo p~pair yourself and put all o=r= people being their abowt you in
+all those parties in suche a toward aredynes , as , the case soo
+requiring , you may , w=th= all the force ye be hable to make , in your
+own person wayt upon us w=th= the same , in suche place as we shall
+lymyt vpon oure next lr~es to be for that p~pose sent vnto you .
+DERBY,19.003.15
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_003:E1:1536:COPY:OTHER
+And herof faile ye not , as we specyally trust you . DERBY,19.003.16
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_003:E1:1536:COPY:OTHER
+And as for the contrary or yo=r= slaknes herein , as ye will answar at
+your extreme p~ill . DERBY,19.003.17
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_003:E1:1536:COPY:OTHER
+Yeuen vnder o=r= signet at o=r= Castell of Wyndsor , the x day of
+October , the xxviii=th= yere of our Reign . DERBY,19.003.18
+
+<Q_DER_C_1536_T_ESTANLEY> <L_DERBY_004> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_NAMES_UNKNOWN_2>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_19>
+
+{ED:II.}
+
+{COM:EDWARD_STANLEY_TO_"THE_GENTILMEN"}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_004:E1:1536:COPY:OTHER
+The lr~e of my Lord sent to $the Gentilmen vpon this forsaid lr~e .
+DERBY,19.004.19
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_004:E1:1536:COPY:OTHER
+Right trusty and welbeloved , I comend me to you . DERBY,19.004.20
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_004:E1:1536:COPY:OTHER
+And wher yt hath pleased the Kings Highnes to write to me his lr~es
+bering date at his Castell of Wyndsor the x day of October the xxviii
+yere of his graces reigne , com~andyng me by the same vpon the Receyt
+therof I shuld soo p~pair myself and put all his people being in these
+p~tie+g <em> in suche a toward aredynes </em> , as , the case soo
+requiring , I may , w=th= all the force I am hable to <P_20> make by
+his graces comandment , in my own person wayt upon hym w=th= the same ,
+in suche place as his Highnes shall lymyt vpon his next lr~es to be for
+that p~pose sent to me , for the rep=r=ssing and subduyng of such
+traytors as be assembled and yet remayn trayterously together in
+Lyncolnshire and thereabowts . Wherfor for my part I right hertly desir
+you and neu~theles vpon the Kings behalf straitly charge and com~and
+you , that ye w=th= all hast and diligent spede do put yo=r=self and
+all your cumpany in aredynes to s~ve his grace : And to be w=th= me at
+suche tym as it shall please his Highnes to com~and me by his next
+lr~es , at suche place as I shall then lymyt ; DERBY,20.004.21
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_004:E1:1536:COPY:OTHER
+and at the receyt of the said lr~es ye $shall $be {TEXT:shalbe}
+ascerteyned of the Kings forther pleas=r= . DERBY,20.004.22
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_004:E1:1536:COPY:OTHER
+And by yo=r= towardnes herin ye may deserve the Kings herty thankes as
+his faithfull and true subgets . DERBY,20.004.23
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_004:E1:1536:COPY:OTHER
+And as for the contrary your slaknes herin , as ye will answar his
+grace at your extreme p~ill . DERBY,20.004.24
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_004:E1:1536:COPY:OTHER
+Writon at Knowseley , the xiiii day of October , the yere of our
+Souu~aigne Lord aforsaid . DERBY,20.004.25
+
+<Q_DER_C_1536_T_HENRY8> <L_DERBY_005> <A_HENRY_TUDOR_VIII>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1491> <R_EDWARD_STANLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1508>
+
+<P_22>
+
+{ED:III.}
+
+{COM:HENRY_VIII_TO_EDWARD_STANLEY}
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_005:E1:1536:COPY:OTHER
+The secund lr~e sent to my Lord by the King . DERBY,22.005.26
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_005:E1:1536:COPY:OTHER
+Right trusty and right welbeloved Cosyn , we grete you well .
+DERBY,22.005.27
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_005:E1:1536:COPY:OTHER
+And wher by o=r= lr~es lately addressed vnto you we gaue in com~andment
+vpon the sight of the same to put all yo=r= force in aredynes vpon a
+days warnyng to serve us in suche sort and place as we shuld lymyt and
+apoynt vnto you ; forasmoche as for the repression of certeyn
+trayto=r=s assembled in the parties of Holdernes and Holdenshire &
+thereabouts We have made our Cosyn of Shrewisbury our Lieuten~nt , and
+appoynted hym w=th= a mayn armye to encounter w=th= theym and to geve
+theym <P_23> suche a stroke , that all others by their example maye
+beware of like attemptats , Our pleas=r= is , that lyke as we have
+appoynted our Cosyn of Rutland and Huntyngdon to ioyne w=th= all the
+force they be hable to make w=th= hym in that io=r=ney , soo shall you
+immedyately vpon his aduertisment put yourself and all your forces in
+aredynes and marche as fast w=th= the same towards theym as you can
+possible ; vsing yourself at your cu~myng vnto hym and befor in all
+things as he shall , being our Lieutenant , direct and appoynt you :
+forseing also that ye leave suche substancyall guydes in all your
+quarters behynd you , as may kepe the same in parfact staye and quyet .
+DERBY,23.005.28
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_005:E1:1536:COPY:OTHER
+And as for your charges , We have appoynted a Tresorer to wayt vpon our
+said Cosyn and <P_24> to see convenyent recompense made to all men
+accordyngly . DERBY,24.005.29
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_005:E1:1536:COPY:OTHER
+And therfor now shew yourself as becomyth you , that ye may answar to
+that good opynyon we have conceyved of your good and loyal hert towards
+vs ; yo=r= s~vices to be don wherin we shall never put in oblyvyon .
+DERBY,24.005.30
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_005:E1:1536:COPY:OTHER
+Yeuen vnder o=r= signet at our Castell of Wyndsor , the xv day of
+October , the xxviii yere of o=r= Reign . DERBY,24.005.31
+
+<Q_DER_C_1536_T_ESTANLEY> <L_DERBY_006> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_GEORGE_TALBOT>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1468>
+
+<P_26>
+
+{ED:IV.}
+
+{COM:EDWARD_STANLEY_TO_LORD_SHREWSBURY}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:GEORGE_TALBOT:MALE:_:1468:68
+LETTER:DERBY_006:E1:1536:COPY:OTHER
+The Copy of my Lords lr~e sent to my Lord Steward the Kings Lieuten~nt
+vpon the said lr~e . DERBY,26.006.32
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:GEORGE_TALBOT:MALE:_:1468:68
+LETTER:DERBY_006:E1:1536:COPY:OTHER
+My vere and singular good Lord , in my moost humble man~ I com~end me
+to your Lordship . DERBY,26.006.33
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:GEORGE_TALBOT:MALE:_:1468:68
+LETTER:DERBY_006:E1:1536:COPY:OTHER
+And <em> wher I </em> haue receyued the Kings moost honorable lr~es to
+my great cumforth , wherof I haue sent you herin closed a vere true and
+examyned copy , wherby your Lordship may likewise p~ceyue his graces
+pleas=r= and com~andment , I right hertly desir you I may be aduertysed
+by your wrytyng of your mynd therein concernyng all thinges accordingly
+. DERBY,26.006.34
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:GEORGE_TALBOT:MALE:_:1468:68
+LETTER:DERBY_006:E1:1536:COPY:OTHER
+And I shall be moche more gladder to do his Grace s~uice , then he to
+com~and me , to the vtter most of my lytill power accordyng to my moost
+bound dutye : DERBY,26.006.35
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:GEORGE_TALBOT:MALE:_:1468:68
+LETTER:DERBY_006:E1:1536:COPY:OTHER
+and the rather to wayt upon you by his Graces com~andment I must desir
+your Lordship , forasmoche as this Cuntry is ferr distant from the
+place wher you be , and the people vere pore and of small habylytie ,
+that ye will remember their conduyt money , when we shall set furthe ,
+whiche wold rec~ofort theym vere moche , or to appoynt a place wher I
+shall shew theym that they shall receyue their money and wages .
+DERBY,26.006.36
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:GEORGE_TALBOT:MALE:_:1468:68
+LETTER:DERBY_006:E1:1536:COPY:OTHER
+And thus o=r= Lord Jh~u euer pres~ue you in honor and long lyff
+DERBY,26.006.37
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:GEORGE_TALBOT:MALE:_:1468:68
+LETTER:DERBY_006:E1:1536:COPY:OTHER
+At Lathom , the xx=th= day of October . DERBY,26.006.38
+
+<Q_DER_C_1536_T_HENRY8> <L_DERBY_007> <A_HENRY_TUDOR_VIII>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1491> <R_EDWARD_STANLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1508>
+
+<P_28>
+
+{ED:VII.}
+
+{COM:HENRY_VIII_TO_EDWARD_STANLEY}
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_007:E1:1536:COPY:OTHER
+The third lr~e sent to my Lord by the King w=th= this forsaid
+Com~ission . DERBY,28.007.39
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_007:E1:1536:COPY:OTHER
+Right trusty and right welbeloved Cosyn , we grete you well .
+DERBY,28.007.40
+
+<P_29>
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_007:E1:1536:COPY:OTHER
+And wher as by o=r= former lr~es addressed vnto you We gaue you
+specially in com~andment , not only to put yo=r= force in aredynes ,
+but also vpon advertisment from o=r= Cosyn of Shrewisbury , o=r=
+Lieuten~nt for the Repression of the Rebellion in the North parties ,
+w=th= all your said forces spedely to addresse yourselfe vnto hym ,
+whersoever he shuld chance to be ; Vnderstanding sythens that ther hath
+byn lyke insurrecc~on & assemble lately attempted in the borders of
+Lancashir , specially abowt the Abbey of Salley <P_30> and other
+partyes ther about , insomoche the Abbot and Monkes be agayn by the
+Trayto=r=s of that assemble restored to the possession of the said
+Abbey , as we be informed : We have determyned and resolued , any thing
+in o=r= said former lr~es to the contrary herof notwithstandyng , to
+com~and you , that , gathering all your force togethers and callyng
+vnto you all the Gentilmen of the Cuntrey therabowts , you shall
+immedyately vpon the sight herof procede w=th= the same to the
+repression of the said Rebellion and Assemble in the said borders of
+Lancashir or elswher w=th=in or nere the same , yf any suche do yet
+contynue . DERBY,30.007.41
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_007:E1:1536:COPY:OTHER
+And semblably to the repression of all suche lyke attemptats , that
+$shall $be {TEXT:shalbe} interprised in those partyes , and to travaill
+to the vttermost of your power to apprehend the Captaynes $and chief
+doers of the same , and incontenently to cawse theym like traytors to
+be executed their ; specially in your own person , w=th= all your said
+forces , to the said Abbey of Salley , in case ther be not more nede of
+redresse in other places ; in which case ye shall addresse first y=t=
+which hath moost nede and after do the other . DERBY,30.007.42
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_007:E1:1536:COPY:OTHER
+And if ye shall fynd the late Abbot and Monkes therof remaynyng in the
+possession of the Howse , havyng receyved yt agayn at the handes of
+suche Trayto=r=s and Rebelles , We woll then ye shall take the said
+Abbot and Monkes w=th= their assistens furth w=th= violence , and
+w=th=out any maner of delay , in their Monkes <P_31> apparell , cause
+theym to be hanged up as moost errant Trayto=r=s and movers of
+insurrecc~on and sedic~on accordyngly ; having speciall regard and
+espiciall care through owt all the Cuntrey and parties abowt you , that
+no town or village begynne ones to assemble or gather together , but
+that they maye immediatly w=th= the Sworde be repressed to the terrible
+example of all others in tyme cu~myng . DERBY,31.007.43
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_007:E1:1536:COPY:OTHER
+And this matter for your partyes round abowt you We desir and praye you
+lyke a man of yo=r= hono=r= to attend , and in no wyse to depart to our
+sayd Cosyn of Shrewisbury , as we befor appoynted . DERBY,31.007.44
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_007:E1:1536:COPY:OTHER
+And dowt you not We shall soo remember your charges & consider your
+s~vice , that you shall have cause to be satysfyed and contented .
+DERBY,31.007.45
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_007:E1:1536:COPY:OTHER
+And for your suffycyent auctorytie for the purpose to levye o=r= force
+and people in those partyes abowt you We send vnto you herew=th= a
+c~omission vnder o=r= p~vey Signet DERBY,31.007.46
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_007:E1:1536:COPY:OTHER
+at our Castell of Wyndsor , the xx day of October , the xxviii yere of
+o=r= Reign . DERBY,31.007.47
+
+<Q_DER_C_1536_T_ESTANLEY> <L_DERBY_008> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_HENRY_TUDOR_VIII>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1491>
+
+<P_32>
+
+{ED:IX.}
+
+{COM:EDWARD_STANLEY_TO_HENRY_VIII}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_008:E1:1536:COPY:OTHER
+The first Lr~e of my Lord sent unto the King . DERBY,32.008.48
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_008:E1:1536:COPY:OTHER
+Pleaseth your Highnes to be advertysed I haue receyued your Graces
+lr~es yesterday in the mornyng : DERBY,32.008.49
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_008:E1:1536:COPY:OTHER
+And this day the chief Gentilmen of this Shir , your S~vants and my
+frynds , were here w=th= me , wher yt was fynally concluded amongst vs
+, that , god wylling , I and they , w=th= the force of the Shir and
+borders of the same , intend to set forward towards Salley on Sat~day
+next , where the late Abbot and the monkes of the same yet remayne ,
+And soo to procede forward for the xecuc~on of your Graces com~andment
+. DERBY,32.008.50
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_008:E1:1536:COPY:OTHER
+And for feare lest o=r= p~pose shuld be knowen to theym , I have cawsed
+yt to be noysed , that I intend to advance forwards against other your
+Rebelles and Trayto=r=s . DERBY,32.008.51
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_008:E1:1536:COPY:OTHER
+And forsomoche as the Cuntry is bare in , and the com~ons and
+inhabitants of the same vere bare and scarse of money by reason of
+their charges in p~paring theymselfs to do your grace s~vice , I humbly
+<P_33> beseche your grace to haue their necessytye in your remembrance
+, w=th= suche spede as $shall $be {TEXT:shalbe} pondered and considered
+by your highe wysdome . DERBY,33.008.52
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_008:E1:1536:COPY:OTHER
+And I pray god to pres~ve your grace in high hono=r= and excellencye .
+DERBY,33.008.53
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_008:E1:1536:COPY:OTHER
+At Lathom , the xxiii {ED:i_?} day of October . DERBY,33.008.54
+
+<Q_DER_C_1536_T_ESTANLEY> <L_DERBY_009> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_THOMAS_CROMWELL>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1485?>
+
+<P_33>
+
+{ED:X.}
+
+{COM:EDWARD_STANLEY_TO_THOMAS_CROMWELL}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:DERBY_009:E1:1536:COPY:OTHER
+A l~re to my Lord P~vey Seale concernyng the same matter .
+DERBY,33.009.55
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:DERBY_009:E1:1536:COPY:OTHER
+My vere good Lord , in my moost hertyst maner I recom~end me to yo=r=
+good Lordship : Signyfying vnto you , That I , w=th= the force of this
+Shir and the Borders of the same , intend on Saturday next to set
+forward towards Salley , for thexecuc~on of the Kings com~andment
+aganst the Late Abbot and Monkes of the same . DERBY,33.009.56
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:DERBY_009:E1:1536:COPY:OTHER
+And bycawse the Inhabytants of the Cuntrey , who must accumpany me in
+this iorney , be vere bare and skarse of money by reason of suche
+charges as they haue byn at to s~ve the Kings Highnes , I moost hertly
+desir you to be a meane to the Kings g~ce for money for their wages ;
+DERBY,33.009.57
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:DERBY_009:E1:1536:COPY:OTHER
+for it is vnknowen to me what rescous or socur they maye hap to haue ,
+DERBY,33.009.58
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:DERBY_009:E1:1536:COPY:OTHER
+$for $els {TEXT:forels} I wold thinke the Kings said high comandment
+myght be well accomplished w=th= lesse force then I will take w=th= me
+but for feare of the same . DERBY,33.009.59
+
+<Q_DER_C_1536_T_ESTANLEY> <L_DERBY_010> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_HENRY_TUDOR_VIII>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1491>
+
+<P_34>
+
+{ED:XI.}
+
+{COM:EDWARD_STANLEY_TO_HENRY_VIII}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_010:E1:1536:COPY:OTHER
+Another lr~e sent to the King at the same tyme . DERBY,34.010.60
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_010:E1:1536:COPY:OTHER
+Pleaseth your Highnes to be aduertysed , how that a S~vant of myn ,
+havyng busynes in Yorkeshir , was taken by the Rebelles there and
+compelled aganst his good will to be sworn to theym ; DERBY,34.010.61
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_010:E1:1536:COPY:OTHER
+and after he was sworn , they , supposing that he wold fullfill their
+com~andment , dyrected a lr~e vnto me , DERBY,34.010.62
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_010:E1:1536:COPY:OTHER
+and com~anded hym in any wyse to delyuer the same to me .
+DERBY,34.010.63
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_010:E1:1536:COPY:OTHER
+And soo my said S~vant dyd at his cu~myng whom {ED:home} ; whiche lr~e
+I send herin closed to <P_35> your grace , sealed as it was delyuered
+vnto me , w=th=out any knolage of the contents therof ; As knoith our
+Lord god , who ever p~s~ve yo=r= high magestye . DERBY,35.010.64
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_010:E1:1536:COPY:OTHER
+At my pore howse of Lathom , the $24th day of October . DERBY,35.010.65
+
+<Q_DER_C_1536_T_ESTANLEY> <L_DERBY_011> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_NAMES_UNKNOWN_2>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_35>
+
+{ED:VIII.}
+
+{COM:EDWARD_STANLEY_TO_"THE_GENTILMEN"}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_011:E1:1536:COPY:OTHER
+A lr~e to the Gentilmen vpon the same , sent by my Lord .
+DERBY,35.011.66
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_011:E1:1536:COPY:OTHER
+I com~end me to you , DERBY,35.011.67
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_011:E1:1536:COPY:OTHER
+and desir you and neu~theles vpon the Kings behalf charge and com~and
+you , that ye , w=th= all suche Cumpeny as ye be hable to make in
+harnes on fote , be w=th= me at Whalley on tuysday at nyght next
+cu~myng , if it be possible , and that your Cumpeny bryng vytaill w=th=
+theym for v or vi days , and no moo horses but as many as shall s~ue
+for the cariage of the same , except gentilmen and such as list to ryde
+, wher ye <P_36> shall kno forther of the Kings pleaso=r= and myn .
+DERBY,36.011.68
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_011:E1:1536:COPY:OTHER
+I have sent to the King for your wages and conduyt money , whiche I
+thinke $will $be {TEXT:wilbe} w=th= me right shortly . DERBY,36.011.69
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_011:E1:1536:COPY:OTHER
+And thus fare ye well . DERBY,36.011.70
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_011:E1:1536:COPY:OTHER
+At my Mano=r= of Lathom , the xxv day of October , the xxviii yere of
+our Souu~aign Lords Reign . DERBY,36.011.71
+
+<Q_DER_C_1536_T_ESTANLEY> <L_DERBY_012> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_NAMES_UNKNOWN_2>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_37>
+
+{ED:XXI.}
+
+{COM:EDWARD_STANLEY_TO_"THE_GENTILMEN"}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_012:E1:1536:COPY:OTHER
+The Lr~e my Lord sent to the Gentilmen immediately vpon the same .
+DERBY,37.012.72
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_012:E1:1536:COPY:OTHER
+I Certefye you all my frynds , s~uants and ten~nts , that the <P_38>
+{ED:this} day I receyued a Lr~e fro~ my Cosyns the Erle of Shrewisbury
+, the Kings Lieuten~nt , the Erle of Rutland and the Erle of Huntyngdon
+by the hands of on Berwyke , the Kings Herald , by the whiche lr~e they
+haue certefyed me , that the Com~ons of Yorkeshir be sparpoled and
+retyred whom , and that they have staid theym . Wherfor they haue
+desired me , and in the Kings name charged me , to sparple my cu~pany
+w=th=out doing any hurt or molestac~on to theym or any of theym .
+DERBY,38.012.73
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_012:E1:1536:COPY:OTHER
+And thus yt is proclamed by the said Herald in Preston . Wherfor I
+desir you to dep~t in Godds peace and the Kings to your own howses ,
+and always to be redy to s~ve the King , when I shall vpon the Kings
+behalf com~and you . DERBY,38.012.74
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_012:E1:1536:COPY:OTHER
+And I $shall $be {TEXT:shalbe} a meane to the Kings grace to consider
+your costes , paynes and good mynds , that ye have byn at to s~ve his
+grace . DERBY,38.012.75
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_012:E1:1536:COPY:OTHER
+Writon at Preston this Munday , the xxx day of October , at xi of the
+clokke . DERBY,38.012.76
+
+<Q_DER_C_1536_T_ESTANLEY> <L_DERBY_013> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_HENRY_TUDOR_VIII>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1491>
+
+<P_38>
+
+{ED:XII.}
+
+{COM:EDWARD_STANLEY_TO_HENRY_VIII}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_013:E1:1536:COPY:OTHER
+The secvnde lr~e sent by my Lord to the King . DERBY,38.013.77
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_013:E1:1536:COPY:OTHER
+Pleaseth your Magestye to be advertysed , that vpon Munday last past I
+, being at yo=r= town of P~ston in Lancashir their accompanyed and in
+other townes and vyllages nere therabowts w=th= <P_39> the moost part
+of your true and faithfull subgetts of the same Shir , was then in a
+redynes to have advanced forward toward Salley to have executed your
+graces com~andment ; DERBY,39.013.78
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_013:E1:1536:COPY:OTHER
+And the said Munday at nyght I had appoynted to haue loged at the Abbey
+of Whalley , which is but iiii myles from Salley : DERBY,39.013.79
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_013:E1:1536:COPY:OTHER
+And abowte ix of the clokke of the same Munday cam on Barwyke , your
+Herald at Armes , vnto me , DERBY,39.013.80
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_013:E1:1536:COPY:OTHER
+and having your Cote Armur vpon his body delyuered me a lr~e , dyrected
+vnto me fro~ my Lord the Erle of Shrewsbury , your graces Lieuten~nt ,
+my Lord of Rutland and my Lord of Huntyngdon : Theffect of whiche lr~e
+is this : DERBY,39.013.81
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_013:E1:1536:COPY:OTHER
+they Certyfyed me by the same , that my Lord of Norffolke and they had
+stayed the com~ons of Yorkeshir , and that eu~ry man was sparpoled and
+retyred whom {ED:home} unto their own howses ; And that my sayd Lord of
+Norffolke was departed to your <P_40> Highnes ; And that they were
+informed fro~ my Lord Darcy , that I w=th= my Retynue had appoynted to
+be vpon the said Munday at Whalley Abbey ; DERBY,40.013.82
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_013:E1:1536:COPY:OTHER
+And forsomoche as all thynges was <P_41> well staid , as they did write
+: DERBY,41.013.83
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_013:E1:1536:COPY:OTHER
+Therfor they desired and praid me , and neuertheles in your graces name
+charged me , that I shuld sparple {ED:disperse} my said cu~peny
+w=th=out doing any hurt or molestac~on to the said com~ons or any of
+theym ; And that I shuld not faill therof , as I wold answarr unto your
+Highnes at my p~ill . DERBY,41.013.84
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_013:E1:1536:COPY:OTHER
+And lyke charge your said Herald did giff me in your graces name .
+DERBY,41.013.85
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_013:E1:1536:COPY:OTHER
+And after the Receypt of the saides lr~es , and after Counsaill taken
+w=th= the Lord Mountegle then p~sent and w=th= a great nomber of the
+gentilmen of the Shir , and w=th= their assents , I and they thynkyng
+the said lr~e and com~andment to be in effect as yo=r= com~andment ,
+considering yt came from your said Lieuten~nt , did immedyatly sparple
+the said Cumpany soo assembled as is aforsaid , DERBY,41.013.86
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_013:E1:1536:COPY:OTHER
+and soo departed whomwards . DERBY,41.013.87
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_013:E1:1536:COPY:OTHER
+And the same Munday , in the moro , the com~ons of the Borders of
+Yorkeshir nere to Salley , w=th= sume of the Borders of Lancashir nere
+to theym , assembled theym together , DERBY,41.013.88
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_013:E1:1536:COPY:OTHER
+and w=th= force then unknowen to me sodenly toke the said Abbey of
+Whalley , wher I had intended to have loged that nyght .
+DERBY,41.013.89
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_013:E1:1536:COPY:OTHER
+And when they herd <P_42> and knew , y=t= I had recyved suche a lr~e
+and com~andment as is aforsaid , then they sparpoled their Cumpany the
+same day . DERBY,42.013.90
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_013:E1:1536:COPY:OTHER
+And truly all thoughe the wayes and passages to Whalley and Salley be
+vere cumberous , strait , full of myre impedyments by waters and
+otherwise , yet I w=th= the power of yo=r= true subgetts soo assembled
+wold have put all o=r= bodyes in the adventure to haue executed yo=r=
+former com=t= , if the said lr~e had not cum to my hands .
+DERBY,42.013.91
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_013:E1:1536:COPY:OTHER
+And w=th= gods grace I have no dowt , all thoghe a great fray therof
+had enswyd as it was lyke to have byn , in conclusion the Trayto=r=s
+soo assembled shuld fynally haue had an ouer thro and haue byn
+vaynquyshed . DERBY,42.013.92
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_013:E1:1536:COPY:OTHER
+And wher ther hath byn lately an other Insurrecc~on and Rebellion in
+the borders of Westm~land , Cumberland and in that part of Lancashir
+northward from your town of Lancaster now sparpoled , who had intended
+, as yt is to be suspected , and as I do verely beleue , to haue comen
+thro this Shir , yf they had not byn afrayd of me and other your true
+subg~ soo assembled , as is aforsaid , at Preston , the Circumstances
+wherof I feare me were to tedyous to your grace here to be put in
+w~tyng of all that I have herd & knowen therof , w=th= the fal~s and
+feaned lr~es and devyses that hath byn feaned by that assemble and
+others , whiche lr~es and devyses they sparple abrode amongst your
+subgects by settyng theym on Churche dores and otherwise : Therfor I
+haue made a byll of Artycles sumthing breifly therof , signed w=th= my
+hand , whiche I deliuered <P_43> to your s~vant Henry Acres , who was
+w=th= me and viii persons in his Cumpeny to haue s~ved your Grace , and
+can instruct yo=r= g~ce at the length therof . DERBY,43.013.93
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_013:E1:1536:COPY:OTHER
+And in these affairs and all other , accordyng to my bound dutye , I
+shall always during my lyff as your true subget be redy w=th= hert and
+hand to do you such s~ves as lyeth in my power , w=th= asmoche obedyens
+as I can ymagyn ; As o=r= Lord knowes , who pres~ue your magestye and
+royall Estat in high hono=r= and excellencye . DERBY,43.013.94
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_013:E1:1536:COPY:OTHER
+Writon at my mano=r= of Lathom on all Saincts Day , abowt iiii of
+Clokke after none . DERBY,43.013.95
+
+<Q_DER_C_1536_T_HENRY8> <L_DERBY_014> <A_HENRY_TUDOR_VIII>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1491> <R_EDWARD_STANLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1508>
+
+<P_53>
+
+{ED:XXVI.}
+
+{COM:HENRY_VIII_TO_EDWARD_STANLEY}
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_014:E1:1536:COPY:OTHER
+By the King . DERBY,53.014.96
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_014:E1:1536:COPY:OTHER
+Right trusty and right welbiloved Cosyn , we grete you well .
+DERBY,53.014.97
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_014:E1:1536:COPY:OTHER
+And have receyued your lr~es Dated at yo=r= Mano=r= of Lathom on All
+halowen day last passed , and by the contyn~nt wherof do right well
+p~ceyve , aswell your towardnes to haue executed our com~andment at
+Salley , for the whiche we geue vnto you our moost herty thankes , as
+your stay and retirement from the same vpon certeyn l~res sent vnto you
+from o=r= Cosyn of Shrewisbury , our Lieuten~nt , and other of our
+Counsaill their w=th= hym ; Wherin also ye dyd vse yourselfe discreitly
+, both in gevyng place to their adu~tisments & semblably in the quyet
+bestowing agayn of our people that were w=th= you ; And principally for
+the setting furth of the truthe in certeyn Artycles , subscribed w=th=
+your hand , to instruct o=r= good subiects therof , And by the same to
+arme theym aganst the moost fals , trayto=r=ose and malicious devises ,
+inuented and set furthe by the Rebelles ; all whiche yo=r= procedings
+shall vndowt~ly remayn for euer in our herts , and bring furth from
+tyme to tyme suche frute and effects towards you , as ye shall haue
+good cause to thinke your labours therin well imployed .
+DERBY,53.014.98
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_014:E1:1536:COPY:OTHER
+And now , good Cosyn , forasmoche as thinges be broght to sum~e quyet ,
+and that neu~theles we verely thinke the <P_54> males {ED:malice} of
+the fyrst doers of this sedic~on will worke p~vely still and otherwise
+, as they Dare , for the further accomplishment of their devolishe
+purpose , We desir and pray you to be the more vigelant , and to haue
+your forces contynually in such aredynes , as in case any new
+Insurrecc~on shuld be attempted in those partyes nere , you may eyther
+in the vere begynnyng therof w=th= violence or by good meanes rep~sse
+the same , or at the least be soo assured to haue all your said forces
+in suche a staye , as you may be hable , by the keping of the straytes
+and passages , to defend the fury of the Rebelles , tyll upon
+advertisement therof to vs We may send soco=r=s vnto you .
+DERBY,54.014.99
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_014:E1:1536:COPY:OTHER
+And especially we desir and pray you to make owt now assured espialls
+into sundry partes of Yorkeshir and the other Cuntreys , that haue
+attempted insurrecc~on , and by the same to enserche and lern certeynly
+from tyme to tyme , how the people do now vse theymselfes vppon this
+retyerment ; whether they doo applye <em> theymselfes to </em> their
+busynes and accustumed occupac~ons , or seme to forget theymselues ,
+and lyue in their fury and madnes ; And what they intend to do , and
+therof to advertyse vs w=th= diligence . DERBY,54.014.100
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_014:E1:1536:COPY:OTHER
+And to thintent that the gentilmen abowt you sholl not only perceyue
+that we take yo=r= {ED:their_?} s~vices at this tyme don vnto vs <P_55>
+in your cumpany in vere thankefull parte , but be the better wylling to
+s~ve vs agayn in semblable case , We have addressed o=r= lr~es of
+thankes to dyu~se of theym , which you shall receyue herew=th= , to be
+delyu~ed accordyng to their direcc~ons , DERBY,55.014.101
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_014:E1:1536:COPY:OTHER
+And require you hertely by your own mouthe in o=r= name to geve thankes
+to suche others , as to the rest of o=r= good subiects , as were w=th=
+you , and be now , for want of leasure to w~te mo lr~es , omytted in
+the specyall remembrance of the same . DERBY,55.014.102
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_014:E1:1536:COPY:OTHER
+Yeuen vnder o=r= Signet at o=r= Castell of Wyndsor , the vi day of
+November , the xxviii yere of our Reign . DERBY,55.014.103
+
+<Q_DER_C_1536_T_ESTANLEY> <L_DERBY_015> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_NAMES_UNKNOWN_2>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_55>
+
+{ED:XXX.}
+
+{COM:EDWARD_STANLEY_TO_"THE_GENTILMEN"}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_015:E1:1536:COPY:OTHER
+A Lr~e sent by my Lord in the Kings name to all Mayers , Constables and
+other the Kings Officers in the Com. of Lancaster . DERBY,55.015.104
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_015:E1:1536:COPY:OTHER
+I com~end me to you , DERBY,55.015.105
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_015:E1:1536:COPY:OTHER
+and desir you and neu~theles vpon the Kings behalf straitly charge and
+com~and you by vertue of his graces lr~es to me lately addressed , that
+ye vpon the Receyt herof nyghtly do cause a Watche of c~teyn hable
+persons to bee assembled in your towne and circu~spectly to see , that
+no man~er person passe therby , but {ED:unless} that they do kno who he
+is , and whither he wyll ; and to serche hym , whether he haue any
+lr~es or wrytyngs vpon hym . DERBY,55.015.106
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_015:E1:1536:COPY:OTHER
+And yf the sayds Watchmen do take any person by the nyght tyme , whiche
+they by examynac~on shall suspect to be confederat or sworn to the
+Com~yns , then you to send the same to me . DERBY,55.015.107
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_015:E1:1536:COPY:OTHER
+And forther , that ye , by all the meanes <P_58> attempted ; whiche
+o=r= pleasure is , ye shall in that case levye and wyn w=th= the rest
+of the cuntrey there , And eyther demor w=th= the same in those parties
+or to repaire to o=r= said Cosyn , as he by his Lr~es shall appoynt you
+. DERBY,58.015.108
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_015:E1:1536:COPY:OTHER
+Thridly , We haue at this tyme directed our lr~es for the purpose , of
+such teno=r= as the mynute herin inclosed importeth , to all the
+Gentilmen of Lancashir and Cheschir , whiche ye shall receyue herew=th=
+, to be delyuered vnto theym w=th= all diligence . DERBY,58.015.109
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_015:E1:1536:COPY:OTHER
+And also x lr~es of the same sort , not directed , to thentent you may
+cause the superscripc~ons to be made to such other gentilmen , as ye
+shall thinke mete . Wherfor we desir and pray you , good Cosyn , in
+this matter to vse your accustomed dexterytie , and to be soo vigelant
+for this p~pse , that ye be in no wyse surprised or sodanly by falce
+and crafty meanes decyued of that force ye loke for . DERBY,58.015.110
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_015:E1:1536:COPY:OTHER
+And as for money and all other things necessary , we shall see the same
+in this meane season put in such aredynes , that , the case soo
+req~ring , ye shall haue suffycyent furnytur therof accordyngly .
+DERBY,58.015.111
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_015:E1:1536:COPY:OTHER
+Yeuen vnder o=r= Signet at our Palais of Westmynster , the x day of
+November , in the xxviii yere of our Reign . DERBY,58.015.112
+
+<Q_DER_C_1536_T_ESTANLEY> <L_DERBY_016> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_RICHARD_HOGHTON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_59>
+
+{ED:XXII.}
+
+{COM:EDWARD_STANLEY_TO_RICHARD_HOGHTON}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:RICHARD_HOGHTON:MALE:_:_:_
+LETTER:DERBY_016:E1:1536:COPY:OTHER
+A Lr~e sent to S=r= Richard Hoghton . DERBY,59.016.113
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:RICHARD_HOGHTON:MALE:_:_:_
+LETTER:DERBY_016:E1:1536:COPY:OTHER
+Cosyn , I com~end me to you . DERBY,59.016.114
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:RICHARD_HOGHTON:MALE:_:_:_
+LETTER:DERBY_016:E1:1536:COPY:OTHER
+And wher ye send me knolage by yo=r= s~vant , Alexander Clayton , that
+ye had a pryvey warnyng , that the Rebells of Dent , Sedbar and those
+parties intended to cum throghe this Shire to se your howse amongst
+other , I thinke they nother will nor dar presume to take on hand so
+high an enterprise . DERBY,59.016.115
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:RICHARD_HOGHTON:MALE:_:_:_
+LETTER:DERBY_016:E1:1536:COPY:OTHER
+And I trust in god thoughe they woold attempt any suche thinge , yet I
+, w=th= the ayde and assistens of you and other the Kings true subgetts
+in this Shir w=th= the helpe of our neyburghes the schirmen , whiche I
+trust will wyn w=th= vs , if any suche nede require , $shall $be
+{TEXT:shalbe} hable to resist their malyce . DERBY,59.016.116
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:RICHARD_HOGHTON:MALE:_:_:_
+LETTER:DERBY_016:E1:1536:COPY:OTHER
+Neuertheles forsomoch as the chaunces of suche thinges be vncerteyn ,
+what foly and madnes suche people myght happen to attempt , Therfor I
+advyse and desir you to make as good espialles as ye can to hear & know
+what they intend to do from tyme to tyme . DERBY,59.016.117
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:RICHARD_HOGHTON:MALE:_:_:_
+LETTER:DERBY_016:E1:1536:COPY:OTHER
+And soo shall I for my part do . DERBY,59.016.118
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:RICHARD_HOGHTON:MALE:_:_:_
+LETTER:DERBY_016:E1:1536:COPY:OTHER
+And in case ye perceyue any suche presumpc~on in theym , I wold that
+w=th= all hast and diligence ye do send me knolage therof ; And from
+the tyme ye perceyue any suche thinges attempted , y=t= ye , w=th= all
+the spede {with}_P ye can , do levye and assemble together all your
+force and Cumpany , for feare they shuld take vp the same at their own
+howses , when they were abrode . DERBY,59.016.119
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:RICHARD_HOGHTON:MALE:_:_:_
+LETTER:DERBY_016:E1:1536:COPY:OTHER
+And if such nede require , I wold ye shuld in my name geve like advyse
+to all the gentilmen , the Kings S~uants and other in those partyes ;
+DERBY,59.016.120
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:RICHARD_HOGHTON:MALE:_:_:_
+LETTER:DERBY_016:E1:1536:COPY:OTHER
+And kepe you <P_60> together , as moche as ye may , in Cumpanyes and
+Garisons ; DERBY,60.016.121
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:RICHARD_HOGHTON:MALE:_:_:_
+LETTER:DERBY_016:E1:1536:COPY:OTHER
+And if ye be hable , then to stop the Rebelles at straits and passages
+, wher ye be lyke to anoye theym , and I , w=th= suche force as I can
+make , shall , w=th= as moch spede as {with}_P I can , wyn to you for
+yo=r= assistance and the repression of theym , if they begyn soner
+w=th= you then in these partyes , as God knoeth , who kepe you .
+DERBY,60.016.122
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:RICHARD_HOGHTON:MALE:_:_:_
+LETTER:DERBY_016:E1:1536:COPY:OTHER
+At Lathom , the xiii daye of November . DERBY,60.016.123
+
+<Q_DER_C_1536_T_ESTANLEY> <L_DERBY_017> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_NAMES_UNKNOWN_2>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_61>
+
+{ED:XXIV.}
+
+{COM:EDWARD_STANLEY_TO_"THE_GENTILMEN"}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_017:E1:1536:COPY:OTHER
+A Lr~e sent to the gentilmen of ffurnes . DERBY,61.017.124
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_017:E1:1536:COPY:OTHER
+Welbeloved , I com~end me to you . DERBY,61.017.125
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_017:E1:1536:COPY:OTHER
+And wher it is thought , that $the com~ons of the Barony of Kendall
+intend to cum into ffurness and Cartmell , and ther to take men Sworn
+to theym accordyng to their unlawfull appetits , and levye som~es of
+money of the Kings subiects corn and vytailes ther for the maynten~nce
+of their peruerse purpos and other evyll dedes ; Therfor I haue writon
+to Willm~ ffitton , my Deputy at ffurnes , willing hym , that in case
+they herafter do attempt any suche thinges , That then he shall
+assemble all the strenght he can make in his office , And calling to
+him all my s~uants and ten~nts in those partyes , w=th= the ayde and
+assistens of the gentilmen of the Cuntrey ther , by all the ways ,
+polyces and devyses that he can ymagyn , endevo=r= hym <P_62> to
+w=th=stand their said interp~ss , And to apprehend and take as many of
+theym as he can , if he be of power and habylytie so to do , by Dynt of
+Sword or other polytike meanes . DERBY,62.017.126
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_017:E1:1536:COPY:OTHER
+And yf in case he be not hable thus to do , yet at the Least waye y=t=
+he kepe his strenght wholly together , as he can , soo y=t= he may be
+hable and redy to s~ve the King and me , when he $shall $be
+{TEXT:shalbe} called vpon . DERBY,62.017.127
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_017:E1:1536:COPY:OTHER
+And if in case that he know , that they presume to invade the Cuntrey
+from Lancaster towards Preston , that then he , w=th= suche strenght as
+he can make , cum after theym , and advance forward towards me , as
+fast as he convenyently can . DERBY,62.017.128
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_017:E1:1536:COPY:OTHER
+And , God willing , I shall mete theym , or {ED:before} they passe
+through the Cuntrey , to their displeasures . Wherfor I desir you , in
+the Kings behalf and for my sake , to Joyn w=th= my said Deputye w=th=
+all yo=r= strenght and power , if any suche things do chance ; And to
+take the best direcc~on ye can for thexecuc~on of the premisses , and
+the Resistens and Suppression of their sayd malicio=s= enterp=r=ses .
+DERBY,62.017.129
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_017:E1:1536:COPY:OTHER
+And I woll vndertake , that the Kings magesty will not only giff you
+his herty thankes , but also ye $shall $be {TEXT:shalbe} recompensed
+for your wages . DERBY,62.017.130
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_017:E1:1536:COPY:OTHER
+And I woll ye shall advertyse all the inhabitants nere you , y=t= if in
+case they haue made any othe to the com~ons contrary to theffect herof
+, they be nother bondon by Gods Law nor Mannes Law to obs~ve the same ;
+Considering principally their allegeance due to our said Souu~aign Lord
+, and their former Othe lately made to his Highness . DERBY,62.017.131
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_017:E1:1536:COPY:OTHER
+And thus fare ye well . DERBY,62.017.132
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:NAMES_UNKNOWN_2:MALE:_:_:_
+LETTER:DERBY_017:E1:1536:COPY:OTHER
+At my Manor of Lathom , the xvii day of November . DERBY,62.017.133
+
+<Q_DER_C_1536_T_HENRY8> <L_DERBY_018> <A_HENRY_TUDOR_VIII>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1491> <R_EDWARD_STANLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1508>
+
+<P_63>
+
+{ED:XXV.}
+
+{COM:HENRY_VIII_TO_EDWARD_STANLEY}
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_018:E1:1536:COPY:OTHER
+The Copy of the Kings Lr~e sent to my Lord by S=r= Jamys Layburns
+s~uant and receyued the xx day of November . DERBY,63.018.134
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_018:E1:1536:COPY:OTHER
+Right trusty and right welbeloved Cosyn , we grete you well .
+DERBY,63.018.135
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_018:E1:1536:COPY:OTHER
+And wher as lately , conformably to our com~andment , you levyed <P_64>
+our people in those partes to haue w=th= the same executed our pleasur
+at Salley , and that we consider the charges of the conduct and
+otherwise did amount to a greater som~e of money , then we wold eyther
+charge you , the gentilmen , or other our good subiects therw=th=all ,
+moost thankfully acceptyng your only good willes to s~ue us , lyke vere
+true and faithfull legemen , aganst o=r= Rebelles , Trayto=r=s and
+Enemyes ; Whiche , we perceyved by yo=r= adu~tisments , procedings &
+otherwise , were as willing and redy therunto , as we were to desir the
+same : We have determyned to make a convenyent recompense to all o=r=
+said good subiects , that went with you or were redy to s~ve vs by your
+com~andment . DERBY,64.018.136
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_018:E1:1536:COPY:OTHER
+And therfor we desir and pray $you not only to publishe this o=r=
+intent in all p~ties of the cuntr=e=y therabowts , but also to cause
+all the Gentilmen and Townshippes , that dyd then s~ve us , to make
+vnto you true Certificat of the nomber of the men , that eu~ry of theym
+broght for that purpose ; And the same to send vs w=th= convenyent
+diligence , declaring the distance of places in their travaill by your
+lr~es , And what recompense you think convenyent for eu~y of theym .
+DERBY,64.018.137
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_018:E1:1536:COPY:OTHER
+And we shall here resolue vppon the certeynty of that we will do , and
+send money incontenently vnto you for the indelaid payment of the same
+. DERBY,64.018.138
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_018:E1:1536:COPY:OTHER
+Yeuen under o=r= Signet at o=r= Castell of Wyndesor , the xv day of
+November , in the xxviii yere of our Reign . DERBY,64.018.139
+
+<Q_DER_C_1536_T_HENRY8> <L_DERBY_019> <A_HENRY_TUDOR_VIII>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1491> <R_EDWARD_STANLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1508>
+
+<P_65>
+
+{ED:XXVIII.}
+
+{COM:HENRY_VIII_TO_EDWARD_STANLEY}
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_019:E1:1536:COPY:OTHER
+Right trusty and right welbiloved Cosin , we grete you well ;
+Advertiseing you , that we haue seen and p~used at good length your
+lr~es of the date of the xix day of this month , directed unto our
+right trusty and right welbiloved Cosin and Counsellor , Therle of
+Sussexe , your brother , by the contyn~nt wherof we not only app~ceyve
+the towardnes and good hert , which our right trusty and welbeloved the
+Lord Montegle hath to do vnto vs s~vice , w=th= all his force possible
+, in your cumpany , for the repression and vtter svbduyng of our
+Rebells , but also vnderstonde by the same , that o=r= good subiects in
+those parties doo sumwhat cumplayn , that such charges as they have
+susteyned in puttyng theymselfs in aredynes and reparing vnto you ,
+geuyng their attendance too execut that thing , which were by you on
+our behalf $to be com~anded vnto theym , for the repression of the
+saides Rebells , be not hitherto by vs defrayed and discharged . ffor
+answarr wherunto we have thoght good by these our lr~es to desir you ,
+immediately vpon the receyt herof to cause a boke to be made of the
+names of all suche persons , as dyd prepare theymselfes to s~ve vs in
+your late Jorney towards Salley ; lymytyng the distance of places from
+whens they cam , and the nomber of the days they were furth .
+DERBY,65.019.140
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_019:E1:1536:COPY:OTHER
+And we shall , vppon your advertisment therof , sende vnto you suche
+somes of money , for the satisfyyng and contentac~on of our said
+subiects in that behalf , as $shall $be {TEXT:shalbe} requysyt and
+convenyent ; wherby they $shall $be {TEXT:shalbe} the better encoraged
+eftsones to put theymselfes in aredynes , when soeuer ye shall , vpon
+our behalf , geue theym in com~andment soo to doo for the Repression of
+our Rebelles therabowts ; whiche <P_66> thinge we also signyfyed vnto
+you in our fformer lr~es . DERBY,66.019.141
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_019:E1:1536:COPY:OTHER
+And forasmoche as by the tenor of the traytor Aske is lr~es vnto John
+Atkynson , Capitaign of the com~ons in Kendall , ins~ted in yo=r=s , we
+do p~ceyve , that the said Aske emploeth all the craft and vngracious
+yngin , that he can devyse , not only to kepe and contynue our subiects
+in Yorkeshir in Rebellion , but also to provoke and styrr owr com~ons
+in Lancashir , Cheschir and other our loving subiects therabowts to
+lyke attemptats , wherby , in case we shuld not haue at all tymes a
+suffycyent force in aredynes in those partyes for the staying of the
+same , their myght enswe forther inconvanyence , our pleas=r= is , that
+you shall <P_67> as well put your force in such aredynes , that they
+may be hable w=th=in on howres warnyng to advance forwards to suche
+place , as you shall , the case so requiring , lymyt vnto theym , As
+also that you shall make a true and parfait estimac~ , w=th= what
+nomber of habull men you may be assured to s~ve us , in case vpon any
+new com~otion We shuld eyther advance forwards for the repression of
+the saides Rebelles in our own person , or otherwyse lymyt your force
+to joyn w=th= other our puissance in those partes . DERBY,67.019.142
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_019:E1:1536:COPY:OTHER
+And forther more to thentent we myght be certyfyed parfaitly of what
+inclinac~on o=r= subiects be in those partyes , We desir and praye you
+to laye all the secret wayt and espiall throghowt all the said parties
+, that you can possible devyse , to inserche the affecc~ons of our
+people . DERBY,67.019.143
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_019:E1:1536:COPY:OTHER
+And if by any meanes ye app~ceyve any our subiects inclyned to sedic~on
+, we woll that w=th= all convenyent diligence ye shall travaill to
+apprehend the Auctours therof , and soo certyfye vs by yo=r= Lr~es , to
+thentent ye maye be fro vs the more ripely instructed how to vse and
+demeane yourself in suche case accordingly . DERBY,67.019.144
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:_:1491:45
+RECIPIENT:EDWARD_STANLEY:MALE:_:1508:28
+LETTER:DERBY_019:E1:1536:COPY:OTHER
+Yeuen under our Signet at o=r= Mano=r= of Richemont , the xxvii day of
+November . DERBY,67.019.145
+
+<Q_DER_C_1536_T_ESTANLEY> <L_DERBY_020> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_HENRY_TUDOR_VIII>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1491>
+
+<P_67>
+
+{ED:XXXI.}
+
+{COM:EDWARD_STANLEY_TO_HENRY_VIII}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_020:E1:1536:COPY:OTHER
+A Lr~e sent to the Kings Highnes from my Lord . DERBY,67.020.146
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_020:E1:1536:COPY:OTHER
+Pleasith your magestye to be advertysed , that accordyng to your
+com~andments , comprised w=th=in your graces moost honorable Lr~es to
+me dyrected , I haue not only published and <P_68> declared to suche
+your true and faithfull subgetts in theis partes , as I levyed , to
+haue w=th= the same executed your pleas=r= at Salley , how that your
+Graces purpose and intent is , upon certificat by me to your highnes
+made of the nombers of men , that eu~y , Gentilmen and others , broght
+for y=t= purpose , to make convenyent recompense to theym , but also I
+haue spoken and send vnto theym , to make and declare vnto me a true
+and perfect Certificat therof accordyngly . DERBY,68.020.147
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_020:E1:1536:COPY:OTHER
+And the moost part of the Gentilmen have certefyed me , what nomber cam
+to theym , and the names and surnames therof , as more at large shall
+appere in a Boke remaynyng w=th= me . DERBY,68.020.148
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_020:E1:1536:COPY:OTHER
+And diu~se other gentilmen , y=t= were in like man~er w=th= me at the
+tyme aforsaid , haue not as yet certyfied me of the parfait nomber and
+names of the same , w=ch= cam with theym . DERBY,68.020.149
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_020:E1:1536:COPY:OTHER
+And forsomoch as I $can $not {TEXT:cannot} as yet make vnto your grace
+a perfect boke of the saids wholl nombers and of their names , Therfor
+I haue breifly made a boke of such nombers in grosse , as eu~y man hath
+certyfyed , and an estymac~on of such other nombers , as be yet
+uncertefyed ; whych boke I haue send to your Highnes by this berer .
+DERBY,68.020.150
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_020:E1:1536:COPY:OTHER
+And eu~y gentilman and other is glad of your Graces pleas=r= in this
+behalf w=th= their moost humble and obedyent thankes . DERBY,68.020.151
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_020:E1:1536:COPY:OTHER
+And wher your Grace $is willing to be Certefyed of the distance of
+places , from whens the said men dyd travaill to me , and what
+rec~opens I thinke convenyent , the length that sume cam is xxxiiii
+myles , sume xx myles , and sume not x myles ; So that by estymac~on I
+thinke , their was as many , or mo , that dyd not travell xvi myles ,
+as aboue . DERBY,68.020.152
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_020:E1:1536:COPY:OTHER
+And for the nomber of days that they were fro whom , sume were v days ,
+sume iiii days , sume iii days , sume ii days ; DERBY,68.020.153
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_020:E1:1536:COPY:OTHER
+and by my estymac~on allowyng iii days for eu~y person will amovnt nere
+vnto the Certeyntye of their cu~myng and going to and fro me .
+DERBY,68.020.154
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_020:E1:1536:COPY:OTHER
+And as towching any Recompense for Jaketts or otherwise , I <P_69>
+beseche your grace , that the same may be pondered by your Counsaill ,
+and the money , that shall stand w=th= your pleas=r= to be send for all
+the premisses , to be paid by a Treasorer or some other , suche as
+shall pleas your Magestye to lymyt , And not by my hands .
+DERBY,69.020.155
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_020:E1:1536:COPY:OTHER
+And at the payment therof I $shall $be {TEXT:shalbe} glad by your
+com~andment to accompany your said Treasorer w=th= the best aduyse I
+can giff hym , and cawse parfait Bokes to be made of the names of the
+wholl nombers , and to be send to your Magestye ; DERBY,69.020.156
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:45
+LETTER:DERBY_020:E1:1536:COPY:OTHER
+and what yo=r= graces pleasur is , that I shall make a law .
+DERBY,69.020.157
+
+<Q_DER_C_1538_T_ESTANLEY> <L_DERBY_021> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_ROBERT_HEYWOOD>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_100>
+
+{ED:30.}
+
+{COM:EDWARD_STANLEY_TO_THE_PARSON_OF_THORNETON}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:30
+RECIPIENT:ROBERT_HEYWOOD:MALE:_:_:_
+LETTER:DERBY_021:E1:1538:COPY:OTHER
+Lr~e miss. anno xxx R. R. Hen. VIII . DERBY,100.021.158
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:30
+RECIPIENT:ROBERT_HEYWOOD:MALE:_:_:_
+LETTER:DERBY_021:E1:1538:COPY:OTHER
+To the Parson of Thorneton and his Deputy . DERBY,100.021.159
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:30
+RECIPIENT:ROBERT_HEYWOOD:MALE:_:_:_
+LETTER:DERBY_021:E1:1538:COPY:OTHER
+In my full herty maner &c. And wheras my Auncestors and I , tyme ovt of
+mynd , have had a Chapell Donatyve w=th=in your p~ishe of Thornton ,
+and never interrupted of the same , ne of no man~er duty-COM belongyng
+to the same , vnto {ED:until} your predecessor , <P_101> more of his
+froward and covetous mynd then of any ryght or iuste tytle , trobled my
+Preist , which I did admyt vnto the same , And in thexchuyng of forther
+Sutes and charges , I send unto you an Abstract of an Inquisic~on ,
+taken before Sir Andrew Wyndesor , Knyght , and other Com~issioners ,
+wherby my ryght may appere vnto you in the same , which is a vere true
+Copy therof ; Desiring you , as I may do you pleasur , that the said
+Priest may haue and inioy the same , according as others yet hitherto
+have don in my Auncestors tyme , w=th= all rightes , profits and
+com~odyties belonging to the same , in as ample maner & forme as
+hertofor hath been vsed and accustomed , w=th=out interrupc~on of you
+or your Deputy . DERBY,101.021.160
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:30
+RECIPIENT:ROBERT_HEYWOOD:MALE:_:_:_
+LETTER:DERBY_021:E1:1538:COPY:OTHER
+And so doing ye shall have me redy to do you pleas=r= ,
+DERBY,101.021.161
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:30
+RECIPIENT:ROBERT_HEYWOOD:MALE:_:_:_
+LETTER:DERBY_021:E1:1538:COPY:OTHER
+and , otherwise doing , I must and will defend my right .
+DERBY,101.021.162
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:30
+RECIPIENT:ROBERT_HEYWOOD:MALE:_:_:_
+LETTER:DERBY_021:E1:1538:COPY:OTHER
+At Lathom , the xiiii day of June . DERBY,101.021.163
+
+<Q_DER_C_1530S_T_ESTANLEY> <L_DERBY_022> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_JOHN_&_THOMAS_LEE>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_102>
+
+{ED:33.}
+
+{COM:EDWARD_STANLEY_TO_JOHN_THOMAS_LEE}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:JOHN_&_THOMAS_LEE:MALE:_:_:_
+LETTER:DERBY_022:E1:1530S:COPY:OTHER
+To my welbeloved John Lee and to Thom=a=s Lee of Ellesmere and aither
+of theym . DERBY,102.022.164
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:JOHN_&_THOMAS_LEE:MALE:_:_:_
+LETTER:DERBY_022:E1:1530S:COPY:OTHER
+Welbeloved , I grete you well ; Certifiyng you , that for diverse
+considerac~ons me mouing my mynd and pleasur is , that myn Audyt $shall
+$be {TEXT:shalbe} at Ellesmere this present yere soner , then it hathe
+byn of late yeres accustomed . DERBY,102.022.165
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:JOHN_&_THOMAS_LEE:MALE:_:_:_
+LETTER:DERBY_022:E1:1530S:COPY:OTHER
+And therfore I haue appoynted my Receivo=r= generall and Audito=r=s to
+be there the xiii day of June next cu~myng , and to contynue ther ,
+till the said Audyt be determyned . Wherfor I will and desire you and
+also com~and you , that you be ther , and geue your attendance vpon
+theym duryng the same tyme ; And that ye levy and cause to be levyed
+w=th=out delaye , all excuses layd apart , all suche sommes of money
+and duties , as $shall $be {TEXT:shalbe} then due to me w=th=in yo=r=
+Office & receyt , so as the same maye be payd to my said Generall
+Receiv=r= or his Deputye befor his departyng thens . DERBY,102.022.166
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:JOHN_&_THOMAS_LEE:MALE:_:_:_
+LETTER:DERBY_022:E1:1530S:COPY:OTHER
+And I will , that ye <P_103> geve like knolage to my Bailiffs and
+rentgetherers of Knokyn town , and the Cuntre of Knokyn , Donaston and
+Kynnaston ; And to my Lady my Mothers ten~nts and bayliffs of Nesse ,
+Hampton , Culmer , Straunge and Mudle , whose mynd and pleas=r= ys ,
+accordyng as myn ys aforehersyd . DERBY,103.022.167
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:JOHN_&_THOMAS_LEE:MALE:_:_:_
+LETTER:DERBY_022:E1:1530S:COPY:OTHER
+And I will , that ye shew eu~y of theym these my lr~es , soo that they
+shall haue no cause to allege ignorancy of my said Lades pleasur and
+myn in this behalf . DERBY,103.022.168
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:JOHN_&_THOMAS_LEE:MALE:_:_:_
+LETTER:DERBY_022:E1:1530S:COPY:OTHER
+And thus fare ye well . DERBY,103.022.169
+
+<Q_DER_C_1530S_T_ESTANLEY> <L_DERBY_023> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_JOHN_HOLFORD>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_103>
+
+{ED:34.}
+
+{COM:EDWARD_STANLEY_TO_JOHN_HOLFORD}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:JOHN_HOLFORD:MALE:_:_:_
+LETTER:DERBY_023:E1:1530S:COPY:OTHER
+To my trusty and welbeloved S=r= John Holford , Knyght , Steward of
+Ellesmere . DERBY,103.023.170
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:JOHN_HOLFORD:MALE:_:_:_
+LETTER:DERBY_023:E1:1530S:COPY:OTHER
+Trusty and welbeloved , I grete you well ; Certyfying you I have
+appoynted my Audyt to begyn at Ellesmere this yere the xiii daye of
+June next cu~myng ; DERBY,103.023.171
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:JOHN_HOLFORD:MALE:_:_:_
+LETTER:DERBY_023:E1:1530S:COPY:OTHER
+And thereof haue geven warnyng to John Lee and all other my Bailiffs in
+those parties . DERBY,103.023.172
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:JOHN_HOLFORD:MALE:_:_:_
+LETTER:DERBY_023:E1:1530S:COPY:OTHER
+And therfor I will and desire you to kepe all suche Courts ther in the
+meane season , as be necessary to be kept , so that non of my saide
+Bailiffs , Officers , ten~nts , or other , that myn Audito=r=s shall
+fynd in det to me , haue no cause resonable to delaye me of my dutye .
+DERBY,103.023.173
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:JOHN_HOLFORD:MALE:_:_:_
+LETTER:DERBY_023:E1:1530S:COPY:OTHER
+And thus fare ye well . DERBY,103.023.174
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:JOHN_HOLFORD:MALE:_:_:_
+LETTER:DERBY_023:E1:1530S:COPY:OTHER
+At my Manor of Colh=a=m , the ... day of ... DERBY,103.023.175
+
+<Q_DER_C_1533_T_ESTANLEY> <L_DERBY_024> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_JOHN_AP_EDUARD>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_103>
+
+{ED:35.}
+
+{COM:EDWARD_STANLEY_TO_JOHN_AP_EDUARD}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:JOHN_AP_EDUARD:MALE:_:_:_
+LETTER:DERBY_024:E1:1533:COPY:OTHER
+To John ap Edward and to all other my Bailiffs and Rentgetherers of
+Malasaseneke be this dd . DERBY,103.024.176
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:JOHN_AP_EDUARD:MALE:_:_:_
+LETTER:DERBY_024:E1:1533:COPY:OTHER
+Welbeloved , I grete you well ; Certifying you , that for diuerse
+<P_104> co~siderac~ons me mouing my mynd and pleas~ is , that my Audyt
+$shall $be {TEXT:shalbe} at Ellesmere and in these partyes soner , then
+it hathe of late yeres byn accustymed ; DERBY,104.024.177
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:JOHN_AP_EDUARD:MALE:_:_:_
+LETTER:DERBY_024:E1:1533:COPY:OTHER
+And therfor haue appoynted my generall Receuo=r= and my Audyto=r=s to
+be ther the xiii day of June next cu~myng , And to contynue ther , tyll
+the Audyt be determyned . Wherfore I will and desire you , and also
+straitly charge and com~and you , that ye be w=th= my said Receuo=r=
+and Audito=r=s at Ellesmere the xiiii or xv daye of the said June , to
+make yo=r= accompt & payment of all suche som~es of money , as then
+$shall $be {TEXT:shalbe} owinge to me by you , or due to me w=th=in
+your Office ; And that ye faile not herof , all feaned excuses laid
+apart , as ye intend to haue me to be yo=r= good Lord , and will
+advoyde my displeasur , as well towching the forfatures of your
+obligac~ons as otherwise . DERBY,104.024.178
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:JOHN_AP_EDUARD:MALE:_:_:_
+LETTER:DERBY_024:E1:1533:COPY:OTHER
+ffor I will ye knowe , I do consider ye haue not in tymes past don
+yo=r= dutyes to me , and truly and diligentlye s~ved me , and made
+payments of that , that ye ought to haue don , whiche ys comen to your
+hands ; DERBY,104.024.179
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:JOHN_AP_EDUARD:MALE:_:_:_
+LETTER:DERBY_024:E1:1533:COPY:OTHER
+and more myght haue comon to yo=r= handes , if ye had don yo=r=
+diligence , accordyng as good offycers ought to haue don . Wherin
+percase ye shall fynd me more easy w=th= you , then ye haue des~ued ,
+yf so be , that ye now at this tyme doe amende , and accomplyshe this
+my forsayd mynd and com~andement . DERBY,104.024.180
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:JOHN_AP_EDUARD:MALE:_:_:_
+LETTER:DERBY_024:E1:1533:COPY:OTHER
+And yf ye faile therof , then at your iop~dy . DERBY,104.024.181
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:JOHN_AP_EDUARD:MALE:_:_:_
+LETTER:DERBY_024:E1:1533:COPY:OTHER
+And thus fare ye well . DERBY,104.024.182
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:JOHN_AP_EDUARD:MALE:_:_:_
+LETTER:DERBY_024:E1:1533:COPY:OTHER
+At my Mano=r= of Colh=a=m , the xxvii=th= day of Aprill in the xxv=th=
+yere of the Reign of o=r= Soueraign Lord , King Henry the Eight .
+DERBY,104.024.183
+
+<Q_DER_C_1530S_T_ESTANLEY> <L_DERBY_025> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_ROGER_PULESTON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_105>
+
+{ED:36.}
+
+{COM:EDWARD_STANLEY_TO_ROGER_PULESTON}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:ROGER_PULESTON:MALE:_:_:_
+LETTER:DERBY_025:E1:1530S:COPY:OTHER
+To my welbeloved S=r= Roger Puleston , Knyght . DERBY,105.025.184
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:ROGER_PULESTON:MALE:_:_:_
+LETTER:DERBY_025:E1:1530S:COPY:OTHER
+Welbeloved , I com~ende me to you . DERBY,105.025.185
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:ROGER_PULESTON:MALE:_:_:_
+LETTER:DERBY_025:E1:1530S:COPY:OTHER
+And wher it is soe , that ye have occupied w=th=out Warrant or Patent
+made to you by me or by my Com~issioners the Office of Stewardship of
+my Landes in Malasaseneke , and yerely reteyned in your handes iiii
+markes , for the fee thereof , of suche Rents and Reuenues , as ye
+ought to have paid me for suche landes , as ye hold of myn ; in which
+Offyce , for any thinge that I can parceyue , ye have don me vere small
+pleas=r=e , or non at all , nother in ayding the Rentgatherers and
+Bailiffs to levye my Dutyes and right ther , nor otherwise ,
+DERBY,105.025.186
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:ROGER_PULESTON:MALE:_:_:_
+LETTER:DERBY_025:E1:1530S:COPY:OTHER
+but rather by yo=r= procurement I have susteyned losse , hynderance and
+delays for my dutyes , by the Bailiffs who you procured to be in Office
+, allegyng honesty and gravytie in theym , And for whom ye stand Bounde
+by your obligac~on , which is forfayted . Wherfor I desire you to comyn
+{ED:commune} w=th= the saides Bailiffs , and amongst you so p~vide ,
+that that , whiche is my right to be had ther , may be paid to my
+Receivo=r= Generall at my Audyt at Ellesmere the xiiii or xv daie of
+June next . In whiche doing percase ye shall fynd me better to you in
+all the premisses , then ye have yet hytherto gevyne me cawse .
+DERBY,105.025.187
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:ROGER_PULESTON:MALE:_:_:_
+LETTER:DERBY_025:E1:1530S:COPY:OTHER
+And if ye faile herof , I geve you warnynge , that it is my pleasur ,
+that ye no forther medle as Stward ther , except ye shall have forther
+knolege fro me in wrytyng , or by my said Receyuo=r= and Audyto=r=s at
+Ellesmere at the tyme aforsaid . And forther , that ye stand to your
+ioperdy , as well of and for the forfaiture of your obligac~on , as
+also for retayning in yo=r= handes w=th=out Warrant the saides iiii
+markes yerely , that ye call your fee , as yet undes~ved .
+DERBY,105.025.188
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:ROGER_PULESTON:MALE:_:_:_
+LETTER:DERBY_025:E1:1530S:COPY:OTHER
+And thus fare ye well . DERBY,105.025.189
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:ROGER_PULESTON:MALE:_:_:_
+LETTER:DERBY_025:E1:1530S:COPY:OTHER
+At my Mano=r= of , &c. DERBY,105.025.190
+
+<Q_DER_C_1530S_T_ESTANLEY> <L_DERBY_026> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_THOMAS_SOTHWORTH>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_108>
+
+{ED:40.}
+
+{COM:EDWARD_STANLEY_TO_THOMAS_SOTHWORTH}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:THOMAS_SOTHWORTH:MALE:_:_:_
+LETTER:DERBY_026:E1:1530S:COPY:OTHER
+To S=r= Thomas Sothworth , Knyght . DERBY,108.026.191
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:THOMAS_SOTHWORTH:MALE:_:_:_
+LETTER:DERBY_026:E1:1530S:COPY:OTHER
+Trusty and welbeloved , I com~end me to you . DERBY,108.026.192
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:THOMAS_SOTHWORTH:MALE:_:_:_
+LETTER:DERBY_026:E1:1530S:COPY:OTHER
+And wheras on Criste Gylybronde , wido , ten~nt vnto the Abbot of
+Whalley , of whose landes I am Steward , hath complayned her vnto me ,
+how that diverse persons , your s~vants and ten~nts , by your
+com~andement haue interrupted her to take and gether the tethe of
+certeyn cornes in Melo=r= , w=th=in the p~ishe of Blackeborn , wherof
+she hath iuste tytle by reason of a Lesse therof , made by the Abbot of
+Whalley now being , for terme of iii yeres yet to cu~ ; And for her
+remedy in this behalfe she hath obteyned Privie Sealles aganst you and
+other the wronge doers to make answarr to the peremisses before the
+Kings Counsaill of the Duchie : And forasmoche as I wold be glad to
+advoyde suche extremyties and suits in the Law , and for that I am
+Steward , as is aforesaid , and <P_109> desirous also to haue
+reformac~on in such cases by lovyng meanes , I hertly require you ,
+that the sayd pouer woman may haue resonable recompence for her damage
+hertofor susteyned by yo=r= occasion ; And that ye , and suche as haue
+wronged her , will from hensforth cesse for wrongyng her any forther in
+the premisses . DERBY,109.026.193
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:THOMAS_SOTHWORTH:MALE:_:_:_
+LETTER:DERBY_026:E1:1530S:COPY:OTHER
+And thus fare ye well , &c. DERBY,109.026.194
+
+<Q_DER_C_1530S_FO_ESTANLEY> <L_DERBY_027> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_KIN> <A-DOB_1508> <R_WILLIAM_MOLYNEUX>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_--->
+
+<P_109>
+
+{ED:41.}
+
+{COM:EDWARD_STANLEY_TO_WILLIAM_MOLYNEUX}
+
+AUTHOR:EDWARD_STANLEY:MALE:KIN:1508:_
+RECIPIENT:WILLIAM_MOLYNEUX:MALE:KIN:_:_
+LETTER:DERBY_027:E1:1530S:COPY:FAMILY_OTHER
+A Lr~e to S=r= Willm~ Molyneux , Knyght . DERBY,109.027.195
+
+AUTHOR:EDWARD_STANLEY:MALE:KIN:1508:_
+RECIPIENT:WILLIAM_MOLYNEUX:MALE:KIN:_:_
+LETTER:DERBY_027:E1:1530S:COPY:FAMILY_OTHER
+Cosyn Molyneux , I com~end me to you . DERBY,109.027.196
+
+AUTHOR:EDWARD_STANLEY:MALE:KIN:1508:_
+RECIPIENT:WILLIAM_MOLYNEUX:MALE:KIN:_:_
+LETTER:DERBY_027:E1:1530S:COPY:FAMILY_OTHER
+And wher I am credably informed , that Moses Rigby and Thom=a=s
+Dykonson , yo=r= S~vaunts , haue byn lately at dyuerse and sundrie
+tymes in the nyghte tymes w=th=in my Parke at Lathom , and ther hunted
+my Dere at ther pleasur , to my no lytle displeasur and discontentac~on
+; Wherfor I desyre you , at such tyme as my Councill doth resorte to
+Lathom , vpon knolage geven to you , to see the saides persons
+furthcu~myng to make answare herunto ; to the intent that , yf it be
+soo proued , they may be condignly punyshed accordyng to theire
+demeryts and accordyng to the Kings Lawes , to the ensample of suche
+other lyke offenders . DERBY,109.027.197
+
+AUTHOR:EDWARD_STANLEY:MALE:KIN:1508:_
+RECIPIENT:WILLIAM_MOLYNEUX:MALE:KIN:_:_
+LETTER:DERBY_027:E1:1530S:COPY:FAMILY_OTHER
+And thus , &c. DERBY,109.027.198
+
+<Q_DER_C_1530S_T_ESTANLEY> <L_DERBY_028> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_RADULPHUS_BLAXTON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_110>
+
+{ED:43.}
+
+{COM:EDWARD_STANLEY_TO_THE_PRIOR_OF_LYTHAM}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:RADULPHUS_BLAXTON:MALE:_:_:_
+LETTER:DERBY_028:E1:1530S:COPY:OTHER
+A lr~e to a Prior for Parson ffouler . DERBY,110.028.199
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:RADULPHUS_BLAXTON:MALE:_:_:_
+LETTER:DERBY_028:E1:1530S:COPY:OTHER
+ffather Prio=r= , I com~ende me to you in my herty man~er .
+DERBY,110.028.200
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:RADULPHUS_BLAXTON:MALE:_:_:_
+LETTER:DERBY_028:E1:1530S:COPY:OTHER
+And wher I vnderstand ther is contraversy and an acc~on depending
+before and betwixt you and a ffrynde of myn , on Parson ffouler , for a
+yerely penc~on clamed by you owt of his Churche of Apulby , in the Com.
+of Leicester , I desire you to be content to stay and rest the same
+betwixt you vnto the ende of the next terme ; To the intent y=t= in the
+meanetyme , if ye be soo pleased , that I , or suche of my Co~saill as
+ye shall holde you content w=th= , maye haue the hering of the mater ,
+for a fynale ende to be made therin accordyng to Justice , w=th= love
+and favo=r= , w=th=out any extremyte of the Law ; And that ye wold
+appoynt suche on , as <P_111> shall instruct me and my said Co~saill of
+your interest and tytle theryn : DERBY,111.028.201
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:RADULPHUS_BLAXTON:MALE:_:_:_
+LETTER:DERBY_028:E1:1530S:COPY:OTHER
+and of yo=r= mynd and towardnes herin I desire you asserteyn me by
+yo=r= wrytyng , as sone as ye convenyontly may ; And forther , that ye
+wold wryte to yo=r= Attorney to rest and contynue the said Suete for
+the tyme aforsaid . DERBY,111.028.202
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:RADULPHUS_BLAXTON:MALE:_:_:_
+LETTER:DERBY_028:E1:1530S:COPY:OTHER
+And thus , &c. DERBY,111.028.203
+
+<Q_DER_C_1530S_T_ESTANLEY> <L_DERBY_029> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_WILLIAM_RADCLYFF>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_111>
+
+{ED:44.}
+
+{COM:EDWARD_STANLEY_TO_WILLIAM_RADCLIFF}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:WILLIAM_RADCLYFF:MALE:_:_:_
+LETTER:DERBY_029:E1:1530S:COPY:OTHER
+A Lr~e to Willm~ Radclyff , Squyer . DERBY,111.029.204
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:WILLIAM_RADCLYFF:MALE:_:_:_
+LETTER:DERBY_029:E1:1530S:COPY:OTHER
+Trusty and Welbeloved , I grete you well . DERBY,111.029.205
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:WILLIAM_RADCLYFF:MALE:_:_:_
+LETTER:DERBY_029:E1:1530S:COPY:OTHER
+And wheras I am informed , that on John Burghe and Richard Burghe and
+others haue sundrye tymes hunted w=th=in the fforest of Macclesfild ,
+and dayly doe misuse theymselfs anendes the Kings Game ther , and also
+made asaut vpon my S~vante , w=ch= browght the Kinges lr~es to attache
+theym , Whiche said John and Richard be w=th=in yo=r= rule vnder me ,
+as ye ryght parfactly know : And ye seying and perceyving ther
+unlawfull demennure , aswell anendes the said fforest , as anends my
+said S~vants , and nothing providing nor helping to see the said
+Offenders punyshed , but suffryng theym to go at large , to my no lytle
+marvaill ; Wherfor I will and com~ande you , that from hensforth ye
+indevo=r= yourself , not only to se the said Offenders taken , and they
+to put suffycyent suertye to be of good abering to the said fforest &
+game and to the Kepers there , but also as sone as ye knowe any
+mysruled persons w=th=in your said Office , to put theym vnder lyke
+Surtye , as ye intende to haue my favo=r= , or to occupie as my Deputye
+ther . DERBY,111.029.206
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:WILLIAM_RADCLYFF:MALE:_:_:_
+LETTER:DERBY_029:E1:1530S:COPY:OTHER
+And thus fare ye well , &c. DERBY,111.029.207
+
+<Q_DER_C_1530S_T_ESTANLEY> <L_DERBY_030> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_ANDREW_BARTON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_112>
+
+{ED:45.}
+
+{COM:EDWARD_STANLEY_TOREW_BARTON}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:ANDREW_BARTON:MALE:_:_:_
+LETTER:DERBY_030:E1:1530S:COPY:OTHER
+A Lr~e to Andrew Barton , squyer . DERBY,112.030.208
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:ANDREW_BARTON:MALE:_:_:_
+LETTER:DERBY_030:E1:1530S:COPY:OTHER
+Trusty and welbeloved , I grete you well . DERBY,112.030.209
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:ANDREW_BARTON:MALE:_:_:_
+LETTER:DERBY_030:E1:1530S:COPY:OTHER
+And wher I perceyue by the Copy of the Kings lr~es , which ye sent me ,
+that his Grace will , that I shall p~pare hym fyfty able persons ,
+horsemen , for the Warre , after the maner of that Cuntre , to do
+s~vice of warr against the Skotts , vnder the conducc~on of the Lord
+Dacres ; In the accomplishem=t= of whiche Lr~es , I vnderstand , ye
+haue taken sum payn and diligence , wherof I thanke you ; <P_113>
+Wyllying and desiring you to see the tenor of the said Lr~es
+accomplyshed accordyng to the Kings pleasure . DERBY,113.030.210
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:ANDREW_BARTON:MALE:_:_:_
+LETTER:DERBY_030:E1:1530S:COPY:OTHER
+And wher as ye haue willed , that serche shulde be made for my Lady
+Pykeryngs Patent of Ingleton , my Recevo=r= by my com~and hathe made
+Serche amongst my Evidences here , DERBY,113.030.211
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:ANDREW_BARTON:MALE:_:_:_
+LETTER:DERBY_030:E1:1530S:COPY:OTHER
+and $can $not {TEXT:cannot} fynd it ; wherfore it is thought it shuld
+be at Lathom . DERBY,113.030.212
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:ANDREW_BARTON:MALE:_:_:_
+LETTER:DERBY_030:E1:1530S:COPY:OTHER
+Therfor I haue wryton to Bartilmew Hesketh and others , to make serche
+for the same amongst my wrytyngs ther ; And if it can be founde , that
+I be ioynt patent w=th= my Lord my father , then they to delyuer the
+same to you , to thintent ye may advertise my said Lady Pykering therof
+, And now and herafter to vse and exercyse the said office of Steward
+as my Deputy , as ye shall thinke necessary at this tyme and all other
+. DERBY,113.030.213
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:ANDREW_BARTON:MALE:_:_:_
+LETTER:DERBY_030:E1:1530S:COPY:OTHER
+And thus fare ye well , &c. DERBY,113.030.214
+
+<Q_DER_C_1530S_FS_ESTANLEY> <L_DERBY_031> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508>
+<R_BARTHOLOMEW_HESKETH[&_ROBERT_SWANSEY]> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_--->
+
+<P_113>
+
+{ED:46.}
+
+{COM:EDWARD_STANLEY_TO_BARTHOLOMEW_HESKETH_ROBERT_SWANSEY}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:BARTHOLOMEW_HESKETH[&_ROBERT_SWANSEY]:MALE:_:_:_
+LETTER:DERBY_031:E1:1530S:COPY:FAMILY_SERVANT
+A Lr~e to Bartylmew Hesketh & Robart Swansey . DERBY,113.031.215
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:BARTHOLOMEW_HESKETH[&_ROBERT_SWANSEY]:MALE:_:_:_
+LETTER:DERBY_031:E1:1530S:COPY:FAMILY_SERVANT
+Trusty and welbeloved , I grete you well . DERBY,113.031.216
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:BARTHOLOMEW_HESKETH[&_ROBERT_SWANSEY]:MALE:_:_:_
+LETTER:DERBY_031:E1:1530S:COPY:FAMILY_SERVANT
+And woll and desire you , that ye at your convenyent leasure resort to
+Lathom , and ther amongst my Evidences make serche for a Patent of the
+Stwardship of Ingleton , granted to my Lady Pickering , to my Lord my
+father & me , whose soule god pardon , and as I am informed . Wherfor
+if ye perceyve it soo be , then I will ye delyver the same to my S~vant
+, Andrew Barton , to thentent that he may advertyse my said Lady
+Pykering therof , who dothe afferme , that she doth not remember , that
+I shuld be ioynt patent w=th= my said Lord my father ,
+DERBY,113.031.217
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:BARTHOLOMEW_HESKETH[&_ROBERT_SWANSEY]:MALE:_:_:_
+LETTER:DERBY_031:E1:1530S:COPY:FAMILY_SERVANT
+and if I be , she is contented , that I shall enioye the same
+accordyngly . DERBY,113.031.218
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:_
+RECIPIENT:BARTHOLOMEW_HESKETH[&_ROBERT_SWANSEY]:MALE:_:_:_
+LETTER:DERBY_031:E1:1530S:COPY:FAMILY_SERVANT
+And thus fare ye well , &c. DERBY,113.031.219
+
+<Q_DER_C_1533_T_ESTANLEY> <L_DERBY_032> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_HENRY_PERCY_III>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1502?>
+
+<P_114>
+
+{ED:47.}
+
+{COM:EDWARD_STANLEY_TO_THE_EARL_OF_NORTHUMBERLAND}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:HENRY_PERCY_III:MALE:_:1502?:31?
+LETTER:DERBY_032:E1:1533:COPY:OTHER
+A Lr~e to the Erle of Northumberland . DERBY,114.032.220
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:HENRY_PERCY_III:MALE:_:1502?:31?
+LETTER:DERBY_032:E1:1533:COPY:OTHER
+My vere good Lord , in my moost hertyst maner I recom~ende me to your
+good Lordship . DERBY,114.032.221
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:HENRY_PERCY_III:MALE:_:1502?:31?
+LETTER:DERBY_032:E1:1533:COPY:OTHER
+And wher I perceyve by your lr~es lately directed to the Abbot of
+ffurnes , that ye do not only allege , that ye yet be , lyke as ye
+afferme that your Auncestors haue hertofor byn , Stwards of the Landes
+of the said Abbots in Borodale belongyng to the Monastery of ffurnes ,
+but also ye desir hym to paye to yo=r= Deputy and S~vant , Thomas
+Wharton , <P_115> knyght , your fee accustomed , whiche ye allege to be
+due and unpaide , for thexercysing of the office of Stwardshipp forsaid
+. And ouer that ye desire and exort him , that , vpon warnyng gyffyn ,
+that his ten~nts ther betwen the ages of sixty and sixten shall attende
+and wayt on suche , as ye haue appoynted , to go under your gyton
+{ED:A_SMALL_STANDARD} from yo=r= Castell of Cokermouthe for the Kings
+Highnes affairs and s~vice in the Est Marches . My good Lord , true it
+is , that I am Stward for terme of my liff of all the Lands belongyng
+to the said Monastery w=th=in the Realme of England , as shall more at
+large appeare by a Patent to me therof , made vnder the Co~uente Seale
+of the same Monastery . DERBY,115.032.222
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:HENRY_PERCY_III:MALE:_:1502?:31?
+LETTER:DERBY_032:E1:1533:COPY:OTHER
+And now lately the Kings Highnes , knowyng me to be Stward as is
+aforsayd , hath dyrected his honorable lr~es vnto me by the name of
+Highe Stward of ffurness , wyllyng me to prepare and put in aredynes a
+certeyn nomber of Horse men for the Warr for the defense of the Skotts
+in the West Marches ; DERBY,115.032.223
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:HENRY_PERCY_III:MALE:_:1502?:31?
+LETTER:DERBY_032:E1:1533:COPY:OTHER
+and for the furnyshyng of part of that nomber aforsaid my Deputy shall
+appoynt summe of the sayd Abbots ten~nts in Borodale aforesaide , to
+geue their attendance accordyng to the Kyngs said pleasur ,
+DERBY,115.032.224
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:HENRY_PERCY_III:MALE:_:1502?:31?
+LETTER:DERBY_032:E1:1533:COPY:OTHER
+And the Resydue shall haue in com~ande=t= , to be in aredynes to do the
+King s~vice vnder the ledyng of me or my Deputy , when the Kyngs Grace
+shall com~and . Wherfor , ye beinge thus aduertised , my trust is ,
+that yo=r= good Lordship will no forther medle w=th=in my office , to
+the abrigement or mynyshing of any part therof . DERBY,115.032.225
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:HENRY_PERCY_III:MALE:_:1502?:31?
+LETTER:DERBY_032:E1:1533:COPY:OTHER
+And thus I hertyly desire you to be soo contented , lyke as ye wold
+thynke I shuld be in semblable case , if I shuld intromedle me in any
+your offices or Stwardship~s ; onles ye can show any former or better
+graunt then myn under the Co~uent Seale , which I thinke ye $can $not
+{TEXT:cannot} do . DERBY,115.032.226
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:HENRY_PERCY_III:MALE:_:1502?:31?
+LETTER:DERBY_032:E1:1533:COPY:OTHER
+And as towching the fee ye claym , I haue wryton to the said Abbot
+exortyng hym , if he other promysed you any suche , or that he and hys
+Monastery be bonden by any grante or otherwise , to make payment
+accordingly . DERBY,115.032.227
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:HENRY_PERCY_III:MALE:_:1502?:31?
+LETTER:DERBY_032:E1:1533:COPY:OTHER
+And if in case the Abbot <P_116> and his Co~vent be at ther lyb~tie in
+that behalf , Then I desire you to be good Lord to the said Abbot , and
+hold you content with hym herin of that whiche shall procede of his
+good will , and not otherwise . DERBY,116.032.228
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:HENRY_PERCY_III:MALE:_:1502?:31?
+LETTER:DERBY_032:E1:1533:COPY:OTHER
+And I praye to God to sende your good Lordship~ good spede and fortune
+in your affaires in the Kinges busynes , to the contentac~on of his
+pleasur , and increse of your hono=r= , as yo=r= noble hert can devyse
+or thynk . DERBY,116.032.229
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:HENRY_PERCY_III:MALE:_:1502?:31?
+LETTER:DERBY_032:E1:1533:COPY:OTHER
+W~ton at London , the ix day of ffebruary . DERBY,116.032.230
+
+<Q_DER_C_1533_T_ESTANLEY> <L_DERBY_033> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_JOHN_PASLEW>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_117>
+
+{ED:49.}
+
+{COM:EDWARD_STANLEY_TO_THE_ABBOT_OF_WHALLEY}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:JOHN_PASLEW:MALE:_:_:_
+LETTER:DERBY_033:E1:1533:COPY:OTHER
+L~re miss. anno Vicesimo quinto regni R. Henrici octavi .
+DERBY,117.033.231
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:JOHN_PASLEW:MALE:_:_:_
+LETTER:DERBY_033:E1:1533:COPY:OTHER
+A Lr~e to the Abbot of Whalley conc~ning the preparac~on of certeyn men
+&c. DERBY,117.033.232
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:JOHN_PASLEW:MALE:_:_:_
+LETTER:DERBY_033:E1:1533:COPY:OTHER
+Reverend ffather in God , in my hertyst maner I Recomend me to you .
+DERBY,117.033.233
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:JOHN_PASLEW:MALE:_:_:_
+LETTER:DERBY_033:E1:1533:COPY:OTHER
+And wher it is soo , that I am credably informed by my officers in the
+Ile of Man , that the Lord of the Owt Iles , w=th= the ayde of su~me
+Skotts , intendith , if he can and may be able to brynge his malicious
+purpose to effect , to enterprise to entre my land and Ile of Man , and
+to execute su~me displeasure ther ; whiche , God willyng , I trust
+w=th= his grace to defend and withstande , and with suche provysion ,
+as ys alredy forseyn ther and $shall $be {TEXT:shalbe} more largely
+provided for , w=th= suche ayd as I shall send theder , it shall not
+lye in his power too accomplyshe his malyce . Wherfor I hertly desir
+you , that ye by your polycy will cause the nomber of xx=ti= tall Men
+and good Archers of yo=r= ten~nts to be taken in such places , as ye
+thynke convenyente , to be put in a redynes as fote men , well harnysed
+after the man~er of the cuntre in whyt Jacketts , w=th= my Badge of the
+Legges of Man of red clothe , befor on the brest , or behynd on their
+backes , and in all hast possible to passe into my said Ile , for the
+defense beforsaid , in cu~pany w=th= xx other p~sons , that I haue
+writon to Roger Shirburn to p~pare and in lyke wyse to make redy , of
+the ten~nts of my S~vante , Thom=a=s Sherborn , and of my ten~nts
+w=th=in his rule . DERBY,117.033.234
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:JOHN_PASLEW:MALE:_:_:_
+LETTER:DERBY_033:E1:1533:COPY:OTHER
+And for the time the sayd men shall do me s~vice ther , they shall haue
+such resonable reward for ther s~vice , lyke as my Auncesters haue vsed
+<P_118> to gyff at suche lyke tymes , and ther resonable costs born ;
+DERBY,118.033.235
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:JOHN_PASLEW:MALE:_:_:_
+LETTER:DERBY_033:E1:1533:COPY:OTHER
+So as I trust , of reason they shall hold theym content .
+DERBY,118.033.236
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:JOHN_PASLEW:MALE:_:_:_
+LETTER:DERBY_033:E1:1533:COPY:OTHER
+And at my cu~myng into the Cuntre I shall recompense you for the said
+Whyte Jaketts . DERBY,118.033.237
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:JOHN_PASLEW:MALE:_:_:_
+LETTER:DERBY_033:E1:1533:COPY:OTHER
+And forsomoche as I haue counted w=th= you , not to make any
+{ED:ANY_PERSON} my Deputy Stward of your Lands w=th=oute your consent ,
+by reason wherof I am now unprovyded of a Deputy ; therfor I must now
+put you to the more payn in this behalfe , desiring you eftsones to
+haue the same my request in your remembrance , and to accomplyshe the
+same . DERBY,118.033.238
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:JOHN_PASLEW:MALE:_:_:_
+LETTER:DERBY_033:E1:1533:COPY:OTHER
+And you thus doyng shall des~ve my herty thankes , DERBY,118.033.239
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:JOHN_PASLEW:MALE:_:_:_
+LETTER:DERBY_033:E1:1533:COPY:OTHER
+and thus hartely fare ye well . DERBY,118.033.240
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:JOHN_PASLEW:MALE:_:_:_
+LETTER:DERBY_033:E1:1533:COPY:OTHER
+At my Mano=r= of Colham , the ix day of June . DERBY,118.033.241
+
+<Q_DER_C_1533_T_ESTANLEY> <L_DERBY_034> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_WILLIAM_FITZWILLIAM_2>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1506?>
+
+<P_118>
+
+{ED:51.}
+
+{COM:EDWARD_STANLEY_TO_WILLIAM_FITZWILLIAM}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:27?
+LETTER:DERBY_034:E1:1533:COPY:OTHER
+A Lr~e to S=r= Willm~ ffitzwillm~ for the Abbot of Whalley .
+DERBY,118.034.242
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:27?
+LETTER:DERBY_034:E1:1533:COPY:OTHER
+Cosyn , in my moost herty maner I recom~ende me to you .
+DERBY,118.034.243
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:27?
+LETTER:DERBY_034:E1:1533:COPY:OTHER
+And wher there was a mater in varyance betwene the Abbot of Whalley on
+the on party , and on Thom~s Bulcoke and others of the other partie ,
+for tythe cornes in Mersheden , whiche mater was dependyng befor you in
+the Duchie Chamber , and latelye dismyssed owt of the same vnto the
+Spirituall Court ; Sith whiche tyme the Spirituall Juges haue awarded
+certeyn processe , at the <P_119> Suete of the said Abbot , against
+dyverse of theyme , as well Cytac~ons , Suspenc~ons , as
+Excomunicac~ons , which in no wise they wold obey , nor appere vnto to
+make answarr , but in sundry wise and fac~ons , by the maynt=ce= and
+procurement of one Cristofer Lystir and other of his confoderacy , haue
+in violent and presumptuose man~ pulled and rased the said Suspenc~ons
+&c in peces , owt of the hands of the Curat standyng in the pulpit to
+execute the same : And over that haue suffred and mayntened the said
+p~sons soo exc~oicat to resort into the Churche , at suche tymes as
+Dyvyne S~vice , shuld have byn mynystred ; by occasion wherof the
+people of the P~ishe cold haue no Dyvyne S~vice , to the evyll example
+that lately hath byn sene in these p~ties . And I , willyng to haue don
+good herin & to have pacyfied the said variance , desired S=r= John
+Towneley , knyght , and also caused some of my Counsaill w=th= hym , to
+here and examyn this said variance at Whalley ; wher all and eu~y thing
+forsaid was aswell proved , as co~fessed by the party offendyng , to be
+true . DERBY,119.034.244
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:27?
+LETTER:DERBY_034:E1:1533:COPY:OTHER
+And notwithstanding that the moost part of the Kings ten~nts and others
+in Mersheden be reconsiled and agreid w=th= the Abbot , yet the said
+Cristofer and others of his confederacy do remayne still in their
+obstynacy , DERBY,119.034.245
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:27?
+LETTER:DERBY_034:E1:1533:COPY:OTHER
+and will not be reformed to good order . Wherfor I desire you in the
+advauncement of Justice , and the rather at this my requeste , to be
+good and favorable to the said Abbot in this his lawfull cause , when
+the matter shall come <P_120> before you . DERBY,120.034.246
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:27?
+LETTER:DERBY_034:E1:1533:COPY:OTHER
+And yf it lye in me , I $shall $be {TEXT:shalbe} glad to des~ue your
+approved Kyndnes , showed to me & my frynds at all tymes .
+DERBY,120.034.247
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:27?
+LETTER:DERBY_034:E1:1533:COPY:OTHER
+And thus o=r= Lord , &c. DERBY,120.034.248
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:27?
+LETTER:DERBY_034:E1:1533:COPY:OTHER
+W~ton at Lathom , the x day of September . DERBY,120.034.249
+
+<Q_DER_C_1533_T_ESTANLEY> <L_DERBY_035> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_NAME_UNKNOWN_3>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_120>
+
+{ED:52.}
+
+{COM:EDWARD_STANLEY_TO_THE_ABBOT_OF_WHITHORN}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:NAME_UNKNOWN_3:MALE:_:_:_
+LETTER:DERBY_035:E1:1533:COPY:OTHER
+A Lr~e to the Abbot of ... in Skotland . DERBY,120.035.250
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:NAME_UNKNOWN_3:MALE:_:_:_
+LETTER:DERBY_035:E1:1533:COPY:OTHER
+Reuerend ffather in God , in my hertymaner I com~end me to you , glad
+to here of your welfare . DERBY,120.035.251
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:NAME_UNKNOWN_3:MALE:_:_:_
+LETTER:DERBY_035:E1:1533:COPY:OTHER
+And for the good report , that I here of your goodness shewed to my
+subgetts of the Ile of Man , I geve you my herty thankes .
+DERBY,120.035.252
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:NAME_UNKNOWN_3:MALE:_:_:_
+LETTER:DERBY_035:E1:1533:COPY:OTHER
+And wheras I vnderstand , that ye be asyet vnprovyded of a fermo=r= and
+Stward of yo=r= spirituall and temporall possessions w=th=in my said
+Ile , I desire you to be co~tented , that my welbeloved S~vant , John
+Gardyner , Comptroller w=th=in my said Ile , may by you be admytted at
+this my instans to be your fermo=r= and Stward of the premisses , lyke
+as your predecesso=r=s haue vsed to admyt eu~y suche ffermo=r= at the
+nomc~on of my Auncestors . DERBY,120.035.253
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:NAME_UNKNOWN_3:MALE:_:_:_
+LETTER:DERBY_035:E1:1533:COPY:OTHER
+And yo=r= {ED:you?} thus doing ye shall not be only p~vided of an
+honnest man , and suche as shall content and paye vnto you youre dutyes
+, but also therby des~ve my herty thanks to be remembred towards you .
+DERBY,120.035.254
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:NAME_UNKNOWN_3:MALE:_:_:_
+LETTER:DERBY_035:E1:1533:COPY:OTHER
+Writon at Lathom , the xix day of July . DERBY,120.035.255
+
+<Q_DER_C_1533_T_ESTANLEY> <L_DERBY_036> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_THOMAS_CROMWELL>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1485?>
+
+<P_121>
+
+{ED:53.}
+
+{COM:EDWARD_STANLEY_TO_THOMAS_CROMWELL}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:DERBY_036:E1:1533:COPY:OTHER
+A Lr~e to Maister Cromwell . DERBY,121.036.256
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:DERBY_036:E1:1533:COPY:OTHER
+Maister Cromwell , I right hertly com~ende me to you .
+DERBY,121.036.257
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:DERBY_036:E1:1533:COPY:OTHER
+And wher there be diuerse and many of my frynds , neghburres and
+s~vantes com~on vp to london at this present tyme , accordyng as they
+do vnyuersally furthe of all other parties of the Realme , partly to
+fyn , and other part to be put in the order to be made knyghts by the
+Kings grace , or by his assigneys : Wherfor I desire , that ye $will
+$be {TEXT:wilbe} so good vnto me and my frynds , as to set furthe suche
+as I shall geve to you their namys foloyng , whiche $shall $be
+{TEXT:shalbe} vere mete for the order to be made by the Kings grace
+w=th= the Sworde , and the Residue to be put to their fynes w=th= youre
+favo=r= . DERBY,121.036.258
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:DERBY_036:E1:1533:COPY:OTHER
+And thus , &c. DERBY,121.036.259
+
+<Q_DER_C_1533_T_ESTANLEY> <L_DERBY_037> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_HENRY_GEE> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_--->
+
+<P_122>
+
+{ED:55.}
+
+{COM:EDWARD_STANLEY_TO_THE_MAYOR_OF_CHESTER}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:HENRY_GEE:MALE:_:_:_
+LETTER:DERBY_037:E1:1533:COPY:OTHER
+A Lr~e to the Mayor of Chester . DERBY,122.037.260
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:HENRY_GEE:MALE:_:_:_
+LETTER:DERBY_037:E1:1533:COPY:OTHER
+Maister Mayer , in my hertyst maner I com~end me to you .
+DERBY,122.037.261
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:HENRY_GEE:MALE:_:_:_
+LETTER:DERBY_037:E1:1533:COPY:OTHER
+And wher it is soo , that I , accordyng to the tytle of my inheritance
+, haue geven and admytted John Thorpe to the office of on of the
+S~iants of Chester of the Watergate , vnto whom I desire you to shew
+your lawfull favo=r= , and ministre vnto hym suche benyvolence and
+goodnes , as ye and yo=r= predycessors haue used to suche , as haue
+exercysed the said office ; in whiche doing ye shall des~ue my herty
+thankes . DERBY,122.037.262
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:HENRY_GEE:MALE:_:_:_
+LETTER:DERBY_037:E1:1533:COPY:OTHER
+And thus hertly fare ye well . DERBY,122.037.263
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:HENRY_GEE:MALE:_:_:_
+LETTER:DERBY_037:E1:1533:COPY:OTHER
+At Lathom , the ... of July . DERBY,122.037.264
+
+<Q_DER_C_1533_T_ESTANLEY> <L_DERBY_038> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_WILLIAM_DACRE>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1500>
+
+<P_122>
+
+{ED:56.}
+
+{COM:EDWARD_STANLEY_TO_LORD_DACRES}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_DACRE:MALE:_:1500:33
+LETTER:DERBY_038:E1:1533:COPY:OTHER
+A Lr~e to the Lord Dacres . DERBY,122.038.265
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_DACRE:MALE:_:1500:33
+LETTER:DERBY_038:E1:1533:COPY:OTHER
+My vere good Lord and Cosyn , in my herty maner I recom~ende <P_123> me
+to you . DERBY,123.038.266
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_DACRE:MALE:_:1500:33
+LETTER:DERBY_038:E1:1533:COPY:OTHER
+Wher I perceyve by your lr~e , directed to S=r= Robart Bellyncham ,
+Knyght , dated at Naword , the xi day of this August , y=t= ye be
+informed by my good Lord of Northumberland , that the Skottyshe King
+intendeth to invade y=is= our Souueraigne Lords Realme ; Wherfor ye
+desir hym and com~ande hym in the Kings name , that he , w=th= all the
+horseinge that he may make , upon an howers warnyng to be in aredynes
+to resist the same ; DERBY,123.038.267
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_DACRE:MALE:_:1500:33
+LETTER:DERBY_038:E1:1533:COPY:OTHER
+And forasmoche as the said S=r= Robart ys Stward to my Lady my Mother
+and me of our ten~nts nere vnto ffurnes and far from the borders of
+Skotland ; Therfor I desire you to be contented , that the said S=r=
+Robart , w=th= the ten~nts aforsaid and suche other as he can make ,
+may s~ue the King vnder me , if any suche case shall fortune ; ye
+having otherwise suffycyent nomber and power for the Borders and
+Marches of the Realme . DERBY,123.038.268
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_DACRE:MALE:_:1500:33
+LETTER:DERBY_038:E1:1533:COPY:OTHER
+And of your mynd heryn I desire you to asserteyn the said S=r= Robart .
+DERBY,123.038.269
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:25
+RECIPIENT:WILLIAM_DACRE:MALE:_:1500:33
+LETTER:DERBY_038:E1:1533:COPY:OTHER
+And this doyng ye shall haue me glad to do you pleas=r= , if it lye in
+me , as knowthe our Lord , &c. DERBY,123.038.270
+
+<Q_DER_C_1539_T_ESTANLEY> <L_DERBY_039> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_WILLIAM_PAULET>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1475?>
+
+<P_125>
+
+{ED:59.}
+
+{COM:EDWARD_STANLEY_TO_LORD_ST._JOHN}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:31
+RECIPIENT:WILLIAM_PAULET:MALE:_:1475?:64?
+LETTER:DERBY_039:E1:1539:COPY:OTHER
+Lr~e misse A=o= xxxi=o=. to my vere good Lord my Lord Sainct John .
+DERBY,125.039.271
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:31
+RECIPIENT:WILLIAM_PAULET:MALE:_:1475?:64?
+LETTER:DERBY_039:E1:1539:COPY:OTHER
+My vere good Lord , in my hertyest man~ I com~end me to your good
+Lordship , w=th= herty thankes for yo=r= goodnes shewed to me at all
+tymes . DERBY,125.039.272
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:31
+RECIPIENT:WILLIAM_PAULET:MALE:_:1475?:64?
+LETTER:DERBY_039:E1:1539:COPY:OTHER
+And wher I understand vpon the Relac~on of Maister Hennage , that the
+Kynges highnes vpon my humble swte to his magestie graunted by wordes ,
+that I shuld haue the preferment of the Wardshipp of the body and
+landes of Rauff Standishe , sonne and heir of my late S~vant ,
+Alexander Standishe , decessed , I hertly desir your good Lordship of
+your lawfull favo=r= and good will therein , and to help me to the
+Kyngs therof by w~tyng . DERBY,125.039.273
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:31
+RECIPIENT:WILLIAM_PAULET:MALE:_:1475?:64?
+LETTER:DERBY_039:E1:1539:COPY:OTHER
+And if it lye in me , I $shall $be {TEXT:shalbe} glad to shew unto
+yo=r= Lordship such pleas=r= , as I can do , as knowys god ; who
+pres~ve your Lordship in hono=r= , w=th= daily increasement of the same
+. DERBY,125.039.274
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:31
+RECIPIENT:WILLIAM_PAULET:MALE:_:1475?:64?
+LETTER:DERBY_039:E1:1539:COPY:OTHER
+At my Mano=r= of Lathom , the xxiii day of October . DERBY,125.039.275
+
+<Q_DER_C_1536_T_ESTANLEY> <L_DERBY_040> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_HENRY_PERCY_III>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1502?>
+
+<P_127>
+
+{ED:61.}
+
+{COM:EDWARD_STANLEY_TO_THE_EARL_OF_NORTHUMBERLAND}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_PERCY_III:MALE:_:1502?:34?
+LETTER:DERBY_040:E1:1536:COPY:OTHER
+Litter~ misse A=o= xxviii . H. VIII . DERBY,127.040.276
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_PERCY_III:MALE:_:1502?:34?
+LETTER:DERBY_040:E1:1536:COPY:OTHER
+To the Erle of Northumberland . DERBY,127.040.277
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_PERCY_III:MALE:_:1502?:34?
+LETTER:DERBY_040:E1:1536:COPY:OTHER
+My vere good Lord and Cosyn , in my right herty and louing man~ I
+com~end me to you . DERBY,127.040.278
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_PERCY_III:MALE:_:1502?:34?
+LETTER:DERBY_040:E1:1536:COPY:OTHER
+And wher as the Abbot and Co~vent of the Monastery of ffurness haue
+made me their Stward of all their Landes belonging to their Monastery ,
+as may appere by w~ting vnder their Co~vent Seale ; And that
+notwithstanding , as I am informed , ye pretend to be Stward vnto the
+said Abbot of his Lordship of Wenterburn , and by the color of the same
+your pretence ye do not only punyshe the said Abbots ten~nts there ,
+and do order theym lyke as and ye were Stward their in dede , whiche ys
+vnknown to me , that ye shuld have any suche interest soo to do :
+Wherfor in my moost herty and louing maner I desir you , that ye will
+no forther intermedell therin , vnto suche tym yo=r= right be approved
+to be better then myn . DERBY,127.040.279
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_PERCY_III:MALE:_:1502?:34?
+LETTER:DERBY_040:E1:1536:COPY:OTHER
+And that knowen , I shall not only be contented , that ye shall have
+and inioye that y=e= oughte to haue of right , but also to be content ,
+y=t= they $shall $be {TEXT:shalbe} reformed and punyshed , if they haue
+offended you or any of yo=r=s : DERBY,127.040.280
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_PERCY_III:MALE:_:1502?:34?
+LETTER:DERBY_040:E1:1536:COPY:OTHER
+Desiring you to be good Lord vnto the saide ten~nts vpon their
+demeano=r=s , and the better at my request ; And that I may be
+ascerteyned by writyng of your mynd herin , and thus rest .
+DERBY,127.040.281
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_PERCY_III:MALE:_:1502?:34?
+LETTER:DERBY_040:E1:1536:COPY:OTHER
+Knowseley , DERBY,127.040.282
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:HENRY_PERCY_III:MALE:_:1502?:34?
+LETTER:DERBY_040:E1:1536:COPY:OTHER
+the xxix day of August . DERBY,127.040.283
+
+<Q_DER_C_1536_T_ESTANLEY> <L_DERBY_041> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_WILLIAM_FITZWILLIAM_2>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1506?>
+
+<P_128>
+
+{ED:62.}
+
+{COM:EDWARD_STANLEY_TO_WILLIAM_FITZWILLIAM}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:30?
+LETTER:DERBY_041:E1:1536:COPY:OTHER
+To my right welbeloved Cosyn , Sir Wil~lm ffitzwil~lm , Lord Admyrall
+and Tresorer of the Kyngs moost honorable howsehold . DERBY,128.041.284
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:30?
+LETTER:DERBY_041:E1:1536:COPY:OTHER
+My vere good Cosyn , in my moost lovyng and herty man~er I com~end me
+vnto you , w=th= my right herty thankes for your favo=r= and gentilnes
+shewed to me at sundry tymes ; desyring you eftsoones to mynyster and
+shew unto me yo=r= favo=r= , help and fortherance in thise thinges
+herafter specyfied . DERBY,128.041.285
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:30?
+LETTER:DERBY_041:E1:1536:COPY:OTHER
+And yf it shall lye in me , I $shall $be {TEXT:shalbe} glad partly to
+recompens the same . DERBY,128.041.286
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:30?
+LETTER:DERBY_041:E1:1536:COPY:OTHER
+ffirst , wher as the Kings Comission~s haue not only valued the glasse
+and barres in the Churche wyndowes of Boriscoghe , and in the hall and
+Chambers of the Priory , w=th= pavyng stones and other , but also they
+haue valued all other goods there , at a higher prise then they be well
+worth ; wherof I desir you I may have a resonable allowance and
+deducc~on in the prises therof , as the matter shall appere unto you
+vpon the playn declarac~on y=r=of . DERBY,128.041.287
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:30?
+LETTER:DERBY_041:E1:1536:COPY:OTHER
+And forasmoche as my Auncesters , sumtymes founders therof , lye buryed
+there , I wold be ryght glad , that the said Churche myght stand in
+good reparac~on , if the same myght stand w=th= the Kings pleas=r= ,
+all thoghe the Priory do contynue , as it is , suppressed ; intending ,
+god willing , to fynd sum~e Preist theire , vpon my own costes and
+charges , to do devyne s~vice for the soules of <P_129> my said
+Auncesters , and for the ease and the welth of the neyburs nere
+inhabyting to the same : desiring you , therfor , to helpe me to bye
+the Belles and the Leade their for a resonable prise .
+DERBY,129.041.288
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:30?
+LETTER:DERBY_041:E1:1536:COPY:OTHER
+And whereas my Vncle , S=r= Jamys Stanley , is Stward of the said
+Priory , as apperith by wryting under the Co~vent Seale of the same ;
+And forsomoche as yt ys dowted , whether he ought to haue the
+conducc~on of the ten~nts belonging to the said Priory in the Kings
+s~uice or not , by force of his patent ; And forsomoche alsoo as the
+saide ten~nts be inhabyting nere unto my Mano=r= of Lathom , and sume
+tym percell of the same Mano=r= , And that they haue tyme owt of mynd
+owed their good willes and fauo=r=s to me and my Auncesters , and s~ved
+the King in his warres under the conducc~on and leading of my saides
+Auncesters ; I therfor desir you , that the saides ten~nts may contynue
+and vse soo to do , wherby I trust the Kings grace $shall $be
+{TEXT:shalbe} as well s~ved , as yf any other had the rule of theym .
+DERBY,129.041.289
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:30?
+LETTER:DERBY_041:E1:1536:COPY:OTHER
+And forsomoche as the tythe cornes of the Parishe of Ormyskyrke ,
+lately belongy~g to the said Priory , be right com~odeous for the vse
+of my howsehold and nere to me ; Therfor I desir you to p~fer me
+thereunto befor a nother , doyng as a nother will do ; And to the
+fferme of the wholl P~ory , if the same maye be had . DERBY,129.041.290
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:30?
+LETTER:DERBY_041:E1:1536:COPY:OTHER
+And wher as the Prio=r= of Holand hath holden to ferme at the will of
+me certeyn of my lands in Holand , of the yerly value of viii=li= or
+therabouts , whiche , forsomoche as it lyeth nere <P_130> me , I intend
+to occupye yt myself in pastur ; And therfor if S=r= Thomas Butler or
+any other wold procure or move the Kings grace or you to me for the
+preferment of hym or any {ED:NOT_COMPLETED} . DERBY,130.041.291
+
+<Q_DER_C_1537_T_ESTANLEY> <L_DERBY_042> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_WILLIAM_FITZWILLIAM_2>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1506?>
+
+<P_130>
+
+{ED:63.}
+
+{COM:EDWARD_STANLEY_TO_WILLIAM_FITZWILLIAM}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:29
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:31?
+LETTER:DERBY_042:E1:1537:COPY:OTHER
+Lr~e miss. anno xxix R. R. Henr~ VIII=vi= . DERBY,130.042.292
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:29
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:31?
+LETTER:DERBY_042:E1:1537:COPY:OTHER
+To my Lord Admyrall . DERBY,130.042.293
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:29
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:31?
+LETTER:DERBY_042:E1:1537:COPY:OTHER
+My vere good Lord and Cosyn , in my moost herty maner I recom~end me to
+yo=r= good Lordship , w=th= my herty thankes for your kyndnes and
+favo=r= shewed to me , as well towchyng my lr~es patents concernyng the
+Creation of my Erledom , as in all other my cawses ; desyring your good
+contynuance in the same , and that it may stand w=th= your pleasur to
+conclude w=th= my s~vant towching my saide lr~es patents : Certyfyng
+you , that accordyng to an appoyntment made w=th= my Lord of Sussex in
+these parties , I haue sent my s~vant , T. T. , this berer , vnto you
+to declare vnto you , by the advyce of my Counsaill lerned , my ryght
+and tytle to my lands in Holand , w=ch= the late Prior of Holand held
+of me at wyll from yere to yere . And forther to <P_131> make Suite in
+my behalf to your Lordship , for a Lease to be had to me for the Manor
+of the late suppressed Priory of Boriscoghe , w=th= the demayne lands
+of Boriscoghe and Merton belongyng to the same . Also aduertysing your
+Lordship , that I haue a desir to se the Kings grace this somer season
+; desiryng your advyse , what tyme ye thynk shall be convenyent for me
+soo to do , and to certify me of your mynd therof by my said S~vant ,
+or by your w~ting , soo as shall stand w=th= your pleas=r= .
+DERBY,131.042.294
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:29
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:31?
+LETTER:DERBY_042:E1:1537:COPY:OTHER
+And in all these cawses I eftsoones desir you of your accustomed
+kyndnes and favo=r= . DERBY,131.042.295
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:29
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:31?
+LETTER:DERBY_042:E1:1537:COPY:OTHER
+And yf it lye in me , I $shall $be {TEXT:shalbe} glad partly to
+recompence the same , soo as I may ; as knoith our Lord god , who haue
+you in his svre keping . DERBY,131.042.296
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:29
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:31?
+LETTER:DERBY_042:E1:1537:COPY:OTHER
+At Knowseley , the first daye of May . DERBY,131.042.297
+
+<Q_DER_C_1536?_T_ESTANLEY> <L_DERBY_043> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_THOMAS_CROMWELL>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1485?>
+
+<P_131>
+
+{ED:64.}
+
+{COM:EDWARD_STANLEY_TO_THOMAS_CROMWELL}
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:DERBY_043:E1:1536?:COPY:OTHER
+To my Lord P~vey Seale . DERBY,131.043.298
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:DERBY_043:E1:1536?:COPY:OTHER
+My vere good Lord , in my moost herty manner I recom~end me to yo=r=
+good Lordship , w=th= my ryght herty thankes for your favo=r= and
+kyndnes shewed to me in sundry my causes ; and specyally , amongst
+others your goodnes shewed to me , for your good help in fortheryng me
+to an end w=th= the Kings grace towchyng the arrerages of my det due to
+his Highnes , and for stalment of days of payment for the same , whiche
+I intend by gods grace surely and substantially to kepe , according to
+your direcc~on . Aduertisyng your Lordship also , that I have a desir
+to see the Kings grace this somer season , at suche tyme as I myght
+perceyue shuld be moost convenyent standing w=th= the Kings pleasur ;
+Desiring your lordship I maye haue your advyse therin , other by my
+s~uant , this berer , or otherwise by your Wryting , as shall stand
+w=th= your pleasur . DERBY,131.043.299
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:28?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:DERBY_043:E1:1536?:COPY:OTHER
+And if yt lye in me partly to des~ue your accustumed kyndnes and favor
+, ye <P_132> $shall $be {TEXT:shalbe} therof assured , like as ye haue
+sundry ways bounden me . As knoith o=r= Lord god , who pres~ue yo=r=
+good Lordship . DERBY,132.043.300
+
+<Q_DER_C_1537_FO_ESTANLEY> <L_DERBY_044> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_BROTHER-IN-LAW> <A-DOB_1508>
+<R_ROBERT_RADCLIFFE> <R-GENDER_MALE> <R-REL_BROTHER-IN-LAW>
+<R-DOB_1483>
+
+<P_132>
+
+{ED:65.}
+
+{COM:EDWARD_STANLEY_TO_SUSSEX}
+
+AUTHOR:EDWARD_STANLEY:MALE:BROTHER_IN_LAW:1508:29
+RECIPIENT:ROBERT_RADCLIFFE:MALE:BROTHER_IN_LAW:1483:54
+LETTER:DERBY_044:E1:1537:COPY:FAMILY_OTHER
+To my Lord of Sussexe . DERBY,132.044.301
+
+AUTHOR:EDWARD_STANLEY:MALE:BROTHER_IN_LAW:1508:29
+RECIPIENT:ROBERT_RADCLIFFE:MALE:BROTHER_IN_LAW:1483:54
+LETTER:DERBY_044:E1:1537:COPY:FAMILY_OTHER
+My vere good Lord and brother , in my moost louing and herty man~ I
+recom~end me to yo=r= good Lordship , w=th= my right herty thankes for
+your kyndnes shewed to me in all my causes and affares ; Certefying you
+, that I haue sent my s~vant , T. T. , this berer , to my lord Admyrall
+, according to the appoyntment made betwixt you and me at Preston , to
+declare my tytle and right , by the advyse of my Counsaill lerned , to
+my lands , whiche the late P~or of Holand held of me at will ; And also
+to make svte on my behalfe to my said Lord , for a lease to be made to
+me of the Manc~on of the late suppressed Priory of Boriscoghe , w=th=
+the demayne lands belonging to the same . Wherin and in other matters ,
+that my said S~vant shall on my behalf declare vnto you , I desir your
+favo=r= and accustomed goodnes ; Which if it lye in me , I $shall $be
+{TEXT:shalbe} glad to my power partly to des~ue . As knoweth o=r= lord
+god , &c. DERBY,132.044.302

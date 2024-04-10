@@ -1,0 +1,2806 @@
+<B_WILLOUG>
+
+{COM:THE_FOOTNOTES_FOR_DELETED_WORDS_HAVE_BEEN_REPLACED_[FOR_T
+ECHNICAL_REASONS]_WITH_{TEXT:word_DELETED}.}
+
+<Q_WIL_A_1520S?_FO_JZOUCHE> <L_WILLOUG_001> <A_JANE_ZOUCHE>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_---> <R_EDWARD_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_--->
+
+<P_16>
+
+{ED:NO._2._JANE_ZOUCHE}
+
+{COM:TO_SIR_EDWARD_WILLOUGHBY}
+
+AUTHOR:JANE_ZOUCHE:FEMALE:KIN:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_001:E1:1520S?:AUTOGRAPH:FAMILY_OTHER
+To the Right Wurshipfull Sir Edward Wylloughby Knyght at Henley in
+Ardren . WILLOUG,16.001.1
+
+AUTHOR:JANE_ZOUCHE:FEMALE:KIN:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_001:E1:1520S?:AUTOGRAPH:FAMILY_OTHER
+Right wurshipfull Sir , I commaund me to youe WILLOUG,16.001.2
+
+AUTHOR:JANE_ZOUCHE:FEMALE:KIN:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_001:E1:1520S?:AUTOGRAPH:FAMILY_OTHER
+and according to my promes have wrytton to my broder in the best maner
+{in}_P I can for my Master your ffader , WILLOUG,16.001.3
+
+AUTHOR:JANE_ZOUCHE:FEMALE:KIN:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_001:E1:1520S?:AUTOGRAPH:FAMILY_OTHER
+but of trouth yf I had sene his lettre before I hade made youe that
+promes I wolde not have be to hasty , WILLOUG,16.001.4
+
+AUTHOR:JANE_ZOUCHE:FEMALE:KIN:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_001:E1:1520S?:AUTOGRAPH:FAMILY_OTHER
+for Sir , I am to olde to be fered with suche lettres or for ony olde
+rakenynges on my behalffe . WILLOUG,16.001.5
+
+AUTHOR:JANE_ZOUCHE:FEMALE:KIN:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_001:E1:1520S?:AUTOGRAPH:FAMILY_OTHER
+I noder fere hym nor no man elles that can lay ony thyng to my charge
+oder wyse then ought to be in a religious woman , WILLOUG,16.001.6
+
+AUTHOR:JANE_ZOUCHE:FEMALE:KIN:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_001:E1:1520S?:AUTOGRAPH:FAMILY_OTHER
+and so I desire youe to shew unto hym at your pleasir . Albeit that
+promise that I made to youe to wryte to my broder , I do assure youe I
+have done it in as affectuall maner as {in}_P I can , WILLOUG,16.001.7
+
+AUTHOR:JANE_ZOUCHE:FEMALE:KIN:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_001:E1:1520S?:AUTOGRAPH:FAMILY_OTHER
+and therfor lett your fader wryte and send hym a lovyng letre by som
+wyse servaunt of his that is no facer nor crakker WILLOUG,16.001.8
+
+AUTHOR:JANE_ZOUCHE:FEMALE:KIN:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_001:E1:1520S?:AUTOGRAPH:FAMILY_OTHER
+and I trust he shall obteyn his desires with good maner , wherof I
+$shall $be {TEXT:shalbe} verey glade as knowith <P_17> our Lorde who
+ever send you good fortunes with honour . WILLOUG,17.001.9
+
+AUTHOR:JANE_ZOUCHE:FEMALE:KIN:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_001:E1:1520S?:AUTOGRAPH:FAMILY_OTHER
+Wrytton at Markeyate by youris , Dame Jane Zowche priores ther ,
+WILLOUG,17.001.10
+
+AUTHOR:JANE_ZOUCHE:FEMALE:KIN:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_001:E1:1520S?:AUTOGRAPH:FAMILY_OTHER
+the xxj=th= daye of Maye . WILLOUG,17.001.11
+
+<Q_WIL_A_1520S_FO_EFITTON> <L_WILLOUG_002> <A_EDWARD_FITTON>
+<A-GENDER_MALE> <A-REL_NEPHEW> <A-DOB_---> <R_EDWARD_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_UNCLE> <R-DOB_--->
+
+<P_17>
+
+{ED:NO._3._EDWARD_FITTON}
+
+{COM:TO_SIR_EDWARD_WILLOUGHBY}
+
+AUTHOR:EDWARD_FITTON:MALE:NEPHEW:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:UNCLE:_:_
+LETTER:WILLOUG_002:E1:1520S:AUTOGRAPH:FAMILY_OTHER
+To my ryght worshipfull uncle Sir Edward Wylloghby $deliver .
+WILLOUG,17.002.12
+
+AUTHOR:EDWARD_FITTON:MALE:NEPHEW:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:UNCLE:_:_
+LETTER:WILLOUG_002:E1:1520S:AUTOGRAPH:FAMILY_OTHER
+Ryght wyrshipfull $uncle in my most lovynge manr' I commende me to you
+WILLOUG,17.002.13
+
+AUTHOR:EDWARD_FITTON:MALE:NEPHEW:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:UNCLE:_:_
+LETTER:WILLOUG_002:E1:1520S:AUTOGRAPH:FAMILY_OTHER
+and evun so thanke you for all your kyndenes and paynes takun for me
+and my cawses , WILLOUG,17.002.14
+
+AUTHOR:EDWARD_FITTON:MALE:NEPHEW:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:UNCLE:_:_
+LETTER:WILLOUG_002:E1:1520S:AUTOGRAPH:FAMILY_OTHER
+and weer hyt hathe playsyd you to be so gid uncle to me of late as to
+be a meane unto my lorde of Canturburye towchynge a byll of
+supplycacyon the wyche my servande thys berer by your cowncell hathe
+exhybytyd unto my sayd lordis grace the recoverye werof I have finale
+comforde in . Althyfe I have as gid ryght therunto as any mon lyvynge
+hathe to the most perfyte gid he hathe , uneles hyt be by your gid
+helpe and meane werunto I most ryght hertely desir you to take forther
+paynes , and for syche $promyse as my sayd servande hathe made to you I
+ame ryght well content he shall performe the same . WILLOUG,17.002.15
+
+AUTHOR:EDWARD_FITTON:MALE:NEPHEW:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:UNCLE:_:_
+LETTER:WILLOUG_002:E1:1520S:AUTOGRAPH:FAMILY_OTHER
+Sir , I am informyd your purpose ys , God wyllynge , to be thys somer
+at Wollertun with my uncle Sir John , at wyche tyme I trust you wyll
+take the <P_18> payne to see your nece with her lytull babes , the
+wyche wyll be myche to my comforde if hyt playse you so to do , as the
+Holy Gost $knowythe wo sende you as well to fitr' {ED:?} as <em> I
+wolde </em> my selfe . WILLOUG,18.002.16
+
+AUTHOR:EDWARD_FITTON:MALE:NEPHEW:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:UNCLE:_:_
+LETTER:WILLOUG_002:E1:1520S:AUTOGRAPH:FAMILY_OTHER
+At Gauewerthe th ... day of June , Your lovynge $nephew , Edward Fyton
+. WILLOUG,18.002.17
+
+AUTHOR:EDWARD_FITTON:MALE:NEPHEW:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:UNCLE:_:_
+LETTER:WILLOUG_002:E1:1520S:AUTOGRAPH:FAMILY_OTHER
+Sir , I pray you goo thro ..._X in this mater at this tyme
+WILLOUG,18.002.18
+
+AUTHOR:EDWARD_FITTON:MALE:NEPHEW:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:UNCLE:_:_
+LETTER:WILLOUG_002:E1:1520S:AUTOGRAPH:FAMILY_OTHER
+and watt you and my servande Wyllm. Wade shall do towchynge my sutes to
+my lorde of Canturburye I am content to stande to . WILLOUG,18.002.19
+
+AUTHOR:EDWARD_FITTON:MALE:NEPHEW:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:UNCLE:_:_
+LETTER:WILLOUG_002:E1:1520S:AUTOGRAPH:FAMILY_OTHER
+Edward Fyton . WILLOUG,18.002.20
+
+<Q_WIL_A_1530S_T_WWYBE> <L_WILLOUG_003> <A_W_WYBE> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_EDWARD_WILLOUGHBY> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_--->
+
+<P_18>
+
+{ED:NO._4._W._WYBE}
+
+{COM:TO_SIR_EDWARD_WILLOUGHBY}
+
+AUTHOR:W_WYBE:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_003:E1:1530S:AUTOGRAPH:OTHER
+Unto Sir Edward Wylloghby {TEXT:thys_DELETED} knyght thys be delyvrd .
+WILLOUG,18.003.21
+
+AUTHOR:W_WYBE:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_003:E1:1530S:AUTOGRAPH:OTHER
+Master , in my most hartyast maner my dwty rememberd , I hawe me umly
+recomhendyd unto yow . WILLOUG,18.003.22
+
+AUTHOR:W_WYBE:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_003:E1:1530S:AUTOGRAPH:OTHER
+Sir , the cawsse of my vrytyng unto you ys to inform yow that my lady
+dothe breke up howsse at mydsomer and wyll no <P_19> more haw my master
+yowr sonne nor my lady hys wyffe , wherfor that thay be not unprowydyd
+I hawe wrytyn unto yow that yow may make sume provycyon for theme ,
+WILLOUG,19.003.23
+
+AUTHOR:W_WYBE:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_003:E1:1530S:AUTOGRAPH:OTHER
+for I see yt ys no nother remedy , werfor yf yt myght plesse yow to
+take some way with my master yowr brother that sche myght be with hym
+and he at the Inys of Cortt or in the kingis serwys , to my pour mynd
+hyt wer a good way , WILLOUG,19.003.24
+
+AUTHOR:W_WYBE:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_003:E1:1530S:AUTOGRAPH:OTHER
+for now my thynkes yt ys a good sessun to labor for the kyngis serwys
+not withstandyng yowr knoleg and persewranc' in that is better and myne
+. WILLOUG,19.003.25
+
+AUTHOR:W_WYBE:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_003:E1:1530S:AUTOGRAPH:OTHER
+Sir , I beseche yow to make some provycyon schortly and send me some
+word in vrytyng for the essment of the hartt of my lady yowr doghter
+wych wyll thynke long to know wher sche schall be bestoyd whom ewer mor
+pouttes hyr trust and confydenc' in yow . WILLOUG,19.003.26
+
+AUTHOR:W_WYBE:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_003:E1:1530S:AUTOGRAPH:OTHER
+Wryt' in Tyltay by the hand of yowr trust serwantt and prest , Sir W.
+Wybe . WILLOUG,19.003.27
+
+AUTHOR:W_WYBE:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_003:E1:1530S:AUTOGRAPH:OTHER
+For lake of papir I am dryvvon to bereviat my mater . WILLOUG,19.003.28
+
+<Q_WIL_A_1532?_FN_RWILLOUGHBY> <L_WILLOUG_004> <A_ROBERT_WILLOUGHBY_2>
+<A-GENDER_MALE> <A-REL_FUTURE_HUSBAND> <A-DOB_--->
+<R_DOROTHY_WILLOUGHBY> <R-GENDER_FEMALE> <R-REL_FUTURE_WIFE>
+<R-DOB_--->
+
+<P_19>
+
+{ED:NO._5._ROBERT_WILLOUGHBY}
+
+{COM:TO_DOROTHY_WILLOUGHBY}
+
+AUTHOR:ROBERT_WILLOUGHBY_2:MALE:FUTURE_HUSBAND:_:_?
+RECIPIENT:DOROTHY_WILLOUGHBY:FEMALE:FUTURE_WIFE:_:_?
+LETTER:WILLOUG_004:E1:1532?:AUTOGRAPH:FAMILY_NUCLEAR
+To his wellbelovyd Mystres Dorethe Wyllebe . WILLOUG,19.004.29
+
+AUTHOR:ROBERT_WILLOUGHBY_2:MALE:FUTURE_HUSBAND:_:_?
+RECIPIENT:DOROTHY_WILLOUGHBY:FEMALE:FUTURE_WIFE:_:_?
+LETTER:WILLOUG_004:E1:1532?:AUTOGRAPH:FAMILY_NUCLEAR
+Mystres Dorethe , in my $most lovyngyst wise that {in}_P I can I have
+me hartely commendyd unto you , trusting in God that you ar in good
+helth , <P_20> thankyng you alweys for the great chere that you mad me
+at Woodland . WILLOUG,20.004.30
+
+AUTHOR:ROBERT_WILLOUGHBY_2:MALE:FUTURE_HUSBAND:_:_?
+RECIPIENT:DOROTHY_WILLOUGHBY:FEMALE:FUTURE_WIFE:_:_?
+LETTER:WILLOUG_004:E1:1532?:AUTOGRAPH:FAMILY_NUCLEAR
+It is soo that sins my cummyng hom my father hath movyd me of dyvers
+questions as towching the love that schuld be betwen us too ,
+WILLOUG,20.004.31
+
+AUTHOR:ROBERT_WILLOUGHBY_2:MALE:FUTURE_HUSBAND:_:_?
+RECIPIENT:DOROTHY_WILLOUGHBY:FEMALE:FUTURE_WIFE:_:_?
+LETTER:WILLOUG_004:E1:1532?:AUTOGRAPH:FAMILY_NUCLEAR
+and I have mad hym reasonable awnswers . WILLOUG,20.004.32
+
+AUTHOR:ROBERT_WILLOUGHBY_2:MALE:FUTURE_HUSBAND:_:_?
+RECIPIENT:DOROTHY_WILLOUGHBY:FEMALE:FUTURE_WIFE:_:_?
+LETTER:WILLOUG_004:E1:1532?:AUTOGRAPH:FAMILY_NUCLEAR
+Howbeit , I can not perceve that he wyll goo other forwerd or bakeward
+with that as it {ED:WORD_MISSING?} untill such tyme as he may speke
+with Master Wyllybe your father or els have a letter from him ,
+WILLOUG,20.004.33
+
+AUTHOR:ROBERT_WILLOUGHBY_2:MALE:FUTURE_HUSBAND:_:_?
+RECIPIENT:DOROTHY_WILLOUGHBY:FEMALE:FUTURE_WIFE:_:_?
+LETTER:WILLOUG_004:E1:1532?:AUTOGRAPH:FAMILY_NUCLEAR
+and theruppon I desire you especially that you will call uppon Master
+Wyllybe that he send a letter next terme to my father of his mynd .
+WILLOUG,20.004.34
+
+AUTHOR:ROBERT_WILLOUGHBY_2:MALE:FUTURE_HUSBAND:_:_?
+RECIPIENT:DOROTHY_WILLOUGHBY:FEMALE:FUTURE_WIFE:_:_?
+LETTER:WILLOUG_004:E1:1532?:AUTOGRAPH:FAMILY_NUCLEAR
+Also Mystres Dorethe , I desir you to remember such thinges as I spake
+to you of . WILLOUG,20.004.35
+
+AUTHOR:ROBERT_WILLOUGHBY_2:MALE:FUTURE_HUSBAND:_:_?
+RECIPIENT:DOROTHY_WILLOUGHBY:FEMALE:FUTURE_WIFE:_:_?
+LETTER:WILLOUG_004:E1:1532?:AUTOGRAPH:FAMILY_NUCLEAR
+I promysse you ther is nothing in the world that grevyth me mor at this
+tyme then the absence of you , WILLOUG,20.004.36
+
+AUTHOR:ROBERT_WILLOUGHBY_2:MALE:FUTURE_HUSBAND:_:_?
+RECIPIENT:DOROTHY_WILLOUGHBY:FEMALE:FUTURE_WIFE:_:_?
+LETTER:WILLOUG_004:E1:1532?:AUTOGRAPH:FAMILY_NUCLEAR
+for I schall not be at my hartis ease untill such tyme as I see you
+agen , as knoweth God who have you in his eternall keping .
+WILLOUG,20.004.37
+
+AUTHOR:ROBERT_WILLOUGHBY_2:MALE:FUTURE_HUSBAND:_:_?
+RECIPIENT:DOROTHY_WILLOUGHBY:FEMALE:FUTURE_WIFE:_:_?
+LETTER:WILLOUG_004:E1:1532?:AUTOGRAPH:FAMILY_NUCLEAR
+Wrytte in haste on Saint Nicolas Eyvn . WILLOUG,20.004.38
+
+AUTHOR:ROBERT_WILLOUGHBY_2:MALE:FUTURE_HUSBAND:_:_?
+RECIPIENT:DOROTHY_WILLOUGHBY:FEMALE:FUTURE_WIFE:_:_?
+LETTER:WILLOUG_004:E1:1532?:AUTOGRAPH:FAMILY_NUCLEAR
+Your true lover to his powr Robert Wyllughby . WILLOUG,20.004.39
+
+AUTHOR:ROBERT_WILLOUGHBY_2:MALE:FUTURE_HUSBAND:_:_?
+RECIPIENT:DOROTHY_WILLOUGHBY:FEMALE:FUTURE_WIFE:_:_?
+LETTER:WILLOUG_004:E1:1532?:AUTOGRAPH:FAMILY_NUCLEAR
+I send you a pair of glovys by Edward Mottley . WILLOUG,20.004.40
+
+<Q_WIL_A_1532?_FO_RWILLOUGHBY> <L_WILLOUG_005> <A_ROBERT_WILLOUGHBY_2>
+<A-GENDER_MALE> <A-REL_SON-IN-LAW> <A-DOB_---> <R_EDWARD_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_FATHER-IN-LAW> <R-DOB_--->
+
+<P_20>
+
+{ED:NO._6._ROBERT_WILLOUGHBY}
+
+{COM:TO_SIR_EDWARD_WILLOUGHBY}
+
+AUTHOR:ROBERT_WILLOUGHBY_2:MALE:SON_IN_LAW:_:_?
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:FATHER_IN_LAW:_:_?
+LETTER:WILLOUG_005:E1:1532?:AUTOGRAPH:FAMILY_OTHER
+To his ryght wurschipfull good Master Sir Edward Wyllybe knyght be this
+$delivered . WILLOUG,20.005.41
+
+AUTHOR:ROBERT_WILLOUGHBY_2:MALE:SON_IN_LAW:_:_?
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:FATHER_IN_LAW:_:_?
+LETTER:WILLOUG_005:E1:1532?:AUTOGRAPH:FAMILY_OTHER
+Ryght whurschipfull Sir , my dewty rememberyd I have me commendid unto
+you , very glad to here tell that your masterschipp is in good helth ,
+as one that is very sory to here that my father $and you can not agree
+by no meanys . WILLOUG,20.005.42
+
+AUTHOR:ROBERT_WILLOUGHBY_2:MALE:SON_IN_LAW:_:_?
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:FATHER_IN_LAW:_:_?
+LETTER:WILLOUG_005:E1:1532?:AUTOGRAPH:FAMILY_OTHER
+Also Sir , I myself do perceve $thatt he hath no mynd as yet to medyll
+with you . WILLOUG,20.005.43
+
+AUTHOR:ROBERT_WILLOUGHBY_2:MALE:SON_IN_LAW:_:_?
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:FATHER_IN_LAW:_:_?
+LETTER:WILLOUG_005:E1:1532?:AUTOGRAPH:FAMILY_OTHER
+As for as I do $understond my father laboryd <P_21> to have a mariage
+mad betwene one of $my Lord of Dudlys dowghters and me . How he spedith
+in that $matter {ED:?} I can not surly assertefye you , desiring you
+that it my go .. forder . WILLOUG,21.005.44
+
+AUTHOR:ROBERT_WILLOUGHBY_2:MALE:SON_IN_LAW:_:_?
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:FATHER_IN_LAW:_:_?
+LETTER:WILLOUG_005:E1:1532?:AUTOGRAPH:FAMILY_OTHER
+Your masterschip dyd ons move me if I durst be bold to be maryd
+secretly at home with you if ye be so pleasid . WILLOUG,21.005.45
+
+AUTHOR:ROBERT_WILLOUGHBY_2:MALE:SON_IN_LAW:_:_?
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:FATHER_IN_LAW:_:_?
+LETTER:WILLOUG_005:E1:1532?:AUTOGRAPH:FAMILY_OTHER
+$I am ryght well content to be orderd by you , as schortly as I may
+gett to London , WILLOUG,21.005.46
+
+AUTHOR:ROBERT_WILLOUGHBY_2:MALE:SON_IN_LAW:_:_?
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:FATHER_IN_LAW:_:_?
+LETTER:WILLOUG_005:E1:1532?:AUTOGRAPH:FAMILY_OTHER
+for I am compellyd sumwhat to adventur WILLOUG,21.005.47
+
+AUTHOR:ROBERT_WILLOUGHBY_2:MALE:SON_IN_LAW:_:_?
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:FATHER_IN_LAW:_:_?
+LETTER:WILLOUG_005:E1:1532?:AUTOGRAPH:FAMILY_OTHER
+or els I schall never be at my hartis ease , requiryng your
+masterschipp to be good unto me in this matter as knowith God who have
+you in his kepyng . WILLOUG,21.005.48
+
+AUTHOR:ROBERT_WILLOUGHBY_2:MALE:SON_IN_LAW:_:_?
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:FATHER_IN_LAW:_:_?
+LETTER:WILLOUG_005:E1:1532?:AUTOGRAPH:FAMILY_OTHER
+Scriblid in hast . WILLOUG,21.005.49
+
+AUTHOR:ROBERT_WILLOUGHBY_2:MALE:SON_IN_LAW:_:_?
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:FATHER_IN_LAW:_:_?
+LETTER:WILLOUG_005:E1:1532?:AUTOGRAPH:FAMILY_OTHER
+Yours at all requestes Robert Wyllughby . WILLOUG,21.005.50
+
+<Q_WIL_D_1538_FO_CBRANDON> <L_WILLOUG_006> <A_CHARLES_BRANDON>
+<A-GENDER_MALE> <A-REL_KIN> <A-DOB_1484> <R_EDWARD_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_--->
+
+<P_23>
+
+{ED:NO._8._CHARLES_BRANDON,_DUKE_OF_SUFFOLK}
+
+{COM:TO_SIR_EDWARD_WILLOUGHBY}
+
+AUTHOR:CHARLES_BRANDON:MALE:KIN:1484:54
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_006:E1:1538:UNKNOWN:FAMILY_OTHER
+To the worsshipfull Sir Edwarde Willoughbye knight . WILLOUG,23.006.51
+
+AUTHOR:CHARLES_BRANDON:MALE:KIN:1484:54
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_006:E1:1538:UNKNOWN:FAMILY_OTHER
+After right herty commendacions you shal understande I have appointide
+to your survey in myn office of the Riding fostership of the new
+forrest the Baylywike of Burley , Friteham , Godshill , Lindwodde and
+the Estbaylywike and no further with half the ffee to that office , and
+the profites growing in the seid bayliwikes reservyng to myn olde
+servaunt Richarde Lorde all that I have appointid unto him , hertely
+praying you substauncyally to use the office in theise walkes and no
+further , as the kingis grace may be well servede for my discharge and
+for thencreace of your thankes which dout ye not ye shal not lak
+according to your desertes . WILLOUG,23.006.52
+
+AUTHOR:CHARLES_BRANDON:MALE:KIN:1484:54
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_006:E1:1538:UNKNOWN:FAMILY_OTHER
+And this to be observede in your bihalf as ye entende to have our
+favours and the contynuaunce of the use and exercising of this office .
+WILLOUG,23.006.53
+
+AUTHOR:CHARLES_BRANDON:MALE:KIN:1484:54
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_006:E1:1538:UNKNOWN:FAMILY_OTHER
+At London the xiij=th= day of Februory anno xxix=no= R. H. viii ,
+Charly Suffolk . WILLOUG,23.006.54
+
+<P_24>
+
+AUTHOR:CHARLES_BRANDON:MALE:KIN:1484:54
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_006:E1:1538:UNKNOWN:FAMILY_OTHER
+Albeit the moytie of my fee be herin grauntid unto you ye {TEXT:ye}
+{ED:SIC} know well it most be payed to Edwarde Fetiplace esquier by
+agreement and order takyn in that bihalf . WILLOUG,24.006.55
+
+AUTHOR:CHARLES_BRANDON:MALE:KIN:1484:54
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_006:E1:1538:UNKNOWN:FAMILY_OTHER
+The Duke of Suffolke . WILLOUG,24.006.56
+
+<Q_WIL_D_1530S_T_WFITZALAN> <L_WILLOUG_007> <A_WILLIAM_FITZALAN>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1476> <R_EDWARD_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_24>
+
+{ED:NO._9._WILLIAM_FITZALAN,_EARL_OF_ARUNDEL}
+
+{COM:TO_SIR_EDWARD_WILLOUGHBY}
+
+AUTHOR:WILLIAM_FITZALAN:MALE:_:1476:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_007:E1:1530S:UNKNOWN:OTHER
+Too Syr Edward Willughby knyght this be yoven . WILLOUG,24.007.57
+
+AUTHOR:WILLIAM_FITZALAN:MALE:_:1476:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_007:E1:1530S:UNKNOWN:OTHER
+Sir Edward Willughby <em> I commend </em> me unto you , adverteynyng
+you that I have receyvid <em> your lettre </em> the xxviijth day of
+this present monyth dated the s ... day of the same , and do right well
+perceve the $purporse therof . WILLOUG,24.007.58
+
+AUTHOR:WILLIAM_FITZALAN:MALE:_:1476:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_007:E1:1530S:UNKNOWN:OTHER
+And as touchyng your inhabiting within the lodge of Goddishill I
+perceve by your seid lettre , for asmyche as ye be ridyng forster in
+the New fforest undyr the Duke of Suffolke , ye say that you may
+lawfully take your eaise in ony lodge within the seid forest .
+WILLOUG,24.007.59
+
+AUTHOR:WILLIAM_FITZALAN:MALE:_:1476:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_007:E1:1530S:UNKNOWN:OTHER
+It hath not byn seyn hythirto before ye enterprised thare , that ony
+Rydyng forster or his deputie did dwell within ony lodge within the
+seid fforest . WILLOUG,24.007.60
+
+AUTHOR:WILLIAM_FITZALAN:MALE:_:1476:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_007:E1:1530S:UNKNOWN:OTHER
+And in case ye may lawfully so do , I am right well contented ,
+WILLOUG,24.007.61
+
+AUTHOR:WILLIAM_FITZALAN:MALE:_:1476:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_007:E1:1530S:UNKNOWN:OTHER
+or elles I trust ye will advoyde your dwellyng thare accordyng to my
+lettre I sent you of late . WILLOUG,24.007.62
+
+AUTHOR:WILLIAM_FITZALAN:MALE:_:1476:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_007:E1:1530S:UNKNOWN:OTHER
+And where ye wrete in your seid lettre ye wold have complayned to the
+Kyngis Councell upon Vyncent Jomper before this tyme for the wastes and
+distruccions that hath made in the kingis woddes and game , if it
+<P_25> were not for feare that his offences shuld torne me to
+displeasure , Sir , feare ye not WILLOUG,25.007.63
+
+AUTHOR:WILLIAM_FITZALAN:MALE:_:1476:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_007:E1:1530S:UNKNOWN:OTHER
+but complayne uppon hym and upon all othyr kepers within the seid
+fforest if they do offend in makyng wast of the kyngis wooddes or game
+. WILLOUG,25.007.64
+
+AUTHOR:WILLIAM_FITZALAN:MALE:_:1476:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_007:E1:1530S:UNKNOWN:OTHER
+When ye se your tyme , forbeare non of them for feare of ony
+displeasure that ye thynke it shall torne unto me . WILLOUG,25.007.65
+
+AUTHOR:WILLIAM_FITZALAN:MALE:_:1476:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_007:E1:1530S:UNKNOWN:OTHER
+Over this as ye resite in your seid lettre that my Councell shuld
+promise in my behalff to Sir Anthony Willughby when he solde me the
+howse at Lamheth , that he shuld have the Office of Goddishill for
+terme of his liffe , I assure you what som ever promise my seid
+councell made unto hym in that behalff , thei did it without ony
+warraunt or auctoryte gyvyn be me , WILLOUG,25.007.66
+
+AUTHOR:WILLIAM_FITZALAN:MALE:_:1476:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_007:E1:1530S:UNKNOWN:OTHER
+that will I well prove . WILLOUG,25.007.67
+
+AUTHOR:WILLIAM_FITZALAN:MALE:_:1476:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_007:E1:1530S:UNKNOWN:OTHER
+And so fare you well . WILLOUG,25.007.68
+
+AUTHOR:WILLIAM_FITZALAN:MALE:_:1476:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_007:E1:1530S:UNKNOWN:OTHER
+At Downeley the last day of September . WILLOUG,25.007.69
+
+AUTHOR:WILLIAM_FITZALAN:MALE:_:1476:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_007:E1:1530S:UNKNOWN:OTHER
+Your lover Arundel . WILLOUG,25.007.70
+
+<Q_WIL_A_1530S_T_JTEWKSBURY> <L_WILLOUG_008> <A_JOHN_OF_TEWKESBURY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_EDWARD_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_26>
+
+{ED:NO._10._JOHN,_ABBOT_OF_TEWKESBURY}
+
+{COM:TO_SIR_EDWARD_WILLOUGHBY}
+
+AUTHOR:JOHN_OF_TEWKESBURY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_008:E1:1530S:AUTOGRAPH:OTHER
+To the rygth worschypfull Sir Eadward Wylowgthbe knygth thes be
+delyverd . WILLOUG,26.008.71
+
+AUTHOR:JOHN_OF_TEWKESBURY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_008:E1:1530S:AUTOGRAPH:OTHER
+Rygth worschypfull and my lovyng frynde in my most harte wyse I commend
+me to yowe evyn soo thankyng yowe for yowre contynuall goodnes schowyd
+to my prior and pore howese of Cranburne , and to all my tenentes , and
+for the excersyse of my lyberte in my purluse desyryng yowe of
+contynuance , and that my prior and my pore tenentes ther may have
+yowre lovyng yeade in all ther lawfull pursutes WILLOUG,26.008.72
+
+AUTHOR:JOHN_OF_TEWKESBURY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_008:E1:1530S:AUTOGRAPH:OTHER
+and yf ther be any thyng in the whyche I may do yowe plesure to
+recompenc' parte of yowre goodnes ye may be sure therof with my
+prayowres as knowyth owre savyowre whoo send yowe longe lyffe with
+incress of muche worschyp . WILLOUG,26.008.73
+
+AUTHOR:JOHN_OF_TEWKESBURY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_008:E1:1530S:AUTOGRAPH:OTHER
+From Forthamton the xix day of August by hym that ys all yowres . John
+Abbatt of Teoxbery . WILLOUG,26.008.74
+
+<Q_WIL_A_1530?_FO_AFITZHERBERT> <L_WILLOUG_009> <A_ANTHONY_FITZHERBERT>
+<A-GENDER_MALE> <A-REL_UNCLE> <A-DOB_1470> <R_ROLAND_BABYNGTON>
+<R-GENDER_MALE> <R-REL_NEPHEW> <R-DOB_--->
+
+<P_39>
+
+{ED:NO._20._SIR_ANTHONY_FITZHERBERT}
+
+{COM:TO_ROLAND_BABYNGTON}
+
+AUTHOR:ANTHONY_FITZHERBERT:MALE:UNCLE:1470:60?
+RECIPIENT:ROLAND_BABYNGTON:MALE:NEPHEW:_:_?
+LETTER:WILLOUG_009:E1:1530?:AUTOGRAPH:FAMILY_OTHER
+To hys Ryght Welbeloved Cosyn Roulond Babyngton esquire be this bill
+delyvered . WILLOUG,39.009.75
+
+AUTHOR:ANTHONY_FITZHERBERT:MALE:UNCLE:1470:60?
+RECIPIENT:ROLAND_BABYNGTON:MALE:NEPHEW:_:_?
+LETTER:WILLOUG_009:E1:1530?:AUTOGRAPH:FAMILY_OTHER
+Ryght welbeloved cosyn , I recommend me unto you and to my cosyn your
+wyfth {ED:?} WILLOUG,39.009.76
+
+AUTHOR:ANTHONY_FITZHERBERT:MALE:UNCLE:1470:60?
+RECIPIENT:ROLAND_BABYNGTON:MALE:NEPHEW:_:_?
+LETTER:WILLOUG_009:E1:1530?:AUTOGRAPH:FAMILY_OTHER
+and hertely thanke you ffor my gud cher at my last beyng with you .
+WILLOUG,39.009.77
+
+AUTHOR:ANTHONY_FITZHERBERT:MALE:UNCLE:1470:60?
+RECIPIENT:ROLAND_BABYNGTON:MALE:NEPHEW:_:_?
+LETTER:WILLOUG_009:E1:1530?:AUTOGRAPH:FAMILY_OTHER
+Accordyng to your letter I have moved Sir Edward Willughby ffor the
+mater bytwyx you , WILLOUG,39.009.78
+
+AUTHOR:ANTHONY_FITZHERBERT:MALE:UNCLE:1470:60?
+RECIPIENT:ROLAND_BABYNGTON:MALE:NEPHEW:_:_?
+LETTER:WILLOUG_009:E1:1530?:AUTOGRAPH:FAMILY_OTHER
+and he affermeth surely unto me that ffor non <P_40> paimant off your
+money to hym as you shuld have doon by your bargayn he hath susteyned C
+merces looss by shyfftys that he mad to paie oder hys creditorz and
+with unoth {ED:?} guft as he ys now content that he wyl warrent you the
+lond ayenst all men and that the tenaunt shall knowleg beffor a Juge
+hys ryght accordyng to your covenauntes , and that doon , that you
+therupon make paimant to hym as the covenaunt purporteth and
+specyffieth , WILLOUG,40.009.79
+
+AUTHOR:ANTHONY_FITZHERBERT:MALE:UNCLE:1470:60?
+RECIPIENT:ROLAND_BABYNGTON:MALE:NEPHEW:_:_?
+LETTER:WILLOUG_009:E1:1530?:AUTOGRAPH:FAMILY_OTHER
+and now hyt ys broght to this gud poynt I pray you endevour {ED:?} your
+selff to perffourme and kepe the same without delaie .
+WILLOUG,40.009.80
+
+AUTHOR:ANTHONY_FITZHERBERT:MALE:UNCLE:1470:60?
+RECIPIENT:ROLAND_BABYNGTON:MALE:NEPHEW:_:_?
+LETTER:WILLOUG_009:E1:1530?:AUTOGRAPH:FAMILY_OTHER
+I wold be sory to see ony snyth or unkyndeness to be stirred or moved
+betwyx you , WILLOUG,40.009.81
+
+AUTHOR:ANTHONY_FITZHERBERT:MALE:UNCLE:1470:60?
+RECIPIENT:ROLAND_BABYNGTON:MALE:NEPHEW:_:_?
+LETTER:WILLOUG_009:E1:1530?:AUTOGRAPH:FAMILY_OTHER
+and thus our Lord make you strong WILLOUG,40.009.82
+
+AUTHOR:ANTHONY_FITZHERBERT:MALE:UNCLE:1470:60?
+RECIPIENT:ROLAND_BABYNGTON:MALE:NEPHEW:_:_?
+LETTER:WILLOUG_009:E1:1530?:AUTOGRAPH:FAMILY_OTHER
+and send you remydie of your disease . WILLOUG,40.009.83
+
+AUTHOR:ANTHONY_FITZHERBERT:MALE:UNCLE:1470:60?
+RECIPIENT:ROLAND_BABYNGTON:MALE:NEPHEW:_:_?
+LETTER:WILLOUG_009:E1:1530?:AUTOGRAPH:FAMILY_OTHER
+Wrytyn this Sonday after the ffest off $purifficacion off our blessed
+Lady . WILLOUG,40.009.84
+
+AUTHOR:ANTHONY_FITZHERBERT:MALE:UNCLE:1470:60?
+RECIPIENT:ROLAND_BABYNGTON:MALE:NEPHEW:_:_?
+LETTER:WILLOUG_009:E1:1530?:AUTOGRAPH:FAMILY_OTHER
+Your Uncle , Antony Fitzherbert . WILLOUG,40.009.85
+
+AUTHOR:ANTHONY_FITZHERBERT:MALE:UNCLE:1470:60?
+RECIPIENT:ROLAND_BABYNGTON:MALE:NEPHEW:_:_?
+LETTER:WILLOUG_009:E1:1530?:AUTOGRAPH:FAMILY_OTHER
+Agreed by me Edward Wyllughby . WILLOUG,40.009.86
+
+<Q_WIL_A_1529_FN_EWILLOUGHBY> <L_WILLOUG_010> <A_EDWARD_WILLOUGHBY>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_---> <R_JOHN_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_--->
+
+<P_40>
+
+{ED:NO._21._SIR_EDWARD_WILLOUGHBY}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY}
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_010:E1:1529:AUTOGRAPH:FAMILY_NUCLEAR
+To hys Wurshypffull brodr' Sir John Wyllughby knygth thys letter be
+delyveryed yn hast . WILLOUG,40.010.87
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_010:E1:1529:AUTOGRAPH:FAMILY_NUCLEAR
+Wurschypfull brother after herty commendacion , so it is that my nephew
+Fyton hathes send unto yow the rentall of all Harbotellis landes and
+sayth that he is bounden to suffer you to receve zerly xlli. out of
+Harbotellis landes and not to pay you xlli. by zer . Wherfor he
+desireth <P_41> you to assigne your selfe out of the holl landes the
+said sum of xlli. and to receve it apon the landes accordyng to hys
+bonde for hys discharge , and also desireth you that you afor our Lady
+day next wyll assigne landes to the said value of xlli. and to acertene
+hym wyche landes they be and wher they lye that ze wyll have , to the
+entent that he may receve the reste of the landes above xlli. , wyche
+mater I do remytte to your discresion with advys of your lerned
+cousaill . WILLOUG,41.010.88
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_010:E1:1529:AUTOGRAPH:FAMILY_NUCLEAR
+Also he sayth that the said landes of xlli. $shall $be {TEXT:chalbe}
+discharged of all reparacions and of all fees granted to any person by
+my said nephew or by any other afor' thys day . WILLOUG,41.010.89
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_010:E1:1529:AUTOGRAPH:FAMILY_NUCLEAR
+And thus our Lord kepe you . WILLOUG,41.010.90
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_010:E1:1529:AUTOGRAPH:FAMILY_NUCLEAR
+At Gosworth the xiiijth {TEXT:xx_DELETED} day of Januarii , by your
+lovyng brother Edward Wyllughby . WILLOUG,41.010.91
+
+{TEXT:Fyton_DELETED}
+
+<Q_WIL_A_1530?_FN_EWILLOUGHBY> <L_WILLOUG_011> <A_EDWARD_WILLOUGHBY>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_---> <R_JOHN_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_--->
+
+<P_41>
+
+{ED:NO._22._SIR_EDWARD_WILLOUGHBY}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY}
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_011:E1:1530?:AUTOGRAPH:FAMILY_NUCLEAR
+To hys wurschypfull brother Sir John Wyllughby knyght .
+WILLOUG,41.011.92
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_011:E1:1530?:AUTOGRAPH:FAMILY_NUCLEAR
+Sir , the tenant of Radforth mylne sayth that when he dothes aske of
+yow tymber for the mylne that then ze do answer to hym and say that the
+land is myn and that I schall fynd hym tymber . WILLOUG,41.011.93
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_011:E1:1530?:AUTOGRAPH:FAMILY_NUCLEAR
+Sir , ye do well kno that I have ther nother land nor zet no tymber but
+a rent of my fathers gyfte {TEXT:and_no_land_DELETED} out of the land .
+WILLOUG,41.011.94
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_011:E1:1530?:AUTOGRAPH:FAMILY_NUCLEAR
+Also my father dud alowe tymber for all milnes and houses in Notes upon
+all the wholl lande all the days of his lyfe . WILLOUG,41.011.95
+
+<P_42>
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_011:E1:1530?:AUTOGRAPH:FAMILY_NUCLEAR
+Also Sir , the prior and the tenantes of Lenton do debarre the tenant
+of Radford to have {TEXT:be_DELETED} thre bestes goyng in Lenton wyche
+{TEXT:af_DELETED} the tenant ever hathes had goyng afortyme , and every
+other tenant on after an other . WILLOUG,42.011.96
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_011:E1:1530?:AUTOGRAPH:FAMILY_NUCLEAR
+Sir , ze may lose your inheritance and the ryght therof in your tyme if
+ze be so mynded WILLOUG,42.011.97
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_011:E1:1530?:AUTOGRAPH:FAMILY_NUCLEAR
+for ye do well knowe that I do dwell to far thens to defend it .
+WILLOUG,42.011.98
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_011:E1:1530?:AUTOGRAPH:FAMILY_NUCLEAR
+And my father dud defend it in hys tyme when I was present and dud
+dwell wythe hym wythout any charge to me . WILLOUG,42.011.99
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_011:E1:1530?:AUTOGRAPH:FAMILY_NUCLEAR
+And thus our Lord kepe yow in helthe , WILLOUG,42.011.100
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_011:E1:1530?:AUTOGRAPH:FAMILY_NUCLEAR
+fro Henley by your lovyng brother , Edward Wyllughby .
+WILLOUG,42.011.101
+
+<Q_WIL_C_1532_FN_EWILLOUGHBY> <L_WILLOUG_012> <A_EDWARD_WILLOUGHBY>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_---> <R_JOHN_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_--->
+
+<P_42>
+
+{ED:NO._23._SIR_EDWARD_WILLOUGHBY}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY}
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_012:E1:1532:COPY:FAMILY_NUCLEAR
+To my Right Worshipfull broder Syr John Willoughby knyght this be
+delyvered . WILLOUG,42.012.102
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_012:E1:1532:COPY:FAMILY_NUCLEAR
+Syr , plesith you to understande the Commissioners betwene you and
+Strilley Syr Richord Sacheverall , The Abbot of Welbeck , Syr William
+Perpoynt and <P_43> Syr John Dunham , to examyn wytnes uppon the
+articles that you were examyned of your selffe only and not ffor non
+other articles of hys demaunde nor for the draynyng of the water , at
+whiche tyme you most bryng proves before the Commissioners that you
+broght no riotus persons at your huntyng in Lowdeham woddes bot that my
+lady Smythe and hur Cumpeny dyd kyll the ij dere them selffe with theyr
+groundes and that the on' dere wos send unto you by Master Strilley and
+delyvered by Syr John Byron servaunt , WILLOUG,43.012.103
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_012:E1:1532:COPY:FAMILY_NUCLEAR
+and also you most prove by wytnes that Henry Marmyon and other your
+servauntes went to eyde the baylle to serve the capias by the sheriff
+desyre and commaundement . WILLOUG,43.012.104
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_012:E1:1532:COPY:FAMILY_NUCLEAR
+Also you most not procede with your niseprice ffor a tyme
+WILLOUG,43.012.105
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_012:E1:1532:COPY:FAMILY_NUCLEAR
+ther is an iniunccion decrede that it shall remayne ffor this tyme .
+WILLOUG,43.012.106
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_012:E1:1532:COPY:FAMILY_NUCLEAR
+Also my lorde Lennerd schewde me that Master Strilley wolde be content
+to put all maner of maters in tretyng and not to demaunde no way throgh
+youre grounde nor the draynyng of his water , bot all other maters to
+be agrede uppon and to leve his furst demaunde whiche I have undertakyn
+in your behalff if you be plesed so that my lord Lennerd , Syr Edward
+Ferrers or Master Wygston be ij of them . WILLOUG,43.012.107
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_012:E1:1532:COPY:FAMILY_NUCLEAR
+Syr , I trust my broder Hugh mater shall take anende by arbitrament
+wherof I will send you knolege as schortly as I can ,
+WILLOUG,43.012.108
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_012:E1:1532:COPY:FAMILY_NUCLEAR
+Also Syr , for the mater <P_44> that I made my request of unto you
+agaynes Ester , I trust you will fulfill my desyre WILLOUG,44.012.109
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_012:E1:1532:COPY:FAMILY_NUCLEAR
+or elles you set noght by me WILLOUG,44.012.110
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_012:E1:1532:COPY:FAMILY_NUCLEAR
+nor are not so lovyng abroder unto me WILLOUG,44.012.111
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_012:E1:1532:COPY:FAMILY_NUCLEAR
+I trust in you . WILLOUG,44.012.112
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_012:E1:1532:COPY:FAMILY_NUCLEAR
+And so Jhesus kepe you . WILLOUG,44.012.113
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_012:E1:1532:COPY:FAMILY_NUCLEAR
+Wrytton in hast uppon Askewennesday , by your luffyng brother Ed.
+Wyllughby . WILLOUG,44.012.114
+
+<Q_WIL_A_1530?_FN_EWILLOUGHBY> <L_WILLOUG_013> <A_EDWARD_WILLOUGHBY>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_---> <R_JOHN_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_--->
+
+<P_44>
+
+{ED:NO._24._SIR_EDWARD_WILLOUGHBY}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY}
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_013:E1:1530?:AUTOGRAPH:FAMILY_NUCLEAR
+To hys wurschypful brother Sir John Wyllughby knyght so it delyvered .
+WILLOUG,44.013.115
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_013:E1:1530?:AUTOGRAPH:FAMILY_NUCLEAR
+Wurschypfull brother , wheras for convenient causes and for the
+preferment of your heyr and myn herafter to the advancement of our blod
+and name , I am sore indeted to divers persons to the sum of a m merkes
+acordyng to a byll therof of parcels to whom I was indeted wyche I left
+wythe John Lyvesey , Sir , if it plaise you to consider my grete nede
+and the cause therof and to ayde me at any tyme or tymes other thys
+yer' or the next zer or any zer , wherof parte I wold have thys zer
+toward the redressyng of my dette and the aysyng therof . Therof I
+hertely desire you , WILLOUG,44.013.116
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_013:E1:1530?:AUTOGRAPH:FAMILY_NUCLEAR
+and then I wold thynke that ze be kynd and naturall brother to me and
+naturall father to my son and your heyr . WILLOUG,44.013.117
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_013:E1:1530?:AUTOGRAPH:FAMILY_NUCLEAR
+And what is your plaisor to helpe me other now or any tyme herafter I
+instantly pray you to acertene me therof by your wrytyng by the next
+that commeth over to me from you wyche I do thynke is other <P_45> my
+brother Hugh or els Gwylbert my servant . WILLOUG,45.013.118
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_013:E1:1530?:AUTOGRAPH:FAMILY_NUCLEAR
+Sir , I can not pay all my dettes to suche penons as I have borowed of
+, WILLOUG,45.013.119
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_013:E1:1530?:AUTOGRAPH:FAMILY_NUCLEAR
+nother thys zer nor the next zer' , WILLOUG,45.013.120
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_013:E1:1530?:AUTOGRAPH:FAMILY_NUCLEAR
+but I entend fint nowe to pay Master Whyte of Pooll iij=c= merkes this
+zer , and after to pay other creditors in as schorte tyme as God and my
+frendes wyl strengthen me therto . WILLOUG,45.013.121
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_013:E1:1530?:AUTOGRAPH:FAMILY_NUCLEAR
+And thus our Lord kepe you in wurschyp to your hertis ayse .
+WILLOUG,45.013.122
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_013:E1:1530?:AUTOGRAPH:FAMILY_NUCLEAR
+Wryten at Wudland the fryday afor' midsomer day by your lovyng brother
+Edward Wyllughby . WILLOUG,45.013.123
+
+<Q_WIL_C_1530?_FN_EWILLOUGHBY> <L_WILLOUG_014> <A_EDWARD_WILLOUGHBY>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_---> <R_JOHN_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_--->
+
+<P_45>
+
+{ED:NO._25._SIR_EDWARD_WILLOUGHBY}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY}
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_014:E1:1530?:COPY:FAMILY_NUCLEAR
+Too my Right Wurshipfull Brother Sir John Wyllughby knyght this be
+delyvered . WILLOUG,45.014.124
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_014:E1:1530?:COPY:FAMILY_NUCLEAR
+Right wurshipfull Sir , in my moste hertie maner I commend me unto you
+. WILLOUG,45.014.125
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_014:E1:1530?:COPY:FAMILY_NUCLEAR
+And where as my cosyn Symond Catesby haith bene wyth me in Dorsettshire
+trustyng too have had money of me , Sir , it is soo that at this tyme I
+ame un purveyd of money and $shall $be {TEXT:shalbe} tyll I have me
+Rentes at Mychelmes and tyll I receve money of Master Rowland Babyngton
+wiche is cc merkes wiche Master Fetzharbert hait promysed me too see me
+payd at Mychelmes next . <P_46> Wherefore Sir , I hertely desire you
+too forbere and too gyffe respect unto the sayd Symond Catesby for
+caullyng or demaundyng by you of hym any money untyll Alhalowtide at
+wiche tyme I wyll not fayll but too pay hym all suche dette as I doo
+owe hym , trustyng that at this my request you $will $not
+{TEXT:wyllnot} caulle of hym soo hastely as he shewyth me you doo
+before the sayd tyme of Halhalowtide . WILLOUG,46.014.126
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_014:E1:1530?:COPY:FAMILY_NUCLEAR
+And thus our Lord preserve you in wurshipe and helth too your hertis
+eyse . WILLOUG,46.014.127
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_014:E1:1530?:COPY:FAMILY_NUCLEAR
+Wrytten at Wodland the thryd of this moneth of July ,
+WILLOUG,46.014.128
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_?
+LETTER:WILLOUG_014:E1:1530?:COPY:FAMILY_NUCLEAR
+Your lovyng brother Edward Wyllughby . WILLOUG,46.014.129
+
+<Q_WIL_C_1530S?_FN_EWILLOUGHBY> <L_WILLOUG_015> <A_EDWARD_WILLOUGHBY>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_---> <R_JOHN_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_--->
+
+<P_46>
+
+{ED:NO._26._SIR_EDWARD_WILLOUGHBY}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY}
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_015:E1:1530S?:COPY:FAMILY_NUCLEAR
+Too the wurshipffull and his hertie belovyd {TEXT:cosyn_DELETED}
+brother Sir John Wyllughby knyght this be delyvered .
+WILLOUG,46.015.130
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_015:E1:1530S?:COPY:FAMILY_NUCLEAR
+Wurshipffull Sir , in my moste lovyng maner that {in}_P I cane I
+hertely {TEXT:comen_DELETED} recommende me too you beyng very glade too
+here of your good helth . WILLOUG,46.015.131
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_015:E1:1530S?:COPY:FAMILY_NUCLEAR
+This is too desire you too be soo good brother too me as too lende me
+xlli. too send it me other by this berer or too London by Sir Robert
+this next terme , and cause ane obligacion too be made me too repay you
+the same xlli. at suche days as you shall appoynt , parte therof to be
+repayd by your <P_47> owen handes , and the reste too be paid by John
+Laceter owt of my landes and leyffynges ther in thos parties .
+WILLOUG,47.015.132
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_015:E1:1530S?:COPY:FAMILY_NUCLEAR
+And in this thyng I pray you too have consideracion and too tender me
+in this my nede wiche , God wyllyng , $shall $be {TEXT:shalbe} nothing
+too your losse {TEXT:and_DELETED} nor hynderance as knowith our Lorde
+who kepe you in wurshipe . WILLOUG,47.015.133
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_015:E1:1530S?:COPY:FAMILY_NUCLEAR
+Wrytten the x th day of Auguste in haste . WILLOUG,47.015.134
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_015:E1:1530S?:COPY:FAMILY_NUCLEAR
+Your luffyng brother Edward Wyllughby . WILLOUG,47.015.135
+
+<Q_WIL_C_1530S?_FN_EWILLOUGHBY> <L_WILLOUG_016> <A_EDWARD_WILLOUGHBY>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_---> <R_JOHN_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_--->
+
+<P_47>
+
+{ED:NO._27._SIR_EDWARD_WILLOUGHBY}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY}
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_016:E1:1530S?:COPY:FAMILY_NUCLEAR
+Too the Right Wurshippfull and his lovyng Brother Sir John Wyllughby
+knyght . WILLOUG,47.016.136
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_016:E1:1530S?:COPY:FAMILY_NUCLEAR
+Right Wurshipffull Brother , after right hertye commendacion this is
+too assertayne you that ffor great consideracions and nede I muste
+desire you without any deney too lende me xlli. whereof the one halffe
+I wyll repay you at Ester and the other halffe at Michelmes ,
+WILLOUG,47.016.137
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_016:E1:1530S?:COPY:FAMILY_NUCLEAR
+and yf I doo fayll {TEXT:then_DELETED} you of your days of payment then
+never too truste me nor too doo for me as your brother .
+WILLOUG,47.016.138
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_016:E1:1530S?:COPY:FAMILY_NUCLEAR
+And yf you dyd know what nede I had or for whate cause I do it ffore ,
+I doubt not but that you wolde helpe me with as moche money as {with}_P
+you culd . WILLOUG,47.016.139
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_016:E1:1530S?:COPY:FAMILY_NUCLEAR
+And parte of my cause is be cause I muste pay ffyfty poundes ffor
+<P_48> my brother Hugh too Master Hollys besyd other great nede and
+causys that I have . WILLOUG,48.016.140
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_016:E1:1530S?:COPY:FAMILY_NUCLEAR
+Sir , I have send here my obligacion ffor the sure payment of your
+money that you lende me at my days appoynted wiche I wyll not ffayll
+God wyllyng too kepe assuredly yf I be leyffyng , and yf not my
+executors shall . WILLOUG,48.016.141
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_016:E1:1530S?:COPY:FAMILY_NUCLEAR
+Therfore I pray you too doo ffor me as my truste is in you and as my
+lovyng brother . WILLOUG,48.016.142
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_016:E1:1530S?:COPY:FAMILY_NUCLEAR
+Thus our Lorde kepe you in wurshipe and helth long too contynew .
+WILLOUG,48.016.143
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_016:E1:1530S?:COPY:FAMILY_NUCLEAR
+Scribled in haste at London the xxij=ie= day of October .
+WILLOUG,48.016.144
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_016:E1:1530S?:COPY:FAMILY_NUCLEAR
+Your luffyng brother Edward Wyllughby . WILLOUG,48.016.145
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_016:E1:1530S?:COPY:FAMILY_NUCLEAR
+I pray $you {TEXT:tou} {COM:SIC?} to delyver the money to my servant
+this berer WILLOUG,48.016.146
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_016:E1:1530S?:COPY:FAMILY_NUCLEAR
+and he schall delyver you my obigacion . WILLOUG,48.016.147
+
+<Q_WIL_A_1530S_FN_EWILLOUGHBY> <L_WILLOUG_017> <A_EDWARD_WILLOUGHBY>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_---> <R_JOHN_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_--->
+
+<P_48>
+
+{ED:NO._28._SIR_EDWARD_WILLOUGHBY}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY}
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_017:E1:1530S:AUTOGRAPH:FAMILY_NUCLEAR
+To my wurschypfull brother Sir John Wyllughby knyght so it delyvered .
+WILLOUG,48.017.148
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_017:E1:1530S:AUTOGRAPH:FAMILY_NUCLEAR
+Wurschypfull Sir , after herty commendacion I do desire you to be good
+brother unto me and to ponder and to consider the grete payment of
+viij=c= merkes that I most pay now in hand this terme for redempcion of
+the best manor that I have by my wyfe called Wambroke wyth advoyson of
+the churche ther . WILLOUG,48.017.149
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_017:E1:1530S:AUTOGRAPH:FAMILY_NUCLEAR
+And also I pray you to consider that notwythstondyng I had entended to
+have sold my manor of Stondon wyth the landes ther to Master <P_49>
+Chamley the sergeante , now at the requeste of my lady merques late
+made to me , I do nother-1 sell thos landes in Stondon nor non other
+landes , but I trust in God to save all my landes in every place
+wythout any sale by the helpe of my lady merques and of other my
+frendes and tenantes that have promised me ayde and helpe nowe at my
+nede . WILLOUG,49.017.150
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_017:E1:1530S:AUTOGRAPH:FAMILY_NUCLEAR
+And me thynketh that I schold of reason most assuredly trust of you to
+have helpe at this my nede rather then of any other . Wherfor Sir , I
+pray you wythe out delay to send me by this berer John Leycetor my
+servant xl merkes that is behynd to me unpayd of my lyfyng gyfen to me
+by my father for two zers ended at Myghelmes last passed that is every
+zer xx merkes , for I can forbere it nolonger but that I most nedes now
+have it . WILLOUG,49.017.151
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_017:E1:1530S:AUTOGRAPH:FAMILY_NUCLEAR
+Also I had never so grete nede therof as I have at this tyme , as knoes
+our Lord who kepe you in wurschyp {TEXT:to_DELETED} and helthe to your
+hertis ayse . WILLOUG,49.017.152
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_017:E1:1530S:AUTOGRAPH:FAMILY_NUCLEAR
+Wryten at London the Thursday after alhalowsday . by your luffyng
+brother Edward Wyllughby . WILLOUG,49.017.153
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_017:E1:1530S:AUTOGRAPH:FAMILY_NUCLEAR
+Sir , if ze can not forbere no longer the xli. that I promised to you
+to pay <P_50> for my cosin parson Thurland , then {TEXT:pra_DELETED} I
+am contented that ze do pay your selfe the said xli. parcell of the
+said xl merkes . WILLOUG,50.017.154
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_017:E1:1530S:AUTOGRAPH:FAMILY_NUCLEAR
+And so remayneth to me xvjli. xiijs. iiijd . WILLOUG,50.017.155
+
+<Q_WIL_A_1529?_FO_EFITTON> <L_WILLOUG_018> <A_EDWARD_FITTON>
+<A-GENDER_MALE> <A-REL_NEPHEW> <A-DOB_---> <R_JOHN_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_UNCLE> <R-DOB_--->
+
+<P_50>
+
+{ED:NO._29._EDWARD_FITTON}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY}
+
+AUTHOR:EDWARD_FITTON:MALE:NEPHEW:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:UNCLE:_:_?
+LETTER:WILLOUG_018:E1:1529?:AUTOGRAPH:FAMILY_OTHER
+To my Ryght Worschypfull uncle Sir John Wyloghby knyght , delyveryd .
+WILLOUG,50.018.156
+
+AUTHOR:EDWARD_FITTON:MALE:NEPHEW:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:UNCLE:_:_?
+LETTER:WILLOUG_018:E1:1529?:AUTOGRAPH:FAMILY_OTHER
+Ryght worschypfull uncle I $commend me unto you , WILLOUG,50.018.157
+
+AUTHOR:EDWARD_FITTON:MALE:NEPHEW:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:UNCLE:_:_?
+LETTER:WILLOUG_018:E1:1529?:AUTOGRAPH:FAMILY_OTHER
+and wher as I am bonden to suffer the executors of <em> my Grandefather
+</em> Sir Henry Wyloghby to resayve fyve hunderythe markes of the moety
+of the londes late of George Harebotell by forty poundes by the yer
+wher in I am contentyd that ye do resayve the londes in Sussex weche
+extende to xxviij=ti= pondes by yer , <P_51> and the sutes of courte to
+iiij poundes wherof my lorde of Racheforde hathe in feez xls. , Sir ,
+Sutton and Gaylye ye knawe welenugh , of the weche Sutton and $Gaylye I
+am contentyd ye do resayve at your choyse of the on , of $thaym as
+moche as to make hyt the some due to you praying $you to be contentyd
+with the same . WILLOUG,51.018.158
+
+AUTHOR:EDWARD_FITTON:MALE:NEPHEW:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:UNCLE:_:_?
+LETTER:WILLOUG_018:E1:1529?:AUTOGRAPH:FAMILY_OTHER
+Sir , I do hertely pray you to lett me be surely acertenyd by your
+wrytyng what ys your mynde her in . WILLOUG,51.018.159
+
+AUTHOR:EDWARD_FITTON:MALE:NEPHEW:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:UNCLE:_:_?
+LETTER:WILLOUG_018:E1:1529?:AUTOGRAPH:FAMILY_OTHER
+Sir , I am enformed that the exchetor of your chyr claymethe a feez of
+Sutton , so that I pray you if ye do resayve the profettes ther of I am
+contentyd to alowe al charges resonable in that and all other so that
+hyt schall not be no thyng preiudicyall to your payment at the lengthe
+. WILLOUG,51.018.160
+
+AUTHOR:EDWARD_FITTON:MALE:NEPHEW:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:UNCLE:_:_?
+LETTER:WILLOUG_018:E1:1529?:AUTOGRAPH:FAMILY_OTHER
+And thus owr Lorde mercyfully have you in hys kepeyng .
+WILLOUG,51.018.161
+
+AUTHOR:EDWARD_FITTON:MALE:NEPHEW:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:UNCLE:_:_?
+LETTER:WILLOUG_018:E1:1529?:AUTOGRAPH:FAMILY_OTHER
+At Gawseworthe thys viij=th= day of Januarii . WILLOUG,51.018.162
+
+AUTHOR:EDWARD_FITTON:MALE:NEPHEW:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:UNCLE:_:_?
+LETTER:WILLOUG_018:E1:1529?:AUTOGRAPH:FAMILY_OTHER
+Your assuryd Neveue , Edward Fyton esquier . WILLOUG,51.018.163
+
+<Q_WIL_D_1529?_FO_TGREY> <L_WILLOUG_019> <A_THOMAS_GREY>
+<A-GENDER_MALE> <A-REL_KIN> <A-DOB_1477> <R_JOHN_&_EDWARD_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_--->
+
+<P_51>
+
+{ED:NO._30._THOMAS_GREY,_MARQUIS_OF_DORSET}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY_AND_SIR_EDWARD_WILLOUGHBY}
+
+AUTHOR:THOMAS_GREY:MALE:KIN:1477:52?
+RECIPIENT:JOHN_&_EDWARD_WILLOUGHBY:MALE:KIN:_:_?
+LETTER:WILLOUG_019:E1:1529?:UNKNOWN:FAMILY_OTHER
+To my Right Welbeloved Cousins Sir John Willoughby and Sir Edward
+Willoughby and to ether of theym . WILLOUG,51.019.164
+
+AUTHOR:THOMAS_GREY:MALE:KIN:1477:52?
+RECIPIENT:JOHN_&_EDWARD_WILLOUGHBY:MALE:KIN:_:_?
+LETTER:WILLOUG_019:E1:1529?:UNKNOWN:FAMILY_OTHER
+Cousin Willoughby , in my right hertie maner I recommend me unto you ,
+WILLOUG,51.019.165
+
+<P_52>
+
+AUTHOR:THOMAS_GREY:MALE:KIN:1477:52?
+RECIPIENT:JOHN_&_EDWARD_WILLOUGHBY:MALE:KIN:_:_?
+LETTER:WILLOUG_019:E1:1529?:UNKNOWN:FAMILY_OTHER
+and so doo thanke you for my gode chere at my last beyng with you ,
+WILLOUG,52.019.166
+
+AUTHOR:THOMAS_GREY:MALE:KIN:1477:52?
+RECIPIENT:JOHN_&_EDWARD_WILLOUGHBY:MALE:KIN:_:_?
+LETTER:WILLOUG_019:E1:1529?:UNKNOWN:FAMILY_OTHER
+and have receyved by my Counceller Holte the Boke that was made betwyne
+us consernyng the Covenauntes of Mariage of my doughter and your sonne
+, wherin I desired you to have the frist Joyntour that shuld be gyven
+to my Doughter Anne of suche landes as you have within the Countie of
+Leycestr' whiche ben Cosyngton and Wymsold . Wherfor I pray you still
+so to contynewe in the same mynde according to $the appoyntement that
+wee were at whiche $shall $be {TEXT:shalbe} to my greate comforte and
+pleasure , as our Lord knoweth who kepe you . WILLOUG,52.019.167
+
+AUTHOR:THOMAS_GREY:MALE:KIN:1477:52?
+RECIPIENT:JOHN_&_EDWARD_WILLOUGHBY:MALE:KIN:_:_?
+LETTER:WILLOUG_019:E1:1529?:UNKNOWN:FAMILY_OTHER
+From Bradgate the viij=th= day of June . WILLOUG,52.019.168
+
+AUTHOR:THOMAS_GREY:MALE:KIN:1477:52?
+RECIPIENT:JOHN_&_EDWARD_WILLOUGHBY:MALE:KIN:_:_?
+LETTER:WILLOUG_019:E1:1529?:UNKNOWN:FAMILY_OTHER
+Youre aswryth frynd Thomas Dorssett . WILLOUG,52.019.169
+
+<Q_WIL_D_1530S_FO_MGREY> <L_WILLOUG_020> <A_MARGARET_GREY>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_---> <R_JOHN_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_--->
+
+<P_52>
+
+{ED:NO._31._MARGARET_GREY,_MARCHIONESS_OF_DORSET.}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY}
+
+AUTHOR:MARGARET_GREY:FEMALE:KIN:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_020:E1:1530S:UNKNOWN:FAMILY_OTHER
+To my hertely belouved Cousyn Sir John Wylloughby knyght be thys
+delyveryd . WILLOUG,52.020.170
+
+<P_53>
+
+AUTHOR:MARGARET_GREY:FEMALE:KIN:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_020:E1:1530S:UNKNOWN:FAMILY_OTHER
+Good cosyn Wylloughby , I hartely recommend me unto yow , certyfieng
+yow that my cosyn Sir Edward Willoughby your brother , John Lyvesey
+your servaunt , and I have redd over the indenture between my lord ,
+God have his soule , and yow whereby apperyth that I doo clerely owe
+yow lxxiijli. vjs viijd . whereof I do send yow at this tyme by your
+seyd servaunt xlli . WILLOUG,53.020.171
+
+AUTHOR:MARGARET_GREY:FEMALE:KIN:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_020:E1:1530S:UNKNOWN:FAMILY_OTHER
+And my seyde cosyn your brother hathe of his gentilnes , consyderyng my
+greate charges and paymenttes to the kyngis grace and to other ,
+promysed to pay yow for me now incontynently xiijli. vjs. viijd. whiche
+he wyll lend me for oone yere . WILLOUG,53.020.172
+
+AUTHOR:MARGARET_GREY:FEMALE:KIN:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_020:E1:1530S:UNKNOWN:FAMILY_OTHER
+And as to the other xxli. residue of the seyd somme of lxxiijli. vjs.
+viijd. , good cosyn Willoughby , I must hartely desyre yow to be
+contented to take xli. thereof at the anuncyacion of our Lady next
+commyng , and the other xli. at mychelmas next , at whiche dayes as you
+know there shall so muche rest in your handes for the fyndyng of my son
+Harry Wylloughby and my doughter his wyffe so as yow shall paye youre
+selff . WILLOUG,53.020.173
+
+AUTHOR:MARGARET_GREY:FEMALE:KIN:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_020:E1:1530S:UNKNOWN:FAMILY_OTHER
+Good cosyn Wylloughby , I am verry lothe and sorry to entrete yow to
+forbere any parte of youre seyde monney , WILLOUG,53.020.174
+
+AUTHOR:MARGARET_GREY:FEMALE:KIN:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_020:E1:1530S:UNKNOWN:FAMILY_OTHER
+for I know that yow have charges and many weyes to bestowe the same ,
+WILLOUG,53.020.175
+
+AUTHOR:MARGARET_GREY:FEMALE:KIN:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_020:E1:1530S:UNKNOWN:FAMILY_OTHER
+but of trouth my busynes and dayly paymentes ar so greate and the
+credytours so importunate and unresonable redy every day to arreste
+suche of my lordis ffrendes and servauntes as wer bounden for hym ,
+Allmyghty God have his soule , that I am forced to be bold over you ,
+as over one of my especyall and trusty ffrendes at thys tyme for the
+forberyng of this xxli. tyll mychelmas next as I have before wrytten ,
+trustyng that from hensforth I shall see yow truly contented at every
+day of your paymentes specyfied in the seyde indentures ,
+WILLOUG,53.020.176
+
+<P_54>
+
+AUTHOR:MARGARET_GREY:FEMALE:KIN:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_020:E1:1530S:UNKNOWN:FAMILY_OTHER
+and thus I do byd yow hartely farewell . WILLOUG,54.020.177
+
+AUTHOR:MARGARET_GREY:FEMALE:KIN:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_020:E1:1530S:UNKNOWN:FAMILY_OTHER
+Wrytten at London the ix daye of November . WILLOUG,54.020.178
+
+AUTHOR:MARGARET_GREY:FEMALE:KIN:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_020:E1:1530S:UNKNOWN:FAMILY_OTHER
+your lovyng cossyne Margarett Dorssett . WILLOUG,54.020.179
+
+<Q_WIL_A_1530S_FO_ALFITZHERBERT> <L_WILLOUG_021> <A_ALICE_FITZHERBERT>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_---> <R_JOHN_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_--->
+
+<P_56>
+
+{ED:NO._34._ALICE_FITZHERBERT}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY}
+
+AUTHOR:ALICE_FITZHERBERT:FEMALE:KIN:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_021:E1:1530S:AUTOGRAPH:FAMILY_OTHER
+To her Ryght Worshypfulle and singler gudmayster Syr John Wyllyghby
+knyght thys be dilivered et ct . WILLOUG,56.021.180
+
+AUTHOR:ALICE_FITZHERBERT:FEMALE:KIN:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_021:E1:1530S:AUTOGRAPH:FAMILY_OTHER
+My duetye remembred et ct. , pleyset that youre gudmaystershype that
+you have $lent me and my poore howse the somme of lli. sterlyng money
+by thei handes of Syr Robert Peyret dilivered , for the wych I and all
+my poore systers be youre dayly bedewemen . WILLOUG,56.021.181
+
+AUTHOR:ALICE_FITZHERBERT:FEMALE:KIN:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_021:E1:1530S:AUTOGRAPH:FAMILY_OTHER
+And for the repayment therof I wolde $be $gladde {TEXT:begladde} to
+knowe your pleasure what dayes you wolde gyffe me , WILLOUG,56.021.182
+
+AUTHOR:ALICE_FITZHERBERT:FEMALE:KIN:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_021:E1:1530S:AUTOGRAPH:FAMILY_OTHER
+and you schall have asufficient baunde by obligacion under oure Covent
+seale for the repayment therof . WILLOUG,56.021.183
+
+AUTHOR:ALICE_FITZHERBERT:FEMALE:KIN:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_021:E1:1530S:AUTOGRAPH:FAMILY_OTHER
+Syr , hyt ys soo that Syr Humfrey Ferrers hayth sent unto me divers
+tymes nowe of late to have owre tenauntes to doo the kynge service in
+hys retenewe , where upon I made them answere <P_57> that your
+maystershyppe ys hye steward of oure house and landes , and unto suche
+tyme that you had taken youre pleasure hereyn he colde have non .
+Wherefor I wolde be gladde to knowe $youre pleasure hereyn as knowes
+oure Lorde Jhesu Chryst who have you ever in hys blesset tuicion .
+WILLOUG,57.021.184
+
+AUTHOR:ALICE_FITZHERBERT:FEMALE:KIN:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:KIN:_:_
+LETTER:WILLOUG_021:E1:1530S:AUTOGRAPH:FAMILY_OTHER
+At Pollesworthe the xj=th= day of October , by youre dayly bedewoman
+Ales Fytzherbert Abbesse there . WILLOUG,57.021.185
+
+<Q_WIL_A_1530?_T_JBARWICK> <L_WILLOUG_022> <A_JOHN_BARWICK>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_JOHN_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_57>
+
+{ED:NO._35._JOHN_BARWICK}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY}
+
+AUTHOR:JOHN_BARWICK:MALE:_:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_?
+LETTER:WILLOUG_022:E1:1530?:AUTOGRAPH:OTHER
+To the right worshipfull and my singhler good Maister and Patrone Syr
+John Willoghbye knyght . WILLOUG,57.022.186
+
+AUTHOR:JOHN_BARWICK:MALE:_:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_?
+LETTER:WILLOUG_022:E1:1530?:AUTOGRAPH:OTHER
+In moste humble wyse I $hertely commende me unto you , right glad to
+here that your Maistershipp is comen <em> home and </em> be in good
+helthe and merye , which I pray God longe to contynue ,
+WILLOUG,57.022.187
+
+AUTHOR:JOHN_BARWICK:MALE:_:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_?
+LETTER:WILLOUG_022:E1:1530?:AUTOGRAPH:OTHER
+but yett <em> I am </em> sorie that ye were letted so longe by that
+chaunce that fortuned in $my house after ye went to Warwickshire .
+WILLOUG,57.022.188
+
+AUTHOR:JOHN_BARWICK:MALE:_:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_?
+LETTER:WILLOUG_022:E1:1530?:AUTOGRAPH:OTHER
+Yett insomoche as every thynge $fortunes by and under the permission
+and knolege of All myghtie God I hertely rendre unto the same God
+thankes and prayses that he hathe hetherto {TEXT:that_he_hathe_DELETED}
+holden his hande of his benigenytie and mercye over me , my housholde ,
+and all my neghtbures , which was nott alitle affrayed of his scowrge .
+WILLOUG,57.022.189
+
+AUTHOR:JOHN_BARWICK:MALE:_:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_?
+LETTER:WILLOUG_022:E1:1530?:AUTOGRAPH:OTHER
+Syr , I wolde have wayted upon you at your commynge home as my duetie
+is that I shulde have done , butt that I am vexede every other day with
+myne olde diseas and kepeth my chamber for the most part , which is and
+have <P_58> bene the verey lett that I come nott home ,
+WILLOUG,58.022.190
+
+AUTHOR:JOHN_BARWICK:MALE:_:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_?
+LETTER:WILLOUG_022:E1:1530?:AUTOGRAPH:OTHER
+for yff I shulde have come home and fortuned to have bene seyke of my
+said longe and olde diseas kepynge my chamber and nott goynge abrode ,
+I thynk and suppose that some yll tonges of yll disposede people wolde
+have sklandered me and my house agayne , that I had been seyke of the
+plagge , and so shulde have been made <paren> nonissimus error peior
+priore </paren> , nottwithstandynge <paren> God willynge </paren> I
+entende tobe at home before Sonday come sennyght or soner yf it be your
+pleasuer that I so do , as knowyth our Lorde who ever have you in his
+tuition to his pleasure , and your welthe both-6 of soule and bodye .
+WILLOUG,58.022.191
+
+AUTHOR:JOHN_BARWICK:MALE:_:_:_?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_?
+LETTER:WILLOUG_022:E1:1530?:AUTOGRAPH:OTHER
+Frome Thurgarton Chauntrye this Saynct Bartholmewe even by your poore
+oritour . John Berwyck clerk . WILLOUG,58.022.192
+
+<Q_WIL_A_1530S?_FO_HWILLOUGHBY> <L_WILLOUG_023> <A_HENRY_WILLOUGHBY>
+<A-GENDER_MALE> <A-REL_NEPHEW> <A-DOB_---> <R_JOHN_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_UNCLE> <R-DOB_--->
+
+<P_61>
+
+{ED:NO._38_HENRY_WILLOUGHBY}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY}
+
+AUTHOR:HENRY_WILLOUGHBY:MALE:NEPHEW:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:UNCLE:_:_
+LETTER:WILLOUG_023:E1:1530S?:AUTOGRAPH:FAMILY_OTHER
+Un to hys ryght worshypfull owncull Syr John Wyllughby yeve thys .
+WILLOUG,61.023.193
+
+AUTHOR:HENRY_WILLOUGHBY:MALE:NEPHEW:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:UNCLE:_:_
+LETTER:WILLOUG_023:E1:1530S?:AUTOGRAPH:FAMILY_OTHER
+Syr , where as I do persayve that you have sente your servante for the
+sturgen that by chawnse wasse taken as thys day att Lowdam wythin youre
+lybertes in Trente , my entent wasse in your behawfe for to have sent
+stayght from Lowdam the hawlfe feche un to my lorde marges and my lorde
+of Huntington , at woosse handes I know you showld have <P_62>
+raycayved grett thankes therefore , and forther to a declared un to my
+sayde lorde marques that you hade taken apon you for to a bestowed and
+dystrybute in the name of my sayde lorde the residu of the same fyche
+un to sowche as you dyd thynke moste convenyent wyth in the shyre , for
+the whych fyche grayte tankes showld $have $been {TEXT:abyne} gyven
+both of the men of worshype un to my lorde and you lykewyse .
+WILLOUG,62.023.194
+
+AUTHOR:HENRY_WILLOUGHBY:MALE:NEPHEW:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:UNCLE:_:_
+LETTER:WILLOUG_023:E1:1530S?:AUTOGRAPH:FAMILY_OTHER
+And in casse thys may stande wyth youre pleasure for to bestowett of
+thys sorte I thynke my lorde marques wyll take ytt very frendly .
+WILLOUG,62.023.195
+
+AUTHOR:HENRY_WILLOUGHBY:MALE:NEPHEW:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:UNCLE:_:_
+LETTER:WILLOUG_023:E1:1530S?:AUTOGRAPH:FAMILY_OTHER
+Wrytten att Bowlcott thys present Tewsday . By yours as I ame therto
+bownde Henry Wyllughby . WILLOUG,62.023.196
+
+AUTHOR:HENRY_WILLOUGHBY:MALE:NEPHEW:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:UNCLE:_:_
+LETTER:WILLOUG_023:E1:1530S?:AUTOGRAPH:FAMILY_OTHER
+Syr , I shawle desier you that my servant Wyllam Varnam may be your
+mesenger to cary the same yff hytt stande wyth youre pleasure .
+WILLOUG,62.023.197
+
+AUTHOR:HENRY_WILLOUGHBY:MALE:NEPHEW:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:UNCLE:_:_
+LETTER:WILLOUG_023:E1:1530S?:AUTOGRAPH:FAMILY_OTHER
+Syr , as I supposse ther ys astatute that all sowch fyche of sowch
+grayt novelte owght to be presented un to the kyngis maieste yf he were
+ny un to the cowntre , notwythe standynge ytt hath bene sene that sowch
+fych ware ytt hath byn taken hath byne bestowed by the next noble mane
+adioynynge un to the cowntre were ytt hath byne taken .
+WILLOUG,62.023.198
+
+<Q_WIL_A_1530S?_FO_HWILLOUGHBY> <L_WILLOUG_024> <A_HENRY_WILLOUGHBY>
+<A-GENDER_MALE> <A-REL_NEPHEW> <A-DOB_---> <R_JOHN_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_UNCLE> <R-DOB_--->
+
+<P_63>
+
+{ED:NO._39._HENRY_WILLOUGHBY}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY}
+
+AUTHOR:HENRY_WILLOUGHBY:MALE:NEPHEW:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:UNCLE:_:_
+LETTER:WILLOUG_024:E1:1530S?:AUTOGRAPH:FAMILY_OTHER
+To the ryght wurshypfull and my very gud uncle Syr Jhon Willughby this
+be delivered . WILLOUG,63.024.199
+
+AUTHOR:HENRY_WILLOUGHBY:MALE:NEPHEW:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:UNCLE:_:_
+LETTER:WILLOUG_024:E1:1530S?:AUTOGRAPH:FAMILY_OTHER
+Ryght worshypfull owncull , after dew commendasions un to you hade ,
+thys ys to singnyfy un to you that my lord marques harte requeste ys un
+to you for to have aswell youre ayde , assistanse and helpe for the
+chowsynge of on of the knynghtes of the shyre of Warwyke as of your
+kynsfokes and freholders , un to whych office my lorde hath wylled and
+appoynted Master Burdett the stewward of hys howsolde . Wher in you
+shawle do my lord mowch frendshype and pleasure , whych wyth youre
+helpe wyll be the ayselyer browght to passe , for asmowch as Syr George
+Throgmarton hath <P_64> yoyned wyth my lord here in .
+WILLOUG,64.024.200
+
+AUTHOR:HENRY_WILLOUGHBY:MALE:NEPHEW:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:UNCLE:_:_
+LETTER:WILLOUG_024:E1:1530S?:AUTOGRAPH:FAMILY_OTHER
+Syr , my servante shawle afore Crystenmas cowme over to Brodgate att
+whych tyme you may convenyently asserten my lorde what you may doo ther
+in . WILLOUG,64.024.201
+
+AUTHOR:HENRY_WILLOUGHBY:MALE:NEPHEW:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:UNCLE:_:_
+LETTER:WILLOUG_024:E1:1530S?:AUTOGRAPH:FAMILY_OTHER
+Frome Brodgate the xx=te= of December , by youre poor nephu , Henry
+Wyllughby . WILLOUG,64.024.202
+
+<Q_WIL_D_1541_FO_AWILLOUGHBY> <L_WILLOUG_025>
+<A_ANNE_WILLOUGHBY[N.FILOTT]> <A-GENDER_FEMALE> <A-REL_SISTER-IN-LAW>
+<A-DOB_---> <R_JOHN_WILLOUGHBY> <R-GENDER_MALE> <R-REL_BROTHER-IN-LAW>
+<R-DOB_--->
+
+<P_64>
+
+{ED:NO._40._ANNE_WILLOUGHBY}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY}
+
+AUTHOR:ANNE_WILLOUGHBY[N.FILOTT]:FEMALE:SISTER_IN_LAW:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER_IN_LAW:_:_
+LETTER:WILLOUG_025:E1:1541:UNKNOWN:FAMILY_OTHER
+Too the Right Wurshippffull and my good brotherinlaw Sir John Willughby
+knight , delivered . WILLOUG,64.025.203
+
+AUTHOR:ANNE_WILLOUGHBY[N.FILOTT]:FEMALE:SISTER_IN_LAW:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER_IN_LAW:_:_
+LETTER:WILLOUG_025:E1:1541:UNKNOWN:FAMILY_OTHER
+Wurshipffull Brother , after hertie Recommendacions with lyke thankes
+ffor the great paynes you toke with me here in my greate trobles ,
+desiryng you too know how I $shall $be {TEXT:shalbe} paid of Joynctor
+<paren> according too your ffathers will </paren> , whether it be your
+pleasor too take the holle landys and appoynte me xlti merkes yerly too
+be payd , orelles that ye will appoynte me suche landys as I shall have
+that I may put order in yt ffor my moste proffett . I truste you $will
+$be {TEXT:wilbe} good brother too me as I have always ffounde you in
+tymes past praying you of answere by this bringer my servant and your
+determinat pleasure . WILLOUG,64.025.204
+
+AUTHOR:ANNE_WILLOUGHBY[N.FILOTT]:FEMALE:SISTER_IN_LAW:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER_IN_LAW:_:_
+LETTER:WILLOUG_025:E1:1541:UNKNOWN:FAMILY_OTHER
+And all other thinges in thes parties this bringer cane assertayne you
+, to whome I pray you gyffe credence . WILLOUG,64.025.205
+
+AUTHOR:ANNE_WILLOUGHBY[N.FILOTT]:FEMALE:SISTER_IN_LAW:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER_IN_LAW:_:_
+LETTER:WILLOUG_025:E1:1541:UNKNOWN:FAMILY_OTHER
+Thus moste hertely ffayre you well . WILLOUG,64.025.206
+
+AUTHOR:ANNE_WILLOUGHBY[N.FILOTT]:FEMALE:SISTER_IN_LAW:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER_IN_LAW:_:_
+LETTER:WILLOUG_025:E1:1541:UNKNOWN:FAMILY_OTHER
+Scribled at Wodland the viijth day of Auguste . By your loving
+susterinlaw Anne Wyllughby . WILLOUG,64.025.207
+
+<Q_WIL_D_1530S?_FO_HGREY> <L_WILLOUG_026> <A_HENRY_GREY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1517> <R_JOHN_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_65>
+
+{ED:NO._41._HENRY_GREY,_MARQUIS_OF_DORSET}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY}
+
+AUTHOR:HENRY_GREY:MALE:_:1517:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_026:E1:1530S?:UNKNOWN:FAMILY_OTHER
+To my right hartybeloved cowsyn Syr John Wylloughbye knyght .
+WILLOUG,65.026.208
+
+AUTHOR:HENRY_GREY:MALE:_:1517:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_026:E1:1530S?:UNKNOWN:FAMILY_OTHER
+$Good Cowsyn Wylloughbye , after my most $harty commendacions , wheare
+uppon consyderucion had $for {ED:?} my greate and pestered housholde
+within my lytle $lodge of Brodgate , I have thought yt off $necessytye
+very expedyent to remove the same thence for the $space of iij wekes or
+a monethe , or at the least unto suche tyme as my seyd house maye be
+thoroly clensed and made in a perfecte aredynes for my retourne to the
+same , beyng as yet unprovyded , where to plante myn abode durynge that
+tyme , for that my house at Asteley <paren> as I am enfourmed </paren>
+ys in suche sorte of dekaye that no shorte tyme , nor smalle somme of
+money , wyll serve to furnyshe the same accordynglye . Thiese $shall
+$be {TEXT:shalbe} therfore right hartely to requyer yow good Cowsyn
+Wylloughbye to spare me your house at Myddelton for that tyme with
+suche furnyture of housholde stuffe as yow have ther
+{TEXT:that_DELETED} , whiche , lyke as yt $shall $be {TEXT:shalbe}
+receyved by byll indented , even so yt $shall $be {TEXT:shalbe}
+assuredly redelyvered in most thankefull wyse . WILLOUG,65.026.209
+
+AUTHOR:HENRY_GREY:MALE:_:1517:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_026:E1:1530S?:UNKNOWN:FAMILY_OTHER
+And for suche fewell and pasture as I shall have of yours for my
+provysyon ther yow $shall $be {TEXT:shalbe} thorowly satysfyed ,
+accordynge to suche rememberances as my brother Wylloughbye <P_66> this
+brynger can further declare unto yow , to whom yt maye please yow to
+geave further credyt in this behalfe , trustynge that yow wyll consyder
+and tender my request herein , in suche sorte , as your conformytye
+maye declare the same good mynde that I have hetherto conceyved in yow
+towards me , whiche I shall thanckefully requyte at any tyme hereafter
+as occasyon shall requyer . WILLOUG,66.026.210
+
+AUTHOR:HENRY_GREY:MALE:_:1517:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_026:E1:1530S?:UNKNOWN:FAMILY_OTHER
+And thus fare yow as hartely well as I wolde my selfe .
+WILLOUG,66.026.211
+
+AUTHOR:HENRY_GREY:MALE:_:1517:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_026:E1:1530S?:UNKNOWN:FAMILY_OTHER
+From my seid Lodge at Brodgate the vj=to= daye of Auguste .
+WILLOUG,66.026.212
+
+AUTHOR:HENRY_GREY:MALE:_:1517:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_026:E1:1530S?:UNKNOWN:FAMILY_OTHER
+Your lovyng cousyn Henry Dorssett . WILLOUG,66.026.213
+
+<Q_WIL_D_1530S_FO_HGREY> <L_WILLOUG_027> <A_HENRY_GREY> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1517> <R_JOHN_WILLOUGHBY> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_--->
+
+<P_66>
+
+{ED:NO._42._HENRY_GREY,_MARQUIS_OF_DORSET}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY}
+
+AUTHOR:HENRY_GREY:MALE:_:1517:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_027:E1:1530S:UNKNOWN:FAMILY_OTHER
+To my welbelovyd Cosyn Syr John Wyllughbye knyght yeve thes .
+WILLOUG,66.027.214
+
+AUTHOR:HENRY_GREY:MALE:_:1517:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_027:E1:1530S:UNKNOWN:FAMILY_OTHER
+After my ryght hartye $commendatyons Good Cosyn Wyllughbye , thes shall
+make request unto yow that wher as I understand that my Brother
+Wyllughbye is wyllyng to send George your kynsman , a yonge man in my
+opinion moche desyrous of learnyng , to some universytye beyonde the
+seas ther tarme hym sylfe as well wyth good learnyng as the knoledge of
+foran cuntryes : yow wyll , and that the rather at my requeste , helpe
+the yonge man in thys hys honeste and godlye travayle wyth some monye
+yerlye towardes hys exhybytyon , for the tyme he shall ther tarrye ,
+wherunto I truste , <paren> my requeste sett aparte </paren> verye
+naturall love and the vertuous desyre <P_67> of the yonge man , wyth
+consideratyon had how the habylytye of my brother Wyllughbye wyll not
+stretche suffycyentlye wythout your helpe and others to fynd hym ther
+wull be a suffycyent spure to prycke yow , besydes that ther can be no
+more godlye thynge done than to helpe forwarde those that be studyous .
+WILLOUG,67.027.215
+
+AUTHOR:HENRY_GREY:MALE:_:1517:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_027:E1:1530S:UNKNOWN:FAMILY_OTHER
+The some I leave to be apoyntyd by your discretyon , desyryng yow
+nevertheles that yt maye be iiij merkes or xls. at the leste ,
+WILLOUG,67.027.216
+
+AUTHOR:HENRY_GREY:MALE:_:1517:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_027:E1:1530S:UNKNOWN:FAMILY_OTHER
+and thus wyth thankes yeven for the fresshe sturgyn you sent me , I byd
+yow ryght hartylye farewell . WILLOUG,67.027.217
+
+AUTHOR:HENRY_GREY:MALE:_:1517:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_027:E1:1530S:UNKNOWN:FAMILY_OTHER
+From my house at Brodgate the fyrste of Maye . WILLOUG,67.027.218
+
+AUTHOR:HENRY_GREY:MALE:_:1517:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_027:E1:1530S:UNKNOWN:FAMILY_OTHER
+Your assuryd lovyng Cousyn Henry Dorssett . WILLOUG,67.027.219
+
+<Q_WIL_A_1541_T_HMARMION> <L_WILLOUG_028> <A_HENRY_MARMION>
+<A-GENDER_MALE> <A-REL_FAMILY_SERVANT> <A-DOB_---> <R_JOHN_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_67>
+
+{ED:NO._43._HENRY_MARMION}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY}
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+Unto the Ryght Worshypffull and hys synguler good Mayster Syr Jhon
+Wylloughby knyght be thys delyveryd wyth spede . WILLOUG,67.028.220
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+Ryght Worshypffull Syr , accordyng unto my dewtye I humbly recommende
+me unto your Maystershyp {TEXT:and_al_DELETED} verye glade to here of
+your good healthe whyche I pray God long contynewe to hys pleasur' and
+your most comforthe etc . WILLOUG,67.028.221
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+Pleasythe your Maystershyp to understonde I have receyvyd your ffeez
+for Bevall and Dale of the kyngis Receyvour that-SBJ ys to wytt for
+Bevall xiijs. iiijd. whyche was dewe unto your Maystershyp bytwyxt
+Ester and Wytsonday last paste as apperyth by the wordes of your patent
+. WILLOUG,67.028.222
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+Also I receyvyd for your leez of Dale xls. for too yeres endyd at
+Myghelmas <P_68> laste , WILLOUG,68.028.223
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+for that howse of Dale was dyssollvyd the Thurseday next byfor the
+feast of All Sayntes was too yeres , and no mor' , WILLOUG,68.028.224
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+and all that was dewe at Mygelmas day was too yeres agon the Abbot must
+allowe . WILLOUG,68.028.225
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+And all other your paymentes bothe-1 for Cossall and your closes at
+Beavall byn dyschargyd , Syr , WILLOUG,68.028.226
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+the Awdyter wolde have no les money then xx=te=s. for inrollyng of your
+sayd patent and leez whyche Peter Holande ys content to allowe for the
+sayd leez . WILLOUG,68.028.227
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+Syr , accordyng to your commandement by your letter I was at Derby on
+Fryday next after the concepcion of our Ladye to loke for your lyverey
+clothes , WILLOUG,68.028.228
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+and of truthe I am halff afreyed to bargyn wyth Smythe ,
+WILLOUG,68.028.229
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+hys clothes byn so course . WILLOUG,68.028.230
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+Nevertheles I have assygned hym to bryng unto Wollaton byfor Crystynmas
+iij or iiij peces uppon lykyng when they come thyder .
+WILLOUG,68.028.231
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+And yf we can not agree then he muste take the sayd clothes by hys
+promes , and utter theym at Newearke or wher' he wyll .
+WILLOUG,68.028.232
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+Syr , by cause I an not skylled in clothe I shall take concell of other
+suche as byn my freendes bothe for the goodnes of the clothes and
+lykewyse that the colours of theym mey agree one wyth an other as nyghe
+as we can . WILLOUG,68.028.233
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+Syr , as for all suche money as your Maystershyp commandyd me to
+demaunde of certen persons accordyng to theyr especyaltyes , I can
+receyve no penye , but liijs. iiijd. of Mayster Pylkyngton ,
+WILLOUG,68.028.234
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+nor I thynke <P_69> some of theym wyll never paye wythoute sewte by the
+lawe . WILLOUG,69.028.235
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+Also Syr , the Receyvour stoppyd for every pounde vjd. of your money ,
+and lyke wyse of myne annuytye vjd. at pounde , wherin I made hym
+answer that I knewe not whyther yt wer' hys dewtye so to have or no .
+WILLOUG,69.028.236
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+And he seyd he wolde have so of every man orelles they shulde goo unto
+the kyngis Cofferer for theyr paymentes . WILLOUG,69.028.237
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+And also he sayd that he was allowed of the sayd Cofferer for every
+pounde vjd . WILLOUG,69.028.238
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+Yet nevertheles I thynke yt ys playne wrong that he shuld have any
+penye mor' then for hys quyttaunce makyng of any annuytyes feez or
+pencyoners , and that for my parte I wyll inquer ' further cowncell .
+WILLOUG,69.028.239
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+And as for money for your busynes , wyth the helpe of John Levyssey I
+shall make shyft for , unto suche tyme as mey speke wyth your
+Maystershyp . WILLOUG,69.028.240
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+And thus our Lorde preserve your Maystershyp in healthe long to endewre
+. WILLOUG,69.028.241
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+Scrybled in hast the xj=th= day of Decembr' wyth the rude hand of your
+por bedeman and servaunte . WILLOUG,69.028.242
+
+AUTHOR:HENRY_MARMION:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_028:E1:1541:AUTOGRAPH:OTHER
+Henr' Mermyon . WILLOUG,69.028.243
+
+<Q_WIL_A_1545_T_RPINDER> <L_WILLOUG_029> <A_RALPH_PINDER>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_JOHN_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_69>
+
+{ED:NO._44._RALPH_PINDER}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY}
+
+AUTHOR:RALPH_PINDER:MALE:_:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_029:E1:1545:AUTOGRAPH:OTHER
+To the Right Worshepfull and my synguler good Master Sur John
+Willowghby geve this at Woolorton . WILLOUG,69.029.244
+
+AUTHOR:RALPH_PINDER:MALE:_:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_029:E1:1545:AUTOGRAPH:OTHER
+Right worshepfull and my singuler good Master , my dewtey in moist
+$humleist $wyse {TEXT:humleistwyse} consyderyd , I moyst lowly have me
+commendid unto your Mastershep , trustinge in owre Lorde God that your
+Mastershep with all the rest of your ffrendes and ffamyly be mery and
+in good helthe , in which estate I shall moist hartely pray unto
+Allmyghty God , accordinge <P_70> to my moist bownden dewtey , for the
+longe contynuaunse of the same . WILLOUG,70.029.245
+
+AUTHOR:RALPH_PINDER:MALE:_:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_029:E1:1545:AUTOGRAPH:OTHER
+Yt may please your Mastershep to be advertezid that I dow understande
+by a lettre of my brothers , who as yet ys in the northecontre , that
+your Mastershep hathe solde unto hym the woll of all your Mastersheps
+shepe , which as my brother hathe writon me be in nomber xvij=c= , att
+iiijs. viijd. the stonne , to be paid at Ester next ensewinge , at
+which tyme your Mastershep $shall $be {TEXT:shalbe} well and trewly
+paid , God willinge , how be yt at the makinge hereof ,
+WILLOUG,70.029.246
+
+AUTHOR:RALPH_PINDER:MALE:_:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_029:E1:1545:AUTOGRAPH:OTHER
+I spake with soche men of Darby , as were wont to by your Mastersheps
+woll , who showid me that they in tyms past , have not payd so moche
+for yt , and yet have had longe days of payment allso .
+WILLOUG,70.029.247
+
+AUTHOR:RALPH_PINDER:MALE:_:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_029:E1:1545:AUTOGRAPH:OTHER
+Neverthelesse yt was and ys to my great comfort to here and perseave
+that your Mastershep of your owne bowntyfull goodnes withowght eny
+deservinges of owr partes wold wytsafe to put the same in to owr handes
+of credyt , nothinge dowtinge but that your Mastershep $will $be
+{TEXT:wolbe} as ye have byn hetherto owr chefyste stay and help next
+under God , the tyme now drawinge nere that we $shall $be {TEXT:shalbe}
+compellid to charge owr ffrendes , your Mastershep beinge the
+prinsypall thereof , with helpe of whome we trust in God to leade a
+pore honest lyfe thorow , {TEXT:thorow} {ED:SIC} this unserten and
+wretchid vale of mysery , WILLOUG,70.029.248
+
+AUTHOR:RALPH_PINDER:MALE:_:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_029:E1:1545:AUTOGRAPH:OTHER
+and whereas we be not able to recompence your Mastersheps goodnes
+showid to us and other of owr pore ffrendes , in tymys past as well as
+at this present , the Lorde above ys and woll , who suffrythe no good
+and charitable acte to passe his handes unrewardyd . WILLOUG,70.029.249
+
+AUTHOR:RALPH_PINDER:MALE:_:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_029:E1:1545:AUTOGRAPH:OTHER
+Yt may please your Mastershep to wyt that I have sende don' by the
+order of Goodman Taylor your Mastersheps servant iiij sarpeclothes redy
+mayd of very stronge canvas . WILLOUG,70.029.250
+
+AUTHOR:RALPH_PINDER:MALE:_:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_029:E1:1545:AUTOGRAPH:OTHER
+The packers here which mayd theym sey they woll hold uppon the poynt of
+j=c= ston' a pece , so that I thynke they $will $be {TEXT:wolbe}
+suffycyent to hold all your Mastersheps woll beinge well packyd .
+WILLOUG,70.029.251
+
+AUTHOR:RALPH_PINDER:MALE:_:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_029:E1:1545:AUTOGRAPH:OTHER
+Yt may please your Mastershep to reseave as a remembrance of my pore
+<P_71> hart and good will a barell of ffyne suckad and a boxe of whyt
+mermylade desyringe your Mastershep to accept the same in good parte .
+WILLOUG,71.029.252
+
+AUTHOR:RALPH_PINDER:MALE:_:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_029:E1:1545:AUTOGRAPH:OTHER
+I wyshe yt were no lesse in quantity then yt ys in goodnes .
+WILLOUG,71.029.253
+
+AUTHOR:RALPH_PINDER:MALE:_:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_029:E1:1545:AUTOGRAPH:OTHER
+As to the packinge and weinge of the woll , I thinke my brother hathe
+left order how yt $shall $be {TEXT:shalbe} don' , or elles synce hys
+goinge in to the northe he hathe writton your Mastershep .
+WILLOUG,71.029.254
+
+AUTHOR:RALPH_PINDER:MALE:_:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_029:E1:1545:AUTOGRAPH:OTHER
+When the reckonynge is known how moche money yt dothe amout unto , yt
+may please your Mastershep to send ether to Master Revis or to whome
+you please , to cawse a bill of det to be maid , WILLOUG,71.029.255
+
+AUTHOR:RALPH_PINDER:MALE:_:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_029:E1:1545:AUTOGRAPH:OTHER
+and I woll in my brothers absence seale yt and subscribe yt .
+WILLOUG,71.029.256
+
+AUTHOR:RALPH_PINDER:MALE:_:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_029:E1:1545:AUTOGRAPH:OTHER
+This don' I woll desyre your Mastershep that we may have yt sende up
+when we write for yt WILLOUG,71.029.257
+
+AUTHOR:RALPH_PINDER:MALE:_:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_029:E1:1545:AUTOGRAPH:OTHER
+and thus owr Lorde have your Mastershep in his blessid kepinge .
+WILLOUG,71.029.258
+
+AUTHOR:RALPH_PINDER:MALE:_:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_029:E1:1545:AUTOGRAPH:OTHER
+From London the xviij=th= daye of June 1545 , with the hande of your
+Mastershepps moyst bowndon bedeman , Rauff Pynder . WILLOUG,71.029.259
+
+AUTHOR:RALPH_PINDER:MALE:_:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_029:E1:1545:AUTOGRAPH:OTHER
+Your Mastershepps barell of suckad and boxe of mermylad' be packyd with
+thyn the sarpe clothes as Goodman Taylor knowith . WILLOUG,71.029.260
+
+<Q_WIL_D_1540?_T_WFITZWILLIAM> <L_WILLOUG_030>
+<A_WILLIAM_FITZWILLIAM_1> <A-GENDER_MALE> <A-REL_---> <A-DOB_1490?>
+<R_JOHN_WILLOUGHBY> <R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_75>
+
+{ED:NO._1._WILLIAM_FITZWILLIAM,_EARL_OF_SOUTHAMPTON}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY}
+
+AUTHOR:WILLIAM_FITZWILLIAM_1:MALE:_:1490?:50?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_?
+LETTER:WILLOUG_030:E1:1540?:UNKNOWN:OTHER
+<em> To my rigt </em> worshipful ... loving $friend Sir John Willughby
+$knight . WILLOUG,75.030.261
+
+AUTHOR:WILLIAM_FITZWILLIAM_1:MALE:_:1490?:50?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_?
+LETTER:WILLOUG_030:E1:1540?:UNKNOWN:OTHER
+After my right hartie commendacion unto you , I have recevyde your
+lettres and certifycat of thos twenty wiche ye have preparyde to serve
+the kinge our soverayne lorde accordynge to his lettres latelly
+addressyde unto you , WILLOUG,75.030.262
+
+AUTHOR:WILLIAM_FITZWILLIAM_1:MALE:_:1490?:50?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_?
+LETTER:WILLOUG_030:E1:1540?:UNKNOWN:OTHER
+and therof have advertisyd his highnes , who takithe your endevour
+right thankfully . WILLOUG,75.030.263
+
+AUTHOR:WILLIAM_FITZWILLIAM_1:MALE:_:1490?:50?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_?
+LETTER:WILLOUG_030:E1:1540?:UNKNOWN:OTHER
+And where ye require of me to knowe whidre and when they shall repayre
+unto me , of trowth at this present I can not certaynly tel you that .
+WILLOUG,75.030.264
+
+AUTHOR:WILLIAM_FITZWILLIAM_1:MALE:_:1490?:50?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_?
+LETTER:WILLOUG_030:E1:1540?:UNKNOWN:OTHER
+But this only is for nowe , to let you wit that his pleasure is ye
+shall kepe them styll in aredynes , so that upon an howers warninge ,
+to be signified unto youe by oodre his letters or myne on his maiestie
+his behalfe , they muste wythe all speed convenient repayre unto suche
+place as in those lettres $shall $be {TEXT:shalbe} than appoyntyde , to
+doo suche service for his grace as his highnes requirethe , at whiche
+place ye $shall $be {TEXT:shalbe} sure immedyatly uppon ther arryvall
+there to receave monay bothe-6 for their conduct thidre , and ther
+costes , as largely as all oodre doo . WILLOUG,75.030.265
+
+AUTHOR:WILLIAM_FITZWILLIAM_1:MALE:_:1490?:50?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_?
+LETTER:WILLOUG_030:E1:1540?:UNKNOWN:OTHER
+And thus hertely ffayre ye well . WILLOUG,75.030.266
+
+AUTHOR:WILLIAM_FITZWILLIAM_1:MALE:_:1490?:50?
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_?
+LETTER:WILLOUG_030:E1:1540?:UNKNOWN:OTHER
+From Westm. the last of April , Your lovyinge ffellow W. Southampton .
+WILLOUG,75.030.267
+
+<Q_WIL_A_1530S?_FO_HGREY> <L_WILLOUG_031> <A_HENRY_GREY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1517> <R_JOHN_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_76>
+
+{ED:NO._2._HENRY_GREY,_MARQUIS_OF_DORSET}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY}
+
+AUTHOR:HENRY_GREY:MALE:_:1517:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_031:E1:1530S?:AUTOGRAPH:FAMILY_OTHER
+To my right harty $beloved cowsyn Sir John Wylloughbye knyghte .
+WILLOUG,76.031.268
+
+AUTHOR:HENRY_GREY:MALE:_:1517:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_031:E1:1530S?:AUTOGRAPH:FAMILY_OTHER
+Good Cowsyn Wylloughbye . After my right hartye commendacions , where
+as yow knowe that greate sommes of money hathe ben debursed and payde
+bothe-1 to yow and others for the mariage money of my syster Anne
+Wylloughbye to whom as yow also knowe ther ys assured for hyt in landes
+but onely the yerely value of one $hundred $markes whiche for the
+debursemente of a thowsand poundes ys small recompence . And albeyt I
+dowbte not but that my brother Wylloughbye yf God send hym lyfe , wyll
+of his owne good harte and zeale to her , gladly enlarge the same as he
+$shall $be {TEXT:shalbe} reasonablye requyred , yet for asmyche as hyt
+hathe pleased the kyngis mayestye , at this instante to call hym to
+serve in the warres , wherin although I hope {TEXT:ye} {COM:SIC?} and
+dowbte not by Godis healpe of his good and luckye procedinge , ther ys
+as you knowe myche daunger and casualtye . And your selfe beynge a man
+of manye yeres to whom God graunte many mo , so that yf yt shulde
+chaunce you bothe to dye , as God forbyd , the gentylwoman shulde be
+right meanely $furnyshed towardes any good staye of lyvynge , for the
+kyngis $mayestye then havynge the wardshippe of the <em> young heyre
+</em> ther shulde be almoste no remedye for her , ... for that , that
+she ys all redy assured of , $whiche matter beynge consulted <P_77>
+emonge my $counceyll $learned , and thoroly declared to me , I thought
+... d in her behalfe right hartely to <em> request you to </em> extende
+your thankefull favour towardes <em> the enlargynge </em> of her seyd
+Joynture accordinge to suche ... as {to}_P Master John Beamounde one of
+my seid <em> counceyll learned </em> this brynger shall reasonably move
+$you ... , whom hyt may please you further to cry ... $in this behalfe
+, whiche $shall $be {TEXT:shalbe} to you no maner of charge nor yet the
+forberynge of any peny of your revenewes or proffyttes .
+WILLOUG,77.031.269
+
+AUTHOR:HENRY_GREY:MALE:_:1517:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_031:E1:1530S?:AUTOGRAPH:FAMILY_OTHER
+Trustynge therfore that you wyll wey and consyder this sute in suche
+sorte , your conformytye therin may declare your thanckefull harte and
+zeale to my seid syster , and aunswhere to the good opynyon of
+ffryndshippe whiche we bothe have conceyved in you accordingly .
+WILLOUG,77.031.270
+
+AUTHOR:HENRY_GREY:MALE:_:1517:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_031:E1:1530S?:AUTOGRAPH:FAMILY_OTHER
+And thus fare you right hartely well . WILLOUG,77.031.271
+
+AUTHOR:HENRY_GREY:MALE:_:1517:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_031:E1:1530S?:AUTOGRAPH:FAMILY_OTHER
+From my lodge at Brodgate the xxvij=te= of Septembre .
+WILLOUG,77.031.272
+
+AUTHOR:HENRY_GREY:MALE:_:1517:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_031:E1:1530S?:AUTOGRAPH:FAMILY_OTHER
+Youre lovyng cousyn Henry Dorssett . WILLOUG,77.031.273
+
+<Q_WIL_A_1530S?_FN_EWILLOUGHBY> <L_WILLOUG_032> <A_EDWARD_WILLOUGHBY>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_---> <R_JOHN_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_--->
+
+<P_77>
+
+{ED:NO._3._SIR_EDWARD_WILLOUGHBY}
+
+{COM:TO_SIR_JOHN_WILLOUGHBY}
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_032:E1:1530S?:AUTOGRAPH:FAMILY_NUCLEAR
+Too the Right Wurshipffull and his lovyng brother Sir John Wyllughby
+knyght delivered with $spede . WILLOUG,77.032.274
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_032:E1:1530S?:AUTOGRAPH:FAMILY_NUCLEAR
+Wurshipffull Sir , after hertie commendacion , this is too assertane
+you that I have caused your crosse and cope too be hade too the golde
+smythes and weied and they doo offer ffor every unce of the coupe
+iiijs. and ffor every unce of the crosse iijs. xd. , and more $will
+$not {TEXT:wylnot} be hade , and ther is unnces of the coupe xxixti and
+of the crosse cxxvti , wiche bothe too <P_78> gathers monteth too the
+sum of xxixli. xvijs. ijd , WILLOUG,78.032.275
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_032:E1:1530S?:AUTOGRAPH:FAMILY_NUCLEAR
+ffor I doo assertayne you that the goldsmyth dyd take owte of knopes of
+the crosse sertayne olde ledder and baggage stuffe that was not worth
+on , halpeny that was of the weight of vj unces and more , ffor wiche
+consideracion I wolde not sell nother your cupe nor your crosse ,
+WILLOUG,78.032.276
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_032:E1:1530S?:AUTOGRAPH:FAMILY_NUCLEAR
+but it dothe and shall remayne unsolde untyll the next terme , and unto
+suche tyme as I shall here ffarther ffrome you . WILLOUG,78.032.277
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_032:E1:1530S?:AUTOGRAPH:FAMILY_NUCLEAR
+Also Sir , I pray you be not displeased that I have not send you home
+your coler and chene , WILLOUG,78.032.278
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_032:E1:1530S?:AUTOGRAPH:FAMILY_NUCLEAR
+ffor I doo were your coler WILLOUG,78.032.279
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_032:E1:1530S?:AUTOGRAPH:FAMILY_NUCLEAR
+and Henry Wyllughby dothe were your chene , WILLOUG,78.032.280
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_032:E1:1530S?:AUTOGRAPH:FAMILY_NUCLEAR
+but both $shall $be {TEXT:shalbe} saffe , God wylling , who kepe you in
+wurshipe and helth too your hertys eysse . WILLOUG,78.032.281
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_032:E1:1530S?:AUTOGRAPH:FAMILY_NUCLEAR
+Wrytten at London on chyldermesse day . WILLOUG,78.032.282
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_032:E1:1530S?:AUTOGRAPH:FAMILY_NUCLEAR
+Your luffyng brother Edward Wyllugby . WILLOUG,78.032.283
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_032:E1:1530S?:AUTOGRAPH:FAMILY_NUCLEAR
+And I pray you , Sir , too shew my brother Hugh that I have discharged
+my said brother Hughes dette to Mastres Densalle , ffor the wiche I and
+my cosyn $Thyrland was bounde too younge Holles . WILLOUG,78.032.284
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_032:E1:1530S?:AUTOGRAPH:FAMILY_NUCLEAR
+Therffore my cosyn $Thyrland nede not too entrete master Hollys nor to
+be in $his da ... as my brother Hugh dothe write too me .
+WILLOUG,78.032.285
+
+...
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_032:E1:1530S?:AUTOGRAPH:FAMILY_NUCLEAR
+recevyd of Laceter ffrome <P_79> ..._X WILLOUG,79.032.286
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:BROTHER:_:_
+RECIPIENT:JOHN_WILLOUGHBY:MALE:BROTHER:_:_
+LETTER:WILLOUG_032:E1:1530S?:AUTOGRAPH:FAMILY_NUCLEAR
+$Therfore {ED:?} I and my wyffe {TEXT:God_wylling_DELETED} intend to be
+<em> at Middelton </em> at mydsomer next , God wyllyng , ... ffor the
+bourde of your selff and your servauntes ... $pleasure when ye have
+proved how you ... intretyd . WILLOUG,79.032.287
+
+<Q_WIL_A_1530S?_T_EWILLOUGHBY> <L_WILLOUG_033> <A_EDWARD_WILLOUGHBY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_DARBY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_82>
+
+{ED:NO._DRAFT_OF_A_LETTER_FROM_SIR_EDWARD_WILLOUGHBY_TO_THOMAS_DARBY
+}
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:_:_:_
+RECIPIENT:THOMAS_DARBY:MALE:_:_:_
+LETTER:WILLOUG_033:E1:1530S?:AUTOGRAPH:OTHER
+Master Derbye , I hertely commend me unto $you , WILLOUG,82.033.288
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:_:_:_
+RECIPIENT:THOMAS_DARBY:MALE:_:_:_
+LETTER:WILLOUG_033:E1:1530S?:AUTOGRAPH:OTHER
+and wheras you have sene and herd divers $persons afor you redy to
+averre Robert Waltons sklanders $by {ED:?} hym spoken and utered to my
+wyfis dishonestye $and {ED:?} myn wyche sklanders they wer redy to
+justefye afor Waltons face . And also wheras you have harde and knowen
+divers and many mo wytnes that dyd comme afore the kyngs commissioners
+at Wudland alegyng Waltons evyll and sklanderous wordes azenst me , my
+wyfe and many other persons , spoken , beyng his neghbors , wyche
+maters so beyng aparant unto you and substancially proved , I had
+thought that acordyng to your wordes and promes to me made
+{TEXT:that_DELETED} in that behalfe that ze wold have surcesed in any
+further medlyng wyth the said Walton or in beryng hym in hus lewdness ,
+but now Sir , I do perceve aswell by your wordes spoken of late to my
+wyfe <P_83> and on of my servantes at {TEXT:$Knolton_DELETED} Horton
+thretyng us with my Lord Russell auctorite and yours , as by your
+wordes , labor and paymentes of money by you made and done of late at
+London in Waltons behalfe , that not only you do overpasse and breke
+your said promes to me afortyme made , {TEXT:but_DELETED} not regardyng
+the same partely to your dishonestie , but also you do prove yourselfe
+a mentenor of the said Robert Walton contrary to the kings lawes .
+Wherfor I do assure you that I do entend to have an accion azenst you
+of mentenance onles that you do redresse your ... ult brevely and that
+I may perceve by $your answer {TEXT:and_DELETED} or lettur that from
+hensfurth $you wyll forsake and advoyde suche doyngs and beryngs as is
+contrary to your honestye and also contrary to the kyngs laws .
+WILLOUG,83.033.289
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:_:_:_
+RECIPIENT:THOMAS_DARBY:MALE:_:_:_
+LETTER:WILLOUG_033:E1:1530S?:AUTOGRAPH:OTHER
+per me georgium in nomine dei Amen WILLOUG,83.033.290
+
+AUTHOR:EDWARD_WILLOUGHBY:MALE:_:_:_
+RECIPIENT:THOMAS_DARBY:MALE:_:_:_
+LETTER:WILLOUG_033:E1:1530S?:AUTOGRAPH:OTHER
+by me George Penruddoke . WILLOUG,83.033.291
+
+<Q_WIL_A_1530S_T_TDARBY> <L_WILLOUG_034> <A_THOMAS_DARBY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_EDWARD_WILLOUGHBY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_83>
+
+{ED:NO_6._THOMAS_DARBY}
+
+{COM:TO_SIR_EDWARD_WILLOUGHBY}
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+To the right worshipfull Sir Edward Willoughby knight nowe being at
+London this be yeven wyth spede . WILLOUG,83.034.292
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+Right worshipfull Sir , this Candelmas day at after masse I receyved
+your <P_84> lettre dated at London the xxviij=th= day of Januarie
+conteynyng in effect your manasses in your accion of maintenance which
+as ye write ye entend , God knoweth I can not tell wherfor , to take
+against me . WILLOUG,84.034.293
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+Ye write also ye be my assured frende if I lust , WILLOUG,84.034.294
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+Sir , because I $will $be {TEXT:wolbe} your lover whydder ye lust or
+not , and not for feare of your manasses or any avaintage ye can take
+upon me either-4 in that matier or any other , beying indede most lothe
+to offende or gyve any man occasion of vexacion , I woll declare unto
+you plainly the truthe of every thing without dissymulacion as nigh as
+I can touchyng my hole purpose and doyng by you supposed to be
+unlawfull . WILLOUG,84.034.295
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+First , after it pleased the kingis most graciose highnes to appointe
+me to comme into thise parties which was afore I knewe ether you or
+Walton , truth it was , I herde of many substanciall gentlemen that ye
+wer mervelously geven to vexacion and trouble in the lawe , and in your
+sutes were most extreme and unmercyfull , like as indede afterward ,
+when it pleased you that we were acquainted and that ye vouched save to
+here me , I told you plainly what I herde . WILLOUG,84.034.296
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+And so then beyng desirous of quietnes and right sory that any suche
+contraversie shuld be amonges my neybours , beying moeved with love and
+charitie , I dyd the best I could to have been a meane to sett the
+matier at a staye betwen you and Walton , which Walton then indede , as
+I remember , offred to have asked you forgyvenes in twoo parishe
+churches so ferforth as he hadd offended you . WILLOUG,84.034.297
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+And you wold not be contented therewith except he wold confesse that
+which you {TEXT:was_DELETED} obiected against him , which to doo he
+reafused saying $he {TEXT:be} {COM:SIC?} wold never confesse that he
+never spake , but indede , seying there were dyverse of your servauntes
+and tenauntes that bare witnes against hym , WILLOUG,84.034.298
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+and also that I perceyved by you , ye wold , upon that his confession
+orelles not , have remytted all the matier savyng the payment of xx
+nobles , which xx nobles the judge hymself confessed unto <P_85> me the
+officiall ought to have borne and payd because the faulte of the appele
+was in hym and not in Walton , WILLOUG,85.034.299
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+I dyd all that I could t ... Walton to have caused hym to confesse that
+your $witnesses declared , which indede , Walton reafusyng I shewed
+$you as I thought . WILLOUG,85.034.300
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+And as yet I doo thinke , that it were $well he shuld be made to knowe
+, and submyt hymself {TEXT:as_DELETED} ... WILLOUG,85.034.301
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+{ED:THE_OF_THE_MANUSCRIPT_IS_DAMAGED_AND_WORDS_AT_THE_ENDS_OF_TH
+E_LAST_FEW_LINES_ARE_MISSING.} as to reason right and good conscience
+apperteyned , $against {ED:?} the which I never dyd , doo , or shall
+entend any thyng , like as in dede at that tyme I shewed unto you ,
+WILLOUG,85.034.302
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+I wold never otherwise entreate you . WILLOUG,85.034.303
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+And so sens that tyme surely Walton never made me pryve of
+{TEXT:my_DELETED} his further sute , but that at his last comming from
+London , he shewed me , that the matier beying in examinacion afore
+Master Doctor Belloyces , he lakking money to beare his charges was
+inforced to leave his sute , and so come home , which thing at my goyng
+to London for his excuse , he requyred me to shewe to Master Belloyces
+, which indede than for forgetting I dyd not . WILLOUG,85.034.304
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+And then in the meane tyme , I beyng absent , Walton came to my wif
+WILLOUG,85.034.305
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+and shewed her , that for xxs. percell of xls. which indede he
+confessed he hadd promised to gyve to my ladye for her good will in his
+holding , which alwais he confessed to pay as he might be hable , my
+said lady hadd distressed twoo of his kye , and so wold not delyver
+them , onless he wold poy xxviijs . Wherupon my wif sent oon of her
+servauntes to my ladye beseching her to be so good as to take her xxs.
+, and no more , which request taking no place , the hole xxviijs. as ,
+I here , was payd , after the which at my commyng home , you beyng at
+London , Waltons wife came to me and told me that my lady hadd
+distressed twoo other of her husbandis kye for xxxijs. where
+{TEXT:which_DELETED} as she affyrmed there was no suche duetie , which
+<P_86> kie beying put in the pounde , which than was so foule that it
+was like the cataill shuld perishe , she required me to speke to my
+ladie , to know what her demaund was , like as indede when I spake with
+my ladie , she delyvered me $a straite of your oun courte wherein
+Walton was amercied xvjs. as appeareth at one courte for letting his
+swyn to go at large where indede <paren> as I here </paren> the like
+hath not ben seen to any other of your tenauntes . WILLOUG,86.034.306
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+And so then perceyving that twoo of the pore mans kyn was distressed
+for xvjs. where one of them hadd been sufficient for the demaunde ,
+specially one of them beying Melche , which was the best lyving of his
+houshold , and also veray like that the matier was not good but done of
+pure malice , indede in your absence , as I wold have done to yourself
+, in cace I might have spoken with you , I first told your servaunt and
+after my lady , how suche extremyties {TEXT:and_malice_DELETED} incace
+they were complayned upon wold not be suffred , and indede wold cause
+wise men the rather to thinke that your trouble and vexacion of Walton
+shuld procede of extremytie and malice , and that you went not aboute
+to wyn hym but utterly to lose , undowe , and cast him awey , which
+could not be done onely unto hym but to his wif and childer , like as
+indede I have herd reaported of dyverse honest gentlemen , that you say
+, ye thinke ye $can $not {TEXT:cannot} doo a better good dede , nez
+sacrafice to God , then to hange and utterly to undowe hym , which I
+assure you if it be true , commeth of your evill spirite ,
+WILLOUG,86.034.307
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+for Almighty God , who is love and charitie , and biddeth us forgeve as
+we wold be forgeven , truly deliteth in no {TEXT:bb_DELETED} blodye
+sacrafices . WILLOUG,86.034.308
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+And pitie it is that a gentleman of so auncient a blodd and house beyng
+by his prince called to honour , namely , to sett rest and quyet
+amonges his neybours and tenauntes shuld , in my opynyon , utter suche
+cruell wordes , to make all men to see his {TEXT:iniquities_DELETED}
+inquietnes and malice , that shuld be a light and example to other of
+quyet and gentlenes , which , Sir , herd and considered , for the love
+I bare unto you in advoyding <P_87> suche sklaunder as by suche meanes
+might come unto you , I exhorted my lady not to use suche extremyte ,
+but to respect the matier till your commyng home , when specially
+because Walton said and promysed to me that he wold be ordred in every
+thing as ye wold have hym , the man beyng wery of his lif , and in dede
+, redye to flye the cuntree for suche and other like extremyties shewed
+unto hym by your servaunt , who <paren> he beying at his plough
+</paren> hath manassed , threteaned and called all evill names that can
+be imagined , pyking dailly querelles against hym , surely charitie
+movyng me , myn entent was ones againe , if it had ben my chaunce to
+have mett with you , to have eftsones ben a suter for Walton upon his
+said promyse and submission to your oun charitable correccion , that
+the man might be won , and not lost , not for his oun sake onely , but
+for his houshold , specially considering that incace there be cause or
+no cause , if the man be undown by you , as it appeareth ye entend to
+doo without mercy , surely the contrey will note rigour in you and
+thinke that it is not mete for suche a gentleman called to honour , to
+execute all his power for the undowyng of suche a pore wreche beyng his
+$tenaunt , as surely what soever he be that geveth you suche $counsaill
+is not in myn opynyon , either your lover or frend $if <paren> saving
+your worshyp </paren> ye might otherwise wyn hym by my $meanes .
+WILLOUG,87.034.309
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+Sir , if ye were myn oun fader , in this cace I wold be thus plaine
+with you , as my conscience indede byndeth me . WILLOUG,87.034.310
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+I {TEXT:trus_DELETED} trust ye woll take it in good parte as I meane it
+, and remember that we be all synners , WILLOUG,87.034.311
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+and what mervaile is it that we be sklaundered when we delite in
+sklaundering of our selfes . WILLOUG,87.034.312
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+He that wold have a good name may not make bost of his synnes ,
+WILLOUG,87.034.313
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+for if he doo <paren> if men say or thinke evill upon hym , who hymself
+indede geveth the occasion </paren> reason wold , he shuld not be
+extreme in seking revengement , and to destroye a man upon that
+occasion which is geven by hymself . WILLOUG,87.034.314
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+Surely the offence to hym so doyng is greate . WILLOUG,87.034.315
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+Lett us feare the rightwisnes of Almighty God who specially biddeth us
+to be <P_88> mercifull . WILLOUG,88.034.316
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+And as touchyng my speaking of Waltons matier in the courte of the
+Arches at London , Walton at my last goyng doun delyvered to my man a
+marke , to delyver to his proctour a corone , wherof being bothe good
+gold and keping weight according to the kingis proclamacion , the same
+proctour as it manifestly appeared to put the pore man to an afterdeale
+reafusing , my man shewed me of the matier . WILLOUG,88.034.317
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+And so within ij dais after , having a sute to your oun doctour , I can
+not tell his name who I founde in the courte , for a dispensacion for a
+kynneswoman of my wifes , whereby I hadd occasion to speke of the
+corone which then I hadd not aboute me , WILLOUG,88.034.318
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+and beying the peremptor the day that Walton shuld have ben condempned
+incace the money hadd not ben payd , and so perceyving thextremytie of
+the proctour reafusyng the kingis lawfull coign contrary to the kingis
+proclamacion , I laide a gage for the money , WILLOUG,88.034.319
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+and afterwardes in redeamyng of my gage , I caused the proctour by
+vertue of the kingis proclamacion in open courte to take the same
+corone , which cace was not Waltons cace but the kingis cace .
+WILLOUG,88.034.320
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+And all indede was that I could not abide suche unlawfull procedinges
+of cormorauntes against the smale and pore , and specially that I wold
+have ben lothe that {TEXT:upon_DELETED} by suche crueltie
+{TEXT:shuld_DELETED} any man shuld be so extremely handled .
+WILLOUG,88.034.321
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+Syr , I beseche you as a pore man may , seke suche counsaill as may
+quiet your conscience and to cast up the disturbatours of the same ,
+and so to lyve in rest and peax amonges your neybours , which rest if
+ye hadd ones assaid a quarter of the tyme that ye have ben used to the
+countrary in the lawe , I am sure ye wold not sell it , for all the
+lawe in the Arches or Westminster Hall , where they be that rather woll
+seke to gett your money and encouruge you for {TEXT:your_DELETED}
+proffit to be revenged to the symylytude of the evill spirite than to
+the contrary of the good . WILLOUG,88.034.322
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+And as touchyng my self , I woll not by my good will offend you ner non
+other . WILLOUG,88.034.323
+
+<P_89>
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+Indede it was shewed me at my commyng home , ye were dyverse tymes at
+my house allegyng matiers to sundry of my folkes which afore your face
+, the parties being called , was proved untrue . WILLOUG,89.034.324
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+If you be so faine to have a matier against me ye may begyn when ye
+woll , WILLOUG,89.034.325
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+for I doubte not but myn entent and doynges beyng as they be bothe-2
+anempst you and all other , I $shall $be {TEXT:shalbe} with honestie
+delyvered to the shame of suche as maliciously without cause wold
+{ED:TH.CRIBE_WROTE_"WOLE"_AND_THEN_CHANGED_THE_FINAL_"E"_TO_A_" D"}
+appeare the same myn honestie . WILLOUG,89.034.326
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+And therefore I will not otherwise entreate you whither you lust to be
+my frende or my foo , WILLOUG,89.034.327
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+for I had lever to have an open ffoo then a familier enemye ,
+{TEXT:ore}_CONJ or oon that after suche sorte woll pike matiers
+specially pretending frendship . WILLOUG,89.034.328
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+Eftsones I beseche you to take counsaill of peasible and godly
+counsaillours , and not of disturbatours , whereof to here I $shall $be
+{TEXT:shalbe} as gladd as any frende you have , Almighty God I take to
+witnes , WILLOUG,89.034.329
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+and the Holy Goost be your guyde . WILLOUG,89.034.330
+
+AUTHOR:THOMAS_DARBY:MALE:_:_:_
+RECIPIENT:EDWARD_WILLOUGHBY:MALE:_:_:_
+LETTER:WILLOUG_034:E1:1530S:AUTOGRAPH:OTHER
+From Horton the morrow after candelmas day , by Your lover lust or lust
+not , Thomas Derbye . WILLOUG,89.034.331

@@ -1,0 +1,500 @@
+<B_HART>
+
+<Q_HRT_A_1561_T_JHART> <L_HART_001> <A_JOHN_HART> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1501?> <R_WILLIAM_CECIL> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1520>
+
+<P_68>
+
+{ED:C._1560._MR._HART_TO_SIR_WM._CECIL.}
+
+AUTHOR:JOHN_HART:MALE:_:1501?:60?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:HART_001:E1:1561:AUTOGRAPH:OTHER
+May yt please your honour , as I haue long herebefore declared vnto the
+same the poor case whereunto I was brought in traveling for my L. Greis
+deliuerance beyond seas which yet continueth increasing more grevous
+from daye to daye , and that yt may yet more playnly appeare vnto you
+how yt frameth with my daunger travayle and good will , although I
+could not bring thinges to passe according to my L. desire , I have
+here a lettre which Hedley wrate to Captain Tremain at his beying here
+whiles my L. James was in ffraunce , wherein Hedley declareth that I
+haue ennemies betuixt my L. and me , as he were hable to saye ys yt
+more lawfull for him to disclose secrettes , where in I can find no
+remedie vntill my L. comyng . HART,68.001.1
+
+AUTHOR:JOHN_HART:MALE:_:1501?:60?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:HART_001:E1:1561:AUTOGRAPH:OTHER
+And for that I wold <P_69> not exceed my dueti towarde my Lord . I haue
+not once opened my lyppes in all my extremite to any other counseillour
+then vnto your honour , being assured of your freindship toward my L.
+and of your seuerite and iustice toward all men according to your
+honourable vocation . which boldeneth me thus often to besech you for
+conscience and pities sake to be meanes that my L. at his comming vppe
+may geve me my duetie in all reason , though he will be no further
+beneficiall vnto me of good will , not purposing to speak of anye fayr
+promisses past which are already drowned in the ialousie of my fidelite
+and in the supposed faulte of my seruice . HART,69.001.2
+
+AUTHOR:JOHN_HART:MALE:_:1501?:60?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:HART_001:E1:1561:AUTOGRAPH:OTHER
+And to the most of my power during life , as I am bound , so will I not
+fayle to be ready at your commaundment , HART,69.001.3
+
+AUTHOR:JOHN_HART:MALE:_:1501?:60?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:HART_001:E1:1561:AUTOGRAPH:OTHER
+and wold think my self happie to be imployed therein , in whatsoeuer
+condicion yt mought please your honour to appoint me . HART,69.001.4
+
+AUTHOR:JOHN_HART:MALE:_:1501?:60?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:HART_001:E1:1561:AUTOGRAPH:OTHER
+Further for that of long time I haue accompted your honour my especiall
+good master , I think yt my duetie to declare vnto you , a great
+mischaunce which happened to me in London , on Easter monedaye last at
+nyght ; wherein by Godes grace I escaped the furiouse assault , of a
+notable evill liuer and felon <paren> as I wold to God your honour
+vnderstoode so amplie as doth the L. mayor and the worshipfull of the
+Citie </paren> who having immediatlye before taken a Juell from a
+childes neck was cried after to stoppe the theef , the pursuers
+declaring the cause , and no man else in the street but he and I .
+Whereon I stept to him and with soft and gentell wordes aduised him to
+discharge him self thereof , as yt is well knowen , which with great
+oathes he vtterly denied , and wold not stand to the triall of the
+matter , which seing and beying moch called on by his pursuers , I
+willed him to staye in the Queenes name , which he wold not doo but
+endevored him self to make his waye with his sword , which he then drew
+with threatnyng wordes , having also a great bucler in his left hand ,
+and strooke at me , which I fledd , and drew my rapier , HART,69.001.5
+
+AUTHOR:JOHN_HART:MALE:_:1501?:60?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:HART_001:E1:1561:AUTOGRAPH:OTHER
+and so <paren> as yt appeareth by the coroners inquest , the copie
+whereof I have here vnder the Coroners hand </paren> yn my defence yt
+chaunced that I strooke him so in the head as he died thereof in the
+street . Whiche mysfortune though yt hath moch troubled me and greved
+me yn hart , with great charges allready past , yet must I needes haue
+my pardon of course ; HART,69.001.6
+
+AUTHOR:JOHN_HART:MALE:_:1501?:60?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:HART_001:E1:1561:AUTOGRAPH:OTHER
+At the last sessions I besought to have byn arraygned vpon yt , for
+that I had not wherewith to procure my sayd pardon , HART,69.001.7
+
+AUTHOR:JOHN_HART:MALE:_:1501?:60?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:HART_001:E1:1561:AUTOGRAPH:OTHER
+but the bench wold not permytt yt . HART,69.001.8
+
+AUTHOR:JOHN_HART:MALE:_:1501?:60?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:HART_001:E1:1561:AUTOGRAPH:OTHER
+And I know not where to gett one shelling toward yt before my L.
+comming uppe , which at the next sessions I look tattend thenceforth in
+newgate except you honour of your goodness be favourable vnto me by the
+one or the other of theis two meanes folowing . HART,69.001.9
+
+AUTHOR:JOHN_HART:MALE:_:1501?:60?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:HART_001:E1:1561:AUTOGRAPH:OTHER
+The first is yf yt may be found good , or at least so as I may be
+blamelesse for motionyng thereof vnto your honour , my sayd necessite
+compelling me therevnto . HART,69.001.10
+
+AUTHOR:JOHN_HART:MALE:_:1501?:60?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:HART_001:E1:1561:AUTOGRAPH:OTHER
+I wold haue besought the Queenes Majesties Licence for one Richard
+Collsonsack {ED:SIC} of Yermouth to keep a Tavern there for yeares next
+ensuyng . Yn consideracion that he hath byn all his lyfe traded therein
+, and hath none other meanes to lyve with his wife childre and familye
+. And <P_70> further for that there is yet none in the towne that is
+licenced by the Queenes Majestie or anye of her highnes predecessours ,
+beyng a place of great resort of straungers , and a place accustomed
+time out of mynd to have sometimes , fyve , or fower or at least three
+Tavernes yn yt . Also for that thinhabitantes there in time of peace
+haue allwayes had an ordinari trade to the Baye for salt for their
+hearing where they haue byn accustomed also to take part wine , for so
+much marchaundise as they haue trasported thither . HART,70.001.11
+
+AUTHOR:JOHN_HART:MALE:_:1501?:60?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:HART_001:E1:1561:AUTOGRAPH:OTHER
+And so are they driven to doo often at home , when they at need $shall
+$be {TEXT:shalbe} forced to take yt of some hulk or other stranger ,
+whoe else wold transport yt whereas they maye discharge their wines
+therewith , HART,70.001.12
+
+AUTHOR:JOHN_HART:MALE:_:1501?:60?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:HART_001:E1:1561:AUTOGRAPH:OTHER
+and they mought lose great quantitie of fish , for lack of salt .
+HART,70.001.13
+
+AUTHOR:JOHN_HART:MALE:_:1501?:60?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:HART_001:E1:1561:AUTOGRAPH:OTHER
+Yf this be thought not goode . The other is to have besought the
+Queenes Majesties pardon for one Krigdote {ED:SIC} of London being now
+in exile for that he by evill counseill was in the companye of English
+pirates which are yet prisoners in the Iles of Canarie , at the
+spoyling of a french bark at the last bowte of warres betwyxt vs and
+Fraunce the ffrench men beyng thorowly contented and satisfied at this
+daye for their wrongs then sustayned , and that the rather in
+consideracion that the ffrench pirates haue made none or very small
+restitution of the thinges they haue spoyled from our Englysh
+marchantes by great Summes in time of assured peace , and yet are not
+punisshed as they haue moch and often deserved . Whereas this poore man
+Krigdoet {ED:SIC} , his goodwill hath been souch towardes the
+satisfaction to his power , with his punishment and repentance so great
+, as yf the Queenes Majestie knew yt , I wold assure me of her
+Majesties present graunt of pardon . HART,70.001.14
+
+AUTHOR:JOHN_HART:MALE:_:1501?:60?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:HART_001:E1:1561:AUTOGRAPH:OTHER
+And thus I beseech the Lord to prospere you according to your worthie
+hertes desire . HART,70.001.15
+
+AUTHOR:JOHN_HART:MALE:_:1501?:60?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:HART_001:E1:1561:AUTOGRAPH:OTHER
+There is a house at poppler which was Master Armestronges and sence
+alderman Maynardes deceased which is of new buylding , good substance ,
+and well framed and conveyshed was of late sold by an evill heir for +L
+356 or lesse which workmen saye was never buylt for two thowsand pound
+. HART,70.001.16
+
+AUTHOR:JOHN_HART:MALE:_:1501?:60?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:HART_001:E1:1561:AUTOGRAPH:OTHER
+And now the byers haue already spoyled all the entrayles , as tables
+Beddsteedes and wainscott wherewith every rometh was costly and comly
+garnisshed , with leade and paving stones , HART,70.001.17
+
+AUTHOR:JOHN_HART:MALE:_:1501?:60?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:HART_001:E1:1561:AUTOGRAPH:OTHER
+and so they plainly saye they will leave nor brik nor stone nor stick
+standing there . HART,70.001.18
+
+AUTHOR:JOHN_HART:MALE:_:1501?:60?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:HART_001:E1:1561:AUTOGRAPH:OTHER
+yf buylders haue gotten favour in beawtefyyng their Cuntrey what reason
+ys yt souch spoylers shuld be suffred . HART,70.001.19
+
+AUTHOR:JOHN_HART:MALE:_:1501?:60?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:HART_001:E1:1561:AUTOGRAPH:OTHER
+I doubted whether your honour vnderstode yt or not which caused me thus
+to aduertise the same thereof . HART,70.001.20
+
+<Q_HRT_D_1573_T_MHART> <L_HART_002> <A_MARY_HART> <A-GENDER_FEMALE>
+<A-REL_---> <A-DOB_---> <R_WILLIAM_CECIL> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1520>
+
+<P_77>
+
+{ED:LETTER_FROM_MARY_HART_TO_LORD_BURGHLEY,_DATED_MAY,_1573.}
+
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+To the Right Honorable and my singler good Lorde the Lorde High
+Tresorer of England etc . HART,77.002.21
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+In most humble wise I beseche your Lordshippe of your goodnesse and
+even for godes sake to haue the truth tride and the matter ended of
+yorkes greate misvsinge me . HART,77.002.22
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+Maye yt please your Honor , I beinge alone in my chamber , he put me in
+feare of my life , HART,77.002.23
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+and almost toke my breth from me , in most vyle sorte / HART,77.002.24
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+I was never well longe together sence ./ HART,77.002.25
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+His cozin Richard Dethicke of polstide in Suffolcke hearinge his doings
+came in , HART,77.002.26
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+and toke him by the middle , HART,77.002.27
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+and prayde him to be contente . HART,77.002.28
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+I feared yorke wold haue killed me els / he spurned me downe with his
+foote so ofte / HART,77.002.29
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+my hedde was verie neare the fire / and my heare like to be burned / as
+yet may appeare by my cappe , which I had next my heare .
+HART,77.002.30
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+He put a depe cole baskette lyned with lether on my hedde / with some
+coles and dust in yt , HART,77.002.31
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+and kept yt so longe <P_78> aboute my hedde and shoulderes / that my
+breth was almost gone ./ HART,78.002.32
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+Savynge the reverence of your Lordshippe , my chamber pott of vrine ,
+he powred on my bare hedde HART,78.002.33
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+and thereafter rubbed hott ashes into my heare / HART,78.002.34
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+and dipt a basen into a stand of newe drincke / HART,78.002.35
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+and flashed so much full on my face , that I cold not se for a tyme ./
+HART,78.002.36
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+As sone as I came to my selfe , I gotte downe even as I was ,
+HART,78.002.37
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+and wold haue gone fourth to haue shewed myselfe to the gentlemen of
+the arches / HART,78.002.38
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+but my Ladie Garter kept the gate , HART,78.002.39
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+and kept me in perforce / HART,78.002.40
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+and there I laide to his charges , how he had misvsed me , and called
+me <paren> savinge your Honores reverence </paren> pockie whore ./
+HART,78.002.41
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+He saide before Richmonde and Somersette heroltes / that I lied like a
+pockie drabbe <paren> or a queane </paren> HART,78.002.42
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+and wold haue runed one me agayne with his foote , HART,78.002.43
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+but his mother held him backe / HART,78.002.44
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+he sence confessed to my housband , that he toke my heare out of the
+fire / HART,78.002.45
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+and yett I vnderstand that he denieth aswell his wordes , as that he
+came in to my chamber ./ HART,78.002.46
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+Master garter hath reported to my frindes and me , that my housband was
+the cause of all , which I cold never perceiue , HART,78.002.47
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+but this I knowe verie well , that master Garter and his wife , hath
+sought to sett discord betwyxte my husband and me , that mervail yt is
+we hadde not bene a sundre longe sence HART,78.002.48
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+and because I , vppon yorkes further threteninge of me , I toke the
+peace of him , he toke the peace of my husband and me , HART,78.002.49
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+and for the two $acciones my husband hath taken agaynst him , he hath
+surmised two others agaynst my husband and me , to troble vs with all
+./ HART,78.002.50
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+Yf yt shall please your honor , if there be ether man or woman , that
+is able Justlye to prove , that euer I was the beginner of anye
+fawlynge out , with him or anie other bodie , then I $will $be
+{TEXT:wilbe} content to be vsed thereafter ./ HART,78.002.51
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+I most homblye besech your Lordshippe , to pardon me of my rude
+wrytynge , for that I lacke vtterance of speach , and am the more this
+constrayned to wryte , HART,78.002.52
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+the matter hath bene so longe a tyme deferred , to my greate griffe ./
+HART,78.002.53
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+and such a shame on my head vndeserved I can not beare , HART,78.002.54
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+for I wold more gladlye haue forgeuen him my death then yt ./
+HART,78.002.55
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+But I trust when the matter is dulye tride and ended / I $shall $be
+{TEXT:shalbe} restored to my good and honest name , which they haue so
+much sought to take fro me , and in effect from my husband /
+HART,78.002.56
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+and for your Lordshippes dealinge in my Right , I $shall $be
+{TEXT:shalbe} most bonde to praye god for yow and yours durynge liffe ,
+HART,78.002.57
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+And so the Lord god blesse and prosper you and them . HART,78.002.58
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:53
+LETTER:HART_002:E2:1573:UNKNOWN:OTHER
+Your $Lordshippe most humble , and servaunt if I were worthye / Mary
+Hart . HART,78.002.59
+
+<Q_HRT_D_1578_T_MHART> <L_HART_003> <A_MARY_HART> <A-GENDER_FEMALE>
+<A-REL_---> <A-DOB_---> <R_WILLIAM_CECIL> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1520>
+
+<P_79>
+
+{ED:LETTER_FROM_MARY_HART_TO_LORD_BURGHLEY,_DATED_3RD_JULY,_1578.}
+
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:58
+LETTER:HART_003:E2:1578:UNKNOWN:OTHER
+3 July 1578 HART,79.003.60
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:58
+LETTER:HART_003:E2:1578:UNKNOWN:OTHER
+To the righte honnorable the lorde Burleighe lorde highe treasorer of
+england . HART,79.003.61
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:58
+LETTER:HART_003:E2:1578:UNKNOWN:OTHER
+In most humble wise besecheth your honnor , your pore and daylie orator
+, Marye Hart widdowe , whereas your honnor or your goodnes , graunted
+me of my last supplicacion , a newe comission , which master ffanshawe
+also graunted , if I coulde bringe your honnors warraunte for it . And
+for that , your pore orator hath bene delayed frome tyme to tyme , by
+suche as , hath taken vppon them to deale in the same matter . So that
+I coulde not sue , to your honnor , for the same , maye it therefore
+please your honnor , of your accustomed goodnes , to graunt me your
+honnors warraunt , for the same comission , that I maye haue and enioye
+it , in as large and ample manner , as {in}_P any other heretofore ,
+hath had and enioyed the same with suche proffitte duties and
+comodities , as thereunto is belonginge , that I maye searche out the
+vniuste dealinge thereof , HART,79.003.62
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:58
+LETTER:HART_003:E2:1578:UNKNOWN:OTHER
+ffor , there hath bene broughte in , in the tyme of your honnors
+servaunt my husband , tenne thousand poundes , and noe proffitt to the
+quenes maiesties , nor your pore orator the better by one pennye ,
+whereas your orators stocke is consumed , whereby she mighte haue the
+better lived , which is nowe in great necessitie , and threatened to be
+arested for debte , knowinge not howe , to amend , her troublesome life
+vnlesse your honnor be good and favorable to her . HART,79.003.63
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:58
+LETTER:HART_003:E2:1578:UNKNOWN:OTHER
+And your saide orator will according to her dutie daylie praye to god
+for the prosperous estate of your honnor , with encrease of the same .
+HART,79.003.64
+
+AUTHOR:MARY_HART:FEMALE:_:_:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:58
+LETTER:HART_003:E2:1578:UNKNOWN:OTHER
+Your honnors moste humble Oratrice Marye Harte , late the wife of John
+Harte alias Chester , herhalt of Armes , and late servaunte to your
+good lordshippe . HART,79.003.65

@@ -1,0 +1,2054 @@
+<B_LISLE>
+
+<Q_LIS_A_1533_FO_TSTAUBYN> <L_LISLE_001> <A_THOMAS_ST._AUBYN>
+<A-GENDER_MALE> <A-REL_BROTHER-IN-LAW> <A-DOB_--->
+<R_HONOR_PLANTAGENET[N.GRENVILLE]> <R-GENDER_FEMALE>
+<R-REL_SISTER-IN-LAW> <R-DOB_1494?>
+
+<P_I,343>
+
+{ED:XXXVI_THOMAS_ST._AUBYN_TO_LADY_LISLE._3_FEBRUARY_?1533.}
+
+AUTHOR:THOMAS_ST._AUBYN:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:HONOR[N.GRENVILLE]:FEMALE:SISTER_IN_LAW:1494?:39?
+LETTER:LISLE_001:E1:1533:AUTOGRAPH:FAMILY_OTHER
+As hartlye as maie bee with pene expreste my dewptie done y hunblye
+recommend me to you LISLE,I,343.001.1
+
+AUTHOR:THOMAS_ST._AUBYN:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:HONOR[N.GRENVILLE]:FEMALE:SISTER_IN_LAW:1494?:39?
+LETTER:LISLE_001:E1:1533:AUTOGRAPH:FAMILY_OTHER
+& soe dothe yowr gentyll suster my lovinge bedfelowe LISLE,I,343.001.2
+
+AUTHOR:THOMAS_ST._AUBYN:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:HONOR[N.GRENVILLE]:FEMALE:SISTER_IN_LAW:1494?:39?
+LETTER:LISLE_001:E1:1533:AUTOGRAPH:FAMILY_OTHER
+& y wolde wee myght bee hartlye recommendyd to my gode lorde your
+bedfelowe wyth moste lowlye thanckes for your gode manyfolde Kyndenes &
+for your venyson . a tegge whiche John Davie & Pyttes sentt me from
+your park att Omberleye ayenst Sentt Crewen is feste .
+LISLE,I,343.001.3
+
+AUTHOR:THOMAS_ST._AUBYN:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:HONOR[N.GRENVILLE]:FEMALE:SISTER_IN_LAW:1494?:39?
+LETTER:LISLE_001:E1:1533:AUTOGRAPH:FAMILY_OTHER
+hitt dyd me gode plesour . LISLE,I,343.001.4
+
+AUTHOR:THOMAS_ST._AUBYN:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:HONOR[N.GRENVILLE]:FEMALE:SISTER_IN_LAW:1494?:39?
+LETTER:LISLE_001:E1:1533:AUTOGRAPH:FAMILY_OTHER
+Also my seid bedfelowe thankyth you hartlye for her beedes .
+LISLE,I,343.001.5
+
+AUTHOR:THOMAS_ST._AUBYN:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:HONOR[N.GRENVILLE]:FEMALE:SISTER_IN_LAW:1494?:39?
+LETTER:LISLE_001:E1:1533:AUTOGRAPH:FAMILY_OTHER
+hitt is faire & none syche in All Cornwall thatt y knowe . /
+LISLE,I,343.001.6
+
+AUTHOR:THOMAS_ST._AUBYN:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:HONOR[N.GRENVILLE]:FEMALE:SISTER_IN_LAW:1494?:39?
+LETTER:LISLE_001:E1:1533:AUTOGRAPH:FAMILY_OTHER
+Also gode Madame y have recevyd your letter & Commission
+LISLE,I,343.001.7
+
+AUTHOR:THOMAS_ST._AUBYN:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:HONOR[N.GRENVILLE]:FEMALE:SISTER_IN_LAW:1494?:39?
+LETTER:LISLE_001:E1:1533:AUTOGRAPH:FAMILY_OTHER
+& y shall endever my selff with All diligence to doe in all thinges
+comprised in the same accordynglye to your commaundementt as y wolde to
+my selff . / LISLE,I,343.001.8
+
+AUTHOR:THOMAS_ST._AUBYN:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:HONOR[N.GRENVILLE]:FEMALE:SISTER_IN_LAW:1494?:39?
+LETTER:LISLE_001:E1:1533:AUTOGRAPH:FAMILY_OTHER
+My bedfelowe & y have send to my seid gode lorde & you a dosyn of
+puffyns whiche Boswarthogga or John Keagwyn of Mountes baye shall
+delyvere you LISLE,I,343.001.9
+
+AUTHOR:THOMAS_ST._AUBYN:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:HONOR[N.GRENVILLE]:FEMALE:SISTER_IN_LAW:1494?:39?
+LETTER:LISLE_001:E1:1533:AUTOGRAPH:FAMILY_OTHER
+if hitt maie doe you Anye pleasour y wolde bee glad as owre Lorde
+knoweth , whoe euer preserue you LISLE,I,343.001.10
+
+AUTHOR:THOMAS_ST._AUBYN:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:HONOR[N.GRENVILLE]:FEMALE:SISTER_IN_LAW:1494?:39?
+LETTER:LISLE_001:E1:1533:AUTOGRAPH:FAMILY_OTHER
+Amen / LISLE,I,343.001.11
+
+AUTHOR:THOMAS_ST._AUBYN:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:HONOR[N.GRENVILLE]:FEMALE:SISTER_IN_LAW:1494?:39?
+LETTER:LISLE_001:E1:1533:AUTOGRAPH:FAMILY_OTHER
+Writen on Sentt Blasye is daie with verry lytill leysour with the rude
+hand of me your olde Kanaffe Thomas Seyntaubyn LISLE,I,343.001.12
+
+AUTHOR:THOMAS_ST._AUBYN:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:HONOR[N.GRENVILLE]:FEMALE:SISTER_IN_LAW:1494?:39?
+LETTER:LISLE_001:E1:1533:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED:} To the right honorabyll & his syngler gode ladye my
+ladye lysle bee this delyuered . LISLE,I,343.001.13
+
+<Q_LIS_A_1533_FS_JNORTON> <L_LISLE_002> <A_JOHN_NORTON> <A-GENDER_MALE>
+<A-REL_FAMILY_SERVANT/PURSUR> <A-DOB_--->
+<R_HONOR_PLANTAGENET[N.GRENVILLE]> <R-GENDER_FEMALE> <R-REL_--->
+<R-DOB_1494?>
+
+<P_I,485>
+
+{ED:16_JOHN_NORTON_TO_LADY_LISLE._10_JULY_1533.}
+
+{COM:SIGN_OF_CROSS_OMITTED}
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+Jhesus LISLE,I,485.002.14
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+1533 LISLE,I,485.002.15
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+Ryght honorabell and my most ssyngular good Lady acordyng to my dewty /
+pleasyth hytt your good Ladysshyp to be athvartyssed that the iiij=th=
+day of thys present movnth of July I sent your Ladysshyp by the hands
+of John Rede from the castell of porchestar a lettar and also my boke
+of all Reconynges of the vyayg whych I mayd in your ballynggar to the
+Iell of man & Ierland whych Lettar and Reconyngs I tryst your
+ladysshypp hath Reseyvyd // LISLE,I,485.002.16
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+and consarnyng that cawys I wyll desyar you to be good lady to me & to
+geue sum Credens ther to / , that the trevght may be hard & sumewhat
+Regardyd LISLE,I,485.002.17
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+for whereas my lord was in formyd bee falls in formasyon a genst me / I
+never offendyd hys Lordshypp nor you in noo such cavys
+LISLE,I,485.002.18
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+I take god to Record & all the worle LISLE,I,485.002.19
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+for as for the Lambe that my lord toke dyspleasor with me for // hytt
+was brought to the beddys syde in the long howys wher as I lay or I had
+any knolyg ther of LISLE,I,485.002.20
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+and for the byll that was sent to your ladysshyp a genst me in my
+Reconynges your ladysshypp shall parseyve be my boke the trewght where
+in can be no dysseyght , LISLE,I,485.002.21
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+for hyt was nott wrettyn yestarday nor to day butt at the <P_I,486>
+very tyem as the date ther in doth appeyr // LISLE,I,486.002.22
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+Howebe hytt / ye were informyd that I shold not yves my self well at
+porchestar I tryst ther ys no onest man that can nor wyll Report ovn to
+my lord nor your ladysshypp that euer I yevsyd my self to any dys honar
+ovn to you or dysproffyt // LISLE,I,486.002.23
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+but hyt was to my nown hynderance in spendyng of my nown mony whych now
+I fynd and grettley Repent / LISLE,I,486.002.24
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+but savyng your Ladyshypps dyspleasor // thos tale berrars whych
+{TEXT:whych} soo hath informyd you ar Crafty them self
+LISLE,I,486.002.25
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+and Grovggyth that any man schold in Joye a penny younder my lord & you
+savyng only they / Whoo be ther Cravft wyll lat nothyng skape them but
+wyll have a fflyes of every thyng that passyght ther hand whych thyng
+ys knovn // but not spokyn of / LISLE,I,486.002.26
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+ffor they that doth $kno $hyt {TEXT:knohyt} dar not geue knolyg to my
+Lord nor your {TEXT:your} ladysshypp for feyr of thos partys dyspleasor
+// LISLE,I,486.002.27
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+but I tryst that ther own deds shall be ther aqusar at lenght /
+LISLE,I,486.002.28
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+Also wher as your pleasor was that I shold a had a coffar & a Jacat / I
+had the coffar with mvch a doo LISLE,I,486.002.29
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+but the Jacat I cowd not haue LISLE,I,486.002.30
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+for hytt ys a ffytt thyng for hys own yeves LISLE,I,486.002.31
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+in thys I wyll desyar your good ladysshypp to take no dyspleasor with
+me that I schold thys attempt you in my wrettyng whych yll doth be comm
+me being such a vyell parsson / howbe hytt ys the thyng that <P_I,487>
+doth tovch my lyvyng & hath povt me to a grete Reproche heyr A mong my
+frends LISLE,I,487.002.32
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+for hyt ys sayd that I have offendyd my lord & your ladysshypp //
+grettar than I trvst myn offens ys /// LISLE,I,487.002.33
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+& wher as your Ladysshypp spekt to me of the new canvas hytt ys in the
+shypp LISLE,I,487.002.34
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+for the mastar hath hytt in hys costody LISLE,I,487.002.35
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+& all so ther ys a peyr of Schetes a gabardyen a forrest byll & a
+kettell of coppar whych cam out of bykelys kreyar and ys not in the
+Ienuetory whych kettell ys worth iiij=s= or a krowne LISLE,I,487.002.36
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+for hytt ys very substansyall / LISLE,I,487.002.37
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+yf hyt be your ladysshypps pleasor to geue hyt them ther hyt ys
+LISLE,I,487.002.38
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+for hytt was not my chavns to In yove the vallar of vj=d= be the takyng
+of hyr how be othar men can have // LISLE,I,487.002.39
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+but I was seur allways of most payn & dyspleser LISLE,I,487.002.40
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+but othar men had the profytes & the thankes / LISLE,I,487.002.41
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+in thys I wyll desyar my Lord & your good ladysshypp to parden me and
+to take no dyspleasor of thys my sympyll wretyng in the wey of charyte
+& for goddyssake // but that I may haue your good mynd favar & good
+Report LISLE,I,487.002.42
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+& than I trust to gett my lyvyng in the wey of trught as knoith Jeshu
+who presarve you in helth & honnor to your hartes most desyar whych
+dayly $shall $be {TEXT:shalbe} my prayar LISLE,I,487.002.43
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+wrettyn in London the x=ith= day of July Be your dayly orator & bedman
+whyll I leue John Norton LISLE,I,487.002.44
+
+AUTHOR:JOHN_NORTON:MALE:FAMILY_SERVANT/PURSUR:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_002:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+{ED:ADDRESSED:} To the $right honorable and <em> my most </em> singular
+good <em> lady my </em> Lady the $vycovntes lysley in Callys .
+LISLE,I,487.002.45
+
+<Q_LIS_A_1533_T_JCAPON> <L_LISLE_003> <A_JOHN_CAPON> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_ARTHUR_PLANTAGENET> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_--->
+
+<P_I,504>
+
+{ED:28_SALCOT_[CAPON],_ABBOT_OF_HYDE,_TO_LORD_LISLE._19_AUGUST_153 3.}
+
+AUTHOR:JOHN_CAPON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_003:E1:1533:AUTOGRAPH:OTHER
+Honorabyll & my syngler goode Lorde afftyr mooste humbyll commendacyon
+to your Lordeschyp & to my goode lady your Wyffe thes may be to
+aduertysse you that mastyr Jamys your yonge gentyllmane nowe beynge
+atte reedynge ys In goode Helthe & very weell exercysde In Hys lernynge
+LISLE,I,504.003.46
+
+AUTHOR:JOHN_CAPON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_003:E1:1533:AUTOGRAPH:OTHER
+my prior off laate was with hyme LISLE,I,504.003.47
+
+AUTHOR:JOHN_CAPON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_003:E1:1533:AUTOGRAPH:OTHER
+& tellys me that He ys very weelle orderyde LISLE,I,504.003.48
+
+AUTHOR:JOHN_CAPON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_003:E1:1533:AUTOGRAPH:OTHER
+& as for newys wee have noone worthe +te wrytynge Butt that my Lorde
+off Bangoor ys latlly departyde this transytory lyffe
+LISLE,I,504.003.49
+
+AUTHOR:JOHN_CAPON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_003:E1:1533:AUTOGRAPH:OTHER
+& allssoo wee have neede off reyne LISLE,I,504.003.50
+
+AUTHOR:JOHN_CAPON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_003:E1:1533:AUTOGRAPH:OTHER
+I pray gode sende ytt vs LISLE,I,504.003.51
+
+AUTHOR:JOHN_CAPON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_003:E1:1533:AUTOGRAPH:OTHER
+& ovyr that for my parte I have as well as oder a greete mys off your
+goode Lordeschyppe LISLE,I,504.003.52
+
+AUTHOR:JOHN_CAPON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_003:E1:1533:AUTOGRAPH:OTHER
+Mastyr George your sune ys In goode Helthe LISLE,I,504.003.53
+
+AUTHOR:JOHN_CAPON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_003:E1:1533:AUTOGRAPH:OTHER
+& dayly encreecythe in hys lernynge LISLE,I,504.003.54
+
+AUTHOR:JOHN_CAPON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_003:E1:1533:AUTOGRAPH:OTHER
+& ys as goode chylde as may be LISLE,I,504.003.55
+
+AUTHOR:JOHN_CAPON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_003:E1:1533:AUTOGRAPH:OTHER
+I have sure truste He schalle prove A greett wyssmane
+LISLE,I,504.003.56
+
+AUTHOR:JOHN_CAPON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_003:E1:1533:AUTOGRAPH:OTHER
+& prey our <P_I,505> sauyor preserue your goode Lordeschyppe
+LISLE,I,505.003.57
+
+AUTHOR:JOHN_CAPON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_003:E1:1533:AUTOGRAPH:OTHER
+Wryttyne att Hyde abbey the tuysday nexte afftyr the assumpcyon off our
+lady LISLE,I,505.003.58
+
+AUTHOR:JOHN_CAPON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_003:E1:1533:AUTOGRAPH:OTHER
+your lovynge bedysmane John Abbotte off Hyde LISLE,I,505.003.59
+
+AUTHOR:JOHN_CAPON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_003:E1:1533:AUTOGRAPH:OTHER
+{ED:ADDRESSED:} to the rythe Honorabyll my Lorde lyssley
+LISLE,I,505.003.60
+
+AUTHOR:JOHN_CAPON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_003:E1:1533:AUTOGRAPH:OTHER
+or In hys absence to my Lady hys wyffe with speede . LISLE,I,505.003.61
+
+<Q_LIS_A_1533_FS_JCHERITON> <L_LISLE_004> <A_JOHN_CHERITON>
+<A-GENDER_MALE> <A-REL_FAMILY_SERVANT> <A-DOB_--->
+<R_ARTHUR_PLANTAGENET> <R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_I,562>
+
+{ED:50A_JOHN_CHERITON_TO_LORD_LISLE._24_SEPTEMBER_1533.}
+
+{COM:CHERITON'S_EXTRA_/S_REMOVED_FROM_PARSED_VERSION}
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+Ihesus LISLE,I,562.004.62
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+anno 1533 the 24 Day of Syptymber att pyse LISLE,I,562.004.63
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+Ryghtt Aownerabyll and my syngeler good lorde my dute Remymbryd /
+plesethe your good lordeschyp to a know part of the nvys her /
+LISLE,I,562.004.64
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+In pise your lorde schep schall vnn der stonde that the pope Com In to
+pise the xxiij ty Day of Syptymber / and be ffor hym the Corpys Domyne
+and wethe hym xvj Cardenallys and a C spermyn and myn In harnes and
+hande gonnys to the valler of a C mor LISLE,I,562.004.65
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+and he and the Carde nallys and the Duke of fflurynse has In pise a
+boue ij m=l= myn / LISLE,I,562.004.66
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+the moste partt Iyntyll myn / LISLE,I,562.004.67
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+and the pop ys Remouyd aowtt of Rome wethe moste partt of all hes
+bagage / LISLE,I,562.004.68
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+my lorde the Con tre sayes her that he wyll torne no more a gayne to
+Rome / LISLE,I,562.004.69
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+and his myn sayes that he wyll go to a plas that ys Callyd nysse In the
+Dvuke of Saue wayes Con tre / LISLE,I,562.004.70
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+and the Duke of Saue Waye has synde hym worde that he schall not londe
+In hes Countre / LISLE,I,562.004.71
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+and ther the ffran she Kynge has a pyntyd for to mytt $weth $the
+{TEXT:wethe} pop at the Sayd Dukys Contre / In nysse LISLE,I,562.004.72
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+and the Duke / In leke wysse has synde worde to the ffransche Kynge
+that he shall not Comm In to hes londe / wherffor the <P_I,563> pop
+wyll londe at marsylles / In the ffransche Kynges lond /
+LISLE,I,563.004.73
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+my lorde the popys Sarvantes says that hett ys ffor a mare a ge be
+tyxste the popys doffter and the ffransche Kynges Son / whiche of thym
+I $can $not {TEXT:canott} show your lorde schep / LISLE,I,563.004.74
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+but my lorde all the Con tre says her pysanses and ffloryntynes that he
+/ goys In to ffranse for to be In a Redenys a gaynste marche ffor to
+make a narme of myn to have war / LISLE,I,563.004.75
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+and Som Saye that hett ys a gaynste the Emprethor / LISLE,I,563.004.76
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+and the mor partt sayes her that hytt ys to take the Em prethorys partt
+ffor to Com In to Engeland Wherffor my lorde her ys nonother Conuere
+Cashon In Evere man ys mowthe but that the pop In tyndys as moche good
+unn to Engelonde as dos a ffoxse a monge a fflocke of schep / wherffor
+I be seche Jhesus for to saue Engelonde and Synde thym lytyll powre
+that wolle hytt / LISLE,I,563.004.77
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+and E tt my lorde / I can haue nonother pasage her but In the same nave
+that the pop saylles In the wheche ys x galles and viij grytt shepys
+and all marueles wyll a pyntyd that ar synde ffrom the ffransche Kynge
+to the pop / LISLE,I,563.004.78
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+and I In tynde to tare In marsylles to a know mor nvys
+LISLE,I,563.004.79
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+and than wethe all the spyd that maye be I wyll synde your lorde schep
+worde / LISLE,I,563.004.80
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+by the gras of god ho Euer synde your lordeschyp and my good lade longe
+lyffe wethe moche aowner LISLE,I,563.004.81
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+and at <P_I,564> the plesyr of god to synd your lordeschep by my good
+lade a son and ayre to make your good lordeschep and my good lade glad
+a myn LISLE,I,564.004.82
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+By your sarvante and bydman John Cheryton LISLE,I,564.004.83
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+my lorde / as ffor aowre holle ffader the pop he has ij the ffayryste
+wemyn to hys wyuys that Euer I sawe aowtt of Engelonde /
+LISLE,I,564.004.84
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+ffor thaye ar mor lekyn angellys than Erle wemyn / LISLE,I,564.004.85
+
+AUTHOR:JOHN_CHERITON:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_004:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+and the pop syndes mor myn ffor to wat a pon thym than he dyd ffor to
+wat a pon the Corpys Dome / LISLE,I,564.004.86
+
+<Q_LIS_A_1533_FS_JHAWKESW> <L_LISLE_005> <A_JAMES_HAWKESWORTH>
+<A-GENDER_MALE> <A-REL_FAMILY_SERVANT> <A-DOB_--->
+<R_HONOR_PLANTAGENET[N.GRENVILLE]> <R-GENDER_FEMALE> <R-REL_--->
+<R-DOB_1494?>
+
+<P_I,572>
+
+{ED:53_JAMES_HAWKESWORTH_TO_LADY_LISLE._26_SEPTEMBER_1533.}
+
+AUTHOR:JAMES_HAWKESWORTH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_005:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+Jhesu LISLE,I,572.005.87
+
+AUTHOR:JAMES_HAWKESWORTH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_005:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+Ryght onorabyll and specyall gud lady I haue me harttylly recoWmend vn
+to yoW trystyng in god that with all yoWes be in gud helthe
+LISLE,I,572.005.88
+
+AUTHOR:JAMES_HAWKESWORTH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_005:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+and that ys my dailly prayor . LISLE,I,572.005.89
+
+AUTHOR:JAMES_HAWKESWORTH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_005:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+allso I haue rasaved yoWr letter LISLE,I,572.005.90
+
+AUTHOR:JAMES_HAWKESWORTH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_005:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+and haue {ED:done} as meche there in as in {ED:me} leys as yoW shall
+forder knoWe by thys berther . LISLE,I,572.005.91
+
+AUTHOR:JAMES_HAWKESWORTH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_005:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+I tryst yoWr gayssys with the oder stofe be well handylled
+LISLE,I,572.005.92
+
+AUTHOR:JAMES_HAWKESWORTH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_005:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+but there sum stoft Ramannyng as yet be hend boght att sobertoun and
+allso att the castyll the qWech thay covd not breng at thys tyme that
+aperys be the invetorry LISLE,I,572.005.93
+
+AUTHOR:JAMES_HAWKESWORTH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_005:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+and for the hogtroWys that yoW do Wrete to me for We haue nonne that ys
+gud LISLE,I,572.005.94
+
+AUTHOR:JAMES_HAWKESWORTH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_005:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+but by the grace of god aganst the nyxte retorne +ge shall haue sum
+proveded with bokettes LISLE,I,572.005.95
+
+AUTHOR:JAMES_HAWKESWORTH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_005:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+for in gud faythe att thys tyme yt Wold be onles yoWr schepe hyd tared
+longer LISLE,I,572.005.96
+
+AUTHOR:JAMES_HAWKESWORTH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_005:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+and as yoWr ladyschepe dos write to me that yoW Wold haue Rekyng with
+me that mornyng that yoW tok yoWr schepyng I amm and Was Reght sorye
+that yoW toke the payne and allso I Was dessyd LISLE,I,572.005.97
+
+AUTHOR:JAMES_HAWKESWORTH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_005:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+neverthe I was att yoWr lodging be for iiij of the cloke
+LISLE,I,572.005.98
+
+AUTHOR:JAMES_HAWKESWORTH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_005:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+but I Wold I hayd waygyd the nyght so that I hayd spkyng With yoW
+LISLE,I,572.005.99
+
+AUTHOR:JAMES_HAWKESWORTH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_005:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+allso I haue delyueryd to father tey the beyd that yoW Worte for /
+LISLE,I,572.005.100
+
+AUTHOR:JAMES_HAWKESWORTH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_005:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+my Wyfe hays send yoWr ladyschep alyttyll barrell of verges
+LISLE,I,572.005.101
+
+AUTHOR:JAMES_HAWKESWORTH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_005:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+yf that yt leyke yoW <P_I,573> Well she shall proved for yoW
+LISLE,I,573.005.102
+
+AUTHOR:JAMES_HAWKESWORTH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_005:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+Madayme +ge hayd for to my lord to ramembrans for the ploWght that he
+Wryttys to my for {ED:to} sek LISLE,I,573.005.103
+
+AUTHOR:JAMES_HAWKESWORTH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_005:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+hevery mann says there Was none left LISLE,I,573.005.104
+
+AUTHOR:JAMES_HAWKESWORTH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_005:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+and thus almeghthy haue {ED:you} in hys blessed keppyng noW and ever
+And all yoWrs Amen LISLE,I,573.005.105
+
+AUTHOR:JAMES_HAWKESWORTH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_005:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+Wrettyn in parttysmoWght the xxvj day of septymber by yoWr servand
+James Hawkyssworthe LISLE,I,573.005.106
+
+AUTHOR:JAMES_HAWKESWORTH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:LISLE_005:E1:1533:AUTOGRAPH:FAMILY_SERVANT
+{ED:ADDRESSED:} To the Ryght onorabyll and my specyall gud lady and
+mastres the vyconttes lysley thys be delyueryd . LISLE,I,573.005.107
+
+<Q_LIS_A_1533_T_HHUTTOFT> <L_LISLE_006> <A_HARRY_HUTTOFT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_ARTHUR_PLANTAGENET>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_I,591>
+
+{ED:64_HARRY_HUTTOFT_TO_LORD_LISLE}
+
+{COM:SIGN_OF_CROSS_OMITTED}
+
+AUTHOR:HARRY_HUTTOFT:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_006:E1:1533:AUTOGRAPH:OTHER
+Anno 1533. the 26. day of october . LISLE,I,591.006.108
+
+AUTHOR:HARRY_HUTTOFT:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_006:E1:1533:AUTOGRAPH:OTHER
+in Suhte LISLE,I,591.006.109
+
+AUTHOR:HARRY_HUTTOFT:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_006:E1:1533:AUTOGRAPH:OTHER
+Ryght honorable & my Singler good lorde . wythe dewe recommendacons my
+dewty premised etc . pleassithe yt your good lordeshipp . I haue
+Receyuyd your letter with twoo of Cheretons . directed vnto your
+lordeshipp / And your pleasure by the same with the circumstans . very
+well perceyuyd / LISLE,I,591.006.110
+
+AUTHOR:HARRY_HUTTOFT:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_006:E1:1533:AUTOGRAPH:OTHER
+And <P_I,592> according my ' dewty ' for the Accomplyshement of the
+same : incontynently . have spoken with Nicolin de Egra And Antony
+Guydott and perceyuyd . that your shipp is longe syns departed from .
+Cadis LISLE,I,592.006.111
+
+AUTHOR:HARRY_HUTTOFT:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_006:E1:1533:AUTOGRAPH:OTHER
+Howe be it . there . Chereton & the merchaunttes wer at great stryff .
+and in the lawe . LISLE,I,592.006.112
+
+AUTHOR:HARRY_HUTTOFT:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_006:E1:1533:AUTOGRAPH:OTHER
+and spent C ducates and more / LISLE,I,592.006.113
+
+AUTHOR:HARRY_HUTTOFT:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_006:E1:1533:AUTOGRAPH:OTHER
+And after ward departed LISLE,I,592.006.114
+
+AUTHOR:HARRY_HUTTOFT:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_006:E1:1533:AUTOGRAPH:OTHER
+and arryved in savete at leghorne the 12. day of Auguste .
+LISLE,I,592.006.115
+
+AUTHOR:HARRY_HUTTOFT:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_006:E1:1533:AUTOGRAPH:OTHER
+And there after her dyspayche . to depart for Candye / where wee Iuge
+god willing she is be fore this day . <paren> And laden / soo that it
+may please god she is Commyng homeward by this day . <paren> And by
+experyens to be estemyd at home by Crystmas . LISLE,I,592.006.116
+
+AUTHOR:HARRY_HUTTOFT:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_006:E1:1533:AUTOGRAPH:OTHER
+<paren> And as farre as they know . notwithstanding the great troble &
+varyans that Contynuyth be twene the Captayn & merchaunttes the shipp
+shall contynew her vyage / whiche god send home in savytie /
+LISLE,I,592.006.117
+
+AUTHOR:HARRY_HUTTOFT:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_006:E1:1533:AUTOGRAPH:OTHER
+And then your lordeshipp $shall $be {TEXT:shalbe} avysed of all the
+trobels . whiche woll not be a litell . LISLE,I,592.006.118
+
+AUTHOR:HARRY_HUTTOFT:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_006:E1:1533:AUTOGRAPH:OTHER
+Moreover I humbly thank your lordeshipp . for your bountefull godenes &
+favor shewyd vnto my seruant & this bringer wherof hathe not bene /
+ffewe ralacions made . affermyng them selfis not to be a litell bounde
+vnto your lordeshipp for the same / LISLE,I,592.006.119
+
+AUTHOR:HARRY_HUTTOFT:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_006:E1:1533:AUTOGRAPH:OTHER
+And this the holy gost preserue your lordeshipp with my lady your wyffe
+to long & prosperous lyffe etc . LISLE,I,592.006.120
+
+AUTHOR:HARRY_HUTTOFT:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_006:E1:1533:AUTOGRAPH:OTHER
+By your seruant . Harry Huttoft LISLE,I,592.006.121
+
+AUTHOR:HARRY_HUTTOFT:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_006:E1:1533:AUTOGRAPH:OTHER
+{ED:ADDRESSED:} To the right honorable & his Singler good lorde my
+lorde lysly . lorde deputye of Calis . LISLE,I,592.006.122
+
+<Q_LIS_A_1534_T_EWHETHILL> <L_LISLE_007> <A_ELIZABETH_WHETHILL>
+<A-GENDER_FEMALE> <A-REL_---> <A-DOB_--->
+<R_HONOR_PLANTAGENET[N.GRENVILLE]> <R-GENDER_FEMALE> <R-REL_--->
+<R-DOB_1494?>
+
+<P_II,163>
+
+{ED:201_LADY_WHETHILL_TO_LADY_LISLE._30_MAY_1534.}
+
+AUTHOR:ELIZABETH_WHETHILL:FEMALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:40?
+LETTER:LISLE_007:E1:1534:AUTOGRAPH:OTHER
+madame in the beste manar that {in}_P I cane I reccommand me vn to your
+ladychep & to my good lorde your housbond thankyng your ladychep for
+your good lettar LISLE,II,163.007.123
+
+AUTHOR:ELIZABETH_WHETHILL:FEMALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:40?
+LETTER:LISLE_007:E1:1534:AUTOGRAPH:OTHER
+& glad I am to here of your good wyllfar & of all yours
+LISLE,II,163.007.124
+
+AUTHOR:ELIZABETH_WHETHILL:FEMALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:40?
+LETTER:LISLE_007:E1:1534:AUTOGRAPH:OTHER
+and madame I thanke your ladychep for the gret payne yow toke in
+festyng of my gestes at the franchferyte LISLE,II,163.007.125
+
+AUTHOR:ELIZABETH_WHETHILL:FEMALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:40?
+LETTER:LISLE_007:E1:1534:AUTOGRAPH:OTHER
+I trouste no my nonorabell yeres comes in that I had soche a lady to
+fornes my rome LISLE,II,163.007.126
+
+AUTHOR:ELIZABETH_WHETHILL:FEMALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:40?
+LETTER:LISLE_007:E1:1534:AUTOGRAPH:OTHER
+and madam wher as yow tretyn me fordar I moste now nedes make haste
+home for the gret daynger I stond in . LISLE,II,163.007.127
+
+AUTHOR:ELIZABETH_WHETHILL:FEMALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:40?
+LETTER:LISLE_007:E1:1534:AUTOGRAPH:OTHER
+bout ther es a nolde sayeng thretend men lyue long LISLE,II,163.007.128
+
+AUTHOR:ELIZABETH_WHETHILL:FEMALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:40?
+LETTER:LISLE_007:E1:1534:AUTOGRAPH:OTHER
+madam I thenke long tell I se yow LISLE,II,163.007.129
+
+AUTHOR:ELIZABETH_WHETHILL:FEMALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:40?
+LETTER:LISLE_007:E1:1534:AUTOGRAPH:OTHER
+for and I war at calys a gene I wolde no more take on me to be a sutar
+LISLE,II,163.007.130
+
+AUTHOR:ELIZABETH_WHETHILL:FEMALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:40?
+LETTER:LISLE_007:E1:1534:AUTOGRAPH:OTHER
+madam as to good mastres stayinges es stell a sutar with a gret bely
+LISLE,II,163.007.131
+
+AUTHOR:ELIZABETH_WHETHILL:FEMALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:40?
+LETTER:LISLE_007:E1:1534:AUTOGRAPH:OTHER
+I have pete to se har now LISLE,II,163.007.132
+
+AUTHOR:ELIZABETH_WHETHILL:FEMALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:40?
+LETTER:LISLE_007:E1:1534:AUTOGRAPH:OTHER
+mastar cromwyll hase syned har to the kynges atornay for wrytynges that
+cholde be made LISLE,II,163.007.133
+
+AUTHOR:ELIZABETH_WHETHILL:FEMALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:40?
+LETTER:LISLE_007:E1:1534:AUTOGRAPH:OTHER
+& he dryues her of that che makes as moche sute to hem now as che dede
+to mastar cromwyll LISLE,II,163.007.134
+
+AUTHOR:ELIZABETH_WHETHILL:FEMALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:40?
+LETTER:LISLE_007:E1:1534:AUTOGRAPH:OTHER
+bout che sayes che troustes thes terme to be despeched
+LISLE,II,163.007.135
+
+AUTHOR:ELIZABETH_WHETHILL:FEMALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:40?
+LETTER:LISLE_007:E1:1534:AUTOGRAPH:OTHER
+madam for lake of a good pen & of a good wrytear I fere me yow chall
+haue moche warke to rede thes my hond as god knoes ho euar presarue yow
+& all yours LISLE,II,163.007.136
+
+AUTHOR:ELIZABETH_WHETHILL:FEMALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:40?
+LETTER:LISLE_007:E1:1534:AUTOGRAPH:OTHER
+madame I wolde be glad to here ho mastres ane dose in franse
+LISLE,II,163.007.137
+
+AUTHOR:ELIZABETH_WHETHILL:FEMALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:40?
+LETTER:LISLE_007:E1:1534:AUTOGRAPH:OTHER
+& I beseke your ladychep that thes letter may recommand me to all the
+gentyll <P_II,164> wemen your Doughttares LISLE,II,164.007.138
+
+AUTHOR:ELIZABETH_WHETHILL:FEMALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:40?
+LETTER:LISLE_007:E1:1534:AUTOGRAPH:OTHER
+my to maydes hathe them humbly recommended to your ladychep and to the
+gentyllwemen LISLE,II,164.007.139
+
+AUTHOR:ELIZABETH_WHETHILL:FEMALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:40?
+LETTER:LISLE_007:E1:1534:AUTOGRAPH:OTHER
+wrettyn in haste the xxx day of may with the sempyll hond of har that
+es your owne to har lytyll pour Dame Elyzhabet whettyll
+LISLE,II,164.007.140
+
+AUTHOR:ELIZABETH_WHETHILL:FEMALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:40?
+LETTER:LISLE_007:E1:1534:AUTOGRAPH:OTHER
+To the ryght honorabell my lady lysle at calys LISLE,II,164.007.141
+
+<Q_LIS_A_1535_FS_EDCLIFFORD> <L_LISLE_008> <A_EDWARD_CLIFFORD>
+<A-GENDER_MALE> <A-REL_FAMILY_SERVANT> <A-DOB_--->
+<R_ARTHUR_PLANTAGENET> <R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_II,534>
+
+{ED:423_EDWARD_CLIFFORD_TO_LORD_LISLE._22_JULY_1535.}
+
+AUTHOR:EDWARD_CLIFFORD:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_008:E1:1535:AUTOGRAPH:FAMILY_SERVANT
+Most humly schewyd vn to yowr good Lordschyp that wher yow of yowr most
+abundant goodnes hathe wryttyn vn to Mr. secrytory & on to master henry
+knewet In my fawar for the mor assurans of my rom yf yt plesse yowr god
+Lordschyp to be adwartysyd that at my Londyng at dowar I mett wythe
+torne redy to tak passage toward calys LISLE,II,534.008.142
+
+AUTHOR:EDWARD_CLIFFORD:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_008:E1:1535:AUTOGRAPH:FAMILY_SERVANT
+but what ys hys Intent I know not nor how he hays sped wher for yf yt
+wyll plesse yowr Lordschyp to be so good Lord vnto me as I ma be
+adwartysyd of yowr forther plesur In thys be halfe how he hays sped &
+what ys yowr further plessar that I schall doen her at dowar I schall a
+byde & not to depart with my Lettares tyll yt I ma know yowr furthar
+plessuer LISLE,II,534.008.143
+
+AUTHOR:EDWARD_CLIFFORD:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_008:E1:1535:AUTOGRAPH:FAMILY_SERVANT
+so becaws I had no Laysar to wryt vnto yowr Lordschyp I desyryd master
+knyght to be so good vnto me as to showe yowr lorschyp at hys furst
+commyng a Lond that I wold not depart from thys town tyll I know
+furthar of yowr Lordschyps plessur LISLE,II,534.008.144
+
+AUTHOR:EDWARD_CLIFFORD:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_008:E1:1535:AUTOGRAPH:FAMILY_SERVANT
+for yf yowr Lordschyp stek to me I car not how he hathe sped
+LISLE,II,534.008.145
+
+AUTHOR:EDWARD_CLIFFORD:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_008:E1:1535:AUTOGRAPH:FAMILY_SERVANT
+so yt wyll pLeys yowr good Lordschyp to wryt a Latter to master Henry
+Knewet how he hays doyn LISLE,II,534.008.146
+
+AUTHOR:EDWARD_CLIFFORD:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_008:E1:1535:AUTOGRAPH:FAMILY_SERVANT
+I dowt not but to synd syche fryndes to move the King to stond to hys
+$promys & gyft I beyng sworn hys gracys serwant LISLE,II,534.008.147
+
+AUTHOR:EDWARD_CLIFFORD:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_008:E1:1535:AUTOGRAPH:FAMILY_SERVANT
+& may sarw non byt hym LISLE,II,534.008.148
+
+AUTHOR:EDWARD_CLIFFORD:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_008:E1:1535:AUTOGRAPH:FAMILY_SERVANT
+I trust he wyll not forsak me for my fryndys sake but to be good &
+grasyus Lord vnto me LISLE,II,534.008.149
+
+AUTHOR:EDWARD_CLIFFORD:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_008:E1:1535:AUTOGRAPH:FAMILY_SERVANT
+& yf he hathe broght <P_II,535> syche Lettars wyth hym that yowr
+Lordschyp $can $not {TEXT:cannot} deny hym not wythe stondyng the
+{TEXT:the} Letter whyche I broght yf hys Letteres be of mor strenthe
+than myne yet my trust ys so yowr Lordschyp be not hasty $In $amyttyng
+{TEXT:Inamyttyng} hym to fynd a remedy for hym that he ma not have hys
+porpos LISLE,II,535.008.150
+
+AUTHOR:EDWARD_CLIFFORD:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_008:E1:1535:AUTOGRAPH:FAMILY_SERVANT
+or ellys all the fryndys I have schall fayll me wherefor I humly desyre
+yowr god Lordschyp that I may know yowr pLessur as yt schall pLes yow
+LISLE,II,535.008.151
+
+AUTHOR:EDWARD_CLIFFORD:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_008:E1:1535:AUTOGRAPH:FAMILY_SERVANT
+I am sory yt ys my chance thys to trobyll yowr Lordschyp
+LISLE,II,535.008.152
+
+AUTHOR:EDWARD_CLIFFORD:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_008:E1:1535:AUTOGRAPH:FAMILY_SERVANT
+& $can $not {TEXT:canot} desarve yt LISLE,II,535.008.153
+
+AUTHOR:EDWARD_CLIFFORD:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_008:E1:1535:AUTOGRAPH:FAMILY_SERVANT
+but hart & my sarwys schall be yowr Lordschyps whyll I Lywe as knowys
+aLmyty Jesu who presarve Long In honar LISLE,II,535.008.154
+
+AUTHOR:EDWARD_CLIFFORD:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_008:E1:1535:AUTOGRAPH:FAMILY_SERVANT
+wrytt ys I hast att dowar on mary mawdlyn day at nyght By yowr powr
+sarwant & daly bedman edward Clyfford LISLE,II,535.008.155
+
+<Q_LIS_A_1535_FO_MGRENVIL> <L_LISLE_009>
+<A_MARGARET_GRENVILLE[N.KIRKHAM]> <A-GENDER_FEMALE> <A-REL_KIN>
+<A-DOB_1474?> <R_HONOR_PLANTAGENET[N.GRENVILLE]> <R-GENDER_FEMALE>
+<R-REL_KIN> <R-DOB_1494?>
+
+<P_II,586>
+
+{ED:450_MARGARET_GRENVILLE_TO_LADY_LISLE._24_SEPTEMBER_1535.}
+
+AUTHOR:MARGARET_GRENVILLE[N.KIRKHAM]:FEMALE:KIN:1474?:61?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:KIN:1494?:41?
+LETTER:LISLE_009:E1:1535:AUTOGRAPH:FAMILY_OTHER
+Jhesus LISLE,II,586.009.156
+
+AUTHOR:MARGARET_GRENVILLE[N.KIRKHAM]:FEMALE:KIN:1474?:61?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:KIN:1494?:41?
+LETTER:LISLE_009:E1:1535:AUTOGRAPH:FAMILY_OTHER
+honorbell & my senglyr good lady yn the most hartyst wyse that {in}_P
+my por hart can thenke I recommend me vnto your good ladyshepe
+LISLE,II,586.009.157
+
+AUTHOR:MARGARET_GRENVILLE[N.KIRKHAM]:FEMALE:KIN:1474?:61?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:KIN:1494?:41?
+LETTER:LISLE_009:E1:1535:AUTOGRAPH:FAMILY_OTHER
+& as glad I am to her of your good helth at al tymes as of anny woman
+alyf LISLE,II,586.009.158
+
+AUTHOR:MARGARET_GRENVILLE[N.KIRKHAM]:FEMALE:KIN:1474?:61?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:KIN:1494?:41?
+LETTER:LISLE_009:E1:1535:AUTOGRAPH:FAMILY_OTHER
+& I pray Jhesu reward yow for the goodnys that ye have alwayse showyd
+me & to manye other for my sake & to deverse that hath past by calys
+LISLE,II,586.009.159
+
+AUTHOR:MARGARET_GRENVILLE[N.KIRKHAM]:FEMALE:KIN:1474?:61?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:KIN:1494?:41?
+LETTER:LISLE_009:E1:1535:AUTOGRAPH:FAMILY_OTHER
+$a $good {TEXT:agood} Madam whyn shall I deserve part of yowr goodnys /
+LISLE,II,586.009.160
+
+AUTHOR:MARGARET_GRENVILLE[N.KIRKHAM]:FEMALE:KIN:1474?:61?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:KIN:1494?:41?
+LETTER:LISLE_009:E1:1535:AUTOGRAPH:FAMILY_OTHER
+of my dayle prayer my good lord & you be svre // LISLE,II,586.009.161
+
+AUTHOR:MARGARET_GRENVILLE[N.KIRKHAM]:FEMALE:KIN:1474?:61?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:KIN:1494?:41?
+LETTER:LISLE_009:E1:1535:AUTOGRAPH:FAMILY_OTHER
+I wold I wyr won day with yow LISLE,II,586.009.162
+
+AUTHOR:MARGARET_GRENVILLE[N.KIRKHAM]:FEMALE:KIN:1474?:61?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:KIN:1494?:41?
+LETTER:LISLE_009:E1:1535:AUTOGRAPH:FAMILY_OTHER
+& yf I wer so strong as I was when I coverd yow with so many clouthes I
+wold svrly se you // LISLE,II,586.009.163
+
+AUTHOR:MARGARET_GRENVILLE[N.KIRKHAM]:FEMALE:KIN:1474?:61?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:KIN:1494?:41?
+LETTER:LISLE_009:E1:1535:AUTOGRAPH:FAMILY_OTHER
+I have send you a por token by my doufter Jane $grynfyld apayr of
+hossyne of garnsy makeng LISLE,II,586.009.164
+
+AUTHOR:MARGARET_GRENVILLE[N.KIRKHAM]:FEMALE:KIN:1474?:61?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:KIN:1494?:41?
+LETTER:LISLE_009:E1:1535:AUTOGRAPH:FAMILY_OTHER
+wold to Jhesu I had som $plesure to send yow as I am bound //
+LISLE,II,586.009.165
+
+AUTHOR:MARGARET_GRENVILLE[N.KIRKHAM]:FEMALE:KIN:1474?:61?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:KIN:1494?:41?
+LETTER:LISLE_009:E1:1535:AUTOGRAPH:FAMILY_OTHER
+good Madam I am youres LISLE,II,586.009.166
+
+AUTHOR:MARGARET_GRENVILLE[N.KIRKHAM]:FEMALE:KIN:1474?:61?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:KIN:1494?:41?
+LETTER:LISLE_009:E1:1535:AUTOGRAPH:FAMILY_OTHER
+& I be syke Almyghty Jhu send my good lord & yow as mych honore & Iowe
+as <P_II,587> your hartes can desyr to the plesure of god
+LISLE,II,587.009.167
+
+AUTHOR:MARGARET_GRENVILLE[N.KIRKHAM]:FEMALE:KIN:1474?:61?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:KIN:1494?:41?
+LETTER:LISLE_009:E1:1535:AUTOGRAPH:FAMILY_OTHER
+& the blesyd holy gost be with yow LISLE,II,587.009.168
+
+AUTHOR:MARGARET_GRENVILLE[N.KIRKHAM]:FEMALE:KIN:1474?:61?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:KIN:1494?:41?
+LETTER:LISLE_009:E1:1535:AUTOGRAPH:FAMILY_OTHER
+wrytyn the fryday be for sent me+ghell ys day with the por hand of your
+servant & bedwoman Margaryt graynfyld Wedo LISLE,II,587.009.169
+
+AUTHOR:MARGARET_GRENVILLE[N.KIRKHAM]:FEMALE:KIN:1474?:61?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:KIN:1494?:41?
+LETTER:LISLE_009:E1:1535:AUTOGRAPH:FAMILY_OTHER
+To my honorabell & senguler good lady my lady lyle these be deleverd yn
+callys . LISLE,II,587.009.170
+
+<Q_LIS_A_1536_T_JBONDE> <L_LISLE_010> <A_JOHN_BONDE> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_HONOR_PLANTAGENET[N.GRENVILLE]>
+<R-GENDER_FEMALE> <R-REL_---> <R-DOB_1494?>
+
+<P_III,59>
+
+{ED:521_SIR_JOHN_BONDE_TO_LADY_LISLE._10_JANUARY_1536.}
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+Honerable and my synguler goode ladi my duty vnto your goode
+ladischeppe proposede Certifyng your ladischeppe that I haue receuyde
+ij letterys on by the handes of Ric. harrys & a nother by the handes of
+Bremelcuber / LISLE,III,59.010.171
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+as tuchyng my Bokes I wyll sende the Redynge of them at Ester by hym
+that schall brynge vppe your Rentes / LISLE,III,59.010.172
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+as Tuchyng your parke as for palyng Redyng of trynchys & Cuttyng downe
+of ffernys I wylle do as moche as I may doo In the same /
+LISLE,III,59.010.173
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+Also as tuchyng takyng of fysche In the later Ende of the yere the
+water was so grette there was vere lytell take ffrowe Michaelmas vnto
+synte Androw tyde LISLE,III,59.010.174
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+your ladscheppe wrotte vnto me what store of Samon there was In the
+Vatte . / LISLE,III,59.010.175
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+Madam ye haue your lytell keve fulle & the grette Keve halfe full /
+LISLE,III,59.010.176
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+Also as tuchyng Driynde downe of your were Bremellcuber schowide vnto
+your ladischeppe the hoyll & etc . LISLE,III,59.010.177
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+Also as tuchyng the lathys I sente them to Bedeforde be fore wytsontyde
+laste LISLE,III,59.010.178
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+I was at Bedeforde LISLE,III,59.010.179
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+& spacke with Master Degore Grenfylde LISLE,III,59.010.180
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+& he promisyde me that I scholde haue no more besynys with them
+LISLE,III,59.010.181
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+the next Botte that camme be twene schall Cary them
+LISLE,III,59.010.182
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+Madam I truste there {ED:is} no defawte In me LISLE,III,59.010.183
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+Also as tuchyng the Tymber of <P_III,60> Idysleh your ladischeppe
+wrotte vnto me that I scholde haue hyt home thys Somer
+LISLE,III,60.010.184
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+I am ownesertyng to whatte purpose LISLE,III,60.010.185
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+also your ladischeppe hath many othere thynges to be done thys somer
+LISLE,III,60.010.186
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+Also Thomas Norys muste haue as moche Tymber to make xvj Towsaunde of
+Shyndell LISLE,III,60.010.187
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+Also there lacke many moo Schyndell LISLE,III,60.010.188
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+there $will $be {TEXT:wylbe} nede for Them with yn thys vij yeres /
+LISLE,III,60.010.189
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+Also as Tuchyng lyyng yn your parler I was vere sory that your
+ladischeppe summe whatt movyde for the tyme / LISLE,III,60.010.190
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+Madam I lye summe tyme In on Chamber & summe tyme In a nother
+LISLE,III,60.010.191
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+I move my bedde ons In euery sex wekes / LISLE,III,60.010.192
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+Also as Tuchyng Mastres Jayn Basset I wott nott what to say
+LISLE,III,60.010.193
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+Here sustrys $can $not {TEXT:cannott} plesse here LISLE,III,60.010.194
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+your ladischeppe hathe Cumandede to delyuer onto her suche thynges as I
+Tofte was necessarii for hyre LISLE,III,60.010.195
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+it sche wyll not be plesyde / LISLE,III,60.010.196
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+I haue delyuerde vnto here ij federbeddes & iij peere of Shettes with
+all that longyth ther to LISLE,III,60.010.197
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+Also sche hathe ij kee on horsse with other thynges /
+LISLE,III,60.010.198
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+Also sche {COM:PASSAGE_iij_peere_AND_ENDING_thynges_/_Also_sche_REPEATE
+D_IN_THE_EDITION} hath a grehounde lyeth vppon on of the beddes day &
+nyth LISLE,III,60.010.199
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+but hyt be whan sche holdeth hym yn here handes & thatt euery tyme when
+sche goeth to the dores LISLE,III,60.010.200
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+also as Tuchyng Master Bassett obytt I truste hytt schall nott for gete
+with the grace of goode hoo euer <P_III,61> preserve your ladischeppe
+LISLE,III,61.010.201
+
+AUTHOR:JOHN_BONDE:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_010:E1:1536:AUTOGRAPH:OTHER
+ffrowe Womberleh the x=th= day of Ianuarii By me your bedisman Sir John
+Bonde preste LISLE,III,61.010.202
+
+<Q_LIS_A_1536_T_FHALL> <L_LISLE_011> <A_FRANCIS_HALL> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1504?> <R_HONOR_PLANTAGENET[N.GRENVILLE]>
+<R-GENDER_FEMALE> <R-REL_---> <R-DOB_1494?>
+
+<P_III,517>
+
+{ED:783A_FRANCIS_HALL_TO_LADY_LISLE._17_NOVEMBER_1536.}
+
+AUTHOR:FRANCIS_HALL:MALE:_:1504?:32?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_011:E1:1536:AUTOGRAPH:OTHER
+Ryght honorable and my especyall good laady / I have me moost harttely
+Recommendyd vnto your good laadyschyp / LISLE,III,517.011.203
+
+AUTHOR:FRANCIS_HALL:MALE:_:1504?:32?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_011:E1:1536:AUTOGRAPH:OTHER
+and thanke you for your paynes taakyn / and greate goodnes schewid vnto
+my poore wyffe in myn absence and att her greate nyeede /
+LISLE,III,517.011.204
+
+AUTHOR:FRANCIS_HALL:MALE:_:1504?:32?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_011:E1:1536:AUTOGRAPH:OTHER
+but I merveyll whoo durst be soo boold to desyer my good loorde to help
+to Crystyn a wenche / excepte yt be by cawse you sye that my wyffe wyll
+bear butt moddyrs /: LISLE,III,517.011.205
+
+AUTHOR:FRANCIS_HALL:MALE:_:1504?:32?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_011:E1:1536:AUTOGRAPH:OTHER
+for that in especyall / and for dyuerse oothyr thyngs boothe my wyffe
+and I bien much boowndyn wnto my good loorde and you / whyche I praye
+god we may be haable oons to deserve / LISLE,III,517.011.206
+
+AUTHOR:FRANCIS_HALL:MALE:_:1504?:32?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_011:E1:1536:AUTOGRAPH:OTHER
+boothe my loorde Edmond / who is yett styll controleur and / my laady
+have theym moost harttely Recommendyd vnto <em> my good </em> loorde /
+and you / LISLE,III,517.011.207
+
+AUTHOR:FRANCIS_HALL:MALE:_:1504?:32?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_011:E1:1536:AUTOGRAPH:OTHER
+my <P_III,518> sayd Loorde Edmond doothe send you woorde that you nyede
+not to praye & desyer to borrow oony thynge that is hys / but that you
+maye taake yt and vse ytt as your hawn / wherfoore he prayith mayster
+gaynsforthe / to cawse the mayde that kyeps hys howsse to delyuer the
+Credyll for Colls / wheere youre laadyschyp schall appoynte / whyche
+Credyll hys mynde is that you schall occwpy / or oony thynge else
+theere of hys / as youre howen / withought prayinge or sendynge to hym
+for the same / LISLE,III,518.011.208
+
+AUTHOR:FRANCIS_HALL:MALE:_:1504?:32?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_011:E1:1536:AUTOGRAPH:OTHER
+And I doo hartely praye you my good laady that it wold please you to
+have me Recommendyd in alle places and that in best manner as you
+schall thynkke moost myete / as he that longes now soore to sye my good
+loorde and you att Callais / whyche I praye god maye be schortly / and
+to have you / my good loorde / and alle yours euermore in hys moost
+blessyd kyepynge / to hys pleasyr / LISLE,III,518.011.209
+
+AUTHOR:FRANCIS_HALL:MALE:_:1504?:32?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_011:E1:1536:AUTOGRAPH:OTHER
+from london in greate haste the xvij=nd= daye of november / 1536 /
+LISLE,III,518.011.210
+
+AUTHOR:FRANCIS_HALL:MALE:_:1504?:32?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_011:E1:1536:AUTOGRAPH:OTHER
+yours to commande in oony suche seruyce as lyith in my lytyll power
+ffraunncys halle LISLE,III,518.011.211
+
+AUTHOR:FRANCIS_HALL:MALE:_:1504?:32?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:42?
+LETTER:LISLE_011:E1:1536:AUTOGRAPH:OTHER
+{ED:ADDRESSED:} To the right honorable and my good laady lysle in
+Callais . LISLE,III,518.011.212
+
+<Q_LIS_A_1537_FO_MRADCLIF> <L_LISLE_012> <A_MARY_RADCLIFFE>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_--->
+<R_HONOR_PLANTAGENET[N.GRENVILLE]> <R-GENDER_FEMALE> <R-REL_KIN>
+<R-DOB_1494?>
+
+<P_IV,283>
+
+{ED:941_MARY_COUNTESS_OF_SUSSEX_TO_LADY_LISLE._C._21_APRIL_1537.}
+
+AUTHOR:MARY_RADCLIFFE:FEMALE:KIN:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:KIN:1494?:43?
+LETTER:LISLE_012:E1:1537:AUTOGRAPH:FAMILY_OTHER
+madam after my most herty recommendasyons thys $shall $be {TEXT:shalbe}
+to desyr you to be good lady vn to thys berar edward scrarlet as I
+perseve yov haue allways so <P_IV,284> ben wherby he optened at my lord
+your husbands hand the preferment of vj=d= by the day yn the kyngs
+retenue ther / whych lyvyng as I vnderstand by hem ys very lytell
+honestely to mayntayn hem hauenyng wyf & chyldern so that he trosteth
+by the ayd of hys frends her to be avansed to som beter lyvyng makyn
+them to desyr me to wryt to you to be so good lady to hem at my reqwest
+as to speke to my lord that he may mayke an exchang of hes rome ther to
+won of hes owne kynssmen ther whom as I haue byn enformed has don the
+kyng good servys wherfor good madam do thys myche for hem at my desyr
+toward my lord your husband whom I trost $will $be {TEXT:wolbe} the
+beter contentyd to do for hem $at $thys {TEXT:atthys} my desyr to hem &
+you bothe LISLE,IV,284.012.213
+
+AUTHOR:MARY_RADCLIFFE:FEMALE:KIN:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:KIN:1494?:43?
+LETTER:LISLE_012:E1:1537:AUTOGRAPH:FAMILY_OTHER
+& I $shall $be {TEXT:shalbe} glad to do you any lyke pleser yf yt may
+ly en my powr LISLE,IV,284.012.214
+
+AUTHOR:MARY_RADCLIFFE:FEMALE:KIN:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:KIN:1494?:43?
+LETTER:LISLE_012:E1:1537:AUTOGRAPH:FAMILY_OTHER
+& therby ye shall bynd hem contynewally to bere you hys harty seruys as
+he sais he has always don as knoweth God hu send me good newys of your
+delyverans as with hes holp I hop I shall LISLE,IV,284.012.215
+
+AUTHOR:MARY_RADCLIFFE:FEMALE:KIN:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:KIN:1494?:43?
+LETTER:LISLE_012:E1:1537:AUTOGRAPH:FAMILY_OTHER
+wryton yn hast by your louyng nesce mary sussex LISLE,IV,284.012.216
+
+AUTHOR:MARY_RADCLIFFE:FEMALE:KIN:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:KIN:1494?:43?
+LETTER:LISLE_012:E1:1537:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED:} To my Good Lady Lyell this be deliuered .
+LISLE,IV,284.012.217
+
+<Q_LIS_A_1537_T_TDOCKYNGT> <L_LISLE_013> <A_THOMAS_DOCKYNGTON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_ARTHUR_PLANTAGENET>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_IV,446>
+
+{ED:1033_THOMAS_DOCKYNGTON_TO_LORD_LISLE._16_NOVEMBER_1537.}
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+Jhesu LISLE,IV,446.013.218
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+Ryght worchopffull Sir I hartele comand me vnto yow and to my lade my
+god mesteres torstyng in god that ye be in god helthe and all yower
+holsold LISLE,IV,446.013.219
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+& alsow the case of my wryteng to youer lordchepe at thys tyme ys
+letyng yow to vnder stond that I came forme london on sen martenys yeue
+in hugh colton chepe the weche had yt in xxiij ton of bere vij breles
+boter a hoghed of ale ij fardeles of kerse iij yerdes skyerlet for
+mester porters that cost me xijs a yerde and my lades pette cothe and
+hor for chelenes in hon pake <P_IV,447> xv=li= in angeles of myne wythe
+mone thyngs mow LISLE,IV,447.013.220
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+and sow we came to the dones LISLE,IV,447.013.221
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+and there we met wythe a flemyng that ded chout at yes
+LISLE,IV,447.013.222
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+and we ded steryke LISLE,IV,447.013.223
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+and he chame a brde on hos wythe there bothe wythe sordes drau=en=
+LISLE,IV,447.013.224
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+and ded take a tone of bere of yos par fors LISLE,IV,447.013.225
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+and we lost wore tyde LISLE,IV,447.013.226
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+for that tyde wold a brothe vs to kyles LISLE,IV,447.013.227
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+and then the wend chenget LISLE,IV,447.013.228
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+and drofe vs to dover LISLE,IV,447.013.229
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+and there we lay iiij days in the pere for weynd LISLE,IV,447.013.230
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+on frydey we cam owyt at xij. of the cloke LISLE,IV,447.013.231
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+and were querter hover LISLE,IV,447.013.232
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+and sow rone yen a gyne to dover LISLE,IV,447.013.233
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+and le at anker LISLE,IV,447.013.234
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+and ower anker doveff LISLE,IV,447.013.235
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+and fele on the rokes LISLE,IV,447.013.236
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+and broke the che pe LISLE,IV,447.013.237
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+and sanke yore chepe LISLE,IV,447.013.238
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+and I were lyke to perche for help LISLE,IV,447.013.239
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+for now man dorst com ner yes LISLE,IV,447.013.240
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+bot at the last there cam a bot LISLE,IV,447.013.241
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+and savyt yes LISLE,IV,447.013.242
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+bot all my godes are gone and trofe a land LISLE,IV,447.013.243
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+and there the spelt LISLE,IV,447.013.244
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+and toke all that wos good LISLE,IV,447.013.245
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+and wel nat be knowon of notheng bot hemte kes LISLE,IV,447.013.246
+
+<P_IV,448>
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+bot that ye be god lord vn to me I ham kest a wea LISLE,IV,448.013.247
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+and ryte to the con troler and the may=er= for me to make cherche for
+my godes LISLE,IV,448.013.248
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+for the haue yt LISLE,IV,448.013.249
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+for hyt cham to lond there all as thys barer con tell
+LISLE,IV,448.013.250
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+for he sauyt my lyuef LISLE,IV,448.013.251
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+now more to yow at thys tyme bot Jhesu kep yow by yower pore sarvant to
+ys pover thomas Dockyngton LISLE,IV,448.013.252
+
+AUTHOR:THOMAS_DOCKYNGTON:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_013:E1:1537:AUTOGRAPH:OTHER
+Thys Be delyuert to my lord debeyt of Kelyes wythe sped d d
+LISLE,IV,448.013.253
+
+<Q_LIS_A_1538_T_JABOROUGH> <L_LISLE_014> <A_JOHN_A_BOROUGH>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_ARTHUR_PLANTAGENET>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_V,75>
+
+{ED:1127A_JOHN_A_BOROUGH_TO_LORD_LISLE._16_MARCH_1538.}
+
+{COM:SIGN_OF_CROSS_OMITTED}
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+at london thys xvj day of marche LISLE,V,75.014.254
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+Ry+gthe Honorabyll & my moste syngguler good lord my dutty supposyed
+plese hyt yowr lordschypp to be avartysed that y havf ben syens my
+deppartng from calles yn devnscher weher . vnyvarsyall thay ar glad to
+heyr of yowr lordschypps prosperyte & of my good ladys & all yowres /
+LISLE,V,75.014.255
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+and y $havf $ben {TEXT:havfben} at fryestok LISLE,V,75.014.256
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+& havf seyn yowr plase & barttyen & ooddes wyche woodes woll yeld yowr
+lordschypp a good somm of mony yf the vttermest may be made ther of /
+for as suche persons as lowyth yowr lordschypp hathe schowd me that
+ther $will $be {TEXT:wolbe} 1C nobylles more mad to yowr proffyett /
+abovf that Jorg Rolles woll gevff yowr lordschepp / LISLE,V,75.014.257
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+also Thomas norhes schowd me that yowr lordschypp schowyd hem that Jorg
+Rollys schold havf but / xx=li= of the maner . of Ryengesase
+LISLE,V,75.014.258
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+& he sayth that he hathe Resevyd xxx=li= & a bovf senys that tyem /
+LISLE,V,75.014.259
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+yf yowr lordschypp havf not gevyn the bayllywyk of frystok Thomas
+noryes deseryth yowr lordschypp that he may havff hyt yf yowre plesur
+my+gtht so be towardes hem / LISLE,V,75.014.260
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+y thenk yowr lordschypp y had a pese off flesche yn Vnberly /
+LISLE,V,75.014.261
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+and surly the trevth ys yf that yowr lordschypp do natt make a Restren
+for a yer or ij / as well for the warranttes dormant as for other .
+yowr lordschypp schall havf no plesur yn hyt whan ye Com /
+LISLE,V,75.014.262
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+for ther ys fer gam of <P_V,76> Rescoll yf hyt may be favoryd a year or
+ij / LISLE,V,76.014.263
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+as for Master degory granfeld y spak nott with hem LISLE,V,76.014.264
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+for he wase att seys at lanstone LISLE,V,76.014.265
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+y tarred but v days yn th Covnttrie LISLE,V,76.014.266
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+for ther ys gryt deythe yn every plase LISLE,V,76.014.267
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+god a mend hyt at hys plesur / LISLE,V,76.014.268
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+y Cam by hamppton & porttesmoth homwardes LISLE,V,76.014.269
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+thar hard y that owr laddy of sothe wyck ys taken dovne & by lyck the
+priorye $shall $be {TEXT:schalbe} suppresyd / LISLE,V,76.014.270
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+y heyr senys my comyng hether . that yowr lordschypp hathe lyseanse to
+Com awer . LISLE,V,76.014.271
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+the soner the better . by godes gras ffor yowr proffett
+LISLE,V,76.014.272
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+for heyr every man schyevftyd for hem selff LISLE,V,76.014.273
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+my lord admerall hathe iiij prirorys & a nonarye LISLE,V,76.014.274
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+& by seyd that he hathe of the duchery of exavtur torynton &
+fryemyntton & a nother / LISLE,V,76.014.275
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+and Richard pollard hathe Comemarttyn & the park & all exseppt the
+sellwer myen to hem & to hys yeres LISLE,V,76.014.276
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+& he Rewlyth all now yn devnscher . / LISLE,V,76.014.277
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+and the man wyche y havf yn swtte ys becom yn to hys servase to beyr me
+from my Rye+gght that way LISLE,V,76.014.278
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+yf posebylle y pray god helppe me to my Rye+gtht LISLE,V,76.014.279
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+for my tryst ys yf yowr lordschypp com awer . y schall havf the better
+sped / LISLE,V,76.014.280
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+my lord chamberlayen ys nott yn the Cortt wher for y havf nott madd no
+labor to the Kinges gras for the matter wyche y schowd yowr lordschypp
+of by for my deppartyng / LISLE,V,76.014.281
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+my spesyall tryest ys that yowr lordschypp woll onse hayf me yn yowr
+faverabyll Rememberans / LISLE,V,76.014.282
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+thys Jesus presarvff yowr nobyell lordschypp after yowr most Janttell
+harttes deser LISLE,V,76.014.283
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+amen // LISLE,V,76.014.284
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+Yowr porre servantt John a borowgh LISLE,V,76.014.285
+
+AUTHOR:JOHN_A_BOROUGH:MALE:_:_:_
+RECIPIENT:ARTHUR_PLANTAGENET:MALE:_:_:_
+LETTER:LISLE_014:E1:1538:AUTOGRAPH:OTHER
+{ED:ADDRESSED:} Vnto the Ry+gthe Honorabell & my syngguler good lord
+lysley Kyenges deppyttys of calles thys be dd . LISLE,V,76.014.286
+
+<Q_LIS_A_1539_T_JHARRIS> <L_LISLE_015> <A_JOHN_HARRIS> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_HONOR_PLANTAGENET[N.GRENVILLE]>
+<R-GENDER_FEMALE> <R-REL_---> <R-DOB_1494?>
+
+<P_V,613>
+
+{ED:1512_JOHN_HARRIS_TO_LADY_LISLE._AFTER_21_AUGUST_1539.}
+
+AUTHOR:JOHN_HARRIS:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_015:E1:1539:AUTOGRAPH:OTHER
+Ry+gthe honorabolle & worschepe my good {COM:IN_EDITION_mygood_mygoode}
+lade y lowle thonke yowre goode ladeschepe ffor the grete kynesse that
+yt schell {ED:please} to schow me sche kynned nysse at thesse tymme on
+deserfed offe me LISLE,V,613.015.287
+
+AUTHOR:JOHN_HARRIS:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_015:E1:1539:AUTOGRAPH:OTHER
+ffor y & alle the kende that <P_V,614> y chomme offe wyere bonde to yor
+lade schepe sarfysse wylle that we leff LISLE,V,614.015.288
+
+AUTHOR:JOHN_HARRIS:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_015:E1:1539:AUTOGRAPH:OTHER
+sar te fynnge yowr lade schepe wo wasse my frendes ffor my lorde sake &
+yowrre lade schepe sake at thes tymme my lorde scheffe baronde & my
+lord schorton & Sir edworte wyllebe & Sir ed warte Honger fforde and
+master momparsonne & master Hasthlle LISLE,V,614.015.289
+
+AUTHOR:JOHN_HARRIS:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_015:E1:1539:AUTOGRAPH:OTHER
+schertefynge yowre lade schep wo were my fose master thor nelle offe
+Dasete schere ande master charlesse chonkle & Sir Johnn Horse
+LISLE,V,614.015.290
+
+AUTHOR:JOHN_HARRIS:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_015:E1:1539:AUTOGRAPH:OTHER
+the hat cas me a wey LISLE,V,614.015.291
+
+AUTHOR:JOHN_HARRIS:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_015:E1:1539:AUTOGRAPH:OTHER
+& yffe that the schereffe hade not ben good y had benne leke to be
+chaste awye LISLE,V,614.015.292
+
+AUTHOR:JOHN_HARRIS:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_015:E1:1539:AUTOGRAPH:OTHER
+& ther for maddame be god to me at thesse tymme LISLE,V,614.015.293
+
+AUTHOR:JOHN_HARRIS:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_015:E1:1539:AUTOGRAPH:OTHER
+or helles y amme leke to dye wyt thowt my lorde hellpe me now at thesse
+tymme ffor to get myschartore schortle LISLE,V,614.015.294
+
+AUTHOR:JOHN_HARRIS:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_015:E1:1539:AUTOGRAPH:OTHER
+for the wolle stoppe yt yff the maye be possebolle LISLE,V,614.015.295
+
+AUTHOR:JOHN_HARRIS:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_015:E1:1539:AUTOGRAPH:OTHER
+ffor the sey that the wolle chaste me awye yffe the thane be possebolle
+LISLE,V,614.015.296
+
+AUTHOR:JOHN_HARRIS:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_015:E1:1539:AUTOGRAPH:OTHER
+& ther for madam yn the honore offe god hellpe me now or neffore ffor
+to get my schartore wyt spede LISLE,V,614.015.297
+
+AUTHOR:JOHN_HARRIS:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_015:E1:1539:AUTOGRAPH:OTHER
+or helles $i $am {TEXT:yamme} chaste a wye LISLE,V,614.015.298
+
+AUTHOR:JOHN_HARRIS:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_015:E1:1539:AUTOGRAPH:OTHER
+madam y prey yowre lade schepe de syer yowre lade schepe to de syre my
+lorde to hellpe me wyt sped & for the mane for the schewe at thesse
+LISLE,V,614.015.299
+
+AUTHOR:JOHN_HARRIS:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_015:E1:1539:AUTOGRAPH:OTHER
+ffor the schartor y wolle make my frendes here LISLE,V,614.015.300
+
+AUTHOR:JOHN_HARRIS:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_015:E1:1539:AUTOGRAPH:OTHER
+no more to yow at thesse tymme but Jeshus preserffe yow & kepe my good
+lorde LISLE,V,614.015.301
+
+AUTHOR:JOHN_HARRIS:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_015:E1:1539:AUTOGRAPH:OTHER
+amen LISLE,V,614.015.302
+
+AUTHOR:JOHN_HARRIS:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_015:E1:1539:AUTOGRAPH:OTHER
+Be yowre pore bede man and sarwante Johnn Harres LISLE,V,614.015.303
+
+AUTHOR:JOHN_HARRIS:MALE:_:_:_
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_015:E1:1539:AUTOGRAPH:OTHER
+{ED:ADDRESSED:} to the Ry+gthe honorabolle and worschepeffolle my good
+lade & mastres thes be dd . LISLE,V,614.015.304
+
+<Q_LIS_A_1539_T_KWILLOUGH> <L_LISLE_016> <A_KATHARINE_WILLOUGHBY>
+<A-GENDER_FEMALE> <A-REL_---> <A-DOB_1519?>
+<R_HONOR_PLANTAGENET[N.GRENVILLE]> <R-GENDER_FEMALE> <R-REL_--->
+<R-DOB_1494?>
+
+<P_V,634>
+
+{ED:1526_THE_DUCHESS_OF_SUFFOLK_TO_LADY_LISLE._16_AUGUST_1539.}
+
+AUTHOR:KATHARINE_WILLOUGHBY:FEMALE:_:1519?:20?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_016:E1:1539:AUTOGRAPH:OTHER
+Madam in me most harttes wesse I hartele recommend my vnto your
+ladischip LISLE,V,634.016.305
+
+AUTHOR:KATHARINE_WILLOUGHBY:FEMALE:_:1519?:20?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_016:E1:1539:AUTOGRAPH:OTHER
+harttelle thanke you for your good weyn you sentte my weche I ensur you
+ways were good LISLE,V,634.016.306
+
+AUTHOR:KATHARINE_WILLOUGHBY:FEMALE:_:1519?:20?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_016:E1:1539:AUTOGRAPH:OTHER
+and allso I hartelle thank you for your lett dooge you sentt my wer in
+I promyse you / you have douen my no lettell pleser weche I promyse you
+I $shall $be {TEXT:schalbe} glad to aqeuytt wen euyr itt schal lay in
+my to doue you ane pleser to be as rede to itt as ane frend you have
+LISLE,V,634.016.307
+
+AUTHOR:KATHARINE_WILLOUGHBY:FEMALE:_:1519?:20?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_016:E1:1539:AUTOGRAPH:OTHER
+madam my lord my husband hays hem hartelle recommend to you and to my
+lord your husband <P_V,635> LISLE,V,635.016.308
+
+AUTHOR:KATHARINE_WILLOUGHBY:FEMALE:_:1519?:20?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_016:E1:1539:AUTOGRAPH:OTHER
+and thankes you bothe for your kyndnes LISLE,V,635.016.309
+
+AUTHOR:KATHARINE_WILLOUGHBY:FEMALE:_:1519?:20?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_016:E1:1539:AUTOGRAPH:OTHER
+also I pary you to have my hombelle recommend to my lord your husband
+as che weche wold be glad to be aqauntted with hem LISLE,V,635.016.310
+
+AUTHOR:KATHARINE_WILLOUGHBY:FEMALE:_:1519?:20?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_016:E1:1539:AUTOGRAPH:OTHER
+no mor to you att thes tem but I be seche Jesu haue you in hes kypeng
+LISLE,V,635.016.311
+
+AUTHOR:KATHARINE_WILLOUGHBY:FEMALE:_:1519?:20?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:45?
+LETTER:LISLE_016:E1:1539:AUTOGRAPH:OTHER
+weretten att my lord off Schoursberes house in yorkescher the satter
+day afftor our lades day the sumpsonen By your {TEXT:your} asured frend
+to my pour Katherine Suffoulk LISLE,V,635.016.312

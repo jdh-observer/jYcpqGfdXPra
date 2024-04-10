@@ -1,0 +1,3435 @@
+<B_FOX>
+
+<Q_FOX_A_1497?_T_RFOX> <L_FOX_001> <A_RICHARD_FOX> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1447> <R_THOMAS_DARCY> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1467>
+
+<P_17>
+
+{ED:9._TO_DARCY}
+
+{COM:FROM_RICHARD_FOX_TO_THOMAS_DARCY}
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:50?
+RECIPIENT:THOMAS_DARCY:MALE:_:1467:30?
+LETTER:FOX_001:M4:1497?:AUTOGRAPH:OTHER
+Norham . FOX,17.001.1
+
+{ED:1497?}
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:50?
+RECIPIENT:THOMAS_DARCY:MALE:_:1467:30?
+LETTER:FOX_001:M4:1497?:AUTOGRAPH:OTHER
+Maistre Darcye , I commaunde me to you . FOX,17.001.2
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:50?
+RECIPIENT:THOMAS_DARCY:MALE:_:1467:30?
+LETTER:FOX_001:M4:1497?:AUTOGRAPH:OTHER
+And wher ye write to me that ye haue receyved my lettres of different
+sentence , I wold the clerke that soo interpreted them to you , coude
+shewe me that difference . FOX,17.001.3
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:50?
+RECIPIENT:THOMAS_DARCY:MALE:_:1467:30?
+LETTER:FOX_001:M4:1497?:AUTOGRAPH:OTHER
+Ye be not the gentilman that I woll stond in termys with , FOX,17.001.4
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:50?
+RECIPIENT:THOMAS_DARCY:MALE:_:1467:30?
+LETTER:FOX_001:M4:1497?:AUTOGRAPH:OTHER
+but what soo euer ye write or saye to me , I shall take yt for the best
+, and as ye soo menyd ; FOX,17.001.5
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:50?
+RECIPIENT:THOMAS_DARCY:MALE:_:1467:30?
+LETTER:FOX_001:M4:1497?:AUTOGRAPH:OTHER
+and soo I praye you doo myn . FOX,17.001.6
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:50?
+RECIPIENT:THOMAS_DARCY:MALE:_:1467:30?
+LETTER:FOX_001:M4:1497?:AUTOGRAPH:OTHER
+And as I wrote byfor , your Vndreconstable stondeth accursed by cause
+he hathe not obeyde my monicion ; FOX,17.001.7
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:50?
+RECIPIENT:THOMAS_DARCY:MALE:_:1467:30?
+LETTER:FOX_001:M4:1497?:AUTOGRAPH:OTHER
+and that shold he vndrestond , wer not for your sake . FOX,17.001.8
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:50?
+RECIPIENT:THOMAS_DARCY:MALE:_:1467:30?
+LETTER:FOX_001:M4:1497?:AUTOGRAPH:OTHER
+Neuerthelesse for the well of hys saule he can noo lesse doo then sue
+for absolucion ; FOX,17.001.9
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:50?
+RECIPIENT:THOMAS_DARCY:MALE:_:1467:30?
+LETTER:FOX_001:M4:1497?:AUTOGRAPH:OTHER
+and I praye you cause hym forthwith to deliuer the goods at Bukton to
+the purser , whiche ys ther redye to receyve them and shall paye the
+$bryngers for theyr labours . FOX,17.001.10
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:50?
+RECIPIENT:THOMAS_DARCY:MALE:_:1467:30?
+LETTER:FOX_001:M4:1497?:AUTOGRAPH:OTHER
+I doubt not ye remembre that ye promised me at Twedmouthe that they
+shold forthwith haue be sent thyder . FOX,17.001.11
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:50?
+RECIPIENT:THOMAS_DARCY:MALE:_:1467:30?
+LETTER:FOX_001:M4:1497?:AUTOGRAPH:OTHER
+And thus hertely fare ye well FOX,17.001.12
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:50?
+RECIPIENT:THOMAS_DARCY:MALE:_:1467:30?
+LETTER:FOX_001:M4:1497?:AUTOGRAPH:OTHER
+at Norham this Fridaye . FOX,17.001.13
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:50?
+RECIPIENT:THOMAS_DARCY:MALE:_:1467:30?
+LETTER:FOX_001:M4:1497?:AUTOGRAPH:OTHER
+Assuredly yours Ri. Duresme . FOX,17.001.14
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:50?
+RECIPIENT:THOMAS_DARCY:MALE:_:1467:30?
+LETTER:FOX_001:M4:1497?:AUTOGRAPH:OTHER
+To Maistre Darcy . FOX,17.001.15
+
+<Q_FOX_A_1500_T_TDARCY> <L_FOX_002> <A_THOMAS_DARCY> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1467> <R_RICHARD_FOX> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1447>
+
+<P_20>
+
+{ED:12._FROM_DARCY}
+
+{COM:FROM_THOMAS_DARCY_TO_RICHARD_FOX}
+
+{ED:Berwick._24_August_1500.}
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+Right reuerent fadir in Gode and my syngler goyd lord , After all dew
+recomendacions , plesethe your lordschip to be aduerticyd . Os I cam in
+Yorkschir tawardis Berwike the most party of gentilmen of the same , os
+Sir John Hastyngis &c , held me cumpany , and so I taryd in huntyng
+with tham a fortnyght . FOX,20.002.16
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+My lord of Carlellis folkis , os thay sayd , wass warned I schold hav
+no game in the forest of Galtrice , FOX,20.002.17
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+and so I spared for the tym , havyng specyall trust oppon your
+lordschip in that matter . FOX,20.002.18
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+And forther , off newes her at Berwike , os I can concev , the Scottis
+hath moch off theyr desire , FOX,20.002.19
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+and sewre I am thay make soich avant . FOX,20.002.20
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+And os for owre parte , haithe os yit very smale redress .
+FOX,20.002.21
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+Os all at large I am sewre the Kyngis grace and your lordschip schalle
+knaw herafter , when the day off diot takethe eynd : wich I dem wolle
+not be this moneth , FOX,20.002.22
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+$for $yit {TEXT:foryit} ther is mone matteris far owet of frame .
+FOX,20.002.23
+
+<P_21>
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+At my cumynge hom into Yorkschir I send Sir Richard Chomlay the Kyngis
+letter , wich was derected to hym and me for the sendyng vp of the hayr
+of Fenwikis ; and a letter fro me to knaw wait tym wher best to sit
+oppon comission for the said Fenwik etc . FOX,21.002.24
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+And he oppon the same , withowte knawlege to me , rode from Berwike to
+Newcastell , FOX,21.002.25
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+and in his way hom toke the said Fenwike with hym : noo knawlege giffyn
+to Roger Fenwike , wich I thinke me wold at first hav deliuerd hym
+assewred to hym or me , os I wen , at the first request . FOX,21.002.26
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+$Bot Sir Richard did this for his thank , os I suppos . FOX,21.002.27
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+Bot verely , my lord , I met Roger at Morpethe the most sore man that
+myght be , feryng that your lordschip hade be set any thyng aganste hym
+or preve to this matter ; FOX,21.002.28
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+bot he wass the most glad man that I hade seyn , after I schewed hym of
+a seuerte the contrare , and $how ye weyr his speciall goyd lord and
+myn bothe . FOX,21.002.29
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+$My lord , both I and my lady wass in all your new warkis at Doresme ,
+FOX,21.002.30
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+and veryly thay are of the most $goydly and best cast that I hav seyn ,
+after my poyr <em> $mynd ; </em> FOX,21.002.31
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+and in especyall your kechyn passethe all $other . FOX,21.002.32
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+We hade huntyd ther with Mr Chancler $and Mr Tresurer , FOX,21.002.33
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+bot in goyde faithe we and owr $seruauntis and dogis wass soo were , we
+myght not . FOX,21.002.34
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+And therfor I $wass so bold oppon your lordschip that I had of your
+veneson bothe with me and $sent to Berwike . FOX,21.002.35
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+At my cumyng to Berwike I offerd to $Mr Doctor to go with hym and help
+to eynd all $matteris concernyg the comission . FOX,21.002.36
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+His answer wass that Sir Richard Chomlay and he with otherst schold
+eynd that $they had begoyn , FOX,21.002.37
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+and for caws that Sir Richard and I $myght not both be forthe , I was
+best content to tare . FOX,21.002.38
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+My lord , os your lordschip semethe best , helpe now Roger Fenwike ;
+FOX,21.002.39
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+for of faithe all the $contre saith this matter lithe moch oppon his
+well , FOX,21.002.40
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+and in my mynd ye can not hav a trewer seruaunt . FOX,21.002.41
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+A litill matter of vnkyndnes happed betwixst my cossyn <P_22> Gray and
+me , off wich your lordschip schall hav the certante with my $seruant :
+bot not os no complaynt of hym , FOX,22.002.42
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+for I feyr ye schall hav enowe . FOX,22.002.43
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+Howbeit I trust your goyd auertismentis schall do hym goyd , and cawse
+the Kynge to $be better served with hym . FOX,22.002.44
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+And after os my mynd and service $is and $shall $be {TEXT:schalbe} to
+your lordschip , so I beseich yow to be my goyd lord ; FOX,22.002.45
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+and I schall besech the Trenete to preserve your lordschip frome all
+aduersites . FOX,22.002.46
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+My lord , the debites calle vere sore oppon me for ther feys .
+FOX,22.002.47
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+I beseich your lordschip be meyn therin <paren> and for Galtrice
+specially </paren> , os ye seme goyd , FOX,22.002.48
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+and tak no displesure that I pot yow to so moch payn . FOX,22.002.49
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:33
+RECIPIENT:RICHARD_FOX:MALE:_:1447:53
+LETTER:FOX_002:E1:1500:AUTOGRAPH:OTHER
+Writtyn at Berwike the XXIIIJ=the= day of Awgost . FOX,22.002.50
+
+<Q_FOX_A_1506_T_RFOX> <L_FOX_003> <A_RICHARD_FOX> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1447> <R_JOHN_CLAYMOND> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1468>
+
+<P_35>
+
+{ED:22._TO_CLAYMOND}
+
+{COM:FROM_RICHARD_FOX_TO_JOHN_CLAYMOND}
+
+{ED:Richmond._21_July_1506?}
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38
+LETTER:FOX_003:E1:1506:AUTOGRAPH:OTHER
+Maistre Claymond , I haue receyved your lettre , FOX,35.003.51
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38
+LETTER:FOX_003:E1:1506:AUTOGRAPH:OTHER
+and to thentent ye may clerely perceyve what I haue doo vppon it , I
+send you herin enclosed a copie of the lettre that I write nowe to my
+lord of Hereford . FOX,35.003.52
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38
+LETTER:FOX_003:E1:1506:AUTOGRAPH:OTHER
+Make not many folks preuy to it . FOX,35.003.53
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38
+LETTER:FOX_003:E1:1506:AUTOGRAPH:OTHER
+I wold not haue it cryed at the Quarfox . FOX,35.003.54
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38
+LETTER:FOX_003:E1:1506:AUTOGRAPH:OTHER
+And haue good serche howe he taketh it and what he dothe vppon it ,
+FOX,35.003.55
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38
+LETTER:FOX_003:E1:1506:AUTOGRAPH:OTHER
+and write to me the trowthe . FOX,35.003.56
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38
+LETTER:FOX_003:E1:1506:AUTOGRAPH:OTHER
+Cause it to be deliuer by soom estraungier . FOX,35.003.57
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38
+LETTER:FOX_003:E1:1506:AUTOGRAPH:OTHER
+Peter of Wyttenay wer good for to be the messagier . FOX,35.003.58
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38
+LETTER:FOX_003:E1:1506:AUTOGRAPH:OTHER
+Yf he herafter continue his greves ayenst any persone , cause hym to
+comme to me , FOX,35.003.59
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38
+LETTER:FOX_003:E1:1506:AUTOGRAPH:OTHER
+and by appele he shall haue an inhibicion , FOX,35.003.60
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38
+LETTER:FOX_003:E1:1506:AUTOGRAPH:OTHER
+and theruppon woll followe a visitacion or peraduenture greatter mater
+. FOX,35.003.61
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38
+LETTER:FOX_003:E1:1506:AUTOGRAPH:OTHER
+As sone as ye may , send me the <P_36> statut+g that I told you wer of
+my lord of Rochestre is makyng . FOX,36.003.62
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38
+LETTER:FOX_003:E1:1506:AUTOGRAPH:OTHER
+At Richemont XXJ=o= July Ri. Wynton . FOX,36.003.63
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38
+LETTER:FOX_003:E1:1506:AUTOGRAPH:OTHER
+To Maistre Claymond . FOX,36.003.64
+
+<Q_FOX_A_1506?_T_RFOX> <L_FOX_004> <A_RICHARD_FOX> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1447> <R_JOHN_CLAYMOND> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1468>
+
+<P_36>
+
+{ED:23._TO_CLAYMOND}
+
+{COM:FROM_RICHARD_FOX_TO_JOHN_CLAYMOND}
+
+{ED:Southwark._24_December_1506?}
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38?
+LETTER:FOX_004:E1:1506?:AUTOGRAPH:OTHER
+Broder maistre President , I commaunde me hertely to you ,
+FOX,36.004.65
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38?
+LETTER:FOX_004:E1:1506?:AUTOGRAPH:OTHER
+and haue receyved your lettre , and seen the mater wheruppon is resyn
+the variance amongs your compaignye , and thinterpretacion remitted to
+me . FOX,36.004.66
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38?
+LETTER:FOX_004:E1:1506?:AUTOGRAPH:OTHER
+And albe it I hade small laysure to attende to such maters , sens theyr
+commyng to me , yit haue I hard theyr opinions and other mens of my
+counsell also . FOX,36.004.67
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38?
+LETTER:FOX_004:E1:1506?:AUTOGRAPH:OTHER
+And full sorye am I to vndrestand such sinistre construccion amongs
+them , that wher ther is noo resonable occasion whye they shuld make
+any such doubtes or questions vppon thestatut+g , they can or woll fall
+soo lightly therto . FOX,36.004.68
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38?
+LETTER:FOX_004:E1:1506?:AUTOGRAPH:OTHER
+Yt is a full evill signe of goode disposicion . FOX,36.004.69
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38?
+LETTER:FOX_004:E1:1506?:AUTOGRAPH:OTHER
+It commeth of pride and wilfulnesse which wold be repressed ,
+FOX,36.004.70
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38?
+LETTER:FOX_004:E1:1506?:AUTOGRAPH:OTHER
+and ellys it shall retourne to the great dishonour and hurt of the
+place . FOX,36.004.71
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38?
+LETTER:FOX_004:E1:1506?:AUTOGRAPH:OTHER
+I praye God , I heer noo moo such variances amongs them . FOX,36.004.72
+
+<P_37>
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38?
+LETTER:FOX_004:E1:1506?:AUTOGRAPH:OTHER
+$As $for {TEXT:Asfor} my interpretacion in that behalue , ye shall
+shortely haue it vnder my seale formally in writeng . FOX,37.004.73
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38?
+LETTER:FOX_004:E1:1506?:AUTOGRAPH:OTHER
+And by cause what inconuenient may fall in the moyne time , I write to
+you at this tyme what my saide interpretacion $shall $be {TEXT:shalbe}
+. Wherunto I woll ye and all the compaignye and euery of them stond and
+obeye as if it wer in writeng vnder my seale . FOX,37.004.74
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38?
+LETTER:FOX_004:E1:1506?:AUTOGRAPH:OTHER
+My saide interpretacion is and $shall $be {TEXT:shalbe} this :
+FOX,37.004.75
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38?
+LETTER:FOX_004:E1:1506?:AUTOGRAPH:OTHER
+quod ille aliquis in quem octo poterunt circa eleccionem
+Vicepresidentis consentire , non debet esse aliquis de illo octo . Sed
+debet esse omnino alia et distincta persona ab ipsis octo , videlicet
+nona persona . FOX,37.004.76
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38?
+LETTER:FOX_004:E1:1506?:AUTOGRAPH:OTHER
+The raisons why I thus interpretat the Statute for lak of laisure can
+not be writen at this tyme , FOX,37.004.77
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38?
+LETTER:FOX_004:E1:1506?:AUTOGRAPH:OTHER
+nor I am not bounden to shewe them by my writeng . FOX,37.004.78
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38?
+LETTER:FOX_004:E1:1506?:AUTOGRAPH:OTHER
+But thus I doo interpretat it ex pura et sana conscientia et secundum
+mentem Fundatoris , quatenus potui eam colligere ex verbis Statutorum .
+FOX,37.004.79
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38?
+LETTER:FOX_004:E1:1506?:AUTOGRAPH:OTHER
+And to this as a bove I woll that bothe you and your compaigny
+condescend and agree them sub pena periurii . FOX,37.004.80
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38?
+LETTER:FOX_004:E1:1506?:AUTOGRAPH:OTHER
+And thus fare ye all well at Saynt Mare Ouerey in great hast in vigilia
+natiuitatis Domini ante horam quintam in Aurora mannu propria
+FOX,37.004.81
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38?
+LETTER:FOX_004:E1:1506?:AUTOGRAPH:OTHER
+Ri. Wynton . FOX,37.004.82
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38?
+LETTER:FOX_004:E1:1506?:AUTOGRAPH:OTHER
+And I woll that this interpretacion in theleccion of the Vicepresident
+serue and be extended to like cases in theleccions of all other
+officers , and to be obeyed and kepen sub dicta pena periurii .
+FOX,37.004.83
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:59?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:38?
+LETTER:FOX_004:E1:1506?:AUTOGRAPH:OTHER
+To my welbeloved broder the President of Magdalene College in Oxford .
+FOX,37.004.84
+
+<Q_FOX_A_1509_T_TDARCY> <L_FOX_005> <A_THOMAS_DARCY> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1467> <R_RICHARD_FOX> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1447>
+
+<P_43>
+
+{ED:29._FROM_DARCY}
+
+{COM:FROM_THOMAS_DARCY_TO_RICHARD_FOX}
+
+{ED:Craven._August_1509.}
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:42
+RECIPIENT:RICHARD_FOX:MALE:_:1447:62
+LETTER:FOX_005:E1:1509:AUTOGRAPH:OTHER
+Thes novellis haithe ben her sethe the Kyng is coronacion . Firste sent
+to me by Sir Edward Ratcliff and others , shewyng that it was said by
+my lord of Northumberland is seruauntis that my lord of Bukyngham
+sholde be protector of Ingland and that ther maister sholde rewlle all
+frome Trent northe and haue Berwic and the Marches , and that such
+grantes as I hade of offices was befor the Kyng was crowned and of noyn
+effecte . FOX,43.005.85
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:42
+RECIPIENT:RICHARD_FOX:MALE:_:1447:62
+LETTER:FOX_005:E1:1509:AUTOGRAPH:OTHER
+Item by the said lordis seruauntis cumyng into Craven from London ,
+ther sayngis was that if ther lord hade nott rowmes in the northe as
+his fader hade , it shold not long <P_44> be well . FOX,44.005.86
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:42
+RECIPIENT:RICHARD_FOX:MALE:_:1447:62
+LETTER:FOX_005:E1:1509:AUTOGRAPH:OTHER
+This Richard Tempest squier herd of and shewde me , with other gret
+bostes and common brewttis , wich wer to long to write . FOX,44.005.87
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:42
+RECIPIENT:RICHARD_FOX:MALE:_:1447:62
+LETTER:FOX_005:E1:1509:AUTOGRAPH:OTHER
+Item vppon Saynt Lawrence daye William Feherre , a poyre gentilman ,
+cam from London , FOX,44.005.88
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:42
+RECIPIENT:RICHARD_FOX:MALE:_:1447:62
+LETTER:FOX_005:E1:1509:AUTOGRAPH:OTHER
+and he shewde and confessed that Gilson , Ratclif and onne Typpyng ,
+seruaunttis to my said lord in Saynt Martynes in London ny his plasse ,
+shewde to hym that Sir Risse ap Thomas was gonne to the see , fled
+furthe of his cuntrey . FOX,44.005.89
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:42
+RECIPIENT:RICHARD_FOX:MALE:_:1447:62
+LETTER:FOX_005:E1:1509:AUTOGRAPH:OTHER
+Item I truste to gett sum of the bryngers vp of thes talles and others
+mo in my handis . FOX,44.005.90
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:42
+RECIPIENT:RICHARD_FOX:MALE:_:1447:62
+LETTER:FOX_005:E1:1509:AUTOGRAPH:OTHER
+They be but amongst knaffis and craftis men and beggeris .
+FOX,44.005.91
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:42
+RECIPIENT:RICHARD_FOX:MALE:_:1447:62
+LETTER:FOX_005:E1:1509:AUTOGRAPH:OTHER
+Item the common sayng withe euere markett man that cumes frome London ,
+is that the Lord Preveye Sealle , seyng of his owen crafte and police
+he canne not bryng hym self too rewlle the Kyng is grace , and put owt
+of faffour therle of Surrey , therle of Shrosbere , the Busshop of
+Dorisme , M=r= Mernye , M=r= Brandon and the lord Darcy , now he woille
+prove a nother waye ; wich is too bryng in and bolster hym self to
+rewlle all with the Duke of Bukyngham and therlle of Northumbre .
+FOX,44.005.92
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:42
+RECIPIENT:RICHARD_FOX:MALE:_:1447:62
+LETTER:FOX_005:E1:1509:AUTOGRAPH:OTHER
+And dowbtles faste they cursse FOX,44.005.93
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:42
+RECIPIENT:RICHARD_FOX:MALE:_:1447:62
+LETTER:FOX_005:E1:1509:AUTOGRAPH:OTHER
+and speke evill of my Lord Prevey Sealle beyond messewr . FOX,44.005.94
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:42
+RECIPIENT:RICHARD_FOX:MALE:_:1447:62
+LETTER:FOX_005:E1:1509:AUTOGRAPH:OTHER
+My lord , goyd it is to haue a goyde eey . FOX,44.005.95
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:42
+RECIPIENT:RICHARD_FOX:MALE:_:1447:62
+LETTER:FOX_005:E1:1509:AUTOGRAPH:OTHER
+Thoss much be bot sayngis : FOX,44.005.96
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:42
+RECIPIENT:RICHARD_FOX:MALE:_:1447:62
+LETTER:FOX_005:E1:1509:AUTOGRAPH:OTHER
+as I her , I woill warnne yow , my lord of Dorisme and Mr Mernye ,
+wilst I lif . FOX,44.005.97
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:42
+RECIPIENT:RICHARD_FOX:MALE:_:1447:62
+LETTER:FOX_005:E1:1509:AUTOGRAPH:OTHER
+Therfor shew this , as ye thre semes goyd , to the Kyng is grace or
+otherwis . FOX,44.005.98
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:42
+RECIPIENT:RICHARD_FOX:MALE:_:1447:62
+LETTER:FOX_005:E1:1509:AUTOGRAPH:OTHER
+Feeherre I haue taken , FOX,44.005.99
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:42
+RECIPIENT:RICHARD_FOX:MALE:_:1447:62
+LETTER:FOX_005:E1:1509:AUTOGRAPH:OTHER
+and kepis hym to I haue worde frome yow : FOX,44.005.100
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:42
+RECIPIENT:RICHARD_FOX:MALE:_:1447:62
+LETTER:FOX_005:E1:1509:AUTOGRAPH:OTHER
+and by that tyme , if I canne trye the begynyng of the talles , I
+shalle haue moo , and lett for no man , I warrant yow . FOX,44.005.101
+
+<Q_FOX_A_1511?_T_RFOX> <L_FOX_006> <A_RICHARD_FOX> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1447> <R_JOHN_CLAYMOND> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1468>
+
+<P_50>
+
+{ED:33._TO_CLAYMOND}
+
+{COM:FROM_RICHARD_FOX_TO_JOHN_CLAYMOND}
+
+{ED:Nottingham._19_August_1511.}
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:64?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:43?
+LETTER:FOX_006:E1:1511?:AUTOGRAPH:OTHER
+Maistre Claymond , I thank you for your goode and kynde lettre towcheng
+the owtrageuxe demeanor of my godsoon : wherof I am full sorye ,
+FOX,50.006.102
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:64?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:43?
+LETTER:FOX_006:E1:1511?:AUTOGRAPH:OTHER
+and daily shall praye God that it may amend . FOX,50.006.103
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:64?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:43?
+LETTER:FOX_006:E1:1511?:AUTOGRAPH:OTHER
+I haue of late vndrestond that it commeth to hym of kynde and woll take
+hym by seasons till he comme to a greatter age . FOX,50.006.104
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:64?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:43?
+LETTER:FOX_006:E1:1511?:AUTOGRAPH:OTHER
+Yt is to me noo small displaisure : FOX,50.006.105
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:64?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:43?
+LETTER:FOX_006:E1:1511?:AUTOGRAPH:OTHER
+God knoweth what I entended tawards hym . FOX,50.006.106
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:64?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:43?
+LETTER:FOX_006:E1:1511?:AUTOGRAPH:OTHER
+I hade the moynys to haue got hym fayre lyvelod , as sone as I cowde
+haue gotten a dispensacion for hym . FOX,50.006.107
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:64?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:43?
+LETTER:FOX_006:E1:1511?:AUTOGRAPH:OTHER
+And now I am at my wyttis end . FOX,50.006.108
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:64?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:43?
+LETTER:FOX_006:E1:1511?:AUTOGRAPH:OTHER
+I can not be soo sone with you in thoes parties as {that_I_could_be} I
+supposed . FOX,50.006.109
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:64?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:43?
+LETTER:FOX_006:E1:1511?:AUTOGRAPH:OTHER
+I can not depart fro the Kyngis grace , FOX,50.006.110
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:64?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:43?
+LETTER:FOX_006:E1:1511?:AUTOGRAPH:OTHER
+and it $will $be {TEXT:wolbe} thexaltacion of the Crosse byfor he can
+be with you . FOX,50.006.111
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:64?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:43?
+LETTER:FOX_006:E1:1511?:AUTOGRAPH:OTHER
+In the moyen tyme I praye you take soom pacience with hym .
+FOX,50.006.112
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:64?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:43?
+LETTER:FOX_006:E1:1511?:AUTOGRAPH:OTHER
+The weder is soom what colder then it was , FOX,50.006.113
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:64?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:43?
+LETTER:FOX_006:E1:1511?:AUTOGRAPH:OTHER
+and euery daye $shall $be {TEXT:shalbe} colder ; which shall soom what
+abate the disposicion of hym . FOX,50.006.114
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:64?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:43?
+LETTER:FOX_006:E1:1511?:AUTOGRAPH:OTHER
+Ye may be sure that as sone as the Kyng commeth to Wodstok I shall see
+you . FOX,50.006.115
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:64?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:43?
+LETTER:FOX_006:E1:1511?:AUTOGRAPH:OTHER
+And thus fare ye well FOX,50.006.116
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:64?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:43?
+LETTER:FOX_006:E1:1511?:AUTOGRAPH:OTHER
+at Notyngham the XIX daye of August . FOX,50.006.117
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:64?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:43?
+LETTER:FOX_006:E1:1511?:AUTOGRAPH:OTHER
+Ri. Wynton . FOX,50.006.118
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:64?
+RECIPIENT:JOHN_CLAYMOND:MALE:_:1468:43?
+LETTER:FOX_006:E1:1511?:AUTOGRAPH:OTHER
+To Maystre Claymond at Kytlyngton besids Oxford . FOX,50.006.119
+
+<Q_FOX_A_1511_T_TWOLSEY> <L_FOX_007> <A_THOMAS_WOLSEY> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1473?> <R_RICHARD_FOX> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1447>
+
+<P_52>
+
+{ED:35._FROM_WOLSEY}
+
+{COM:FROM_THOMAS_WOLSEY_TO_RICHARD_FOX}
+
+{ED:Windsor._30_September_1511.}
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+Aftyr moste humbyl comendacions with lycke desyre of yowr helth and
+perfygth recouery , pleasyt yowr good lordshyp to vndyrstand that on
+Sonday laste paste the Kyng reseyuyd letteris from Sir Robert Wyngfeld
+datyd the IIIJth of thys moneth : by the contynue wherof he aduertysyd
+the Kyng that the Emperror had nat onely worde from the cowrte of Rome
+but from dyuers other placys that owr holy father the Pope shuld be in
+suche danger of lyfe that ther ys no hope of hys recouery ;
+FOX,52.007.120
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+for all the lower partys of hys body from the mydel downward wer ded
+mortyfyd and as colde as any stone . Wherfore the Emperror myndyng and
+intendyng to hys beste the auancement of the Cardynall Adryan ad
+papatum , hath sent the Bushope of Gurce to Roine , effectually to
+solycyte the same ; FOX,52.007.121
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+and to the yntent that thys hys purpose shuld the better be browgth
+abowth , he hath ioynyd with hym Sir Robert Wyngfeld , wych also at the
+ynstant desyre of the Emperror intendyth to go to Rome . FOX,52.007.122
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+Yesterday at masse I brake with the Kyng in thys matter ,
+FOX,52.007.123
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+and shewyd on to hys grace how mych honor and also furtherans of all
+hys afferys in tyme to kome shuld insue to hym , yf that by hys
+comendacion sume Cardynall mygth atteyne to be Pope ; FOX,52.007.124
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+and seyng that the Emperror was <P_53> effectually intendyng the
+preferment of the Cardynall Adryan , wych in maner ys as the Kyngis
+bownden subiect , with hys gracyous help the matter shuld $be mych the
+sonner browgth to passe . FOX,53.007.125
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+I fownde hys grace very conformabyll and aggreabyll to my sayyng .
+FOX,53.007.126
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+Howbeyt I durste nat further wade with hys grace as towchyng yowr
+letteris of recomendacion , as well for the renouelyng of yowr other
+letteris and the datys of the same , as also that we haue no suer
+knowleg of the Popys deth other wyse than ys before seyd .
+FOX,53.007.127
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+Yowr lordeshyp , I trust , ys no thyng myscontent with that I presumyd
+to breke yowr instruccions ; FOX,53.007.128
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+for assurydly except Mr Tresorer , no herthly man ys nor $shall $be
+{TEXT:shalbe} made preuy to yowr letteris . FOX,53.007.129
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+I am half afrayd that ye be dysspleasyd , for as myche as I haue
+resseyuyd no wryttyng from yow thys longe season . FOX,53.007.130
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+I truste ye woll take my doyng <paren> wych procedyd of good wyll ,
+thynckyng that yt was for the beste </paren> in good parte .
+FOX,53.007.131
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+My lorde , in comynycacion at the large , I haue felt how that my lorde
+Chambyrleyn and of Duresme be myche inclynyd to the Cardinall of Seynt
+George , FOX,53.007.132
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+and in all ther talke they kan nat speke to myche honor of hym ,
+dysspreysyng the Cardinall Adrian affor . FOX,53.007.133
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+Yf yowr lordshyp war here , thys matter wold be sone browgth to yowr
+purposse . FOX,53.007.134
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+And my lorde , for dyuers vrgeynt causys yt ys thowgth very exspedyent
+that ye shuld repare to the Kyng ; FOX,53.007.135
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+for all hys gret matters be defferryd on to yowr commyng : wych ys
+dayly lokyd for and desyryd of all thos that wolde the Kyngis causys
+shuld procede in a good trayne . FOX,53.007.136
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+The Maister of the Rollis ys commyn to Douer : FOX,53.007.137
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+we loke for hym dayly . FOX,53.007.138
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+He hath wryttyn hyther that neuyr man had wers chere than he in France
+. FOX,53.007.139
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+No thyng $hath he done further than I wrot on to yow in my laste
+letteris as $towchyng hys charge . FOX,53.007.140
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+The Ambasador of Arragon hath lyberally delte with my <P_54> lorde
+Darcy . FOX,54.007.141
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+He hath gouyn to hym allowance for one hole moneth aftyr VI=d= the day
+, and for XV days aftyr VIIJ=d= the day , for euery solger , more than
+of very dute he cowde demavnde . FOX,54.007.142
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+And the Kyng owr master hath for hys $parte gouyn to hym the thowsand
+$powndis wych at hys departyng hys $grace lent on to hym .
+FOX,54.007.143
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+Thus the Kyngis money gothe awey in euery $korner <em> . </em>
+FOX,54.007.144
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+And as towchyng the Kyngis abode here he intendyth nat to departe hens
+tyll within fower or fyve days affore Alhallowtyd . FOX,54.007.145
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+One Monday next commyng hys grace purposyth to ryd to London to se hys
+shyp , ther to tary two days , and so retorne hyther ageyn .
+FOX,54.007.146
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+My lord $Stuard ys nat yet commyn to the Cowrt . FOX,54.007.147
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+Withyn IIJ or IIIJ days he intendyth to be here . FOX,54.007.148
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+My lorde Tresorer at hys laste commyng to the Kyng , wych $was thys day
+sennygt , had suche maner and cowntynance shewyd on to hym that on the
+morowe he departyd home ayeyn , and as yet ys nat retornyd to the
+Cowrte . FOX,54.007.149
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+With lytyll help nowe he mygth be vtterly , as towchyng loggyng in the
+same , excludyd : wherof in my poore iuggement no lytyll goode shuld
+insue . FOX,54.007.150
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+The Kyng ys myndyd as yet to send Mr Deane of Wyndsore to the Kyng of
+Scottis , as well to declare the cause why he hath takyn hys shyppys
+and thus intretyd hys subiectis , as also to bere the Quenys bequest ;
+for the wych she hath instantly wryttyn . FOX,54.007.151
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+Mr Howard meruelusly incendyth the Kyng ayenst the Scottis : by whos
+wantone meanys hys grace $spendyth mych money , and ys more dyssposyd
+to ware than paxe . FOX,54.007.152
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+Yowr $presence $shall $be {TEXT:shalbe} very necessary to represse thys
+appetyte . FOX,54.007.153
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+Other nuys we $haue none here , but that yt ys thowgth that the Quene
+ys with chyld . FOX,54.007.154
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+$When other shall occure , <P_55> I shall aduertyse yow of the same ,
+as $knowyth God : who preserue yowr good lordshyp in good helth .
+FOX,55.007.155
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+At Wyndsor $in haste the laste day of Septembre with the rude hand of
+yowr $louyng and humbyll prest . FOX,55.007.156
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+As towchyng the preferment of Mr Yng , I nede nat wryt on to yow ;
+FOX,55.007.157
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+for I $suppose he hath aduertysyd yowr lordshyp at the leyngth in that
+behalf , $and also desyryd yowr cownsell , now that the Kyng hath
+shewyd hym $hys pleasure how for the exspedicion of hys matter he
+$shall $be {TEXT:shalbe} $ferther orderyd and demeanyd . FOX,55.007.158
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+And owr Lorde send yow helth and <em> $streyngth . </em> FOX,55.007.159
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+Thomas Wulcy FOX,55.007.160
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:38?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:64
+LETTER:FOX_007:E1:1511:AUTOGRAPH:OTHER
+To my synguler goode lorde , my lorde of Wynchester . FOX,55.007.161
+
+<Q_FOX_A_1512_T_TWOLSEY> <L_FOX_008> <A_THOMAS_WOLSEY> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1473?> <R_RICHARD_FOX> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1447>
+
+<P_56>
+
+{ED:37._FROM_WOLSEY}
+
+{COM:FROM_THOMAS_WOLSEY_TO_RICHARD_FOX}
+
+{ED:Farnham._26_August_1512.}
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+Aftyr moste humble comendacions , my lorde , I beseche yow to arrect no
+blame to me that sythyns my departyng from yow I haue nat wryttyn to
+the same all suche nuys as hath occurryd for the tyme . FOX,56.008.162
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+For in fayth on to thys day I cowde atteyne no tyme so to do onles I
+shuld haue wryttyn but half a tale . FOX,56.008.163
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+Suyr I am here of ye wol meruel ; FOX,56.008.164
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+but at owr next metyng yowr lordeshyp shal knowe the cause .
+FOX,56.008.165
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+And as for the materys of Spayne , howe the same do goo , I am suyer ye
+haue beyn aduertysyd by $such wryttyngis as hath beyn sent to yow from
+thens . FOX,56.008.166
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+Howbeyt ye shall by Mr Knygttis lettre , wych I nowe send on to yow ,
+knowe in substance all that ys wryttyn by my lorde Marques , John Style
+or any other . By the wych lettres I nowe perceyue yowr olde sayng to
+be trewe , towchyng the ordyr and payne wych <P_57> Inglyshe men wole
+abyde $and indure . FOX,57.008.167
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+I trowe ther desyre to returne hom $shall $be {TEXT:shalbe} to the
+hynderance of the ynterprise of Gyen , equyualent to the Kyng of
+Arragons slacnes . From whom the gentylman wych was sent hyther in tyme
+of the Parlyament to vyeu the Kyngis artyllery , a man full of wordis ,
+ys lately comyn to the Kyng . The substance of whos chargye restyth
+onely in excusyng the Kyng hys mastere that hys army hath nat joynyd
+with the Kyngis army hytherto , allegyng that the danger of Nauar with
+the colorable delyng of the Kyng of the same , hath beyn the cause of
+thys longe delay . FOX,57.008.168
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+Howbeyt nowe he dare geoport hys lyff that bothe armys be joynyd .
+FOX,57.008.169
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+The Kyng hys mastere affermyth by the othe of a prynce that he shal
+neuyr desyste from the warre nor leue the Kyng , on to suche tyme as
+hys grace hath recoueryd and atteynyd to the crowne of France ; with
+many other plesant wordis . FOX,57.008.170
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+I pray God the dedys may followe and insue accordyngly . FOX,57.008.171
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+And as towchyng the state of Itally and howe also owr ambasadors do in
+ther maters , yowr lordeshyp shal perceyue by suche lettres as I send
+to the same in thys pacquet . Wych whan ye haue rede , I beseche yow to
+send ageyne . FOX,57.008.172
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+And to asserteyne yow of the lamentabyll and sorowfull tydyngis and
+chance wych hath fortunyd by the see , owr folkis , on Tuysday was
+fortnygth , met with XX gret shyppys of Frawnce , the best with sayle
+and furnyshyd with artyllery and men that euyr was seyn .
+FOX,57.008.173
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+And aftyr innumerabyll shotyng of gunnys and long chasyng one a nother
+, at the last the Regent moste valyently bordyd the gret Caryke of
+Brest . Wherin wer fower lordis , CCC gentylmen , VIIJ=c= solgers and
+marynes , IIIJ=c= crosbowe men , C guners , CC tonne of wyne , C pypys
+of befe , LX barellis of gonepowder and xv gret brasyn cortawdis , with
+to meruelose a nombyr of schot and other gunys of euery sorte .
+FOX,57.008.174
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+Owr men so valyently acquyt them sylf that within one ower fygth they
+had vtterly venquyshyd with schot of gonnys and arows the <P_58> sayd
+Caryke and slayne moste parte of the men within the same .
+FOX,58.008.175
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+And sodenly as they war yeldyng them sylf , the Caryke was one a
+flamyng fyer , and lycke wyse the Regent within the turnyng of one hand
+. FOX,58.008.176
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+She was so ankyrryd and fastyd to the Caryk that by no meanys possybyll
+she mygth for hyr salfgarde depart from the same . FOX,58.008.177
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+And so bothe in sygth within thre owerys war burnt , and moste parte of
+the men in them . FOX,58.008.178
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+Sir Thomas Knyuet , wych moste $valyently acquyt hym sylf that day ,
+was slayne with one gonne ; FOX,58.008.179
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+Sir John Carewe with dyuers others , whos namys be nat yet knowne , be
+lycke wyse slayne . FOX,58.008.180
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+I pray God to haue mercy on ther sowlys . FOX,58.008.181
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+And , my lorde , at the reuerens of God , kepe thes tydyngis secret to
+yowr sylf ; FOX,58.008.182
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+for ther ys no lyuyng man knowyth the same here but onely the Kyng and
+I . FOX,58.008.183
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+Yowr lordeshyp knowyth rygth wel that yt ys exspedyent for a whyl to
+kepe the same secret . FOX,58.008.184
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+To se howe the Kyng takyth the matere and behauyth hym sylf , ye wold
+meruell , and myche allowe hys wyse and constant maner . FOX,58.008.185
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+I haue nat on my fayth seyn the lycke . FOX,58.008.186
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+And thus with heuy harte and sorowfull penne I make a ende ,
+besechekyng God to preserue yowr good lordshyp . FOX,58.008.187
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+From Farneham thys mornyng in wonderuse hast the XXVJ day of August
+with the rude hande of yowr assuryd chapleyn , Thomas Wulcy .
+FOX,58.008.188
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+The resydue of the Frenche flete aftyr longe chassyng was by owr folkis
+put to flygt and drevyn in to Brest hauyn . FOX,58.008.189
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+Ther war VJ as gret shyppys of the sayd flete as the Regent or Souerayn
+. FOX,58.008.190
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+Howbeyt as cowardis they flede . FOX,58.008.191
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+Sir Edward hath made hys voue to God that he wyl neuyr se the Kyng in
+the face tyl he hath reuengyd the dethe of the nobyll and valyant
+knygth Sir Thomas Knyuet . FOX,58.008.192
+
+AUTHOR:THOMAS_WOLSEY:MALE:_:1473?:39?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:65
+LETTER:FOX_008:E1:1512:AUTOGRAPH:OTHER
+The lettres of thanckis to my lorde Cardynall Adryan I send to yowr
+lordshyp in thys pacquet . FOX,58.008.193
+
+<Q_FOX_A_1513_T_JDAWTREY> <L_FOX_009> <A_JOHN_DAWTREY> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_RICHARD_FOX> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1447>
+
+<P_59>
+
+{ED:38._FROM_JOHN_DAWTREY}
+
+{COM:TO_RICHARD_FOX}
+
+{ED:Southampton._5_May_1513}
+
+AUTHOR:JOHN_DAWTREY:MALE:_:_:_
+RECIPIENT:RICHARD_FOX:MALE:_:1447:66
+LETTER:FOX_009:E1:1513:AUTOGRAPH:OTHER
+Please it your good lordeshippe to haue knowlege , I send you herewith
+your letter and the copy of the Kyngis letter . FOX,59.009.194
+
+AUTHOR:JOHN_DAWTREY:MALE:_:_:_
+RECIPIENT:RICHARD_FOX:MALE:_:1447:66
+LETTER:FOX_009:E1:1513:AUTOGRAPH:OTHER
+My lord , we haue here all redy IIJ shippis of the Westcountrey ,
+whiche wyll bere abowt CCC tonnys of vytayle all redy , and also one
+hoye ; FOX,59.009.195
+
+AUTHOR:JOHN_DAWTREY:MALE:_:_:_
+RECIPIENT:RICHARD_FOX:MALE:_:1447:66
+LETTER:FOX_009:E1:1513:AUTOGRAPH:OTHER
+and I loke euery day for our vytalers of the Westcountrey to comme
+agayne - FOX,59.009.196
+
+AUTHOR:JOHN_DAWTREY:MALE:_:_:_
+RECIPIENT:RICHARD_FOX:MALE:_:1447:66
+LETTER:FOX_009:E1:1513:AUTOGRAPH:OTHER
+I meane them that went to the trade fro hens . FOX,59.009.197
+
+AUTHOR:JOHN_DAWTREY:MALE:_:_:_
+RECIPIENT:RICHARD_FOX:MALE:_:1447:66
+LETTER:FOX_009:E1:1513:AUTOGRAPH:OTHER
+Also here be comen yn evyn now VJ crayers and certeyn Spaynysshe
+shippis lade with vytayle fro London . FOX,59.009.198
+
+AUTHOR:JOHN_DAWTREY:MALE:_:_:_
+RECIPIENT:RICHARD_FOX:MALE:_:1447:66
+LETTER:FOX_009:E1:1513:AUTOGRAPH:OTHER
+Also the XXVJ saylys of vytayle that lay at the Cowe , be by this tyme
+with the army . FOX,59.009.199
+
+AUTHOR:JOHN_DAWTREY:MALE:_:_:_
+RECIPIENT:RICHARD_FOX:MALE:_:1447:66
+LETTER:FOX_009:E1:1513:AUTOGRAPH:OTHER
+For Echyngham came yesterday yn here : whiche met with Gunson and the
+said vytalers past Portland thedyrward . FOX,59.009.200
+
+AUTHOR:JOHN_DAWTREY:MALE:_:_:_
+RECIPIENT:RICHARD_FOX:MALE:_:1447:66
+LETTER:FOX_009:E1:1513:AUTOGRAPH:OTHER
+To morowe I wyll wayte on your lordeshippe : as knowythe allmygty God ,
+who ever preserue your good lordeshippe . FOX,59.009.201
+
+AUTHOR:JOHN_DAWTREY:MALE:_:_:_
+RECIPIENT:RICHARD_FOX:MALE:_:1447:66
+LETTER:FOX_009:E1:1513:AUTOGRAPH:OTHER
+Wreten this Assencyon daye by your seruaunt John Dawtrey .
+FOX,59.009.202
+
+AUTHOR:JOHN_DAWTREY:MALE:_:_:_
+RECIPIENT:RICHARD_FOX:MALE:_:1447:66
+LETTER:FOX_009:E1:1513:AUTOGRAPH:OTHER
+To my syngeler good lord , my lord of $Wynchester <em> , </em> be this
+delyueryd yn hast . FOX,59.009.203
+
+<Q_FOX_A_1513_T_RFOX> <L_FOX_010> <A_RICHARD_FOX> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1447> <R_THOMAS_WOLSEY> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1473?>
+
+<P_60>
+
+{ED:39._TO_WOLSEY}
+
+{COM:FROM_RICHARD_FOX_TO_THOMAS_WOLSEY}
+
+{ED:Portsmouth._11_May_1513}
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+Broder maistre Aulmosner , Yistredaye abouts IIJ of the clok in the
+afternone I receyved your lettres dated at Baynard Castell the IX day
+of May ; FOX,60.010.204
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+and haue by the same vndrestond that the Kyngis grace by thadvise of
+his counsell hathe ordeygned Sir Charles Brandon with IIIJ m=l=. men
+vnder hym to goo to thadmirall , and for that propose to take shippyng
+at Hampton the XVIIJ daye of this present moneth . For the vitayleng
+wherof and of thadmirall and his compaignye ye haue writen bothe to
+John Dawtrey and to me to doo all diligence possible ; acertayneng vs
+that ye trust to send as much beer , flesshe , bisquyt and fisshe from
+thens as shall suffise the said IIIJ m=l=. men for oon moneth .
+FOX,60.010.205
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+As towcheng preparacions of vitails heer for the said propose , ye
+shall vndrestand what may be done at Hampton by John Dawtrey is lettres
+; in whom ye may be sure neyther lacketh nor shall lacke noo diligence
+. FOX,60.010.206
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+And I trust he woll faile of noo vitayls , soo ther may be had ships
+for the fettyng therof and foysts for beer : wherof fewe comme hidder ,
+as ye haue be enformed in tyme past . FOX,60.010.207
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+And albe it that bothe ye , as ye write , and we also haue writen for
+them , both to thadmirall that was and to thadmirall that nowe is , yit
+haue we noo remedye . Albe it that for the tyme of my lord Admirall
+that nowe is , ther hathe be noo wynd , nor yit is , to bryng them ;
+FOX,60.010.208
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+but ye must fro tyme to tyme call <P_61> vppon my said lord Admirall
+for the sendyng of them hidder , and specially the empty pipes ,
+FOX,61.010.209
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+and we woll doo the same . FOX,61.010.210
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+Ther can noo great vitaile be shipped in the fewe ships that nowe be ,
+or herafter shall comme to Hampton , byfor the commyng of Sir Charles
+and his compaignye , for such causes as John Dawtre sheweth by his
+lettres ; FOX,61.010.211
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+and I fear that the said holl noumbre woll not be $at Hampton , neyther
+the said XVIIJth daye nor IIIJ or V dayes after , and thought it is by
+men of experience that they can not be shipped with theyr vitails and
+bagages by the space of VIIJth dayes after . FOX,61.010.212
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+And thus I feer that it $shall $be {TEXT:shalbe} the first daye of Jung
+byfor they shall mowe depart fro Hampton . FOX,61.010.213
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+Ye knowe well ther must be oon wynd to bryng the ships out of the
+Themmys into the Downys , and a nother to bryng them out of the Downys
+into Hampton Watre , and the third wynd to bryng the ships out of West
+contre into Hampton Watre . FOX,61.010.214
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+I praye God that the lacke of thies wynds tract not the tyme farther
+then $shall $be {TEXT:shalbe} expedient . FOX,61.010.215
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+Thus ye may see ther may be many chaunces to retarde the departyng hens
+of this newe armye . FOX,61.010.216
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+Neuerthelesse I shall from hens addresse me streight to Hampton , and
+accordyng to your writeng and the Kyngis commaundement remaigne theer
+till the said army be past ; and in the moyne tyme doo my possible as
+well for the spede of the said vitails as also for my attendance gevyng
+vppon Sir Charles and his compaignye , and for the fortheryng of theyr
+shippyng ; and afterward drawe me with my compaignye tawards the Kyngis
+grace as spedely as $shall $be {TEXT:shalbe} to me possible .
+FOX,61.010.217
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+Yt wer well doo that ther wer soom intelligence bytwyxt them that
+prepayre vitails in the West parties and John Dawtrey and his
+compaignye , to thentent that euery of them myght knowe what other doo
+. FOX,61.010.218
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+It myght , I thynk , be to the Kyngis profite that it soo wer .
+FOX,61.010.219
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+I see also in my mynde oon great aduenture towcheng the said vitaileng
+of this army when they $shall $be {TEXT:shalbe} in the <P_62> trade ,
+FOX,62.010.220
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+and that is this . FOX,62.010.221
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+Ther is noo vitaile fette hens but fro tyme to tyme , FOX,62.010.222
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+and that is not for any long tyme , as not past for IIJ wekes at the
+most ; FOX,62.010.223
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+and if the wynd after the commyng of the vitailers to thadmirall ,
+serue them not to retorne hidder till the said vitaill be spent , ther
+shall therof followe a great inconuenient . FOX,62.010.224
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+Yt shall therfor be well done that my lord Admirall be writen to , to
+acertayne John Dawtrey howe he is furneshed of vitaill , and for how
+long . FOX,62.010.225
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+And amongs other maters faill not continually to write to hym to cause
+euery ship to kepe theyr emptye pipes ; FOX,62.010.226
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+for vndoubtedly they haue brent and lost many of them . FOX,62.010.227
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+Except this be done , I assure you ther $will $be {TEXT:wolbe} lacke of
+them heer . FOX,62.010.228
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+And thus fare ye hertely well FOX,62.010.229
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+at Portesmowthe the XJ daye of May with the shakyng hand of your lovyng
+broder Ri. Wynton . FOX,62.010.230
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_010:E1:1513:AUTOGRAPH:OTHER
+$To my broder the $Kyngis Aulmosner . FOX,62.010.231
+
+<Q_FOX_A_1513_T_RFOX> <L_FOX_011> <A_RICHARD_FOX> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1447> <R_THOMAS_WOLSEY> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1473?>
+
+<P_62>
+
+{ED:40._TO_WOLSEY}
+
+{COM:FROM_RICHARD_FOX_TO_THOMAS_WOLSEY}
+
+{ED:Southampton._15_May_1513}
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_011:E1:1513:AUTOGRAPH:OTHER
+Broder maistre Aulmosner , I am preuye to the lettre that John Dawtrey
+writethe to you ; FOX,62.011.232
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_011:E1:1513:AUTOGRAPH:OTHER
+and except I wold write the same , I can shewe noon other newes hens .
+FOX,62.011.233
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_011:E1:1513:AUTOGRAPH:OTHER
+And I praye God that the compaignye that shall comme hidder , put theyr
+folks in such ordre as they comme not nyghe this toune by IJ dayes
+journaye at the leest ; FOX,62.011.234
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_011:E1:1513:AUTOGRAPH:OTHER
+and if they doo otherwise , ther shall many inconuenients ensue .
+FOX,62.011.235
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_011:E1:1513:AUTOGRAPH:OTHER
+And also God knoweth when we shall haue shippeng heer sufficient for
+tharmye . FOX,62.011.236
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_011:E1:1513:AUTOGRAPH:OTHER
+It is to vs great mervaile that ther comme noon hidder out of the West
+parties . FOX,62.011.237
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_011:E1:1513:AUTOGRAPH:OTHER
+If we hade had them heer byfor the commyng of tharmye , they myght haue
+take in such vitails as they $shall $be {TEXT:shalbe} chargied with
+byfor the commyng of tharmye : which myght <P_63> haue be thadvaunsyng
+of tharmy peraduenture by IIIJ or V dayes or mor . FOX,63.011.238
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_011:E1:1513:AUTOGRAPH:OTHER
+Heer lyethe the Lyon without takelyng , FOX,63.011.239
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_011:E1:1513:AUTOGRAPH:OTHER
+and is like to be lost , without warant made to John Dawtrey for
+takelyng to be deliuered for hir . Albeit I advise that she shuld be
+sold , rather then to bestowe newe takelyng vppon hyr . FOX,63.011.240
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_011:E1:1513:AUTOGRAPH:OTHER
+I thynk ther may XL=li= or ther abouts be had for hir . FOX,63.011.241
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_011:E1:1513:AUTOGRAPH:OTHER
+Ye may write the Kingis plaisure in this behalue to John Dawtrey ;
+FOX,63.011.242
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_011:E1:1513:AUTOGRAPH:OTHER
+and thus fare ye hertely well FOX,63.011.243
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_011:E1:1513:AUTOGRAPH:OTHER
+at Hampton the XV daye of Maye with the hand of your lovyng broder Ri.
+Wynton . After VIIJ of the clok in the evenyng . FOX,63.011.244
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_011:E1:1513:AUTOGRAPH:OTHER
+To my broder the Kyngis Aulmosner . FOX,63.011.245
+
+<Q_FOX_A_1513_T_RFOX> <L_FOX_012> <A_RICHARD_FOX> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1447> <R_THOMAS_WOLSEY> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1473?>
+
+<P_63>
+
+{ED:41._TO_WOLSEY}
+
+{COM:FROM_RICHARD_FOX_TO_THOMAS_WOLSEY}
+
+{ED:Southampton._16_May_1513.}
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_012:E1:1513:AUTOGRAPH:OTHER
+Broder maistre Aulmosner , This afternone comme hidder Fitz William
+commyng streight to the courte ; FOX,63.012.246
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_012:E1:1513:AUTOGRAPH:OTHER
+and as he saithe , thadmirall $will $be {TEXT:wolbe} heer with the next
+wynd with all his flete . FOX,63.012.247
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_012:E1:1513:AUTOGRAPH:OTHER
+And thus what with hym and what with Sir Charles and his compaignye ,
+heer woll faile noo businesse . FOX,63.012.248
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_012:E1:1513:AUTOGRAPH:OTHER
+$As $for {TEXT:Asfor} newes , ye shall haue them by Fitz William ,
+FOX,63.012.249
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_012:E1:1513:AUTOGRAPH:OTHER
+and therfor I write none ; savyng that I knowe for certaynte that the
+treuxe of oon yere is taken and proclamed bothe-1 in Spaigne and France
+bytwyxt the Frenche and Aragonesse Kyngis with theyr adherents , as ye
+knowe better then I . FOX,63.012.250
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_012:E1:1513:AUTOGRAPH:OTHER
+And I feer that themperor woll daunce the same daunce . FOX,63.012.251
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_012:E1:1513:AUTOGRAPH:OTHER
+I require you , though I knowe well ye haue noo laisure to write me
+your newes yourselve , make Bryan Tuke by your enformacion write me
+soom . FOX,63.012.252
+
+<P_64>
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_012:E1:1513:AUTOGRAPH:OTHER
+Thadmirall writethe to me that he lacketh C maryners , FOX,64.012.253
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_012:E1:1513:AUTOGRAPH:OTHER
+and heer be noon to get . FOX,64.012.254
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_012:E1:1513:AUTOGRAPH:OTHER
+Also he wold haue bowes , spekyng of noo noumbre certayn ;
+FOX,64.012.255
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_012:E1:1513:AUTOGRAPH:OTHER
+item m=l=. m=l=. sheves of arowes ; V m=l=. shot for hakbusshes ; IIJ
+m=l=. shot for serpentyns and fawcons ; FOX,64.012.256
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_012:E1:1513:AUTOGRAPH:OTHER
+item goonpowder , not nameng how much : FOX,64.012.257
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_012:E1:1513:AUTOGRAPH:OTHER
+and what is heer , ye knowe by the post of yister evyn . FOX,64.012.258
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_012:E1:1513:AUTOGRAPH:OTHER
+If this journay be entended as great as is spoken , it woll not be
+feneshed shortely . FOX,64.012.259
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_012:E1:1513:AUTOGRAPH:OTHER
+I pray God send good and honorable effect therof , FOX,64.012.260
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_012:E1:1513:AUTOGRAPH:OTHER
+for it is right weyghtty ; FOX,64.012.261
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_012:E1:1513:AUTOGRAPH:OTHER
+and thus fare ye well FOX,64.012.262
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_012:E1:1513:AUTOGRAPH:OTHER
+at Hampton this Witsommonday abouts V of the clok in the ouernone with
+the hand of your lovyng broder , Ri. Wynton . FOX,64.012.263
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_012:E1:1513:AUTOGRAPH:OTHER
+And yit agayn I thynk the noumbre of IIIJ m=l=. to fewe ,
+FOX,64.012.264
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_012:E1:1513:AUTOGRAPH:OTHER
+and if ther be any lesse noumbre appoynted to land then X m=l=. , it
+$shall $be {TEXT:shalbe} to littell . FOX,64.012.265
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_012:E1:1513:AUTOGRAPH:OTHER
+To my broder the Kyngis Aulmosner . FOX,64.012.266
+
+<Q_FOX_A_1513_T_RFOX> <L_FOX_013> <A_RICHARD_FOX> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1447> <R_HENRY_TUDOR_VIII> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1491>
+
+<P_64>
+
+{ED:42._TO_HENRY_VIII}
+
+{COM:FROM_RICHARD_FOX}
+
+{ED:Southampton._19_May_1513.}
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+Please it your grace , Sir , This selve heure I receyved a lettre fro
+my broder your Aulmosner , by the which he sheweth me that your grace
+for diuerse consideracions hathe latly writen to my lord your Admirall
+to comme with your holl armye beyng vnder hym to Portesmuthe , ther to
+make his abode to the commyng of Sir Charles Brandon . Wherfor he
+writeth to me that it is your commaundement that if the said Admirall
+with your said armye be comme theder byfor this Thursdaye or vppon the
+same daye , I shuld then aduertise your grace therof by post to
+Wyndesore ; to thentent ye myght secretely comme to the said
+Portismuthe , not only to see thestate of your armye , but also to see
+the same spedely sette forthward . FOX,64.013.267
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+Please it your grace , Sir , neyther my said lord Admirall nor noo ship
+of that armye be yit comme hydder . FOX,64.013.268
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+And as I am credebely enformed , he with the holl armye and theyr
+<P_65> vitaylers lighe soo far within the haven of Plymmouthe , that
+they can not comme out of it without a northe west wynde :
+FOX,65.013.269
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+and the wynde hathe be suthwest continually IIJ dayes past , and yit is
+. FOX,65.013.270
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+And if he myght haue comme with that wynd , he wold by liklihod haue be
+heer IJ dayes past . FOX,65.013.271
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+And soo myght he haue bee , seyng that the wynd wold haue served hym
+soo to haue be , if he had be out of the said haven ; FOX,65.013.272
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+and thus , Sir , we loke not for hym till the said northwest wynd doo
+serve hym . FOX,65.013.273
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+And whensoeuer he commeth , your grace $shall $be {TEXT:shalbe} therof
+aduertised with all spede . FOX,65.013.274
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+And if your grace shall comme into thies parties , it $shall $be
+{TEXT:shalbe} mor conuenient that ye comme to this toune then to
+Portesmuthe ; FOX,65.013.275
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+for ther can be noo prouision for you , specially for haye , nor in the
+contre nygh therabouts . FOX,65.013.276
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+Sir , heer is noo ship yit mete for the shippyng of Sir Charles Brandon
+and his compaignye , savyng oon Spaynyard of CCC and a nother of VJ=xx=
+which John Dawtrye and I haue appoynted to serve the said Sir Charles ;
+who has not yit comme , FOX,65.013.277
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+but we heer by his seruaunts that he $will $be {TEXT:wolbe} heer this
+daye . FOX,65.013.278
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+And seyng the said lak of ships heer , he shall comme yit all in good
+season . FOX,65.013.279
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+And after tharmye be holly comme hidder , the depechyng therof , what
+for layeng in of vitails for soo many ships and what for payment of
+wagies and what for shippyng of Sir Charles compaignye , woll require a
+right good tract of tyme . Albe it I doubt not ther shall such
+diligence be done that ther shall noo tyme be lost , specially if wynd
+will serve . FOX,65.013.280
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+Diuerse souldiers be comme and logied in the contre abouts IJ dayes
+journayes on fote hens and therabouts ; FOX,65.013.281
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+and soo we entend to ordre the remenaunt till such tyme as shippyng be
+redye for them , for spareng of vitails in this toune and nyghe
+herabouts . FOX,65.013.282
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+And $as $for {TEXT:asfor} the vitayleng of my lord Admirall and his
+compaignye , your seruaunt John Dawtrye I trust be sufficiently
+prouided . FOX,65.013.283
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+If ther shal be any lacke , it $shall $be {TEXT:shalbe} of empty pypes
+: which comme with my lord Admirall , as we trust , FOX,65.013.284
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+and ellis we $shall $be {TEXT:shalbe} greatly disappoynted .
+FOX,65.013.285
+
+<P_66>
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+$As $for {TEXT:Asfor} the vitaileng of Sir Charles and his compaignye
+we vndrestond that theyr vitailes shall comme fro London ; for the
+which and also for the commeng of my lord Admirall I praye God send vs
+sone convenient wynds . FOX,66.013.286
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+And thus the holy Trinite send your grace thaccomplisshement of your
+most noble desires . FOX,66.013.287
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+At Hampton this Thursdaye the XIX daye of Maye abouts IX of the clok
+byfor none with thand of your most humble subgiet Ri. Wynton .
+FOX,66.013.288
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+To the Kyngis grace at Wyndesore . FOX,66.013.289
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:HENRY_TUDOR_VIII:MALE:_:1491:22
+LETTER:FOX_013:E1:1513:AUTOGRAPH:OTHER
+Hast , post , vppon thy lyfe ! FOX,66.013.290
+
+<Q_FOX_A_1513_T_RFOX> <L_FOX_014> <A_RICHARD_FOX> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1447> <R_THOMAS_WOLSEY> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1473?>
+
+<P_66>
+
+{ED:43._TO_WOLSEY}
+
+{COM:FROM_RICHARD_FOX_TO_THOMAS_WOLSEY}
+
+{ED:Southampton._19_May_1513.}
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+Broder maistre Aulmosner , This daye abouts VIIJ of the clok in the
+mornyng I receyved your lettre dated at London the XVIJ daye of this
+moneth : FOX,66.014.291
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+and thus ye may see what spede our posts make . FOX,66.014.292
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+And forthwith the same heure accordyng to your said lettre I wrot to
+the Kyngis grace , acertayneng the same that neyther my lord Admirall
+nor noon of that armye vitailers nor other be yit comme , neyther to
+Portesmuthe nor hidder ; FOX,66.014.293
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+and we vndrestond heer that they be soo far within the haven of
+Plymmouth that they can not comme out of it with this wynd . Which of
+liklihod is true ; FOX,66.014.294
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+for yf they myght haue comme thens with a south west wynd , they myght
+haue be heer IJ dayes past . FOX,66.014.295
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+And also ther is not oon ship vitailer nor other comme out of the
+Themmys nor fro Sandwiche ; FOX,66.014.296
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+and when we shall haue wynds to bryng them hidder out of all thre
+places , God knoweth . FOX,66.014.297
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+All other thyngs towcheng ships , vitaileng or payement of wagis ye
+shall vndrestond by John Dawtreys lettres . FOX,66.014.298
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+And $as $for {TEXT:asfor} sendeng of ships for the scowreng of the
+narowe see and waftyng of the hoyes that goo to Calis , I pray God
+<P_67> send you them in tyme ; FOX,67.014.299
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+for it is to great a shame to leese the ships that be lost .
+FOX,67.014.300
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+And I trust ye woll noo mor aduenture , neyther thordnaunce ,
+artillerye , vitailes nor men , till ye haue wafters . FOX,67.014.301
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+Me semeth that ye myght man soom of the Spaynyards that be at Sandwyche
+, and make them wafters till other may comme to you . FOX,67.014.302
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+And when my lord Admirall commeth , I woll call vppon hym to send such
+shippes into the narowe see as be named in your said lettre ;
+FOX,67.014.303
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+but I feer that ye shall not haue them yit . FOX,67.014.304
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+Neyther Sir Charles nor noon other capitaigne is yit comme hidder
+saving Brugis . FOX,67.014.305
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+Soom of theyr seruauntis be comme ; FOX,67.014.306
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+and John Dawtrey and I caused them stop theyr compaignyes , and laye
+them IJ dayes journayes hens , and soom of them farther .
+FOX,67.014.307
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+And yistre even camme hidderwarde therbergier ; FOX,67.014.308
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+and by our advises he hathe appoynted logeyngis in the contre about IJ
+dayes journays hens for the said compaignyes . FOX,67.014.309
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+And when the ships be comme , ye may be sure ther woll lak noo
+diligence in John Dawtrey . FOX,67.014.310
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+I praye God that lak of conuenient wyndes stop them not .
+FOX,67.014.311
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+I thank you for your newes of Spaigne , which I knowe assuredly be true
+; FOX,67.014.312
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+and if the fault be not in the Frenche Kyng , the Kyng of Aragone I
+doubt not woll kepe his bargyn , notwithstandyng his ambassador is
+worke to the contrarye . FOX,67.014.313
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+And $as $for {TEXT:asfor} themperor I thynk his will be good , but
+powayre woll faile hym . FOX,67.014.314
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+And by that I heer , he shall haue $e noughe to doo with the Venycians
+, which I trowe be confedered $with the Frenche Kyng , and then haue at
+Mylayn agayn . Which peraduenture shall doo vs good ; FOX,67.014.315
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+for soo shall the Frenche $powayre be devided , FOX,67.014.316
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+and the lesse shall it be vppon vs . FOX,67.014.317
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+But then gette we noo helpe , neyther-1 of the Pape , themperor nor the
+Kyng of Aragon ; FOX,67.014.318
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+for euery of them shall haue much e nough to doo for hym selve in the
+parties of Italie , except themperor and the Kyng of Aragon wold with
+theyr werre makeng , eyther of them <P_68> on his quarter , vppon soom
+$grounde of France prevent the sendeng of the Frenche armye into Italie
+. FOX,68.014.319
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+But euer I feer that themperor for lacke of substance $shall $be
+{TEXT:shalbe} enforced to fall to a treuxe . FOX,68.014.320
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+A substanciall wise man hathe told me that he see the Kyngis lettre
+$written to my lord of Bukingham , to haue the middell warde , and to
+be redy to ship hym selve and his compaignye the XV day of Jung ; which
+was $bifor appoynted for the Kyngis grace and his compaignye . Wherof I
+am oon , and I appoynt my selve to kepe that daye . FOX,68.014.321
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+I pray you , lat me knowe by the next wherunto I shall dispose me .
+FOX,68.014.322
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+And thus fare ye well FOX,68.014.323
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+at Hampton the XIX daye of May abouts none with the hand of $your
+lovyng broder Ri. Wynton . FOX,68.014.324
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_014:E1:1513:AUTOGRAPH:OTHER
+To my broder the Kyngis Aulmosner . FOX,68.014.325
+
+<Q_FOX_A_1513_T_RFOX> <L_FOX_015> <A_RICHARD_FOX> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1447> <R_THOMAS_WOLSEY> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1473?>
+
+<P_68>
+
+{ED:44._TO_WOLSEY}
+
+{COM:FROM_RICHARD_FOX_TO_THOMAS_WOLSEY}
+
+{ED:Southampton._21_May_1513.}
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+Broder maistre Aulmosner , Hidder be comme yit noo ships , neyther fro
+$tharmye that is vnder thadmirall nor fro Sandwyche nor London .
+FOX,68.015.326
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+I praye God send them sone hidder . FOX,68.015.327
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+And ellys I feer that it $shall $be {TEXT:shalbe} nyghe the XV daye of
+Jung , which is my daye assigned to be with my compaignye at Dovorre
+and Sandwyche , byfor I can depart hens . FOX,68.015.328
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+This mater trowbleth me not a littell , FOX,68.015.329
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+and therfor I praye you lat me vndrestond your mynde therin .
+FOX,68.015.330
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+I rekyn that thoughe the first of the Kyngis warde begyn to ship the
+said XV daye of Jung , it $shall $be {TEXT:shalbe} XV dayes after or
+mor byfor the last of the said warde be shipped . FOX,68.015.331
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+And I thynk that my soo long tarieng heer considered , the Kyngis grace
+not displaised , I shall mowe comme to Dovor or Sandwyche to take
+shippeng all in good season , with them <P_69> of the Kyngis warde that
+shall take theyr last shippyng , that is to saye XV dayes or therabouts
+after the said XV daye of Jung . Wherof I require you lat me knowe your
+mynde by the next post , for I haue great nede soo to doo , to thentent
+I maye ordre me therafter . FOX,69.015.332
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+And if ye may not haue the laisure to write to me yourself , as I knowe
+well ye haue full littell , I praye you make Bryan Tuke to write to me
+by your instruccion , as I haue desired and prayed you to doo in tyme
+past . FOX,69.015.333
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+For without knowlege hade fro you of the premisses , I can not ordre my
+selve to serve heer and theer . FOX,69.015.334
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+Also my lord of Devonshire by the Kyngis licence went to my ladye his
+moder byfor Mydlent , wher he hathe be euer sens , saveng that he in
+the moyne tyme comme hidder oonys and loked vppon me . FOX,69.015.335
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+My said ladye wold gladly vndrestond whedder it $shall $be
+{TEXT:shalbe} the Kyngis plaisure that he remaigne still with hir for
+the tyme that the Kyngis grace $shall $be {TEXT:shalbe} be yond the see
+, or ellys that she shall send hym to the Kyngis grace to passe to
+Calis with the same , and then to goo by the Kyngis ordinance and
+sendyng to the Prince of Castell . FOX,69.015.336
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+I praye you vndrestand the Kyngis plaisure in this mater and aduertise
+me of the same , to thentent my saide ladye may dispose for hir said
+soon therafter . FOX,69.015.337
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+The Capitaigne of thisle of Wight hathe desired me to praye you be good
+maistre to hym in a mater that is in your hands towcheng hym not a
+littell , as he saithe . FOX,69.015.338
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+What it is I can not tell , FOX,69.015.339
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+and therfor I dar not write depely in it , but yit rogatus rogo .
+FOX,69.015.340
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+Soom of the capitayns vnder my lord Lisle shewe me that of theyr
+noumbres they had appoynted soom to goo to Calis with theyr cariagies ,
+horses and bagages : the which not withstondyng , they be commaunded to
+bryng theyr holl noumbre hidder , FOX,69.015.341
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+and soo they saye they woll doo . FOX,69.015.342
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+And I thynk it be expedient that they soo doo , FOX,69.015.343
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+and then and in that case they praye to haue wagies for theyr folkis
+that shall <P_70> attend vppon theyr cariagies to Calis , which $shall
+$be {TEXT:shalbe} a bove theyr noumbres assigned to them .
+FOX,70.015.344
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+And they thynk it shall not be the Kyngis plaisure that they $shall $be
+{TEXT:shalbe} chargied of theyr owne purses with the wagies of theyr
+said folkis that goo with theyr cariagies : which they pray you and my
+lords of the Counsell fauorabely to considre , FOX,70.015.345
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+and they woll send theyr said folks to you for theyr said wages .
+FOX,70.015.346
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+All other thyngs worthe the writeng John Dawtrey writethe to you :
+wherto I am preuy . FOX,70.015.347
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+And except ther comme moo emptye pypes fro tharmye vnder my lord
+Admirall then is like to doo , I assure you it shall not be possible to
+furnesshe that army with sufficient beer . FOX,70.015.348
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+I feer that the pursers woll deserve hangyng for this mater :
+FOX,70.015.349
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+if any of them comme to you , speke with them accordyngly .
+FOX,70.015.350
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+Heer can lak noo beer , if ther comme foystes and empty pipes to
+receyve it ; FOX,70.015.351
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+and if they comme not in season , the lak of them shall merveyleuxly
+hyndre the breweng of beer : which consequently must retarde tharmye .
+FOX,70.015.352
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+This is a daungereux mater , FOX,70.015.353
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+and much remembrance haue we made therof to thadmirall that was ,
+FOX,70.015.354
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+and often prayed we you to doo the same . FOX,70.015.355
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+If ther fortune any lak in this behalf , it shall not be imputed of
+raison to vs ; FOX,70.015.356
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+for I assure you heer $will $be {TEXT:wolbe} beer mor then e nough for
+this armye , soo we may haue pipes : the which I praye God send vs with
+spede , and soon deliuer you of your outragieux charge and labour .
+FOX,70.015.357
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+And ellis ye shall haue a cold stomocke , littell slepe , pale visage
+and a thyn belly cum rara egestione : all which and as deffe as a stok
+, I hade when I was in your case etc . FOX,70.015.358
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+At Hampton the XXJ daye of Maye with the hand of your lovyng broder Ri.
+Wynton . FOX,70.015.359
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_015:E1:1513:AUTOGRAPH:OTHER
+To my broder the Kyngis Aulmosner . FOX,70.015.360
+
+<Q_FOX_A_1513_T_RFOX> <L_FOX_016> <A_RICHARD_FOX> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1447> <R_THOMAS_WOLSEY> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1473?>
+
+<P_71>
+
+{ED:45._TO_WOLSEY}
+
+{COM:FROM_RICHARD_FOX_TO_THOMAS_WOLSEY}
+
+{ED:Southampton._4_June_1513.}
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+Broder maistre Aulmosner , Yistre nyght in my bed and in slepe after X
+of the clok I receyved your lettres with the lettre to the Kyng of
+Scots , a minute for a warant for the deliuerance of Steward out of the
+Toure , and thenstructions for Thomas Spynell : the which , with a
+lettre directed to Mr Compton to gette them signed of the Kyngis grace
+, I deliuered to the post forthwith , sittyng up in my bed . Soo that
+by this heure , which is VJ in the mornyng , he myght be with the
+Kyngis grace at Gilford . FOX,71.016.361
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+They wer lost bytuyxt Alton and Waltham and afterward recouered ;
+FOX,71.016.362
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+and that was the cause of theyr long taryeng by the waye .
+FOX,71.016.363
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+In like wise the lettres for themperor , the Venicians and the Bisshop
+of Worcestre had such a chaunce by the waye that it was Thursdaye after
+none byfor they comme to my hands ; FOX,71.016.364
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+and the same heure I retorned them to you . FOX,71.016.365
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+Ther hathe be , what by slewghe of the postis and what by other
+chaunces , evill fortune for conveyance of lettres sens the Kyngis
+commyng hidder ; FOX,71.016.366
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+but by me , I assure you , ther was noo taryeng . FOX,71.016.367
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+I also receyved this nyght past the copie of the lettre that the Kyng
+of Scots writeth by Isley : wherof the words sound well ,
+FOX,71.016.368
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+but what his mynde is , it is vncertayne . FOX,71.016.369
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+But it appereth well that the Frenche Kyng meneth , that in case the
+Kyng our maistre accept not the treux of Aragon , that then the Kyng of
+Scots shuld be at large ; trustyng that he woll take his part .
+FOX,71.016.370
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+But the mynde of the Kyng of Scots can not be knowen by this lettre .
+FOX,71.016.371
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+Yt shuld rather be knowen by Mr West , my lord Dacre and Sir Robert
+Drury and theyr workes ; and by his workes , and also by the Kyngis
+dealyng tawards hym . Which I knowe not , FOX,71.016.372
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+but me semeth that the lettre that is nowe writen to hym , shall
+littell plaise hym ; <P_72> albe it the lettre that Rosse brought , as
+it shuld seme by the rehersall therof in the Kyngis lettres , deserved
+noo better . FOX,72.016.373
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+But such mutuall accusacions and relacions of vnkyndenesse be not the
+moynes of entreteygnement of good love and amite . FOX,72.016.374
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+And yit I thynk it $shall $be {TEXT:shalbe} knowen at leyngh that he
+woll make noo actuall werre , but rob and spoyle the Kyngis subgiets ,
+specially by water . FOX,72.016.375
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+And I thynk he woll not take well with the appoyntement of the next
+daye of dyet in Octobre , FOX,72.016.376
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+he woll rekyn craft therin . FOX,72.016.377
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+And in my opinion it myght haue be assigned better in the myd of August
+, and with much lesse suspicion . FOX,72.016.378
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+Thinstructions for Thomas Spynell I am sure shall not content my ladye
+of Savoye : FOX,72.016.379
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+but as for that mater , habuit a principio malum fundamentum , et
+postea deteriorem superedificacionem , et male arguitur a malis
+exemplis . FOX,72.016.380
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+$As $for {TEXT:Asfor} the repaireng of the ships to the cost of
+Britaigne , I doubt not ye knowe thyssue of my Lord Lysle is mater .
+FOX,72.016.381
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+It was sent to you vppon Thursdaye in the mornyng . FOX,72.016.382
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+And $as $for {TEXT:asfor} my lord Admirall , I warant you he woll not
+slepe his maters . FOX,72.016.383
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+But he lacketh many thyngs , as ye may see by his lettres of yistredaye
+; FOX,72.016.384
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+and he hathe had a great lette by my lord Lisle is maters , and nowe
+for thorderyng of many other maters far out of goode frame , I warant
+you : the which he woll reforme , I doubt not , to the Kyngis honour ,
+profite , good seruice and better obeissance . FOX,72.016.385
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+And he woll noo longar byde then verye necessite shall require ,
+FOX,72.016.386
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+and soom what he is embusied abouts reddyng of my lord Lisle is
+compaignye by land , and takeng into his ships and devideng the vitails
+that camme fro you , and dischargeyng a great noumbre of ships to the
+Kyngis great aduauntage . FOX,72.016.387
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+And thus fare ye hertely well FOX,72.016.388
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+at Hampton the IIIJ=th= daye of Juny abouts VJ in the mornyng .
+FOX,72.016.389
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+Your lovyng broder Ri. Wynton . FOX,72.016.390
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+I feer that it $will $be {TEXT:wolbe} Mondaye byfor I may depart hens .
+FOX,72.016.391
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_016:E1:1513:AUTOGRAPH:OTHER
+To my broder the Kyngis Aulmosner . FOX,72.016.392
+
+<Q_FOX_A_1513_T_RFOX> <L_FOX_017> <A_RICHARD_FOX> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1447> <R_THOMAS_WOLSEY> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1473?>
+
+<P_73>
+
+{ED:46._TO_WOLSEY}
+
+{COM:FROM_RICHARD_FOX_TO_THOMAS_WOLSEY}
+
+{ED:Southampton._8_June_1513.}
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+Broder maistre Aulmosner , I haue great mervale that I haue noon answer
+fro you of the last lettres that I wrote to you , seyng that soom part
+of them wer mater of charge . FOX,73.017.393
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+And wher ye wrote to me to helpe sette forthe Delabere with certayne of
+the Kyngis garde and other seruaunts and folkis of my lord Hawardis ,
+soo it is that Delabere was with me at Sayncte Crosse vppon Ascension
+daye at dyner , FOX,73.017.394
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+and incontinent after dyner departed tawards Hampton ; FOX,73.017.395
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+and the morrowe after I went thidder . FOX,73.017.396
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+And the same daye comme thidder Rote with soom of the garde ,
+FOX,73.017.397
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+and as yistredaye comme the remenaunt , FOX,73.017.398
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+and this daye comme also with yong Braye certayne of my lord Hawardis
+folkis ; FOX,73.017.399
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+but the full noumbre be not yit comme . FOX,73.017.400
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+Delabere and Ichyngham , Rote with all his compaignye , and soom of my
+lord Hawardis folkis be departed hens this day . FOX,73.017.401
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+The wynd is good for them , FOX,73.017.402
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+and I trust they woll make good spede . FOX,73.017.403
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+Rote made great diligence in commyng hidder , FOX,73.017.404
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+and well and wisely hathe he ordred and shipped his compaignye .
+FOX,73.017.405
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+John Dawtrie hathe bothe shipped , vitayled and depeched them in the
+spedyest maner , FOX,73.017.406
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+and the same woll he doo for the remenaunt of my lord Hawardis folkis
+when they comme . FOX,73.017.407
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+And in like wise he woll prouide as many ships as may be had in thies
+parties ayenst the XV daye of this moneth , accordyng to your last
+writeng : as ye shall mor playnly vndrestond by his writeng .
+FOX,73.017.408
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+Yistredaye comme hidder a very good and goodly ship of Spaigne of CCC
+and above out of Flaundre , to lade wols heer . FOX,73.017.409
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+I haue advised that she $shall $be {TEXT:shalbe} reteigned for the
+Kyngis seruice , FOX,73.017.410
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+and soo John Dawtrey woll doo ; FOX,73.017.411
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+and except <P_74> the Kyng commaunde the contrarie , she $shall $be
+{TEXT:shalbe} oon of them that $shall $be {TEXT:shalbe} appoynted for
+such seruice as ye write of to be done , at and after the said XV daye
+of this monethe . FOX,74.017.412
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+And if she shall not be entreteigned therfor , ye must with all spede
+possible so certefie John Dawtrey , to thentent he may the rather
+discharge hir , soo that she put the Kyng to noo great cost .
+FOX,74.017.413
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+This nyght I propose to goo to Sayncte Crosse , and to morrowe to
+Portesmowthe to see howe the brewehowses theer goo forthwarde : wherof
+I shall aduertise you by the next . FOX,74.017.414
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+And forasmuch as ther gothe much vitaile out of the Thammys , much from
+hens and much out of the Westcontre , and all to {TEXT:to} tharmye ,
+and noon knoweth what another dothe , nor what yche of them sendeth
+thidder , it $shall $be {TEXT:shalbe} wisdomme that thadmirall be
+writen to , for to cause it to be soo distributed that euery ship haue
+that he ought to haue , and that the remenaunt may serve for a newe
+vitaileng ; and that the Kyng be not dowble charged nor ouerchargied
+with the vitaileng of any of them . FOX,74.017.415
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+Also thadmirall must be writen to that as sone as the vitailers comme
+to hym , that he depeche them and send them forthwith hidder agayn ,
+and that they bryng empty vessels with them . FOX,74.017.416
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+And ellis I assure you they can not be served of beer heer : like as ye
+$shall $be {TEXT:shalbe} mor playnly acertayned by John Dawtrey .
+FOX,74.017.417
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+And also they must haue wafters bothe commyng and goyng ,
+FOX,74.017.418
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+and ellis ther is good liklihod that they $shall $be {TEXT:shalbe} take
+vp by the waye . FOX,74.017.419
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+Ye had nede also write to them of the West contrey that they send
+hidder part of the empty foystes that be left theer with them .
+FOX,74.017.420
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+For if they shall reteigne all theer , and that noon shall comme hydder
+, it can doo noo seruice to brewe beer heer . FOX,74.017.421
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+Also I vndrestond that heer is much old piped befe in right great
+substance , left heer by Edward Ratclif : which is like to be lost .
+Wherfor it $shall $be {TEXT:shalbe} good that ye commaunde Edward
+Ratclif to <P_75> comme hidder and loke vppon it , and doo the best
+profite that can be doo therof . FOX,75.017.422
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+And thus fare ye hertely well FOX,75.017.423
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:66
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:40?
+LETTER:FOX_017:E1:1513:AUTOGRAPH:OTHER
+at Hampton the VIIJ=th= daye of Jung with the hand of your lovyng
+broder Ri. Wynton . FOX,75.017.424
+
+<Q_FOX_A_1514?_T_TDARCY> <L_FOX_018> <A_THOMAS_DARCY> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1467> <R_RICHARD_FOX> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1447>
+
+<P_77>
+
+{ED:48._FROM_DARCY}
+
+{COM:FROM_THOMAS_DARCY_TO_RICHARD_FOX}
+
+{ED:Templehurst._18_May_1514?.}
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:47?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:67?
+LETTER:FOX_018:E1:1514?:AUTOGRAPH:OTHER
+My verrey good lord , After most herty recomendacion and like thankis
+for yowr costly good cheiris and humanite shewd too me and my frendis
+att dyveris tymes , and specially att my retourne from $Spayn ; my good
+lord , of my faith vnfenyd , eveyn of verrey syngler faffour and trust
+that I hav in yow , I doo nowe send my trusty seruaunttis Lawrence
+Baynes and John Halile vnto yow , thatt for a sesson I may bee yowr
+storer by waye of lone of a certayn sowm of money : wich , if itt so be
+yowr pleasure , they shall deliuer vnto yowr good lordship my bond for
+in duble the sowm . FOX,77.018.425
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:47?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:67?
+LETTER:FOX_018:E1:1514?:AUTOGRAPH:OTHER
+My lord , I hav nott ben vssed to thes ways , FOX,77.018.426
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:47?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:67?
+LETTER:FOX_018:E1:1514?:AUTOGRAPH:OTHER
+ne trust nott much to be . FOX,77.018.427
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:47?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:67?
+LETTER:FOX_018:E1:1514?:AUTOGRAPH:OTHER
+Yowr often kynd offiris and wordis to me and the many good acttis and
+succowris that I hav knawen by yow don to dyveris yowr neybouris in
+ther nessessites , boldyns me that never deserued such a pleasure ,
+thus to writ and desir it of yow . FOX,77.018.428
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:47?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:67?
+LETTER:FOX_018:E1:1514?:AUTOGRAPH:OTHER
+My lord , with warres and hasty purchaissis of wardis & cet. I hav
+ouershott my selff , with paymenttis to be mayd in ouershortt tym ;
+FOX,77.018.429
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:47?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:67?
+LETTER:FOX_018:E1:1514?:AUTOGRAPH:OTHER
+and loth I wer to breke my credence as any poir man . FOX,77.018.430
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:47?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:67?
+LETTER:FOX_018:E1:1514?:AUTOGRAPH:OTHER
+I beseich yow , gif as faste credence to this berer and his felloo as
+ye wold too my selff , if I wer present with yow : as I can fynd in my
+hertt often to wissh me . FOX,77.018.431
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:47?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:67?
+LETTER:FOX_018:E1:1514?:AUTOGRAPH:OTHER
+And what they , ar ather of them , doth or deliuers for my ded , I
+shall withowt dowtt perfowrm , and , God woillyng , not breke onne day
+. FOX,77.018.432
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:47?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:67?
+LETTER:FOX_018:E1:1514?:AUTOGRAPH:OTHER
+My lord , ye had my hert inwardly {ED:?} to yow befor ; FOX,77.018.433
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:47?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:67?
+LETTER:FOX_018:E1:1514?:AUTOGRAPH:OTHER
+and if <P_78> yowr lordship doo this for me , mor ye can not hav , butt
+bynd me eftsones ; FOX,78.018.434
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:47?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:67?
+LETTER:FOX_018:E1:1514?:AUTOGRAPH:OTHER
+and all that may ly in me , $shall $be {TEXT:shalbe} redy for yow when
+I may do yow plesures . FOX,78.018.435
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:47?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:67?
+LETTER:FOX_018:E1:1514?:AUTOGRAPH:OTHER
+And thus yowr goodly desiris God send yow . FOX,78.018.436
+
+AUTHOR:THOMAS_DARCY:MALE:_:1467:47?
+RECIPIENT:RICHARD_FOX:MALE:_:1447:67?
+LETTER:FOX_018:E1:1514?:AUTOGRAPH:OTHER
+Written at my caben of Tempilhirst the XVIIJ=the= day of May .
+FOX,78.018.437
+
+<Q_FOX_A_1515_T_RFOX> <L_FOX_019> <A_RICHARD_FOX> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1447> <R_THOMAS_WOLSEY> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1473?>
+
+<P_79>
+
+{ED:50._TO_WOLSEY}
+
+{COM:FROM_RICHARD_FOX_TO_THOMAS_WOLSEY}
+
+{ED:Esher._20_July_1515.}
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:68
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:42?
+LETTER:FOX_019:E1:1515:AUTOGRAPH:OTHER
+My singular good lord , After my best recommendacion I send you herin
+enclosed a lettre that I receyved this day by this berar fro Mr
+Haniball ; by the which ye may vndrestond the inordinat , hedye and
+vnreligiose dealyng of the chanons of saynct Augustyne besidis Bristoll
+. FOX,79.019.438
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:68
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:42?
+LETTER:FOX_019:E1:1515:AUTOGRAPH:OTHER
+Yf I wer within the diocese of Worcestre , I cowde by calleng the evill
+disposed persons byfor me sone remedye the mater . FOX,79.019.439
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:68
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:42?
+LETTER:FOX_019:E1:1515:AUTOGRAPH:OTHER
+Mr Haniball myght doo the same if he durst , FOX,79.019.440
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:68
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:42?
+LETTER:FOX_019:E1:1515:AUTOGRAPH:OTHER
+but I perceyve well that he is a ferd . FOX,79.019.441
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:68
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:42?
+LETTER:FOX_019:E1:1515:AUTOGRAPH:OTHER
+I vndrestond also that Lloyd of the Kyngis chapell is the auctor of
+much of this busynesse . FOX,79.019.442
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:68
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:42?
+LETTER:FOX_019:E1:1515:AUTOGRAPH:OTHER
+I see well he wold make thabbot to gette hym a fee . FOX,79.019.443
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:68
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:42?
+LETTER:FOX_019:E1:1515:AUTOGRAPH:OTHER
+I see noo remedye in this mater but that Mr Haniball reteigne in his
+handis the Kyngis lettres patentis de libera eleccione : which shall
+cause soom of the chanons to resort to the courte to sue for it ,
+FOX,79.019.444
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:68
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:42?
+LETTER:FOX_019:E1:1515:AUTOGRAPH:OTHER
+and then shall ye mowe ordre them after your wisdomme . FOX,79.019.445
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:68
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:42?
+LETTER:FOX_019:E1:1515:AUTOGRAPH:OTHER
+Or ellis that it may plaise the Kyngis grace to send a doctor of his
+counsell with a gentilman of his house to the President and covent with
+his lettres , chargeyng them by the same to procede peaxibely and
+quietely to theyr eleccion , and in the same to be directed and ordred
+by theyr ordinaries Vicar generall ; and the Kyngis said seruauntis to
+see all folkis avoyded out of the monasterye dureng the tyme of the
+eleccion , and that the IIJ yong folys which sue for licence to haue
+voyces in eleccione , not withstandyng that <P_80> they be not in
+sacris , be vttrely excluded in the tyme of the eleccion .
+FOX,80.019.446
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:68
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:42?
+LETTER:FOX_019:E1:1515:AUTOGRAPH:OTHER
+And I woll vndretake that the covent shall paye theyr costs .
+FOX,80.019.447
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:68
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:42?
+LETTER:FOX_019:E1:1515:AUTOGRAPH:OTHER
+This is a perliese mater , for the evill example that may comme therof
+; FOX,80.019.448
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:68
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:42?
+LETTER:FOX_019:E1:1515:AUTOGRAPH:OTHER
+and therfor accordeng to your good begynnyng I beseche you hold your
+good hand to it . FOX,80.019.449
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:68
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:42?
+LETTER:FOX_019:E1:1515:AUTOGRAPH:OTHER
+Ther is also a nother waye FOX,80.019.450
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:68
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:42?
+LETTER:FOX_019:E1:1515:AUTOGRAPH:OTHER
+and that is this : scilicet that Mr Haniball suffre them to procede to
+theyr eleccion and lat them cheese at theyr perill ; and if they doo
+amysse , to reforme it at the tyme of the confirmacion . FOX,80.019.451
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:68
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:42?
+LETTER:FOX_019:E1:1515:AUTOGRAPH:OTHER
+I beseche your good lordship to ordre this mater after your wisdomme ,
+FOX,80.019.452
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:68
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:42?
+LETTER:FOX_019:E1:1515:AUTOGRAPH:OTHER
+and lat me haue knowlege therof , FOX,80.019.453
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:68
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:42?
+LETTER:FOX_019:E1:1515:AUTOGRAPH:OTHER
+and I and Mr Haniball shall conforme vs to the same ; FOX,80.019.454
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:68
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:42?
+LETTER:FOX_019:E1:1515:AUTOGRAPH:OTHER
+and thus I commit your good lordship to the Holy Trinite .
+FOX,80.019.455
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:68
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:42?
+LETTER:FOX_019:E1:1515:AUTOGRAPH:OTHER
+At Essher the XX daye of July FOX,80.019.456
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:68
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:42?
+LETTER:FOX_019:E1:1515:AUTOGRAPH:OTHER
+assuredly yours Ri. Wynton . FOX,80.019.457
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:68
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:42?
+LETTER:FOX_019:E1:1515:AUTOGRAPH:OTHER
+If it may like you to examyn this berar , he can shewe you much of the
+mysdemeanour , bothe of the chanons and of Lloyd , which shuld be put
+to silence . FOX,80.019.458
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:68
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:42?
+LETTER:FOX_019:E1:1515:AUTOGRAPH:OTHER
+To my lord of Yorkis good lordship . FOX,80.019.459
+
+<Q_FOX_A_1516_T_RFOX> <L_FOX_020> <A_RICHARD_FOX> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1447> <R_THOMAS_WOLSEY> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1473?>
+
+<P_82>
+
+{ED:52._TO_WOLSEY}
+
+{COM:FROM_RICHARD_FOX_TO_THOMAS_WOLSEY}
+
+{ED:Winchester._23_April_1516.}
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+My very singular good lord , In my most humble wise I recommaunde me to
+your good lordship . FOX,82.020.460
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+And wher I vndrestand by my fellow William Purde that of late your said
+lordship diuerse tymes asked of hym when I entended to be theer , and
+that finally ye commaunded hym to send to me for my commyng thidder :
+my lord , yf my impediments and the causes of my absence fro you wer
+not bothe resonable and necessare , and that I hade not the Kyngis
+licence to be occupied in my cure , wherby I maye doo soom satisfaccion
+for XXVIIJ yeres negligence , I wer greatly to be blamed ;
+FOX,82.020.461
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+and to your good lordship I shuld be vnkynde , consideryng and
+remembryng <P_83> your great goodnesse of tyme past . FOX,83.020.462
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+And as I haue said to your selve and to soom other also , I hade neuer
+better wyll to serve the Kyng that was my maker <paren> whos saule God
+pardone </paren> , then I haue to serve the Kyng his soon , my
+soueraigne lord that nowe is . And specially sens your good lordship
+hathe hade the great charge that ye haue in your hand : perceyveng
+better , straighttar and spedyar wayes of justice , and mor diligence
+and labour for the Kyngis rightis , duties and profitz to be in you
+then euer I see in tyme past in any other ; and that I my selve hade
+mor ease in attendance vppon you in the saide maters then euer I hade
+bifore , albe it I trust I gave you such attendance as ye woll not
+complayne of me . FOX,83.020.463
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+But , my lord , to serue wordly with the damnacion of my saule and many
+other sawles wherof I haue the cure , I am sure ye woll not desire .
+FOX,83.020.464
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+And as it shall please God to geve me grace , I shall endevor me to doo
+bothe God and the Kyng some seruice , FOX,83.020.465
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+and soo I tendrely beseche you , my nowne good lord , to be contented .
+FOX,83.020.466
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+I assure you , my lord , my absence fro you is neyther to hunt nor
+hawke nor to take noon other wordely plaisure , nor for ease of my
+bodye , nor yit for quietenesse of mynde : which is trowled nyght and
+daye with other mens enormites and vices mor then I dar write . Wherof
+I remembre ye shewed me ye hade soom knowlege , when ye wer bisshop of
+Lincoln : FOX,83.020.467
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+and of them I assure you ther is playntye heer with moch mor .
+FOX,83.020.468
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+But I haue prouided the medicine which I trust shall doo good seruice .
+FOX,83.020.469
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+Nor verely , my lord , I seke noo lucre of money . FOX,83.020.470
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+I pray God I may lucrari animas . FOX,83.020.471
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+Also , my lord , I considre well that ye haue as much labour of bodye
+and busynesse of mynde as euer hade any in your roumes , and moor ; and
+neuer noon hade lesse helpe . FOX,83.020.472
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+But of great weighty cause heer I noon . FOX,83.020.473
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+And soo themperor and the Swyshes spede well <paren> wherof I haue as
+great desire to heer as of any mater </paren> , FOX,83.020.474
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+I trust ye shall haue noo great trowbeleux maters . FOX,83.020.475
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+But your paynes be neuer the lesse . FOX,83.020.476
+
+<P_84>
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+And I require you and hertely praye you , laye a part all such
+busynesses fro VJ of the clok in the evenyng forthward : which , if ye
+woll vse it , shall after your intollerable labours greatly refresshe
+you . FOX,84.020.477
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+And , good my lord , when the terme is done , kepe the Counsell with
+the Kyngis grace whersoo euer he be . FOX,84.020.478
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+Thus , my lord , I presume docere Mineruam : FOX,84.020.479
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+but I write it of goode mynde and to goode entent , FOX,84.020.480
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+our Lord be my juge . FOX,84.020.481
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+Thus , my lord , I humbely and hertely beseche you to spare me of my
+commyng vp yit , and pluk me not fro the necessite that I am in , till
+I haue fyneshed it . FOX,84.020.482
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+And I shall make all diligence possible . FOX,84.020.483
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+And for farther declaracion of my mynde in this behalue and to thentent
+I doo you noo mor encomberance with this my long tediose lettre <paren>
+wherof I beseche you , my lord , of pardon </paren> , it may plaise you
+to geve credence to William Purde and benignely to considre all that he
+shall shewe you on my behalue . FOX,84.020.484
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+And I shall as hertely daily pray for you as any preste lyvyng .
+FOX,84.020.485
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+At Wynchestre the XXIIJ daye of Aprill with the hand of your assured
+prest and bedeman Ri. Wynton . FOX,84.020.486
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:69
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:43?
+LETTER:FOX_020:E1:1516:AUTOGRAPH:OTHER
+To my lorde Cardinall of Yorke . FOX,84.020.487
+
+<Q_FOX_A_1519_T_RFOX> <L_FOX_021> <A_RICHARD_FOX> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1447> <R_THOMAS_WOLSEY> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1473?>
+
+<P_121>
+
+{ED:71._TO_WOLSEY}
+
+{COM:FROM_RICHARD_FOX_TO_THOMAS_WOLSEY}
+
+{ED:Southwick._14_August_1519.}
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:72
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:46?
+LETTER:FOX_021:E1:1519:AUTOGRAPH:OTHER
+My most singular good lord , After my right humble recommendacion , I
+haue receyved your lettres by this berar ; wherby I perceyve that for
+diuerse causes mencioned in your said lettres , your grace thynketh
+expedient to prorogue the daye appoynted for like attendance to haue be
+yeven vppon your grace , as was in Lent last : wherin it hathe plaised
+the same to will me by your said lettres to shewe you my mynde .
+FOX,121.021.488
+
+<P_122>
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:72
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:46?
+LETTER:FOX_021:E1:1519:AUTOGRAPH:OTHER
+Plaise it you , my lord , me semeth the said causes be grounded vppon
+great wisdomme , and next Lent to be mor propice tyme for such treaties
+then any other . FOX,122.021.489
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:72
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:46?
+LETTER:FOX_021:E1:1519:AUTOGRAPH:OTHER
+And in the moyne season your grace by your wisdomme shall the mor
+assuredly knowe the resolucion of the religiose persons in such thyngs
+as towcheth theyr reformacion . FOX,122.021.490
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:72
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:46?
+LETTER:FOX_021:E1:1519:AUTOGRAPH:OTHER
+I thynk also that to attend vppon your grace at any tyme bifor the said
+resolucion be had , shall litell profite , and peraduenture shall not
+be honorable . FOX,122.021.491
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:72
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:46?
+LETTER:FOX_021:E1:1519:AUTOGRAPH:OTHER
+And therfor after my pouer witte the said prorogacion $shall $be
+{TEXT:shalbe} not only expedient but also necessare . FOX,122.021.492
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:72
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:46?
+LETTER:FOX_021:E1:1519:AUTOGRAPH:OTHER
+My lord , wold God that the pouer logeyng of Essher did content your
+grace as much as it reioyseth me that it can plaise you to vse yt ;
+FOX,122.021.493
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:72
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:46?
+LETTER:FOX_021:E1:1519:AUTOGRAPH:OTHER
+and in good faythe , my lord , the mor and the longar that ye doo vse
+it , the mor comfort shall it be to me . FOX,122.021.494
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:72
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:46?
+LETTER:FOX_021:E1:1519:AUTOGRAPH:OTHER
+And therfor I beseche your grace as hartely I can , vse it all wayes as
+often and as long as it shall plaise you , right as your owen ,
+FOX,122.021.495
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:72
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:46?
+LETTER:FOX_021:E1:1519:AUTOGRAPH:OTHER
+and make yt a selle to Hampton Courte : as the Kyng that deed is ,
+whoes saule Good pardone , made Hampton Courte and it selles to
+Richemont . FOX,122.021.496
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:72
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:46?
+LETTER:FOX_021:E1:1519:AUTOGRAPH:OTHER
+And I shall pray God send you as much good helthe , plaisure and
+comfort in yt as I wold wisshe my selve to haue . FOX,122.021.497
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:72
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:46?
+LETTER:FOX_021:E1:1519:AUTOGRAPH:OTHER
+From Suthwyk the XIIIJ day of August with the hand of your assured
+daily preste and bedeman Ri. Wynton . FOX,122.021.498
+
+AUTHOR:RICHARD_FOX:MALE:_:1447:72
+RECIPIENT:THOMAS_WOLSEY:MALE:_:1473?:46?
+LETTER:FOX_021:E1:1519:AUTOGRAPH:OTHER
+To my most singular good lord , my lord Cardinall of York , legat of
+England and chauncelar of the same . FOX,122.021.499

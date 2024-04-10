@@ -1,0 +1,1240 @@
+<B_WESA>
+
+<S_SAMPLE_1>
+
+<Q_WES_D_1632_T_TWENTWORT> <L_WESA_001> <A_THOMAS_WENTWORTH>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1593> <R_JAMES_HAY> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1580?>
+
+<P_1>
+
+{ED:LORD_WENTWORTH_TO_THE_EARL_OF_CARLISLE.}
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_001:E2:1632:UNKNOWN:OTHER
+My much honored Lord , Thorowe the favoure of yours of the nine and
+twentithe of the last moneth $me $thinks {TEXT:methinks} I see the
+affaires of the house of Austria a little to quicken againe ,
+WESA,1.001.1
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_001:E2:1632:UNKNOWN:OTHER
+for the intrenchmentt of the Swede showes the others to be maisters of
+the feilde ; WESA,1.001.2
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_001:E2:1632:UNKNOWN:OTHER
+and that soe many peeces of importance have declared themselves for
+Monsieur asseures me France will not be in case to hurtt Spaine abrode
+having soe much to doe for himself att home , being a solitary Prince
+and a heire apparantt the heade of a Party aganst him . WESA,1.001.3
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_001:E2:1632:UNKNOWN:OTHER
+Soe it seemes Fiat was a righteous man and taken from the evill to cum
+, which $me $thinks {TEXT:methinks} the Cardinall should hardly escape
+. WESA,1.001.4
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_001:E2:1632:UNKNOWN:OTHER
+But , if I may prie into the Arke , I beseeche your Lordship , whie doe
+not wee sum way or other declare ourselves roundly and put ourselves in
+sum posture , at least in sum hope of regaining the Palatinate .
+WESA,1.001.5
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_001:E2:1632:UNKNOWN:OTHER
+That Prince seems to me on all sides to be in the lande wheare all
+things are forgotten . WESA,1.001.6
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_001:E2:1632:UNKNOWN:OTHER
+Oh my Lord , the house of Austria hath a roote , WESA,1.001.7
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_001:E2:1632:UNKNOWN:OTHER
+will up againe ; WESA,1.001.8
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_001:E2:1632:UNKNOWN:OTHER
+the King of Swede can have noe time to make more then one faulte ,
+WESA,1.001.9
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_001:E2:1632:UNKNOWN:OTHER
+and that proves irremedilesse , if it should <P_2> chance to befalle
+him , WESA,2.001.10
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_001:E2:1632:UNKNOWN:OTHER
+therfore me thinks still it weare well we be not all togeither
+swallowed up in the contemplation of his last battell at Lipssick ;
+besides that in his successfull progresse hetherto he hath not
+presented himself soe lovely to us , as that we have cause to dote on
+him . WESA,2.001.11
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_001:E2:1632:UNKNOWN:OTHER
+And now , my Lord , give me leave to tell you how sore it presseth upon
+the zeale I have to serve you that my condition in this place affords
+me noe meanes to performe it , as I infinitly desire it might .
+WESA,2.001.12
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_001:E2:1632:UNKNOWN:OTHER
+In good faithe , one pleasure I have when I thinke of Irelande , and
+therin judge that imploymentt to have much the better of this ,
+WESA,2.001.13
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_001:E2:1632:UNKNOWN:OTHER
+it is that I hope ther to finde sum pathes open for my thankfullnesse
+to walke in , and to meete with sum of your interests in my passadge .
+WESA,2.001.14
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_001:E2:1632:UNKNOWN:OTHER
+Beleeve me , my Lorde , WESA,2.001.15
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_001:E2:1632:UNKNOWN:OTHER
+I will with all diligence and perseverance treade the stepps which may
+leade me to sum happy issue , which may becum in sum degree acceptable
+unto you and soe hartely apprehende your commaundes your honoure or
+benifitt , that he must be a bold man at armes that setts them and me
+asunder . WESA,2.001.16
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_001:E2:1632:UNKNOWN:OTHER
+Till I manifest unto your Lordship this constantt truthe , be pleased
+to oblige me by your beleefe <paren> whearin you shall never be
+deceaved </paren> of my remaining Your Lordship 's Most humble and most
+faithfull servantt , Wentworth . WESA,2.001.17
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_001:E2:1632:UNKNOWN:OTHER
+Yorke , WESA,2.001.18
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_001:E2:1632:UNKNOWN:OTHER
+this 12th of August , 1632 . WESA,2.001.19
+
+<Q_WES_A_1632_T_TWENTWORT> <L_WESA_002> <A_THOMAS_WENTWORTH>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1593> <R_JAMES_HAY> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1580?>
+
+<P_2>
+
+{COM:LORD_WENTWORTH_TO_JAMES_HAY,_THE_EARL_OF_CARLISLE.}
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_002:E2:1632:AUTOGRAPH:OTHER
+My very good Lord , Ther is upon the way towards your Lordship a whole
+kennall of houndes ; WESA,2.002.20
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_002:E2:1632:AUTOGRAPH:OTHER
+five cople of them are for me , WESA,2.002.21
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_002:E2:1632:AUTOGRAPH:OTHER
+nor was I ever maister of soe many before in all my life .
+WESA,2.002.22
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_002:E2:1632:AUTOGRAPH:OTHER
+I wishe they prove for your liking ; WESA,2.002.23
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_002:E2:1632:AUTOGRAPH:OTHER
+thus much in $ther $byhalfe , according to the dialecte of a Northeren
+Cracker . WESA,2.002.24
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_002:E2:1632:AUTOGRAPH:OTHER
+Ther ancestors weare of thos famouse Heroes that in the feildes of
+Hanworth and Wettwange weare of the cheefe in sentte and vewe ,
+WESA,2.002.25
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_002:E2:1632:AUTOGRAPH:OTHER
+and , if it came to a blacke hare , run doggs , <P_3> horse , and men
+cleare out of sighte , WESA,3.002.26
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_002:E2:1632:AUTOGRAPH:OTHER
+and the silly beaste was sure to die for it before she gott to the tow
+miles end . WESA,3.002.27
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_002:E2:1632:AUTOGRAPH:OTHER
+Your Lordship is left free to your beleafe , WESA,3.002.28
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_002:E2:1632:AUTOGRAPH:OTHER
+but thus much shall be sworne , if you desire an oathe for it ;
+WESA,3.002.29
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_002:E2:1632:AUTOGRAPH:OTHER
+what thes thar oxpring may performe upon the Alpes I $can $not
+{TEXT:cannot} be resolved by our huntsmen , WESA,3.002.30
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_002:E2:1632:AUTOGRAPH:OTHER
+but it is strongly supposed they will not prove Pejores avis ,
+WESA,3.002.31
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_002:E2:1632:AUTOGRAPH:OTHER
+and then the day is ours sure . WESA,3.002.32
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_002:E2:1632:AUTOGRAPH:OTHER
+The subjectt I am upon is ritche and noble , WESA,3.002.33
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_002:E2:1632:AUTOGRAPH:OTHER
+and losse it weare to give it over soe quickly ; WESA,3.002.34
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_002:E2:1632:AUTOGRAPH:OTHER
+but truly , my Lord , if I end not quickly I shall not see to write ,
+soe as I must intirely assigne them over to ther good fortune and
+myself to your favoure , wishing sum better occasion by which I may
+expresse unto you how sincerely and hartely I am Your Lordship 's Most
+faithfull and most humble servante , Wentworth . WESA,3.002.35
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_002:E2:1632:AUTOGRAPH:OTHER
+Yorke , WESA,3.002.36
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_002:E2:1632:AUTOGRAPH:OTHER
+this of December , 1632 . WESA,3.002.37
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_002:E2:1632:AUTOGRAPH:OTHER
+My humble service to my Ladye I beseeche you ; WESA,3.002.38
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:39
+RECIPIENT:JAMES_HAY:MALE:_:1580?:52?
+LETTER:WESA_002:E2:1632:AUTOGRAPH:OTHER
+for such is the speede and dullnesse of my sight as both conspire to
+give me noe leisure or meanes to write any more . WESA,3.002.39
+
+<Q_WES_D_1633_T_TWENTWORT> <L_WESA_003> <A_THOMAS_WENTWORTH>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1593> <R_JAMES_HAY> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1580?>
+
+<P_3>
+
+{COM:LORD_WENTWORTH_TO_JAMES_HAY,_THE_EARL_OF_CARLISLE.}
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+My very good Lorde , This place administers little matter whearupon to
+exercise the service I finde my hartte inclined to expresse unto your
+Lordship everywheare , which misfortune I trust my industrye and desire
+shall free me from the burthen of long labouring under and sett me in
+sum nearer and better posture to your affaires in Irelande , whear with
+extreame much comforte I flatter myself att least not to continue thus
+still uselesse and fruitlesse in thos lardge returnes towe your noble
+freindshippe . WESA,3.003.40
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+I have written to my Lord Mountnorris to pay over to Mr. Heye for your
+Lordship 's use the surplusadge of your wine customes in Irelande ,
+your rentt to his Ma=tie= deducted ; WESA,3.003.41
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+but I am not a little troubled with the apprehension that he will not
+take itt for a sufficient <P_4> warrantte for him to issue the m
+{ED:...} upon , as indeed itt is not , WESA,4.003.42
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+and soe your Lordship be disappointed . WESA,4.003.43
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+To helpe this the best I can till I can thether myself , I still call
+upon such of your servants as I conceave are intrusted with your
+businesse to hasten to your Lordship your warrantt from Mr. Atturney ,
+which may be returned backe heare and see the booke ready drawen
+accordingly aganst his Ma=ties= cumming hether , when your Lordship
+$will $be {TEXT:willbe} pleased to see it perfected , and past under
+the great seale . WESA,4.003.44
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+What they doe in it I heare not , WESA,4.003.45
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+but I will by God 's helpe goe to the Atturney myself , WESA,4.003.46
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+and , if they have slacked , I will not , nor suffer him to be in quiet
+till I procure itt and send it after you . WESA,4.003.47
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+Good my Lord , let it not be any longer neglected , WESA,4.003.48
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+for it is of greate value , WESA,4.003.49
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+and $will $be {TEXT:willbe} worthe your paines to have it finally and
+authentically settled in good forme of lawe . WESA,4.003.50
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+The Counsell goe every Sunday to waite upon the Queen . WESA,4.003.51
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+Her Ma=ty= useth them with great grace and civility ; WESA,4.003.52
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+but $me $thinks {TEXT:methinks} is sumthing sadde WESA,4.003.53
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+and lookes very much paler than she useth to doe . WESA,4.003.54
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+For myself , I am using all the diligence I possibly can to gett away ,
+WESA,4.003.55
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+and shall , God willing , be in a readinesse to begin my jurney soe
+soon as I heare Captaine Plumley is gott aboute to Beaumorris with the
+shipp that is to transporte me . WESA,4.003.56
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+He is allready out of the river , soe as the next post that cums from
+Chester I trust to have the newes of his safe arrivall , WESA,4.003.57
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+and till then it weare to very little purpose for me to stirre from
+hence . WESA,4.003.58
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+Wee heare ther is greate curtesyes passe betwixt your Lordship and my
+Lord of Hollande , WESA,4.003.59
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+and heare all his freinds make mighty addresses to my Ladye ,
+WESA,4.003.60
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+but weather out of true respectts to you tow singly , or complicated
+with sum secrett designe to fortifie themselves the better to make
+themselves more able to ballance to doe the Treasorour a shrewde turne
+, I conceave may in good judgmente be doubted ; WESA,4.003.61
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+for I am one of thos that beleeve noe miracles , but that freindshipps
+which are to be trusted grow up per media upon sum noble precedent
+existent matter , wheare thos <P_5> which are skiped into thus per
+saltum are for the most partte only to serve turnes and deceatfully
+temporary , and therfore ever to be suspected . WESA,5.003.62
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+It must be time and your owne wisdome which must discover this mistery
+, WESA,5.003.63
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+and therunto as unto lights much abler to discerne and judge I submitt
+itt , having myself noe other interest then to desire that all may
+succeede to the honoure and happinesse of your Lordship and my Ladye ;
+WESA,5.003.64
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+and then in good faithe I am well pleased <paren> that granted </paren>
+which way soever itt be convayed unto you . WESA,5.003.65
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+I am sorry this day proves soe ill as will of necessitye keep his M=ty=
+within doores , and by that meanes I feare hinder him from seaing the
+parke at Yorke , which I have taken soe much care to reserve out of the
+Forest , rather for the honoure and conveniency of the place I ther
+held than for any private benefitt of my owne ; WESA,5.003.66
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+for in good faith , my Lord , money is not the price with me of
+anything , WESA,5.003.67
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+but the kindnesse and love to my freinds , particularly to your
+Lordship , I confesse must not be denied whatever can be required , and
+in the power of Your Lordship 's Most faithfull humble servante ,
+Wentworth . WESA,5.003.68
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+Westminster . WESA,5.003.69
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_003:E2:1633:UNKNOWN:OTHER
+{ED:INDORSED:} 1633 , June 25 . WESA,5.003.70
+
+<Q_WES_D_1633_T_TWENTWORT> <L_WESA_004> <A_THOMAS_WENTWORTH>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1593> <R_JAMES_HAY> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1580?>
+
+<P_5>
+
+{COM:LORD_WENTWORTH_TO_JAMES_HAY,_THE_EARL_OF_CARLISLE.}
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_004:E2:1633:UNKNOWN:OTHER
+My very good Lord , Whatever my occasions or hast be , it must not
+deprive me the happiness of still putting your Lordship in remembrance
+of this servante of yours , who will ever be the readiest to receave
+and the most carefull to fullfill your commaundes in the whole world .
+WESA,5.004.71
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_004:E2:1633:UNKNOWN:OTHER
+Hear I am the whilst in excessive labourre to gett a little before
+hande with my businesse , if possibly I may be soe happy , being to
+deale with a generation that have the pointes of ther weapon turned
+<P_6> wholly to ther owne privates , but noe edge att alle for the
+publike ; WESA,6.004.72
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_004:E2:1633:UNKNOWN:OTHER
+heare they are as dull as sharpe and eager to cut out for themselves in
+the other . WESA,6.004.73
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_004:E2:1633:UNKNOWN:OTHER
+I see itt is a maxime amongst them to keepe the Deputye as ignorantt as
+possibly they can , that soe allbeit not in peace yet he may be
+subordinate to them in knowledge , which I take to be the true reason
+that not any of them hethertoo hath made me any proposition att all for
+the bettering of his Ma=tyes= service . WESA,6.004.74
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_004:E2:1633:UNKNOWN:OTHER
+I am purposed on the other side to open my eyes as wide as I can and
+dispaire not in time to be able to sounde the depthe they covett soe
+much to reserve from me . WESA,6.004.75
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_004:E2:1633:UNKNOWN:OTHER
+I finde all the revenew hear reduced to fee farmes and noe possible
+meanes consequently to advance it , and in the meane time greate
+matters expected , indeed impossibilities , from me in Englande , which
+is a wofull condition of a servant to dwell under the pressure of
+exspectation and be left or afforded noe meanes to dischardge himself
+from under the burthen of itt . WESA,6.004.76
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_004:E2:1633:UNKNOWN:OTHER
+I beseech your Lordship lett me in this , as I have dun in many things
+els , finde your favour , WESA,6.004.77
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_004:E2:1633:UNKNOWN:OTHER
+and be pleased to take me soe farre into your care as to weede out this
+growing inconvenience forth out of our maister 's minde , in case you
+at any time finde itt to shoote up with him . WESA,6.004.78
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_004:E2:1633:UNKNOWN:OTHER
+There is not many that have the meanes to doe it for me , nor many the
+particulars wherein you may oblige me more than in this . WESA,6.004.79
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_004:E2:1633:UNKNOWN:OTHER
+I shall be sure to doe the uttermost that lies in me , WESA,6.004.80
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_004:E2:1633:UNKNOWN:OTHER
+for I have a hartte can willingly sacrifice all that ever I have for
+his Ma=ty= <paren> if I doo not deceave myself </paren> with a
+chearfullnesse and faithe extraordinary ; WESA,6.004.81
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_004:E2:1633:UNKNOWN:OTHER
+only I am fearefull , that whilst impossibilities are exspected at my
+hands , the best I can doe should not be accepted , nay , imputed unto
+me as a crime . WESA,6.004.82
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_004:E2:1633:UNKNOWN:OTHER
+My Lord , I will detaine you noe longer , further then to beseeche you
+to be confidentt I must ever inviolatly approve myself Your Lordship 's
+Most humble and most faithfull servantt , Wentworth . WESA,6.004.83
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_004:E2:1633:UNKNOWN:OTHER
+Dublin , WESA,6.004.84
+
+AUTHOR:THOMAS_WENTWORTH:MALE:_:1593:40
+RECIPIENT:JAMES_HAY:MALE:_:1580?:53?
+LETTER:WESA_004:E2:1633:UNKNOWN:OTHER
+this 27th of August , 1633 . WESA,6.004.85
+
+<Q_WES_D_1642_T_TSAVILE> <L_WESA_005> <A_THOMAS_SAVILE> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1590?> <R_CHRISTIAN_TEMPLE[N.LEVESON]>
+<R-GENDER_FEMALE> <R-REL_---> <R-DOB_--->
+
+<P_1>
+
+{ED:LORD_SAVILE_TO_LADY_TEMPLE.}
+
+{ED:November,_1642.}
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+My Ladie Temple , I was verie much troubled at a report I had y=t=
+yo=r= house was visited w=th= y=e= plague , WESA,1.005.86
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+but am exceeding glad to heare so well of it now , as my Cosen Bland
+assures me , by a letter from yo=r=selfe , in w=ch= letter shee saith
+you write y=t= you are sorie to heare y=t= I have absolutelie declared
+my self ag=t= the p~liam=t= , w=ch= I wonder at this time to heare ,
+when all the gentlemen of this countie complaine of me to the King for
+being to affectionate to the p~liam=t= . WESA,1.005.87
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+And I am confident y=t= S=r= John Hotham himselfe will say otherwaies
+of me then you are enformed . WESA,1.005.88
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+But it hath beene my fortune still , ever to receive worst usage where
+I thought y=t= I had best deserved , and never more aparent then in the
+dealing w=ch= <paren> by misenformation I hope </paren> the parliament
+hath done to me . WESA,1.005.89
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+To you I may w=th=out vaunting say , that if this <P_2> parliam=t= have
+done anie greate matters for y=e= publique , ore are in a condition
+more free then other parliam=ts= , God w=ch= governes all things , and
+knowes all secretts , knowes this , that if I were not at first the
+onelie , yet I was <paren> though unworthie </paren> his chiefest ,
+instrum=t= to bring it to pass . WESA,2.005.90
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+I never so much as differd from them in anie thing whilst there was a
+syllable of the petition ungranted w=ch= wee delivered at Yorke , and
+was drawne , as you know , by Mr. Pymm himselfe and Mr. Sollicitor .
+WESA,2.005.91
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+And so farr onelie wee were obliged by covenant amongst oureselfes .
+WESA,2.005.92
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+For there alterations w=ch= they now desire in the Church , let my Lo.
+Say and Brooke witnes for me , if ever I was for it in my life ;
+WESA,2.005.93
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+and therefore in a free p~liam=t= why it was not lawfull for me to vote
+freelie , according to my conscience , w=th=out to be made of y=e=
+malignant partie , I could not imagine . WESA,2.005.94
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+Was there ever anie good message w=ch= they ever had from y=e= King but
+something I contributed to it ? WESA,2.005.95
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+Was there ever anie violent one but I oposed it ? WESA,2.005.96
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+The message at Windsor , where y=e= K. granted the militia , I drew
+<paren> which I have often hard of </paren> . WESA,2.005.97
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+When my Lo. Howard and Sir Philipp Stapleton was at Yorke , let them
+report of me what my part was ; WESA,2.005.98
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+what I did w=th= the King at Bev=r=ley , when my Lord of Holland and
+Sir Ph. Stapleton brought the overture of peace , let them and all the
+courte report . WESA,2.005.99
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+The message at Nottingham , where the King offered to take downe his
+standard , dismiss his forces , and recall his p~clamations , all the
+lordes know y=t= I both persuaded it , and w=th= my owne handes , by
+the King 's p~mission , drew it up . WESA,2.005.100
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+My Lord of Cumberlande 's Comission I protested against ,
+WESA,2.005.101
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+made my name be putt out of it , WESA,2.005.102
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+and where there was a clause to enable him to levie money uppon the
+countie , in the open assemblie of the gentlemen I declamed against it
+as being ag=t= the law and subiectes libertie , for w=ch= , as my Lord
+of Dorsit and others know , I was complained of to the King .
+WESA,2.005.103
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+Now I would faine know for w=ch= of these actes I am forbidden to sitt
+in parliam=t= and declared an enemie to the publique . WESA,2.005.104
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+Was I found guiltie of bringing up the armie ag=t= the parliam=t= , or
+privie to the Kings going into the Howse of Commons ? WESA,2.005.105
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+Was I so much as privie much less p~suading to his <P_3> leaving y=e=
+parliam=t= , and going to Yorke ? WESA,3.005.106
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+Was I not against both-1 his going ag=t= Hull , Coventrie , and Warwick
+? WESA,3.005.107
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+Have I taken anie commaund in the armie in this unnaturall warr ?
+WESA,3.005.108
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+Did I not retire to my owne howse <paren> when the King broke up his
+house , so as my attendance and oath tied me no longer </paren> in
+peace and quiett , and when I could do no further good , yet would not
+contribute to anie of the fatall evills w=ch= must follow ?
+WESA,3.005.109
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+Do I not at this time heere protect all ministers and others y=t=
+p~fess religion from y=e= violence of the times , so farr as to render
+me suspected to all my frendes ? WESA,3.005.110
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+Now , my Ladie Temple , iudge y=t= when men y=t= have done the
+contrarie to all y=e= good y=t= I have done , have done as much ag=t=
+the meeting of this p~lia=t= as I have done for it , as much ag=t=
+peace as I have done for it , have taken armes , commandes , ag=t= the
+parliam=t= , and still continew so ; have given publique and violent
+counsells when I gave peaceable ones ; yet not a man but myself , that
+I know this day in England <paren> without any impeachm=t= or calling
+to answer </paren> , is forbidden the p~liament howse , and stigmatized
+w=th= the name of enemie to the publique . I never yet could learne
+y=t= ever they had anie thing ag=t= me to balance all the good offices
+w=ch= I have done , but these 2 thinges onelie : the comminge downe to
+Yorke w=th=out leave , and contrarie to there order , and for what I
+did at Heworth Moore , in Yorkeshire , when the countie was assembled
+there by the King 's commaund ; to both w=ch= thus much .
+WESA,3.005.111
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+The oath which I tooke as Tresorer of y=e= King 's howse is flatt and
+plaine , to serve his Ma=tie= in y=t= office in his howse and not to
+departe w=th=out his espetiall licence had and obteigned first .
+WESA,3.005.112
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+As long as I could by anie mediation p~rvaile w=th= the King to let me
+stay at y=e= parliam=t= I did stay WESA,3.005.113
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+when he p~emptorilie under his owne hand , both-2 uppon paine of my
+allegiance , and my oathe taken , charged me to come downe and do my
+s=r=vice in his howse . I durst not forsweare my selfe , WESA,3.005.114
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+but came accordinglie WESA,3.005.115
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+and staied w=th= him whilst his household continued , WESA,3.005.116
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+and then went home ; WESA,3.005.117
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+for I was shutt out of the p~liam=t= by a vote before , my offence
+being that I durst not forsweare my selfe positivelie to obey an order
+, though manie went contrarie to there order <paren> no oath <P_4>
+compelling them neither </paren> , w=ch= for all that have no such
+sentence . WESA,4.005.118
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+For y=t= of Heworth Moore , w=ch= they declared me an enemie to the
+publique for doing , thus in breife :- WESA,4.005.119
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+Before my coming to Yorke the King had apoynted y=t= meeting ;
+WESA,4.005.120
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+and y=t= morning I , finding that the devided people entended to have
+pressed 2 petitions contrarie one to another uppon the King , w=ch= in
+such a mightie concourse of people might have ended in violence , and
+knowing that those who they terme the good partie , and who came
+fearefullie under my assurance and p~tection , were farr y=e= lesser
+number , I called to me John Reyner , Mr. Farer , Mr. Todd , Mr.
+Rigeley , and all the heades of that partie , WESA,4.005.121
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+and told them y=t= if they would assure me that there side would
+deliver no petition , I would take such order that the other should not
+. WESA,4.005.122
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+They repaired to there partie , WESA,4.005.123
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+and assured me there should be none delivered by them ; WESA,4.005.124
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+and so wee went to the field , WESA,4.005.125
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+and finding S=r= John Bourchier reading , as they said , a petition
+<paren> though it was none </paren> , I , conceving he did it in
+ignorance of oure agreem=t= , and contrarie to the will of the honest
+men of his side , tooke it from him . WESA,4.005.126
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+And now behold y=e= act y=t= makes me an enemie of y=e= Commonwealth .
+WESA,4.005.127
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+I have beene long in these expressions , because I desire you would let
+them be knowne , though not openlie publish my letter . WESA,4.005.128
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+To the truth of all in it God is witnes , and men allso .
+WESA,4.005.129
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+Madam , I am Yo=r= faithfull freind , Savile . WESA,4.005.130
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_005:E3:1642:UNKNOWN:OTHER
+Commend my service to my Ladie $Carlisle $and {ED:?} Bedford , and all
+my frendes , and particularlie to my poore Cozen Carr and his wife ,
+whose busines I am afraide may miscarie by reason of my absence from
+the courte , which greives me much . WESA,4.005.131
+
+<Q_WES_D_1642_T_TSAVILE> <L_WESA_006> <A_THOMAS_SAVILE> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1590?> <R_CHRISTIAN_TEMPLE[N.LEVESON]>
+<R-GENDER_FEMALE> <R-REL_---> <R-DOB_--->
+
+<P_5>
+
+{ED:THE_SAME_TO_THE_SAME.}
+
+{COM:TO_LADY_TEMPLE}
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_006:E3:1642:UNKNOWN:OTHER
+Ma. I shall ever augnowledge you have done me the office of a frend ,
+and in that way wherin I most valew frendshipp , that is in good
+offices to the parliam=t= , towards whome , though I know my owne harte
+, how it is and ever hath beene sett , yet it is now a greate office of
+frendshipp to make one to be understood as he is . WESA,5.006.132
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_006:E3:1642:UNKNOWN:OTHER
+Comend my service to my Lord Sey and to noble Sir Ph. Stapleton ,
+WESA,5.006.133
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_006:E3:1642:UNKNOWN:OTHER
+and assure them that I will never forgett y=e= publique nor these
+p~ticuler favoures <paren> if it please God to leave me anie power
+</paren> . WESA,5.006.134
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_006:E3:1642:UNKNOWN:OTHER
+Tell my Lo. Sey y=t= peradventure he may be as falselie represented
+where I am at the courte , as I may be where he is at the parliam=t= .
+WESA,5.006.135
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_006:E3:1642:UNKNOWN:OTHER
+I desire but the same iustice from him there as he shall be sure to
+find from me heere , and to believe thus of me , that either I will see
+such an acomodation as I may live in court in the fellowshipp of noble
+, vertuous , and deserving persons , or at least not at all w=th= such
+persons <paren> whome he may imagine </paren> y=t= shall beare sway .
+WESA,5.006.136
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_006:E3:1642:UNKNOWN:OTHER
+For anie honor to be done to the howse by anie augnowledgm=t= of mine I
+shall never grudge , nor thinke I took anie honor y=t= the howse gaines
+by me . WESA,5.006.137
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_006:E3:1642:UNKNOWN:OTHER
+My hart should second my wishes in comming to you , but y=t= this
+bearer can tell you how strictlie wee are beseiged heere , so as not so
+much as a serving man , much less my selfe , can yet stirr one mile out
+of towne . WESA,5.006.138
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_006:E3:1642:UNKNOWN:OTHER
+And w=ch= is most miserable , oure deliverance in probabilitie must
+come by my Lord of Newcastle 's forces , manie of which are Papists as
+his declaration <paren> w=ch= I presume you have seene </paren> will
+let you understand : all which doth leade me into the consideration of
+those unspeakable miseries which this once flourishing contrie doth now
+grone under . WESA,5.006.139
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_006:E3:1642:UNKNOWN:OTHER
+First S=r= John Hotham 's and y=e= Lincolnshire forces called to his
+assistance under the pretence of setling the militia and seazing of
+delinquents , this countie <paren> I will speake faithfullie </paren>
+hath been robbed of and impoverished above a hundred thowsand pound
+w=th=in this little space , and {ED:...} manie licentious plunderings
+and villanies committed as are incredible , and <P_6> w=ch= I am loth
+to name , because done under the sacred name of parliament ; and to say
+truth according to there power , much after the same manner done by
+oures . WESA,6.006.140
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_006:E3:1642:UNKNOWN:OTHER
+And to remedie all this and to make the mesure of there suffrings full
+the loosing side is glad to call in my Lord of Newcastle w=th= men
+qualified as aforesaid ; WESA,6.006.141
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_006:E3:1642:UNKNOWN:OTHER
+and p~adventure my Lord of Derbie allso , if t'other be not sufficient
+, will be called in allso , to do as much for the one part as hath
+allreadie been don to the other , and so leave no one p~son between
+them that shall not be made miserable , ruined , and undone , besides
+an occasion given the Romanistes to assemble in a bodie together .
+WESA,6.006.142
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_006:E3:1642:UNKNOWN:OTHER
+For preventing of this miserie I am now as active as I can ;
+WESA,6.006.143
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_006:E3:1642:UNKNOWN:OTHER
+and if I can prevaile and y=t= anie reason will satisfie the parliam=t=
+forces , wee will endure it rather than admitt this cure , w=ch= being
+effected or attempted to my power , if I can gett by anie meanes away ,
+you shall see me shortlie after ; WESA,6.006.144
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_006:E3:1642:UNKNOWN:OTHER
+and in the meane space I will be preparing WESA,6.006.145
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_006:E3:1642:UNKNOWN:OTHER
+and shall ever rest Your faithfull frend and servant . WESA,6.006.146
+
+<Q_WES_D_1642_T_TSAVILE> <L_WESA_007> <A_THOMAS_SAVILE> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1590?> <R_CHRISTIAN_TEMPLE[N.LEVESON]>
+<R-GENDER_FEMALE> <R-REL_---> <R-DOB_--->
+
+<P_6>
+
+{ED:THE_SAME_TO_THE_SAME.}
+
+{COM:TO_LADY_TEMPLE}
+
+{ED:December,_1642.}
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+Madam , I did receive youre letter , which was dated the 29 of Octob.
+uppon the of November , WESA,6.007.147
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+so it had a verie slow passage . WESA,6.007.148
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+All letters are now opened , WESA,6.007.149
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+so I am glad to disguise my hand neither-1 with superscription nor
+subscription ; WESA,6.007.150
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+the bearer will know who to deliver it unto , WESA,6.007.151
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+and you will then easilie guess from whome it comes . WESA,6.007.152
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+You desire to know what my aimes and intentions are , that my frendes
+may do me service . WESA,6.007.153
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+I answer , the same they ever was ; WESA,6.007.154
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+since you let in my Lord Lowden , I would not have the K. trample on
+y=e= p~liam=t= nor the p~liament lessen him so much as to make a way
+for the people to rule us all . WESA,6.007.155
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+I hate papists so much as I would not have the King necessetated to use
+them for his defence , nor owe <P_7> anie obligation unto them .
+WESA,7.007.156
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+I love religion so well as I would not have it putt to the hazard of a
+battle . WESA,7.007.157
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+I love libertie so much that I would not trust it in the handes of a
+conqueror . WESA,7.007.158
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+For as much as I love the King , I should not be glad he beate the
+p~liam=t= , though they were in the wrong . WESA,7.007.159
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+I would do all good offices I could for the parliam=t= , WESA,7.007.160
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+and me thinkes I could do manie w=th=out loosing either my conscience
+or my master . WESA,7.007.161
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+If they would give me leave and if I might uppon those faire and
+Christian termes , I would be glad to come to my house at London ,
+where I should be able to enlarge myselfe further then now I dare where
+nothing can pass w=th=out search . WESA,7.007.162
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+Madam , you see , as I ever did , that I speake freelie , and not as
+biased nor enclined by the p~liam=ts= success ; WESA,7.007.163
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+for wee heere are assured the K. is prosperous at this time neere
+London . WESA,7.007.164
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+The Q. wee heare , last night landed at Newcastle with great supplies
+from Denmarke . WESA,7.007.165
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+My Lo. of Newcastle and wee heere have almost ten thousand men together
+; WESA,7.007.166
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+and yet my desires are still the same to have no conquests of either
+side , WESA,7.007.167
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+nor shall ever desire to live to see the ruine of an English parliam=t=
+. WESA,7.007.168
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+I will say it once againe , WESA,7.007.169
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+if I may safelie and honorablie come to London , I doupt not but they
+shall find there worst frend is not com . WESA,7.007.170
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+Since I writt first unto you Mr. Hotham <paren> when I litle expected
+such a comand </paren> by a command from y=e= parliam=t= , as he saith
+, hath seased on my howse , and all I have , to the valew of som <font>
+l. </font> in money and goodes , WESA,7.007.171
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+and yet threatens to deface the carcase of Howley . WESA,7.007.172
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+Whether I have deserved this usage God will determine one day ,
+WESA,7.007.173
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+and how iust it is the aughters will feele . WESA,7.007.174
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+I am infinitelie glad , for all this that my Cleopatra is recovered ,
+that all youres are well , WESA,7.007.175
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+and would be mightie glad to see both my cozen Carrs . WESA,7.007.176
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+{ED:COVER_ADDRESSED:} For La. Te. . WESA,7.007.177
+
+AUTHOR:THOMAS_SAVILE:MALE:_:1590?:52?
+RECIPIENT:CHRISTIAN_TEMPLE[N.LEVESON]:FEMALE:_:_:_
+LETTER:WESA_007:E3:1642:UNKNOWN:OTHER
+Lincolne Ins feildes . WESA,7.007.178

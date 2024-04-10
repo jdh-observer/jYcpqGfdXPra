@@ -1,0 +1,2431 @@
+<B_FFARING>
+
+<Q_FFA_D_1547_T_ESTANLEY> <L_FFARING_001> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_HENRY_FFARINGTON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_123>
+
+{ED:LETTER_1._EDWARD_EARL_OF_DERBY_TO_SIR_HENRY_FFARINGTON_KNT.}
+
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:39
+RECIPIENT:HENRY_FFARINGTON:MALE:_:_:_
+LETTER:FFARING_001:E1:1547:UNKNOWN:OTHER
+Wellbyloved : I commend me to you , FFARING,123.001.1
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:39
+RECIPIENT:HENRY_FFARINGTON:MALE:_:_:_
+LETTER:FFARING_001:E1:1547:UNKNOWN:OTHER
+and whereas I this first day of August receyved l~rs from my lord
+P'tectors Gc~e coma~dyng me by the same to furnyshe & set forthward a
+certeyn nombre of light horsemen to be made w~yn this shire , wherfore
+this is to desire and also in the Kings Majesties behalf to comand
+yo=u= y=t= ye incontynent upon the sight hereof w=th= all spede
+possible do furnyshe and set furth warde on light horseman well
+harnised as apperteyneth , w=th= a redde coate made of the Cassok
+fas~on , and he to be at berwick the vij=th= day of August or assone
+aft=r= as he possible can , there to serve the Kyng as he $shall $be
+{TEXT:shalbe} further appoynted FFARING,123.001.2
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:39
+RECIPIENT:HENRY_FFARINGTON:MALE:_:_:_
+LETTER:FFARING_001:E1:1547:UNKNOWN:OTHER
+ffayle ye not in thus doyng , as ye woll stande to y=r= awnswere for
+the contr~ie at y=r= jeop'die . FFARING,123.001.3
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:39
+RECIPIENT:HENRY_FFARINGTON:MALE:_:_:_
+LETTER:FFARING_001:E1:1547:UNKNOWN:OTHER
+ffrom lathom the first day of August . FFARING,123.001.4
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:39
+RECIPIENT:HENRY_FFARINGTON:MALE:_:_:_
+LETTER:FFARING_001:E1:1547:UNKNOWN:OTHER
+Edward Derby . FFARING,123.001.5
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:39
+RECIPIENT:HENRY_FFARINGTON:MALE:_:_:_
+LETTER:FFARING_001:E1:1547:UNKNOWN:OTHER
+To my welbyloved Sir Henry ffaryngton Knight ,
+
+give this in hast . FFARING,123.001.7
+
+<Q_FFA_D_1548_T_ESTANLEY> <L_FFARING_002> <A_EDWARD_STANLEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1508> <R_HENRY_FFARINGTON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_124>
+
+{ED:LETTER_EDWARD_EARL_OF_DERBY_TO_SIR_HENRY_FFARINGTON_OTHERS.}_COD
+E
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:40
+RECIPIENT:HENRY_FFARINGTON:MALE:_:_:_
+LETTER:FFARING_002:E1:1548:UNKNOWN:OTHER
+Right welbeloved : I commend me unto yo=u= . FFARING,124.002.8
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:40
+RECIPIENT:HENRY_FFARINGTON:MALE:_:_:_
+LETTER:FFARING_002:E1:1548:UNKNOWN:OTHER
+And wheras I have p'sently receyved l~rs from my lord protectors grace
+, and others of the pryvye Counsell , for certein of the Kynges
+Ma=ties= affayres , that is to witt , for the furnyshynge of a certein
+nombre of pyoneers out of Lancashyre to serve the Kynges Maiestie :
+which must be tall and able menne , such as at nede may furnyshe a
+soldiers parte . I therfor have thought gud and also concluded that you
+shall immediately upon the recept hereof w=th= all diligence furnyshe &
+set forth the nombre of {ED:TORN_OFF} able and tall menne beyng pyoners
+, to be levyed and taken within the hundreth of leylonde , and they and
+any of them to have harnes & weapon as to a Sowdiour is requisite , and
+to take suche order as they may be redye to sett forward upon one
+howres warnynge undre the conduccion of Sir Thomas Talbott Knyght ,
+fforseyng alway ye spare Sir Thomas Holcrofte his ten~nts out of this
+nombre , and that ye certifye unto the said Sir Thomas Talbott as
+hastilie as yo=u= can possiblie the names and surnames w=th= the
+habitacions of all those said pyoners which you shall appoynt , to
+thyntente he maye vewe & muster theym accordyngly . FFARING,124.002.9
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:40
+RECIPIENT:HENRY_FFARINGTON:MALE:_:_:_
+LETTER:FFARING_002:E1:1548:UNKNOWN:OTHER
+Wyllyng you on the Kynges behalfe to see this duelye executed w=th= all
+expedition as ye tender the Kynges affayres and wyll awnswere to the
+contrarye at your perylles . FFARING,124.002.10
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:40
+RECIPIENT:HENRY_FFARINGTON:MALE:_:_:_
+LETTER:FFARING_002:E1:1548:UNKNOWN:OTHER
+And further , I shall desyre yo=u= that these my l~res may be sente
+w=th= all spede from any one of you to other , and thrw=th= to p'fyxe a
+day of your meeting for the spedy expedic~on hereof .
+FFARING,124.002.11
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:40
+RECIPIENT:HENRY_FFARINGTON:MALE:_:_:_
+LETTER:FFARING_002:E1:1548:UNKNOWN:OTHER
+And so fare ye well . FFARING,124.002.12
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:40
+RECIPIENT:HENRY_FFARINGTON:MALE:_:_:_
+LETTER:FFARING_002:E1:1548:UNKNOWN:OTHER
+At lathom the xij=th= day of June , 1548 . FFARING,124.002.13
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:40
+RECIPIENT:HENRY_FFARINGTON:MALE:_:_:_
+LETTER:FFARING_002:E1:1548:UNKNOWN:OTHER
+Edward Derby . FFARING,124.002.14
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:40
+RECIPIENT:HENRY_FFARINGTON:MALE:_:_:_
+LETTER:FFARING_002:E1:1548:UNKNOWN:OTHER
+To my Right Welbeloved <P_125> Sir Harrye ffaryngton Kt .
+FFARING,125.002.15
+
+AUTHOR:EDWARD_STANLEY:MALE:_:1508:40
+RECIPIENT:HENRY_FFARINGTON:MALE:_:_:_
+LETTER:FFARING_002:E1:1548:UNKNOWN:OTHER
+Thomas Hesketh , Andrew Barton , and Richard Lathom esquyers , and Hugh
+Dyconson , and to everye of them give these . FFARING,125.002.16
+
+<Q_FFA_A_1651_T_OCROMWELL> <L_FFARING_003> <A_OLIVER_CROMWELL>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1599> <R_COLONEL_BIRCH>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_156>
+
+{ED:LETTER_27._OLIVER_CROMWELL_TO_COLONEL_BIRCH.}
+
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:52
+RECIPIENT:COLONEL_BIRCH:MALE:_:_:_
+LETTER:FFARING_003:E3:1651:AUTOGRAPH:OTHER
+Sir , I doe well assure you that befour this I sent you an order to bee
+assistinge in the expedition against the Isle of Man ,
+FFARING,156.003.17
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:52
+RECIPIENT:COLONEL_BIRCH:MALE:_:_:_
+LETTER:FFARING_003:E3:1651:AUTOGRAPH:OTHER
+but hearing nothing from you , I doubt whether my orders came to you .
+FFARING,156.003.18
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:52
+RECIPIENT:COLONEL_BIRCH:MALE:_:_:_
+LETTER:FFARING_003:E3:1651:AUTOGRAPH:OTHER
+But now I thought fitt to sende this desire that <paren> Coll. Lilburne
+being employed another way </paren> you would be assistinge to Coll.
+Duckenfield in this seruice , who is the Comander Cheefe .
+FFARING,156.003.19
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:52
+RECIPIENT:COLONEL_BIRCH:MALE:_:_:_
+LETTER:FFARING_003:E3:1651:AUTOGRAPH:OTHER
+I reste your uery lovinge friend O. Cromwell . FFARING,156.003.20
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:52
+RECIPIENT:COLONEL_BIRCH:MALE:_:_:_
+LETTER:FFARING_003:E3:1651:AUTOGRAPH:OTHER
+Sep=r= 1651 . FFARING,156.003.21
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:52
+RECIPIENT:COLONEL_BIRCH:MALE:_:_:_
+LETTER:FFARING_003:E3:1651:AUTOGRAPH:OTHER
+ffor the Hon=ble= Coll. Birch at Leuerpoole theise post hast .
+FFARING,156.003.22
+
+<Q_FFA_C_1650_T_RBRADSHAW> <L_FFARING_004> <A_RICHARD_BRADSHAW>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1610?> <R_OLIVER_FLEMING>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_156>
+
+{ED:LETTER_28._RICHARD_BRADSHAW_TO_SIR_OLIVER_FLEMING.}
+
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:OLIVER_FLEMING:MALE:_:_:_
+LETTER:FFARING_004:E3:1650:COPY:OTHER
+Sir , I shall not keep silence except you forbid me ,
+FFARING,156.004.23
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:OLIVER_FLEMING:MALE:_:_:_
+LETTER:FFARING_004:E3:1650:COPY:OTHER
+but now and then I must kisse yo=r= hands . FFARING,156.004.24
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:OLIVER_FLEMING:MALE:_:_:_
+LETTER:FFARING_004:E3:1650:COPY:OTHER
+If I had any materiall newes I should confidently impart it unto you
+and not think myself in the error of anticipation by what is to you
+com~unicated . FFARING,156.004.25
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:OLIVER_FLEMING:MALE:_:_:_
+LETTER:FFARING_004:E3:1650:COPY:OTHER
+I enclose you the <font> Europaisch </font> , FFARING,156.004.26
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:OLIVER_FLEMING:MALE:_:_:_
+LETTER:FFARING_004:E3:1650:COPY:OTHER
+and for what more I have from the Eastern parts , do <paren> because of
+hast </paren> refer you to mine $per {TEXT:p.} this post to Mr.
+Secretary Frost . FFARING,156.004.27
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:OLIVER_FLEMING:MALE:_:_:_
+LETTER:FFARING_004:E3:1650:COPY:OTHER
+The last l~res brought abundance of good newes from all relations at
+home ; FFARING,156.004.28
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:OLIVER_FLEMING:MALE:_:_:_
+LETTER:FFARING_004:E3:1650:COPY:OTHER
+I doubt not but God will follow his with mercy <P_157> still .
+FFARING,157.004.29
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:OLIVER_FLEMING:MALE:_:_:_
+LETTER:FFARING_004:E3:1650:COPY:OTHER
+The smart handling of Montrose hath turned the edge of the fury of his
+people from the English now to the Scotts ; whose king <paren> $it $'s
+{TEXT:its} said </paren> was the 14=th= present with 3 great shippes at
+an island at the entrance of this river , but staid not longer than to
+day : FFARING,157.004.30
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:OLIVER_FLEMING:MALE:_:_:_
+LETTER:FFARING_004:E3:1650:COPY:OTHER
+if it were , and $it $'s {TEXT:its} p'bable , those late north west
+winds have putt him off the coaste , FFARING,157.004.31
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:OLIVER_FLEMING:MALE:_:_:_
+LETTER:FFARING_004:E3:1650:COPY:OTHER
+and then it may fall out that Admiral Dean may meet with him ere he
+land in Scotland , where if he were , I thinke we should be at more
+certainty for p'ceedings . FFARING,157.004.32
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:OLIVER_FLEMING:MALE:_:_:_
+LETTER:FFARING_004:E3:1650:COPY:OTHER
+I must beg pardon for this brevity . FFARING,157.004.33
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:OLIVER_FLEMING:MALE:_:_:_
+LETTER:FFARING_004:E3:1650:COPY:OTHER
+I am , Sir , Your most humble and affectionate Servant .
+FFARING,157.004.34
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:OLIVER_FLEMING:MALE:_:_:_
+LETTER:FFARING_004:E3:1650:COPY:OTHER
+Hamburg FFARING,157.004.35
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:OLIVER_FLEMING:MALE:_:_:_
+LETTER:FFARING_004:E3:1650:COPY:OTHER
+18=th= Junii . FFARING,157.004.36
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:OLIVER_FLEMING:MALE:_:_:_
+LETTER:FFARING_004:E3:1650:COPY:OTHER
+Sir , I pray p'sent my humble service to my lo: President and his Lady
+: FFARING,157.004.37
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:OLIVER_FLEMING:MALE:_:_:_
+LETTER:FFARING_004:E3:1650:COPY:OTHER
+I am loath too often to trouble his Lopp. with Letters .
+FFARING,157.004.38
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:OLIVER_FLEMING:MALE:_:_:_
+LETTER:FFARING_004:E3:1650:COPY:OTHER
+I am strugling with this Senate , who stroake the Parl=t= with one hand
+and strike them with the other . FFARING,157.004.39
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:OLIVER_FLEMING:MALE:_:_:_
+LETTER:FFARING_004:E3:1650:COPY:OTHER
+But I shall have y=m= at a better passe ere long , FFARING,157.004.40
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:OLIVER_FLEMING:MALE:_:_:_
+LETTER:FFARING_004:E3:1650:COPY:OTHER
+and in y=e= mean time hold y=e= right of y=e= Commonwealth of England ;
+though it uexeth me a little to see such a m - State to give the
+Parl=t= respect by halfes . FFARING,157.004.41
+
+<Q_FFA_C_1650_T_RBRADSHAW> <L_FFARING_005> <A_RICHARD_BRADSHAW>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1610?> <R_MR_STRICKLAND>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_158>
+
+{ED:LETTER_29._RICHARD_BRADSHAW_TO_MR._STRICKLAND.}
+
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+Sir , My last to you is of y=e= 15=th= instant . FFARING,158.005.42
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+I have now yo=rs= of y=e= 24 : 14 dicto , FFARING,158.005.43
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+thereby doe p'ceive y=e= differences in Holland grow higher daily , and
+y=t= there is a Resident expected at y=e= Haghe from y=e= Pretend=r= .
+FFARING,158.005.44
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+Sure the Province of Holland will have no hand in his Reception ;
+FFARING,158.005.45
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+it will not suite with their sending of a com~ission=r= to y=e=
+Parlement . FFARING,158.005.46
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+$It $'s {TEXT:Its} here certainly reported y=e= P. with 3 great shipps
+were y=e= 15=th= and 16=th= of this moneth at Heylighen Land , an
+Island in y=e= entranse of this River , so that y=e= Admirall Deane may
+probably meet with him before he land in Scotland . FFARING,158.005.47
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+Some of y=e= Cavalliers give it forth here that y=e= Parlement of
+Scotland will not ratifye y=e= agreement at Breda , pretending y=e=
+com~issioners have gone beyond their commission . FFARING,158.005.48
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+I am party of opinion our army gone northwards will have a great
+influence upon y=e= Scots , to sett them at odds with their King ; and
+that if they can tell how to do it , they will declyne him ;
+FFARING,158.005.49
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+if they doe not , they are the veriest fooles in y=e= world :
+FFARING,158.005.50
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+and if they doe , they are y=e= veriest <P_159> knaves ;
+FFARING,159.005.51
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+they have so y=e= wolfe by y=e= eares . FFARING,159.005.52
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+I believe you will shortly heare of their complyance with y=e=
+Parlem=t= of England , in which there 's more danger than in all y=e=
+force they and their king can raise . FFARING,159.005.53
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+I have it from Dunkirk that Cockram hath borrowed from y=e= Queene of
+Poland gilders upon interest , to pay when his master gets his crownes
+again . FFARING,159.005.54
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+Since my last I hear little of Jones his factor here , of whom I writt
+you in my last . FFARING,159.005.55
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+The last posts letters from London say that Col. Popham and Blake were
+joyned . The Resident was gone on board the Admirall , and y=t= they
+had demanded y=e= shipps under Rupert to be delivered to them , which
+being refused , ours have seized 7 shipps of y=e= Brasill fleete going
+into Lisbon , and detain them till the shippes under Rupert be
+delivered . FFARING,159.005.56
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+This is newes from y=e= merchants , FFARING,159.005.57
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+but I haue not any thing of it from y=e= State . FFARING,159.005.58
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+I suppose if it be true you haue it confirmed ere this .
+FFARING,159.005.59
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+The English Company here haue chosen me their deputy .
+FFARING,159.005.60
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+This court <paren> as being y=e= chiefe </paren> hath y=e= power of
+electing all y=e= officers for all y=e= other branches of y=e= company
+, London , Rotterdam , &c . FFARING,159.005.61
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+We suffer not any here to bear office that have not subscribed ,
+FFARING,159.005.62
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+neither shall we permit such to sitt in court for y=e= future , being
+so commanded by y=e= Parl=t= . FFARING,159.005.63
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+I wish we knew who are y=e= well affected men at Rotterdam , that we
+might use none but such . FFARING,159.005.64
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+To-morrow we shall proceede to y=e= election . FFARING,159.005.65
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+I shall try to deferre y=e= choice of y=e= officers at Rotterdam untill
+we certainly know from some there who are y=e= well affected , that
+such only may have y=e= power in their hands , as here now they have it
+. FFARING,159.005.66
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+The inclosed is all y=e= newes here at present : FFARING,159.005.67
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+only this day $it $'s {TEXT:its} reported y=e= treaty at Nurnburgh is
+ended . FFARING,159.005.68
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+Frankendall to bee delivered up within 3 moneths , and y=e= Palsgrave
+to have in lieu thereof untill y=e= time R. dollars p~. mensem .
+FFARING,159.005.69
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+I have not other at present but to assure you that I am Yo=r= most
+humble servant . FFARING,159.005.70
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+Hamburgh FFARING,159.005.71
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:MR_STRICKLAND:MALE:_:_:_
+LETTER:FFARING_005:E3:1650:COPY:OTHER
+21 June . FFARING,159.005.72
+
+<Q_FFA_C_1650_T_RBRADSHAW> <L_FFARING_006> <A_RICHARD_BRADSHAW>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1610?> <R_GUALTER[WALTER]_FROST>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1598?>
+
+<P_160>
+
+{ED:LETTER_30._RICHARD_BRADSHAW_TO_MR._SECRETARY_FROST.}
+
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+Sir , I am now with yo=rs= of the 14=th= currant , not doubting lesst
+mine by the last weeks will come safe to yo=r= hands .
+FFARING,160.006.73
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+I hoped with these to haue sent you the Senates positive answer to my
+late renewed demaunds touching respect at all times , as Resident ,
+FFARING,160.006.74
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+but they promise it tomorrow . FFARING,160.006.75
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+In y=e= mean time I send you here a copy of a paper I sent them , since
+I received y=e= Counsell 's commands to require a due respect .
+FFARING,160.006.76
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+I have premised no other for title than they have afforded me of late .
+FFARING,160.006.77
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+I presume I have neither bin too high nor sought right in a precarious
+manner , but as near as I could suitable to y=e= state of affairs
+betwixt us . FFARING,160.006.78
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+I perceaved very well y=e= Senate would have rested in y=e= answer they
+sent me , w=ch= yet was proposed as a temperament , w=ch= caused me to
+protest against it . FFARING,160.006.79
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+The particulars of disrespect insisted upon in y=e= latter part of y=e=
+paper , are such only as are well known to y=e= Senate , and of which
+they $can $not {TEXT:cannott} quitt themselves . FFARING,160.006.80
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+And truly I thought it was high time for mee to let them know my sense
+of such proceedings . FFARING,160.006.81
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+According to y=e= command of y=e= Counsell at y=e= last Generall Court
+here , I signified the Counsell 's pleasure touching those of y=e=
+Company that did not ingage , FFARING,160.006.82
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+and declared to them they were not to sitt and vote in Court as others
+who had subscribed , nor to expect protection from y=e= Parlem=t= .
+Whereupon all that had not engaged , departed the Court , grommelent .
+FFARING,160.006.83
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+And at parting I allso declared to them <paren> according to command in
+y=e= Counsell 's letters </paren> y=e= danger of corresponding with
+Charles Stewart or any his instrum=ts= in this citty , to bee no less
+then treason ; to which one Medcaulfe <paren> a most imbittered
+Cavallier </paren> made answer in y=e= hearing of all y=e= court , that
+he thought there were none in court worthy to correspond with such a
+noble prince ; for which <P_161> calling him presently to account ,
+laying before him y=e= danger hee had runne himself into , in so openly
+declaring that to be a worthy act w=ch= the Parlem=t= haue made &
+declared treason , thinking hee would haue recanted ;
+FFARING,161.006.84
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+but hee persisted , further affirming it was his opinion & he knew no
+reason hee should be sorry for it . Whereupon the Court proceeded to
+sentence him to prison till y=e= Parlem=ts= pleasure should be further
+knowne concerninge him , offering to accept of bayle ,
+FFARING,161.006.85
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+but he refused , FFARING,161.006.86
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+and so was committed to y=e= officer in open Court ; FFARING,161.006.87
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+but before he came to y=e= officer 's house <paren> y=e= place where ye
+companies prison is </paren> he made an escape , for which y=e= officer
+is suspended his place , and to be further punished if he bring him not
+in before y=e= next Court ; which I beleeve he $can $not {TEXT:cannot}
+, for that I heare Medcaulf went presently <paren> with some other of
+his feather & as deep in for uile language as hee , one having said in
+y=e= English House seuerall times since y=e= engagement was subscribed
+here , that they were all Rogues & perjured Villaines that had engaged
+</paren> to y=e= Chief Burger Mast=r=. <paren> one of little affection
+to our Republique , if not a great enemy </paren> and desired
+protection against y=e= Court ; which is against their oathes as free
+men . FFARING,161.006.88
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+What the Citty will doe in it , time will discouer . FFARING,161.006.89
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+Y=e= Court must & will shortly putt them to it , for y=t= by the
+Articles of Agreement with y=e= Company , y=e= Senate are to giue y=e=
+Court assistance to compell refractory members . FFARING,161.006.90
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+We shall haue some bussling about this businesse , which will occasion
+a cleere discouery of this Senates reall respect unto y=e= Parlem=t= .
+FFARING,161.006.91
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+I uerily beleeue they will denye y=e= Court their assistance ,
+FFARING,161.006.92
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+and then y=e= malignants being many will grow uery high .
+FFARING,161.006.93
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+Wee shall if they waue y=e= Courts com~ands & orders proceed to
+disfranchize them , w=ch= is according to y=e= rules in Court , not
+doubting but y=e= State will approue of our just proceedings therein ,
+& will be pleased to signifye their further pleasures for our
+proceedings against & with such contumacious persons that they may be
+cutt off from trade at London & here , w=ch= will <P_162> be y=e= onely
+meanes to curb their insolency . FFARING,162.006.94
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+And this I pray you moue y=e= Counsell in $w=th= $all {TEXT:w=th=all}
+speed <paren> otherwise they will not ualue being putt out of Court &
+y=e= Parlem=ts= protection if y=e= Citty protect them </paren> that if
+this Citty denye us their assistance , wee may know to carry the
+businesse to y=e= pleasure of y=e= State . FFARING,162.006.95
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+The Senates loose expression of their neutrality is the Rise of all
+this Stomackfullnesse in the malignants . FFARING,162.006.96
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+Allso I desire to know if any will yet engage if I shall receaue their
+subscriptions , FFARING,162.006.97
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+for I am not yet specially impowred , FFARING,162.006.98
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+yet if any will come in , in y=e= meane time , I shall not refuse them
+. FFARING,162.006.99
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+This day we haue newes by a letter from Madrid of the 8=th= instant to
+one of y=e= Senators , that Mr. Ascome & his Secretary should both be
+slaine at his table in his owne lodgings at dinner , y=e= same day or
+shortly after his coming to Madrid , by 4 or 5 of y=e= English Papists
+in y=e= absence or treachery of his Guard y=e= King had giuen him .
+FFARING,162.006.100
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+One of the Senators sent me word of this by his Secretary this day .
+FFARING,162.006.101
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+If it should be true , I suppose by this time you know it .
+FFARING,162.006.102
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+I should much lament the death of y=e= gentleman and y=e= States losse
+, FFARING,162.006.103
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+but I hope to haue better newes from you next post .
+FFARING,162.006.104
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+Howeuer y=e= report goes here with much credit , FFARING,162.006.105
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+and y=e= malignants are not a little heightened by y=e= report of so
+cruell a murther , threatening to doe as much by me ere long .
+FFARING,162.006.106
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+But I praise God I fear them not , FFARING,162.006.107
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+neither shall I slacken my hand in my just duty , whilst y=e= State
+think fitt to command me heer . FFARING,162.006.108
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+I doubt not of his protection that hath kept me hitherto .
+FFARING,162.006.109
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+I thanke you for y=e= good newes in yo=r= last . FFARING,162.006.110
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+What presents since my last you haue enclosed . FFARING,162.006.111
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+I shall not trouble y=e= Counsell with my letters before I haue the
+Senates answer , desiring you will present w=t= of this to their Lo'pps
+you shall thinke fitt . FFARING,162.006.112
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+With my most humble service , so I shall euer rest Sir , Yo=r= most
+humble Ser=ut= . FFARING,162.006.113
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+Hamburgh , FFARING,162.006.114
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+25 June , . FFARING,162.006.115
+
+<P_163>
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+The sad newes of Mr. Ascomes death is confirmed at instant by y=e=
+Antwerp poste to be done by y=e= Irish Villaines . FFARING,163.006.116
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:GUALTER[WALTER]_FROST:MALE:_:1598?:52?
+LETTER:FFARING_006:E3:1650:COPY:OTHER
+I hope y=e= Parlem=t= will thinke of securing y=e= rest abroad , y=t=
+are euery day in y=e= same danger . FFARING,163.006.117
+
+<Q_FFA_C_1650_T_RBRADSHAW> <L_FFARING_007> <A_RICHARD_BRADSHAW>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1610?> <R_NAME_UNKNOWN_4>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_163>
+
+{ED:LETTER_31._RICHARD_BRADSHAW_TO_MY_LORD_PRESIDENT.}
+
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+My Lord , My last is three daies since by Mr. Bethel 's partner , who
+may arriue ere these . FFARING,163.007.118
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+I haue now writt again to y=e= Counsell of y=e= p'sent condition myself
+FFARING,163.007.119
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+and y=e= well affected are in with this Senate & Citty since y=e=
+putting of non subscribers out of Court and y=e= newes of Mr. Ascome 's
+death . FFARING,163.007.120
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+I humbly desire your Lo'pp to consider that from my arrivall I haue by
+each week 's post truely certified your Lo'pp and y=e= Counsell what
+manner of entertainment I haue found with this Senate .
+FFARING,163.007.121
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+If I could content myself with such an outside formall respect as this
+Senate think fitt to giue the State of England , suitable to their
+neutrall maximes , and suffer y=e= malignant merchants in y=e= English
+House , and in y=e= uery face of y=e= Court , to sleight and speak
+reproachfully of y=e= present Gouernment in England , I might probably
+find more safety to myself . FFARING,163.007.122
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+But I must be faythful , though I perish in y=e= doing of my duty .
+FFARING,163.007.123
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+I beseech yo=r= Lo'pp to command my letter now writt to y=e= Councell ,
+and be pleased to p'use it , y=t= I may not here trouble yo=r= Lo'pp
+with the particulars there inserted . FFARING,163.007.124
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+The Reports this people haue of y=e= great Forces w=th= the Pretender
+in Scotland , and their hopes to see great matters don by them puts the
+Senate at this distance . FFARING,163.007.125
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+The Parlem=t= haue their complements , but their Enemies their hearts .
+FFARING,163.007.126
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+Though I am daily threatened , especially <P_164> since the newes of
+Mr. Ascome 's death , it is but in uaine for me to seek redresse from
+y=e= Senate . FFARING,164.007.127
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+I haue nothing when I complain but smooth jeeres from y=m= , as I haue
+more particularly certified y=e= Councell . FFARING,164.007.128
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+I am not able to judge of the necessity of holding a correspondence
+with such a newtrall citty , FFARING,164.007.129
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+but I fear all y=e= aduantage y=e= State can haue of it will not
+countervail y=e= dishonour , w=ch= in my poor apprehension comes by it
+, whilst this Senate are not made more sensible of their suitable
+corresponding . FFARING,164.007.130
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+A smart letter from the Parlem=t= to rouze them from their base
+neutrality , and counselling & abbetting y=e= malignant English
+merchants against y=e= Court & Company , would <paren> my Lord </paren>
+undoubtedly haue its good effects . FFARING,164.007.131
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+A six moneth 's warning would be best of all . FFARING,164.007.132
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+I write not this more out of apprehension of my own danger than y=e=
+sense I haue of the dishonour cast upon y=e= Republique of England .
+FFARING,164.007.133
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+I thank God I feare not to sacrifice my life for y=e= cause of God and
+my Country . FFARING,164.007.134
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+If I may but liue hear as is suitable to y=e= place I bear , I shall
+not fear to liue amongst them , were they as many Devills .
+FFARING,164.007.135
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+But to liue in such a condition , wholly declined by y=e= Senate , the
+malignants of our own country kept from justice , so as I can do
+nothing suitable to those ends I came about , is as bad as Death to me
+. FFARING,164.007.136
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+I hope yo=r= Lo'pp will excuse my plain expressions , and think of y=e=
+condition myself and all y=e= well affected here are in , that at last
+this Citty may knowe to putt a difference betwyxt y=e= Parlem=t= and
+y=e= Pretender . FFARING,164.007.137
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+The Senate 's masterpiece is to keep in with yo=r= Enemies to see what
+issue y=e= Northern conjunction may haue . FFARING,164.007.138
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+They presume they can alwaies make their peace w=th= y=e= Parl=mt= ,
+FFARING,164.007.139
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+but y=e= other they dare not p'voke , whom they fancy will shortly haue
+y=e= Parl=mt= at their pleasures ; FFARING,164.007.140
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+and withall , they desire to weary out y=e= well affected , that they
+should remooue of themselves , and the malignant merchants to continue
+y=e= trade amongst themselves . FFARING,164.007.141
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+But I hope , if y=e= State think fitt to call of y=e= Company , this
+Citty shall not haue free trade with the Parlem=ts= <P_165> Enemies ,
+but feel the smart of their wantonnesse . FFARING,165.007.142
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+If yo=r= Lo'pp please to send for Mr. Bethel , Mr. Crispe and Mr.
+Hechstetter , they $will $be {TEXT:wilbe} able to giue yo=r= Lo'pp some
+satisfaction for what may most concern y=e= Company .
+FFARING,165.007.143
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+I shall not further trouble yo=r= Lo'pp . FFARING,165.007.144
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+Hamburg , FFARING,165.007.145
+
+AUTHOR:RICHARD_BRADSHAW:MALE:_:1610?:40?
+RECIPIENT:NAME_UNKNOWN_4:MALE:_:_:_
+LETTER:FFARING_007:E3:1650:COPY:OTHER
+2=d= July . FFARING,165.007.146
+
+<Q_FFA_A_1651_T_JWAYNWRIGHT> <L_FFARING_008> <A_JAMES_WAYNWRIGHT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_RICHARD_BRADSHAW>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1610?>
+
+<P_165>
+
+{ED:LETTER_MR._JAMES_WAYNWRIGHT_TO_THE_HONOURABLE_RICHARD_BRADSHAW.
+}
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+London , FFARING,165.008.147
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+6th June 1651 . FFARING,165.008.148
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+Sir , I have rec=d= yours of the 27=th= past FFARING,165.008.149
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+and have the bill of from Gowen Hudson . FFARING,165.008.150
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+I have delivered him what Acquittances I have of yours for Mr.
+ffauconberg , FFARING,165.008.151
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+and for that account between you and me Gowen hath seen it
+FFARING,165.008.152
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+and may have it out , FFARING,165.008.153
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+but I have some little standing out upon yo=r= ordinance between Banks
+and Parsons that hath been often p'mised but will now be p'formed as
+Mr. Banks tells me {ED:...} FFARING,165.008.154
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+You will $hear that Syllye is surrendered . FFARING,165.008.155
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+Though the terms bee not so hon~ble as wee could wish , still
+{ED:there_are} those that rejoyce at it . FFARING,165.008.156
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+The next plase you will her of the Island of Man w=ch= I hope will
+proue less difficult . FFARING,165.008.157
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+O=r= condition in Ireland is uery good in the field .
+FFARING,165.008.158
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+The Deputies forces and Ulster forces and Leinster entered into
+Conought , FFARING,165.008.159
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+and of each side of the rebeles of Scotland wee haue taken the field .
+FFARING,165.008.160
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+The Scotts are come over Starling . FFARING,165.008.161
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+Wee expect some {ED:forces} here speedily , FFARING,165.008.162
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+I suppose this month if they doe not retreat . FFARING,165.008.163
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+You have heard that the Portinghall Embassador is gone w=th=out any
+conclusion or hope of any . FFARING,165.008.164
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+For matters at home wee go from stepe to stepe on in o=r= new Goverment
+, FFARING,165.008.165
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+and hope to accomplish it at last , or leave it in a good posture to
+o=r= Executors . FFARING,165.008.166
+
+<P_166>
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+I pray you present my Seruis to yo=r= laydey , FFARING,166.008.167
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+and soe will take leaue . FFARING,166.008.168
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+I reste Y=r= assured to comand James Waynwright . FFARING,166.008.169
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_008:E3:1651:AUTOGRAPH:OTHER
+ffor the Hon=ble= Richard Bradshaw Esq. Lord Resident for the state of
+England in Hamburge . FFARING,166.008.170
+
+<Q_FFA_A_1651_T_JWAYNWRIGHT> <L_FFARING_009> <A_JAMES_WAYNWRIGHT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_RICHARD_BRADSHAW>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1610?>
+
+<P_166>
+
+{ED:LETTER_33._THE_SAME_TO_THE_SAME.}
+
+
+{COM:JAMES_WAYNWRIGHT_TO_RICHARD_BRADSHAW.}
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+London FFARING,166.009.171
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+29=th= August 1651 . FFARING,166.009.172
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+Sir , My last to you was of the 22=d= ditto , wherein I doe p'ceive you
+have {ED:followed?} of the Royal stamp still , that if they have an
+inch will beare witness and make it an ell . FFARING,166.009.173
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+I believe euery week will lessen ther comforth and add to there misery
+that have nothing ells to keep up their harts . FFARING,166.009.174
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+This week the Earl of Darbie and about some viii more weare left in
+Lanc=r= to raise forces , FFARING,166.009.175
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+but some p't of the Lord Gen=rall= armye <paren> being there under the
+command of Colo. Lilburne , one of the armye , who had troops horse , 1
+Reg=mt= foot , some from Chester and Leverpool </paren> , met with them
+upon the foresaid day in and about Wigan , when there was a despratt
+dispute for an hower , fought while they could stand ;
+FFARING,166.009.176
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+Wonded the Earl , FFARING,166.009.177
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+but he escaped . FFARING,166.009.178
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+Rowted all the rest . FFARING,166.009.179
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+Killed the Lord Witherington , Sir Thomas Tildesley , Sir W=m=
+Throckmorton , <P_167> Sir ffrancis Gamwell , Colo. Bointon , Colo.
+Trollope , Colo. Gerrard , Major Anderton , dyvers others .
+FFARING,167.009.180
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+4 C taken prisoners , manye w=ch= are ether officers or Gent=n= .
+FFARING,167.009.181
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+The rest fled into Chester towards Wayles , FFARING,167.009.182
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+but will not thence escape . FFARING,167.009.183
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+We lost men , but more wounded . FFARING,167.009.184
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+This is the first ernest . FFARING,167.009.185
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+The King is got to Woster with his Armye , FFARING,167.009.186
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+some say uery stronge . FFARING,167.009.187
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+Hee hath fortefied Woster and entreanched at Upton within 8 miles their
+. FFARING,167.009.188
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+Some say will choose whether hee will fight . FFARING,167.009.189
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+The Lord Gen~=all= is about Woster FFARING,167.009.190
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+I think about M. horse and foot . FFARING,167.009.191
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+Some say the K. has M. or aboue . FFARING,167.009.192
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+It may prove a winters warr as they do say . FFARING,167.009.193
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+Wee shall put sore at it . FFARING,167.009.194
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+The next weeke will scarce tell us any thing being all our old
+shouldiers are away except o=r= fresh men w=ch= is not to be confided
+in . FFARING,167.009.195
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+I $can $not {TEXT:cannot} tell you what more to writt
+FFARING,167.009.196
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+but what I writt take it for truth . FFARING,167.009.197
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+Present my seruices to y=r= laydy . FFARING,167.009.198
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+Tell her she will neuer see Sir ffrancis Gamwell more .
+FFARING,167.009.199
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+If Bro: Hen: wants the news , I pray acquaint him with this good .
+FFARING,167.009.200
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+Lord a darbie went away with a {ED:heavy?} face ; FFARING,167.009.201
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+he was sore cutt as they writt mee . FFARING,167.009.202
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+I heare not ells , FFARING,167.009.203
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+but am yor=s= to comand , James Waynwright . FFARING,167.009.204
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+To the Right Hon=ble= Richard Bradshaw Esq . Lord Resident for the
+Comon Wealth of England these . FFARING,167.009.205
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_009:E3:1651:AUTOGRAPH:OTHER
+franco f=r= Hambro . FFARING,167.009.206
+
+<Q_FFA_A_1651_T_JWAYNWRIGHT> <L_FFARING_010> <A_JAMES_WAYNWRIGHT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_RICHARD_BRADSHAW>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1610?>
+
+<P_167>
+
+{ED:LETTER_34._THE_SAME_TO_THE_SAME.}
+
+
+{COM:JAMES_WAYNWRIGHT_TO_RICHARD_BRADSHAW.}
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_010:E3:1651:AUTOGRAPH:OTHER
+London , FFARING,167.010.207
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_010:E3:1651:AUTOGRAPH:OTHER
+the 29=th= Sept. 1651 . FFARING,167.010.208
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_010:E3:1651:AUTOGRAPH:OTHER
+Sir , My last to you was of the 12=th= ditto , so that I need not nor
+$can $not {TEXT:cannot} add , being sufficient for you this season ,
+wherein there <P_168> is enough for you to rejoyce in .
+FFARING,168.010.209
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_010:E3:1651:AUTOGRAPH:OTHER
+I haue little but to acquaint you , I haue yors of the 9=th= present ,
+and therein you p'ceave you are a p'fitt . FFARING,168.010.210
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_010:E3:1651:AUTOGRAPH:OTHER
+darbies defeat was an earnest of o=r= great Victorye .
+FFARING,168.010.211
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_010:E3:1651:AUTOGRAPH:OTHER
+I know noe man hath escaped but the Scotts K. , Buckingham , &
+{ED:Hynd?} the great Rober , who was his stout M=r= Genrall .
+FFARING,168.010.212
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_010:E3:1651:AUTOGRAPH:OTHER
+I had thought I had in sev=ll= letters writt you of the Receipt of from
+the Council upon yo=r= bill of Exchange . FFARING,168.010.213
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_010:E3:1651:AUTOGRAPH:OTHER
+Great matters haue been moued in P'lm=nt= but all deferred , & a fast
+concluded next Friday for direction and a blessinge on the settlement
+of the Comon wealth . FFARING,168.010.214
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_010:E3:1651:AUTOGRAPH:OTHER
+This quarter will tell you how you $shall $be {TEXT:shalbee} gouerned
+and what great man wee shall haue either-1 as K. or P'tector .
+FFARING,168.010.215
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_010:E3:1651:AUTOGRAPH:OTHER
+Wee must haue some such thing . FFARING,168.010.216
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_010:E3:1651:AUTOGRAPH:OTHER
+I doe not see how it $will $be {TEXT:wilbee} avoyded , tho modestie &
+other sercumstances may keep us from it . FFARING,168.010.217
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_010:E3:1651:AUTOGRAPH:OTHER
+I wish it to day rather than tomorrow . FFARING,168.010.218
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_010:E3:1651:AUTOGRAPH:OTHER
+Then wee shall haue a period to all o=r= troubles . FFARING,168.010.219
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_010:E3:1651:AUTOGRAPH:OTHER
+I may not writt you all , FFARING,168.010.220
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_010:E3:1651:AUTOGRAPH:OTHER
+but will leaue it till forther discouery and take my leaue , and rest
+yo=r= assured to comand , James Waynwright . FFARING,168.010.221
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_010:E3:1651:AUTOGRAPH:OTHER
+darbie $will $be {TEXT:wilbee} tryd at Chester and dy at Boulton
+{ED:BLANK} FFARING,168.010.222
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_010:E3:1651:AUTOGRAPH:OTHER
+O=r= desygne is now for his Ilond , w=ch= I shall rejoyce in it were in
+o=r= hands , hee breed soe much misheff . FFARING,168.010.223
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_010:E3:1651:AUTOGRAPH:OTHER
+To the Hon=ble= Richard Bradshaw Lord Resident for the State of England
+in Hamburge . FFARING,168.010.224
+
+<Q_FFA_A_1651_T_JWAYNWRIGHT> <L_FFARING_011> <A_JAMES_WAYNWRIGHT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_RICHARD_BRADSHAW>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1610?>
+
+<P_169>
+
+{ED:LETTER_35._THE_SAME_TO_THE_SAME.}
+
+
+{COM:JAMES_WAYNWRIGHT_TO_RICHARD_BRADSHAW.}
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_011:E3:1651:AUTOGRAPH:OTHER
+London , FFARING,169.011.225
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_011:E3:1651:AUTOGRAPH:OTHER
+the 1 Nov. 1651 . FFARING,169.011.226
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_011:E3:1651:AUTOGRAPH:OTHER
+Sir , I have yor=s= of the 28 ult. , FFARING,169.011.227
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_011:E3:1651:AUTOGRAPH:OTHER
+and the enclosures were delivered FFARING,169.011.228
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_011:E3:1651:AUTOGRAPH:OTHER
+and that to Hamburge was sent . FFARING,169.011.229
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_011:E3:1651:AUTOGRAPH:OTHER
+I shall upon Monday p'vide what you writt to be sent thither , because
+we her Boyer goeth thither ether Monday or Tuesday .
+FFARING,169.011.230
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_011:E3:1651:AUTOGRAPH:OTHER
+Mr. Oram is not in towne . FFARING,169.011.231
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_011:E3:1651:AUTOGRAPH:OTHER
+When hee went , left order to pay mee ; FFARING,169.011.232
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_011:E3:1651:AUTOGRAPH:OTHER
+the rest must stay till he come , w=ch= $will $be {TEXT:wilbee} this
+week or two . FFARING,169.011.233
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_011:E3:1651:AUTOGRAPH:OTHER
+For the o=th= pip of wynn when he comes shall doe something therein .
+FFARING,169.011.234
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_011:E3:1651:AUTOGRAPH:OTHER
+For debentures in Drury Howse for delinquents lands you may bye for
+18=li= , I thinke , & soe am told . FFARING,169.011.235
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_011:E3:1651:AUTOGRAPH:OTHER
+Noe surveys yet come up , nor noe sales , FFARING,169.011.236
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_011:E3:1651:AUTOGRAPH:OTHER
+and therefore $can $not {TEXT:cannot} advise those sould out within
+term . FFARING,169.011.237
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_011:E3:1651:AUTOGRAPH:OTHER
+These things $will $be {TEXT:wilbee} cleare to you .
+FFARING,169.011.238
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_011:E3:1651:AUTOGRAPH:OTHER
+For news there is none , but what I writt to Gowen the last post .
+FFARING,169.011.239
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_011:E3:1651:AUTOGRAPH:OTHER
+The King landed in holland , & was convoyed from thence to france , who
+is now in Parris . FFARING,169.011.240
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_011:E3:1651:AUTOGRAPH:OTHER
+Wee expect the Duch embassy her . FFARING,169.011.241
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_011:E3:1651:AUTOGRAPH:OTHER
+I wish they may not kisse our great toe , or that o=r= state bee not
+flattered by them to the comon preiudice , but that they hould to what
+they haue beganne . FFARING,169.011.242
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_011:E3:1651:AUTOGRAPH:OTHER
+I am dayley at Exchange asked what you will do for Dixon , whom I
+referr to you . FFARING,169.011.243
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_011:E3:1651:AUTOGRAPH:OTHER
+I know not what ells to writt you , but that I am yo=r= assured to
+comand . James Waynwright . FFARING,169.011.244
+
+<Q_FFA_A_1651_T_JWAYNWRIGHT> <L_FFARING_012> <A_JAMES_WAYNWRIGHT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_RICHARD_BRADSHAW>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1610?>
+
+<P_169>
+
+{ED:LETTER_36._THE_SAME_TO_THE_SAME.}
+
+
+{COM:JAMES_WAYNWRIGHT_TO_RICHARD_BRADSHAW.}
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_012:E3:1651:AUTOGRAPH:OTHER
+London , FFARING,169.012.245
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_012:E3:1651:AUTOGRAPH:OTHER
+the 8th November 1651 . FFARING,169.012.246
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_012:E3:1651:AUTOGRAPH:OTHER
+Sir , I haue yours of the 4=th= ditto . FFARING,169.012.247
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_012:E3:1651:AUTOGRAPH:OTHER
+I thank you for your news , which is as seasonable as welcome , from
+the Ile of Man . FFARING,169.012.248
+
+<P_170>
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_012:E3:1651:AUTOGRAPH:OTHER
+Mr. Orome is not yet come home . FFARING,170.012.249
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_012:E3:1651:AUTOGRAPH:OTHER
+My man tells me that next week he is expected . FFARING,170.012.250
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_012:E3:1651:AUTOGRAPH:OTHER
+For delinquents surveys there is Sir George Bynion come in near london
+; sould for 28 yers purchase . FFARING,170.012.251
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_012:E3:1651:AUTOGRAPH:OTHER
+It may be others further remote may come cheap . FFARING,170.012.252
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_012:E3:1651:AUTOGRAPH:OTHER
+I writt you last Saturday that Ed: Boyar would goe away Monday
+followinge , FFARING,170.012.253
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_012:E3:1651:AUTOGRAPH:OTHER
+but hee fell down last Saboth day . FFARING,170.012.254
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_012:E3:1651:AUTOGRAPH:OTHER
+Soe I was prevented of sending what you ordered , w=ch= came to laite ,
+& must bee p'formed by the next , w=ch= will not be longe .
+FFARING,170.012.255
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_012:E3:1651:AUTOGRAPH:OTHER
+I sent yors to yor laydy per post . FFARING,170.012.256
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_012:E3:1651:AUTOGRAPH:OTHER
+The p. p. I keep for Bowyar . FFARING,170.012.257
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_012:E3:1651:AUTOGRAPH:OTHER
+For news wee have little to writt , FFARING,170.012.258
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_012:E3:1651:AUTOGRAPH:OTHER
+all is w=th= you . FFARING,170.012.259
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_012:E3:1651:AUTOGRAPH:OTHER
+I am yo=r= humble Servant , James Waynwright . FFARING,170.012.260
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_012:E3:1651:AUTOGRAPH:OTHER
+ffor the hon=ble= Richard Bradshaw Esq . in Chester .
+FFARING,170.012.261
+
+<Q_FFA_A_1651_T_JWAYNWRIGHT> <L_FFARING_013> <A_JAMES_WAYNWRIGHT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_RICHARD_BRADSHAW>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1610?>
+
+<P_170>
+
+{ED:LETTER_37._THE_SAME_TO_THE_SAME.}
+
+
+{COM:JAMES_WAYNWRIGHT_TO_RICHARD_BRADSHAW.}
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+London , FFARING,170.013.262
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+29=th= Nov. 1651 . FFARING,170.013.263
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+Sir , I have yor=s= of the 25 present , FFARING,170.013.264
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+and take notice what you writt . FFARING,170.013.265
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+for the first p'ticular I think to desist , p'ceaving there will not
+bee good assurance maid if I should contract ether the matters therein
+p'tended ; FFARING,170.013.266
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+they will finish before , FFARING,170.013.267
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+or ells will be dismist from that employment . FFARING,170.013.268
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+I wish euery man may make hey whil the sonn doth shine .
+FFARING,170.013.269
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+Yo=r= hint of a head makes me a little ferfull ; FFARING,170.013.270
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+excuse if I do writt in the darke . FFARING,170.013.271
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+I p'ceave there is something in the Parl=mt= last voate ether-2 against
+mens honers or p'ffit , that none shall contine chare man of any
+Comittie of Parl=t= above one month , and it shall extend to the
+president of the Councill . FFARING,170.013.272
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+<paren> Therein I am confident they are deceaved , FFARING,170.013.273
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+for there is nether p'fite nor honer , as the p'ties sugest that wear
+the cause , but a favor and great lose . FFARING,170.013.274
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+I need not tell you it $will $be {TEXT:willbee} his p'fite </paren> .
+FFARING,170.013.275
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+Mr. Orome <P_171> hath paid the , FFARING,171.013.276
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+but the last payment hee tells mee is lent yo=r= servant ,
+FFARING,171.013.277
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+& $can $not {TEXT:canot} pay it Mr. Jenyer upon Monday ;
+FFARING,171.013.278
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+hee tells me hee will ende the bissiness about the pip of wynn .
+FFARING,171.013.279
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+I sent away yor=s= to Hamburg . FFARING,171.013.280
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+My Bro: Reginald I suppose this night is at Cassel , and soe for
+Lanc=r= . FFARING,171.013.281
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+I know not whether his good M=r= will extend to come see you at Chester
+. FFARING,171.013.282
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+I haue noe other news but to tell you that the holland shipps are not
+yet come , FFARING,171.013.283
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+& there is but one day that remaynes wherein their libertie consists ;
+FFARING,171.013.284
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+the first Dec=r= is upon Monday . FFARING,171.013.285
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+I am yo=r= humble Servant , James Waynwright . FFARING,171.013.286
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+Wee haue had noe letters nowe of 2 weeks from Ham : FFARING,171.013.287
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+the wynd is strong South West . FFARING,171.013.288
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:41?
+LETTER:FFARING_013:E3:1651:AUTOGRAPH:OTHER
+For the hon=ble= Richard Bradshaw Esq . in Chester .
+FFARING,171.013.289
+
+<Q_FFA_A_1652_T_JWAYNWRIGHT> <L_FFARING_014> <A_JAMES_WAYNWRIGHT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_RICHARD_BRADSHAW>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1610?>
+
+<P_171>
+
+{ED:LETTER_38._THE_SAME_TO_THE_SAME.}
+
+
+{COM:JAMES_WAYNWRIGHT_TO_RICHARD_BRADSHAW.}
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+London , FFARING,171.014.290
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+the 25=th= of June , 1652 . FFARING,171.014.291
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+Sir , My last to you was of the 18=th= ditto . FFARING,171.014.292
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+Since there is come to hand yor=s= of this 15 ditto FFARING,171.014.293
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+and take notis of what you writt . FFARING,171.014.294
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+I sent my man with that to Cox FFARING,171.014.295
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+and shall send yet to Gowen . FFARING,171.014.296
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+Sam Hilton is now in toune FFARING,171.014.297
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+and at the writting hereof we have resolved to uenter upon a statute
+staple for present reliff to Whalleye who is necessitated till the
+bargon can be p'formed , FFARING,171.014.298
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+or ells some other may take hoald of ther necessitie .
+FFARING,171.014.299
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+I will take in to my care what you writt about y=e= Debentur , and send
+for Mr. Kelsall , who I hould to be the securest in those affairs ,
+having <P_172> some experience therein of manie of them , not for
+myself but acquaintance . FFARING,172.014.300
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+I can writt you little of news . FFARING,172.014.301
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+The Duch are deferred till next Tusday , FFARING,172.014.302
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+soe are our answers . FFARING,172.014.303
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+I fear wee shall have noe peace with them as that they are incapable to
+make a peace such as wee must have FFARING,172.014.304
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+but they must break with other nations . FFARING,172.014.305
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+We shall bee sure to hould to our ark . FFARING,172.014.306
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+There is 2 rg. foot shouldiers putt abord o=r= fleet .
+FFARING,172.014.307
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+Wee are uery well appynted if God give a blessinge .
+FFARING,172.014.308
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+Wee have had much Thunder her in this land . Some hurt donn in sevrall
+counties . At lawton beyond brearton of hill 11 men kild . In a church
+at grantom the steeple Rent and manye sore hurt and some frighted of
+the last lords day . A Church beyond Rumpford p't burnt . Anwel in
+darbie shire sett on fire burning and not to be quenched and many
+p'ticlar men and cattle kild . FFARING,172.014.309
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+The lord p'vide for us a better place than this world
+FFARING,172.014.310
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+and give us grace FFARING,172.014.311
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+fitt us for it . FFARING,172.014.312
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+My servis to y=r= Laydy . FFARING,172.014.313
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+I am y=r= assured to comand James Waynwright . FFARING,172.014.314
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_014:E3:1652:AUTOGRAPH:OTHER
+To the Hon=ble= Richard Bradshaw Lord Resident for the State of England
+in Hamburg ffranco . FFARING,172.014.315
+
+<Q_FFA_A_1652_T_JWAYNWRIGHT> <L_FFARING_015> <A_JAMES_WAYNWRIGHT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_RICHARD_BRADSHAW>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1610?>
+
+<P_172>
+
+{ED:LETTER_39._THE_SAME_TO_THE_SAME.}
+
+
+{COM:JAMES_WAYNWRIGHT_TO_RICHARD_BRADSHAW.}
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+London FFARING,172.015.316
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+the 4=th= March 1652 . FFARING,172.015.317
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+Sir , FFARING,172.015.318
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+Sir my last to you was of the 25 ultimo FFARING,172.015.319
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+and therein writt you wee had noe post that weeke , and alsoe what
+conserned the <P_173> public , that great victoree wee obtained from
+the duch in w=ch= I hope you will rejoyce that bears any love to this
+common wealth . FFARING,173.015.320
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+Since then is come to hand yo=rs= of the 5=th= full from Copenhagen ,
+FFARING,173.015.321
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+and therein I p'ceave that yo=r= sute there is not suttable to what I
+did expect , tho I am confident is for the best , and it might
+possiblie have been otherwise if this victorie had come to you while
+you weare theire . FFARING,173.015.322
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+I have rc~d your from Mr. ffort FFARING,173.015.323
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+and my man Symond gave him sy~ty and the other for your quarterage .
+FFARING,173.015.324
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+I doo onlye waite for Gowens order what I shall take from Whalley upon
+the payment of the moneye FFARING,173.015.325
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+and he hath ordered me to rec~ of John Wall w=ch= I shall doo if need
+bee , FFARING,173.015.326
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+but you must order John Wall to pay it , FFARING,173.015.327
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+hee scruples it upon Gowen 's order , except I give him a recp~t to pay
+it back if you doe not quitt him and aprove hereof .
+FFARING,173.015.328
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+I acquainted some of the Estland merchants with what you writt ,
+FFARING,173.015.329
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+and what they will doe herein I leave . FFARING,173.015.330
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+Wee hope in a short time we shall have some {ED:ILLEGIBLE} for your
+p'ts wherein I may fornish you with bear , butter and other necessarys
+. FFARING,173.015.331
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+I have noe letter this post from Gowen , FFARING,173.015.332
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+so I believe he is gone over to S. Hilton to advise upon the payment of
+the money and her what shall be done . FFARING,173.015.333
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+For news her this weeke , to confirme you in my former , because you
+will heare a Refuge of lies , w=ch= must bee that to keep up their
+spurits , I shall give you to understand that we have taken and sunk of
+the duch above ships . FFARING,173.015.334
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+Wee have some 68 merchants , some men of warr , FFARING,173.015.335
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+and sunk we know not how many , but many merchants ;
+FFARING,173.015.336
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+and since the fight we took one laden with silver and wool from St.
+Lucas , that held one of o=r= frigets 5 hours , FFARING,173.015.337
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+but another friget came up FFARING,173.015.338
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+and she surrendered . FFARING,173.015.339
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+Wee are in great hope to meet ther other fleet of merchants w=ch= we
+here is in {ED:...}_NP still , FFARING,173.015.340
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+and shall now every day take them , they expecting we are not at sea .
+FFARING,173.015.341
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+I belieue the dutch have lost <P_174> near 5 M men , wee near 2 M
+slayne and wounded , but not one shipe but the Sampson as I writt you .
+FFARING,174.015.342
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+We have more shipps will be out this month , whereof 26 have gone
+before . FFARING,174.015.343
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+Gen=ll= Bleake upon his brushe of the thing is feaverish ,
+FFARING,174.015.344
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+but noo fear . FFARING,174.015.345
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+Now at the closure of this my letter the post is come
+FFARING,174.015.346
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+and I have receaved yo=rs= of the and 21 feb. with the enclosures to my
+Lord Bradshaw , w=ch= I have sent up at this present , and y=r= bill of
+exchange to be accepted . FFARING,174.015.347
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+There is little in them to answer , but to rejoice you are so near Hamb
+: FFARING,174.015.348
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+I hope your next will be from there . FFARING,174.015.349
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:42?
+LETTER:FFARING_015:E3:1652:AUTOGRAPH:OTHER
+I am yo=r= assured James Waynwright . FFARING,174.015.350
+
+<Q_FFA_A_1654_T_JWAYNWRIGHT> <L_FFARING_016> <A_JAMES_WAYNWRIGHT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_RICHARD_BRADSHAW>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1610?>
+
+<P_174>
+
+{ED:LETTER_40._THE_SAME_TO_THE_SAME.}
+
+
+{COM:JAMES_WAYNWRIGHT_TO_RICHARD_BRADSHAW.}
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+London , FFARING,174.016.351
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+5=th= May 1654 . FFARING,174.016.352
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+Sir , My last to you was of the 29=th= ult. , FFARING,174.016.353
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+and therein gaue you account of what had passed as in reference to our
+affayres and yo=r= letter . FFARING,174.016.354
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+Since then is come to hand yor=s= of the 25=th= of Aprill ,
+FFARING,174.016.355
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+and therein take notice what you writt ; FFARING,174.016.356
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+the of the State my man brings me word hee will order it next weeke ,
+or pay me at Whit Hall for Colo~ Tw~sdton & Ellis . FFARING,174.016.357
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+I suppose that Gowen writt you the same he doth mee ,
+FFARING,174.016.358
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+and I shall not truble you in this w=th= the same , FFARING,174.016.359
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+but will wait for Col: Twisleton coming to towne , w=ch= he tells Gowen
+will bee uery shortly , and pay the money , FFARING,174.016.360
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+and Ellis hops his rents may come in that he may pay it in short tyme ,
+w=ch= if they do not performe shall counsell them hereunto .
+FFARING,174.016.361
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+I shall take ordre to send you 2 doz: of bottles with the cloth shipes
+next weeke , if wind & wether serue . FFARING,174.016.362
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+Yo=r= tayler is straightened for monye to compleat yo=r= bissines .
+FFARING,174.016.363
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+I have sent him 5=li= more than you appoynted , because I see much more
+is coming to him ; FFARING,174.016.364
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+he <P_175> tould mee he would bringe them to night that I might send
+them upon to morow abord . FFARING,175.016.365
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+I am glad o=r= Embassador hath finished his employment at
+{ED:Swedland?}_NP FFARING,175.016.366
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+I haue heare sent you enclosed the orrignall articles of peace between
+the Duch & us , wherein you $can $not {TEXT:cannot} I presume think
+that they haue cause to braue it , but plead necessitie that they maid
+those articles . FFARING,175.016.367
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+The french & Spa: & portingall are all in post hast to settle peace
+with his highness . FFARING,175.016.368
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+I doe belieue the french will first haue it . FFARING,175.016.369
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+I was this day a long time w=th= my lord Bradshaw , whom wished mee to
+rem~ber him to you ; FFARING,175.016.370
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+hee is come back from his Sercutt ; FFARING,175.016.371
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+hee is still the honest man . FFARING,175.016.372
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+I meane a true Englishman from bottom to top . FFARING,175.016.373
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+There is ordinance come forth that all hostilitie sease in all places
+of this side & beyond the lyne between us & the duch the 4 present ,
+w=ch= is uery welcome unto us . FFARING,175.016.374
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+You may take notis , notwithstanding the articles , the act for trade &
+shippinge stands good to all intents & purposes . FFARING,175.016.375
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+I noe not ells but refer you to the booke for more p'ticular things ,
+FFARING,175.016.376
+
+AUTHOR:JAMES_WAYNWRIGHT:MALE:_:_:_
+RECIPIENT:RICHARD_BRADSHAW:MALE:_:1610?:44?
+LETTER:FFARING_016:E3:1654:AUTOGRAPH:OTHER
+and will rest Y=r= assured to comand , James Waynwright .
+FFARING,175.016.377

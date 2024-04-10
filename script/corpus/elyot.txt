@@ -1,0 +1,1861 @@
+<B_ELYOT>
+
+<Q_ELY_A_1528_T_TELYOT> <L_ELYOT_001> <A_THOMAS_ELYOT> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1490?> <R_THOMAS_CROMWELL> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1485?>
+
+<P_1>
+
+{ED:1._TO_THOMAS_CROMWELL}
+
+{ED:March_25,_[1528]}
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:38?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:43?
+LETTER:ELYOT_001:E1:1528:AUTOGRAPH:OTHER
+To the right wurshipful and my very frende Master Crumwell Solicitor to
+my lord Legates grace . ELYOT,1.001.1
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:38?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:43?
+LETTER:ELYOT_001:E1:1528:AUTOGRAPH:OTHER
+Master Crumwell yn my moste harty manner , I recommend me unto you .
+ELYOT,1.001.2
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:38?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:43?
+LETTER:ELYOT_001:E1:1528:AUTOGRAPH:OTHER
+And touching my good Lordes busynes , I will to the utterest of my
+power endevor me to the satisfieng of his pleasure ; ELYOT,1.001.3
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:38?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:43?
+LETTER:ELYOT_001:E1:1528:AUTOGRAPH:OTHER
+and to thaccomplisshment thereof I now do send to myn undershrif , that
+he semblably , with all expedition , do cause such personages to appier
+bifore the Exchecor , as yn this case shall be laufull and expedyent
+ELYOT,1.001.4
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:38?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:43?
+LETTER:ELYOT_001:E1:1528:AUTOGRAPH:OTHER
+and I dought not but he will so doo , and as my Lordes grace shall be
+well servyd . ELYOT,1.001.5
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:38?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:43?
+LETTER:ELYOT_001:E1:1528:AUTOGRAPH:OTHER
+Right gladly wold I see you yn my pour house if you make long abode yn
+thes parties , all be it I can not make you suche chere as you have yn
+Oxford , but onely hartily welcom . ELYOT,1.001.6
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:38?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:43?
+LETTER:ELYOT_001:E1:1528:AUTOGRAPH:OTHER
+At Comb , the xxv day of March . ELYOT,1.001.7
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:38?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:43?
+LETTER:ELYOT_001:E1:1528:AUTOGRAPH:OTHER
+Your Lovyng companyon Th Elyot ELYOT,1.001.8
+
+<Q_ELY_A_1532_T_TELYOT> <L_ELYOT_002> <A_THOMAS_ELYOT> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1490?> <R_THOMAS_HOWARD_II> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1473>
+
+<P_2>
+
+{ED:2._TO_THE_DUKE_OF_NORFOLK}
+
+{ED:March_14,_1532}
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+To my Lord of Norfolks grace . ELYOT,2.002.9
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+My duetie remembrid with moste humble thankes unto your grace <em> that
+it </em> pleasid you so benevolently to remembre me unto the kinges
+$highness concerning my retorne into England . ELYOT,2.002.10
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+All be it the king willith me by $his graces lettres to remayne at
+Bruxelles some space of tyme for the $apprehention of Tyndall , which
+somewhat minisshith my hope of soone $retorning $, consydering that
+like as he is in witt moveable , semblably so is his person uncertayne
+to come by . ELYOT,2.002.11
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+and as ferre as I can perceyve , hering of the kinges diligence in
+thapprehention of him ; he withdrawith him into suche places where he
+thinkith to be ferthist oute of daunger . ELYOT,2.002.12
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+In me there shall lakk none endevor . ELYOT,2.002.13
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+finally as I am all the kinges except my soule so shall I endure all
+that shall be his pleasure , employing my poure life gladly in that
+which may be to his honor or welth of his Realm . ELYOT,2.002.14
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+Pleasith it your grace according as I have writen to the kinges
+highness , the Emperor being yet sore grievyd with a fall from his
+horse , kepith him self so close that Master Cranmere and I can have
+none accesse to his majestie , which allmoste grievith me as moche as
+the Emperors fall grievith him . ELYOT,2.002.15
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+I have promysid to the king to write to your grace the ordre of thinges
+in the towne of Nurenberg specially concerning the fayth ,
+ELYOT,2.002.16
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+but furst I will reherce some other townes as they laye in oure waye .
+ELYOT,2.002.17
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+The Citie of wormes for the more part and allmoste the hole is
+possessid with Lutherians and Jewes ; ELYOT,2.002.18
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+the residue is indifferent to be shortly the one or the other .
+ELYOT,2.002.19
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+trouthe it is that the Busshop kepith well his name of Episcopus which
+is in Englissh an overseer , and is in the case that {in}_P Overseers
+of testamentes be in England ; ELYOT,2.002.20
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+for he shall have leve to looke so <P_3> that he meddle not ,
+ELYOT,3.002.21
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+yet some tyme men callyth hym overseene that is drunke whan he neither
+knowith what he doeth nor what he owght to doo . ELYOT,3.002.22
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+The Citie of Spire as I here saye kepith yet their faith well , except
+some saye there be many doo erre in taking to largely this article
+Sanctorum communionem which hath inducid more charitie than may stonde
+with honestie . ELYOT,3.002.23
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+one thing I markid suche as were lovers divers of theim hadd theire
+paramours sitting with theim in a draye , which was drawen with a horse
+trapped with belles ; ELYOT,3.002.24
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+and the lovers whipping theim causid theim to trott and to draw theim
+thurghoute everi strete , making a grete noyse with their belles .
+ELYOT,3.002.25
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+the women sate with theire heddes discoverid saving a chaplet or
+crounet wrowght with nedil wark . ELYOT,3.002.26
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+I hadd forgoten to tell that ther were grete hornes , sett on the
+horsis heddis . ELYOT,3.002.27
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+I suppose it was the tryumphe of Venus or of the devil or of bothe .
+ELYOT,3.002.28
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+all townes ensuing be rather wars than better , ELYOT,3.002.29
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+but I passe theim over at this tyme . ELYOT,3.002.30
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+Touching Nurenberg , it is the moste propre towne and best ordred
+publike weale that ever I beheld . ELYOT,3.002.31
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+ther is in it so moche people that I mervaylid how the towne mowght
+contayne them beside theim which folowid the Emperor . ELYOT,3.002.32
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+And notwithstanding ther was of all vitaile more abundance than I could
+see in any place , all thowgh the Contray adjoyning of his nature is
+very barrayn . ELYOT,3.002.33
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+I appoyntid to lodge in an Inne , ELYOT,3.002.34
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+but sir Laurence Staber the kinges servaunt came to me , desyring me to
+take his house , whereunto I browght with me the frenche Ambassador ,
+where we were well entretayned . ELYOT,3.002.35
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+and that night the Senate sent to us xxx galons of wyne , xxti Pikes
+xxx Carpes , a hundred dasis with sondry confectiones . ELYOT,3.002.36
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+the residue of oure chier I will kepe in store untill I speke with your
+grace which I pray god may be shortly . ELYOT,3.002.37
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+Allthowgh fissh was sent to us , yet universally and openly thurghoute
+the towne men didd eate flessh . ELYOT,3.002.38
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+Allthowgh I hadd a chapleyne yet could not I be suffrid to have him to
+sing mass , ELYOT,3.002.39
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+but was constrayned to here their mass which is but one in a churche .
+ELYOT,3.002.40
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+And that is celebrate in forme folowing . ELYOT,3.002.41
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+The preest in vestmentes after our maner singith everi thing in latine
+as we use , ommitting suffrages . ELYOT,3.002.42
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+the Epistel he readith in <P_4> $latine $. ELYOT,4.002.43
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+In the meane tyme the subdeacon goeth into the pulpite ELYOT,4.002.44
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+and readeth to the people the Epistle in their vulgare . ELYOT,4.002.45
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+after thei peruse other thinges as our prestes doo , ELYOT,4.002.46
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+than the preeste redith softly the gospell in latine $. ELYOT,4.002.47
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+In the mean space the deacon goeth into the pulpite ELYOT,4.002.48
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+and readith a lowde the gospell in the Almaign tung . ELYOT,4.002.49
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+Master Cranmere sayith it was shewid to him that in the Epistles and
+gospels thei kept not the ordre that we doo , but doo peruse every daye
+one Chapitre of the new testament . ELYOT,4.002.50
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+afterward the prest and the qwere doo sing the Credo as we doo .
+ELYOT,4.002.51
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+the secretes and preface they ommitt . ELYOT,4.002.52
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+and the preest singith with a high voyce the wordes of the consecration
+. ELYOT,4.002.53
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+and after the Levation the deacon torneth to the people , telling to
+theim in almaign tung a longe process how thei shold prepare theim
+selfes to the communion of the flessh and blode of Christ ;
+ELYOT,4.002.54
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+and than may every man come that listith withoute going to any
+Confession . ELYOT,4.002.55
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+but I leste I shold be partner of their communyon departid than
+ELYOT,4.002.56
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+and the Ambassador of fraunce $followed which causid all the people in
+the churche to wonder at us <em> as though </em> we hadd ben gretter
+heretikes than thei . ELYOT,4.002.57
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+One thing likid me well <paren> to shew your grace freely my hart
+</paren> all the preestes hadd wyves , ELYOT,4.002.58
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+and thei were the fayrist women of the towne et cetera . ELYOT,4.002.59
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+to saye the trouthe all women of this Contray be gentill of spirit as
+men report . ELYOT,4.002.60
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+The day after oure comming the Senate sent gentilmen to shew us their
+provision of harneis , ordinance and corne . ELYOT,4.002.61
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+I suppose there was in our sight thre thousand pieces of complete
+harneys for horsemen ; ELYOT,4.002.62
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+the residue we saw not for spending of tyme . ELYOT,4.002.63
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+of gunnes grete and small it required half a daye to numbre theim .
+ELYOT,4.002.64
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+Arkbusshes and crossebowes I thowght theim innumerable . ELYOT,4.002.65
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+The provision of grayn I am aferd to reherce it for jeoperding my
+credence . ELYOT,4.002.66
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+I saw twelve houses of grete length every house having xii floures , on
+every one corne thurghoute the thikness of thre feete . ELYOT,4.002.67
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+some of the senate shewid me that thei hadd sufficient to kepe fifty
+thousand men <P_5> abundantly for one yere . ELYOT,5.002.68
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+moche of it have layen long ELYOT,5.002.69
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+and yet is it goode , as it shall appier by an example that I have now
+sent to your grace of rye which was layde in ther , 19 yeres passid ,
+wherof ther remaynith yet , above vC quarters . ELYOT,5.002.70
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+I doubtid moche to report this to your grace but that I trustid your
+grace wold take it in stede of tidinges , and not suppose me to be the
+author , considering that moche strange report may bring me in
+suspicion of lying with some men , which hath conceyvid wrong oppinion
+of me . ELYOT,5.002.71
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+Newes there be none worth the writing $. ELYOT,5.002.72
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+thei doo looke every day here for king ferdinandoes wif , who men doo
+suppose will somewhat doo in persuading the Princes of Germany bringing
+with hir , all hir children , which is a high poynte of Rhetorike and
+of moche efficacie , as old writars supposid . ELYOT,5.002.73
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+And her an ende of my pour lettre , which I besieche your grace to take
+in goode part with my harty service . ELYOT,5.002.74
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+And our lord mayntayne you in honor with long lif . ELYOT,5.002.75
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+writen at Regenspurg the xiiiith day of Marche ELYOT,5.002.76
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_HOWARD_II:MALE:_:1473:59
+LETTER:ELYOT_002:E1:1532:AUTOGRAPH:OTHER
+yf it shall please your <em> grace ... </em> Baynton to know some of
+theise stories , I $wold ELYOT,5.002.77
+
+{ED:THE_END_OF_THE_LETTER_MUTILATED}
+
+
+<Q_ELY_A_1532_T_TELYOT> <L_ELYOT_003> <A_THOMAS_ELYOT> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1490?> <R_THOMAS_CROMWELL> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1485?>
+
+<P_7>
+
+{ED:3._TO_CROMWELL}
+
+{ED:November_18,_1532}
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+To the right Wurshipfull Master Cromwell one of the kinges moste
+honorable Counsayle . ELYOT,7.003.78
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+Master Cromwell I moste hartily commend me unto you . Assuring you that
+heering of the honorable and saulf returne of the kinges highness I am
+more joyfull than for any thing that ever hapned unto me : As contrary
+wise whan I first herd that his grace intendid to passe the sees ,
+feare of the greate aventure of his moste Royall person so attachid my
+harte , that sens unto this daye it hath bireft me the more parte of my
+slepe , which I pray godd may be redubbed with theise comfortable
+tidinges of his <P_8> graces saulfe retorne . ELYOT,8.003.79
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+And that I speake withoute flatery ELYOT,8.003.80
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+allmyghti godd is my Juge unto whome I have more often and more hartily
+prayid for the kinges goode speede than ever I didd for my self in any
+necessitie . ELYOT,8.003.81
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+Moreover sir I doo not rejoyce a litle that in well using your
+excellent witt ye dayly augment the kinges goode opinion and favor
+toward you , to the comfort of your frendes of the which numbre thowgh
+I be one of the leste in substance yet in benevolence and syncere love
+toward you I will compare with any : onely mevid thereto for the
+wisedom and aptness that I see in you to be a necessary Counsaylor unto
+my Master whereby I hope the right oppinion of vertue shall ones be
+revyved and false detraction tried oute and putt to silence by whome
+some true and paynefull service have ben frustrate and kept from suche
+knowlege as hadd ben expedient : ELYOT,8.003.82
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+for my part godd and my conscience knowith that whan the kinges
+highness commaundid me to serve him as his graces Ambassador knowing my
+disshabilitie both-1 in Inward and exterior substance I was lothe to go
+the king not offendid . ELYOT,8.003.83
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+But whan I perceyvid his graces determination I conformyng me unto his
+graces pleasure , didd deliberate with my self to extend not onely my
+poure witt but allso my powar above my powar in his graces service :
+intending to serve his grace no lasse to his honor than any bachelar
+knight his Ambassador hadd doone of late dayes . wherfor besydes the
+furniture of my selfe and my servauntes , at my commyng to Bruxelles I
+shewid my self according as it beseemyd to the king of Englondes
+Ambassador that is to saye the seconde kinge in Christendom bothe-5 at
+my table and other entertaynement of straungers , thereby fisshing oute
+some knowlege , that doing otherwise I sholde have lakkid .
+ELYOT,8.003.84
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+how I usid me in myn accesse unto the Emperor godd is my Juge that in
+my replications I have seene him chaunge countenance , which <paren> as
+they know that have ben with him <em> </paren> </em> is no litle thinge
+. ELYOT,8.003.85
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+All be it by suche raisons as I made to serve my Master awayting
+oportunity , and using suche <P_9> a prince with silken wordes as was
+the Counsayle of kinge Darius Mother : I attayned with him suche
+familiaritie in communication that he usid with me more abundance of
+wordes , than <paren> as some of his Counsaile confessid <em> </paren>
+</em> any Ambassador byfore me hadd founde in him ; which I markid
+diligently , and provyded the better to serve my Master according to
+his expectation , as moche as mowght be doone with suche a Prince as
+with long travayle in counsaile is becom <paren> If I shall not lye
+falsely </paren> of a mervaylous deepe and assurid witt .
+ELYOT,9.003.86
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+finally that journay is now moche grievouse unto me as well for that I
+have browght my self thereby in grete dett , spending therein allmoste
+six hundred marces above the kings alowance , and thereby am
+constrayned to putt away many of my servauntes whome I loved well . As
+allso that I perceyve the kinges opynion mynisshid toward me by that ,
+that I perceyve other men avauncid openly to the place of Counsaylors
+which neither in the importaunce of service neither in chargis have
+servyd the king as I have doone , and I being ommittid hadd in lass
+estimation than I was in whan I servid the king first in his Counsayle
+, which I speke not for any ambition . ELYOT,9.003.87
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+But that onely I desyre that my true hart shold not cause me to lyve
+bothe in povertie and oute of estimation , ELYOT,9.003.88
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+for god Juge my soule as I desyre more to lyve oute of dett and in
+quyete study : than to have as moche as a kinge may gieve me .
+ELYOT,9.003.89
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+Now know you my misery which I pray you helpe as ye may .
+ELYOT,9.003.90
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+I borowed of the kinge a hundred marces which I wold fayne paye if myn
+other creditors wer not more importune on me than frendes shold be .
+ELYOT,9.003.91
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+sir for as moche as the kinge alowid me but xxs. the day and I spent
+xls the day and often tymes four marces , and moreover I receyvyng the
+kinges money in angelles I lost in every angell xiiiid. sterling , so
+that I lakkid moche of the kinges alowance $, and allso I gave many
+rewardes , partly to the Emperors servauntes to gete knowlege , partly
+to suche as by whoes meanes I trustid to apprehend Tyndal according to
+the <P_10> kinges commaundment ; which thinges consyderid may it like
+you goode Master Cromwell to move the kinge to be my goode lorde either
+to forgyve to me my dett or els to alow to me that I lost by myn
+exchange and my saide rewardes , and to graunt me some lenger tyme to
+pay the residue . ELYOT,10.003.92
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+I here saye that I am named in the bill of Sherifes for Cambrige Shyre
+. ELYOT,10.003.93
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+If the king shold appoynt me than am I more undone ELYOT,10.003.94
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+and shall never be able to serve him nor to kepe my house , consydering
+that no man eskapith oute of that office withoute the losse of one
+hundred marces ; ELYOT,10.003.95
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+and as for my practise in offices for my profite ye somewhat doo know .
+ELYOT,10.003.96
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+If godd sent me not other lyving I were likely to begg .
+ELYOT,10.003.97
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+If ye here me named I pray you shewe to me that kyndness that by your
+meanes I may be dischargid ; ELYOT,10.003.98
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+for besides that which I have spoken , by my fayth I knowe yet no part
+of the Contray above thre myles from my house , ELYOT,10.003.99
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+and have very litle acquayntance to serve the kinge as he owght to be .
+ELYOT,10.003.100
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+My long lettres have made ye lese tyme ELYOT,10.003.101
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+but nede have constrayned me to be lenger than wisedom wold ,
+ELYOT,10.003.102
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+but for your paynes ye shall have my prayer to godd to encrease you in
+worship , with longe lif . ELYOT,10.003.103
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_003:E1:1532:AUTOGRAPH:OTHER
+writen at Carlestowne the xviii day of Novembre . By him that loveth
+you Th Elyot kt . ELYOT,10.003.104
+
+<Q_ELY_A_1532_T_TELYOT> <L_ELYOT_004> <A_THOMAS_ELYOT> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1490?> <R_THOMAS_CROMWELL> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1485?>
+
+<P_11>
+
+{ED:4._TO_CROMWELL}
+
+{ED:December_8,_1532}
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+To the right worshipfull and myn assurid frende Master Cromewell
+ELYOT,11.004.105
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+Right worshipfull I recommend me unto you . ELYOT,11.004.106
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+And hartily thanke you for your gentill and wyse advertisementes and
+Counsayles gyven unto me in your lettres which I receyvyd of my lovyng
+frende Master Raynsford . All be it sir whan ye shall knowe all the
+occasions of my discomforte ye will not so moche blame me as pitie me
+if your olde gentill nature be not chaungid . ELYOT,11.004.107
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+Master Cromwell I knowe well howe moche my duetie is to serve my
+soveraign lorde truely and diligently which godd is my Juge I have
+doone to my powar with as goode a wille and as gladly as <P_12> any man
+could ymagine to doo , neither for myne obedience onely , nor for hope
+of promocion , but for very harty love that I bare and doo bere to the
+kinges highnesse besydes myn aleageance , thereto movid by the
+incomparable goode qualities bothe-7 of his persone and witte which I
+have longe wondrid at and lovid , as is my nature to doo in private
+persones : moche more in Princes : moste of all in the chief Governour
+of this Roialm and my soveraigne lorde and Master . ELYOT,12.004.108
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+But whan I consyder myn infelicitie and losse of tyme in unprofitable
+study : will I or no I am inforcid to be cruciate in my poure mynde ,
+which I confesse to be for lak of wisedom , ELYOT,12.004.109
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+but I have ben to litle a tyme studious in philosophy .
+ELYOT,12.004.110
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+I suppose ye being wery of my longe bablyng tary to here the
+infelicitie that I complayne me of . ELYOT,12.004.111
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+I pray you than take some pacience to here some parte of my grief .
+ELYOT,12.004.112
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+Soone after the decese of my poure father , the lande that I now have
+in R Cambrige Shyre fell unto me not moche lokid for . ELYOT,12.004.113
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+But to tempre that sodayne Joye I was furthwith assaultid with trouble
+by theim which made title withoute right or goode consyderation .
+ELYOT,12.004.114
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+And allthowgh my Lorde Cardinall whome godd pardone , knowing my title
+to be perfect and suer , as having it enrollid bifore him and at the
+first beginning hiering him self the mutuall covenauntes bytwene my
+fader and my Cosen sir $william fynderne whoes fader was my mothers
+unkle : by his goode Justice gave me goode comfort , yet than havyng
+agayne me many grete personages by the meanes of Master Porte the
+Justice whoes dowghter myn adversaries sone hadd maried . I was
+constrayned to retayne so many lernyd men and so to applie my busyness
+, that the saide sute contynuyng one yere and an half stoode me above
+one hundred poundes . ELYOT,12.004.115
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+Afterward my sayde Lorde Cardinall for some goode oppynion that he
+conceyvyd of me withoute my merites advauncid me <paren> as he supposid
+</paren> to be Clerk of the Counsayle withoute my sute or desyre all be
+it afterward I was not ingrate as I will tell you hereafterward .
+ELYOT,12.004.116
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+than was there newly delegate from the sterre Chamber <P_13> all maters
+of the North partes and wales , as ye know . ELYOT,13.004.117
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+those fewe that remayned were for the more parte the complayntes of
+beggars , which shortly perceyving
+
+I my Clerkes repugning didd sett suche a rate in fees ordinary , as
+neither any man shold be excessifly grievyd , nor that I shold be seene
+to pike oute substance oute of other mennys povertie , but that mought
+I the better sustayne by raison that I was than allso Clerk of the
+Assisis westward , which was to me worth yerly one hundred Marces .
+ELYOT,13.004.119
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+But by the $solicitation of some men which yet doo lyve , my sayde
+lorde bearing me on hand that I was and sholde be so necessary to be
+continually attendant on the Counsayle that it shold be expedient for
+me to leve the office of the Assises promysing moreover that by his
+meanes the king shold otherwise shortly promote me bothe-3 to more
+worship and profite , finally willid me to resigne my sayde office
+takyng onely for it CC li . which after longe resistence finally I
+meist folow his pleasure to keepe him my goode lorde . ELYOT,13.004.120
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+that doone whan the yere was finisshid , I suyd to hym to optayne a
+patent for the office in the Counsayle , which his grace didd as I herd
+say ; ELYOT,13.004.121
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+but I could never come by it , Doctor Cleyburgh and other keping it
+from me . ELYOT,13.004.122
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+after I suyd for the fee which as I herd saye was fourti marces by the
+yere , wherof I hadd promyse ELYOT,13.004.123
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+but I never receyvid it ; ELYOT,13.004.124
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+so by the space of six yeres and an half I servyd the king not in the
+sterre Chamber onely , but in some thinges pertayning to the Clerk of
+the Croune , some to the secretaries , and other travailes , which I
+will not now reherce , leste ye shold deeme me longe in praising my
+self , and all this tyme withoute fee , withoute reward more than the
+ordinare , and that which more grievith me withoute thank of the king
+which I deservyd as it wold appier if his grace hadd ben truely
+infourmed of me , and my drawghtes seene which I devisid and made to my
+sayde lorde . ELYOT,13.004.125
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+In this unthankfull travayle I no thing gate but the Colike and the
+stone , ELYOT,13.004.126
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+debilitation of nature and allmoste contynuell destillations of rewmes
+ministres to abbreviate my lif , which thowgh it be of <P_14> no grete
+importance , yet some wayes it mought be necessary . ELYOT,14.004.127
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+finally after the deth of my sayde Lorde , there was a former patent
+founde of the sayde office , ELYOT,14.004.128
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+and myn was callid in and cancellid , and I dischargid withoute any
+recompence , rewardid onely with the order of knighthode honorable and
+onerouse having moche lasse to lyve on than bifore . ELYOT,14.004.129
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+And to minissh my poure astate , I hadd a litle bifore payid to Doctor
+Naturess Executor to sir william fynderne to redeeme certayne yeres
+duryng the which he claymed to take the profites of my londe for the
+execution of a wille , thre hundred and xlviii li . ELYOT,14.004.130
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+so withoute office or any fee in the world <paren> I refusing fees to
+thintent in servyng the kyng I wold lyve oute of all suspicion </paren>
+withoute any ferme , withoute stokk of Catell except foure hundred
+shepe to compasse the landes of my tenauntes : ELYOT,14.004.131
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+I have hitherto kept a pour house , equall with any knight in the
+Contrayes wher I dwell , and not withoute indignation of theim which
+have moche more to lyve on . ELYOT,14.004.132
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+Nowe allthowgh very unmeete and unhabile , I have servyd the king in
+his graces message , how our lord knowith , suer I am truely and
+faithfully , ELYOT,14.004.133
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+therin employid I fyve hundred and fourty marces above all the kinges
+alowaunce , which I no thing repent me of trusting that his grace is
+pleasid with my service . ELYOT,14.004.134
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+But now that I trustid to lyve quietely , and by litle and litle to
+repay my Creditors , and to reconsile my self to myn olde studies and
+pray for the king . <paren> for other promosion I lokid not for
+</paren> I wote not by what malice of fortune , I am constrayned to be
+in that office wherunto is as it wer appendant losse of money and goode
+name $. ELYOT,14.004.135
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+of the one I am certayne , ELYOT,14.004.136
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+the other is hard to eskape all sharpness and diligence in Justice now
+a dayes being every where odiouse . As godd helpe me sens my commyng
+over , I have dischargid oute of my service fyve honest and tall
+personage constraynid of necessitie , untill I mowght recover my self
+oute of dett . ELYOT,14.004.137
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+And now am I <P_15> compellid to augment my household eftsones ,
+ELYOT,15.004.138
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+or elles shold I serve the kinge sklenderly . ELYOT,15.004.139
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+ye here myn occasions I pray you ELYOT,15.004.140
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+than blame me not thowgh I have my mynde somewhat inquietid ;
+ELYOT,15.004.141
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+not that I imbrayde the king with my servyce , but that I sorow that
+his grace hath not ben so informed of me as my service requyrid . And
+moreover that I am not of powar to serve his grace according to his
+expectation and as my pour hart desyrith . ELYOT,15.004.142
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+And goode Master Cromwell I thank you that ye will lese so moche tyme
+to reade this longe letter , praying you to bear part of it in your
+remembrance : that as oportunitie servith ye may truely aunswere for
+your frende who hartily desyrith the encrease of your worship .
+ELYOT,15.004.143
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+And I pray you continue your favor toward Master Raynsford whome ye
+shall fynde as honest and faithfull as any that ever ye were acquayntid
+with . ELYOT,15.004.144
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+And I beseche godd send you longe lif and well to doo .
+ELYOT,15.004.145
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:42?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:47?
+LETTER:ELYOT_004:E1:1532:AUTOGRAPH:OTHER
+writen at Carleton the viii day of Decembre . By yours assurid Th Elyot
+kt ELYOT,15.004.146
+
+<Q_ELY_A_1533_T_TELYOT> <L_ELYOT_005> <A_THOMAS_ELYOT> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1490?> <R_JOHN_HACKETT> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_--->
+
+<P_16>
+
+{ED:5._TO_SIR_JOHN_HACKETT}
+
+{ED:April_6,_1533}
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:JOHN_HACKETT:MALE:_:_:_
+LETTER:ELYOT_005:E1:1533:AUTOGRAPH:OTHER
+A Monsieur sir Jehan Haket Ambassador de Le Roy . ELYOT,16.005.147
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:JOHN_HACKETT:MALE:_:_:_
+LETTER:ELYOT_005:E1:1533:AUTOGRAPH:OTHER
+Master Hakett I hartily commend me unto you ELYOT,16.005.148
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:JOHN_HACKETT:MALE:_:_:_
+LETTER:ELYOT_005:E1:1533:AUTOGRAPH:OTHER
+and thanke you for your gentill lettre that ye sent to me by Master
+Raynsford . ELYOT,16.005.149
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:JOHN_HACKETT:MALE:_:_:_
+LETTER:ELYOT_005:E1:1533:AUTOGRAPH:OTHER
+I wold that I hadd some comfortable newes to send you oute of theise
+partes . ELYOT,16.005.150
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:JOHN_HACKETT:MALE:_:_:_
+LETTER:ELYOT_005:E1:1533:AUTOGRAPH:OTHER
+But the world is all other wise . ELYOT,16.005.151
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:JOHN_HACKETT:MALE:_:_:_
+LETTER:ELYOT_005:E1:1533:AUTOGRAPH:OTHER
+I beseche oure <P_17> lord amend it . ELYOT,17.005.152
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:JOHN_HACKETT:MALE:_:_:_
+LETTER:ELYOT_005:E1:1533:AUTOGRAPH:OTHER
+We have hanging over us a grete kloude which is likely to be a grete
+storme whan it fallith . ELYOT,17.005.153
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:JOHN_HACKETT:MALE:_:_:_
+LETTER:ELYOT_005:E1:1533:AUTOGRAPH:OTHER
+The kinges highness thankid be godd is in goode helth .
+ELYOT,17.005.154
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:JOHN_HACKETT:MALE:_:_:_
+LETTER:ELYOT_005:E1:1533:AUTOGRAPH:OTHER
+I beseche godd contynue it and send his comfort of spirite unto him ,
+and that truthe may be freely and thankfully herd . ELYOT,17.005.155
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:JOHN_HACKETT:MALE:_:_:_
+LETTER:ELYOT_005:E1:1533:AUTOGRAPH:OTHER
+for my part I am finally determyned to lyve and dye therin $.
+ELYOT,17.005.156
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:JOHN_HACKETT:MALE:_:_:_
+LETTER:ELYOT_005:E1:1533:AUTOGRAPH:OTHER
+neither myn importable expences unrecompencid shall so moche feare me ,
+nor the advauncement of my Successor the busshop of Caunterbury so
+moche alure me that I shall ever deklyne from trouthe or abuse my
+soveraigne lorde unto whome I am sworne . ELYOT,17.005.157
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:JOHN_HACKETT:MALE:_:_:_
+LETTER:ELYOT_005:E1:1533:AUTOGRAPH:OTHER
+for I am sure that I and you allso , shall ones dye ELYOT,17.005.158
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:JOHN_HACKETT:MALE:_:_:_
+LETTER:ELYOT_005:E1:1533:AUTOGRAPH:OTHER
+and I know that ther is a godd and he is all trouthe and therefor he
+will grievousely punissh all fallshode and that everlastingly .
+ELYOT,17.005.159
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:JOHN_HACKETT:MALE:_:_:_
+LETTER:ELYOT_005:E1:1533:AUTOGRAPH:OTHER
+ye shall here or it be longe some straunge thinges of the spiritualtie
+. ELYOT,17.005.160
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:JOHN_HACKETT:MALE:_:_:_
+LETTER:ELYOT_005:E1:1533:AUTOGRAPH:OTHER
+for betwene theim selfes is no perfect agrement $. ELYOT,17.005.161
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:JOHN_HACKETT:MALE:_:_:_
+LETTER:ELYOT_005:E1:1533:AUTOGRAPH:OTHER
+some doo saye that thei digged the diche that thei be now fallen in ,
+which causith many goode men the lass to pitie theim . ELYOT,17.005.162
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:JOHN_HACKETT:MALE:_:_:_
+LETTER:ELYOT_005:E1:1533:AUTOGRAPH:OTHER
+All other thinges be in the state that {in}_P ye left theim .
+ELYOT,17.005.163
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:JOHN_HACKETT:MALE:_:_:_
+LETTER:ELYOT_005:E1:1533:AUTOGRAPH:OTHER
+If ye doo send to me any newes I will recompence you $.
+ELYOT,17.005.164
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:JOHN_HACKETT:MALE:_:_:_
+LETTER:ELYOT_005:E1:1533:AUTOGRAPH:OTHER
+Oure lord sende you moche honor . ELYOT,17.005.165
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:JOHN_HACKETT:MALE:_:_:_
+LETTER:ELYOT_005:E1:1533:AUTOGRAPH:OTHER
+And I pray you have me hartily commendid to my Lord of Palermo , The
+Duke of Soers goode grace , My lord of Berghs and my Lord Molynbayse
+and all my goode Lordes and allso to gentill Master Adrian and his
+goode bedfelowe Mastres Philip , whoes honestie patience and moste
+gentill entretaynement I cese not to advaunt among oure women as she is
+worthy . ELYOT,17.005.166
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:JOHN_HACKETT:MALE:_:_:_
+LETTER:ELYOT_005:E1:1533:AUTOGRAPH:OTHER
+Writen at London the vi day of April . ELYOT,17.005.167
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:JOHN_HACKETT:MALE:_:_:_
+LETTER:ELYOT_005:E1:1533:AUTOGRAPH:OTHER
+Your son , and assurid frend . Th Elyot kt ELYOT,17.005.168
+
+<Q_ELY_A_1533_T_TELYOT> <L_ELYOT_006> <A_THOMAS_ELYOT> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1490?> <R_THOMAS_CROMWELL> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1485?>
+
+<P_18>
+
+{ED:6._TO_CROMWELL}
+
+{ED:[April_or_May,_1533]}
+
+{ED:NOT_ADDRESSED}
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_006:E1:1533:AUTOGRAPH:OTHER
+May it like you sir , uppon the kinges writt deliverid unto me with
+your lettres for the summonyng of suche as were able to receyve thordre
+of knyghthode , I sent doune into the Contray myn undersherif for the
+more sure expedition thereof , who afterward browght unto me a bill of
+names wherein was named <P_19> one Wawton whoes substance I knewe not
+and unneth his personage . ELYOT,19.006.169
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_006:E1:1533:AUTOGRAPH:OTHER
+finally according to myn office I retorned him among other into the
+Chauncery , sens the which tyme diverse wurshipfull men knowing the
+saide Wawton and his substance have to me affirmed precisely on theire
+faith that he hath not landes in his possession to the yerely value of
+fourty poundes , by a grete porcion lakking ; ELYOT,19.006.170
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_006:E1:1533:AUTOGRAPH:OTHER
+notwithstanding with his industry in provision for his householde
+withoute ferme , grasing of Catell or regrating , he kepith an honest
+port ELYOT,19.006.171
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_006:E1:1533:AUTOGRAPH:OTHER
+and findith many sones to skoole , which by his education be very
+towardly . ELYOT,19.006.172
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_006:E1:1533:AUTOGRAPH:OTHER
+And moreover he hath many dowghters for to sett furth in mariage which
+as ye well know be grete corrosives of a litle substance .
+ELYOT,19.006.173
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_006:E1:1533:AUTOGRAPH:OTHER
+And therefor it was well provyded therein by the Statute of knyghtes .
+Wherfor in as moche as the gentillman is poure and abasshfull , but
+right wise and having sondry goode qualities and accordingly bringith
+upp many his children , may it please you after speaking with him at
+your goode leisor to shew your gentill hart toward him in declaring how
+moche ye tendre the necessitie of poure gentillmen , whereby ye shall
+not onely bynde him to pray for you , but allso gratifie to many
+wurshipfull men withoute hindraunce in any part to the kinges highness
+. ELYOT,19.006.174
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_006:E1:1533:AUTOGRAPH:OTHER
+I am thus bolde to write to the intent that I wold not with my presence
+interupt your travaile aboute gretter affaires . ELYOT,19.006.175
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_006:E1:1533:AUTOGRAPH:OTHER
+Your pourest . frende Th Elyot kt ELYOT,19.006.176
+
+<Q_ELY_A_1533_T_TELYOT> <L_ELYOT_007> <A_THOMAS_ELYOT> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1490?> <R_HONOR_PLANTAGENET[N.GRENVILLE]>
+<R-GENDER_FEMALE> <R-REL_---> <R-DOB_1494?>
+
+<P_20>
+
+{ED:7._TO_THE_VISCOUNTESS_LISLE}
+
+{ED:December_3,_[1533]}
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:ELYOT_007:E1:1533:AUTOGRAPH:OTHER
+To the right Honorable and my singuler goode lady My lady Lisles goode
+Ladisshipp . ELYOT,20.007.177
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:ELYOT_007:E1:1533:AUTOGRAPH:OTHER
+My syngulere goode Lady in moste humble maner I recommend me unto your
+goode ladisship . ELYOT,20.007.178
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:ELYOT_007:E1:1533:AUTOGRAPH:OTHER
+And where by the reporte of your servaunt Thomas Raynsforde I perceyve
+that he hathe founden you allway his speciall goode lady , I in the
+numbre of his frendes doo moste hartily thank you . ELYOT,20.007.179
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:ELYOT_007:E1:1533:AUTOGRAPH:OTHER
+And for the experience that I have hitherto founde in him and all his
+bretherne concerning theire loyaltie and assurid honestie , I am mevid
+to desyre your ladisshipp hartily to continue his goode lady according
+as I doubt not but that ye shall finde his merites in doing his service
+and duetie unto my goode lorde and your ladisshipp . ELYOT,20.007.180
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:ELYOT_007:E1:1533:AUTOGRAPH:OTHER
+Allbe it for as moche as I consydere that he hath to moche delyted in
+dysing , whereby he hath ben an ill husbonde in provyding for that
+which mowght now honestly fournissh him in serving my lorde and you ,
+and as it seemith he now moche repentith , with other losse of tyme ,
+recounting to me how moche he is bounden to your ladisship for your
+honorable and moste gentill advertisementes , I as one of his poure
+frendes and allso in the name and at the request of his bretherne ,
+specially Master Raynsford gentillman huissher my longe approved frende
+, doo humbly desyre youre ladisship to pursue your honorable and moste
+charitable favor toward your sayde servaunt . ELYOT,20.007.181
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:ELYOT_007:E1:1533:AUTOGRAPH:OTHER
+And in doing his diligent and true service to my lord and you , on my
+<P_21> parte I beseche your ladisship to recommend him unto my lordes
+goode remembraunce , for his advauncement . ELYOT,21.007.182
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:ELYOT_007:E1:1533:AUTOGRAPH:OTHER
+And as your ladisship have doone , whan ye shall perceyve any lakk in
+him touching his service , or excess in gamyng , of your goodness and
+wisedom , withdraw him with your sharpe admonicion and commaundment ,
+which I perceyve he doeth moche esteme and dreade . ELYOT,21.007.183
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:ELYOT_007:E1:1533:AUTOGRAPH:OTHER
+And so doing besydes that his father and bretherne shall be bounden to
+pray for you , I shall on my behalf moste humbly thank you with my
+poure service . ELYOT,21.007.184
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:ELYOT_007:E1:1533:AUTOGRAPH:OTHER
+Our Lorde sende my goode lorde and you longe life in moche honor .
+ELYOT,21.007.185
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:ELYOT_007:E1:1533:AUTOGRAPH:OTHER
+Writen at London the iiid day of Decembre . ELYOT,21.007.186
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:HONOR_PLANTAGENET[N.GRENVILLE]:FEMALE:_:1494?:39?
+LETTER:ELYOT_007:E1:1533:AUTOGRAPH:OTHER
+At your commaundment Th Elyot kt ELYOT,21.007.187
+
+<Q_ELY_A_1533?_T_TELYOT> <L_ELYOT_008> <A_THOMAS_ELYOT> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1490?> <R_THOMAS_CROMWELL> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1485?>
+
+<P_22>
+
+{ED:8._TO_CROMWELL}
+
+{ED:[1533?]}
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_008:E1:1533?:AUTOGRAPH:OTHER
+To my specially assurid frende Master Cromewell treasorer of the Kinges
+Jewelles ELYOT,22.008.188
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_008:E1:1533?:AUTOGRAPH:OTHER
+After moste harty recommendations , sir I have sent to you by the
+bringer hereof , a litle treatise which in exchuyng idleness for the
+comfort of my self and other of equall debilitie I late made , wherin
+if ye finding sufficient leisor <paren> as it will be hard for you to
+doo </paren> will spende a fewe houres I doubt not but that your goode
+witt shall finde more frute than ye wolde have lookid for of any thinge
+that sholde have passid from my folissh hedd . ELYOT,22.008.189
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_008:E1:1533?:AUTOGRAPH:OTHER
+But <paren> as the olde greeke proverbe is </paren> it is sometyme
+goode to here the pour gardyner $. ELYOT,22.008.190
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_008:E1:1533?:AUTOGRAPH:OTHER
+In this warke I have done no thinge but onely browght to mennes
+remembraunce that which naturall raison hath towght theim , and that
+withoute desyre of reward or glory $; ELYOT,22.008.191
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_008:E1:1533?:AUTOGRAPH:OTHER
+for according to your wise and frendely aunswere unto me , I can not
+compelle men to esteme me as I wolde that thei sholde , that is <paren>
+as I saye </paren> benevolent unto my Contraye and faithfull unto him
+that will trust me . ELYOT,22.008.192
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_008:E1:1533?:AUTOGRAPH:OTHER
+for no thinge els goode is there in me . ELYOT,22.008.193
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_008:E1:1533?:AUTOGRAPH:OTHER
+yet myne indevor shall be never the lasse to sett furth in some wise
+that litle portion of knowlege which I have receyvyd of godd by the
+meane of study and some experience , which I suppose mowght be
+profitable to theim which will reade or heere it . ELYOT,22.008.194
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_008:E1:1533?:AUTOGRAPH:OTHER
+The mater contayned in this booke is of suche importance that it
+requireth a quyete lesson , and a pregnant jugement with allso a stable
+remembrance , to the help wherof I have of purpose usid often
+repetitions : whereby the matere seemyth the lenger . ELYOT,22.008.195
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_008:E1:1533?:AUTOGRAPH:OTHER
+But being radd diligently and well concoct , to theim in whome is any
+aptness to receyve goode counsayle it will not seme very tediouse .
+ELYOT,22.008.196
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_008:E1:1533?:AUTOGRAPH:OTHER
+As it is I pray you take it in goode part , ELYOT,22.008.197
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_008:E1:1533?:AUTOGRAPH:OTHER
+and after your <P_23> olde gentill manere defend your frende in his
+true meaning , agayne theim whoes myndes have suche a fever contynuall
+, that every goode counsaile is in theire taste unsavery and bitter .
+ELYOT,23.008.198
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_008:E1:1533?:AUTOGRAPH:OTHER
+And if it shall please you to recommend one of theise bookes unto the
+kinges highness whan ye shall fynde thereunto oportunitie , I conforme
+me to your pleasure , sens this is the last Englissh booke which I
+purpose ever to make , onelass the desyre of some speciall frende do
+compelle me . ELYOT,23.008.199
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_008:E1:1533?:AUTOGRAPH:OTHER
+Notwithstanding , if I may in this povertie be suffrid to lyve in
+quyeteness I trust to be so occupyed as neither godd nor honest man
+shall have cause to blame me for consumyng my tyme . ELYOT,23.008.200
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_008:E1:1533?:AUTOGRAPH:OTHER
+our lorde send you longe life with moche worship . ELYOT,23.008.201
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:ELYOT_008:E1:1533?:AUTOGRAPH:OTHER
+yours to my litle powar Th Elyot kt . ELYOT,23.008.202
+
+<Q_ELY_A_1534?_T_TELYOT> <L_ELYOT_009> <A_THOMAS_ELYOT> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1490?> <R_THOMAS_CROMWELL> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1485?>
+
+<P_24>
+
+{ED:9._TO_CROMWELL}
+
+{ED:[autumn_1534_-_spring_1535]}
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:44?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:49?
+LETTER:ELYOT_009:E1:1534?:AUTOGRAPH:OTHER
+To the right honorable Master Secretary With moste humble
+recommendacions , ELYOT,24.009.203
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:44?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:49?
+LETTER:ELYOT_009:E1:1534?:AUTOGRAPH:OTHER
+sir wher it likid you at my last being with you at the Rolles to
+ministre unto me moste gentill wordes to my grete comfort , I have
+often tymes sens revolved theim in my remembraunce , setting in you
+onely all my hole confidence , ELYOT,24.009.204
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:44?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:49?
+LETTER:ELYOT_009:E1:1534?:AUTOGRAPH:OTHER
+and so doo persist . where late I have travaylid aboute the survaying
+of certayne monasteries by the kinges commaundment , wherin my paynes
+shold appiere not unthankfull , if opportunitie mowght happen for me to
+declare it . ELYOT,24.009.205
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:44?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:49?
+LETTER:ELYOT_009:E1:1534?:AUTOGRAPH:OTHER
+If now sir it mowght like you in approvyng your benevolent mynde toward
+me , wherein I doo specially trust , to sett furth with your gentill
+report unto the kinges highness my true hart and diligent indevor in
+his graces service to myn importable charges , and unrecuperable decay
+of my lyving , onlas his highness relieve me with his abundaunt and
+graciouse liberalitie . And therwith it mowght please you to devise
+with his highness for my convenient recompence toward my sayde charges
+, either-4 by landes now suppressid or pencion . I shall not onely take
+<P_25> comfort of your approved fidelitie , and the same advaunt unto
+your honor . But allso in suche wise ordre me toward you , as ye shall
+deeme me not unworthy your gentill remembraunce and benefite . Putting
+you in this assuraunce , that never man have founden or shall fynde me
+ingrate or unthankfull . ELYOT,25.009.206
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:44?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:49?
+LETTER:ELYOT_009:E1:1534?:AUTOGRAPH:OTHER
+I wold $have awaytid on you as my duetie hadd ben , but that I dradd to
+fynde you occupied with grete affayres , which of late hath causid me
+to make many vayne journayes , whan I have ben right desyrouse to see ,
+not for my necessitie onely , but to have communicate with you some
+tokens of harty frendship . ELYOT,25.009.207
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:44?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:49?
+LETTER:ELYOT_009:E1:1534?:AUTOGRAPH:OTHER
+If it be your pleasure that I shall attend on you at the Court , to
+revyve your gentill remembraunce , I that knowing shall folow your
+commaundment and Counsaile , godd willing , who send to you his grace
+with long contynuance in honor ELYOT,25.009.208
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:44?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:49?
+LETTER:ELYOT_009:E1:1534?:AUTOGRAPH:OTHER
+Yours with true affection Th Elyot kt ELYOT,25.009.209
+
+<Q_ELY_A_1536_T_TELYOT> <L_ELYOT_010> <A_THOMAS_ELYOT> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1490?> <R_THOMAS_CROMWELL> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1485?>
+
+<P_26>
+
+{ED:10._TO_CROMWELL}
+
+{ED:[March_6,_1536]}
+
+{ED:NOT_ADDRESSED}
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+Master Secretary in my right humble manner I have me recommendid unto
+you . ELYOT,26.010.210
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+sir all be it that it were my duetie to awayte on you , desyring to be
+perfeitly instructid in the effectuall understanding of the kinges
+moste graciouse pleasure contayned in his graces proclamacion
+concerning sediciouse bookes , now for as moche as I have ben very sikk
+, and yet am not entierly recovered , I am constrayned to importune you
+with theise my homely lettres , which , consydering my necessitie and
+syncere meaning I trust will not be fastidiouse unto you , whome I have
+allway accompted one of my chosen frendes , for the similitude of our
+studies which undoubtidly is the moste perfeict fundacion of amitie .
+ELYOT,26.010.211
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+sir as ye knowe I have ben ever desyrouse to reade many bookes ,
+specially concerning humanitie and morall Philosophy , ELYOT,26.010.212
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+and therefor of suche studies I have a competent numbre .
+ELYOT,26.010.213
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+But concerning holy scripture I have very fewe , ELYOT,26.010.214
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+for in questionistes I never delyted : ELYOT,26.010.215
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+unsavery gloses and comentes I ever abhorred : ELYOT,26.010.216
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+the bostars and advauntars of the pompouse authoritie of the Busshop of
+Rome I never esteemyd . ELYOT,26.010.217
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+But after , that by moche and seriouse reading , I had apprehendid a
+jugement or estimacion of thinges : I didd anon smell oute theire
+corrupt affections ; ELYOT,26.010.218
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+and beheelde with soroufull eyes the sondry abusions of theire
+authorities , adorned with a licenciouse and dissolute forme of lyving
+, of the which as well in theim as in the universall state of the
+Clergy , I have oftentymes wisshed a necessary reformacion . Whereof
+hath happed no litle contencion betwixt me and suche persones as ye
+have thowght that I have <P_27> specially favored , even as ye allso
+didd , for some laudable qualities which we supposid to be in theim .
+ELYOT,27.010.219
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+but neither they mowght persuade me to approve that which both faith
+and my raison condemned : ELYOT,27.010.220
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+nor I mowght dissuade theim from the excusing of that , which all the
+worlde abhorred , which obstinacy of bothe partes relentid the grete
+affection betwene us and withdrue oure familiare repayr .
+ELYOT,27.010.221
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+As touching suche bookes as be now prohibited contayning the busshop of
+Romes authorite , some in deede I have ; joyned with diverse other
+warkes in one grete volume or twoo at the moste , which I never founde
+laysor to reade . ELYOT,27.010.222
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+Notwithstanding if it be the kinges pleasure and yours that I shall
+bringe or sende theim I will doo it right gladly . ELYOT,27.010.223
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+As for the warkes of John fisshar , I never hadd any of theim to my
+knowlege except one litle sermone , which aboute eight or nyne yeres
+passid was translatid into latine by Master Pace ; ELYOT,27.010.224
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+and for that cause I bowght it more than for the author or mater ,
+ELYOT,27.010.225
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+but where it is I am not sure , ELYOT,27.010.226
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+for in goode faith I never radd it but ones sens I bowght it .
+ELYOT,27.010.227
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+finally if your pleasure be to have that and the other , for as moche
+as my bookes be in sondry houses of myn owne and farre a sonder , I
+hartily pray you that I may have convenient respeyte to repayre thither
+after my present recovery , ELYOT,27.010.228
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+and as I wold that godd sholde helpe me I will make diligent serche ,
+ELYOT,27.010.229
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+and suche as I shall finde , savering any thinge agaynst the kinges
+pleasure , I will putt theim in redyness either to be browght to you ,
+or to be cutt oute of the volume wherein they be joyned with other , as
+ye shall advyse me , after that I have certified to you the titles of
+theim . Wherefor sir I hartily besieche you for the syncere love that I
+have toward you , to advertise me playnely <paren> ye lakking laisor to
+write , </paren> either-6 by Master Petre Vanes or Master Augustine ,
+thei writing , what your counsaile and advise is herin , which to my
+powar I will folow . ELYOT,27.010.230
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+And goode Master Secretary consyder that from the tyme of our first
+<P_28> acquayntaunce which began of a mutuall benevolence , ye never
+knew in me froward opynion or dissimulacion . ELYOT,28.010.231
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+perchaunce naturall symplicitie not discretely ordred mowght cause men
+suspect that I favored hypocrysy : supersticion and vanitie .
+ELYOT,28.010.232
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+notwithstanding if ye mowght see my thowghtes as godd doeth , ye shold
+finde a reformar of those thinges and not a favorar , if I mowght that
+I wold , and that I desyre no lass that my soveraign lorde shold
+prosper and be exaltid in honor than any servaunt that he hath , as
+Christe knowith , who send to you abundaunce of his grace with longe
+lif . ELYOT,28.010.233
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+writen at Comb on the Vigil of sainct Thomas . ELYOT,28.010.234
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_010:E1:1536:AUTOGRAPH:OTHER
+yours unfaynedly . Th Elyot kt ELYOT,28.010.235
+
+<Q_ELY_A_1536_T_TELYOT> <L_ELYOT_011> <A_THOMAS_ELYOT> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1490?> <R_THOMAS_CROMWELL> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1485?>
+
+<P_30>
+
+{ED:11._TO_CROMWELL}
+
+{ED:[autumn_[after_July_2],_1536]}
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_011:E1:1536:AUTOGRAPH:OTHER
+To my speciall goode lorde My lord Pryvy Seale . ELYOT,30.011.236
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_011:E1:1536:AUTOGRAPH:OTHER
+My moste speciall goode Lorde Where as by your contynuell exercise in
+waighty affayres , allso frequent access of Sutars unto your goode
+lordship , I could not fynde oportunity to gyve to your lordship due
+and convenyent thankes for your honorable and gentill report to the
+kinges majesty on Wenysday last passid in my favor , I am now
+constrayned to supply with my penne my sayde duety . ELYOT,30.011.237
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_011:E1:1536:AUTOGRAPH:OTHER
+Offryng unto your lordship all harty love and servyce that a poure man
+may ow and beare to his goode lorde and approved frende : which
+allthowgh hability lakking in me I can not expresse by any benefyte
+your wisedom notwithstanding <paren> which I have allway honoured and
+trustid </paren> will I doubt not accept my goode intent , being I
+thank godd ever syncere and withoute flatery or ill dissimulacion , I
+wisshing unto your lordship the honorable desyres of your hart with the
+contynuall favor of godd and of your Prynce . ELYOT,30.011.238
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_011:E1:1536:AUTOGRAPH:OTHER
+My lorde for as moche as I suppose that the kinges moste gentill
+communicacion with me and allso with his moste comfortable report unto
+the lordes of me , procedid of your afore remembrid recommendacions , I
+am animate to importune your goode lordship with moste harty desyres to
+contynue my goode lorde in augmenting the kinges goode estimacion of me
+, whereof I promyse you bifore godd your lordship shall never have
+cause to repent . ELYOT,30.011.239
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_011:E1:1536:AUTOGRAPH:OTHER
+And where I perceyve that ye suspect that I savor not truely holy
+Scriptur , I wold godd that the king and you mowght see the moste
+secrete thowghtes of my hart . ELYOT,30.011.240
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_011:E1:1536:AUTOGRAPH:OTHER
+Surely ye shold than perceyve that the ordre of Charity savyd , I have
+in as moche detestacion <P_31> as any man lyving all vayne
+supersticions , superfluouse Ceremonyes , sklaunderouse jonglynges ,
+Countrefaite Mirakles , arrogant usurpacions of men callid Spirituall
+and masking Religions and all other abusions of Christes holy doctrine
+and lawes . ELYOT,31.011.241
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_011:E1:1536:AUTOGRAPH:OTHER
+And as moche I injoy at the kinges godly proceding to the due
+reformacion of the sayde enormyties as any his graces poure subject
+lyving . ELYOT,31.011.242
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_011:E1:1536:AUTOGRAPH:OTHER
+I therefor besieche your goode lordship now to lay a part the
+remembraunce of the amity betwene me and sir Thomas More which was but
+Vsque ad aras , as is the proverb , consydering that I was never so
+moche addict unto hym as I was unto truthe and fidelity toward my
+soveraigne lorde , as godd is my Juge . ELYOT,31.011.243
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_011:E1:1536:AUTOGRAPH:OTHER
+And where my speciall trust and onely expectacion is to be holpen by
+the meanes of your lordship , and naturall shamefastness more raigneth
+in me than is necessary , so that I wold not prese to the kinges
+majesty withoute your lordshippes assistence unto whome I have sondry
+tymes declarid myn indigence and whereof it hath hapned , I therefor
+moste humbly desyre you my speciall goode lorde so to bryng me into the
+kinges moste noble $remembrance that of his moste bounteouse liberality
+it may like his highnesse to reward me with some convenyent porcion of
+his Suppressid landes , whereby I may be able to contynue my life
+according to that honest degree whereunto his grace hath callid me .
+And that your lordship forgete not that neither of his grace nor of any
+other persone I have fee , office , Pencion or ferme nor have any maner
+of lucre or advauntage besydes the revenues of my pour land which are
+but small , and no more than I may therewith mayntayne my pour house .
+ELYOT,31.011.244
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_011:E1:1536:AUTOGRAPH:OTHER
+And if by your lordshippes meanes I may achieve goode effect of my sute
+, your lordship shall not fynde me ingrate . ELYOT,31.011.245
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_011:E1:1536:AUTOGRAPH:OTHER
+And what so ever porcion of land that I shall attayne by the kynges
+gift , I promyse to give to your lordship the first yeres frutes with
+myn assurid and faithfull hart and servyce . ELYOT,31.011.246
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_011:E1:1536:AUTOGRAPH:OTHER
+This lettre I have writen bycause that I herd that your lordship went
+to the Court . ELYOT,31.011.247
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_011:E1:1536:AUTOGRAPH:OTHER
+And as for my first sute I shall at your lordshippes <P_32> better
+laysor recontynue it , trusting allso in your lordshippes favor therin
+. ELYOT,32.011.248
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_011:E1:1536:AUTOGRAPH:OTHER
+writen at my house by Smythfeld this moneday . ELYOT,32.011.249
+
+AUTHOR:THOMAS_ELYOT:MALE:_:1490?:46?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:51?
+LETTER:ELYOT_011:E1:1536:AUTOGRAPH:OTHER
+Yours moste bounden Th Elyot kt ELYOT,32.011.250

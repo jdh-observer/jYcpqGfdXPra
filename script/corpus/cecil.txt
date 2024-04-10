@@ -1,0 +1,558 @@
+<B_CECIL>
+
+<Q_CEC_A_1586_T_WCECIL> <L_CECIL_001> <A_WILLIAM_CECIL> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1520> <R_CHRISTOPHER_HATTON_I> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1540>
+
+<P_42>
+
+{ED:BURGHLEY_TO_HATTON.}
+
+{ED:4_September,_1586.}
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_001:E2:1586:AUTOGRAPH:OTHER
+Sir , I hartely thank yow for your comfortable lettre so effectvally
+expressyng hir Majesties kyndnes in allowyng of my servyce , being not
+answerable to my dvty but in good will , and in favoryng me from labor
+with my evill foote , which notwithstandyng is and shall be with the
+rest of my body withovt any respect of payn at all commandmentes for
+her service . CECIL,42.001.1
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_001:E2:1586:AUTOGRAPH:OTHER
+I will expect your commyng at my Lord Chancellors at 2 on Mondaye .
+CECIL,42.001.2
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_001:E2:1586:AUTOGRAPH:OTHER
+Sence your departvr Dvn , that lay so long in the myre withovt <P_43>
+styrryng , keppyng silence obstinatly , hath withovt any torment offred
+, liberally confessed as much as we conceaved hym gilty of .
+CECIL,43.001.3
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_001:E2:1586:AUTOGRAPH:OTHER
+He maketh larg reportes of all the practises , shvnning in phrases as
+much as he can to accuse hym self of his own maliciovss purpooss ,
+othar than of his knowledg of the whole and that largly .
+CECIL,43.001.4
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_001:E2:1586:AUTOGRAPH:OTHER
+The 2 Abyngtons ar taken in a shepehoues in Herefordshyr neare Seaborns
+houss . CECIL,43.001.5
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_001:E2:1586:AUTOGRAPH:OTHER
+I thynk Naw and Curle will yeld in ther wrytyng soomwhat to confirm
+ther Mastriss crymes , CECIL,43.001.6
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_001:E2:1586:AUTOGRAPH:OTHER
+but if they war perswaded that them selves myght scape , and the blow
+fall uppon ther Mistriss , betwixt hir head and hir shulders , suerly
+we shold have the whole from hir . CECIL,43.001.7
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_001:E2:1586:AUTOGRAPH:OTHER
+If yow shall bryng any more wrytyng with yow from thence to towch both
+Naw , Curle and Pasquyre , it shall serve vs the better , and spare our
+threatninges to them . CECIL,43.001.8
+
+<P_44>
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_001:E2:1586:AUTOGRAPH:OTHER
+I thank you most hartely for the comfort of your lettre , knowyng you
+to be the instrumentall cause of hir Majesties kyndnes expressed in
+your lettre , whom God preserve long to vse Davides verse ; - Lavdans
+invocabo Dominum et ab inimicis salva ero . CECIL,44.001.9
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_001:E2:1586:AUTOGRAPH:OTHER
+From my houss at Westminster , CECIL,44.001.10
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_001:E2:1586:AUTOGRAPH:OTHER
+wrytt in my bed , but with intent to ryse and to be occupyed .
+CECIL,44.001.11
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_001:E2:1586:AUTOGRAPH:OTHER
+4 Sept . 1586 . CECIL,44.001.12
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_001:E2:1586:AUTOGRAPH:OTHER
+Yours so bovnd , W. Burghley . CECIL,44.001.13
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_001:E2:1586:AUTOGRAPH:OTHER
+{ED:ADDRESSED_IN_BURGHLEY'S_HAND:} - To the Ryght Honvrable Sir
+Christofer Hatton , Vichamberlain , Captain of the Gard and of the
+Prive Counsell to hir Majesty . CECIL,44.001.14
+
+<Q_CEC_A_1586_T_WCECIL> <L_CECIL_002> <A_WILLIAM_CECIL> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1520> <R_CHRISTOPHER_HATTON_I> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1540>
+
+<P_44>
+
+{ED:BURGHLEY_TO_HATTON.}
+
+{ED:12_September_1586.}
+
+<P_45>
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_002:E2:1586:AUTOGRAPH:OTHER
+Sir , Hir Majesty soddenly here falleth into an opinion , that if any
+thyng shuld be to morrow {TEXT:be} {ED:SIC} gyven in evidence ageynst
+the Scottish Quene wherby it might be thought that she shuld be
+criminally tovched for hir liff , it might be perillouse to her
+Majesties person now presently befor any thyng shold be executed vppon
+that Queen . CECIL,45.002.15
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_002:E2:1586:AUTOGRAPH:OTHER
+Myn answer was that I took it for a resolution allweise that vpon the
+araynment hir wrytyng to Babyngton and allowance of the attempt shuld
+orderly fall ovt vppon chargyng of hym , CECIL,45.002.16
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_002:E2:1586:AUTOGRAPH:OTHER
+and I saw no cause why at the arraynment it shuld not appeare , seying
+, to the comen sort of all men , it is a thyng notefyed by manny meanes
+that she had consented , CECIL,45.002.17
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_002:E2:1586:AUTOGRAPH:OTHER
+and it was also knowen that she was restrayned , and hir secretaryes
+detayned . CECIL,45.002.18
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_002:E2:1586:AUTOGRAPH:OTHER
+Beside this , I thought the inditement that must be red oppenly
+concerning Babyngtons offence conteyned this poynt . CECIL,45.002.19
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_002:E2:1586:AUTOGRAPH:OTHER
+To that she answered , that she thovght it was not in the enditement ,
+CECIL,45.002.20
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_002:E2:1586:AUTOGRAPH:OTHER
+and willed me to send to know with all spede , so as if it war not ther
+in conteyned , she had a mind to have no speche therof , a thyng to me
+very strang . Wherfor I pray yow , Sir , with all spede send to the
+attornay for the endytment , and to send word hereof with that spede
+that {with}_P yow may . CECIL,45.002.21
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_002:E2:1586:AUTOGRAPH:OTHER
+Beside this , she commanded me to wryte , that when the judg shall gyve
+the judgment for the mannor of the deth , which she sayth must be doone
+accordyng to the vsuall form , yet in the end of the sentence , he may
+saye that such is the form , vsuall , but yet consideryng this manner
+of horrible treason ageynst hir Majesties own person hath not bene hard
+of in this kyngdom , CECIL,45.002.22
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_002:E2:1586:AUTOGRAPH:OTHER
+it is reason that the manner of ther deth for more terror be referred
+to hir Majesty and hir Counsell . CECIL,45.002.23
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_002:E2:1586:AUTOGRAPH:OTHER
+I told hir Majesty that if the fashion of the execution shall be duly
+and orderly executed , by protractyng of the same both to the extremite
+of the paynes in the action , and to the sight of the people to behold
+it , the manner of the deth wold be as terrible as any other new devise
+cold be , CECIL,45.002.24
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_002:E2:1586:AUTOGRAPH:OTHER
+but therwith hir Majesty was not satisfyed , CECIL,45.002.25
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_002:E2:1586:AUTOGRAPH:OTHER
+but commanded $me thus to wryte to yow , to declare it to the judg ,
+and others of the Counsell ther . CECIL,45.002.26
+
+<P_46>
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_002:E2:1586:AUTOGRAPH:OTHER
+And so , making hast because hir Majesty may have answer this daye and
+hir plesvr also knowe in tyme , I end . CECIL,46.002.27
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_002:E2:1586:AUTOGRAPH:OTHER
+From Wyndsor Castel , 12 of September , 1586 , past tenn of clock .
+CECIL,46.002.28
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_002:E2:1586:AUTOGRAPH:OTHER
+Yours assuredly , W. Burghley . CECIL,46.002.29
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_002:E2:1586:AUTOGRAPH:OTHER
+{ED:ADDRESSED_IN_BURGHLEY'S_HAND:} - To the Right Honorable Sir
+Christofer Hatton , knight , Vichamberlain to hir Majesty .
+CECIL,46.002.30
+
+<Q_CEC_A_1586_T_WCECIL> <L_CECIL_003> <A_WILLIAM_CECIL> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1520> <R_CHRISTOPHER_HATTON_I> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1540>
+
+<P_46>
+
+{ED:BURGHLEY_TO_HATTON.}
+
+{ED:12_September,_1586.}
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_003:E2:1586:AUTOGRAPH:OTHER
+After my very harty Commendations . I have receaved and shewed the
+lettre signed by yow and others of her Majesties Prive and Lerned
+Counsell , CECIL,46.003.31
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_003:E2:1586:AUTOGRAPH:OTHER
+and , settyng asyde myn opinion concurryng with the tenor of your
+lettre , I must delyver her Majesties answer resolvt . CECIL,46.003.32
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_003:E2:1586:AUTOGRAPH:OTHER
+She semeth to mislyke that the particularetyis of the Scotish Quene
+lettres war conteaned in the indytment , CECIL,46.003.33
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_003:E2:1586:AUTOGRAPH:OTHER
+but how soever I allowed therof , and hir Majesty mislykyng , yet now I
+concluded with hir Majesty ther was no remedy left to change that ,
+CECIL,46.003.34
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_003:E2:1586:AUTOGRAPH:OTHER
+and for the prosequutyng therof in delyveryng of the evidence , hir
+pleasvr is that ther be no enlargment of hir cryme , but breffly
+declared for mayntenance of the endytment , that she allowed of
+Babyntons wrytyng or lettre . CECIL,46.003.35
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_003:E2:1586:AUTOGRAPH:OTHER
+Nether wold she that ether by my Lord Cobham , your <P_47> self , or by
+any other , any sharp speches be vsed in condemnation or reproof of the
+Scottis Quene cryme . CECIL,47.003.36
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_003:E2:1586:AUTOGRAPH:OTHER
+The only reason that hir Majesty alledgeth is , that when any of hir
+frendes or partisans shall , by this oppen procedyng , fynd hir in
+davnger , some what may be attempted to hir Majesties davnger of hir
+person in the meane tyme . CECIL,47.003.37
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_003:E2:1586:AUTOGRAPH:OTHER
+For the form in the jvdgment , hir Majesty is content it be kept ,
+CECIL,47.003.38
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_003:E2:1586:AUTOGRAPH:OTHER
+and so I wrot to daye , CECIL,47.003.39
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_003:E2:1586:AUTOGRAPH:OTHER
+but she will that it be added in the end , that nevertheless such an
+extraordinary cryme deserveth a furder extraordinary payne , which is
+to be left to hir Majesty and hir Covnsell to consider of .
+CECIL,47.003.40
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_003:E2:1586:AUTOGRAPH:OTHER
+Thus in hast I end , prayeng yow to commvnicat this , or as much as you
+shall thynk mete , to the rest of hir Majestis Counsell and jvdges .
+CECIL,47.003.41
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_003:E2:1586:AUTOGRAPH:OTHER
+12 Sept. , at night , neare IX of the cloc . CECIL,47.003.42
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_003:E2:1586:AUTOGRAPH:OTHER
+Yours assur : W. Burghley . CECIL,47.003.43
+
+<Q_CEC_A_1586_T_WCECIL> <L_CECIL_004> <A_WILLIAM_CECIL> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1520> <R_CHRISTOPHER_HATTON_I> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1540>
+
+<P_47>
+
+{ED:BURGHLEY_TO_HATTON.}
+
+{ED:13_September,_1586.}
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_004:E2:1586:AUTOGRAPH:OTHER
+Sir , I wrote late yesternight to yow as I took hir Majesties mynd to
+be , which I thynk was brought to yow in convenient <P_48> tyme this
+morning . CECIL,48.004.44
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_004:E2:1586:AUTOGRAPH:OTHER
+Nevertheless this after noone $she told me that she had sent both Mr.
+W. Killigrew , and Mr. Tho. Gorge vnto you , CECIL,48.004.45
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_004:E2:1586:AUTOGRAPH:OTHER
+but what hir messadges wer I vnderstood not ; CECIL,48.004.46
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_004:E2:1586:AUTOGRAPH:OTHER
+and whylest she was spekyng hereof , Mr. Gorg cam with your lettre to
+me , subscribed by all ther in commission savyng ther wanted Mr.
+Tresorers name , CECIL,48.004.47
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_004:E2:1586:AUTOGRAPH:OTHER
+and these lettres I red to hir Majesty , maynteaning the reason therof
+ageynst hir Majesties oppositions . CECIL,48.004.48
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_004:E2:1586:AUTOGRAPH:OTHER
+Mr. Gorg also at length declared your procedyng ageynst Savadg .
+CECIL,48.004.49
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_004:E2:1586:AUTOGRAPH:OTHER
+And in the end , $she is pleased that the lerned counsell shall procede
+in mayntenance and proves of the inditment as afor was ment , withovt
+any exacerbation or enlargment of the Queen of Scottes cryme more than
+shall be requisit for mayntenance of the endytment . CECIL,48.004.50
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_004:E2:1586:AUTOGRAPH:OTHER
+And so , wishyng your redy procidyng withovt these kynd of stopps that
+can not but ingendre unconvenient opinions , althovgh hir Majesty
+semeth to have no other meaning but a forsight for suerty of hir own
+person , which God preserve above all ours , CECIL,48.004.51
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_004:E2:1586:AUTOGRAPH:OTHER
+From Wyndsor , xiii Sept. , past three . CECIL,48.004.52
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_004:E2:1586:AUTOGRAPH:OTHER
+Yours assuredly , W. Burghley . CECIL,48.004.53
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_004:E2:1586:AUTOGRAPH:OTHER
+We here that the reports of X {ED:?} shipps of war at Conquest is not
+trew . CECIL,48.004.54
+
+<Q_CEC_A_1586_T_WCECIL> <L_CECIL_005> <A_WILLIAM_CECIL> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1520> <R_CHRISTOPHER_HATTON_I> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1540>
+
+<P_49>
+
+{ED:BURGHLEY_TO_HATTON.}
+
+{ED:15_September,_1586.}
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_005:E2:1586:AUTOGRAPH:OTHER
+Sir , I wrote 2 howres past , {TEXT:what} hir Majesty ment for the tyme
+of execvtion to be not afor Monday , afor which tyme I thynk yow will
+be here . CECIL,49.005.55
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_005:E2:1586:AUTOGRAPH:OTHER
+Now hir Majesty mislyketh of Woodstock and any other place but
+Fodrynghaye , CECIL,49.005.56
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_005:E2:1586:AUTOGRAPH:OTHER
+so as by her commandment , I have sent both to Sir Amyas Pavlett and to
+Sir Walter Mildmay , the on to carry hir awey , the other to provyde
+for hir bestowyng . CECIL,49.005.57
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_005:E2:1586:AUTOGRAPH:OTHER
+How long this determination will last I know not , CECIL,49.005.58
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_005:E2:1586:AUTOGRAPH:OTHER
+but I have sett it onward , CECIL,49.005.59
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_005:E2:1586:AUTOGRAPH:OTHER
+and if farder tyme be delayed the Parlement will com befor the Lords
+can well retorn . CECIL,49.005.60
+
+<P_50>
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_005:E2:1586:AUTOGRAPH:OTHER
+The Queen of Scottes swereth by hir fayth , and with no gretar othe ,
+that it is not trew that she sent any lettres to Babyngton ,
+CECIL,50.005.61
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_005:E2:1586:AUTOGRAPH:OTHER
+and if Naw or Curle saye so , it is by constraynt of the rack .
+CECIL,50.005.62
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_005:E2:1586:AUTOGRAPH:OTHER
+She justifyeth that she , being a prisonar , might practise hir scape
+and for the invasion by Catholicques , that she might leage with the
+Catholick princes as well as the Queenes Majesty hath doone with hir
+son , the King of Scottes . CECIL,50.005.63
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_005:E2:1586:AUTOGRAPH:OTHER
+And so , havyng my handes fullar than I can delyver by M=r= Secretoryes
+infyrmite , I am constreyned to scrible in hast . CECIL,50.005.64
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_005:E2:1586:AUTOGRAPH:OTHER
+xv Sept. , hora 2=d= post meridiem . CECIL,50.005.65
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_005:E2:1586:AUTOGRAPH:OTHER
+Yours assuredly , W. Burghley . CECIL,50.005.66
+
+<Q_CEC_A_1586_T_WCECIL> <L_CECIL_006> <A_WILLIAM_CECIL> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1520> <R_CHRISTOPHER_HATTON_I> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1540>
+
+<P_50>
+
+{ED:BURGHLEY_TO_HATTON.}
+
+{ED:16_September,_1586.}
+
+<P_51>
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_006:E2:1586:AUTOGRAPH:OTHER
+Sir , because I hope yow will be here to morrow , I wryte the less .
+CECIL,51.006.67
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_006:E2:1586:AUTOGRAPH:OTHER
+Thovgh manny thynges fall vppon me here , by M=r= Secretoryes
+infirmytes , yet I fynd no cause so intrycat , and vnresolvble as to
+determyn what shall be to be doone vppon M=r= Wylkes report of the
+state of the Low Countreys , as at your comyng is to be seene .
+CECIL,51.006.68
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_006:E2:1586:AUTOGRAPH:OTHER
+Hir Majesty hath determyned Forthryngay to be the place for the Scott
+Queen and hir case to be herd . CECIL,51.006.69
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_006:E2:1586:AUTOGRAPH:OTHER
+Order is gyven for hir remove , so as she is to be at Fothryngay on
+Michaelmas even at the fardest , CECIL,51.006.70
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_006:E2:1586:AUTOGRAPH:OTHER
+and our first assembling at Westminster must be the 27 .
+CECIL,51.006.71
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_006:E2:1586:AUTOGRAPH:OTHER
+And I thynk we ar to be at Fodrynghay the v=th= of October ,
+CECIL,51.006.72
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_006:E2:1586:AUTOGRAPH:OTHER
+and I thynk yow ar lyk to be , if yow lack not of your will , at
+Holdenby about the 3 or 4=th= . CECIL,51.006.73
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_006:E2:1586:AUTOGRAPH:OTHER
+From Wyndsor Castle , xvi Sept . , 1586 . CECIL,51.006.74
+
+AUTHOR:WILLIAM_CECIL:MALE:_:1520:66
+RECIPIENT:CHRISTOPHER_HATTON_I:MALE:_:1540:46
+LETTER:CECIL_006:E2:1586:AUTOGRAPH:OTHER
+Your assured $loving $friend , W. Burghley . CECIL,51.006.75

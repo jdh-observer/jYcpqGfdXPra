@@ -1,0 +1,4112 @@
+<B_ROYAL1>
+
+<Q_RO1_A_1585_FO_ELIZABETH1> <L_ROYAL1_001> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_10>
+
+{ED:NO._VI._ELIZABETH_TO_JAMES.}
+
+{ED:January_1584-5.}
+
+<P_11>
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_001:E2:1585:AUTOGRAPH:FAMILY_OTHER
+I mynde not deale , my deare brother , as wise men commenly counsel ,
+to try my trust with trifles first , and therby iuge of like event ,
+ROYAL1,11.001.1
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_001:E2:1585:AUTOGRAPH:FAMILY_OTHER
+but haue agried to make my first assay of your many promises and
+desires that you might knowe the way to please me most ;
+ROYAL1,11.001.2
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_001:E2:1585:AUTOGRAPH:FAMILY_OTHER
+and therfor do require , that a question may , upon allegeance , be
+demanded by yourselfe of the mastar Gray , whether he knoweth not the
+prise of my bloude , wiche shuld be spild by bloudy hande of a
+murtherar , wiche some of your nere-a-kin did graunt . ROYAL1,11.001.3
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_001:E2:1585:AUTOGRAPH:FAMILY_OTHER
+A sore question , you may suppose , but no other act than suche as I am
+assured he knowes , ROYAL1,11.001.4
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_001:E2:1585:AUTOGRAPH:FAMILY_OTHER
+and therfor I hope he wyl not dare deny you a truthe ; ROYAL1,11.001.5
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_001:E2:1585:AUTOGRAPH:FAMILY_OTHER
+but yet I beseche you let it not seme to come from me , to whom I made
+no semblance but ignorance . ROYAL1,11.001.6
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_001:E2:1585:AUTOGRAPH:FAMILY_OTHER
+Let him suppose that you receaued it elzwhere . ROYAL1,11.001.7
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_001:E2:1585:AUTOGRAPH:FAMILY_OTHER
+O most wicked treachere , to gusche the droppes of innocent bloud , yea
+, of suche as perhaps hath saued often thers ! ROYAL1,11.001.8
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_001:E2:1585:AUTOGRAPH:FAMILY_OTHER
+As this toucheth me nearest , so use it with best commodity ,
+ROYAL1,11.001.9
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_001:E2:1585:AUTOGRAPH:FAMILY_OTHER
+and let the answer be speded after a thre or foure dayes after his
+retourne . ROYAL1,11.001.10
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_001:E2:1585:AUTOGRAPH:FAMILY_OTHER
+It <P_12> may please you , aske it no sonar , lest he suspect it come
+of me , from whom , according to trust , let it be kept .
+ROYAL1,12.001.11
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_001:E2:1585:AUTOGRAPH:FAMILY_OTHER
+Your most assured sistar and cousin , {ED:UNSIGNED} . ROYAL1,12.001.12
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_001:E2:1585:AUTOGRAPH:FAMILY_OTHER
+God euer kepe you from al daungerous attempts , ROYAL1,12.001.13
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_001:E2:1585:AUTOGRAPH:FAMILY_OTHER
+and graunt you many yeres to liue and raigne . ROYAL1,12.001.14
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_001:E2:1585:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED,} Au roy d'Escose , mon bon frere et cousin .
+ROYAL1,12.001.15
+
+<Q_RO1_A_1585_FO_ELIZABETH1> <L_ROYAL1_002> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_12>
+
+{ED:No._VII._ELIZABETH_TO_JAMES}
+
+{ED:January_or_February_1584-5.}
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_002:E2:1585:AUTOGRAPH:FAMILY_OTHER
+I haue , right deare brother , receaued your frendly and affectionat
+letters , in wiche I perceaue the mastar Grayes halfe , limping answer
+, wiche is lame in thes respectz : ROYAL1,12.002.16
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_002:E2:1585:AUTOGRAPH:FAMILY_OTHER
+the one , for that I se not that he told you who bade him talke with
+Morgan of the price of my bloude , wiche he knowes , I am assured ,
+right wel ; nor yet hathe named the man that shuld be the murtherar of
+my life . ROYAL1,12.002.17
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_002:E2:1585:AUTOGRAPH:FAMILY_OTHER
+You wel perceaue that nothing may nearelar touche me than this cause ,
+ROYAL1,12.002.18
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_002:E2:1585:AUTOGRAPH:FAMILY_OTHER
+and therfor , accordinge to the bond of nature and the promes of
+strikte frindeship , let me coniure you that this vilanye may be
+confest . ROYAL1,12.002.19
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_002:E2:1585:AUTOGRAPH:FAMILY_OTHER
+I hope I may <P_13> stand you in bettar sted than that you wyl shew you
+uncareful of suche a treason . ROYAL1,13.002.20
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_002:E2:1585:AUTOGRAPH:FAMILY_OTHER
+And because I desiar that no cause be giuen of your part to make me ,
+or the lokers on , to slandar your good wyl , I heare , out of my
+realme of Ireland , that Skotz assemble in great troupes .
+ROYAL1,13.002.21
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_002:E2:1585:AUTOGRAPH:FAMILY_OTHER
+Giue you charge immediatly , I most hartely require you , that , upon
+paine of treason , the desist from suche action , ROYAL1,13.002.22
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_002:E2:1585:AUTOGRAPH:FAMILY_OTHER
+and so shal you bind me to recompence suche honorable traictment .
+ROYAL1,13.002.23
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_002:E2:1585:AUTOGRAPH:FAMILY_OTHER
+And wher I perceaue that you expected the erles departur from the
+bordars , it is true , vpon my honor , that I dispached furthewith a
+charge unto them , wiche the answered , after a wekes leasur , that the
+wer so indetted to my subiectz that the could not , ROYAL1,13.002.24
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_002:E2:1585:AUTOGRAPH:FAMILY_OTHER
+but I am sure by this time the ar departed . ROYAL1,13.002.25
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_002:E2:1585:AUTOGRAPH:FAMILY_OTHER
+As for ther not banisment out of my realme , I haue , by my secretary ,
+signified to the mastar Gray what reasons necessary to be considered
+moues me therunto , specially sins the offar to submit themselues to
+suffar as if the wer my subiectz offending me , and to take condigne
+pain if , while the bid in my gouernement , the disobay ther alegiance
+to you . ROYAL1,13.002.26
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_002:E2:1585:AUTOGRAPH:FAMILY_OTHER
+And this , with the rest , I trust wyl content you , as one that I wyll
+take as great care of , for your honor and your surty , as whosoever
+may giue you more golden promes with leaden performance .
+ROYAL1,13.002.27
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_002:E2:1585:AUTOGRAPH:FAMILY_OTHER
+I beseche you let your answer be retournid me with your best spede and
+most commoditye . ROYAL1,13.002.28
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_002:E2:1585:AUTOGRAPH:FAMILY_OTHER
+Thus , not willing to molest you , I , with my humblest deuotion ,
+intreat the Almighty to protect you from al inconveniens , and grant
+you many happy yeares . ROYAL1,13.002.29
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_002:E2:1585:AUTOGRAPH:FAMILY_OTHER
+Your most assured sistar and cousin , Elizabeth R . ROYAL1,13.002.30
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_002:E2:1585:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED,} A monsieur mon bon frere et cousin le roy d'Escosse .
+ROYAL1,13.002.31
+
+<Q_RO1_A_1585_FO_ELIZABETH1> <L_ROYAL1_003> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_16>
+
+{ED:NO._X_ELIZABETH_TO_JAMES.}
+
+{ED:June_or_July,_1585.}
+
+<P_17>
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_003:E2:1585:AUTOGRAPH:FAMILY_OTHER
+Right deare brother , Your gladsome acceptance of my offred amitie ,
+togither with the desiar you seem to have ingraven in your mynde to
+make merites correspondant , makes me in ful opinion that some ennemis
+to our good wyl shal loose muche travel , with making frustrat thar
+baiting stratagemes , whiche I knowe to be many and by sondry meanes to
+be explored . ROYAL1,17.003.32
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_003:E2:1585:AUTOGRAPH:FAMILY_OTHER
+I $can $not {TEXT:cannot} halt with you so muche as to denye that I
+haue seen suche euident shewes of your contrarious dealings , that if I
+mad not my rekening the bettar of the moneths , I might condemne you as
+unworthy of suche as I mynd to shewe myselfe toward you ,
+ROYAL1,17.003.33
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_003:E2:1585:AUTOGRAPH:FAMILY_OTHER
+and therfor I am wel pleased to take any coulor to defend your honor ,
+ROYAL1,17.003.34
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_003:E2:1585:AUTOGRAPH:FAMILY_OTHER
+and hope that you wyl remember , that who seaketh two stringes to one
+bowe , the may shute strong , but neuer strait ; ROYAL1,17.003.35
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_003:E2:1585:AUTOGRAPH:FAMILY_OTHER
+and if you suppose that princes causes be vailed so couvertly that no
+intelligence may bewraye them , deceave not yourselfe ;
+ROYAL1,17.003.36
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_003:E2:1585:AUTOGRAPH:FAMILY_OTHER
+we old foxes can find shiftes to saue ourselves by others malice , and
+come by knowledge of greattest secreat , spetiallye if it touche our
+freholde . ROYAL1,17.003.37
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_003:E2:1585:AUTOGRAPH:FAMILY_OTHER
+It becometh , therfor , all our rencq to deale sincerely , lest , if we
+use it not , whan we do it , we be hardly beleaved . ROYAL1,17.003.38
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_003:E2:1585:AUTOGRAPH:FAMILY_OTHER
+I write not this , my deare brother , for dout but for remembrances .
+ROYAL1,17.003.39
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_003:E2:1585:AUTOGRAPH:FAMILY_OTHER
+My ambassador writes so muche of your honorable traitment of him and of
+Alexandar , that I belive the be convertid Scotes . ROYAL1,17.003.40
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_003:E2:1585:AUTOGRAPH:FAMILY_OTHER
+You oblige me for them , for wiche I rendar you a milion of most intire
+thankes , as she that meaneth to desarue many a good thoght in your
+brest throwe good desart . ROYAL1,17.003.41
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_003:E2:1585:AUTOGRAPH:FAMILY_OTHER
+And for that your request is so honorable , retaining so muche reason ,
+I wer out of $my sences if I shuld not suspend of any hiresay til the
+answer of your owne action , wiche the actor ought best to knowe ,
+ROYAL1,17.003.42
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_003:E2:1585:AUTOGRAPH:FAMILY_OTHER
+and so assure yourselfe I meane and vowe to do ; with this request ,
+that you wyl affourd me the reciproque . ROYAL1,17.003.43
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_003:E2:1585:AUTOGRAPH:FAMILY_OTHER
+And thus , with my many petitions to the Almighty for your long life
+and preservation , I ende thes skribled lines . ROYAL1,17.003.44
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_003:E2:1585:AUTOGRAPH:FAMILY_OTHER
+Your verey assured lovinge sistar and cousin , Elizabeth R .
+ROYAL1,17.003.45
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_003:E2:1585:AUTOGRAPH:FAMILY_OTHER
+A mon bon frere le roy d'Escose . ROYAL1,17.003.46
+
+<Q_RO1_A_1585_FO_ELIZABETH1> <L_ROYAL1_004> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_19>
+
+{ED:NO._XII._ELIZABETH_TO_JAMES.}
+
+{ED:August_1585.}
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_004:E2:1585:AUTOGRAPH:FAMILY_OTHER
+Right deare brother , I find to true the Frenche adage , Qu'un mal ne
+vint jamais seul ; ROYAL1,19.004.47
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_004:E2:1585:AUTOGRAPH:FAMILY_OTHER
+for as the horrible and soudain murdar of my most faithful subiect and
+most vaillant baron was unto me a heartsore and grivous tidinges , so
+was it tenfold redoubled with knowelege that a Skot shuld dare violate
+his handes on any of our noble bloude , in a peacable concord , whan
+our frendship shuld haue sent out his hotest beames to the kindeling of
+the entier affection of bothe realmes ; that any of that nation shuld
+ons dare haue had a thoght to maculate suche a contract of amitie .
+ROYAL1,19.004.48
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_004:E2:1585:AUTOGRAPH:FAMILY_OTHER
+I perceive , by my ambassador , that your grief is litel les than suche
+a hap deserveth , ROYAL1,19.004.49
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_004:E2:1585:AUTOGRAPH:FAMILY_OTHER
+and do perceaue that you haue not spared your wel-fauored , to cause
+him answer suche a suspicion . ROYAL1,19.004.50
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_004:E2:1585:AUTOGRAPH:FAMILY_OTHER
+I thinke myselfe , therfor , greatly <P_20> obliged unto your care for
+my satisfaction , ROYAL1,20.004.51
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_004:E2:1585:AUTOGRAPH:FAMILY_OTHER
+and therin I thanke you for being so considerast of your owne honor ,
+wiche , I assure you , lieth a-bleding in the bowels of many an Inglas
+man , until ful rayson be made for suche a treacherye .
+ROYAL1,20.004.52
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_004:E2:1585:AUTOGRAPH:FAMILY_OTHER
+God send us bettar luck after our league be finished than this bloudy
+beginninge may geue calendes of , ROYAL1,20.004.53
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_004:E2:1585:AUTOGRAPH:FAMILY_OTHER
+elz many a red side wil folowe suche demerites . ROYAL1,20.004.54
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_004:E2:1585:AUTOGRAPH:FAMILY_OTHER
+But I hope you wyl spare no man that may be douted of suche a meaning .
+I meane , not only of the murdar but of the breaking out upon our
+borderars , wiche commonly ar the beginnings of our quarelz .
+ROYAL1,20.004.55
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_004:E2:1585:AUTOGRAPH:FAMILY_OTHER
+I dout nothinge of your curious care in this behalfe , ROYAL1,20.004.56
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_004:E2:1585:AUTOGRAPH:FAMILY_OTHER
+and for that the warden of that marche hathe bine the open and commen
+fosterar and compagnion of the traitor Westmarland and his complices in
+France and Scotland , I hope you wil agrie to send him to my handes ,
+wher he shal neuer receaue iniurie nor ivel measure . ROYAL1,20.004.57
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_004:E2:1585:AUTOGRAPH:FAMILY_OTHER
+And thus , desiring $you to credit my ambassador in certain
+particularites that he shal impart unto you as to myselfe , I recommend
+you to Gods safe tuition , who graunt you many gladsome yeres .
+ROYAL1,20.004.58
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_004:E2:1585:AUTOGRAPH:FAMILY_OTHER
+Your most affectionat sistar and cousin , Elizabeth R .
+ROYAL1,20.004.59
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_004:E2:1585:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED} A mon bon frere et cousin , le roy d'Escose .
+ROYAL1,20.004.60
+
+<Q_RO1_A_1585_FO_ELIZABETH1> <L_ROYAL1_005> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_22>
+
+{ED:NO._XV._ELIZABETH_TO_JAMES.}
+
+{ED:November_1585.}
+
+<P_23>
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_005:E2:1585:AUTOGRAPH:FAMILY_OTHER
+Right deare brother , the strangenes of harde accidens that ar arrived
+here , of unloked for , or unsuspected , attemps in Skotland , euen by
+some suche as lately issued out of our lande , constraineth me , as wel
+for the care we have of your person as of the discharge of our owne
+honor and consciense , to send you immediatly this gentleman , one that
+appartaineth to us in bloud , bothe to offer you all assistance of
+helpe as al good indeuor of counceil , and to make hit plaine that we
+delt plainly . ROYAL1,23.005.61
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_005:E2:1585:AUTOGRAPH:FAMILY_OTHER
+Thes lordes makeng great outcryes that I wold not or coulde helpe them
+to be restored ; I , by ther great importunitie , yelded , that if I
+might be fried of my assurance given unto you for ther safe kiping , I
+wold consent to ther departure , ROYAL1,23.005.62
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_005:E2:1585:AUTOGRAPH:FAMILY_OTHER
+and so , after your answer , as my thoght most honorable , that the
+might take ther way to Germany with your gracious graunt of some
+livelode , after a weekes space I gaue them my pasport ROYAL1,23.005.63
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_005:E2:1585:AUTOGRAPH:FAMILY_OTHER
+and so dismissed them , without , I swere unto you , ons the sight of
+any one of them . ROYAL1,23.005.64
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_005:E2:1585:AUTOGRAPH:FAMILY_OTHER
+Now , whan I way how suddenly , beyond my expectation , this suddan
+stur ariseth , and fering lest some ivel and wicked person might
+surmise that this was not without my forsight , I beseche you trust my
+actions accordinge the measure of my formar dealings for your safety ,
+and ansuerable to the rule of reason , ROYAL1,23.005.65
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_005:E2:1585:AUTOGRAPH:FAMILY_OTHER
+and you shal find , that few princes wyl agrye to constraint of ther
+equalz , muche les with compulsion of ther subiects . ROYAL1,23.005.66
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_005:E2:1585:AUTOGRAPH:FAMILY_OTHER
+Juge of me , therfor , as of a kinge that caries no abiect nature ,
+ROYAL1,23.005.67
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_005:E2:1585:AUTOGRAPH:FAMILY_OTHER
+and thinke this of me , that , rather than your daungier , I wyl ventur
+myne ; ROYAL1,23.005.68
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_005:E2:1585:AUTOGRAPH:FAMILY_OTHER
+and albeit I must confesse that it is daungerous for a prince to
+irritast to muche , through iuel aduise , the generalitie of great
+subiectz , so might you or now haue folowed my aduise , that wold neuer
+betray you with unsound counceil ; ROYAL1,23.005.69
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_005:E2:1585:AUTOGRAPH:FAMILY_OTHER
+and now to conclude , making hast , I pray you be plain with this
+bearar , that I may knowe <P_24> what you wold that I should do ,
+without excuse hireafter , that constrained you did hit ,
+ROYAL1,24.005.70
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_005:E2:1585:AUTOGRAPH:FAMILY_OTHER
+for I dare assure you of his secresye , ROYAL1,24.005.71
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_005:E2:1585:AUTOGRAPH:FAMILY_OTHER
+and therof be you bold . ROYAL1,24.005.72
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_005:E2:1585:AUTOGRAPH:FAMILY_OTHER
+For the lord Russelz dethe , and other thinges , I referre me to this
+gentilman , who I dare promis is of no faction beside my wyl .
+ROYAL1,24.005.73
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_005:E2:1585:AUTOGRAPH:FAMILY_OTHER
+God blesse you in al safety as I wysche myself . ROYAL1,24.005.74
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_005:E2:1585:AUTOGRAPH:FAMILY_OTHER
+Your tru assured cousin and sistar , Elizabeth R . ROYAL1,24.005.75
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_005:E2:1585:AUTOGRAPH:FAMILY_OTHER
+Feare not , ROYAL1,24.005.76
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_005:E2:1585:AUTOGRAPH:FAMILY_OTHER
+for your life must be thers , ROYAL1,24.005.77
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_005:E2:1585:AUTOGRAPH:FAMILY_OTHER
+or els the shal smart wel , euery mothers son of them .
+ROYAL1,24.005.78
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:52
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:19
+LETTER:ROYAL1_005:E2:1585:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED,} A mon trescher frere le roy d'Escose . ROYAL1,24.005.79
+
+<Q_RO1_A_1586_FO_ELIZABETH1> <L_ROYAL1_006> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_26>
+
+{ED:NO._XVII._ELIZABETH_TO_JAMES.}
+
+{ED:January_1585-6.}
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Right deare brother , I am not a litel satisfaict of many a carefull
+thoght that my mynde tossed up and downe , with doutes what care might
+do to a kings brest , invirunned of a seubdain with so vnlooked for an
+accident ; ROYAL1,26.006.80
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+my thankes , therfor , may $scarse be contained in this paper for your
+most acceptable messanger , whom it pleased you to commaund $for my
+satisfaction of your good estat , togither with your good liking of the
+lordes and ther action , whom I <P_27> beseche God no longar preserue
+in life , than the be ready for your preservation to spend all thers ;
+ROYAL1,27.006.81
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+so far wer euer my intentz from any trechery towarde you .
+ROYAL1,27.006.82
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+And wheras your desiar seameth great that the league in hand myght come
+to ende , I am addressing a gentilman vnto you for the same purpose ,
+ROYAL1,27.006.83
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and wyl delay no time for so good a intent , trusting than , that no
+whispering treason shal haue credit in your eare to retarde or cut of
+so nideful an action . ROYAL1,27.006.84
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Suppose suche , I pray you , to resemble a golden houke that oft
+deceaues the vnwary fische , and makes him receaue his worst in lieu of
+bettar hope . ROYAL1,27.006.85
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Amidz al thes kind dealings of yours , let me not forget how litel care
+the worlde shal thinke you prise me at , if in middest of greatest
+frindship , my los of honor be no whit repaired for the shamful murther
+of the baron Russell . ROYAL1,27.006.86
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Pondar it depely , I beseche you , ROYAL1,27.006.87
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+for hit striketh nere me , so publik an iniurye to haue no redres ,
+without we shewe the thoght , wiche God alone reserues his part .
+ROYAL1,27.006.88
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+The like answer was neuer yet giuen , ROYAL1,27.006.89
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and $I hope for bettar paiment . ROYAL1,27.006.90
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+For your churche matters , I do bothe admire and reioise to see your
+wise paraphrase , wiche far excedeth ther texte . ROYAL1,27.006.91
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Since God hathe made kinges , let them not unmake ther authorite ,
+ROYAL1,27.006.92
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and let brokes and smal rivers acknowledge ther springes , and flowe no
+furdar than ther bankes . ROYAL1,27.006.93
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+I praise God that you uphold euer a regal rule . ROYAL1,27.006.94
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+For all other matters wiche this gentilman hathe told me , I wil hope
+stil that your faithful profession of constantie in my behalfe shal far
+surmount the devellishe practises and suttel iniquitie of those wiche ,
+undar pretence of your aduancement , wil skanten your best fortiune .
+ROYAL1,27.006.95
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+And albeit I am aduertised , even from amonge themselves , that your
+assurance to them doth shewe , that al my faire offers from you be ad
+Ephesios and ridiculus , meaning wholy to folow them and temporise with
+me , yet I mynd to peccare in meliorem if I must nides be begiled ,
+ROYAL1,27.006.96
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and mynd not to trust them til I see you faile me , ROYAL1,27.006.97
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and than deceptis ad decipientem digne vertitur . ROYAL1,27.006.98
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Til than , I wyl trust your worde , ROYAL1,27.006.99
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and dare assure you shal neuer , on my behalfe , haue cause to <P_28>
+repent your woues , meaning you no les good than I pray God euer to
+afourde me , prayinge him longe to conserve you . ROYAL1,28.006.100
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+And to ende this lettar , let me not forget to recommend this
+gentlemans good behavor in this his charge , hauing used it to your
+honor and his great praise . ROYAL1,28.006.101
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Thus I finische to troble you , ROYAL1,28.006.102
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+but do rest , Your most assuredzt louing sistar and cousin , Elizabeth
+R . ROYAL1,28.006.103
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_006:E2:1586:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED,} To my deerest brother and cousin the king of Scotts .
+ROYAL1,28.006.104
+
+<Q_RO1_A_1586_FO_ELIZABETH1> <L_ROYAL1_007> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_28>
+
+{ED:NO._XVIII._ELIZABETH_TO_JAMES.}
+
+{ED:February_1585-6.}
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_007:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Right deare brother , Determining with myselfe to sende you some one of
+whose affection I had profe towarde your estat and parson , have
+resolved of this gentilman , who in your childesche yeres sought all
+menes of your preservation , and was the instrument to have you served
+by them that folowed no other rular than your raigne , and for that
+cause suffred hard assaultes , yea to the present peril of life , wiche
+was soght sondry wayes , and ons by bullet of pistol , as he had to
+shew . ROYAL1,28.007.105
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_007:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Suppose you that suche a one , so used , wold be hasty to go on this
+viage , wer it not my spetiall charge , wiche only I do for the longe
+experience that he hathe had of that country , and so the bettar able
+to serve us bothe , ROYAL1,28.007.106
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_007:E2:1586:AUTOGRAPH:FAMILY_OTHER
+for I dare swere he hathe no other scope than to kipe us frendes , and
+increase that bond . ROYAL1,28.007.107
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_007:E2:1586:AUTOGRAPH:FAMILY_OTHER
+And if he <P_29> find any opposite against so good a worke , he wyl
+obviat it if he may , ROYAL1,29.007.108
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_007:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and wyl serve you in any thing that may advance your honor and quiat ,
+according to his commission ; ROYAL1,29.007.109
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_007:E2:1586:AUTOGRAPH:FAMILY_OTHER
+praying you to have regard unto him and his honorable traictment , that
+I may haue no cause to reuenge his wronge ; not douting but if you knew
+his nature and honesty , as I do , you wold not estime him menely .
+ROYAL1,29.007.110
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_007:E2:1586:AUTOGRAPH:FAMILY_OTHER
+I assure you he is of muche valeur bothe-1 for wit and discretion ; in
+whom ther was never found trechery . ROYAL1,29.007.111
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_007:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Thus I end , with my prayers to God for your long continuance .
+ROYAL1,29.007.112
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_007:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Your assured sistar and cousin , Elizabeth R . ROYAL1,29.007.113
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_007:E2:1586:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED,} A mon bon frere le roy d'Escose . ROYAL1,29.007.114
+
+<Q_RO1_A_1586_FO_ELIZABETH1> <L_ROYAL1_008> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_29>
+
+{ED:NO._XIX._ELIZABETH_TO_JAMES.}
+
+{ED:March_1585-6.}
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+The expertist seamen , my deare brother , makes vant of ther best
+shippes whan the pas the highest bellowes without yelding , and broke
+nimlest the roughest stormes . ROYAL1,29.008.115
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+The like profe , I suppose , may best be made , and surest boste , of
+frindes , whan greatest persuasions and mightiest ennemis oppose
+themselues for parties . ROYAL1,29.008.116
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+If than a constant <P_30> irremouable good wyll appere , thar is best
+triall made . ROYAL1,30.008.117
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+And for that I knowe ther is no worse orator for truthe than malice ,
+nor shwredar invahar than envye , and that I am sure you haue wanted
+nether , to assaile your mynde to win it from our frindeship ; if not
+auailing all thes minars , you kipe the hold of your promised inward
+affection , as Randol at lengthe haue told me and your owne lettars
+assure me , I dare thus boldly affirme , that you shall haue the bettar
+part in this bargain . ROYAL1,30.008.118
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+For when you way in equal balance , with no palsey hande , the very
+ground of ther desires that wold withdrawe you , it is but roote of
+mischif to peril your selfe , with hope to harme her who euer hathe
+preserued you ; ROYAL1,30.008.119
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and sins you may be sure that Skotland , nor yourself , be so potent ,
+as for your greatnes the seake you , nor neuer did , but to iniure a
+thirde ; and if you rede the histories , ther is no great cause of bost
+for many conquests , thogh your contry sarued ther malice .
+ROYAL1,30.008.120
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+This you see the beginning why euer Skotland hathe bine sought .
+ROYAL1,30.008.121
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Now , to come to my ground worke , only natural affection ab
+incunabulis sturrid me to saue you from the murderars of your father ,
+and the peril that ther complices might brede you . ROYAL1,30.008.122
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Thus , as in no counterfait miroir , you may behold without maske the
+faces of bothe beginnars . ROYAL1,30.008.123
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+It is for you to juge what ar like to be the best euent of bothe ,
+ROYAL1,30.008.124
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and therafter I pray God you may use your best choise to your surest
+good , no semblant false to begile . ROYAL1,30.008.125
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+And as I reioyse to haue had , iven in this hammering worlde , suche
+presant profe of your sincerite , so shal you be sure to imploye it
+upon no gileful person , nor suche as wil not take as muche regard of
+your good as of her owne . ROYAL1,30.008.126
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Tochinge an " instrument , " as your secretarye terme it , that you
+desiar to haue me signe , I assure you , thogh I can play of some , and
+haue bine broght up to know musike , yet this disscord wold be so grose
+as wer not fit for so wel-tuned musicke . ROYAL1,30.008.127
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Must so great dout be made of fre good wyl , and gift be so mistrusted
+, that our signe Emanuel must assure ? ROYAL1,30.008.128
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+No , my deere brother . ROYAL1,30.008.129
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Teache your new rawe <P_31> counselars bettar manner than to aduis you
+such a paringe of ample meninge . ROYAL1,31.008.130
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Who shuld doute performance of kinges offer ? ROYAL1,31.008.131
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+What dishonor may that be demed ? ROYAL1,31.008.132
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Folowe next your owne nature , ROYAL1,31.008.133
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+for this neuer came out of your shoppe . ROYAL1,31.008.134
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+But , for your ful satisfaction , and to plucke from the wicked the
+weapon the wold use to brede your doubt of meanings , thes the be .
+ROYAL1,31.008.135
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+First , I wil , as longe as you with iuel desart alter not your course
+, take care for your safety , helpe your nide , and shun al actes that
+may damnifie you in any sort , ether-4 in present or future time ;
+ROYAL1,31.008.136
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and for the portion of relife , I minde neuer to lessen , thogh , as I
+see cause , I wil rather augment . ROYAL1,31.008.137
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+And this I hope may stand you in as muche assuranse as my name in
+parchement , and no les for bothe our honors . ROYAL1,31.008.138
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+I can not omit , also , to request you , of all amitie betwine us , to
+haue good regard of the longe-waiting expectation that all our
+subjectes lokes after , that some persons be deliuered in to my handes
+for some repaire of my honor thogh no redres for his dethe , according
+as my ambassador Randol shal signifie , and that ther be no more delais
+, wiche haue bine ouer many already . ROYAL1,31.008.139
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+And thus I end my trobling you . ROYAL1,31.008.140
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Comittinge you to the tuition of the living God , who graunt you many
+yeres of prosperous raigne . ROYAL1,31.008.141
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_008:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Your most assured louinge sistar and cousin , Elizabeth R .
+ROYAL1,31.008.142
+
+<Q_RO1_A_1586_FO_ELIZABETH1> <L_ROYAL1_009> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_33>
+
+{ED:NO._XXI._ELIZABETH_TO_JAMES_VI.}
+
+{ED:May,_1586.}
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_009:E2:1586:AUTOGRAPH:FAMILY_OTHER
+I muse muche , right deare brother , how possiblie my wel-ment lettar ,
+prociding from so fauteles a hart , could be ether misliked or
+misconstred ; ROYAL1,33.009.143
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_009:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and first , for my promis made of reciproke usage in all amicable maner
+, I trust I nether haue , nor neuer shall , make fraction of in the
+lest scruple ; ROYAL1,33.009.144
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_009:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and as for doute of your perfourmance of your vowe made me , I assure
+you , if I did not trust your wordes , I shuld estime but at smale
+valew your writings , ROYAL1,33.009.145
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_009:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and if you please to reade againe my last lettar , you shall perceaue
+how muche I prise your tried constancy for all the many assaultes that
+, I am sure , your eares haue bin assailled with , ROYAL1,33.009.146
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_009:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and therfor I am far from dout , whan suche profe is made , and you
+might worthely forthinke you to haue bestowed so muche faithful
+dealinge upon one that ether-2 had smal iugement or muche ingratitude ,
+ROYAL1,33.009.147
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_009:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and therof I may clerely purge me from suche crime , ROYAL1,33.009.148
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_009:E2:1586:AUTOGRAPH:FAMILY_OTHER
+for I haue more iust cause to acknowelege thankefulnis manifold , than
+, in any part , to ouerrun my owne wit to leue it behind me .
+ROYAL1,33.009.149
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_009:E2:1586:AUTOGRAPH:FAMILY_OTHER
+And for the some that you suppose my many affaires made me forget ,
+togither with the maner of the instrument , or lettar , quocunque
+<P_34> nomine datur . ROYAL1,34.009.150
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_009:E2:1586:AUTOGRAPH:FAMILY_OTHER
+For the first , I assure you I never gaue commission for more .
+ROYAL1,34.009.151
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_009:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Some other might mistake , as Raudol wil tel you . ROYAL1,34.009.152
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_009:E2:1586:AUTOGRAPH:FAMILY_OTHER
+And for the lettar , some wordes and fourme was suche as fitted not our
+two frindeships , as Randol also can shewe you , ROYAL1,34.009.153
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_009:E2:1586:AUTOGRAPH:FAMILY_OTHER
+but I haue sent you a lettar that I am sure containes all you desired
+in spetiall wordes . ROYAL1,34.009.154
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_009:E2:1586:AUTOGRAPH:FAMILY_OTHER
+I trust it shal content you ; although I must say for myselfe this
+muche , that the pithe and effect of all you receiued afore ;
+ROYAL1,34.009.155
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_009:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and beseche you thinke , that I finde it my greatest fault that I
+remember but to well , yea , many times more than I wolde ,
+ROYAL1,34.009.156
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_009:E2:1586:AUTOGRAPH:FAMILY_OTHER
+but never aught that may be for your behoffe , ether-2 in honor or
+contentation , shal euer slip out of my mind , ROYAL1,34.009.157
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_009:E2:1586:AUTOGRAPH:FAMILY_OTHER
+but wil take so good regarde unto it as that it euer shal nerely touche
+myselfe ; as knoweth God , who euer preserue you from deceitful
+counseil , and graunt you true knowlege of your assured , with longe
+and many yeres to raigne . ROYAL1,34.009.158
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_009:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Your most affectionate and assured louing sistar and cousin , Elizabeth
+R . ROYAL1,34.009.159
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_009:E2:1586:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED} A mon bon frere et cousin le roy d'Escosse .
+ROYAL1,34.009.160
+
+<Q_RO1_A_1586_FO_ELIZABETH1> <L_ROYAL1_010> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_37>
+
+{ED:NO._XXIII._ELIZABETH_TO_JAMES.}
+
+{ED:4th_October,_1586.}
+
+<P_38>
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_010:E2:1586:AUTOGRAPH:FAMILY_OTHER
+I hope , my deare brother , that my many waighty affayres in present
+may make my lawful excuse for the retardance of the answer to your
+ambassadeurs charge , ROYAL1,38.010.161
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_010:E2:1586:AUTOGRAPH:FAMILY_OTHER
+but I doute not but you shal be honorably satisfaict in all the pointz
+of his commission , ROYAL1,38.010.162
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_010:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and next , after my owne errand done , I must rendar you my innumerable
+thankes for suche amicable offers as hit hathe pleased you make ,
+making you assured that , with Gods grace , you shal neuer have cause
+to regrat your good thoghtz of my meaninge to deserue as muche good wil
+and affection as euer one prince owed another , wisching all meanes
+that may maintaine your faithful trust in me , that neuer wyl seake
+aught but the increase of your honor and safty . ROYAL1,38.010.163
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_010:E2:1586:AUTOGRAPH:FAMILY_OTHER
+I was in mynd to haue sent you suche accidentz as this late monethe
+brought furthe , ROYAL1,38.010.164
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_010:E2:1586:AUTOGRAPH:FAMILY_OTHER
+but the sufficientie of mastar Archebal made me retaine him ,
+ROYAL1,38.010.165
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_010:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and do rendar you many loving thankes for the joy you take of my narow
+escape from the chawes of dethe , to wiche I might easely haue fallen
+but that the hand of the hiest saued me from that snare .
+ROYAL1,38.010.166
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_010:E2:1586:AUTOGRAPH:FAMILY_OTHER
+And for that the curse of that desaing rose up from the wicked
+sucgestion of the Jesuites , wiche make hit an axceptable sacrifice to
+God , and meritorieus to themselfe , that a kinge not of ther
+profession shuld be murthered , therfor I could kipe my pen no longar
+from discharging my care of your person , that you suffer not suche
+vipars to inhabite your lande . ROYAL1,38.010.167
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_010:E2:1586:AUTOGRAPH:FAMILY_OTHER
+The say you gaue leue undar your hand that the might safely come and go
+. ROYAL1,38.010.168
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_010:E2:1586:AUTOGRAPH:FAMILY_OTHER
+For Gods loue regard your surety aboue all perswations ,
+ROYAL1,38.010.169
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_010:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and account him no subiect that intertaines them . ROYAL1,38.010.170
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_010:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Make not edictz for skorne , but to be obserued . ROYAL1,38.010.171
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_010:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Let them be rebelles , and so pronunsed , that preserue them .
+ROYAL1,38.010.172
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_010:E2:1586:AUTOGRAPH:FAMILY_OTHER
+For my part , I am sorier that the cast away so many goodly gentilmen
+than that the soght my ruine . ROYAL1,38.010.173
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_010:E2:1586:AUTOGRAPH:FAMILY_OTHER
+I thanke God I haue taken <P_39> more dolor for some that ar gilty of
+this murther than beare them malice that the soght my dethe .
+ROYAL1,39.010.174
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_010:E2:1586:AUTOGRAPH:FAMILY_OTHER
+I protest hit before God . ROYAL1,39.010.175
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_010:E2:1586:AUTOGRAPH:FAMILY_OTHER
+But suche iniquitie will not be hide , be hit neuer so craftely
+handeled ; ROYAL1,39.010.176
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_010:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and yet , whan you shal here all , you wyl wondar that one accownted
+wise wyl use suche matter so fondly . ROYAL1,39.010.177
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_010:E2:1586:AUTOGRAPH:FAMILY_OTHER
+But no marvel , for whan the ar giuen to a reprobat sence the offen
+make suche slip . ROYAL1,39.010.178
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_010:E2:1586:AUTOGRAPH:FAMILY_OTHER
+I haue bine so tedious that I take pitie of your paine ,
+ROYAL1,39.010.179
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_010:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and so wyl ende this skribling , praying you beliue that you could
+neuer haue chosen a more sure trust that wil neuer begile than myself ,
+who dayly prayes to God for your longe prosperitie . ROYAL1,39.010.180
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_010:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Your most assured louing sistar and cousin , Elizabeth R .
+ROYAL1,39.010.181
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_010:E2:1586:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED} A mounsieur mon bon frere et cousin le roy d'Escose .
+ROYAL1,39.010.182
+
+<Q_RO1_A_1586_FO_ELIZABETH1> <L_ROYAL1_011> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_39>
+
+{ED:NO._XXIV._ELIZABETH_TO_JAMES}
+
+{ED:15th_October,_1586.}
+
+<P_40>
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_011:E2:1586:AUTOGRAPH:FAMILY_OTHER
+My deare brother , Hit hathe sufficiently infourmed me of your singular
+care of my estat and brething that you haue sent one , in suche
+diligence , to understand the circumstancis of the treasons wiche
+lately wer lewdly attempted and miraculously vttred . Of whiche I had
+made participant your embassador afor your lettars came .
+ROYAL1,40.011.183
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_011:E2:1586:AUTOGRAPH:FAMILY_OTHER
+And now am I to shewe you , that , as I haue receaved many writings
+from you of great kindnis , yet this last was fraughted with so careful
+passion , and so effectuall utterance of all best wisches for my safety
+, and offer of as muche as I could haue desired , that I confes , if I
+shuld not seake to decerue it , and by merites tye you to continuance ,
+I wer ivell-wordy suche a frind ; ROYAL1,40.011.184
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_011:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and , as the thankes my hart yeldes my pen may skant rendar you , so
+shal the ownar euer decerue to shewe hit not ivel imploied , but on
+suche a prince as shall requite your good wyl , and kipe a wacheful yee
+to all doings that may conserne you . ROYAL1,40.011.185
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_011:E2:1586:AUTOGRAPH:FAMILY_OTHER
+And whereas you offer to send me any traitor of myne residing in your
+land , I shal not faille but expect th'accomplischement of the same in
+case any suche shal be , and require you , in the menetime , that spidy
+deliuerye may be maid of the Cars , wiche toucheth bothe-2 my
+conscience and honor . ROYAL1,40.011.186
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_011:E2:1586:AUTOGRAPH:FAMILY_OTHER
+I thanke God that you beware so sone of Jesuites , that haue bine the
+source of al thes trecheries in this realme , and wyl sprede , like an
+iuel , wide , if at the first the be not wided out . ROYAL1,40.011.187
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_011:E2:1586:AUTOGRAPH:FAMILY_OTHER
+I wold I had had Prometheus for companion , ROYAL1,40.011.188
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_011:E2:1586:AUTOGRAPH:FAMILY_OTHER
+for Epimetheus had like have bine myne to sone . ROYAL1,40.011.189
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_011:E2:1586:AUTOGRAPH:FAMILY_OTHER
+What religion is this , that the say the way to saluation is to kil the
+prince for a merit meritorious ? ROYAL1,40.011.190
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_011:E2:1586:AUTOGRAPH:FAMILY_OTHER
+This is that the haue all confessed without tortur or menace .
+ROYAL1,40.011.191
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_011:E2:1586:AUTOGRAPH:FAMILY_OTHER
+I swere hit , on my worde . ROYAL1,40.011.192
+
+<P_41>
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_011:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Far be hit from Skotland to harbor any suche , ROYAL1,41.011.193
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_011:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and therfor I wische your good providence may be duly executed ,
+ROYAL1,41.011.194
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_011:E2:1586:AUTOGRAPH:FAMILY_OTHER
+for elz lawes resemble cobwebbes , whens great bees get out by breaking
+, and small flies stiks fast for wekenis . ROYAL1,41.011.195
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_011:E2:1586:AUTOGRAPH:FAMILY_OTHER
+As concerning the retarding of your answers to al pointz of your
+ambassadors charge , you had receved them or now but that matters of
+that weight that I am sure you wold willingly knowe can not as yet
+receaue a conclusion , and til that mastar Douglas doth tarye ;
+ROYAL1,41.011.196
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_011:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and with his retourne I hope you shal receaue honorable requital of his
+amicable embassade , so as you shal have no cause to regret his arrival
+; as knoweth the Lord , whom ever I beseche to send you many joiful
+dayes of raigne and life . ROYAL1,41.011.197
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_011:E2:1586:AUTOGRAPH:FAMILY_OTHER
+Your most assured louing and faithful sistar and cousin , Elizabeth R .
+ROYAL1,41.011.198
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_011:E2:1586:AUTOGRAPH:FAMILY_OTHER
+I must giue you many thankes for this poore subject of myne , for whom
+I wil not stik to do al pleasure for your request , ROYAL1,41.011.199
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_011:E2:1586:AUTOGRAPH:FAMILY_OTHER
+and wold wische him undar the grond if he shuld not serue you with
+greatest faithe that {with}_P any seruant may . ROYAL1,41.011.200
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_011:E2:1586:AUTOGRAPH:FAMILY_OTHER
+I haue wylled him tel you some thinges from me ; ROYAL1,41.011.201
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_011:E2:1586:AUTOGRAPH:FAMILY_OTHER
+I beseche you heare them fauorablie . ROYAL1,41.011.202
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:53
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:20
+LETTER:ROYAL1_011:E2:1586:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED} A mon bon frere e cousin le roy d'Escose .
+ROYAL1,41.011.203
+
+<Q_RO1_A_1587_FO_ELIZABETH1> <L_ROYAL1_012> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_41>
+
+{ED:NO._XXV._ELIZABETH_TO_JAMES.}
+
+{ED:January,_1586-7.}
+
+<P_42>
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_012:E2:1587:AUTOGRAPH:FAMILY_OTHER
+I finde myselfe so trobled lest sinistar tales might delude you , my
+good brother , that I haue willingly found out this messanger , whom I
+knowe most sincere to you and a true subiect to me , to carry unto you
+my most sincere meaning toward you , and to request this iust desiar ,
+that you neuer dout my intiere good wyll in your behalfe ;
+ROYAL1,42.012.204
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_012:E2:1587:AUTOGRAPH:FAMILY_OTHER
+and do protest , that , if you knewe , even sins the arrivall of your
+commissionars , <paren> wiche if the list the may tell you , </paren>
+the exstreme dangier my life was in , by an embassadors honest silence
+, if not invention , and suche good complices as haue themselues , by
+Godz permission , unfolded the hole conspiratie , and haue aduouched
+hit befor his face , thoght hit be the peril of ther owne lives , yet
+voluntaryly , one of them neuer beinge suspected brake hit with a
+councelar to make me acquanted therwith . ROYAL1,42.012.205
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_012:E2:1587:AUTOGRAPH:FAMILY_OTHER
+You may see whither I kipe the serpent that poisons me , whan the
+confes to haue reward . ROYAL1,42.012.206
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_012:E2:1587:AUTOGRAPH:FAMILY_OTHER
+By sauing of her life the wold haue had mine . ROYAL1,42.012.207
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_012:E2:1587:AUTOGRAPH:FAMILY_OTHER
+Do I not make myself , trowe ye , a goodly <P_43> pray for euery
+wretche to deuour ? ROYAL1,43.012.208
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_012:E2:1587:AUTOGRAPH:FAMILY_OTHER
+Transfigure yourself into my state , ROYAL1,43.012.209
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_012:E2:1587:AUTOGRAPH:FAMILY_OTHER
+and suppose what you aught to do , ROYAL1,43.012.210
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_012:E2:1587:AUTOGRAPH:FAMILY_OTHER
+and therafter way my life , ROYAL1,43.012.211
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_012:E2:1587:AUTOGRAPH:FAMILY_OTHER
+and reiect the care of murdar , ROYAL1,43.012.212
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_012:E2:1587:AUTOGRAPH:FAMILY_OTHER
+and shun all baites that may untie our amities , ROYAL1,43.012.213
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_012:E2:1587:AUTOGRAPH:FAMILY_OTHER
+and let all men knowe , that princes knowe best their owne lawes ,
+ROYAL1,43.012.214
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_012:E2:1587:AUTOGRAPH:FAMILY_OTHER
+and misiuge not that you knowe not . ROYAL1,43.012.215
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_012:E2:1587:AUTOGRAPH:FAMILY_OTHER
+For my part , I wyl not liue to wronge the menest . ROYAL1,43.012.216
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_012:E2:1587:AUTOGRAPH:FAMILY_OTHER
+And so I conclude you with your owne wordes , ROYAL1,43.012.217
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_012:E2:1587:AUTOGRAPH:FAMILY_OTHER
+you wyl prosecute or mislike as muche thos that seake my ruine as yf
+the sought your hart bloud , ROYAL1,43.012.218
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_012:E2:1587:AUTOGRAPH:FAMILY_OTHER
+and wold I had none in myne if I wold not do the like ; as God knoweth
+, to whom I make my humble prayers to inspire you with best desiars .
+ROYAL1,43.012.219
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_012:E2:1587:AUTOGRAPH:FAMILY_OTHER
+Your most affectionated sistar and cousin , Elizabeth R .
+ROYAL1,43.012.220
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_012:E2:1587:AUTOGRAPH:FAMILY_OTHER
+I am sending you a gentilman fourwith , the other being fallen sick ,
+who I trust shal yeld you good reason of my actions . ROYAL1,43.012.221
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_012:E2:1587:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED} To my verey good brother and cousin , the king of Skotz
+. ROYAL1,43.012.222
+
+<Q_RO1_A_1587_FO_ELIZABETH1> <L_ROYAL1_013> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_43>
+
+{ED:NO._XXVI._ELIZABETH_TO_JAMES.}
+
+{ED:About_1st_February,_1586-7.}
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_013:E2:1587:AUTOGRAPH:FAMILY_OTHER
+Be not caried away , my deare brother , with the lewd perswations of
+suche , as insteade of infowrming you of my to nideful and helpeles
+<P_44> cause of defending the brethe that God hath given me , to be
+better spent than spilt by the bloudy invention of traitors handz , may
+perhaps make you belive , that ether the offense was not so great , or
+if that $can $not {TEXT:cannot} serue them , for the over-manifest
+triall wiche in publik and by the greatest and most in this land hathe
+bine manifestly proved , yet the wyl make that her life may be saved
+and myne safe , wiche wold God wer true , ROYAL1,44.013.223
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_013:E2:1587:AUTOGRAPH:FAMILY_OTHER
+for whan you make vewe of my long danger indured thes fowre - wel ny
+fiue - moneths time to make a tast of , the greatest witz amongs my
+owne , and than of French , and last of you , wyl graunt with me , that
+if nide wer not mor than my malice she shuld not have her merite .
+ROYAL1,44.013.224
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_013:E2:1587:AUTOGRAPH:FAMILY_OTHER
+And now for a good conclusion of my long-taried-for answer .
+ROYAL1,44.013.225
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_013:E2:1587:AUTOGRAPH:FAMILY_OTHER
+Your commissionars telz me , that I may trust her in the hande of some
+indifferent prince , and have all her cousins and allies promis she wil
+no more seake my ruine . ROYAL1,44.013.226
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_013:E2:1587:AUTOGRAPH:FAMILY_OTHER
+Deare brother and cousin , way in true and equal balance wither the lak
+not muche good ground whan suche stuf serves for ther bilding .
+ROYAL1,44.013.227
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_013:E2:1587:AUTOGRAPH:FAMILY_OTHER
+Suppose you I am so mad to truste my life in anothers hand and send hit
+out of my owne ? ROYAL1,44.013.228
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_013:E2:1587:AUTOGRAPH:FAMILY_OTHER
+If the young master of Gray , for curring faueur with you , might
+fortune say hit , yet old master Mylvin hath yeres ynough to teache him
+more wisdome than tel a prince of any jugement suche a contrarious
+frivolous maimed reason . ROYAL1,44.013.229
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_013:E2:1587:AUTOGRAPH:FAMILY_OTHER
+Let your councelors , for your honour , discharge ther duty so muche to
+you as to declaire the absurditie of such an offer ; ROYAL1,44.013.230
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_013:E2:1587:AUTOGRAPH:FAMILY_OTHER
+and , for my part , I do assure myselfe to muche of your wisdome , as ,
+thogh like a most naturall good son you charged them to seake all
+meanes the could deuis with wit or jugement to save her life , yet I
+can not , nor do not , allege any fault to you of thes persuations ,
+ROYAL1,44.013.231
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_013:E2:1587:AUTOGRAPH:FAMILY_OTHER
+for I take hit that you wil remember , that advis or desiars aught ever
+agree with the surtye of the party sent to and honor of the sendar ,
+wiche whan bothe you way , I doute not but your wisdome wil excuse my
+nide , and waite my necessitie , and not accuse me ether of malice or
+of hate . ROYAL1,44.013.232
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_013:E2:1587:AUTOGRAPH:FAMILY_OTHER
+And now to conclude . ROYAL1,44.013.233
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_013:E2:1587:AUTOGRAPH:FAMILY_OTHER
+Make account , I pray you , of my firme frindeship loue and care , of
+which you may make sure accownt , as one <P_45> that never mindz to
+faile from my worde , nor swarve from our league , but wyl increase ,
+by all good meanes , any action that may make true shewe of my stable
+amitie ; from wiche , my deare brother , let no sinistar whisperars ,
+nor busy troblars of princis states , persuade to leave your surest ,
+and stike to vnstable staies . ROYAL1,45.013.234
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_013:E2:1587:AUTOGRAPH:FAMILY_OTHER
+Suppose them to be but the ecchos to suche whos stipendaries the be ,
+ROYAL1,45.013.235
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_013:E2:1587:AUTOGRAPH:FAMILY_OTHER
+and wyl do more for ther gaine than your good . ROYAL1,45.013.236
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_013:E2:1587:AUTOGRAPH:FAMILY_OTHER
+And so , God hold you ever in his blessed kiping , ROYAL1,45.013.237
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_013:E2:1587:AUTOGRAPH:FAMILY_OTHER
+and make you see your tru frinds . ROYAL1,45.013.238
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_013:E2:1587:AUTOGRAPH:FAMILY_OTHER
+Excuse my not writing sonar , for paine in one of my yees was only the
+cause . ROYAL1,45.013.239
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_013:E2:1587:AUTOGRAPH:FAMILY_OTHER
+Your most assured lovinge sistar and cousin , Elizabeth R .
+ROYAL1,45.013.240
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:54
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:21
+LETTER:ROYAL1_013:E2:1587:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED} To my deare brother and cousin , the kinge of Skotz .
+ROYAL1,45.013.241
+
+<Q_RO1_A_1588_FO_ELIZABETH1> <L_ROYAL1_014> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_47>
+
+{ED:NO._XXVIII._ELIZABETH_TO_JAMES.}
+
+{ED:RECEIVED_15_MAY,_1588.}
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_014:E2:1588:AUTOGRAPH:FAMILY_OTHER
+My pen , my deare brother , hathe remained so long dry as I suppose hit
+hardly wold have taken ynke againe , but , mollefied by the good
+justice that with your owne person you have bine pleased to execute ,
+togither with the large assurance that your wordes have <P_48> given to
+some of my ministars , wiche all dothe make me ready to drinke most
+willingly a large draught of the rivar of Lethe , never minding to
+thinke of unkindnes , but to turne my yees to the making vp of that
+sure amitie and stanche good wyll wiche may be presently concluded in
+ending our league , that so unhappyly , to my harts grife , was delaied
+and differd , assuring you , on the faith of a christian and worde of a
+king , that my hart $can $not {TEXT:cannot} accuse my conscience of one
+thoght that might infringe our frindship , or let so good a worke .
+ROYAL1,48.014.242
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_014:E2:1588:AUTOGRAPH:FAMILY_OTHER
+God the chersar of all harts euer so haue misericorde of my soule as my
+innocencye in that mattar deserveth , and no otherwise ; wiche
+invocation wer to dangerous for a gilty conscience ; as I have
+commanded this bearar more at large to tel you . ROYAL1,48.014.243
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_014:E2:1588:AUTOGRAPH:FAMILY_OTHER
+And for your part , my deare brother , thinke , and that with most
+truith , that , if I find you willing to imbrase hit , you shal find of
+me the carefulst prince of your quiet gouuernment , ready to assist you
+with forse , with treasor , counsel , or any thing you shal haue nede
+of , as muche as in honor you can require , or upon cause you shal nede
+. ROYAL1,48.014.244
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_014:E2:1588:AUTOGRAPH:FAMILY_OTHER
+You may the more soundly trust my vowes , ROYAL1,48.014.245
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_014:E2:1588:AUTOGRAPH:FAMILY_OTHER
+for never yet wer the stained , ROYAL1,48.014.246
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_014:E2:1588:AUTOGRAPH:FAMILY_OTHER
+nether wil I make you the first on whom I shal bestowe untruthe , wiche
+God wyl not suffer me live unto . ROYAL1,48.014.247
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_014:E2:1588:AUTOGRAPH:FAMILY_OTHER
+I have millions of thankes to rendar you , that so frankely told to
+Cary suche offers as wer made you , wiche I doute not but you shall
+euer haue cause to reioyse that you refuse ; ROYAL1,48.014.248
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_014:E2:1588:AUTOGRAPH:FAMILY_OTHER
+for wher the meane to weken your surest frind , so be you assured the
+intended to subiect you and yours . ROYAL1,48.014.249
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_014:E2:1588:AUTOGRAPH:FAMILY_OTHER
+For you see how the deale euen with ther owne in al countries lessar
+than ther one , ROYAL1,48.014.250
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_014:E2:1588:AUTOGRAPH:FAMILY_OTHER
+and therfor God , for your best , I assure myselfe , wil not let you
+faule into suche an aperte daunger , undar the cloke , for al that , of
+harming other and aduansing you ; ROYAL1,48.014.251
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_014:E2:1588:AUTOGRAPH:FAMILY_OTHER
+but I hope you wil take Ulisses wexe to saue you from suche sirenes .
+ROYAL1,48.014.252
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_014:E2:1588:AUTOGRAPH:FAMILY_OTHER
+Hit wer most honorable for you , if so hit please you , to let them
+knowe that you neuer sent for ther horse , thogh some of your lords
+<paren> to bold with you in many ther notions and over sawsy in this
+</paren> made them beliue you consented to ther message , wiche the
+themselues desired your pardon for . ROYAL1,48.014.253
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_014:E2:1588:AUTOGRAPH:FAMILY_OTHER
+This wyl make them feare you more hereafter , and make them <P_49>
+affraid to attempt you to weaken your assured frind . ROYAL1,49.014.254
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_014:E2:1588:AUTOGRAPH:FAMILY_OTHER
+If I deserue not your amitie persecute me as your foe ;
+ROYAL1,49.014.255
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_014:E2:1588:AUTOGRAPH:FAMILY_OTHER
+but being yours , use me like a prince who feareth none but God .
+ROYAL1,49.014.256
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_014:E2:1588:AUTOGRAPH:FAMILY_OTHER
+Your most assured loving sistar and cousin , Elizabeth R .
+ROYAL1,49.014.257
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_014:E2:1588:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED,} To our good brother and cousin , the king of Scotland .
+ROYAL1,49.014.258
+
+<Q_RO1_A_1588_FO_ELIZABETH1> <L_ROYAL1_015> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_49>
+
+{ED:NO._XXIX._ELIZABETH_TO_JAMES.}
+
+{ED:About_1st_July,_1588.}
+
+<P_50>
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_015:E2:1588:AUTOGRAPH:FAMILY_OTHER
+I am greatly satisfied , my deare brother , that I find , by your owne
+graunt , that you bilive the trothe of my actions so manifestly openly
+proved , ROYAL1,50.015.259
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_015:E2:1588:AUTOGRAPH:FAMILY_OTHER
+and thanke you infinitely that you profes so constant defence of your
+country , togither $with myne , from all Spaniardz or strangers ; a
+matter fur otherwise given out by bothe our enemies , withe blotting
+your fame with assurance of doble dealing , as thogh you assured them
+under-hand to betake you to ther course ; wiche , what a stain hit wer
+in a princis honor , you yourselfe in jugement can wel deme .
+ROYAL1,50.015.260
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_015:E2:1588:AUTOGRAPH:FAMILY_OTHER
+For my part , I wyl ever trust your word , til I be so sure of the
+contrary . ROYAL1,50.015.261
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_015:E2:1588:AUTOGRAPH:FAMILY_OTHER
+Right wel am I persuaded that your greatest daunger shuld chanche you
+by crossing your strait pathes , ROYAL1,50.015.262
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_015:E2:1588:AUTOGRAPH:FAMILY_OTHER
+for he that hathe two stringes to his bowe may shoute stronger , but
+never strait ; ROYAL1,50.015.263
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_015:E2:1588:AUTOGRAPH:FAMILY_OTHER
+and he that hathe no sure foundation $can $not {TEXT:cannot} but ruine
+. ROYAL1,50.015.264
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_015:E2:1588:AUTOGRAPH:FAMILY_OTHER
+God kipe you ever therefor in your wel-begone pathe . ROYAL1,50.015.265
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_015:E2:1588:AUTOGRAPH:FAMILY_OTHER
+I have sent you this gentleman , as wel to declare my good agrement to
+send some finischars of our leage , as other matters wiche he hathe to
+communicate unto you , if hit please you to heare him ; as my desiar of
+answering your good frindeship and amitie in as ample sort as {in}_P
+with honor I may , as one that never seakes more of you than that wiche
+shal be best for your selfe . ROYAL1,50.015.266
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_015:E2:1588:AUTOGRAPH:FAMILY_OTHER
+Assure your selfe of me , therfor , ROYAL1,50.015.267
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_015:E2:1588:AUTOGRAPH:FAMILY_OTHER
+and shewe by dides ever to mantaine hit , ROYAL1,50.015.268
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_015:E2:1588:AUTOGRAPH:FAMILY_OTHER
+and never was ther in christendome betwine two princes surar amitie nor
+soundar dealing . ROYAL1,50.015.269
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_015:E2:1588:AUTOGRAPH:FAMILY_OTHER
+I vowe hit , ROYAL1,50.015.270
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_015:E2:1588:AUTOGRAPH:FAMILY_OTHER
+and wil performe hit . ROYAL1,50.015.271
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_015:E2:1588:AUTOGRAPH:FAMILY_OTHER
+And for that you speake oft of satisfaction , I haue much vrged , as
+now againe I do , to knowe what therby is ment , sins I bothe mynde ,
+and also do , whatsoever may honorably be required of suche as I profes
+myselfe ; ROYAL1,50.015.272
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_015:E2:1588:AUTOGRAPH:FAMILY_OTHER
+and therfor , I require you therin to answer me . ROYAL1,50.015.273
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_015:E2:1588:AUTOGRAPH:FAMILY_OTHER
+And so , trusting that all your protestations lately made me by Cary
+$shall $be {TEXT:shalbe} readely performed , togither with your
+constant resolute cours of late professed , I end to molest you longar
+, but , with my thankes to God that any your offendars be entred to
+your hands , and not the les not having bine done without some of our
+helpe , whiche glads me no les than <em> if it had </em> happened to
+our selfe , whose forse shal never faile you in all leaful causes : as
+knoweth God , <P_51> who euer bles you from all malignant spiritz , and
+increas your happy yeres . ROYAL1,51.015.274
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_015:E2:1588:AUTOGRAPH:FAMILY_OTHER
+Your most assurest sistar and cousin , Elizabeth R . ROYAL1,51.015.275
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_015:E2:1588:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED,} To our right deere brother , the king of Scotland .
+ROYAL1,51.015.276
+
+<Q_RO1_A_1588_FO_ELIZABETH1> <L_ROYAL1_016> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_52>
+
+{ED:NO._XXXI._ELIZABETH_TO_JAMES.}
+
+{ED:August,_1588.}
+
+<P_53>
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_016:E2:1588:AUTOGRAPH:FAMILY_OTHER
+Now may appeare , my deare brother , how malice conioined with might
+strivest to make a shameful end to a vilanous beginning ,
+ROYAL1,53.016.277
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_016:E2:1588:AUTOGRAPH:FAMILY_OTHER
+for , by Godz singular fauor , having ther flete wel-beaten in our
+narow seas , and pressing , with all violence , to atcheue some
+watering place , to continue ther pretended invation , the windz have
+carried them to your costes , wher I dout not the shal receaue smal
+succor and les welcome ; vnles thos lordz that , so traitors like ,
+wold belie ther owne prince , and promis another king reliefe in your
+name , be suffred to live at libertye , to dishonor you , peril you ,
+and aduance some other <paren> wiche God forbid you suffer them live to
+do </paren> . ROYAL1,53.016.278
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_016:E2:1588:AUTOGRAPH:FAMILY_OTHER
+Therfor I send you this gentilman , a rare younge man and a wise , to
+declare unto yov my ful opinion in this greate cause , as one that
+neuer wyl abuse you to serve my owne turne ; ROYAL1,53.016.279
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_016:E2:1588:AUTOGRAPH:FAMILY_OTHER
+nor wyl you do aught that myselfe wold not perfourme if I wer in your
+place . ROYAL1,53.016.280
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_016:E2:1588:AUTOGRAPH:FAMILY_OTHER
+You may assure yourselfe that , for my part , I dout no whit but that
+all this tirannical prowd and brainsick attempt wil be the beginning ,
+thogh not the end , of the ruine of that king , that , most unkingly ,
+euen in midz of treating peace , begins this wrongful war .
+ROYAL1,53.016.281
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_016:E2:1588:AUTOGRAPH:FAMILY_OTHER
+He hathe procured my greatest glory that ment my sorest wrack ,
+ROYAL1,53.016.282
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_016:E2:1588:AUTOGRAPH:FAMILY_OTHER
+and hathe so dimmed the light of his svnshine , that who hathe a wyl to
+obtaine shame let them kipe his forses companye . ROYAL1,53.016.283
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_016:E2:1588:AUTOGRAPH:FAMILY_OTHER
+But for al this , for yourselfe sake , let not the frendz of Spain be
+suffred to yeld them forse ; ROYAL1,53.016.284
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_016:E2:1588:AUTOGRAPH:FAMILY_OTHER
+for thogh I feare not in the end the sequele , yet if , by leaving them
+unhelped , you may increase the Englisch hartz unto you , you shal not
+do the worst dede for your behalfe ; ROYAL1,53.016.285
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_016:E2:1588:AUTOGRAPH:FAMILY_OTHER
+for if aught shuld be done , your excuse wyl play the boiteux ; if you
+make not sure worke with the likely men to do hit . ROYAL1,53.016.286
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_016:E2:1588:AUTOGRAPH:FAMILY_OTHER
+Looke wel unto hit , I besiche you . ROYAL1,53.016.287
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_016:E2:1588:AUTOGRAPH:FAMILY_OTHER
+The necessity of this matter makes my skribling the more spidye ,
+<P_54> hoping that you wyl mesure my good affection with the right
+balance of my actions , wiche to you $shall $be {TEXT:shalbe} euer
+suche as I haue professed , not douting of the reciproque of your
+behalfe , according as my last messengier unto you hathe at large
+signefied , for the wiche I rendar you a milion of grateful thankes
+togither , for the last general prohibition to your subiectz not to
+fostar nor ayde our general foe , of wiche I dout not the obseruation
+if the ringeleaders be safe in your handz ; as knoweth God , who euer
+haue you in his blessed kiping , with many happy yeres of raigne .
+ROYAL1,54.016.288
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_016:E2:1588:AUTOGRAPH:FAMILY_OTHER
+Your most assured louing sistar and cousin , Elizabeth R .
+ROYAL1,54.016.289
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:55
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:22
+LETTER:ROYAL1_016:E2:1588:AUTOGRAPH:FAMILY_OTHER
+To my verey good brother the king of Scottz . ROYAL1,54.016.290
+
+<Q_RO1_A_1589_FO_ELIZABETH1> <L_ROYAL1_017> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_55>
+
+{ED:NO._XXXIII._ELIZABETH_TO_JAMES.}
+
+{ED:September,_1589.}
+
+<P_56>
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:56
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:23
+LETTER:ROYAL1_017:E2:1589:AUTOGRAPH:FAMILY_OTHER
+As no tidinges , my most deare brother , can euer come out of season to
+me that may brede you honor or contentement , so this last newes ,
+thogh soudaine , of the aproching neare of your coming quene , bids me
+so muche to bode you all the best blessings that the mighty God can
+send you , as in witnis therof to salute you bothe with an embassader ,
+and some tokens , for signe of the happinis I wische that feast , and
+the gladnis my hart shuld haue receued if hit wer as lawfull to honor
+hit with my presence as hit is sure that I bles hit with my orasonns .
+ROYAL1,56.017.291
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:56
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:23
+LETTER:ROYAL1_017:E2:1589:AUTOGRAPH:FAMILY_OTHER
+And for that the spide of suche a bargen was far greatar than the
+expectation of her arrivall , you wyll , I trust , blame yourselfe ,
+and impute no neglect to me , that my messangers come after the
+solempnites ; ROYAL1,56.017.292
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:56
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:23
+LETTER:ROYAL1_017:E2:1589:AUTOGRAPH:FAMILY_OTHER
+for I assure you , but for my honor sake , my wyl wold haue hied ther
+post with smaller company than fitz my place . ROYAL1,56.017.293
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:56
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:23
+LETTER:ROYAL1_017:E2:1589:AUTOGRAPH:FAMILY_OTHER
+And in meane while , let hit content you to giue me so muche right as
+to assure yourselfe no witnis ther of so princely a pact shall wische
+hit more succes , nor greatar lasting joy , than myselfe , that
+wischeth sign king no longar while than to see the perfourmance of
+suche alliance , hauinge besides yourself , wiche is the principall ,
+an inward zele , wiche , sins my childhold , I haue borne to the
+parentes of your honorable quene , to whome I desiar all felicitie ,
+and neuer shal skrape from my memorye the intire loue the bare me ; as
+knoweth God , who euer bles you and gide you . ROYAL1,56.017.294
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:56
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:23
+LETTER:ROYAL1_017:E2:1589:AUTOGRAPH:FAMILY_OTHER
+Your most assured loving sistar and cousin , Elizabeth R .
+ROYAL1,56.017.295
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:56
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:23
+LETTER:ROYAL1_017:E2:1589:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED,} To my deare brother the king of Skotes .
+ROYAL1,56.017.296
+
+<Q_RO1_A_1590_FO_ELIZABETH1> <L_ROYAL1_018> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_57>
+
+{ED:NO._XXXIV._ELIZABETH_TO_JAMES.}
+
+{ED:1590.}
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+Althogh my faithe stands me , my deare brother , in so good stede , as
+, without assurance by any one $but your owne hand-worke , I do beliue
+that God hathe , of his goodnes more than your hide , prosperd to good
+end your vntimely and , if I dare tel truthe , ivel-seasoned journey ,
+yet I may no longar , thogh my courage could stay me til you first
+began , that best hathe cause to acknowelege thankfulnes , stay but let
+you knowe , what humble sacrifice of thankes I yeld to the Omnipotent
+for your safest stop for al your hard cours , ROYAL1,57.018.297
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+and am so bold to chalenge some part of that seurty to my heartiest
+oraisons powred out of no fained lippes , wiche best is pleasing to his
+eares . ROYAL1,57.018.298
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+And do beseche the same to send you , in this noble-raced linage ,
+suche lasting joy as the continuance may yeld you bothe happy .
+ROYAL1,57.018.299
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+And now to talke with you frely as paper may vttar conceit .
+ROYAL1,57.018.300
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+Eccept my howrely care for your broken countrey , to to muche infected
+with the maladie of strangers humors , and to receue no medecin so wel
+compounded as if the owner make the mixture appropriatted to the
+qualetye of the siknes . ROYAL1,57.018.301
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+Knowe you , my deare brother , for certaine , <P_58> that thos ulcers
+that wer to muche skined with the doulcenes of your applications wer
+but falsly shaded , and wer within filled with suche venom as hathe
+burst out sins your departure with most lewd offers to another king to
+enter your land , with declaration of ther assured perfourmance of ther
+by-passed helpes , and numbars great to take ether part .
+ROYAL1,58.018.302
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+If with my yees I had not vewed thes treasons , I would be aschamed to
+write them you . ROYAL1,58.018.303
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+And shal I tel you my thoght herein ? ROYAL1,58.018.304
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+I assure you , you ar wel worthy of suche traitors , that , whan you
+knewe them , and had them , you betraied your owne seurty in fauoring
+ther liues . ROYAL1,58.018.305
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+Good Lord ! ROYAL1,58.018.306
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+who but yourself wold haue left suche peple to be abel to do you wrong
+. ROYAL1,58.018.307
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+Giue ordar with spide that suche skape not your correction ,
+ROYAL1,58.018.308
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+and hie your retourne , ROYAL1,58.018.309
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+that is more your honor than a other mans land , without you mynde to
+make you seme innocent of your realmes ruine , whan absence wil sarue
+but for your bad excuse . ROYAL1,58.018.310
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+Sild recouvers kings ther dominion whan greattar posses hit ,
+ROYAL1,58.018.311
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+yea , suche as ther owne skars may indure for ther tirany .
+ROYAL1,58.018.312
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+My deare brother , you see how fur my intire care drawes me out of the
+limites that anothers affaires shuld plucke me to , ROYAL1,58.018.313
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+but all suche error I hope you wyl impute to affection , not my
+curiositie , and beare with ouerplaine imputation , sins hit springs of
+so good a roote . ROYAL1,58.018.314
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+I craue of you , for your owne best , to authorize , yea , animate ,
+your faithfulst and giltles of this conspiratie , that the feare not to
+apprehend in time <paren> I pray God not to late </paren> , all suche
+as any way the may suspect or knowe to be pertakers of this faction .
+ROYAL1,58.018.315
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+Beliue no more to dandel such babies , as may , or they come to
+honestie , shake your chaire , ROYAL1,58.018.316
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+for you haue had to sowre experience what suche vane opinions hath bred
+you . ROYAL1,58.018.317
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+I wyl not faile , from time to other , to warne suche as I may thinke
+most clere of this infection of all my knowelege in this dangerous
+season , daring so muche in your absence as to animat them not to
+lingar this great mattar til your retourne , ROYAL1,58.018.318
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+for I knowe that wer to late ; ROYAL1,58.018.319
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+the dayes that the haue giuen ar shortar than to expect so longe .
+ROYAL1,58.018.320
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+If my prayers wer not more than my good $writing , I shuld be sory to
+retaine your yees on so rude skribling , wherfor I <P_59> end , with my
+incessant prayers to God for your safe kiping and ioyful retourne .
+ROYAL1,59.018.321
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+Your most affectionat lovinge sistar and cousin , Elizabeth R .
+ROYAL1,59.018.322
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED,} To my deere brother and cousin the king of Scotland .
+ROYAL1,59.018.323
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+After the finisching of my lettar , ther came to my handz an overtur
+that makes me suppose hit could not , nor durst not , haue bine offerd
+me without your consent , albeit for hit I nether saw your commission
+nor receued from you one word therof , ROYAL1,59.018.324
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+but for al that , hit makes me see that your sight serues you not alone
+for present vewe , but makes you to beholde the state of distant
+countries wiche do fele the smart of my vndeserued hate , and makes the
+innocent bloud cal for reuenge of euel-framed iniuries .
+ROYAL1,59.018.325
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+And thogh my conscience $can $not {TEXT:cannot} accuse my thoghts to
+haue by any cause procured suche an ennemy , and that he hathe to
+plainlye soght my life and kingdome , yet , I think myselfe obliged to
+you that wold make end of so uniust a war , and acknowelege the ded
+king of famous memorie more happy in suche faithful councelars than I
+see many kings in ther liuing seruantz . ROYAL1,59.018.326
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+And for that they offer me , I wyl euer cronicle them amonge the iust
+fulfillars of true trust . ROYAL1,59.018.327
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+And albeit my wrongs be suche as nature of a king aught rather , for
+ther particular , dye than not reuenge , yet the top of my courage shal
+neuer ouerstreche my hart from care of christian bloud ,
+ROYAL1,59.018.328
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+and for that alone , no feare of him , I protest to God , from whom
+bothe iust quarel , faithful subjectz , and valiant acts I dout not wil
+defend : ROYAL1,59.018.329
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+yet , am I thus content that you shal folowe the wel-deuised methode ,
+ROYAL1,59.018.330
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_018:E2:1590:AUTOGRAPH:FAMILY_OTHER
+and if he wyl giue playne grant without a gileful meaning , I wil make
+knowen that in me the lack of so good a worke shal neuer be found .
+ROYAL1,59.018.331
+
+<Q_RO1_A_1590_FO_ELIZABETH1> <L_ROYAL1_019> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_60>
+
+{ED:NO._XXXV._ELIZABETH_TO_JAMES.}
+
+{ED:May_1590.}
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_019:E2:1590:AUTOGRAPH:FAMILY_OTHER
+The strife is great , my deare brother , wiche shuld win , ether the
+care of your perilous journey or the joy of your safe retourne ,
+ROYAL1,60.019.332
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_019:E2:1590:AUTOGRAPH:FAMILY_OTHER
+but , leuing them in ther batail , I assure you I can scars giue a tru
+verdit who is the victorar , ROYAL1,60.019.333
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_019:E2:1590:AUTOGRAPH:FAMILY_OTHER
+but only this I dare say , that no one that liveth thankes God more
+deuoutly for al your eskapes , nor is more joyful of your sure arrivall
+than myself , who could not stay but salute you , togither with your
+honorable espouse , and by this ambassade make you know how grateful
+suche newes wer to me , besichen God to bles you withe suche
+benedictions as he bestoith with largist giftes , and make your
+contentementz long and prosperous . ROYAL1,60.019.334
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_019:E2:1590:AUTOGRAPH:FAMILY_OTHER
+And now that you bied wher yourself , I doubt not , wyl haue an accownt
+of what in your absence hathe bine ordred , I hope you wyl not be
+careles of suche practisis as hathe passed from any of yours without
+your commission , spetially suche attemptz as might ruin your realme
+and danger you . ROYAL1,60.019.335
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_019:E2:1590:AUTOGRAPH:FAMILY_OTHER
+If any respect whatever make you neglect so expedient a worke , I am
+affraid your careles hide wil worke your unlooked danger .
+ROYAL1,60.019.336
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_019:E2:1590:AUTOGRAPH:FAMILY_OTHER
+Thinke not but I knowe how some had the vewe of my lettars , in wiche
+you did your selfe les honor than to me harme , ROYAL1,60.019.337
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_019:E2:1590:AUTOGRAPH:FAMILY_OTHER
+and yet you see hit warnes me not ynough from againe to ventur the like
+hap . ROYAL1,60.019.338
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_019:E2:1590:AUTOGRAPH:FAMILY_OTHER
+But as no hate to any of them <paren> God I cal to witnis </paren>
+procured me hireto , so only care of your sure gouuernement hathe made
+me deale this far , ROYAL1,60.019.339
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_019:E2:1590:AUTOGRAPH:FAMILY_OTHER
+and , if I see al admonition so uaine , I wil hireafter wische al wel ,
+but counsel no more at all . ROYAL1,60.019.340
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_019:E2:1590:AUTOGRAPH:FAMILY_OTHER
+I can not <P_61> forget to reiterat my thankes for suche your offars as
+hit pleased you by justice-clarke to make me , ROYAL1,61.019.341
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_019:E2:1590:AUTOGRAPH:FAMILY_OTHER
+and as I shal hire more therof from you I shal concur with you in so
+holy an action . ROYAL1,61.019.342
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_019:E2:1590:AUTOGRAPH:FAMILY_OTHER
+And thus I end troubling you with my skribling , with my prayers to the
+Almighty for al prosperitie in your dayes . ROYAL1,61.019.343
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_019:E2:1590:AUTOGRAPH:FAMILY_OTHER
+Your most affectionat sistar and cousin , Elizabeth R .
+ROYAL1,61.019.344
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_019:E2:1590:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED,} To our deere and loving brother the king of Scotland .
+ROYAL1,61.019.345
+
+<Q_RO1_A_1590_FO_ELIZABETH1> <L_ROYAL1_020> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_63>
+
+{ED:NO._XXXVII._ELIZABETH_TO_JAMES.}
+
+{ED:6th_July,_1590.}
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_020:E2:1590:AUTOGRAPH:FAMILY_OTHER
+Greatar promises , more affection , and grauntz of more acknowelegings
+of receued good turnes , my deare brother , none can bettar remember
+than this gentilman by your charge hathe made me understand ; wherby I
+thinke all my endeuors wel recompensed , that see them so wel
+acknoweleged ; ROYAL1,63.020.346
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_020:E2:1590:AUTOGRAPH:FAMILY_OTHER
+and do trust that my counseles , if the so muche content you , wil
+serue for memorialz to turne your actions to serue the turne of your
+safe gouernement , and make the lookars-on honor your worthe , and
+reuerence suche a rular . ROYAL1,63.020.347
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_020:E2:1590:AUTOGRAPH:FAMILY_OTHER
+And lest fayre semblance , that easely may begile , do not brede your
+ignorance of suche persons as ether pretend religion or dissemble
+deuotion , let me warne you that ther is risen , bothe-3 in your realme
+and myne , a secte of perilous consequence , suche as wold haue no
+kings but a presbitrye , and take our place while the inioy our
+privilege , with a shade of Godes word , wiche non is juged to folow
+right without by ther censure the be so demed . ROYAL1,63.020.348
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_020:E2:1590:AUTOGRAPH:FAMILY_OTHER
+Yea , looke we wel unto them . ROYAL1,63.020.349
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_020:E2:1590:AUTOGRAPH:FAMILY_OTHER
+Whan the haue made in our peoples hartz a doubt of our religion , and
+that we erre if the say so , what perilous <P_64> issue this may make I
+rather thinke than mynde to write . ROYAL1,64.020.350
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_020:E2:1590:AUTOGRAPH:FAMILY_OTHER
+Sapienti pauca . ROYAL1,64.020.351
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_020:E2:1590:AUTOGRAPH:FAMILY_OTHER
+I pray you stap the mouthes , or make shortar the toungz , of suche
+ministars as dare presume to make oraison in ther pulpitz for the
+persecuted in Ingland for the gospel . ROYAL1,64.020.352
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_020:E2:1590:AUTOGRAPH:FAMILY_OTHER
+Suppose you , my deare brother , that I can tollerat suche scandalz of
+my sincere gouuernement ? ROYAL1,64.020.353
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_020:E2:1590:AUTOGRAPH:FAMILY_OTHER
+No . ROYAL1,64.020.354
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_020:E2:1590:AUTOGRAPH:FAMILY_OTHER
+I hope , howsoeuer you be pleased to beare with ther audacitie towards
+your selfe , yet you wil not suffar a strange king receaue that
+indignitie at suche caterpilars hand , that , instede of fruit , I am
+affraid wil stuf your realme with venom . ROYAL1,64.020.355
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_020:E2:1590:AUTOGRAPH:FAMILY_OTHER
+Of this I haue particularisd more to this bearar , togither with other
+answers to his charge , besiching you to heare them , and not to giue
+more harbor-rome to vacabond traitors and seditious inventors , but to
+returne them to me , or banische them your land . ROYAL1,64.020.356
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_020:E2:1590:AUTOGRAPH:FAMILY_OTHER
+And thus , with my many thankes for your honorable intertainementz of
+my late embassade , I commit you to God , who euer preserue you from al
+iuel counsel , and send you grace to folow the best . ROYAL1,64.020.357
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_020:E2:1590:AUTOGRAPH:FAMILY_OTHER
+Your most assured loving sistar and cousin , Elizabeth R .
+ROYAL1,64.020.358
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:57
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:24
+LETTER:ROYAL1_020:E2:1590:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED,} To my deere brother , the king of Scotland .
+ROYAL1,64.020.359
+
+<Q_RO1_A_1591_FO_ELIZABETH1> <L_ROYAL1_021> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_64>
+
+{ED:NO._XXXVIII._ELIZABETH_TO_JAMES.}
+
+{ED:April_1591.}
+
+<P_65>
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:58
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:25
+LETTER:ROYAL1_021:E2:1591:AUTOGRAPH:FAMILY_OTHER
+My deare brother , As ther is naught that bredes more for-thinking
+repentance and agrived thoughtes than good turnes to harme the giuers
+ayde , so hathe no bonde euer tied more honorable mynds , than the
+shewes of any acquital by grateful acknowelegement in plain actions ;
+ROYAL1,65.021.360
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:58
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:25
+LETTER:ROYAL1_021:E2:1591:AUTOGRAPH:FAMILY_OTHER
+for wordes be leues and dides the fruites . Wiche I may not forget to
+remember in your present fact , granted so frely , in deliuering up my
+lewde rebel , whose person and forse , thogh nether be aught worthe ,
+as who , for his greatnes , being a base varlet , drawes few for sequel
+, nor his birthe so great as a meanar than a prince nides feare , yet I
+wold haue bine agrived that so lewde a mynd shuld haue found fauor in
+so deare a brothers dominion , and do assure you , that I wil lay this
+part in the safest cornar of my memorye , to serue me for example of a
+like acquital , if suche ivel accident shuld happen you . And in meane
+while , thanke myselfe , not you alone , that haue made so good a
+choise of so sounde an election upon whom to spend the chifest care of
+my endeuors , as I hope you haue hiretofore tried , ROYAL1,65.021.361
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:58
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:25
+LETTER:ROYAL1_021:E2:1591:AUTOGRAPH:FAMILY_OTHER
+and this may make increase . ROYAL1,65.021.362
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:58
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:25
+LETTER:ROYAL1_021:E2:1591:AUTOGRAPH:FAMILY_OTHER
+The two gentilmen , I trust , shal receaue your thanke for perfourming
+so wel ther charge , wiche , I beseche you for my sake , the may
+receaue ; not a litel wondring why your subiectz of Glasco shuld doute
+the stop of ther trafique for so poore a caytife , who was neuer of
+abilitie to make or giue trafique . ROYAL1,65.021.363
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:58
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:25
+LETTER:ROYAL1_021:E2:1591:AUTOGRAPH:FAMILY_OTHER
+The ar sorely misinfourmed of his greatnes . ROYAL1,65.021.364
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:58
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:25
+LETTER:ROYAL1_021:E2:1591:AUTOGRAPH:FAMILY_OTHER
+A few sort of outlawes fils up his traine , and of the meanest sort .
+ROYAL1,65.021.365
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:58
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:25
+LETTER:ROYAL1_021:E2:1591:AUTOGRAPH:FAMILY_OTHER
+I trust you wyl make them knowe your faithful ministars must not be
+niknamed " the English feade men . " ROYAL1,65.021.366
+
+<P_66>
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:58
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:25
+LETTER:ROYAL1_021:E2:1591:AUTOGRAPH:FAMILY_OTHER
+I protest I haue no suche in your realme , ROYAL1,66.021.367
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:58
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:25
+LETTER:ROYAL1_021:E2:1591:AUTOGRAPH:FAMILY_OTHER
+for , if the principal faile me , I shal neuer care for adiacentia .
+ROYAL1,66.021.368
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:58
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:25
+LETTER:ROYAL1_021:E2:1591:AUTOGRAPH:FAMILY_OTHER
+I rendar for this my most loving and deare thankes , acknoweleging the
+kinnes more than the act , and bothe so honorable as shal neuer be
+blotted out of my thankefulst mynde , adding therto the sincere ordar
+giuen for our bordars matters ; tokens sufficient to shewe your
+grateful hart and princely mynd , wiche I meane to requite and
+acknowlege , as knoweth the liuing God , who I am sure wyl make your
+subiectz the surar that you abhor anothers traitors . Among wiche , I
+must not forget your most kind vsage in the answer that my arche-rebel
+, Westmarland , shal receue from you , wiche shal serue him , and all
+suche , to knowe that ther neuer shal remane with you ether helpe or
+hap for suche wicked members of a kingly rule . ROYAL1,66.021.369
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:58
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:25
+LETTER:ROYAL1_021:E2:1591:AUTOGRAPH:FAMILY_OTHER
+This shal retourne to you with triple fold of good regard amonge your
+owne , if the see your justice to anothers traitor , yea to suche a one
+as made me knowe a traitor in my land . ROYAL1,66.021.370
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:58
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:25
+LETTER:ROYAL1_021:E2:1591:AUTOGRAPH:FAMILY_OTHER
+I wyl end to troble your yees with my skribling , but neuer end to care
+for you and yours as for my owne . ROYAL1,66.021.371
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:58
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:25
+LETTER:ROYAL1_021:E2:1591:AUTOGRAPH:FAMILY_OTHER
+God euer bles you , ROYAL1,66.021.372
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:58
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:25
+LETTER:ROYAL1_021:E2:1591:AUTOGRAPH:FAMILY_OTHER
+and make you kipe your regal authoritie , ROYAL1,66.021.373
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:58
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:25
+LETTER:ROYAL1_021:E2:1591:AUTOGRAPH:FAMILY_OTHER
+and make yours knowe you . ROYAL1,66.021.374
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:58
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:25
+LETTER:ROYAL1_021:E2:1591:AUTOGRAPH:FAMILY_OTHER
+Your most assured loving sistar and cousin , Elizabeth R .
+ROYAL1,66.021.375
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:58
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:25
+LETTER:ROYAL1_021:E2:1591:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED,} To my verey good brother , the king of Scotz .
+ROYAL1,66.021.376
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:58
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:25
+LETTER:ROYAL1_021:E2:1591:AUTOGRAPH:FAMILY_OTHER
+d.d . ROYAL1,66.021.377
+
+<Q_RO1_A_1592_FO_ELIZABETH1> <L_ROYAL1_022> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_69>
+
+{ED:NO._XLI._ELIZABETH_TO_JAMES.}
+
+{ED:January_1591-2.}
+
+<P_70>
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:59
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:26
+LETTER:ROYAL1_022:E2:1592:AUTOGRAPH:FAMILY_OTHER
+My deare brother , Thogh the heringe of your most daungerous peril be
+that thing that I most reuerently rendar my most lowly thankes to God
+that you , by his mighty hand , hath skaped , yet hathe hit bine no
+other hazard than suche as bothe hathe bine forsien and fortold ;
+ROYAL1,70.022.378
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:59
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:26
+LETTER:ROYAL1_022:E2:1592:AUTOGRAPH:FAMILY_OTHER
+but Cassandra was neuer credited til the mishap had rather chanched
+than was prevented . ROYAL1,70.022.379
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:59
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:26
+LETTER:ROYAL1_022:E2:1592:AUTOGRAPH:FAMILY_OTHER
+The poore man who , against his wyl , was intercepted with all suche
+epistelz as traitors sent and receved , was for reward put to the
+bootes ; ROYAL1,70.022.380
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:59
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:26
+LETTER:ROYAL1_022:E2:1592:AUTOGRAPH:FAMILY_OTHER
+so litel was any thing regarded that procided from your best frind ,
+and yet the matter made to aparant , or many days after , throw the
+traiterous assembly of your euidant rebelz , that with banner displaied
+and again you in the fild . ROYAL1,70.022.381
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:59
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:26
+LETTER:ROYAL1_022:E2:1592:AUTOGRAPH:FAMILY_OTHER
+Thes wer the calendes of this late attempt . ROYAL1,70.022.382
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:59
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:26
+LETTER:ROYAL1_022:E2:1592:AUTOGRAPH:FAMILY_OTHER
+I knowe not what to write , so litel do I like to loose labor in vaine
+; ROYAL1,70.022.383
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:59
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:26
+LETTER:ROYAL1_022:E2:1592:AUTOGRAPH:FAMILY_OTHER
+for if I saw counsel auaill , or aught pursued in due time or season ,
+I shuld thinke my time fortunatly spent to make you reape the due fruit
+of right oportunitie ; ROYAL1,70.022.384
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:59
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:26
+LETTER:ROYAL1_022:E2:1592:AUTOGRAPH:FAMILY_OTHER
+but I see you haue no luk to helpe your state , nor to assure you from
+treasons leasur . ROYAL1,70.022.385
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:59
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:26
+LETTER:ROYAL1_022:E2:1592:AUTOGRAPH:FAMILY_OTHER
+You giue to muche respit to rid your harme and shorten others hast .
+ROYAL1,70.022.386
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:59
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:26
+LETTER:ROYAL1_022:E2:1592:AUTOGRAPH:FAMILY_OTHER
+Wel , I wyl pray for you , that God wyl unseal your yees , that to long
+haue bin shut , ROYAL1,70.022.387
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:59
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:26
+LETTER:ROYAL1_022:E2:1592:AUTOGRAPH:FAMILY_OTHER
+and do require you thinke that none shal more joy therat than myselfe ,
+that most I am sure grives the contrary . ROYAL1,70.022.388
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:59
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:26
+LETTER:ROYAL1_022:E2:1592:AUTOGRAPH:FAMILY_OTHER
+Aston hathe told me some of your request , to wiche I haue made so
+reasonable answer as in reason may wel content . ROYAL1,70.022.389
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:59
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:26
+LETTER:ROYAL1_022:E2:1592:AUTOGRAPH:FAMILY_OTHER
+Praying God to defend you from all mishap or treason ,
+ROYAL1,70.022.390
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:59
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:26
+LETTER:ROYAL1_022:E2:1592:AUTOGRAPH:FAMILY_OTHER
+Your most assured loving sistar and cousin , Elizabeth R .
+ROYAL1,70.022.391
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:59
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:26
+LETTER:ROYAL1_022:E2:1592:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED,} To my right deare brother the king of Skotz .
+ROYAL1,70.022.392
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:59
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:26
+LETTER:ROYAL1_022:E2:1592:AUTOGRAPH:FAMILY_OTHER
+d.d . ROYAL1,70.022.393
+
+<Q_RO1_A_1593_FO_ELIZABETH1> <L_ROYAL1_023> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_71>
+
+{ED:NO._XLII._ELIZABETH_TO_JAMES.}
+
+{ED:January_1592-3.}
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+My most deare brother , Wondars and marvelles do so assaill my conceatz
+, as that the long expecting of your nideful answer to matters of suche
+waight as my late lettars caried nides not seame strange .
+ROYAL1,71.023.394
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Thogh I knowe the aught be more regardid , and spidely performed , yet
+suche I see the emminent danger and wel-ny ready approche of your
+states ruin , your liues peril , and naighbors wrong , as I may not
+<paren> to kipe you company </paren> neglect what I shuld , thogh you
+forget that you aught . ROYAL1,71.023.395
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+I am sory I am driuen from warninge to heed , and from to muche trust
+to seake a tru way how your dides , not your wordz , may make me
+assurance that you be no way gilty <P_72> of your owne decay and other
+danger . ROYAL1,72.023.396
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Receue , therfor , in short , what cours I mynd to hold , and how you
+may make bold of my unfained loue and euer constant regard .
+ROYAL1,72.023.397
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+You knowe , my deare brother , that , sins you first brethed , I
+regarded alwais to conserue hit as my womb hit had bine you bare .
+ROYAL1,72.023.398
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Yea , I withstode the handz and helps of a mighty king to make you safe
+, iven gained by the bloud of many my deare subiectz liues .
+ROYAL1,72.023.399
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+I made myself the bulwark bitwixt you and your harmes whan many a wyle
+was invented to stele you from your land , and making other posses your
+soile . ROYAL1,72.023.400
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Whan your best holdz wer in my handz , did I retaine them ?
+ROYAL1,72.023.401
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Nay , I bothe conserved them ROYAL1,72.023.402
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+and rendred them to you . ROYAL1,72.023.403
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Could I indure <paren> thogh to my great expence </paren> that
+forennars shuld haue foteing in your kingdome , albeit ther was than
+some lawfull semblance to make other suppose <paren> that cared not as
+I did </paren> that ther was no danger ment ? ROYAL1,72.023.404
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+No . ROYAL1,72.023.405
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+I neuer left til all the Frenche that kept ther life parted from your
+soile , ROYAL1,72.023.406
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+and so hit pleased the Hiest to bles me in that action , as you haue
+euer sins raigned void of other nation than your owne .
+ROYAL1,72.023.407
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Now , to preserue this , you haue overslipt so many soundry and
+dangerous attemps , in nether uniting with them whan you knewe them ,
+nor cutting them of whan you had them , that if you hast no bettar now
+than hiretofor , hit wyl be to late to helpe whan non shal avale you .
+ROYAL1,72.023.408
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Let me remember you how wel I was thanked , or he rewarded , that ons
+broght all the lettars of all thos wicked conspirators of the Spanische
+faction , even the selfe same that yet stil you haue , to your eminent
+peril , conserued in ther estates . ROYAL1,72.023.409
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Was I not so muche douted as hit was thoght an Italian invention to
+make you holde me dearer , and contrived of malice , not don by cause ;
+ROYAL1,72.023.410
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+and , in that respect , the poore man , that knewe no other of his
+taking but as if thiues had assailed him , he most cruelly soufert so
+giltles a marterdome as his tormentors douted his life ;
+ROYAL1,72.023.411
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+so sore had he the bootes , whan the wer ivelworthy life that bade hit
+. ROYAL1,72.023.412
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+See what good incouragement I receved for many wacheful cares for your
+best safty ! ROYAL1,72.023.413
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Wel , did this so discomfort my good wyl as , for al this , did I not
+euer serue for your true espiall , iven whan you left your land and
+yours ready , wel-ny , <P_73> to receaue suche foraine forsis as the
+required and wer promised ; wiche , if you had pleased to knowe , was
+and is to evident to be proved . ROYAL1,73.023.414
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+But what of all this , if he who most aught , did naught to assure him
+, or to requite them ? ROYAL1,73.023.415
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Now , of late , by a fortunate good hap , a lewd felowe hathe bine
+apprehended with lettars and instructions . ROYAL1,73.023.416
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+I pray God he be so wel handeled as he may confes all his knowlege in
+the Spanische conspiracie , and that you use not this man as slightly
+as you don the ringeleaders of this treason . ROYAL1,73.023.417
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+I vowe , if you do not rake hit to the botome , you wyl verefie what
+many a wise man hathe <paren> vewing your procidings </paren> judged of
+your gilttines of your owne wrack ; with a wining , that the wyl you no
+harme in inabling you with so riche a protector , that wyl prove , in
+the ende , a destroiar . ROYAL1,73.023.418
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+I haue beheld , of late , a strange , dishonorable , and dangerous
+pardon , wiche if hit be true , you haue not only neglected yourselfe
+but wronged me , that haue to muche procured your good to be so
+ivelguerdoned with suche a wrong , as to haue a fre forgiuenes of aught
+conspired against my person and estat . ROYAL1,73.023.419
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Suppose you , my deare brother , that thes be not rather enseignes of
+an enemy than the tast of a frinde ? ROYAL1,73.023.420
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+I require , therfor , to al this , a resolute answer , wiche I chalenge
+of right , that may be dides , bothe by spidy apprehension with bisy
+regard , and not in sort as publik rumor may precede present action ,
+but rather that the be intrapped or the do looke therfor ;
+ROYAL1,73.023.421
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+for I may make deme you wold not haue $them taken , ROYAL1,73.023.422
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+and what wyl folowe than , you shal see whan lest you looke .
+ROYAL1,73.023.423
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Think me , I pray you , not ignorant what becometh a king to do ,
+ROYAL1,73.023.424
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+and that wyl I never omit ; praying you to trust Bowes in the rest as
+myselfe . ROYAL1,73.023.425
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+I am ashamed that so disordard coursis makes my pen excide a lettar ,
+and so drives me to molest your yees with my to long skribling ,
+ROYAL1,73.023.426
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+and therfor end , with my ernest prayers to God that he wyl inspire you
+to do , in best time , al for your best . ROYAL1,73.023.427
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Your loving affectionat sistar , Elizabeth R . ROYAL1,73.023.428
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_023:E2:1593:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED,} For our deare brother the king of Scotland .
+ROYAL1,73.023.429
+
+<Q_RO1_A_1593_FO_ELIZABETH1> <L_ROYAL1_024> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_81>
+
+{ED:NO._XLVII._ELIZABETH_TO_JAMES.}
+
+{ED:May_1593.}
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+No sample bettar triar of truthe , my deare beloued brother , than whan
+dides dothe give a right sequel to wordes precedant , the report of
+wiche profe sins your actions make me , iven in the last just handeling
+of that wicked traitor Westmerland , whom many benefitz of life and
+lande , besides all other kind and louinge traictmentz , could neuer
+let but he wold nides make his name the first traitor that euer my
+raigne had ; to whom , nether cause , nor iniury , nor pouerty , nor il
+vsage , gaue euer shadowe of mene to moue suche a thoght ,
+ROYAL1,81.024.430
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+but wer hit not that he liueth by my meanes <paren> whom many wold ,
+for the horror of his fact , or now haue dispached </paren> , securus
+propter contemptum , els hit had not bine possible for him to haue
+liued to this howre ; ROYAL1,81.024.431
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+but I dout not but your answer to his treasonable lettar wyl make him ,
+and suche like , knowe that you not only hate the treason , but do owe
+as muche to the traitor ; ROYAL1,81.024.432
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+and , I assure you , I wil neuer suffer that this fact of yours shal
+retourne void , but wil euer recompence you withe the like , with my
+million of thankes for suche kinglike part . ROYAL1,81.024.433
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+And , now , I heare that some nobleman hath bine accused of so <P_82>
+horrible a crime as my hart rues to remember . ROYAL1,82.024.434
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+For Godz loue , look throw no spectacles to your owne safety .
+ROYAL1,82.024.435
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Your yees be younge , ROYAL1,82.024.436
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+you nideth not haue a clere sight in your so nye a cause ,
+ROYAL1,82.024.437
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+and let your counseil see that you wyl not easely be begiled in making
+to smal regard of that wiche toucheth life - yea , of a king !
+ROYAL1,82.024.438
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+For overgreat audacitie wyl brede , to a mynde that may be sone
+perswaded that all is wel , to do the boldlar a wicked act .
+ROYAL1,82.024.439
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Hard is the skul that may serue in place of suche a danger ,
+ROYAL1,82.024.440
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+nay hit may bride hit to neglect hit . ROYAL1,82.024.441
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+You haue had many treasons wiche to tendarly you haue wrapt vp .
+ROYAL1,82.024.442
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+I pray God the cindars of suche a fire bride not one day your ruine .
+ROYAL1,82.024.443
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+God is witnes I malice none , ROYAL1,82.024.444
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+but for your seurty is only the care of my writing . ROYAL1,82.024.445
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+I desiar no bloude , ROYAL1,82.024.446
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+but God saue yours . ROYAL1,82.024.447
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Only this my long experience teacheth me ; whan a king neglectes
+himself , who wyl make them enemis for him ? ROYAL1,82.024.448
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Let this serve you for a caveat . ROYAL1,82.024.449
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+You wil beare with the fault that affection commiteth , and use the
+profit to your best good . For wiche I wyl euer pray to God , who long
+defend you from al treachery . ROYAL1,82.024.450
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Your most assured loving sistar and cousin , Elizabeth R .
+ROYAL1,82.024.451
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+While Bodewel is in this case , give ordar , I beseche you , that the
+ordars so wel begone may be perfourmed , and so continued , and that no
+man haue rule ther that taketh not to hart the quiet of bothe realmes .
+ROYAL1,82.024.452
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_024:E2:1593:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED,} To my deare brother the king of Skotz .
+ROYAL1,82.024.453
+
+<Q_RO1_A_1593_FO_ELIZABETH1> <L_ROYAL1_025> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_90>
+
+{ED:NO._LI._ELIZABETH_TO_JAMES.}
+
+{ED:October_1593.}
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+My deare brother , If the variablenis of Skottis affayres had not
+invred me with to olde a custom , I shuld neuer leue wondring at suche
+strange and vncought actions , ROYAL1,90.025.454
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+but I haue so oft with careful yees foresine the ivel-comming harmes ,
+and with my watche for-met <P_91> with chifest attemptz ,
+ROYAL1,91.025.455
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+and see them ether not belived or not redrest , that I wex faint vndar
+suche burdain , and wery of fruictles labour . ROYAL1,91.025.456
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+One while , I receue a wright of obliuion and forgiuenes , than a
+revocation , with new additions of latelar consideration ;
+ROYAL1,91.025.457
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+sometimes , some you cal traitors with proclame , ROYAL1,91.025.458
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+and anone , ther must be no profe allowed , thogh neuer so apparent ,
+against them . ROYAL1,91.025.459
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Yea , if one lewd aduocat , perchance hired for the nonest , dar
+pronounce a sentence for them , thogh one of like state denye the same
+, his word must not take place . ROYAL1,91.025.460
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Hit semes a paradoxe to me , that , if of two plaidars one be for the
+king , the equal number shal not serue for a king . ROYAL1,91.025.461
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+I muse how any so lewd a man hathe bine chosen for suche a place , as
+durst come in open vew pleade against his mastar . ROYAL1,91.025.462
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Ther office is , as to do right so do the soueraine no wronge .
+ROYAL1,91.025.463
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+If he had douted , as no honest man could , he ought bine absent rather
+than ther to play so vnfitting a part , thogh secretly he had told hit
+you . ROYAL1,91.025.464
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+He is happy he is no Englis man . ROYAL1,91.025.465
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+You shuld haue hard other newes of him than . ROYAL1,91.025.466
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Old Meluin , I perceaue , hathe told you a pece of a tale and left out
+the principal . ROYAL1,91.025.467
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+My wordes wer thes : ROYAL1,91.025.468
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+" I heare say the offending lordz hopes by ther frindz to skape ther
+paine ; ROYAL1,91.025.469
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+I suppose your king to wise to be so unmindful of his peril to suffar
+vnprosecuted suche as wold tral ther country to strangers curtesy ,
+hauing knowen hit so plain and so long , ROYAL1,91.025.470
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+for this is not ther first offence . ROYAL1,91.025.471
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+But if his powre serued not to apprehend , yet to condempne I douted
+not , ROYAL1,91.025.472
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+for if euer he wold pardon them , wiche I could hardly counseil , yet I
+could not thinke without some obligation to some other prince , that ,
+for ther request , he wold do hit . " ROYAL1,91.025.473
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Now to this great cause that toucheth us bothe so muche .
+ROYAL1,91.025.474
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+First , considar of what profession the be ; next , to whom the haue
+made vowe for religion , the wiche I call christian treason , under
+what cloke so neuer . ROYAL1,91.025.475
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+I haue oft told you I was neuer horsleche for bloude ,
+ROYAL1,91.025.476
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+but rather than your ouer-trust shuld peril the creditor , I wold
+wische them ther worst desart . ROYAL1,91.025.477
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Than how to credit that so oft hathe deceued ? ROYAL1,91.025.478
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+My braines be to shalow to fadom that botome . ROYAL1,91.025.479
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+How hardly <P_92> remedies be aplied to helpe inveteratid maladies !
+ROYAL1,92.025.480
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+I haue small skil of suche surgery . ROYAL1,92.025.481
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+In fine , I see nether jugement , counseil , nor sure affection in so
+betrayinge advis as to giue your selfe suche a lasche that the shal be
+bothe vncondemned and saued . ROYAL1,92.025.482
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+What thanke may the giue your marcy whan no crime is tried ?
+ROYAL1,92.025.483
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+What bond shal tye ther profert loyalty if no precedent offencis past
+be acknoweleged by confession ? ROYAL1,92.025.484
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Shal the leue to adhere to that party wiche the neuer made ?
+ROYAL1,92.025.485
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Or what othe shal be sure to suche as ther profession skars thinkes
+lawful for a trust ? ROYAL1,92.025.486
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+I vowe to the liuinge Lord , that no malice to any , nor turbulent
+spirit , but your tru seurty and realmes fredom , inforseth my so plain
+discours , wiche $can $not {TEXT:cannot} omit that ther be left so
+great a blot to your honor as the receuing them uncondemned to your
+grace . ROYAL1,92.025.487
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+And for Bodwel , Jesus ! did euer any muse more than I , that you could
+so quietly put up so temerous , indigne , a fact , and yet by your hand
+receving assurance that all was pardoned and finisched .
+ROYAL1,92.025.488
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+I refer me to my owne lettar what dome I gaue therof .
+ROYAL1,92.025.489
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+And now to heare al reuoked , and ether skanted or denied , and the
+wheele to turne to as il a spouke . ROYAL1,92.025.490
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+I can say , bad is the best , ROYAL1,92.025.491
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+but yet of iuelz the lest is $to be taken . ROYAL1,92.025.492
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+And if I wer in your place , I wold , or he departed , make him try
+himself no sutar for ther fauor whos persons let him persecute ,
+ROYAL1,92.025.493
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+so shal you best knowe him , ROYAL1,92.025.494
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+for ther be liars if depely the have not sought him or now .
+ROYAL1,92.025.495
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+But that I way most is the smal regard that your sure party may make
+$of you , whan the see you adhere to your owne foes , habandoning the
+others seruise . ROYAL1,92.025.496
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+I feare me the fame blowes to fur that you wyl not pursue the side of
+wiche you be , what so your wordes do sound . ROYAL1,92.025.497
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+And this conceat may brede , if not already , more unsound hartz than
+al the paching of thes bad matters can worke you pleasure .
+ROYAL1,92.025.498
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+You ar supposed <paren> I must be plain , for dissemble I wyl not ,
+</paren> to haue receued this heretical opinion , that foreign forse
+shal strengthen you , not indanger you , and that al thes lordes seake
+your greatnes not your decay . ROYAL1,92.025.499
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+O , how wicked sirenes songes ! wiche , in first shewe , pleas ; in
+ende , ruines and destroies . ROYAL1,92.025.500
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Wax ynough of Godz raison befal <P_93> you to resist so distroing aduis
+, ROYAL1,93.025.501
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+and be so wel lightned as not so dark a clowde may dim you from the
+sight of your best good , wiche $can $not {TEXT:cannot} be more shunned
+than by the not yelding to so betrainge deceat ; from the wiche I wil
+incessantly pray for your deliuerance . ROYAL1,93.025.502
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Wisching you many days of raigne , and long . ROYAL1,93.025.503
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+Your most assured sistar , Elizabeth R . ROYAL1,93.025.504
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:60
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:27
+LETTER:ROYAL1_025:E2:1593:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED,} To my good brother the king of Scotland .
+ROYAL1,93.025.505
+
+<Q_RO1_A_1594_FO_ELIZABETH1> <L_ROYAL1_026> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_103>
+
+{ED:NO._LV._ELIZABETH_TO_JAMES.}
+
+{ED:May_1594.}
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_026:E2:1594:AUTOGRAPH:FAMILY_OTHER
+Thogh by the effectz , I sild see , my good brother , that euer my
+aduisis be folowed , yet you haue whitsafed to giue them the reding I
+wel understand , having made some of them the theme of your last ,
+thogh , God knowes , applied fur awry from ther true sence or right
+desart ; ROYAL1,103.026.506
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_026:E2:1594:AUTOGRAPH:FAMILY_OTHER
+for if I bin in abuse , I claime you the author of my deceat , in
+beliving more good than the sequele hathe told me . ROYAL1,103.026.507
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_026:E2:1594:AUTOGRAPH:FAMILY_OTHER
+For I haue great wronge if you suppose that any perswation from
+whomsoeuer can make me haue one iuel opinion of your actions , if
+themselues be not the cause . ROYAL1,103.026.508
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_026:E2:1594:AUTOGRAPH:FAMILY_OTHER
+I confes that diuers be the affections of many men , some to one , some
+to another , ROYAL1,103.026.509
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_026:E2:1594:AUTOGRAPH:FAMILY_OTHER
+but my rule of trust shal neuer faile me , <P_104> whan it is grounded
+, not on the sandes of euery mans humor , but on the stedy rock of
+approued fact . ROYAL1,104.026.510
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_026:E2:1594:AUTOGRAPH:FAMILY_OTHER
+I shuld condemne my wicked disposition to founde any amytie promised
+upon so tikel ground that others hate might breake the boundz of my
+loue , and upon others jugementz to bild my confidence .
+ROYAL1,104.026.511
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_026:E2:1594:AUTOGRAPH:FAMILY_OTHER
+For Bodwelz bold and unruly entrance into my bordars , I am so fur from
+gilt of suche a faulte , as I protest if I had receaued an answer , in
+seuentene wekes space , of my lettar that contained his offer to
+reveale unto you the treason of the lordz with forennars , I could sone
+haue banished him from thens ; ROYAL1,104.026.512
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_026:E2:1594:AUTOGRAPH:FAMILY_OTHER
+and next , he came with your owne hand to warant that no offence was
+imputed , wiche made the borderars readiar to receaue him ;
+ROYAL1,104.026.513
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_026:E2:1594:AUTOGRAPH:FAMILY_OTHER
+but after I had not left unpunist some of his receatars , I could not
+haue beliued the durst haue procurid the pane due for suche desart ,
+ROYAL1,104.026.514
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_026:E2:1594:AUTOGRAPH:FAMILY_OTHER
+and minde to make them affraid to ventur suche a crime agane ;
+ROYAL1,104.026.515
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_026:E2:1594:AUTOGRAPH:FAMILY_OTHER
+and if ordar giuen now to all the wardens do not suffice , I vowe ther
+bodies and pursis shal wel suffar therfor . ROYAL1,104.026.516
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_026:E2:1594:AUTOGRAPH:FAMILY_OTHER
+I wil not troble you with recital of what this gentilman hathe hard in
+all the other pointz , ROYAL1,104.026.517
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_026:E2:1594:AUTOGRAPH:FAMILY_OTHER
+but this toucheth me so nere as I must answer , that my desartz to you
+haue bine so sincere as shal neuer nide a threte of hel to her that
+hathe euer procured your blis . ROYAL1,104.026.518
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_026:E2:1594:AUTOGRAPH:FAMILY_OTHER
+And , that you may knowe I am that prince that neuer can indure a
+menace at my ennemys hand , muche les of one so dearly traictid , I wyl
+giue you this bond , that affection and kind traictement shal euer
+preuaile , but feare or doute shal neuer procure aught from me ;
+ROYAL1,104.026.519
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_026:E2:1594:AUTOGRAPH:FAMILY_OTHER
+and do advowe , that if you do aught by forainers , wiche I knowe in
+ende worst for yourselfe and country , hit shal be the worst aide that
+euer king had , and I feare may make me do more than you wyl cal back
+in haste . ROYAL1,104.026.520
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_026:E2:1594:AUTOGRAPH:FAMILY_OTHER
+Deare brother , use suche a frende , therfor , as she is worthe
+ROYAL1,104.026.521
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_026:E2:1594:AUTOGRAPH:FAMILY_OTHER
+and giue her euer cause to remaine suche a one , as her affection hathe
+euer merited , whos raschenes is no suche as neglect ther owne so nere
+if the wil not forgo ther best and shun ther owne mishaps , whom non
+can at my hand procure but your owne factz . ROYAL1,104.026.522
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_026:E2:1594:AUTOGRAPH:FAMILY_OTHER
+Thus , hoping that this bearar wyl tel you my faithful mening and
+sincere <P_105> professions , with al the rest that I haue committed to
+him , I leue this skribling , besiching God euer more to preserue you .
+ROYAL1,105.026.523
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_026:E2:1594:AUTOGRAPH:FAMILY_OTHER
+Your most affectionate sistar and cousin , Elizabeth R .
+ROYAL1,105.026.524
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_026:E2:1594:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED,} To our good brother the king of Skotts .
+ROYAL1,105.026.525
+
+<Q_RO1_A_1594_FO_ELIZABETH1> <L_ROYAL1_027> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_108>
+
+{ED:NO._LVII._ELIZABETH_TO_JAMES.}
+
+{ED:October_1594.}
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+My most deare brother , Thogh I wold haue wisched that your sound
+counsels oft-giuen you , and my many lettars intercepted wiche made to
+plain a shewe of that hye treason that to late you beliued , might haue
+prevented your ouer great peril and to muche hazarde , yet I rejoys
+with who is most gladlist , that at lengh <paren> thogh I confes almost
+to late </paren> hit pleseth you so kingly and valiantly to resist with
+your parson ther oulter-cuidant malignant attempt , in wiche you haue
+honord your selfe , reioysed your frends , and confound , I hope , your
+proud rebelz . ROYAL1,108.027.526
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+You may see , my deare brother , what danger it bredes a king to
+glorifie to hie and to soudanly a boy of <P_109> yeres and counduict ,
+whos untimely age for discretion bredes rasche consent to undesent
+actions . ROYAL1,109.027.527
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+Suche speke or the way , ROYAL1,109.027.528
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+and attempt or the considar . ROYAL1,109.027.529
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+The waight of a kingly state is of more poix than the shalownis of a
+rasche yonge mans hed can waigh , ROYAL1,109.027.530
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+therfor I trust that the causeles zele that you haue borne the hed of
+this presumption shal rather cary you to extirpe so ingratius a roote ,
+in finding so sowre fruite to springe of your many fauors ivel-acquited
+, rather than to suffer your goodnis to be abused with his many skusis
+for coulors of his good menings . ROYAL1,109.027.531
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+Though at the first your carire was not the best , yet I hope your stop
+will crowne all . ROYAL1,109.027.532
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+If you now do not cut of clerely any future hope to your nobilitie ,
+through this example , neuer to combine with forenars , or compact
+amonge themselues to your danger , I wowe to God you wyl neuer posses
+your dignitie long . ROYAL1,109.027.533
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+Wedes in fildes , if the be suffred , wil quickly ouergrowe the corne ,
+ROYAL1,109.027.534
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+but subiectz , being dandeled , wil make ther owne raignes , and
+for-let an other raigne . ROYAL1,109.027.535
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+My affection to your surty bredes my plannes , wiche I dout not but by
+your sower experience you wil fully beliue hireafter , hauing so lately
+proued the sincerite of my dealings . ROYAL1,109.027.536
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+God so prosper me in my affaires as I maligne none of your subiectz ,
+nor euer wold exaggerat any matter but for your seurty , whom I mind to
+take euer as great a care of as if only the interest of my life and
+person consisted theron . ROYAL1,109.027.537
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+This gentelman , the lord of Wemes , I find a most careful subiect of
+his prince , and one most curius to atcheue as muche as you committed
+to him , in wiche I dout not but I haue satisfied you in honor , as
+time and comoditie serue , with wiche I wil not molest you more than
+refer me to his declaration , with this only , that no one answer to al
+but procideth from a most parfaict good affection toward you ,
+ROYAL1,109.027.538
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+and so I desire , with most affection , that you interprete hit .
+ROYAL1,109.027.539
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+I must not omit , for conscience sake , to speke a few wordz of the
+mastar of Gray , with whom I haue had long discours , in wiche I find
+him the most gridiest to do you acceptable seruise that I haue euer
+hard any , ROYAL1,109.027.540
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+and dothe lay none of his disgracis , banismentz , nor los , in any
+part to you , but only to perswations of suche as ment his ruine ,
+ROYAL1,109.027.541
+
+<P_110>
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+and hopes , with his good indeuors , to merite your formar grace ;
+ROYAL1,110.027.542
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+and for my owne $part , I am nothing partiall to him for his particular
+, ROYAL1,110.027.543
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+but this I must confes , being as honest as he is sufficient ,
+ROYAL1,110.027.544
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+I thinke your realme possesseth not his secound . ROYAL1,110.027.545
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+I nowe speake upon my knowelege , ROYAL1,110.027.546
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+therfor lose not so good an instrument for your affaires , if you knowe
+no more against him than I can lerne . ROYAL1,110.027.547
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+You will pardon my audacious writing , as one whos yeres teacheth more
+than her wit , neuer ceasing to lift up my handes and hart with deuout
+$prayers for your most prosperous safe and sure succes in this voiage ,
+for which I haue sent you but to pay for hors-mete . ROYAL1,110.027.548
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+Your most affectionat louing sistar and cousin , Elizabeth R .
+ROYAL1,110.027.549
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:61
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:28
+LETTER:ROYAL1_027:E2:1594:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED,} To my deere brother the king of Scotland .
+ROYAL1,110.027.550
+
+<Q_RO1_A_1596_FO_ELIZABETH1> <L_ROYAL1_028> <A_ELIZABETH_TUDOR>
+<A-GENDER_FEMALE> <A-REL_KIN> <A-DOB_1533> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_1566>
+
+<P_112>
+
+{ED:NO._LIX._ELIZABETH_TO_JAMES.}
+
+{ED:January_or_February_1595-6.}
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:63
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:30
+LETTER:ROYAL1_028:E2:1596:AUTOGRAPH:FAMILY_OTHER
+My deare brother , If the wracked state , and wel-ny ruined , of this
+poore gentylman , through the faitheles trust of desceving servantz ,
+in looking every wike of the ending of his troubles , <em> had not
+occasioned me to delay , </em> I could not haue left my pen so long dry
+, ROYAL1,112.028.551
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:63
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:30
+LETTER:ROYAL1_028:E2:1596:AUTOGRAPH:FAMILY_OTHER
+but wold haue fild hit to you with matter ful of truthe , and memorialz
+of my cares , wiche neuer ar at rest for your best avail , and ment to
+warne you of suche occurrance as other nations afourd me ; spetially ,
+suche as might touche the safty of our countryes , and honors of
+ourselves . ROYAL1,112.028.552
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:63
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:30
+LETTER:ROYAL1_028:E2:1596:AUTOGRAPH:FAMILY_OTHER
+Althogh I do not dout , as now I do perceaue , that you shuld think
+them now overstale for newes , being by good espialz not made ignorant
+of our ennemis driftz , whos skope haue ther boundz while ether liues
+in raigne , but the ever-guidar of best actions , and readiest ruinar
+of wicked actes , wyl , I doute not , coule ther heat , abate ther
+pride , and confounde ther forse . ROYAL1,112.028.553
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:63
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:30
+LETTER:ROYAL1_028:E2:1596:AUTOGRAPH:FAMILY_OTHER
+I am not suche a wekely , nor <P_113> of so base a courage , that euer
+I mene breake one slombar for ther malice , nor ons dreame of ther
+victoiri , whos ground-worke is of so slippar foundation that the hold
+of suche edefice wyl be overturnd with his owne gilt .
+ROYAL1,113.028.554
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:63
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:30
+LETTER:ROYAL1_028:E2:1596:AUTOGRAPH:FAMILY_OTHER
+I may not deny but Epimetheus is no companion for a king .
+ROYAL1,113.028.555
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:63
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:30
+LETTER:ROYAL1_028:E2:1596:AUTOGRAPH:FAMILY_OTHER
+With Prometheus , therfor , I mynd to folowe that after wische condemne
+not for iugement , ROYAL1,113.028.556
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:63
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:30
+LETTER:ROYAL1_028:E2:1596:AUTOGRAPH:FAMILY_OTHER
+and therafter prepare suche menes and power , that , I feare not , shal
+be so marshald as shal make us no skorne to the world , nor delite to
+our foes ; in some suche sort as I here {in}_P you haue begone ; whos
+praise , if I shuld not lessene in praising , I could more delate ,
+ROYAL1,113.028.557
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:63
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:30
+LETTER:ROYAL1_028:E2:1596:AUTOGRAPH:FAMILY_OTHER
+but this muche I must tel you , that I $can $not {TEXT:cannot} imagin
+how you could by any more glorious menes set out your care for your
+land , your loue to your neigbors , your hate to suche wrongeful
+invadars , than with your pen and charge to your subiectz you haue
+utterd , in wordz of suche effect and matter , of suche waight , as ,
+in honest dimars , hit may mar the facon
+{COM:A_CEDILLA_ON_THE_C_IN_THE_PREVIOUS_WORD} of diuelische machines ,
+and crase the hartz of treason-mynding men . ROYAL1,113.028.558
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:63
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:30
+LETTER:ROYAL1_028:E2:1596:AUTOGRAPH:FAMILY_OTHER
+In me , hit hathe set a deape impression of a cousin-like zele , that
+myxith not his los with her decay , and joyeth not that she shuld
+perische first , in hope of bettar fare ; wiche , as hit is euer unsure
+, so sild is hit not a winde-shaked blast . ROYAL1,113.028.559
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:63
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:30
+LETTER:ROYAL1_028:E2:1596:AUTOGRAPH:FAMILY_OTHER
+But your so spedy care for thretes , that the may not arive to dedes ,
+doth assure me that the shal haue no just cause that shuld make suche a
+skruple . ROYAL1,113.028.560
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:63
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:30
+LETTER:ROYAL1_028:E2:1596:AUTOGRAPH:FAMILY_OTHER
+Receve , therfor , deare brother , bothe my censare and my thankes
+therfor , as she that wyl not suffar you to go one fote beyond her in
+busy inquiring and narow serching what fitteth best for my counsel , or
+my warning ROYAL1,113.028.561
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:63
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:30
+LETTER:ROYAL1_028:E2:1596:AUTOGRAPH:FAMILY_OTHER
+for that may conserne your safety or estate , as I haue charged this my
+embassador to tel you more at length , as time and cause shal invite me
+, not omitting to beseche you , that as I knowe him most obsequious in
+aught that may conserne you , so hit wyl please you to shadow him with
+your grace against the spiritz of suche as may fortune envie him but
+shal never mache him . ROYAL1,113.028.562
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:63
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:30
+LETTER:ROYAL1_028:E2:1596:AUTOGRAPH:FAMILY_OTHER
+Thus I end my tedious skribling , wiche you wil the rather pardon for
+to recompence the <P_114> long space that my writing hathe not spoken
+with you , praying the euer-liuing God euer to preserue you from
+sinistar counsel , and al good elz may euer befal you may prosper .
+ROYAL1,114.028.563
+
+AUTHOR:ELIZABETH_TUDOR:FEMALE:KIN:1533:63
+RECIPIENT:JAMES_STUART_I/VI:MALE:KIN:1566:30
+LETTER:ROYAL1_028:E2:1596:AUTOGRAPH:FAMILY_OTHER
+Your most affectionat sistar and cousin , Elizabeth R .
+ROYAL1,114.028.564

@@ -1,0 +1,1081 @@
+<B_BENTHAM>
+
+<Q_BEN_C_1560_T_TBENTHAM> <L_BENTHAM_001> <A_THOMAS_BENTHAM>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1513> <R_ELIZABETH_TUDOR>
+<R-GENDER_FEMALE> <R-REL_---> <R-DOB_1533>
+
+<P_134>
+
+{ED:14._TO_THE_QUEEN,_9_SEPT._1560}
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:ELIZABETH_TUDOR:FEMALE:_:1533:27
+LETTER:BENTHAM_001:E1:1560:COPY:OTHER
+In most humble & obedient wyse suethe unto your highnes your poore &
+dayly orator Thomas , by the permission of God and your graces
+collation bysshoppe of Coventry & Lichfield , That where as your graces
+highnes haith bestowed upon your said suppliant the afore named
+bysshopprike and he at the takynge upon hym the said offyce of
+ministerye , beynge a man of poore aestate & callynge , and sence that
+tyme put to suche greate charges as well extraordinary as ordinarye
+whiche then he is not able to susteane & beare , and last of all nowe
+fyndyng his bysshopprick in that case & stayte that the greatest part
+thereof is so intangled with divers leases and so incombred with suetts
+& trobles of lawe that hitherto neither he haythe ne can receave the
+greatest part of his rents either to discharge his deatts which be
+greater then the hole rents unpayd wyll discharge or to kepe house &
+famylie mete for his callyng & expectation of the contrey , or els to
+answere your highnes accordyng to the lawe for first fruytes . In
+consideration whereof may it please your majesties highnes so
+mercyfully to tender your poore suppliant state as to releve &
+comforthe the same whithe release of some part of his first fruytes and
+especially of the first payment nowe at michaelmas or els he shall be
+able , neither to pay any part of his detts , whiche to him is great
+greyfe , neither to make necessarye provision for house kepyng , nor to
+kepe any howse at all , whiche he iudgethe wyll redowne moche to the
+slaunder of the gospell , whereby he $shall $be {TEXT:shalbe} unable
+either-14 to serve God or your highnes as his dewtye & wyll is .
+Wherefore as he most earnestlye desyrethe God to move yor graces heart
+herein , so moche humbly and lowly he besechethe your highnes to pardon
+his rude boldnes , whereunto by extreme necessitye he is dryven
+presentlye And he shall not cease to praye to the mercy seate of
+almightye God for the longe , peacefull & healthfull preservation of
+your maiestyes reagne . BENTHAM,134.001.1
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:ELIZABETH_TUDOR:FEMALE:_:1533:27
+LETTER:BENTHAM_001:E1:1560:COPY:OTHER
+Frome my poore & colde castell of Eccleshall this 9 of Septembre .
+BENTHAM,134.001.2
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:ELIZABETH_TUDOR:FEMALE:_:1533:27
+LETTER:BENTHAM_001:E1:1560:COPY:OTHER
+youre majesties humble orator BENTHAM,134.001.3
+
+<Q_BEN_C_1560_T_TBENTHAM> <L_BENTHAM_002> <A_THOMAS_BENTHAM>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1513> <R_WILLIAM_CECIL>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1520>
+
+<P_135>
+
+{ED:15._SIR_WILLIAM_CECIL,_PRINCIPAL_SECRETARY_TO_THE_QUEEN,_9_SEPT.
+_1560}
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:40
+LETTER:BENTHAM_002:E1:1560:COPY:OTHER
+With most faithfull remembrance of my dewtye unto your good honor , may
+it please same to stande my freyn so moche that I may be bold to desyre
+your favor & furtherance in my poore suet unto the Quens highnes .
+BENTHAM,135.002.4
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:40
+LETTER:BENTHAM_002:E1:1560:COPY:OTHER
+So yt is , right honorable , that by extreme necessitye I am dryven to
+desyre the Quens maiesties highnes for some release of my first fruitts
+. BENTHAM,135.002.5
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:40
+LETTER:BENTHAM_002:E1:1560:COPY:OTHER
+The causes be thes : My greate charges at my longe beyng at London ; my
+smale recepts of rents ; and the greate trobles and incombrancyes
+wherewhithe I am wrapped & intangled in the most part of lordshippes &
+benefyces belongyng to my bysshoppricke . Wherein yf I shall not have
+better & stronger helpe then my selfe I $shall $be {TEXT:shalbe} thrust
+to the walls . Wherefore as yor honor haithe bene my syngulare and
+onely freynd heretofore , so I beseche you nowe lett me have your good
+word & furtherance to the Quens highnes . BENTHAM,135.002.6
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:40
+LETTER:BENTHAM_002:E1:1560:COPY:OTHER
+Yf I were not so farr indetted by borowyng of moneye at London to pay
+ordinarye fees and other charges I wold in no case attempte so boldlye
+to request her highnes BENTHAM,135.002.7
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:40
+LETTER:BENTHAM_002:E1:1560:COPY:OTHER
+and yf your honor had bene at London at my departure I shold have
+desyred your helpe and counsell then . BENTHAM,135.002.8
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:40
+LETTER:BENTHAM_002:E1:1560:COPY:OTHER
+Thus trustyng to your good honors helpe at my nede , I desyre God to
+blesse and preserve you in healthe and quietnes to his pleasure and
+your comforthe . BENTHAM,135.002.9
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:40
+LETTER:BENTHAM_002:E1:1560:COPY:OTHER
+Writen this at my poore castell of Eccleshall this 9 of Septembre .
+BENTHAM,135.002.10
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:40
+LETTER:BENTHAM_002:E1:1560:COPY:OTHER
+Your good honors at commandement , BENTHAM,135.002.11
+
+<Q_BEN_C_1560_T_TBENTHAM> <L_BENTHAM_003> <A_THOMAS_BENTHAM>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1513> <R_ELIZABETH_TUDOR>
+<R-GENDER_FEMALE> <R-REL_---> <R-DOB_1533>
+
+<P_143>
+
+{ED:27._TO_THE_QUEEN,_[?]_MAY_1560}
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:ELIZABETH_TUDOR:FEMALE:_:1533:27
+LETTER:BENTHAM_003:E1:1560:COPY:OTHER
+In most humble , obedient and dewtifull wyse suethe unto your maiesties
+highnes your poore orator and obedient chaplayne Thomas Coventry &
+Lichfield : That where as your graces highnes haithe bestowed upon the
+said suppliant your bysshoprick of Coventry & Lichfield which beyng
+moche in decay , partlye by former echange of landes , by old and large
+leases demysed forthe of the same , partlye by incombrances made and
+left by my predecessor the late bysshopp thereof with suche arrerages
+as at this present ar very burdenous to beare , so that your said
+suppliant & chaplayne ys not able either to repayre to his mansion
+house or to make sufficient provision for his house kepynge withowt
+your graces especiall helpe and liberalitye therein , Susteanynge at
+this present suche greate charges , partlye by ordinary fees alreadye
+payd and hereafter to be payd at the restitution of his temporalties ,
+partlye by the goyng forthe of the bysshoprike by paten , partlye by
+tenthes , first fruytes and other exten <em> ... </em> alleved owt of
+the same . In consideration whereof may yt please yor graces highnes so
+to tender your humble suppliant and poore orators case that for his
+better helpe and necessarye furniture for howse he may receave suche
+profyts as have fallen and risen in and upon the sade bysshoprike sence
+the deprivation of the last incombent thereof or els one moytye of
+Michaelmass rent past , whiche graunt your saide suppliant shall
+acknowledge as a most free and liberall benefyte to make hym the more
+able to provyd furniture of howsehold and to go toward the better & the
+rather to serve God & yor highnes in his dioceses , which he moche
+desyreth , yf yt may please your graces highnes to assigne his
+restitution to that end for the whiche onelye he haithe tarryed here
+sence Aester , as knowethe the Lorde God , who kepe and blesse your
+highnes in all your graces most godly affares . BENTHAM,143.003.12
+
+<Q_BEN_C_1560_T_TBENTHAM> <L_BENTHAM_004> <A_THOMAS_BENTHAM>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1513> <R_CLEMENT_THROCKMORTON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_156>
+
+{ED:68._TO_CLEMENT_THROCKMORTON,_19_SEPT._1560}
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_004:E1:1560:COPY:OTHER
+After my most hartye commendations to your good woorshippe , thes may
+be to thanke you for your gentill wrytinge unto me at this present ,
+signifynge there whithe that I have talked once with Mr Bromeley who
+haithe promised to helpe me with his counsell . BENTHAM,156.004.13
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_004:E1:1560:COPY:OTHER
+And therefore , as I have apoynted my court the last day of this
+monethe to be kept , which ys the Monday folowyng michaelmasse day
+immediatlye , so I have wryten unto hym to come unto me at that tyme
+BENTHAM,156.004.14
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_004:E1:1560:COPY:OTHER
+and I trust he wyll do so . BENTHAM,156.004.15
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_004:E1:1560:COPY:OTHER
+In the meane tyme I wyll suche counsell as I can gett .
+BENTHAM,156.004.16
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_004:E1:1560:COPY:OTHER
+I thoughte that Mr Fleetwood wold have come unto me or by me ,
+BENTHAM,156.004.17
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_004:E1:1560:COPY:OTHER
+for so he dyd wryte after your beyng at Hanberye , BENTHAM,156.004.18
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_004:E1:1560:COPY:OTHER
+And yet he is not come BENTHAM,156.004.19
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_004:E1:1560:COPY:OTHER
+neyther can I tell wether he be returned up to London agayne or not .
+BENTHAM,156.004.20
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_004:E1:1560:COPY:OTHER
+Yf the tyme of the yere whithe weyther and waye were suche that you
+might well travell and other of your busynes for the Quene well
+dispatched , I shold thynke my selfe most happye to have you present at
+my court . BENTHAM,156.004.21
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_004:E1:1560:COPY:OTHER
+As <P_157> yett Mr Harecourt and I are not thorowe BENTHAM,157.004.22
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_004:E1:1560:COPY:OTHER
+but stand as at your beyng whithe me . Whereof I am sorye not so moche
+for the lacke of my money , whereof I have great nede , but that the
+worshippfull of the countrey do understand the same and halfe brought
+in beleve that the fault shold be me , So that I must nedes beare this
+as a part of my crosse . BENTHAM,157.004.23
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_004:E1:1560:COPY:OTHER
+Thus leavyng other thinges to an other tyme I commytt your woorshippe
+to the goodness of God BENTHAM,157.004.24
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_004:E1:1560:COPY:OTHER
+be wryten this xix=th= of Septembre at my poore castell of Eccleshall .
+BENTHAM,157.004.25
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_004:E1:1560:COPY:OTHER
+your most lovyng freynd to commaunde , BENTHAM,157.004.26
+
+<Q_BEN_C_1560_T_TBENTHAM> <L_BENTHAM_005> <A_THOMAS_BENTHAM>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1513> <R_CLEMENT_THROCKMORTON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_163>
+
+{ED:82._TO_CLEMENT_THROCKMORTON,_2_OCT._1560}
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_005:E1:1560:COPY:OTHER
+Commendyng me most hartelye to your good worshipp , thes may be to
+signifye unto the same that I wold gladlye have my case of Hanberye
+well betten forthe before that yt be determined . BENTHAM,163.005.27
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_005:E1:1560:COPY:OTHER
+I beleave that this one poynt $will $be {TEXT:wylbe} able to defeate yt
+for that the old rent is not reserved unto the Lord :
+BENTHAM,163.005.28
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_005:E1:1560:COPY:OTHER
+howe beyt , they say that they pay more , yet not unto me .
+BENTHAM,163.005.29
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_005:E1:1560:COPY:OTHER
+I have differred my court because that I cold not have Mr Bromley
+present with me at yt . BENTHAM,163.005.30
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_005:E1:1560:COPY:OTHER
+Notwhithstandynge , he wyll helpe me in my matters at London as he
+haithe promised me BENTHAM,163.005.31
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_005:E1:1560:COPY:OTHER
+and I have many brablyng matters to be dispatched . BENTHAM,163.005.32
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_005:E1:1560:COPY:OTHER
+But cheifflye I pray you helpe me to an attorney in the Exchequer
+BENTHAM,163.005.33
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_005:E1:1560:COPY:OTHER
+for I shall have moche ado there daylye . BENTHAM,163.005.34
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_005:E1:1560:COPY:OTHER
+I wold therefore have one of the godliest to be myne attorney .
+BENTHAM,163.005.35
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_005:E1:1560:COPY:OTHER
+Thus desyringe your accostomed favor to the furtherance of my matters ,
+I commend you to God . BENTHAM,163.005.36
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_005:E1:1560:COPY:OTHER
+Wryten this second day of October at my poore castell of Eccleshall .
+BENTHAM,163.005.37
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_005:E1:1560:COPY:OTHER
+Yor freynde most assuredlye , BENTHAM,163.005.38
+
+<Q_BEN_C_1560_T_TBENTHAM> <L_BENTHAM_006> <A_THOMAS_BENTHAM>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1513> <R_CLEMENT_THROCKMORTON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_173>
+
+{ED:117._TO_CLEMENT_THROCKMORTON,_[?]_LONDON,_31_OCT._1560}
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_006:E1:1560:COPY:OTHER
+My harty commendations remembred to your good worshippe , thes may be
+with thanks for your paynes hitherto , to desyre your further helpe and
+furtherance in my suets now at London yf you tarrye there this terme
+tyme , and especiallye concernyng Hanberye , which yf I do not obteane
+I shall not be able to contynue here for lacke of corne .
+BENTHAM,173.006.39
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_006:E1:1560:COPY:OTHER
+I here say that my brother Cocke reteaned some counsell with owt your
+consent . Whereof I am sorye , BENTHAM,173.006.40
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_006:E1:1560:COPY:OTHER
+howe be yt I pray you , for this once , beare therewhithe
+BENTHAM,173.006.41
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_006:E1:1560:COPY:OTHER
+for I wyll wryte to hym that he shall use your counsell more hereafter
+. BENTHAM,173.006.42
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_006:E1:1560:COPY:OTHER
+And one thynge I must desyre you to tak paynes in : that ys to mak a
+iust survey of the parsonage of Towceter at your comyng agayne frome
+London . BENTHAM,173.006.43
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_006:E1:1560:COPY:OTHER
+And yf you tarye a day or ii about yt , I wyll alowe your charges
+BENTHAM,173.006.44
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_006:E1:1560:COPY:OTHER
+for I must indue a vicare there BENTHAM,173.006.45
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_006:E1:1560:COPY:OTHER
+and , therefore , I wold knowe what glebe lande or pasture there ys to
+allott some reasonable portion forthe for the vicars lyvynge .
+BENTHAM,173.006.46
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_006:E1:1560:COPY:OTHER
+As yet I have not receaved one penny of Mr Harcourt BENTHAM,173.006.47
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_006:E1:1560:COPY:OTHER
+but I have a letter frome my Lord Treasorer unto hym whiche I doubt
+howe yt $will $be {TEXT:wylbe} taken . BENTHAM,173.006.48
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_006:E1:1560:COPY:OTHER
+For lack of good officers and good instructions I have lost at my court
+kepynge xx=li= as some do tell me : BENTHAM,173.006.49
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_006:E1:1560:COPY:OTHER
+here is nothyng to be gotten but by extremytye . BENTHAM,173.006.50
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_006:E1:1560:COPY:OTHER
+Thus commyttyng my causes to yor good helpe and you to the good
+gwydyngs of all allmighty God , I bydd your worshipp fayre well .
+BENTHAM,173.006.51
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_006:E1:1560:COPY:OTHER
+Wryten this last of October at my castell of Eccleshall ,
+BENTHAM,173.006.52
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_006:E1:1560:COPY:OTHER
+your good worshippes at commandment . BENTHAM,173.006.53
+
+<Q_BEN_C_1560_T_TBENTHAM> <L_BENTHAM_007> <A_THOMAS_BENTHAM>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1513> <R_JOHN_AUDLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_185>
+
+{ED:158._TO_JOHN_AUDLEY,_STEWARD,_HANBURY,_16_DEC._1560}
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_007:E1:1560:COPY:OTHER
+My harty commendations had to you all etc. Thes ar to wyll you use your
+selfes quietlye and soberlye in all thyngs boethe-1 for your owne
+commendation and myne also BENTHAM,185.007.54
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_007:E1:1560:COPY:OTHER
+for moche rumor goethe of the fact BENTHAM,185.007.55
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_007:E1:1560:COPY:OTHER
+and therefore be of fewe wordes . BENTHAM,185.007.56
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_007:E1:1560:COPY:OTHER
+And as concernyng Marchington , I wold have you medle no more there
+untyll I send you other <P_186> worde , BENTHAM,186.007.57
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_007:E1:1560:COPY:OTHER
+for Mr Adderlay hayth bene with me , BENTHAM,186.007.58
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_007:E1:1560:COPY:OTHER
+and I look for word frome hym shortly . BENTHAM,186.007.59
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_007:E1:1560:COPY:OTHER
+In the meane tyme what so ever $shall $be {TEXT:shalbe} doene there
+suffer yt . BENTHAM,186.007.60
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_007:E1:1560:COPY:OTHER
+Further prepayre your corne agaynst Weddesday at nyght
+BENTHAM,186.007.61
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_007:E1:1560:COPY:OTHER
+for then , God wyllyng , I purpose to send a wayne . BENTHAM,186.007.62
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_007:E1:1560:COPY:OTHER
+I wold allso have some pease for to mak horsebread . BENTHAM,186.007.63
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_007:E1:1560:COPY:OTHER
+Yf you have non threshed then look yf you can borowe some of any man
+BENTHAM,186.007.64
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_007:E1:1560:COPY:OTHER
+and he shall have so manye agayne whithe thankes . BENTHAM,186.007.65
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_007:E1:1560:COPY:OTHER
+I wyll send for some of my folkes when the wayne comethe .
+BENTHAM,186.007.66
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_007:E1:1560:COPY:OTHER
+I have here sent you xl=s= , wherewhithe you must play the better
+husband BENTHAM,186.007.67
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_007:E1:1560:COPY:OTHER
+or els I must geve over all . BENTHAM,186.007.68
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:47
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_007:E1:1560:COPY:OTHER
+Thus I commytt you all to God this 16 of December at Eccleshall .
+BENTHAM,186.007.69
+
+<Q_BEN_C_1561_T_TBENTHAM> <L_BENTHAM_008> <A_THOMAS_BENTHAM>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1513> <R_JOHN_AUDLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_196>
+
+{ED:178._JOHN_AUDLEY,_STEWARD_OF_HANBURY,_22_Feb._1561,_FROM_LONDON} _@
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_008:E1:1561:COPY:OTHER
+After my hartye commendations to you and the rest of my familye , thes
+ar to signifye that in and by the order whiche my Lord <P_197> Keper of
+the Greate Seale haythe taken betwene me and Christopher Grene , yt is
+agreyd that he shall have pasture all this sommer unto the feast of St
+Michaell next folowynge for syxe kyne in my pasture grounde aboute
+Hanberye . Wherefore thes ar to wyll you suffer the same Christopher
+Grene or his servants boythe to brynge the saide syx kyne in to the
+pastures amonge myne owne , and allso to suffer his maide to have free
+passage to mylke the same kyne at theyre pleasure . BENTHAM,197.008.70
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_008:E1:1561:COPY:OTHER
+And hereoff see that you fayle not , usynge your selfe towardes hym so
+that you may have commendation therefore and I no blame .
+BENTHAM,197.008.71
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_008:E1:1561:COPY:OTHER
+Further as concernyng his goodes , delyver theym as they were receaved
+at his pleasure , kepyng a note of remembraunce of the same , that yf
+he take any thynge whereunto he haithe no ryght , I may iustly by order
+of lawe call for yt agayne , BENTHAM,197.008.72
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_008:E1:1561:COPY:OTHER
+for as I purpose to whithold nothyng of his , so I wold gladly reteane
+or recover myne owne . BENTHAM,197.008.73
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_008:E1:1561:COPY:OTHER
+I do remembre that there ys a litell dytche and hedge beynge in decaye
+, BENTHAM,197.008.74
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_008:E1:1561:COPY:OTHER
+I wold have quycke sett where yt is nedefull . BENTHAM,197.008.75
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_008:E1:1561:COPY:OTHER
+As towchyng Marchyngton barne , yf you have not as yett delivered the
+key to Mr Adderlay I wyll that you kepe yt styll untyll he and I have
+commoned to gether BENTHAM,197.008.76
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_008:E1:1561:COPY:OTHER
+for when he was att London he wold not see me BENTHAM,197.008.77
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_008:E1:1561:COPY:OTHER
+and therefore I purpose to talke with hym before he have any thyng at
+my hande . BENTHAM,197.008.78
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_008:E1:1561:COPY:OTHER
+And I wold not have you to medle any thyng at Marchyngton untyll I come
+my selffe or els send you further word what to do . BENTHAM,197.008.79
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_008:E1:1561:COPY:OTHER
+And thus fayre you well etc . BENTHAM,197.008.80
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_008:E1:1561:COPY:OTHER
+this 22 of February . BENTHAM,197.008.81
+
+<Q_BEN_C_1561_T_TBENTHAM> <L_BENTHAM_009> <A_THOMAS_BENTHAM>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1513> <R_MATTHEW_PARKER>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1504>
+
+<P_200>
+
+{ED:184._MATTHEW_PARKER,_ARCHBISHOP_OF_CANTERBURY,_28_FEB._1561,_FRO
+M_LONDON}
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:MATTHEW_PARKER:MALE:_:1504:57
+LETTER:BENTHAM_009:E1:1561:COPY:OTHER
+Where as I am moved in the behalffe of one Sir George Vernon knyght of
+Darbyshire , within my diocesse , and Maud his wyffe , to be a meane
+unto your grace for your graces favor in this request .
+BENTHAM,200.009.82
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:MATTHEW_PARKER:MALE:_:1504:57
+LETTER:BENTHAM_009:E1:1561:COPY:OTHER
+That whereas by reason of divers and sondrye infyrmities whereunto
+theyr bodyes be subiecte and can not contynue whitheowt good diett ,
+fysche beynge hurtfull for theyr diseases , thes may be to desyre your
+grace to extende your favor so farr towardes the saide Sir George
+Vernon , Maude his wyffe with some ii or iii of theyre freynds for
+theyre better ease and comforthe , that for the recoverye and
+preservation of theyr healthe you wolde graunte theym libertye that
+whitheowt daunger of the lawe they may use and eate suche meats as they
+have experience to be most holsome for theyr bodyes . In whitche doynge
+your grace shall bynd theym boythe to pray for the preservation of yor
+honors healthe , as knowethe God , who have your grace in his kepynge
+this last of Febryarye . BENTHAM,200.009.83
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:MATTHEW_PARKER:MALE:_:1504:57
+LETTER:BENTHAM_009:E1:1561:COPY:OTHER
+your honors at commaundement etc . BENTHAM,200.009.84
+
+<Q_BEN_C_1561_T_TBENTHAM> <L_BENTHAM_010> <A_THOMAS_BENTHAM>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1513> <R_JOHN_AUDLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_201>
+
+{ED:185._JOHN_AUDLEY,_STEWARD,_AT_HANBURY,_11_MARCH_1561,_FROM_LONDO N}
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_010:E1:1561:COPY:OTHER
+After my hartye commendations to you etc. Whereas you have wryten to me
+to understand what you shold do at Hanberye , concernynge divers thyngs
+; the tyme of the yere requyryng some consideration to be had for
+hedgyng , dychyng and suche other labors : thes ar to signifye unto you
+that I can not so well instruct you therein beyng absent as you may be
+daylye experience learne beyng present . BENTHAM,201.010.85
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_010:E1:1561:COPY:OTHER
+Howe be yt as I wold have no maner of waystfull charges nor
+unnecessarye expenses , so wold I have you well looke into that whiche
+must necessarylye be done . BENTHAM,201.010.86
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_010:E1:1561:COPY:OTHER
+As for money , I thought that you wolde have made some of those peasen
+, boythe to helpe your selves this tyme of my absence and to ease me in
+thes my great and importable expenses . BENTHAM,201.010.87
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_010:E1:1561:COPY:OTHER
+Further whereas you wryte unto me that you can not as yet make anye
+provision for your wyfe , I wold be verye sorye to use suche extremitye
+therein as I am boythe suspected and reported to use .
+BENTHAM,201.010.88
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_010:E1:1561:COPY:OTHER
+My meanyng was to ease my selfe of my great burden and yet therewhithe
+to shewe what pleasure I cold to theym that cold understand what
+pleasure ys , BENTHAM,201.010.89
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_010:E1:1561:COPY:OTHER
+but of this at my commyng downe we shall conferr more .
+BENTHAM,201.010.90
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_010:E1:1561:COPY:OTHER
+In the meane tyme , I wold neyther have you nor your wyfe discomfeted
+for lacke of house romethe , seyng that my mynd was not to thrust any
+owt of the dores but to geve theym convenient tyme to provyde for theym
+selves . BENTHAM,201.010.91
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_010:E1:1561:COPY:OTHER
+As towchyng the parsonage of Towceter , I have allreadye promised yt to
+Mr Manley , so that I can make you no answere therein to your
+contentation , BENTHAM,201.010.92
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_010:E1:1561:COPY:OTHER
+but here after as God shall bryng thynges in to {ED:my} handes , I
+shall so use theym that I trust nether-3 to be forgetfull nor
+unthankfull . BENTHAM,201.010.93
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_010:E1:1561:COPY:OTHER
+Concernyng all other mye matters , I doubt not but you wyll use suche
+diligence as may deserve thankes : whereof you shall not fayle by the
+grace of allmightye God , to whose good orderyng and guydyng I commytt
+you this xi=th= of Marche at London . BENTHAM,201.010.94
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:JOHN_AUDLEY:MALE:_:_:_
+LETTER:BENTHAM_010:E1:1561:COPY:OTHER
+yors assuredlye , BENTHAM,201.010.95
+
+<Q_BEN_C_1561_T_TBENTHAM> <L_BENTHAM_011> <A_THOMAS_BENTHAM>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1513> <R_MATTHEW_PARKER>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1504>
+
+<P_210>
+
+{ED:198._MATTHEW_PARKER,_ARCHBISHOP_OF_CANTERBURY,_11_APRIL_1561}_CO DE
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:MATTHEW_PARKER:MALE:_:1504:57
+LETTER:BENTHAM_011:E1:1561:COPY:OTHER
+My dewtye remembrer , with most hartye commendations unto your grace ,
+thes may be to desyre the same most earnestlye to be so favorable unto
+me in my greate nede , as to lycence Dr Weston towardes the ende of the
+terme , to make suche spede homewarde , as he doethe well knowe to be
+verye necessarye for the reformation of divers and sundrye thyngs far
+owt of order , allmost in my hoole dioces , whereof he is better able
+to geve your grace understandynge by private talke then I at this tyme
+by my simple wrytinge , BENTHAM,210.011.96
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:MATTHEW_PARKER:MALE:_:1504:57
+LETTER:BENTHAM_011:E1:1561:COPY:OTHER
+further whereas one Mr Aston a godlye preacher within thes parties of
+my dioces ys preferred to a benefyce with in the dioces of Lincolne ,
+whereupon he shold by order of lawe be resident , my request and desyre
+to your grace ys , that yt wold please the same to shewe so moche favor
+as your grace may lawfullye do unto the said Mr Aston , for that he
+haithe nowe begonne a good worke to the furtheraunce of a schole in
+Shrewsberye whiche yf he shold praesentlye departe were lyke either not
+to procede or els moche therebye to be hyndred . In consideration
+whereof , yf it may plaese your grace the rather to tender his absence
+you shall not onelye do a greate pleasure of the towne of Salop but
+allso to me in thes parties of my dioces , whiche have here no other
+preacher but hym . BENTHAM,210.011.97
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:MATTHEW_PARKER:MALE:_:1504:57
+LETTER:BENTHAM_011:E1:1561:COPY:OTHER
+Even thus commyttynge your <P_211> good grace to the goodnes of God ,
+BENTHAM,211.011.98
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:MATTHEW_PARKER:MALE:_:1504:57
+LETTER:BENTHAM_011:E1:1561:COPY:OTHER
+wryten this xi=th= of Apryle at my castell of Eccleshall .
+BENTHAM,211.011.99
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:MATTHEW_PARKER:MALE:_:1504:57
+LETTER:BENTHAM_011:E1:1561:COPY:OTHER
+your graces at commaundement , BENTHAM,211.011.100
+
+<Q_BEN_C_1561_T_TBENTHAM> <L_BENTHAM_012> <A_THOMAS_BENTHAM>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1513> <R_CLEMENT_THROCKMORTON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_218>
+
+{ED:214._TO_CLEMENT_THROCKMORTON,_25_APRIL_1561}
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_012:E1:1561:COPY:OTHER
+My harty commendations remembred to your good worshippe with lyke
+thankes for your carefull affection of my state , which never had more
+nede then at this present yt haithe , Thes $may be to signifye that I
+wold gladlye understande wethere you have commoned with Mr Whyttyngham
+or not , and what answere you have BENTHAM,218.012.101
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_012:E1:1561:COPY:OTHER
+for , yf he can not come unto me , I must as I ever have ment and
+presentlye wyll provyde for some others . BENTHAM,218.012.102
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_012:E1:1561:COPY:OTHER
+Also I wold gladlye knowe wether that you have bene with my Lord Pagett
+for the release which he haithe promised me or not of certane prebendes
+in Lichefeild churche . I shold have had theym my selfe at my beyng at
+London but that my Lord Pagett was then at his house in the countrey .
+So that nowe for suche matters as I cold <P_219> not dispatche before I
+have sent upp John Floude . And especiallye his sute or not in the
+Sterre Chamber . Wherein and in other matters , yf nede shall requyre ,
+I pray you of your helpe that I may the rather folowe my vocation ,
+whitche ys my cheyfe desyre as knowethe God , to whose goodnes I
+commytt your worshippe this xxv=th= of Aprile at my castell of
+Eccleshall . BENTHAM,219.012.103
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:CLEMENT_THROCKMORTON:MALE:_:_:_
+LETTER:BENTHAM_012:E1:1561:COPY:OTHER
+your lover and freynd , BENTHAM,219.012.104
+
+<Q_BEN_C_1561_T_TBENTHAM> <L_BENTHAM_013> <A_THOMAS_BENTHAM>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1513> <R_PETER_MORWEYN>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_219>
+
+{ED:216._TO_PETER_MORWEYN_AT_LONDON,_26_APRIL_1561}
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:PETER_MORWEYN:MALE:_:_:_
+LETTER:BENTHAM_013:E1:1561:COPY:OTHER
+My harty commendations had to yo and to your wyfe etc. thes ar to wyll
+you gett knowledge where Comberforthe lyethe in <P_220> Suffolke , that
+John Floud may ryd thither to serve the citation . And yf he can not
+there be spoken with to be served , then to conferr whithe Dr Weston to
+have forthe a citation viis et modis <paren> as they terme yt </paren>
+to call hym in to answere . BENTHAM,220.013.105
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:PETER_MORWEYN:MALE:_:_:_
+LETTER:BENTHAM_013:E1:1561:COPY:OTHER
+And the same to be served in the paryshe churche where he continuethe .
+BENTHAM,220.013.106
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:PETER_MORWEYN:MALE:_:_:_
+LETTER:BENTHAM_013:E1:1561:COPY:OTHER
+Herein I pray you use diligence BENTHAM,220.013.107
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:PETER_MORWEYN:MALE:_:_:_
+LETTER:BENTHAM_013:E1:1561:COPY:OTHER
+for my matters slepe on everye syde . BENTHAM,220.013.108
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:PETER_MORWEYN:MALE:_:_:_
+LETTER:BENTHAM_013:E1:1561:COPY:OTHER
+And use suche counsell as you can for the dispatche of your owne sutes
+, because I have {ED:nede} of you at home . BENTHAM,220.013.109
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:PETER_MORWEYN:MALE:_:_:_
+LETTER:BENTHAM_013:E1:1561:COPY:OTHER
+Commend me to Dr Weston BENTHAM,220.013.110
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:PETER_MORWEYN:MALE:_:_:_
+LETTER:BENTHAM_013:E1:1561:COPY:OTHER
+and desyre hym to geve you his best counsell boythe in my matters and
+in yours allso . BENTHAM,220.013.111
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:PETER_MORWEYN:MALE:_:_:_
+LETTER:BENTHAM_013:E1:1561:COPY:OTHER
+Yf I had any stoore of money I {ED:wold}_MD have sent you some
+BENTHAM,220.013.112
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:PETER_MORWEYN:MALE:_:_:_
+LETTER:BENTHAM_013:E1:1561:COPY:OTHER
+but verelye I am moche behynde whithe my rents . BENTHAM,220.013.113
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:PETER_MORWEYN:MALE:_:_:_
+LETTER:BENTHAM_013:E1:1561:COPY:OTHER
+Commend {ED:me} to all my freyndes at London this 26 of Aprile at
+Eccleshall castell . BENTHAM,220.013.114
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:PETER_MORWEYN:MALE:_:_:_
+LETTER:BENTHAM_013:E1:1561:COPY:OTHER
+yours assuredlye , BENTHAM,220.013.115
+
+<Q_BEN_C_1561_T_TBENTHAM> <L_BENTHAM_014> <A_THOMAS_BENTHAM>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1513> <R_WILLIAM_CECIL>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1520>
+
+<P_225>
+
+{ED:227._TO_SIR_WILLIAM_CECIL,_SECRETARY_TO_THE_QUEEN,_7_MAY_1561}
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:BENTHAM_014:E1:1561:COPY:OTHER
+Right honorable , my dewtye well considered , as occasion ys presentlye
+offered , BENTHAM,225.014.115
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:BENTHAM_014:E1:1561:COPY:OTHER
+even so I am bolden , but with confidence of your gentilnes and hope of
+your furtheraunce , to desyre your godlye & ever redye helpyng hande in
+the sute of this messinger , Mr Simons , the vicare of St Michaels in
+Coventree . Who as he is greatlye charged with the arrerages of his
+vicaredge <paren> whitche as I can learne hitherto dyd onelye growe in
+the tyme of the late intrusor </paren> so sence his restitution made in
+the Quens Majesties visitation , he haithe sought occasions diversleye
+boethe to me and otherwyse to leave and gyve upp the saide vicaredge
+agayne , for that he is not able to paye the arrerages demaunded .
+Wherefore yf yt may please your honor to helpe the said vicare to a
+release thereof , as they shall appere by divers particularyties , you
+shall not onelye ease hym of a greate burden , but allso do a greate
+pleasure to the cytye of Coventree , and a singuler benefytt unto me ,
+whiche have greate nede of suche ministers in my hoole diocese
+BENTHAM,225.014.116
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:BENTHAM_014:E1:1561:COPY:OTHER
+for he ys learned , godly and sobre in his doyngs . BENTHAM,225.014.117
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:BENTHAM_014:E1:1561:COPY:OTHER
+Thus desyrynge your honors favorable furtheraunce in his cause , I
+commytt the same to your goodnes , and all your doyngs to the good wyll
+and favor of allmightye God , who ever kepe your honor in healthe to
+his pleasure BENTHAM,225.014.118
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:BENTHAM_014:E1:1561:COPY:OTHER
+this vii=th= day of May at my poore castell of Eccleshall .
+BENTHAM,225.014.119
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:41
+LETTER:BENTHAM_014:E1:1561:COPY:OTHER
+your honours at commaundement , BENTHAM,225.014.120
+
+<Q_BEN_C_1561_T_TBENTHAM> <L_BENTHAM_015> <A_THOMAS_BENTHAM>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1513> <R_PETER_MORWEYN>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_226>
+
+{ED:229._TO_PETER_MORWEYN,_CHAPLAIN,_AT_LONDON,_7_MAY_1561}
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:PETER_MORWEYN:MALE:_:_:_
+LETTER:BENTHAM_015:E1:1561:COPY:OTHER
+Commendynge me to you & your wyfe etc. thes ar to wyll you learne what
+my Lord of London doethe in his visitation , besydes his articles
+whiche you sent me . BENTHAM,226.015.121
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:PETER_MORWEYN:MALE:_:_:_
+LETTER:BENTHAM_015:E1:1561:COPY:OTHER
+I wold also have those articles or iniunctions and homelyes , whiche I
+heare saye ar sett forthe by my Lord of Cantorberyes .
+BENTHAM,226.015.122
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:PETER_MORWEYN:MALE:_:_:_
+LETTER:BENTHAM_015:E1:1561:COPY:OTHER
+And yf you can gett me the table of the degrees of mariedge I wold have
+yt . BENTHAM,226.015.123
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:PETER_MORWEYN:MALE:_:_:_
+LETTER:BENTHAM_015:E1:1561:COPY:OTHER
+What other thyngs you see to be nedefull for me to knowe , lett me
+understande by your letters from tyme to tyme , so longe as you shall
+tarrye there . BENTHAM,226.015.124
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:PETER_MORWEYN:MALE:_:_:_
+LETTER:BENTHAM_015:E1:1561:COPY:OTHER
+Speake to Mr Seres to gett me the Statuts of Kynge Edward , and also
+the statutes of Quene Marye well bounde severallye :
+BENTHAM,226.015.125
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:PETER_MORWEYN:MALE:_:_:_
+LETTER:BENTHAM_015:E1:1561:COPY:OTHER
+And at Michelmas he shall have money for theym and suche thyngs as I
+shall send for hereafter before that tyme . BENTHAM,226.015.126
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:PETER_MORWEYN:MALE:_:_:_
+LETTER:BENTHAM_015:E1:1561:COPY:OTHER
+Commend me to my brother Rauffe Egerton and to his wyfe . And to all
+other my freynds in Christ , who prosper all theyr doyngs ,
+BENTHAM,226.015.127
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:PETER_MORWEYN:MALE:_:_:_
+LETTER:BENTHAM_015:E1:1561:COPY:OTHER
+this vii of May at Eccleshall . BENTHAM,226.015.128
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:PETER_MORWEYN:MALE:_:_:_
+LETTER:BENTHAM_015:E1:1561:COPY:OTHER
+yours assuredlye , BENTHAM,226.015.129
+
+<Q_BEN_C_1561_T_TBENTHAM> <L_BENTHAM_016> <A_THOMAS_BENTHAM>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1513> <R_ELIZABETH_TUDOR>
+<R-GENDER_FEMALE> <R-REL_---> <R-DOB_1533>
+
+<P_227>
+
+{ED:230._TO_THE_QUEEN,_8_MAY_1561}
+
+AUTHOR:THOMAS_BENTHAM:MALE:_:1513:48
+RECIPIENT:ELIZABETH_TUDOR:FEMALE:_:1533:28
+LETTER:BENTHAM_016:E1:1561:COPY:OTHER
+In most humble wyse , shewethe and enformethe your most excellent
+majesti your poore orator and obedyent chaplayne , Thomas bysshope of
+Coventry & Lichefield , that where the vicaredge of St Michaell within
+your majesties citye of Coventry is charged and chargeable with the
+payment of certane arrerages of a certane pension , subsydies and
+tenthes dew to your maiestye in the tyme of certane intrusors there .
+And where also the nowe vicare beynge restored to the said vicaredge ,
+in your m {ED:ajesties} late visitation , beyng a lerned , godlye and
+discrete minister can not be able nor wyll contynu {ED:e} and take upon
+hym the charge of so greate a cure & ministerye and payment of suche
+$arrerages beynge daylye required and commaunded to pay the said
+arrerages of the said pencion , $subsydyes {TEXT:ssydyes} and tenthes
+and thereby moche trobled and disquieted . And where also the lyvyng of
+the said vicare ys of late also moche impered & decayed by reason of
+the decay $and impoveryshement of thinhabitants of the said citye .
+Whereby the said citye $shall $be {TEXT:shalbe} utterlye destitute of a
+godlye and lerned minister , especiallye of suche one as he ys , onles
+yt $wold please your most excellent majesty of your graces pytye and
+favor toward your said poore citye , beyng the cheyfe citye of all thes
+parties of your majesties realme , and for that there ys no other
+minister within the whole citye , and your majestie patrones of the
+said vicaredge and also the said vicaredg beyng the greatest cure of
+any one benefyce within my whole dioces , to pardon and remytt aswell
+the said arrerages as also the said yerelye pencion , yerelye dewe and
+payable out of the said vicaredge . As in the tyme of your ma
+{ED:jesties} late sisters reagne <P_228> Quene Marye , the late
+intrusors there should have had the said pencion , arrerages of
+subsydyes & tenthes upon the takynge upon theym the reall possession of
+the said vicaredge pardoned and remytted whereby your said orator and
+chaplayne and your said citizens and minister shall as of dewtye they
+ar most bownden pray to allmightye God for your ma {ED:jesties} most
+prosperous reagne longe to contynue etc . BENTHAM,228.016.130

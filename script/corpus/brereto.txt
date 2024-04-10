@@ -1,0 +1,2979 @@
+<B_BRERETO>
+
+<Q_BRE_D_1520S_T_JPULESTON> <L_BRERETO_001> <A_JOHN_PULESTON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_BRERETON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1490?>
+
+<P_71>
+
+{ED:L._2_JOHN_PULESTON_TO_WILLIAM_BRERETON}
+
+{ED:9_July_[1524-27]}
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_001:E1:1520S:UNKNOWN:OTHER
+Right worshippull and in my best maner I comaunde me vnto yow &c .
+BRERETO,71.001.1
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_001:E1:1520S:UNKNOWN:OTHER
+Sir , yt ys so that sence I came whome I haue grette busienes aboute
+thoffice of shirrifwicke of Caernarvonshire , BRERETO,71.001.2
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_001:E1:1520S:UNKNOWN:OTHER
+for John ap Madoc ap Howell , whiche ys deputye to Sir Hugh Vaghan ,
+doys impanelle theffes & wreches to yndite my seruantes and baillifes ,
+whiche were vnder me afore , without any grounde or cause but for evill
+will & malice ; BRERETO,71.001.3
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_001:E1:1520S:UNKNOWN:OTHER
+and I moste secke some remedye , BRERETO,71.001.4
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_001:E1:1520S:UNKNOWN:OTHER
+or elles they $shall $be {TEXT:shalbe} in grette trouble and costes to
+my shame and rebuke . BRERETO,71.001.5
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_001:E1:1520S:UNKNOWN:OTHER
+Therfor I wolde disire you , as euer I may do you any pleasure or
+seruice , that ye will take the pene as for to speke with Sir Hugh
+Vauhan and to make a bargen with hym for the sayd offuce , what soweuer
+yt coste , BRERETO,71.001.6
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_001:E1:1520S:UNKNOWN:OTHER
+and what soweuer bargen ye will make for hit I will performe it & pay
+the coste with all . BRERETO,71.001.7
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_001:E1:1520S:UNKNOWN:OTHER
+And if ye can not in no wise make a bargen with hym , then aske you the
+reuersion for your self affter hym of hit , BRERETO,71.001.8
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_001:E1:1520S:UNKNOWN:OTHER
+and if ye will not aske the reuersion for your self , I wolde disire
+you to fynde the meanse to asked {ED:for_DELETED} to me ,
+BRERETO,71.001.9
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_001:E1:1520S:UNKNOWN:OTHER
+& I will geue you xl markes for your pene . BRERETO,71.001.10
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_001:E1:1520S:UNKNOWN:OTHER
+Also I disire you to be so gude vnto me as to sende me awarrant for a
+bock at Denbigh in the parke of Moelewick . BRERETO,71.001.11
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_001:E1:1520S:UNKNOWN:OTHER
+Also I pray you to sende me your mynde whider I haue any nede to come
+down to waytte thus quarter or not , & whider the Kynge 's Grace will
+goo ouer to Calice thus yer or not . BRERETO,71.001.12
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_001:E1:1520S:UNKNOWN:OTHER
+And I pray you to sende me answere of all this letter with some trusty
+body , BRERETO,71.001.13
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_001:E1:1520S:UNKNOWN:OTHER
+for I shall thynke long tell I se some worde from you concerning this
+matteir . BRERETO,71.001.14
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_001:E1:1520S:UNKNOWN:OTHER
+And if ye thynke that I can do any gode for comyng downe my self
+concerning this matter , I pray you sende me worde BRERETO,71.001.15
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_001:E1:1520S:UNKNOWN:OTHER
+& I $will $be {TEXT:wilbe} with you <P_72> without any faile .
+BRERETO,72.001.16
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_001:E1:1520S:UNKNOWN:OTHER
+Yn all hast as knoth God , whome preserue you . BRERETO,72.001.17
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_001:E1:1520S:UNKNOWN:OTHER
+At Caernarvon , the ix day of July , BRERETO,72.001.18
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_001:E1:1520S:UNKNOWN:OTHER
+All $yours John Puleston , sergeant BRERETO,72.001.19
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_001:E1:1520S:UNKNOWN:OTHER
+{ED:ENDORSED} To the right worshippull Maister William Bruton of the
+Kynge 's Privey Chamber BRERETO,72.001.20
+
+<Q_BRE_D_1520S_T_WKNIGHT> <L_BRERETO_002> <A_WILLIAM_KNIGHT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1476> <R_WILLIAM_BRERETON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1490?>
+
+<P_72>
+
+{ED:L.3_WILLIAM_KNIGHT_TO_WILLIAM_BRERETON}
+
+{ED:29_June_[1525-28]}
+
+AUTHOR:WILLIAM_KNIGHT:MALE:_:1476:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_002:E1:1520S:UNKNOWN:OTHER
+Right wurshipfull , in moste herty manyer I recommend me vnto yow ;
+BRERETO,72.002.21
+
+AUTHOR:WILLIAM_KNIGHT:MALE:_:1476:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_002:E1:1520S:UNKNOWN:OTHER
+and so yt is that I entend to send a servunt of myne towardes Chestre
+apon Monday , BRERETO,72.002.22
+
+AUTHOR:WILLIAM_KNIGHT:MALE:_:1476:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_002:E1:1520S:UNKNOWN:OTHER
+and albe it that I do vnderstond by myne official that Sir Randolf a
+Brerton ys speciall good vnto me for my jurisdicton their , yet
+inasmuche as there ys lyke for to be beshinesse betwene me and the
+bushop for our jurisdicton , I hertile pray yow if ye be disposed to
+wrigte , to desyre , by $a speciall clawse in your lettre , the saide
+Sir Randolf to be good vnto me ; BRERETO,72.002.23
+
+AUTHOR:WILLIAM_KNIGHT:MALE:_:1476:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_002:E1:1520S:UNKNOWN:OTHER
+and yf ye commaunde me in a grett matier I shall suyrli do hit .
+BRERETO,72.002.24
+
+AUTHOR:WILLIAM_KNIGHT:MALE:_:1476:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_002:E1:1520S:UNKNOWN:OTHER
+Myne absence from the courte at this tyme is bye special commaundment
+of my Lord Legat , BRERETO,72.002.25
+
+AUTHOR:WILLIAM_KNIGHT:MALE:_:1476:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_002:E1:1520S:UNKNOWN:OTHER
+but I trust to se yow shortli , besekyng yow to make my moste herty
+recommendacons vnto Master Walshe $and hys compagnions ,
+BRERETO,72.002.26
+
+AUTHOR:WILLIAM_KNIGHT:MALE:_:1476:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_002:E1:1520S:UNKNOWN:OTHER
+and thus our Lorde Jehsus preserue yow . BRERETO,72.002.27
+
+AUTHOR:WILLIAM_KNIGHT:MALE:_:1476:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_002:E1:1520S:UNKNOWN:OTHER
+At London this xxix day of June , BRERETO,72.002.28
+
+AUTHOR:WILLIAM_KNIGHT:MALE:_:1476:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_002:E1:1520S:UNKNOWN:OTHER
+Assuredly at your commaundment , William Knighte BRERETO,72.002.29
+
+AUTHOR:WILLIAM_KNIGHT:MALE:_:1476:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_002:E1:1520S:UNKNOWN:OTHER
+{ED:ENDORSED} To the right worshipfull Master William a Brerton oon of
+the Kinge 's Preve Chambre BRERETO,72.002.30
+
+<Q_BRE_A_1526_T_RBRERETON> <L_BRERETO_003> <A_RANDOLPH_BRERETON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_BRERETON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1490?>
+
+<P_72>
+
+{ED:L._4_RANDOLPH_BRERETON_OF_CHESTER_TO_WILLIAM_BRERETON}
+
+{ED:23_May_[1526]}
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_003:E1:1526:AUTOGRAPH:OTHER
+Please it youre maistership , I sende youe by thes beirer copies of my
+maister $s patentes of Tableys' land . BRERETO,72.003.31
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_003:E1:1526:AUTOGRAPH:OTHER
+He hath oon vnder the seale of the Duchy BRERETO,72.003.32
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_003:E1:1526:AUTOGRAPH:OTHER
+and the other is vnder the greit seale . BRERETO,72.003.33
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_003:E1:1526:AUTOGRAPH:OTHER
+At London ye may enquere if ye make suerte whedder seale is more
+sufficient . BRERETO,72.003.34
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_003:E1:1526:AUTOGRAPH:OTHER
+The landes of Tableys ly within the lordship of Halton which is parcell
+of Duchie of Lancastre , BRERETO,72.003.35
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_003:E1:1526:AUTOGRAPH:OTHER
+and for that cause the graunte was opteyned vnder the seale of the
+Duchy &c . BRERETO,72.003.36
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_003:E1:1526:AUTOGRAPH:OTHER
+Also I sende youe the copiez of Shotwike consernyng the fee belongyng
+to the parker there , as ye shall perceyue by the same .
+BRERETO,72.003.37
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_003:E1:1526:AUTOGRAPH:OTHER
+And also I do sende youe youre patent of Aldeford and other .
+BRERETO,72.003.38
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_003:E1:1526:AUTOGRAPH:OTHER
+And howe men here be content therwith this beirer can shewe youe .
+BRERETO,72.003.39
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_003:E1:1526:AUTOGRAPH:OTHER
+Sir , I moste beseke youe to be good maister to me consernyng Robert
+John , and to helpe that I were at apoynt with hym as hastely as ye can
+. BRERETO,72.003.40
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_003:E1:1526:AUTOGRAPH:OTHER
+For Hugh Salesbury is ryden to London onely aboute the same matter
+BRERETO,72.003.41
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_003:E1:1526:AUTOGRAPH:OTHER
+and woll make all the labur he can for the same to hise son in lawe ,
+Runcorn , and cause my Lorde Cardynall $s officers to make labur to
+Robert John for the same . BRERETO,72.003.42
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_003:E1:1526:AUTOGRAPH:OTHER
+And also the officiall of Chestre , who is broder to the Quene 's amner
+, intendith by the help of hise broder to make labur ,
+BRERETO,72.003.43
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_003:E1:1526:AUTOGRAPH:OTHER
+and for the same intent <P_73> is riden to London . BRERETO,73.003.44
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_003:E1:1526:AUTOGRAPH:OTHER
+And therfore I eftsones beseke youe to make an ende if ye in any wise
+can . BRERETO,73.003.45
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_003:E1:1526:AUTOGRAPH:OTHER
+And suche bargan and promesse as ye make I shall seyh performed and
+kept . BRERETO,73.003.46
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_003:E1:1526:AUTOGRAPH:OTHER
+Sir , if ye intende to haue any men to awayte apon youe from Halton ,
+the soner ye sende the nowmbur and howe mony $shall $be {TEXT:shalbe}
+billes and howe mony bowes , it is the better . BRERETO,73.003.47
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_003:E1:1526:AUTOGRAPH:OTHER
+And suche servyce as I can do to the best of my power $shall $be
+{TEXT:shalbe} redy , God knoth , who preserue youe . BRERETO,73.003.48
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_003:E1:1526:AUTOGRAPH:OTHER
+Writtyn at Chestre the xxiij day of May , BRERETO,73.003.49
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_003:E1:1526:AUTOGRAPH:OTHER
+Youres to hise power , Rondulph Brereton of Chestre BRERETO,73.003.50
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_003:E1:1526:AUTOGRAPH:OTHER
+{ED:ENDORSED} To the right wurshipfull Maister Brereton , oon of the
+gromes of the Kynge 's Chamber BRERETO,73.003.51
+
+<Q_BRE_D_1526_T_RBRERETON> <L_BRERETO_004> <A_RANDOLPH_BRERETON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_BRERETON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1490?>
+
+<P_73>
+
+{ED:L._5_RANDOLPH_BRERETON_OF_CHESTER_TO_WILLIAM_BRERETON}
+
+{ED:25_Aug._[1526]}
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+Please it your maistership , the xxiij day of this August I receyued
+your letter by oon Robert Irneshagh BRERETO,73.004.52
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+and accordyng to the same I haue written to Maister Doctor Hulman , and
+sende hym copies inclosid in the said letter aswell of the office
+graunted to Brounwynde as to William Troutebek , whiche be bothe good ,
+and provyn what ffees belonge to the office of parker whiche is jd. by
+day , viij acres of lande and wyndefallyn wodde , as apperith by the
+said copies . BRERETO,73.004.53
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+And also I haue written to hym that all other parkers haue hadde like
+profettes as ye shall parceyve by my letter sende to hym , whiche I
+sende youe herin closed , not sealed , to thentent ye may loke apon the
+same ; BRERETO,73.004.54
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+and there {ED:RECTE_where} ye thynke it to be amendet , ye may
+accordyng to thentent of the same . BRERETO,73.004.55
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+Also I haue written to hym the grettist value that the agistament of
+the parke hathe bene answarid of , and also sende hym copies of the
+accomptes of the same , subscribed with my hande , wherby he may
+parceyve the truthe therof . BRERETO,73.004.56
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+And there is no patent graunted to no parker that hathe the herbage
+conteyned in hise graunte . BRERETO,73.004.57
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+Syr , in anywise get youre warraunt signet in all haste ,
+BRERETO,73.004.58
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+for Sir Rauff Eggerton is ridden apon Ffryday last passed to my Lady
+Prynces , BRERETO,73.004.59
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+and so will cumme vp with her , BRERETO,73.004.60
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+and intendith to make great labour for all hise officis and fermes to
+hym and hise sonne ioyntly if it coste hym a m=l= li , as it is me
+tolde . BRERETO,73.004.61
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+Howebeit he spekyth fayre and every day more gentely then other , I
+trust hym the worse . BRERETO,73.004.62
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+And therfore , prepare the best ye canne for remedy , aswell with the
+Kynge 's Grace as my Lorde Cardynall and suche other as ye thynke
+metist . BRERETO,73.004.63
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+And if ye may , as sone as ye can , move my Lady Prynces to be good to
+youe in suche offices and fermes as the Kyng hathe giffen to youe , and
+to move my Lorde of Exetour and other of her councell in the same , And
+also to cause Maister Knevet and other than haue any offices giffen
+theym of Maister Eggerton 's to make like labour . BRERETO,73.004.64
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+And as anendist warrauntes that cumme downe aswell from the Kyng as my
+Lady Prynces' counsell to be serued in Shotwike parke , let me knowe
+your pleasure . BRERETO,73.004.65
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+There is oon lately commyn fromme my Lady <P_74> Prynces for a bucke
+giffen to Maister Russell hir secretorie , which is not yet serued ,
+BRERETO,74.004.66
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+and whether it shall or not to sende me worde . And also howe other
+$shall $be {TEXT:shalbe} answared if they bryng any . BRERETO,74.004.67
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+If Maister Russell haue hise bycause he is secretorie to my Lady
+Prynces , in my mynde it is well done . BRERETO,74.004.68
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+I parceyue my Lady Prynces hathe by the Kynge 's placarde auctoritie to
+kyll or gyff dere at her pleasure in any fforest or parke within the
+rowmes that is appoynted to her , BRERETO,74.004.69
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+and therefore , if she make warrauntes hidder and they not serued ,
+displeasure will rise by the same , BRERETO,74.004.70
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+and for remedy thereof ye most make summe provision . BRERETO,74.004.71
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+And whether the parker that is nowe shall contynue or not , ye most
+sende me worde . BRERETO,74.004.72
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+And oneles there be other profettes then jd. by day , he ne non other
+wyll abyde . BRERETO,74.004.73
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+Maister Eggerton speikyth fayre nowe , BRERETO,74.004.74
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+and saith he is gladde that ye haue it . BRERETO,74.004.75
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+And the soner that ye moue hym for the occupacion of the viij acres of
+lande and howse with other profettes belongyng to the office , the
+better the Kyng and hise counsaill wyll consider that jd. by day is to
+litle for a man to lyue apon . BRERETO,74.004.76
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+Also , Sir , it is well done that ye shewe the copie of the letters
+patentes made to Brounwynde and all other lettres patentes made to all
+other parkers to your lerned counsell affore the commyng vp of Maister
+Eggerton , and haue theire counsell in the same and to knowe the truthe
+whether the viij acres of lande and wynde fallen wodde belonge vnto
+youe by reason of the parkership if ye haue your graunte therof in as
+large manor as the said Brownwynde or any other parson or parsons
+afforetyme hath hadde , after which maner in anywise obteyne your
+warraunt . BRERETO,74.004.77
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+Syr , the soner ye be at apoynt for the occupacion and profet of the
+viij acres of lande it is the better , bycause it is nowe soyn with
+corne , BRERETO,74.004.78
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+and the thridde sheffe therof shulde apperteyne vnto $you or your
+deputie as parker , like as other haue hadde it affore .
+BRERETO,74.004.79
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+When ye haue sene the letter whiche I sende vnto Maister Hulman and the
+copiez within the same , ye may seale it with your seale and cause oon
+to delyuer it in my name . BRERETO,74.004.80
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+I haue mervell that it was so longe or your letteres came to my handes
+. BRERETO,74.004.81
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+Sir , I most beseke youe to remember my matter concernyng Robert Johns
+, and to be good maister to me therin . BRERETO,74.004.82
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+Hugh Salisbury hathe distreyned the tenauntes for theire rentes
+BRERETO,74.004.83
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+and I haue done likewise , trustyng the said Robert Johns will kepe the
+last promise he made affore youe at Grenewiche . BRERETO,74.004.84
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+And that it wolde please youe to sende me your mynde in the same and
+howe I shall order me therin . BRERETO,74.004.85
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+I wolde not be put to rebuke in the matter if it lie in my power to
+remedie it for a hundreth markes . BRERETO,74.004.86
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+It may please youe to sende me worde by this beyrer if any warrauntes
+cumme to be serued in Shotwike parke what shall be done therin , and
+also of your mynde concernyng Robert Johns . BRERETO,74.004.87
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+I delyueryd this beyror for hise costes viij s , BRERETO,74.004.88
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+and also haue hired hym a horse , BRERETO,74.004.89
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+for I colde provide of non other messenger . BRERETO,74.004.90
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+And oure Lord euer preserue youe in good helthe . BRERETO,74.004.91
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+Written at Chester the xxv day of this August , BRERETO,74.004.92
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+Youres to the utterest of hise power , Randulph Brereton of Chester
+BRERETO,74.004.93
+
+<P_75>
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_004:E1:1526:UNKNOWN:OTHER
+{ED:ENDORSED} To my singler good Maister William Brereton , oon of the
+gromes of the Kynge 's Privey Chamber BRERETO,75.004.94
+
+<Q_BRE_D_1526_T_RBRERETON> <L_BRERETO_005> <A_RANDOLPH_BRERETON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_BRERETON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1490?>
+
+<P_75>
+
+{ED:L._6_RANDOLPH_BRERETON_OF_CHESTER_TO_WILLIAM_BRERETON}
+
+{ED:30_Sep._[1526]}
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_005:E1:1526:UNKNOWN:OTHER
+Pleise it youre maistership , I haue sende yow by my cosyn William
+Wodhale this beirer accordyng to youre lettre sende to me , vij li of
+your fees of the countroller , due to youe at Michelmas laste passed .
+BRERETO,75.005.95
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_005:E1:1526:UNKNOWN:OTHER
+And I delyuered to my cosyn Morgan , to youre vse , of the same fees lx
+s , whiche makyth your whole ffee due at Michelmas . BRERETO,75.005.96
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_005:E1:1526:UNKNOWN:OTHER
+Also , I haue sende youe by this seueral beirer , parcell of youre
+office at Northwyche , x li , whiche is more then as yet is made of the
+same , BRERETO,75.005.97
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_005:E1:1526:UNKNOWN:OTHER
+for sith I hadde medellyng therin , it was not so litle as it is like
+to be this yere ; BRERETO,75.005.98
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_005:E1:1526:UNKNOWN:OTHER
+the best that may be don $shall $be {TEXT:shalbe} . BRERETO,75.005.99
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_005:E1:1526:UNKNOWN:OTHER
+Sir , I wolde gladly here howe ye do consernyng the parke of Shotwyke
+and youre other fermes . BRERETO,75.005.100
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_005:E1:1526:UNKNOWN:OTHER
+Maister Eggertone 's ffrendes here do say that he wole opteyn to hise
+sonne all hise fermes and offices . Which I trust he shall not ,
+BRERETO,75.005.101
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_005:E1:1526:UNKNOWN:OTHER
+for if he shuld , I wolde ye hadde not medelt , BRERETO,75.005.102
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_005:E1:1526:UNKNOWN:OTHER
+and better it is , or he shuld so do , that ye spende therapon asmoche
+as ye may and as youre frendes could help youe , if it were a C li , or
+ij . BRERETO,75.005.103
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_005:E1:1526:UNKNOWN:OTHER
+And to writte to youe to gyff good attendaunce by youre selph and other
+of youre frendes aboute the Kyng , to thentent to haue knoleche what
+labur Master Eggerton makyth , I trust it nedyth not , and like wyse to
+my Lorde Cardynall . BRERETO,75.005.104
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_005:E1:1526:UNKNOWN:OTHER
+I wole right gladly here summe sertenty in the matter . Wherof I besech
+youe , by the next that commyth &c . BRERETO,75.005.105
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_005:E1:1526:UNKNOWN:OTHER
+The restreynt at Shotwyk for huntyng indures but oon yere .
+BRERETO,75.005.106
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_005:E1:1526:UNKNOWN:OTHER
+I haue sende youe an indenture bytwix Robert John and me accordyng to
+hise promyse made affore youe , BRERETO,75.005.107
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_005:E1:1526:UNKNOWN:OTHER
+and I haue sealed the oon parte thereof my selph , BRERETO,75.005.108
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_005:E1:1526:UNKNOWN:OTHER
+and beseke youe to be my good master therin , and that he seale the
+other , BRERETO,75.005.109
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_005:E1:1526:UNKNOWN:OTHER
+or elles it $will $be {TEXT:wolbe} to my no litle rebuke , consideryng
+the greit costes labur and busynes that I haue hadde in the same , and
+also youre greit paynes takyn therin . BRERETO,75.005.110
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_005:E1:1526:UNKNOWN:OTHER
+And oneles it be by your speciale help sure , I am to be put to rebuke
+, BRERETO,75.005.111
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_005:E1:1526:UNKNOWN:OTHER
+and therefore I moste hertly beseke youe to take the more paynes and
+labures , as my moste singler trust is ye wol do . BRERETO,75.005.112
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_005:E1:1526:UNKNOWN:OTHER
+And my seruyce to the vtterst of my power $shall $be {TEXT:shalbe} redy
+at your commaundement , as oure Lorde knoth , who euer preserue youe in
+helth . BRERETO,75.005.113
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_005:E1:1526:UNKNOWN:OTHER
+Writtyn at Chestr , the Sondey next after the ffeest of Seynt Michell ,
+BRERETO,75.005.114
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_005:E1:1526:UNKNOWN:OTHER
+Your owne , Randulph Brereton of Chestr . BRERETO,75.005.115
+
+AUTHOR:RANDOLPH_BRERETON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:36?
+LETTER:BRERETO_005:E1:1526:UNKNOWN:OTHER
+{ED:ENDORSED} To my singler good Maister William Brereton , oon of the
+gromes of the Kynge 's Privey Chaumber BRERETO,75.005.116
+
+<Q_BRE_D_1528_T_ESMYTTYNG> <L_BRERETO_006> <A_EDWARD_SMYTTYNG>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_BRERETON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1490?>
+
+<P_76>
+
+{ED:L._8_EDWARD_SMYTTYNG_TO_WILLIAM_BRERETON}
+
+{ED:3_Mar._[1528]}
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+Ryght worschypfull Syr , I hertely recommend me vnto you , ryght glayd
+to here that youre masterschyp ys yn gud helth . BRERETO,76.006.117
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+Syr , the cause of my wryttynge vnto you at thys tyme ys that I haue
+word from Harman , by Master Ottewell Worssley , that your mastershypp
+and Harman where a puentyd by my Lord Cardenall 's Grace vnto hys
+tresorer , that he schuld make anend wyt you fore the iiij pyces of
+cloth of arras . BRERETO,76.006.118
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+Syr , yf ytt so be that your mastershyp haue sold theym , I pray you to
+be so ghud master vnto me as fore to paye to thys berer , Raberth
+Woodwarth , the summa $of xl li , the which I do howe hym fore money
+that he hath lantt to me and payd fore me to odther men syn I came to
+Chester . BRERETO,76.006.119
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+And he had not hulpyn me yn my nede , I $could $not {TEXT:colnott} haue
+tarreyd yn thys contreye , BRERETO,76.006.120
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+fore syche god as I hadd I lafte yn kypynge with the faulse pryest and
+hys broder , as Good knowyth , BRERETO,76.006.121
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+and your mastershypp be myn ynstruccion . BRERETO,76.006.122
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+I tryst that you wyll be gud master vnto me that I maye haue ryght of
+them , BRERETO,76.006.123
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+and what that I haue promyseyd vnto you afore thym by my letters , I
+schaull performe by the grace of God . BRERETO,76.006.124
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+Syr , I haue delivered to the sayd Roberth a qwittans fore the xl li
+before wrytten , wyche ys seylyd and subscrybyd wyt myn owne hond ,
+BRERETO,76.006.125
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+and I pray you to take of hym a byll of my hand wryttyng wyche I mayd
+hym fore the peyment of the xl li , or yf he haue yt nott wyt hym , to
+take a qwyttans fore hyt so that I maye be dyschargytt fore the sayd
+paymenth . BRERETO,76.006.126
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+More ouer , I praye you to be so gud master vnto me as to delyuer vnto
+my frend Raberth Woodwarth , other xl li sterlyng which I have promysyd
+to lene hym by cause he hath byn so ghud frend vnto me and borne hys
+monye longe wyth me wyche I do know well hath byn to hys <P_77> grett
+hynderans , BRERETO,77.006.127
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+and thys I praye you to be my gud master so that he may haue ytt as
+ever I may dysserue hyt , BRERETO,77.006.128
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+and he shaull delyuer vnto you an odder qwyttans for thys xl li wyche
+ys scelyd and subscrybyd wyth myn owne hande , and also take a byll of
+hys hand for a dysscharg fore that peymenth . BRERETO,77.006.129
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+Syr , yf hyt so be that the clothys wyll nott be sold , I haue schowyd
+to my frend Raberth Woodward almy meynd . BRERETO,77.006.130
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+I pray you gyfe credens to hym to make the beste schyfte ye can for .
+BRERETO,77.006.131
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+And Raberd schuld nott haue hys monnye now , he wher schrotlye
+dysapwenttyd BRERETO,77.006.132
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+and I yn lycke cause cold nott tell of howm I shuld borrow monnye more
+of , as Good doys know . BRERETO,77.006.133
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+I tryste vnto your mastershypp that ye wull fynd the beste waye , one
+or other , BRERETO,77.006.134
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+and what so euer ye do there yn , I aem well contenth wyth all .
+BRERETO,77.006.135
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+I tryst Master Morghen Broughton wull do the beste yn lyke cause as he
+hays promysyd me ; BRERETO,77.006.136
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+as yett I haue hadd no worde from hym syn he whent to London .
+BRERETO,77.006.137
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+I tryste I shall haue gud tydynges from you and hym schortly by the
+grace of Good , howm euer preserue you . BRERETO,77.006.138
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+Wrytten at Schester , the iij day of Marche , BRERETO,77.006.139
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+By yours to hys littel power , Edward Smyttyng BRERETO,77.006.140
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_006:E1:1528:UNKNOWN:OTHER
+{ED:ENDORSED} The ryght worshyppful Master William Bretton , grome $of
+the Kynge 's moste honerabull $Pryuatt Chamber , thys by delyuerd
+BRERETO,77.006.141
+
+<Q_BRE_D_1528_T_ESMYTTYNG> <L_BRERETO_007> <A_EDWARD_SMYTTYNG>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_BRERETON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1490?>
+
+<P_77>
+
+{ED:L._9_EDWARD_SMYTTYNG_TO_WILLIAM_BRERETON}
+
+{ED:13_Apr._[1528]}
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_007:E1:1528:UNKNOWN:OTHER
+Ryght worschupfull Syr , after the duwyst maner that {after} I can I
+recommend me vnto you , euer thankyng your masterschipe fore your greth
+payne takyng yn my matters at all tymys . BRERETO,77.007.142
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_007:E1:1528:UNKNOWN:OTHER
+Sir , as I vnderstond by my frend Raberth Woodward , that ye $will $be
+{TEXT:wilbe} so gud master to me as to gett me the Kynge 's most
+honorable proteccion so that I maye com yp and sue my matters my selfe
+. Sir , I pray you assone as you haue obtenyd hytt to be so ghud master
+vnto me as to send hytt to Master Randoll Brereton BRERETO,77.007.143
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_007:E1:1528:UNKNOWN:OTHER
+and suche moneye as Raberd Woodward hath promysyd your masterschype he
+schaull putt Master Baron yn sewrtyse which schaull be sufycentt for
+the peymentt therof acordynge to your dyseyre . BRERETO,77.007.144
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_007:E1:1528:UNKNOWN:OTHER
+And yf hytt plese God that I may brynge my matters to a gud end , I
+schaull deserue your labure and peyn which you haue taken for me by the
+grace of Jeshu whom euer preserue you . BRERETO,77.007.145
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_007:E1:1528:UNKNOWN:OTHER
+Att Chester the xiij day of Apell , BRERETO,77.007.146
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_007:E1:1528:UNKNOWN:OTHER
+Yours to hys littel pouwer , Edward Smyttyng BRERETO,77.007.147
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_007:E1:1528:UNKNOWN:OTHER
+Syr , att the makyng herof , Master Randoll Breretton was att the
+Mawlpas wyth my master yowre fader , BRERETO,77.007.148
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_007:E1:1528:UNKNOWN:OTHER
+or ells he wold haue send yow a letter consernyng thys matter , prayng
+you to lett Harmen haue knowleg how yow sped of thys proteccion ,
+BRERETO,77.007.149
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_007:E1:1528:UNKNOWN:OTHER
+and he will send me word of the same , BRERETO,77.007.150
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_007:E1:1528:UNKNOWN:OTHER
+and thys Jeshu preserue your masterschipe BRERETO,77.007.151
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_007:E1:1528:UNKNOWN:OTHER
+{ED:ENDORSED} To the right worshipfull and my singler good maister ,
+Mayster William Brereton , this be delyueryd BRERETO,77.007.152
+
+<Q_BRE_D_1528_T_ESMYTTYNG> <L_BRERETO_008> <A_EDWARD_SMYTTYNG>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_BRERETON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1490?>
+
+<P_78>
+
+{ED:L._10_EDWARD_SMYTTYNG_TO_WILLIAM_BRERETON}
+
+{ED:28_June_[1528]}
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_008:E1:1528:UNKNOWN:OTHER
+Ryght worshipfull Sir , I recommende me vnto you BRERETO,78.008.153
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_008:E1:1528:UNKNOWN:OTHER
+and desire & pray you to be good maister vnto me anempst the sale of my
+clothes of arres , so that I may haue money for theym as shortely as ye
+can . BRERETO,78.008.154
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_008:E1:1528:UNKNOWN:OTHER
+I perceyue by your writynge that ye sende to me hertofore , that ye can
+not make of theym asmoche money as they cost me , and as they be well
+worth if a nother man hadde theym . BRERETO,78.008.155
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_008:E1:1528:UNKNOWN:OTHER
+The same clothes cost me at the first byenge aboue iiij li vj s viij d
+sterlynge euery Flemysshe stikke . BRERETO,78.008.156
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_008:E1:1528:UNKNOWN:OTHER
+Howe be it , nowe in my necessitie and gret nede I most take lesse for
+theym then I wold if I were not in gret nede as I am . Wherin I moste
+beseke you to do the best ye can {ED:therin_DELETED} as my singler
+trust is in your maystership . BRERETO,78.008.157
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_008:E1:1528:UNKNOWN:OTHER
+Sir , howe so euer I do , I shall desire you that ye make no sale of
+theym vnder iiij li sterlynge a Flymysshe stikke , BRERETO,78.008.158
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_008:E1:1528:UNKNOWN:OTHER
+for if I shuld sell theym vnder that price I shuld be to gret a loser ,
+as knoweth God , who euer gide you . BRERETO,78.008.159
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_008:E1:1528:UNKNOWN:OTHER
+Written at Chester in hast the xxviij day of June , BRERETO,78.008.160
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_008:E1:1528:UNKNOWN:OTHER
+Yours to his litle power , Edward Smyttynge BRERETO,78.008.161
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_008:E1:1528:UNKNOWN:OTHER
+{ED:ENDORSED} To the right worshipfull Maister William Brereton , grome
+of the Kynge 's Privey Chamber BRERETO,78.008.162
+
+<Q_BRE_D_1528_T_ESMYTTYNG> <L_BRERETO_009> <A_EDWARD_SMYTTYNG>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_BRERETON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1490?>
+
+<P_78>
+
+{ED:L._11_EDWARD_SMYTTYNG_TO_WILLIAM_BRERETON}
+
+{ED:Jul._to_Nov._1528}
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_009:E1:1528:UNKNOWN:OTHER
+Right worshipfull Sir , my duetie considered , in mooste humble maner I
+haue me recommended vnto your mastershipp ; BRERETO,78.009.163
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_009:E1:1528:UNKNOWN:OTHER
+and where this berer hath enfourmed me that your mastershipp hath
+shewed my clothes of aryas to the Kyng and that his Grace is not
+willing to geve iij li x s for the stike , Sir , so it is that I doo
+susteigne mervaillous greate losse in them ; BRERETO,78.009.164
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_009:E1:1528:UNKNOWN:OTHER
+notwithstanding , in the contentation of my creditours and that I wold
+be looth to carye them oute of this realme agayn , I am contentid that
+his Grace shall haue them for fyve markes the styke ,
+BRERETO,78.009.165
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_009:E1:1528:UNKNOWN:OTHER
+and so I ensure your mastershipp that I shall lease a C li in them or
+moore . And if his Grace be not mynded to haue them , that than I trust
+his Grace $will $be {TEXT:wilbe} contentid that I shall carye them oute
+of this realme according to his lettres of licence which I haue for the
+same , BRERETO,78.009.166
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_009:E1:1528:UNKNOWN:OTHER
+and this almyghtie Jehsus kepe you . BRERETO,78.009.167
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_009:E1:1528:UNKNOWN:OTHER
+At Westminster , By your poore beedman , Edwarde Smyttyng
+BRERETO,78.009.168
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_009:E1:1528:UNKNOWN:OTHER
+{ED:ENDORSED} To the worshipfull and his singler good master , Maister
+William Brereton be this delivered BRERETO,78.009.169
+
+<Q_BRE_D_1528_T_ESMYTTYNG> <L_BRERETO_010> <A_EDWARD_SMYTTYNG>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_BRERETON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1490?>
+
+<P_78>
+
+{ED:L._12_EDWARD_SMYTTYNG_TO_WILLIAM_BRERETON}
+
+{ED:Jul._to_Nov._1528}
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_010:E1:1528:UNKNOWN:OTHER
+Right worshipfull Sir , my duetie considered in mooste {ED:TEAR} maner
+I haue me recommended vnto you ; BRERETO,78.010.170
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_010:E1:1528:UNKNOWN:OTHER
+and so it is <em> that I am </em> enformed by my <P_79> frende Robert
+Woodward , this bringer , that your maistershipp hath made shewe to the
+Kinge 's Highnes of my clothes of aryas , and that it pleasith not his
+Highnes to take them at suche price as I sent enformation to your
+mastershipp ; at the which price that I haue sett them to you at by my
+former lettres , I doo ensure you that I shulde lease C markes or moore
+. BRERETO,79.010.171
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_010:E1:1528:UNKNOWN:OTHER
+Notwithstanding , considering the thraldome that I am in and not able
+to endure the same , I am contentid that his Grace shall haue them at
+iij li vj s viij d the stycke - so that the iiij th pece which resteth
+in the preste 's handes maye be also called in , and that I may receive
+my money togethers for them all . BRERETO,79.010.172
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_010:E1:1528:UNKNOWN:OTHER
+And yff not , I muste nedes carye them oute of this realme which thing
+to doo I wold be right sorye . BRERETO,79.010.173
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_010:E1:1528:UNKNOWN:OTHER
+Howe be it , I trust his Grace $will $be {TEXT:wilbe} contentid that I
+shall soo doo according to his Grace 's license which I haue for the
+same , BRERETO,79.010.174
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_010:E1:1528:UNKNOWN:OTHER
+and this I $wil $beseche {TEXT:wilbeseche} you to have me in your
+remembraunce according as I haue written to you heretofore ;
+BRERETO,79.010.175
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_010:E1:1528:UNKNOWN:OTHER
+and this Jehus kepe you . BRERETO,79.010.176
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_010:E1:1528:UNKNOWN:OTHER
+In Westminster , By your poore beedman , Edwarde Smyttyng
+BRERETO,79.010.177
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_010:E1:1528:UNKNOWN:OTHER
+{ED:ENDORSED} To the worshipfull and his singler good master , Maister
+William Brereton be this delivered BRERETO,79.010.178
+
+<Q_BRE_D_1528_T_JPULESTON> <L_BRERETO_011> <A_JOHN_PULESTON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_BRERETON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1490?>
+
+<P_79>
+
+{ED:L._13_JOHN_PULESTON_TO_WILLIAM_BRERETON}
+
+{ED:21_Oct._[1528]}
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_011:E1:1528:UNKNOWN:OTHER
+Right worshippull Syr , and in the best maner {in} I can I comaunde me
+vnto you , & so certifing you that I haue kept courtes in
+Meryonethshire & haue beyn there iij wickes togedyr ;
+BRERETO,79.011.179
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_011:E1:1528:UNKNOWN:OTHER
+& I haue attachid & brought in to warde lxiiij persones , some to the
+castell of Harthlech and some to Caernarvon , of them that were of
+evill demenour , BRERETO,79.011.180
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_011:E1:1528:UNKNOWN:OTHER
+& the most parte of them leyn indited of feloney , as well afore me at
+the last courtes as afore the Justice &c . BRERETO,79.011.181
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_011:E1:1528:UNKNOWN:OTHER
+And I trust yf the Justice will loke to ponische them according to
+their demenour & for the comyng welth of the counrtre , I dout not but
+I will make rest & peace within the shire of Meryoneth .
+BRERETO,79.011.182
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_011:E1:1528:UNKNOWN:OTHER
+How be it , the lordeshippise of Powis & Keveiliok {ED:Cyfeiliog} beyn
+adyoyng to Meryoneth shire , BRERETO,79.011.183
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_011:E1:1528:UNKNOWN:OTHER
+& ther standes dayly xxiiij owtlaws & rebellious , or more ,
+BRERETO,79.011.184
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_011:E1:1528:UNKNOWN:OTHER
+& yf ye fynde the meanse to haue the Kynge 's lettere to the Princesse'
+counsaill , considering the premysses aboue rehersed , to bynde the
+offyceris of the lordeshippis of Powis & Keveiliok to do their dutyes
+so that the shire of Meryoneth may haue rest of them , I will vnder
+take to make restitution for euery penniorthe of godes that $shall $be
+{TEXT:shalbe} lost within Meryoneth shire , to your grett honour & to
+the comyn welth of the contre &c . BRERETO,79.011.185
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_011:E1:1528:UNKNOWN:OTHER
+Item , as concernyng your office of exchetourshipp , there was no body
+for you , BRERETO,79.011.186
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_011:E1:1528:UNKNOWN:OTHER
+therfor I have retorned questes at the last courtes to take posession
+in your name BRERETO,79.011.187
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_011:E1:1528:UNKNOWN:OTHER
+& if it wold please you from hensse fourth that afreynde of myne may
+haue hit , I trust ye $shall $be {TEXT:shalbe} as well ansored as of
+hym that was afor , BRERETO,79.011.188
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_011:E1:1528:UNKNOWN:OTHER
+& it were mete that the said offices shulde be togedyr .
+BRERETO,79.011.189
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_011:E1:1528:UNKNOWN:OTHER
+Syr , I trust to do to the Kynge & you as gode service as hit lieth in
+my power , as knoth God , whome preserue you in honor .
+BRERETO,79.011.190
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_011:E1:1528:UNKNOWN:OTHER
+Writtyn at Caernarvon the xxj day of October , BRERETO,79.011.191
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_011:E1:1528:UNKNOWN:OTHER
+Yours to his litle power , John Puleston , sergeant BRERETO,79.011.192
+
+<P_80>
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_011:E1:1528:UNKNOWN:OTHER
+{ED:ENDORSED} To the right worshippull Master William Brereton , squier
+, Cheiff Sherrif of Meryoneth shire BRERETO,80.011.193
+
+<Q_BRE_D_1528_T_JPULESTON> <L_BRERETO_012> <A_JOHN_PULESTON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_BRERETON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1490?>
+
+<P_80>
+
+{ED:L._14_JOHN_PULESTON_TO_WILLIAM_BRERETON}
+
+{ED:12_Nov._[1528]}
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_012:E1:1528:UNKNOWN:OTHER
+Right worshippull Syr , and in the best maner I comaunde me vnto you ,
+disiryng to here of your welfare &c . BRERETO,80.012.194
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_012:E1:1528:UNKNOWN:OTHER
+Syr , at my frust coming to exersie your office of shereffwick of
+Meryoneth shire , they countye was neuer so fer out of fram
+BRERETO,80.012.195
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_012:E1:1528:UNKNOWN:OTHER
+and dyuerse complayntes hath beyn made to my Lady Princesse' counsaill
+for the reformacion of the same , BRERETO,80.012.196
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_012:E1:1528:UNKNOWN:OTHER
+and the gentlemen of the said countye were the maynteneres &
+conferteres of the same misdoeres . BRERETO,80.012.197
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_012:E1:1528:UNKNOWN:OTHER
+And I haue founde the meannce for to bryng yn vj or vij of the most
+haynous theffes in the sayd countye & so sopported by dyuerse gentlemen
+, BRERETO,80.012.198
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_012:E1:1528:UNKNOWN:OTHER
+and I haue put iiij of them to exeoition of hongyng .
+BRERETO,80.012.199
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_012:E1:1528:UNKNOWN:OTHER
+Albeit , I haue not only by reason therof lost the love of the
+gentlemen of the said countye of Meryoneth for due exeoition of the
+premysses , but also sustenyd some charge & expenses at all ,
+BRERETO,80.012.200
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_012:E1:1528:UNKNOWN:OTHER
+and I trust yn God to ordre the sayd countye to your worshippe &
+quietnes of the Kynge 's subiectes ther , as well as any plas in Walles
+, so that suche remedy may be hadde ayeinst the mysdeyeres of the
+lordeshippe of Powis landes as $shall $be {TEXT:shalbe} convenient by
+the Kynge 's lawe . BRERETO,80.012.201
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_012:E1:1528:UNKNOWN:OTHER
+Item , as concernyng your office of exchetourship of Meryoneth shire ,
+I haue put oon to occupie it , by reason ther was no body for you at
+the seid tyme . BRERETO,80.012.202
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_012:E1:1528:UNKNOWN:OTHER
+Therfor , yf yt wold please you from hense forthe that a frynde of myn
+may haue hyt , I will answere as well of hyt as of that oder office .
+BRERETO,80.012.203
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_012:E1:1528:UNKNOWN:OTHER
+Item , all other thynges thus berer cane shew you by mouthe , to whom I
+pray you to geue credens . BRERETO,80.012.204
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_012:E1:1528:UNKNOWN:OTHER
+And thus our Lorde preserue you . BRERETO,80.012.205
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_012:E1:1528:UNKNOWN:OTHER
+At Caernarvon the xij day of November , BRERETO,80.012.206
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_012:E1:1528:UNKNOWN:OTHER
+Youres to his litle power , John Puleston , constable of Caernarvon
+BRERETO,80.012.207
+
+AUTHOR:JOHN_PULESTON:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_012:E1:1528:UNKNOWN:OTHER
+{ED:ENDORSED} To the right worshippull Master William Brerton squier ,
+Hie Stuarde of the Hollt BRERETO,80.012.208
+
+<Q_BRE_D_1528_FS_RLEFTWICH> <L_BRERETO_013> <A_RICHARD_LEFTWICH>
+<A-GENDER_MALE> <A-REL_FAMILY_SERVANT> <A-DOB_---> <R_WILLIAM_BRERETON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1490?>
+
+<P_80>
+
+{ED:L.15_RICHARD_LEFTWICH_TO_WILLIAM_BRERETON}
+
+{ED:13_Nov._[1528]}
+
+AUTHOR:RICHARD_LEFTWICH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_013:E1:1528:UNKNOWN:FAMILY_SERVANT
+Please it youre maistership , I haue delyuered youre seruaunt John
+Norbury Cvs xjd ob whiche is allowed to you at thiis accomptes for
+youre fee of exchetare , with v s for parchement , also xl s for youre
+fee of the office of Master Aston , whiche is all the summes of money
+that I haue receyved to your vse . BRERETO,80.013.209
+
+AUTHOR:RICHARD_LEFTWICH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_013:E1:1528:UNKNOWN:FAMILY_SERVANT
+I hertely praye you that I may haue youre quytaunce .
+BRERETO,80.013.210
+
+AUTHOR:RICHARD_LEFTWICH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_013:E1:1528:UNKNOWN:FAMILY_SERVANT
+I haue shewed youre maistership whot I hade of my olde maister , whose
+soule God pardon . BRERETO,80.013.211
+
+AUTHOR:RICHARD_LEFTWICH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_013:E1:1528:UNKNOWN:FAMILY_SERVANT
+I hertely praye youre maistership to lette me knowe youre pleasure
+therin by my seruant whom shall resorte to you for the same .
+BRERETO,80.013.212
+
+AUTHOR:RICHARD_LEFTWICH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_013:E1:1528:UNKNOWN:FAMILY_SERVANT
+I haue done the best that I colde in the office of Master Sauage ,
+BRERETO,80.013.213
+
+AUTHOR:RICHARD_LEFTWICH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_013:E1:1528:UNKNOWN:FAMILY_SERVANT
+and also I haue giffen my poure mynde to Master Brereton howe me semeth
+<P_81> is to be done forther therin for the preferment of youre entent
+, as by the instrucions will appere . BRERETO,81.013.214
+
+AUTHOR:RICHARD_LEFTWICH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_013:E1:1528:UNKNOWN:FAMILY_SERVANT
+I hertely praye you that ye will be my good maister concernynge my
+baillywike of Shibbroke , BRERETO,81.013.215
+
+AUTHOR:RICHARD_LEFTWICH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_013:E1:1528:UNKNOWN:FAMILY_SERVANT
+the great substaunce of woddes be in the same , BRERETO,81.013.216
+
+AUTHOR:RICHARD_LEFTWICH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_013:E1:1528:UNKNOWN:FAMILY_SERVANT
+and that I may occupye vnder you therin . BRERETO,81.013.217
+
+AUTHOR:RICHARD_LEFTWICH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_013:E1:1528:UNKNOWN:FAMILY_SERVANT
+My singler truste is that ye will be my good maister .
+BRERETO,81.013.218
+
+AUTHOR:RICHARD_LEFTWICH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_013:E1:1528:UNKNOWN:FAMILY_SERVANT
+I doute howe my Lorde Cardynalle 's Grace will accepte the fyndyng of
+Dutton 's londes ; BRERETO,81.013.219
+
+AUTHOR:RICHARD_LEFTWICH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_013:E1:1528:UNKNOWN:FAMILY_SERVANT
+it is misedone , BRERETO,81.013.220
+
+AUTHOR:RICHARD_LEFTWICH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_013:E1:1528:UNKNOWN:FAMILY_SERVANT
+ye loke therunto , consideryng his decre . BRERETO,81.013.221
+
+AUTHOR:RICHARD_LEFTWICH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_013:E1:1528:UNKNOWN:FAMILY_SERVANT
+I shall serue you as truly as I can to my litle power , as knoweth oure
+Lorde who euer preserue you . BRERETO,81.013.222
+
+AUTHOR:RICHARD_LEFTWICH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_013:E1:1528:UNKNOWN:FAMILY_SERVANT
+At Chestr in haste , the xiij day of Nouember ; BRERETO,81.013.223
+
+AUTHOR:RICHARD_LEFTWICH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_013:E1:1528:UNKNOWN:FAMILY_SERVANT
+My Lady Sauage will demande for her dower the seconde manor with the
+iij parte landes & woddes , accordynge to the comyn lawe .
+BRERETO,81.013.224
+
+AUTHOR:RICHARD_LEFTWICH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_013:E1:1528:UNKNOWN:FAMILY_SERVANT
+I wolde be gladde to knowe youre determyned pleasure therin .
+BRERETO,81.013.225
+
+AUTHOR:RICHARD_LEFTWICH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_013:E1:1528:UNKNOWN:FAMILY_SERVANT
+Youre serunt my fellowe can shewe whot payne is in youre office .
+BRERETO,81.013.226
+
+AUTHOR:RICHARD_LEFTWICH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_013:E1:1528:UNKNOWN:FAMILY_SERVANT
+I haue receyved noo peny of youre accomptes as yet . BRERETO,81.013.227
+
+AUTHOR:RICHARD_LEFTWICH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_013:E1:1528:UNKNOWN:FAMILY_SERVANT
+Youre seruaunt , Richard Leftwiche BRERETO,81.013.228
+
+AUTHOR:RICHARD_LEFTWICH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_013:E1:1528:UNKNOWN:FAMILY_SERVANT
+I haue paye to Master Auditores for theire chekker fees xiij s iiij d
+Item , to theire clerkes xx d oute of youre saide fees whiche I haue
+receyved of youre saide servaunt John Norbury as parcell of youre fees
+byforsaide . BRERETO,81.013.229
+
+AUTHOR:RICHARD_LEFTWICH:MALE:FAMILY_SERVANT:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_013:E1:1528:UNKNOWN:FAMILY_SERVANT
+{ED:ENDORSED} To my maister William Brereton esquier BRERETO,81.013.230
+
+{COM:BILL_OMITTED}
+
+<Q_BRE_D_1528_T_ESMYTTYNG> <L_BRERETO_014> <A_EDWARD_SMYTTYNG>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_BRERETON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1490?>
+
+<P_81>
+
+{ED:L._16_EDWARD_SMYTTYNG_TO_WILLIAM_BRERETON}
+
+{ED:28_Nov._[1528]}
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_014:E1:1528:UNKNOWN:OTHER
+Right worshipfull Sir , and my singuler good maister , my duetie
+considered in mooste humeble maner I haue me recommended vnto you .
+BRERETO,81.014.231
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_014:E1:1528:UNKNOWN:OTHER
+And where hereof late my speciall frende Harman Hulseman hath crediblye
+enformed me that your maistershipp is good master vnto me in the
+labouring for my protection , Sir , I wolde beseche your maistershipp
+to be soo good maister vnto me as for to make all the diligent spede
+that maye be BRERETO,81.014.232
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_014:E1:1528:UNKNOWN:OTHER
+and there is noo bargayn nor promyse that my said frende hath made but
+yt $shall $be {TEXT:shalbe} accomplysshed to the vttermoste .
+BRERETO,81.014.233
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_014:E1:1528:UNKNOWN:OTHER
+And so it is , Sir , that your maistershipp hath certeyn billes
+remaynyng yett in your handes concernyng the preeste and his brother ,
+the which I wolde beseche your mastershipp that your servaunt maye
+looke oute in the place where the other writinges wer and that they
+maye be deliuered to this bringer , BRERETO,81.014.234
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_014:E1:1528:UNKNOWN:OTHER
+for yff I had them , I doubte not but that I shall haue some recouerey
+of them shortly , beseching your mastershipp that this maye be doone
+and my other busynes may remayn <P_82> in your remembraunce .
+BRERETO,82.014.235
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_014:E1:1528:UNKNOWN:OTHER
+And you shall bynde me dayly to praye to God to sende you encrease of
+welth with honor . BRERETO,82.014.236
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_014:E1:1528:UNKNOWN:OTHER
+In Westminster the xxvjij daye of Novembre , BRERETO,82.014.237
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_014:E1:1528:UNKNOWN:OTHER
+By your faithfull and poore beedman , Edwarde Smyttyng
+BRERETO,82.014.238
+
+AUTHOR:EDWARD_SMYTTYNG:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:38?
+LETTER:BRERETO_014:E1:1528:UNKNOWN:OTHER
+{ED:ENDORSED} To the worshipfull and his singuler good maister , Master
+William Brereton oone of the gromes of the Kinge 's Prevye Chambre be
+this delivered BRERETO,82.014.239
+
+<Q_BRE_D_1529_T_WPOLE> <L_BRERETO_015> <A_WILLIAM_POLE> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_WILLIAM_BRERETON> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1490?>
+
+<P_83>
+
+{ED:L._20_WILLIAM_POLE_TO_WILLIAM_BRERETON}
+
+{ED:27_Mar._[1529]}
+
+AUTHOR:WILLIAM_POLE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:39?
+LETTER:BRERETO_015:E1:1529:UNKNOWN:OTHER
+Ryght worshipfull Sir , in my most humblist manner I commaund me vnto
+you . BRERETO,83.015.240
+
+AUTHOR:WILLIAM_POLE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:39?
+LETTER:BRERETO_015:E1:1529:UNKNOWN:OTHER
+And where of late of your office of Shotwyke ye wrote vnto me
+concernyng such ordour as was takyn bitwixt you and my cosin Egerton ,
+Sir , in that and in any other thyng that may lie in me to do , $shall
+$be {TEXT:shalbe} allwayes redy vnto you to my litill power .
+BRERETO,83.015.241
+
+AUTHOR:WILLIAM_POLE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:39?
+LETTER:BRERETO_015:E1:1529:UNKNOWN:OTHER
+Sir , I haue ben somewhat trowblid with cold that I dyrst not be so
+bold as to gowe abrowde oute of any howse for the season .
+BRERETO,83.015.242
+
+AUTHOR:WILLIAM_POLE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:39?
+LETTER:BRERETO_015:E1:1529:UNKNOWN:OTHER
+Sir , now I trust I shall do the best therin that shall lie in me and
+that ye $shall $be {TEXT:shalbe} content with all . BRERETO,83.015.243
+
+AUTHOR:WILLIAM_POLE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:39?
+LETTER:BRERETO_015:E1:1529:UNKNOWN:OTHER
+Sir , ther is a kynysman of myn , James <P_84> Ketill , the which wold
+be glad to haue seruice . BRERETO,84.015.244
+
+AUTHOR:WILLIAM_POLE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:39?
+LETTER:BRERETO_015:E1:1529:UNKNOWN:OTHER
+Sir , I thynk ye do know howe his father and he ben trowblid with
+Robert Huxley , Sir Pers Duttonne 's seruant contrary to ryght and gud
+conscience as I do take it . BRERETO,84.015.245
+
+AUTHOR:WILLIAM_POLE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:39?
+LETTER:BRERETO_015:E1:1529:UNKNOWN:OTHER
+For both Master Salter , Master Bromley and I haue sytton by too
+diuerse commyssions , BRERETO,84.015.246
+
+AUTHOR:WILLIAM_POLE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:39?
+LETTER:BRERETO_015:E1:1529:UNKNOWN:OTHER
+and we coulth neuer prove but the right tytill restyth in John Kettill
+. Wherefor my {ED:Cosin_DELETED} vere trust is in you , that ye wile
+helpe hym to such a master that he may be the rather borne in his
+matter of right , BRERETO,84.015.247
+
+AUTHOR:WILLIAM_POLE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:39?
+LETTER:BRERETO_015:E1:1529:UNKNOWN:OTHER
+for his fader and he beryth Master Chamberleyn all theyre gud wile and
+seruice that may lie in theyre pore power . BRERETO,84.015.248
+
+AUTHOR:WILLIAM_POLE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:39?
+LETTER:BRERETO_015:E1:1529:UNKNOWN:OTHER
+Also I pray you commaund me vnto myne old bedfelow Master Radclyff ,
+BRERETO,84.015.249
+
+AUTHOR:WILLIAM_POLE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:39?
+LETTER:BRERETO_015:E1:1529:UNKNOWN:OTHER
+and thus our Lord preserue you . BRERETO,84.015.250
+
+AUTHOR:WILLIAM_POLE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:39?
+LETTER:BRERETO_015:E1:1529:UNKNOWN:OTHER
+At Pole in vigilia dominicam sanctem , By youre asuret cosyn , William
+Pole kt . BRERETO,84.015.251
+
+AUTHOR:WILLIAM_POLE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:39?
+LETTER:BRERETO_015:E1:1529:UNKNOWN:OTHER
+{ED:ENDORSED} To the right worshipfull Master Stuart of the Holt this
+be deliueret BRERETO,84.015.252
+
+<Q_BRE_B_1530S_T_RACURS> <L_BRERETO_016> <A_ROBERT_ACURS>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_BRERETON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1490?>
+
+<P_84>
+
+{ED:L._21_ROBERT_ACURS_TO_WILLIAM_BRERETON}
+
+{ED:19_Dec._[1529-35]}
+
+AUTHOR:ROBERT_ACURS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_016:E1:1530S:AUTOGRAPH:OTHER
+Worschypfull Master Brerertone , yn my vmlyst manner with my dewte done
+I vmly recomend me vnto yore masterchyp . BRERETO,84.016.253
+
+AUTHOR:ROBERT_ACURS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_016:E1:1530S:AUTOGRAPH:OTHER
+Pleysyth you to vnderstand , that of late Master Kneuete sendes to me
+for xx li , lyke as yore masterchyp schall perseyue by hys letter
+closyd here with yn . BRERETO,84.016.254
+
+AUTHOR:ROBERT_ACURS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_016:E1:1530S:AUTOGRAPH:OTHER
+Sir , yt ys soo that vj dayys afore that letter came to me I had buryyd
+my bedfelow , whose soll I pray Jehsu pardon , whereof I haue as greyte
+a losse & discomforth as any man may haue of my degree , & not only the
+losse of hyr , but also greyte costes & carges that I haue takyn and
+susteynyd other wyse , yn somych that I had noo reyde mone at that tyme
+. BRERETO,84.016.255
+
+AUTHOR:ROBERT_ACURS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_016:E1:1530S:AUTOGRAPH:OTHER
+Bot , not with standyng , I haue delyueryd to my brother Hare vj li
+xiij s iiij d for hym , BRERETO,84.016.256
+
+AUTHOR:ROBERT_ACURS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_016:E1:1530S:AUTOGRAPH:OTHER
+& yffe that yt wold pleyse yore masterchyp to be soo good master to me
+as to bee at the delyuerauns thereof & to see sych sewrete for me yn
+that be halfe as you schall thynke best . Sir , I doo not only perseyue
+yore kyndnes schewyd to me as yt aperyth by Master Kneuette 's letter ,
+bot also by the reporte of dyuers of my frendes that you be my syngler
+and espessyall good master yn that behalfe , yn soo mych that you haue
+bondon my pore favur & good wyll to be at yore comondement the days of
+my lyffe , BRERETO,84.016.257
+
+AUTHOR:ROBERT_ACURS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_016:E1:1530S:AUTOGRAPH:OTHER
+& yff that yt wold pleyse you to commonde me to do som pleyseur ar
+seruys to any of yore frendes , that wold be to me greyte comforth ,
+BRERETO,84.016.258
+
+AUTHOR:ROBERT_ACURS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_016:E1:1530S:AUTOGRAPH:OTHER
+& then I myght be the more bolder to call vppon yore masterchypp at my
+nedes ; BRERETO,84.016.259
+
+AUTHOR:ROBERT_ACURS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_016:E1:1530S:AUTOGRAPH:OTHER
+& loke wat poyntment that you make with Master Kneuete on my behalfe ,
+BRERETO,84.016.260
+
+AUTHOR:ROBERT_ACURS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_016:E1:1530S:AUTOGRAPH:OTHER
+& I $shall $be {TEXT:schalbe} glad to fulfyll the same .
+BRERETO,84.016.261
+
+AUTHOR:ROBERT_ACURS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_016:E1:1530S:AUTOGRAPH:OTHER
+With the grace of Jehsu , who eyuyr preserue & kepe yore goode
+masterchyp . BRERETO,84.016.262
+
+AUTHOR:ROBERT_ACURS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_016:E1:1530S:AUTOGRAPH:OTHER
+At Barkyswell Parke the xix day of December , yn hast as a peryth , By
+yore seruant to hys letyll power , Robert Acurs BRERETO,84.016.263
+
+AUTHOR:ROBERT_ACURS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_016:E1:1530S:AUTOGRAPH:OTHER
+{ED:ENDORSED} To the ryght worschypfull Master Wylliam Brerton be thys
+delyueryd BRERETO,84.016.264
+
+<Q_BRE_B_1530S_T_HSTARKY> <L_BRERETO_017> <A_HUGH_STARKY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_BRERETON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1490?>
+
+<P_85>
+
+{ED:L._22_HUGH_STARKY_TO_WILLIAM_BRERETON}
+
+{ED:24_Aug._[1530-1535]}
+
+AUTHOR:HUGH_STARKY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_017:E1:1530S:AUTOGRAPH:OTHER
+Master Chamburlayn , I herttely recommend me to you BRERETO,85.017.265
+
+AUTHOR:HUGH_STARKY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_017:E1:1530S:AUTOGRAPH:OTHER
+and at soch tyme as yt pleasid you to cum to me , ye desiryde me for to
+pute Blamor 's howse in the $award bytwene Phellyp Egerton and me ,
+BRERETO,85.017.266
+
+AUTHOR:HUGH_STARKY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_017:E1:1530S:AUTOGRAPH:OTHER
+and at your instans I was content , and to suffur hir ocupy duryng hir
+lyff , wych bot for your pleser I hade rather haffe gyffyn xx markes ,
+BRERETO,85.017.267
+
+AUTHOR:HUGH_STARKY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_017:E1:1530S:AUTOGRAPH:OTHER
+and as I was aftir advertysid by my cosyn Jhon Wynnyngton , Phellep
+Eggerton refusid hir mater BRERETO,85.017.268
+
+AUTHOR:HUGH_STARKY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_017:E1:1530S:AUTOGRAPH:OTHER
+and wold not be bonde for hir . Wherfor , I pray you , let hir of iiij
+surtes to be bondon wyth hir in the obligacion so that aftir hir disses
+I haffe no trowbull by hir sone nor his ayders , BRERETO,85.017.269
+
+AUTHOR:HUGH_STARKY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_017:E1:1530S:AUTOGRAPH:OTHER
+and then I shall sele the obligacion and send yt you .
+BRERETO,85.017.270
+
+AUTHOR:HUGH_STARKY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_017:E1:1530S:AUTOGRAPH:OTHER
+For yt is to suppos my cosyn Egerton myndes aftir hir deth to medill
+for hir sone , BRERETO,85.017.271
+
+AUTHOR:HUGH_STARKY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_017:E1:1530S:AUTOGRAPH:OTHER
+and I know your mynd is to make a playn and fynall end in all maters .
+BRERETO,85.017.272
+
+AUTHOR:HUGH_STARKY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_017:E1:1530S:AUTOGRAPH:OTHER
+Sir , my frendes wyle not make me prevey no thyng of the a ward that ye
+and the shuld giffe , for my grete hurtis and trowbull . Wherfor as my
+speciall trust is in you that yf ye make any award yt may be to your
+worship and my pore onesty , and ye so doing shall bynde me ewyr to be
+youres assuridly to my litill power . Sir , let the wydo name hir
+surtes and make a newe obligacion , BRERETO,85.017.273
+
+AUTHOR:HUGH_STARKY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_017:E1:1530S:AUTOGRAPH:OTHER
+and I shall sele yt wyth gud wyll , as knowyth our Lord who ewyr
+preserffe you . BRERETO,85.017.274
+
+AUTHOR:HUGH_STARKY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_017:E1:1530S:AUTOGRAPH:OTHER
+Wrytyn yn hast at my pore howse at Darley this present Saynt Bartlomewe
+Day , by youres , Hugh Starky BRERETO,85.017.275
+
+AUTHOR:HUGH_STARKY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_017:E1:1530S:AUTOGRAPH:OTHER
+{ED:ENDORSED} To the right worshipfull Master Wyllyam Brerton
+Chamburlayn of Chestre this be delivered , BRERETO,85.017.276
+
+AUTHOR:HUGH_STARKY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_017:E1:1530S:AUTOGRAPH:OTHER
+Hugh Starke BRERETO,85.017.277
+
+<Q_BRE_C_1531_T_WBRERETON> <L_BRERETO_018> <A_WILLIAM_BRERETON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1490?> <R_WILLIAM_FITZWILLIAM_2>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1506?>
+
+<P_85>
+
+{ED:L._WILLIAM_BRERETON_TO_THE_CHANCELLOR_OF_THE_DUCHY_OF_LANCASTER} _@
+
+{ED:1531}
+
+{ED:SEVENTEENTH_CENTURY_COPY}
+
+AUTHOR:WILLIAM_BRERETON:MALE:_:1490?:41?
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:25?
+LETTER:BRERETO_018:E1:1531:COPY:OTHER
+To the right honourabll Sir William Fitzwilliam knight , Chancelor of
+the Duchy of Lancaster . BRERETO,85.018.278
+
+AUTHOR:WILLIAM_BRERETON:MALE:_:1490?:41?
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:25?
+LETTER:BRERETO_018:E1:1531:COPY:OTHER
+Humbly shewinge your daly orator , William Brereton , steward vnto our
+Soueraine Lord the Kinge of his honor of Halton , parcell of his Duchy
+of Lancaster in the county of Chester , that wheras his progenitors
+havinge byn seased of the sayd honor as of fee , and haue vsed to haue
+all maner of fishes royall which haue byn taken within the lordshipp &
+libertes of the sayd honor of Halton , and were vsed to be brought into
+the sayd castell of Halton to the Kinge 's steward or his deputy for
+the Kinge 's vse , so it is that of late tyme , one Richard Penkethman
+did take one fish royall , called a sturgion , in the lordship of
+Weston , beinge within the liberties of the sayd honor of Halton ,
+which he would haue brought to the sayd castell according to custome
+afforsayd . Which being perseaued by one of Sir Peires Dutton kt. ,
+entendinge to deseaue and disinheret the Kinge of the sayd fish , but
+also of all other fishes royall herafter to be taken in the sayd
+lordship of Weston , claminge to haue all such which are taken in the
+sayd lordship , with force of armes , in a royotus manner , x of June ,
+23 yeare of our Lord the <P_86> King , did take away from the sayd
+Richard the sayd fish royall , wheras the sayd Sir Peires of right hath
+no medlinge nor dowinge in the sayd lordship of Weston , to the euell
+exampell of other the Kinge 's tenants & subiects . etc. ;
+BRERETO,86.018.279
+
+AUTHOR:WILLIAM_BRERETON:MALE:_:1490?:41?
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:25?
+LETTER:BRERETO_018:E1:1531:COPY:OTHER
+in consideration therof , etc . BRERETO,86.018.280
+
+AUTHOR:WILLIAM_BRERETON:MALE:_:1490?:41?
+RECIPIENT:WILLIAM_FITZWILLIAM_2:MALE:_:1506?:25?
+LETTER:BRERETO_018:E1:1531:COPY:OTHER
+23 Henry 8 BRERETO,86.018.281
+
+<Q_BRE_D_1530S_FS_GGODBEHERE> <L_BRERETO_019> <A_GILBERT_GODBEHERE>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_BRERETON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1490?>
+
+<P_86>
+
+{ED:L._24_GILBERT_GODBEHERE_TO_WILLIAM_BRERETON}
+
+{ED:16_June_[1531-35]}
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+Ryght worschypfull and my most synguler good master , in my most
+lovlyst maner I haue me recommendyd vnto yow , besekyng yow at the
+instans of the Gloryos Trinite , owre Blessyd Lady and all the company
+of Hevyn , to be good master vnto me now in my extreme nede ,
+BRERETO,86.019.282
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+for I am and $will $be {TEXT:wylbe} enduryng my lyfe youre trew saruant
+and dayly bedeman . BRERETO,86.019.283
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+Plesyth yt youre mastyrshyp to vnderstonde , that Master Rondoll youre
+brother hathe made a letter vnto my Lorde Abbot apon me , where in he
+dothe expresly say that I shuld be false , to the intent he myght gett
+me put owt of my seruys and so to vtterly vndo me vnles that ye be my
+good master . BRERETO,86.019.284
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+Ye shall here thefect of the matter he doth obiect agayns me , that ,
+the trewyth knowyn , ye may the better answere for me whan any thyng ys
+layde a gayns me . BRERETO,86.019.285
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+For I know my Lorde Abbot wyll lay that vnto my charge vnto youre
+masterchyp , and all be the mens of the marshall , whych causyth my
+sayde Lorde , that was very good vnto me at my fyrst commyng , for to
+be heuy lorde vnto me now and all be cause I sende that letter vnto yow
+that I dyd , besechyng yow to be good master vnto me and to desyre the
+sayde marshall to be good vnto me , that I myght haue the howse in
+Gostey that my Lorde promysyd me , whych by hys means was sett vnto on
+other , BRERETO,86.019.286
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+for with owt hys favor I was not abull to abyde in my seruyce .
+BRERETO,86.019.287
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+But now the marshall hath so laboryd my Lorde , syth he cam last from
+London , in the premysses , that my Lorde hath chargyd all hys
+seruantes that they shall report be fore yow , when the cum to London ,
+that the sayde marshall hath byn good to me and dyd labor vnto my Lorde
+for me anendys the sayde howse ; BRERETO,86.019.288
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+but the trewth ys clene contrary - BRERETO,86.019.289
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+ye may here perceue hys craft . BRERETO,86.019.290
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+Of surety my Lorde wold be good inoghe to me and all other youre
+frendys and seruantes , byt for hym . BRERETO,86.019.291
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+<font> Here foloyth the trowth of that Master Rondyll youre brother
+doth obiect agayns me . </font> BRERETO,86.019.292
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+Apon an xviij yere agoo , or there apon , I was workyng yn Bramsgrove
+in Worsytter shyre for iij quarters of a yere and more ,
+BRERETO,86.019.293
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+and so yt chaunsyd I fyll in fauor with on Johan Standley 's wyfe of
+the same towne , whych was borne in the Myddylst-wyche perech , in so
+myche that whan her husbande was gon to London with clothe , as was hys
+vsage yerely , she was content to take such maney as he had laft at
+home , and to go with me vnto my contre . BRERETO,86.019.294
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+And so she dyd , untyll we cam vnto Stone in Staffarde shyre , where
+her husbandy 's brother whych persued us and toke us bothe , and sot me
+in Stafforde castell where I was strayly handlyd , BRERETO,86.019.295
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+but by the means and helpe of Master Wyllaby , Master Syr Wyllyam
+Brereton , Master Fytton of Gosworth , and other good masters I was
+delyueryd thens . BRERETO,86.019.296
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+And as for any thyng else that any man lyvyng can say or proue by me as
+towchyng my trewyth , I defye the holle worlde . BRERETO,86.019.297
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+But be ye assuryd , good master , thys matter doth cause me rather to
+be had in suppycyon then <P_87> other wyse , and namely of thos that be
+not youre frendys . BRERETO,87.019.298
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+Master Roger youre brother knoweth all thys as well as I ,
+BRERETO,87.019.299
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+and I trust he wyll shew yow more spechalltes to whom I beseke yow gyue
+credens vnto ; BRERETO,87.019.300
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+allso , yf yt plese yow , ye shall haue the report of my masters of the
+Abbay how I haue demeynyd my selfe syth I cam amongst them .
+BRERETO,87.019.301
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+Also Master Roger dothe know as well as I , that yf I dwell in
+Cheschyre , Master Rondoll youre brother wyll other put me to sum
+extreme dyspesure , or else he wyll cause me to be slayne by sum means
+. Where fore , I beseche yow , for the loue of God , to provyde sum
+lytull cotage for my pore wyfe to dwell in , owt of hys davnger .
+BRERETO,87.019.302
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+And then yf yt shall please yow I shall be content to be at youre
+puttyng to lyue in the Kynge 's warrs , other at Hams {ED:Hammes} ,
+Gynys {ED:Guisnes} , Barwyke {ED:Berwick} , Kallys {ED:Calais}_P or
+else where , where shall be youre plesure to put me .
+BRERETO,87.019.303
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+For I know yt well , on les ye be my good and specyall master and by
+youre assystavnse and support , I am not able to abyde in Cheschyre for
+Master Rondle youre brother , nor also in my seruys for the marshall
+whych bothe-1 rulyth my Lorde and the monastery as hym lyst .
+BRERETO,87.019.304
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+For of trewth , who so euyr he favorythe hath fauor and plesure of my
+Lorde Abbott , BRERETO,87.019.305
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+and thos that he dothe not fauor haue all dysplesurys than can be don
+to them - BRERETO,87.019.306
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+and , namely , those whyche yow and Master Barne of the Exchecker take
+for youre fryndes and louers can haue no maner fauor , plesure , nor
+yet quyetnes , he ys so gret with my Lorde . BRERETO,87.019.307
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+Be ye assuryd good master for a trewth , that yf the sayde marshall
+with hys alyavntys , whych be the Snedys with all there adsherentes ,
+may haue a prior made after there myndys , as they say and thynke to
+bryng the same to pas , yt shall be bottles for yow , youre frendys ,
+seruantes , or any louer that yow haue to cum with in the monastery .
+BRERETO,87.019.308
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+For of trewth , there ys no man with in Cheschyre thys howre knowth
+better <em> than I </em> who byn youre frendys with in the Abbay .
+BRERETO,87.019.309
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+Ye haue moo then ye doo know of as yet , that ys to say the most part
+of the convent , whych byn sure and substancyall men .
+BRERETO,87.019.310
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+Both the recorder , the sayde marshall , nor there frendes do not loue
+them , and all for youre sake , as ye shall know be specyaltys here
+hafter . BRERETO,87.019.311
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+Also the marshall reportyd to my Lorde Abbott that I shuld wryt vnto
+your mastershyp for Janyes in my last letter , where fore I beseke yow
+to be so good master vnto me as to declare the trewth there of to my
+Lorde Abbott , BRERETO,87.019.312
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+but in no wyse lett hym not se the sayde letter . BRERETO,87.019.313
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+For the marshall hath made all the serche that he can possyble , to
+know who wrote my letter , to the entent to cause my Lorde Abbot to put
+hym that wrott yt to dyspesure , yf he myght know who yt were ;
+BRERETO,87.019.314
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+and of trewth , yt was a secret frende of youres and a good master of
+myne , whych ys redy at all tyms to show me any plesure that he can for
+youre sake . BRERETO,87.019.315
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+Allso , where I shuld haue , by the custom of the howse , euery
+princypall fest in the yere and to days after amesse of mete , my Lorde
+Abbott now syth Whyttsontyde , by his covnsell and suche other , hath
+takyn the same from me , so that at the lenght , vnles ye be my good
+master as my holle trust ye wyll be , by such means I shall be dryuyn
+owt of the house . BRERETO,87.019.316
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+All so I be seke yow , gyue no credens vnto the sayde marshall
+BRERETO,87.019.317
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+but rather let me cum to myn answare be fore hym , BRERETO,87.019.318
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+for he caryth not what he swere do or say , tho yt be <P_88> clene
+agaynst the trewth , so he may haue and obtayne hys purpos .
+BRERETO,88.019.319
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+For so hys frendys do report , that all shall be well be twyxt yow
+twayne or he {TEXT:be} {ED:SIC} com fro London . BRERETO,88.019.320
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+I say no thyng but I wyll abyde there by , BRERETO,88.019.321
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+for yf I wyst to be slayne within an owre after , yf I knew or herde
+ony thyng that shulde sovnde , other-2 to {TEXT:to} the dyshonor of yow
+or dysplesor of any freende ye haue , I wolde withstande the same yf I
+myght , BRERETO,88.019.322
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+and if I myght not I wolde gyue knolege vnto yow and yours where by ye
+myght a voyde the same . BRERETO,88.019.323
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+I be seke yow good master , be not a greuyd that my letter ys so long ,
+BRERETO,88.019.324
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+for I do yt for that entent that ye may know , what tholl cyrcumstans
+ys that ys don and compassyd here be nethe , by those that be not youre
+frendys . BRERETO,88.019.325
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+Also I be seke yow , for Godys sake , to gyue thankes vnto Master Dan
+Thomas Clarke , BRERETO,88.019.326
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+for at all tyms when I haue any nede he ys redy to do me ony plesure
+that he can , BRERETO,88.019.327
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+and I know well all ys for your sake . BRERETO,88.019.328
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+Be ye assuryd , he ys aman that ys syngulerly well taken with the
+masters of the monastery and all youre frendes in thes partes .
+BRERETO,88.019.329
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+But the marshall , by the means of the recorder , Dan Rycharde
+Huntyngton , whych supposyth to be prior , do all that euyr the can to
+put hym to dysplesor - and all be cause he oweth yoo and yours hys
+synguler fauor . BRERETO,88.019.330
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+Yf suche on as he had rule , then all youre frendys myght be glad ,
+BRERETO,88.019.331
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+for he ys aman that wyll not change for any dysplesure but ys all ways
+sure and constant to yow and yours , BRERETO,88.019.332
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+and when my Lorde Abbot hath any chargeable byssynes for the howse
+causys , then he sendys for hym ; BRERETO,88.019.333
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+for nother Master Huntyngton whych ys hye stewarde , nor Master Solerer
+, nor hys chapplyn can do hym any plesor , BRERETO,88.019.334
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+but be as chylderne in comparyson of hym in the premyssys ,
+BRERETO,88.019.335
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+and stonde more lykyr shadoys then men of gravyte . BRERETO,88.019.336
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+How beyt , the be bysye inoghe to do dysplesors to thos that be youre
+lovers and frendes &c . BRERETO,88.019.337
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+Worshypfull master , fynally I beseke yow , for the entyre loue of all
+myghty God , to be good master vnto me your pore seruavnt and dayly
+bedeman , BRERETO,88.019.338
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+for I haue no nother trust , helpe , nor socor but only God and yow ;
+BRERETO,88.019.339
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+nor , allso , I haue no thyng where with I shulde recompens youre grete
+and many folde kyndnes showyd vnto me from tyme to tyme ,
+BRERETO,88.019.340
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+but ye shall be sure to haue me allwayes at youre commaundment , rede
+to put my lyfe and body in jubardy for yow and yours when ye shall say
+the worde . BRERETO,88.019.341
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+And thus I commytt yow to the kepyng of the Gloryus Trinite , in
+prosperete and honor long toendure . BRERETO,88.019.342
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+At Chester the xvj day of thys present monyth of June ,
+BRERETO,88.019.343
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+By youre assuryd faythfull sarvant and dayly bedeman , Gylbert
+Godbehere , dwellyng in the Abbey of Chester BRERETO,88.019.344
+
+AUTHOR:GILBERT_GODBEHERE:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_019:E1:1530S:UNKNOWN:FAMILY_SERVANT
+{ED:ENDORSED} To the ryght worshypfull and hys most synguler belouyd
+master , Master Wyllyam Brereton , $Chamberlayne of Cheschyre by thys
+delyueryd with spede BRERETO,88.019.345
+
+<Q_BRE_D_1530S_T_JTUCHETT> <L_BRERETO_020> <A_JOHN_TUCHETT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1483> <R_WILLIAM_BRERETON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1490?>
+
+<P_88>
+
+{ED:L._25_JOHN_TUCHETT,_LORD_AUDLEY_TO_WILLIAM_BRERETON}
+
+{ED:16_Nov._[1531-35]}
+
+AUTHOR:JOHN_TUCHETT:MALE:_:1483:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_020:E1:1530S:UNKNOWN:OTHER
+Ryght singuler biloued cousyn Breweton , in my hartie wyse I recommend
+me vnto yow , thankyng yow for the greate kyndenes that I haue found in
+<P_89> yow at all tymes , the whiche I truste to deserve .
+BRERETO,89.020.346
+
+AUTHOR:JOHN_TUCHETT:MALE:_:1483:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_020:E1:1530S:UNKNOWN:OTHER
+And where as I vnderstond that oon Cooke , being regestrar to my Lord
+of Wynchester and keper of the forest of Bear , hath obtayned a warrant
+of the Kinge 's Highnes for a honderth dere to be taken in the New
+Forest , and hit is intendyd that many of theym $shall $be
+{TEXT:shalbe} taken within my brother James' walk ; and my sayd brother
+hath taken marvelous greate payne , bothe be nyght & be day , and put
+his lyff in many aventours , and hath had greate charge and coste &
+lose of his frendes , & hath goten many enemys , & I in lyk wyse for
+ayding and assystyng of hym , & all {TEXT:to} togither ys to shew the
+Kinge 's Grace some plesour in this partes . Wherfor , and it myghte
+please hys Grace to graunte my sayd brother a restraynte for his walk ,
+called the Easte Baly , and a commaundment in the same restraynte &
+aspecyall request that no man shall hunte no red dere nor valow ,
+within the sayd Easte Baly nor in the borders of the same , tull the
+commyng of the Kynge 's Highnes into this partes , then I truste his
+grace shall haue suche game that it $shall $be {TEXT:shalbe} to his
+highe pleasour . BRERETO,89.020.347
+
+AUTHOR:JOHN_TUCHETT:MALE:_:1483:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_020:E1:1530S:UNKNOWN:OTHER
+With the grace of Jehsu , who send yow as well to fare as your good and
+jentull hartt cann desyre . BRERETO,89.020.348
+
+AUTHOR:JOHN_TUCHETT:MALE:_:1483:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_020:E1:1530S:UNKNOWN:OTHER
+Wrettyn at Wade the xvj day of Novembr , By yowre assuryd frend , Sir
+John Lord Audelay BRERETO,89.020.349
+
+AUTHOR:JOHN_TUCHETT:MALE:_:1483:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:_
+LETTER:BRERETO_020:E1:1530S:UNKNOWN:OTHER
+{ED:ENDORSED} To his welbeloued freend , Maister William a Breerton
+soytt delivered . BRERETO,89.020.350
+
+<Q_BRE_D_1532_T_WPAULET> <L_BRERETO_021> <A_WILLIAM_PAULET>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1485?> <R_RANDOLPH_BRERETON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_89>
+
+{ED:L._26_WILLIAM_PAULET_TO_RANDOLPH_BRERETON_OF_CHESTER}
+
+{ED:10_Mar._[1532]}
+
+AUTHOR:WILLIAM_PAULET:MALE:_:1485?:47?
+RECIPIENT:RANDOLPH_BRERETON:MALE:_:_:_
+LETTER:BRERETO_021:E1:1532:UNKNOWN:OTHER
+Sir , I commend me hartely to you . BRERETO,89.021.351
+
+AUTHOR:WILLIAM_PAULET:MALE:_:1485?:47?
+RECIPIENT:RANDOLPH_BRERETON:MALE:_:_:_
+LETTER:BRERETO_021:E1:1532:UNKNOWN:OTHER
+And right so I pray you to direct the Kinge 's commission to Sir Piers
+Dutton , knyght , Thomas Fulshurst , squier , and Hugh Sterky , squier
+, to enquere apon the dett of Rauff Leycestre of Toft , and suche oder
+writtes as Holcroft , this bringer , shall desire of you for the King ;
+whom I pray you to permitt and suffer to serche for the Kinge 's Grace
+amonge the Kinge 's recordes . BRERETO,89.021.352
+
+AUTHOR:WILLIAM_PAULET:MALE:_:1485?:47?
+RECIPIENT:RANDOLPH_BRERETON:MALE:_:_:_
+LETTER:BRERETO_021:E1:1532:UNKNOWN:OTHER
+And herafter direct no writt post morten alicuid wher his next heire is
+within age , but that I may first be made privy to the same .
+BRERETO,89.021.353
+
+AUTHOR:WILLIAM_PAULET:MALE:_:1485?:47?
+RECIPIENT:RANDOLPH_BRERETON:MALE:_:_:_
+LETTER:BRERETO_021:E1:1532:UNKNOWN:OTHER
+And from hensfurth pay no mo of the annuites & fees graunted by Master
+Savage , but only to Master Snede , til you kno further the Kinge 's
+pleaser . BRERETO,89.021.354
+
+AUTHOR:WILLIAM_PAULET:MALE:_:1485?:47?
+RECIPIENT:RANDOLPH_BRERETON:MALE:_:_:_
+LETTER:BRERETO_021:E1:1532:UNKNOWN:OTHER
+And in case you breke with me in theise thinges , I shal surely take
+another order that wil discontent you , wiche I wold be lothe to do .
+BRERETO,89.021.355
+
+AUTHOR:WILLIAM_PAULET:MALE:_:1485?:47?
+RECIPIENT:RANDOLPH_BRERETON:MALE:_:_:_
+LETTER:BRERETO_021:E1:1532:UNKNOWN:OTHER
+And this doing , I shal at all tymes be gladde to do your desires .
+BRERETO,89.021.356
+
+AUTHOR:WILLIAM_PAULET:MALE:_:1485?:47?
+RECIPIENT:RANDOLPH_BRERETON:MALE:_:_:_
+LETTER:BRERETO_021:E1:1532:UNKNOWN:OTHER
+And thus fere you well . BRERETO,89.021.357
+
+AUTHOR:WILLIAM_PAULET:MALE:_:1485?:47?
+RECIPIENT:RANDOLPH_BRERETON:MALE:_:_:_
+LETTER:BRERETO_021:E1:1532:UNKNOWN:OTHER
+At London the x day of Marche , BRERETO,89.021.358
+
+AUTHOR:WILLIAM_PAULET:MALE:_:1485?:47?
+RECIPIENT:RANDOLPH_BRERETON:MALE:_:_:_
+LETTER:BRERETO_021:E1:1532:UNKNOWN:OTHER
+Your $servant , William Poulet BRERETO,89.021.359
+
+AUTHOR:WILLIAM_PAULET:MALE:_:1485?:47?
+RECIPIENT:RANDOLPH_BRERETON:MALE:_:_:_
+LETTER:BRERETO_021:E1:1532:UNKNOWN:OTHER
+{ED:ENDORSED} To my frind Master Randolf Brurton BRERETO,89.021.360
+
+<Q_BRE_A_1533_T_WBRERETON> <L_BRERETO_022> <A_WILLIAM_BRERETON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1490?> <R_THOMAS_CROMWELL>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1485?>
+
+<P_91>
+
+{ED:L._29_WILLIAM_BRERETON_TO_THOMAS_CROMWELL}
+
+{ED:14_Dec._[1533]}
+
+AUTHOR:WILLIAM_BRERETON:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:BRERETO_022:E1:1533:AUTOGRAPH:OTHER
+Sir , Where you did a poynte with me to be at Leson this laste weke ,
+wych I am sure you cowde not your besynes was so grete , and be that
+meynes you made me a better husband than I wolde haue byn and taryng at
+home to loke for you , or elys I had byn gon to Mayster Page , wych I
+intende to do with owte I haue forther knolege by this beyrer off youre
+comyng from you . Sir , Mayster Boughton hath shewid me the lande in
+the marche wych they had layde owte for the Kynge , yf his Grace and
+you off his his counsell {ED:SIC} be contentid withall , wych I wyll
+ensure you to byde vppon , BRERETO,91.022.361
+
+AUTHOR:WILLIAM_BRERETON:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:BRERETO_022:E1:1533:AUTOGRAPH:OTHER
+ys as gud grounde as any within the same marsche BRERETO,91.022.362
+
+AUTHOR:WILLIAM_BRERETON:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:BRERETO_022:E1:1533:AUTOGRAPH:OTHER
+& lyeth as well togeyther , BRERETO,91.022.363
+
+AUTHOR:WILLIAM_BRERETON:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:BRERETO_022:E1:1533:AUTOGRAPH:OTHER
+but whether ye Kynge haue his full nombre off acres wych I wyll not
+take apon me to acerten you , BRERETO,91.022.364
+
+AUTHOR:WILLIAM_BRERETON:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:BRERETO_022:E1:1533:AUTOGRAPH:OTHER
+for I neuer se the mesuring off it . BRERETO,91.022.365
+
+AUTHOR:WILLIAM_BRERETON:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:BRERETO_022:E1:1533:AUTOGRAPH:OTHER
+Wherefor , yf you $can $not {TEXT:cannot} haue the lesure to come youre
+selfe , & yff you thynke it meyte to apoynte summe honest men as summe
+of the Kynge 's seruantes or other honest neybures $to by with my
+frende Swifte , wych I wolde thynke wyll se it substansly done so that
+the Kynge shulde haue no lose . BRERETO,91.022.366
+
+AUTHOR:WILLIAM_BRERETON:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:BRERETO_022:E1:1533:AUTOGRAPH:OTHER
+Sir , my fowler ys were yll BRERETO,91.022.367
+
+AUTHOR:WILLIAM_BRERETON:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:BRERETO_022:E1:1533:AUTOGRAPH:OTHER
+& canne take lytle , BRERETO,91.022.368
+
+AUTHOR:WILLIAM_BRERETON:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:BRERETO_022:E1:1533:AUTOGRAPH:OTHER
+for I myghte sende to Calys and by as gud cheppe fowle as any that he
+takyth me , as this beyrer canne shew you , BRERETO,91.022.369
+
+AUTHOR:WILLIAM_BRERETON:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:BRERETO_022:E1:1533:AUTOGRAPH:OTHER
+or elys I wolde haue sende you summe or now . BRERETO,91.022.370
+
+AUTHOR:WILLIAM_BRERETON:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:BRERETO_022:E1:1533:AUTOGRAPH:OTHER
+Thus fare you hertly well as I wolde my selfe . BRERETO,91.022.371
+
+AUTHOR:WILLIAM_BRERETON:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:BRERETO_022:E1:1533:AUTOGRAPH:OTHER
+Writon at Leson the xiiij day of December , BRERETO,91.022.372
+
+AUTHOR:WILLIAM_BRERETON:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:BRERETO_022:E1:1533:AUTOGRAPH:OTHER
+Yours to that lyttyll he mey . BRERETO,91.022.373
+
+AUTHOR:WILLIAM_BRERETON:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:BRERETO_022:E1:1533:AUTOGRAPH:OTHER
+Wylliam Brereton BRERETO,91.022.374
+
+AUTHOR:WILLIAM_BRERETON:MALE:_:1490?:43?
+RECIPIENT:THOMAS_CROMWELL:MALE:_:1485?:48?
+LETTER:BRERETO_022:E1:1533:AUTOGRAPH:OTHER
+{ED:ENDORSED} To the ryghte worshipfull Mayster Crumwell
+BRERETO,91.022.375
+
+<Q_BRE_A_1534_T_LTHOMAS> <L_BRERETO_023> <A_LEYSON_THOMAS>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_BRERETON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1490?>
+
+<P_91>
+
+{ED:L._30_LEYSON_THOMAS,_ABBOT_OF_NEATH,_TO_WILLIAM_BRERETON}
+
+{ED:17_Feb._[1534]}
+
+AUTHOR:LEYSON_THOMAS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_023:E1:1534:AUTOGRAPH:OTHER
+My dewty premysyd of dewe reuerence & lowly recomendatyon to your
+honorabull maystyrchype . BRERETO,91.023.376
+
+AUTHOR:LEYSON_THOMAS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_023:E1:1534:AUTOGRAPH:OTHER
+Plesythe hyt the same to haue knowelege , that acordyng to the request
+& desyre of my Lorde 's Grace , the Duke of Rychymonde , I haue byn at
+hys monastery of Vallys Crucis in Yale & dyd vesytte the sayd monastery
+. Wher thre of the bretherne dyd accuse thAbbat theyr maystyre of
+dyuers crymys & excessys , the whyche crymys excessys {ED:SIC} I dyd
+mynystyre to the sayde Abbot affor ys bretherne & dyuers others present
+; BRERETO,91.023.377
+
+AUTHOR:LEYSON_THOMAS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_023:E1:1534:AUTOGRAPH:OTHER
+& thesayde Abbot desyrde to haue copy of the artyculles to make answere
+vnto theym as hys lernyd councell wolde geve hym on the morowe after ,
+beyng coastystent with me thAbbates of Conewe {ED:Conway} , Kymmer
+{ED:Cymmer} & of Cumhyre {ED:Cwmhir} . BRERETO,91.023.378
+
+AUTHOR:LEYSON_THOMAS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_023:E1:1534:AUTOGRAPH:OTHER
+ThAbbot of Vallis Crucis brought forthe certen exceptyons agaynste the
+Pryor & ij more , that they were infames & polutyd with dyuers crymys ,
+excessys & enormyties , so that by the lawe they were not abull to
+accuse hym . BRERETO,91.023.379
+
+AUTHOR:LEYSON_THOMAS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_023:E1:1534:AUTOGRAPH:OTHER
+But I wolde not acepte suche exceptyons of hym , wherwith he & ys
+lernyd councell was sore grevyd . BRERETO,91.023.380
+
+AUTHOR:LEYSON_THOMAS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_023:E1:1534:AUTOGRAPH:OTHER
+And for by cause they cude not haue theyr porpos , they dyd appell fro
+me $to $ahyere juge , that ys to my Lorde of Canturbery ys audyence ,
+BRERETO,91.023.381
+
+AUTHOR:LEYSON_THOMAS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_023:E1:1534:AUTOGRAPH:OTHER
+and in thys case the matyre restythe as yete . BRERETO,91.023.382
+
+AUTHOR:LEYSON_THOMAS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_023:E1:1534:AUTOGRAPH:OTHER
+As tochyng all other thynges , <P_92> your seruant & debyt connstabull
+of Chester canne informe your masterchyp , as God knowythe who preserue
+the same . BRERETO,92.023.383
+
+AUTHOR:LEYSON_THOMAS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_023:E1:1534:AUTOGRAPH:OTHER
+Scryblyd at Vallis Crucis the xvij day of February , BRERETO,92.023.384
+
+AUTHOR:LEYSON_THOMAS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_023:E1:1534:AUTOGRAPH:OTHER
+Your trewe bedsman , Leyson Thomas , Abbat of Nethe BRERETO,92.023.385
+
+AUTHOR:LEYSON_THOMAS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_023:E1:1534:AUTOGRAPH:OTHER
+{ED:ENDORSED} To the ryght worchppfull Master Wyllyam Breyretownne ,
+Stewarde of the Holt BRERETO,92.023.386
+
+<Q_BRE_D_1534_FS_JNORBURY> <L_BRERETO_024> <A_JOHN_NORBURY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_BRERETON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1490?>
+
+<P_92>
+
+{ED:L._31_JOHN_NORBURY_TO_WILLIAM_BRERETON}
+
+{ED:22_June,_[1534]}
+
+AUTHOR:JOHN_NORBURY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_024:E1:1534:UNKNOWN:FAMILY_SERVANT
+Pleasith it your maistership to vnderstond , I did sende fro the Abbot
+of Kymmer and haue spokyn with hym accordyng to your mynde and pleasure
+. BRERETO,92.024.387
+
+AUTHOR:JOHN_NORBURY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_024:E1:1534:UNKNOWN:FAMILY_SERVANT
+And by suche meanes as I made vnto hym , he hath grauntid to geve vnto
+you towardes your costes xl li , the whiche ye shall haue payed in
+hande at your commyng downe so that he may obtayne his sute .
+BRERETO,92.024.388
+
+AUTHOR:JOHN_NORBURY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_024:E1:1534:UNKNOWN:FAMILY_SERVANT
+The said Abbot desired me to writte vnto you , that it wolde please you
+to sende to the Whitt Hynde withoute Cripylgate in London for the Abbot
+of Neyth , and speke with hym to appoynte a daye to come to the Abbey
+of Vala Crucis at suche tyme when ye are in the countre .
+BRERETO,92.024.389
+
+AUTHOR:JOHN_NORBURY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_024:E1:1534:UNKNOWN:FAMILY_SERVANT
+And it wolde please you to gre with the said Abbot of Neyth for his
+costes from his owne house vnto the said Abbey , BRERETO,92.024.390
+
+AUTHOR:JOHN_NORBURY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_024:E1:1534:UNKNOWN:FAMILY_SERVANT
+ye did a great pleasure vnto the said Abbot of Kymmer , takyng vppon
+you that my Lord of Rychemond wold bere the charges .
+BRERETO,92.024.391
+
+AUTHOR:JOHN_NORBURY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_024:E1:1534:UNKNOWN:FAMILY_SERVANT
+Fro if the said Abbot of Kymmer shulde agre with the said Abbot of
+Neyth fro his costes , he wolde loke to haue xx markes where he shulde
+haue but fyve poundes - BRERETO,92.024.392
+
+AUTHOR:JOHN_NORBURY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_024:E1:1534:UNKNOWN:FAMILY_SERVANT
+and the said Abbot of Kymmer woll bere the coste . BRERETO,92.024.393
+
+AUTHOR:JOHN_NORBURY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_024:E1:1534:UNKNOWN:FAMILY_SERVANT
+Sir , I haue spoken with Launcelot Pulisden to have had money of hym ,
+accordyng as ye wrote vnto me , BRERETO,92.024.394
+
+AUTHOR:JOHN_NORBURY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_024:E1:1534:UNKNOWN:FAMILY_SERVANT
+and as yet he haue not receywed but litell so that he had not in redy
+money xv li . BRERETO,92.024.395
+
+AUTHOR:JOHN_NORBURY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_024:E1:1534:UNKNOWN:FAMILY_SERVANT
+I haue gevyn warnyng to your bayliffes on euery place ,
+BRERETO,92.024.396
+
+AUTHOR:JOHN_NORBURY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_024:E1:1534:UNKNOWN:FAMILY_SERVANT
+and as myche money as I canne receyve when your seruntes do come for
+you I woll sende you by theym . BRERETO,92.024.397
+
+AUTHOR:JOHN_NORBURY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_024:E1:1534:UNKNOWN:FAMILY_SERVANT
+I haue sende you a geldyng thatt was of my Ladye 's hele ,
+BRERETO,92.024.398
+
+AUTHOR:JOHN_NORBURY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_024:E1:1534:UNKNOWN:FAMILY_SERVANT
+and as fro your stalkyng geldyng , he is so leme thatt he is not able
+to com uppe . BRERETO,92.024.399
+
+AUTHOR:JOHN_NORBURY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_024:E1:1534:UNKNOWN:FAMILY_SERVANT
+Your maistership woll remember to sende downe your seruantes' cotes ,
+and also what daye they shall be with you . BRERETO,92.024.400
+
+AUTHOR:JOHN_NORBURY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_024:E1:1534:UNKNOWN:FAMILY_SERVANT
+Aboue , Sir , I haue sent instruccons by Elis Hanmer concernyng diuers
+materes ; BRERETO,92.024.401
+
+AUTHOR:JOHN_NORBURY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_024:E1:1534:UNKNOWN:FAMILY_SERVANT
+and thus our Lord haue your maistership in his blissid kepyng .
+BRERETO,92.024.402
+
+AUTHOR:JOHN_NORBURY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_024:E1:1534:UNKNOWN:FAMILY_SERVANT
+Written at the Holte , the xxij daye of June , BRERETO,92.024.403
+
+AUTHOR:JOHN_NORBURY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_024:E1:1534:UNKNOWN:FAMILY_SERVANT
+Your seruant , John Norbery BRERETO,92.024.404
+
+AUTHOR:JOHN_NORBURY:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_024:E1:1534:UNKNOWN:FAMILY_SERVANT
+{ED:ENDORSED} To his right worshipfull Maister William Brereton squyer
+, Chamberleyn of Chester BRERETO,92.024.405
+
+<Q_BRE_B_1534_T_RTHOMAS> <L_BRERETO_025> <A_RICHARD_THOMAS>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_BRERETON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1490?>
+
+<P_92>
+
+{ED:L._32_RICHARD_THOMAS_TO_WILLIAM_BRERETON}
+
+{ED:1534}
+
+AUTHOR:RICHARD_THOMAS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_025:E1:1534:AUTOGRAPH:OTHER
+Right worshipfull Sir , in my best manner my dutie remembrid , I komend
+me vnto your good mastershippe , trustyng in Almighty God that you be
+in good helth & soo long to contynewe to Goddes pleasure , & your
+hartes desire ys , and $shall $be {TEXT:shalbe} , my dayle prayer .
+BRERETO,92.025.406
+
+AUTHOR:RICHARD_THOMAS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_025:E1:1534:AUTOGRAPH:OTHER
+The cause of my writyng to you at this <P_93> tyme , is shewyng your
+mastershippe that my brother Greffeth $can $not {TEXT:cannot} optayne
+his ferme at Yardley , BRERETO,93.025.407
+
+AUTHOR:RICHARD_THOMAS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_025:E1:1534:AUTOGRAPH:OTHER
+for Page and Rygley $will $not {TEXT:wolnot} graunte that he shall haue
+yt in noo wyse . BRERETO,93.025.408
+
+AUTHOR:RICHARD_THOMAS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_025:E1:1534:AUTOGRAPH:OTHER
+For the last tyme that Rygley was in the countre , he send for my
+brother Gryffeth by the baylle of Yardley that he shulde come & speke
+with hym , BRERETO,93.025.409
+
+AUTHOR:RICHARD_THOMAS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_025:E1:1534:AUTOGRAPH:OTHER
+but he $would $not {TEXT:woldnot} . Wherfor he send for me & desired me
+to gyffe your mastershippe knowlege thereof of hys vnkydnes ,
+BRERETO,93.025.410
+
+AUTHOR:RICHARD_THOMAS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_025:E1:1534:AUTOGRAPH:OTHER
+and he hath made great wast of the grounde ; wherfor Rigley is not
+content with hym therefor , BRERETO,93.025.411
+
+AUTHOR:RICHARD_THOMAS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_025:E1:1534:AUTOGRAPH:OTHER
+& the grounde ys dekayed for lacke of reparacons that fourty shelynges
+& more money $will $not {TEXT:wolnot} make yt tenauntabyll ,
+BRERETO,93.025.412
+
+AUTHOR:RICHARD_THOMAS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_025:E1:1534:AUTOGRAPH:OTHER
+& Rigley ys content for your sake that I shall occupye yt . Wherfor ,
+may yt please you to be soo good vnto me as to speke with Rigleye
+therof and to gyffe hym thangkes for his good wyll & favour , wherby I
+myght fauder optayne the sayd farme , yf it wold pplease you of your
+godnesse to be god & favorabille vnto me in this bealfe , wyche in tyme
+to come shuld be to my great profett and advantage , and thus you shall
+bynde me to be at your commaundment at all tymes to the best of my
+letyll power , and I and all myn to praye for your mastershyppe for the
+great kyndnes that I & my brethern have founde in yow in tymes past ,
+as knowethe Almyghty God who haue you in his kepyng BRERETO,93.025.413
+
+AUTHOR:RICHARD_THOMAS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_025:E1:1534:AUTOGRAPH:OTHER
+Be your seruaunt to the best of his power and poore kynsman , Richard
+Thomas BRERETO,93.025.414
+
+AUTHOR:RICHARD_THOMAS:MALE:_:_:_
+RECIPIENT:WILLIAM_BRERETON:MALE:_:1490?:44?
+LETTER:BRERETO_025:E1:1534:AUTOGRAPH:OTHER
+{ED:ENDORSED} To the right $worshippfull and my singler good mester ,
+Master William Bruerton , one of the Kynge 's Grace 's Prevey Chamber ,
+this be delivered BRERETO,93.025.415
+
+{COM:BILL_OMITTED}

@@ -1,0 +1,2718 @@
+<B_HARVEY>
+
+<Q_HAV_A_1573_T_GHARVEY> <L_HARVEY_001> <A_GABRIEL_HARVEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1545?> <R_JOHN_YOUNG>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_1>
+
+{ED:TO_JOHN_YOUNG,_MASTER_OF_PEMBROKE_HALL,_CAMBRIDGE.}
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Mi duti in most humble wise remembrid riht wurshipful , with most
+dutiful and harti thanks for the great frenship and special gud wil
+which you have alwais before and sinc mi cumming to the college shewid
+me : these shal be to crave leave of youer wurship that I mai bouldly
+and plainly declare that unto you , to mi furtheranc , which iniuriusly
+and spitefully hath bene offrid unto me to mi hi displeasure ; nothing
+a whit douting but that your wisdum , uppon a reasnable vew of the
+matter , wil se a present redres of so wrongful delings .
+HARVEY,1.001.1
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I am and have bene alwais veri loth to complain , if quieter maenes
+could have servid ; HARVEY,1.001.2
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+but now in this extremiti , being in so slipperi a case as {in}_P I am
+, I am enforcid to do as I do . HARVEY,1.001.3
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And hereuppon I have the rather too chosen to write in Inglish , that I
+might the better and more fully open the matter as it standith .
+HARVEY,1.001.4
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I beseech you pardun mi rudenes if I do otherwise then I shuld do ;
+HARVEY,1.001.5
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and blame their unkindnes that use me otherwise then they can or ouht
+to do . HARVEY,1.001.6
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Your wurship is not ignorant , that <P_2> this is mi year to commens
+master {ED:THE_WORD_in_ERASED_BY_HARVEY} of art : HARVEY,2.001.7
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and you know how ordinari a thing it is , that everi on at his time
+should inioie his degree , unles there be sum wunderful great let to
+the contrari . HARVEY,2.001.8
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+It is now wel ni a fortnite sinc mi grace amongst the rest was put up
+in the hous : HARVEY,2.001.9
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+when it cam to M. Osburn he deniid it ; HARVEY,2.001.10
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and after him M. Nevel said he wuld do as M. Osburn had dun ;
+HARVEY,2.001.11
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and at the last Sir Lawhern , being abusid bi on or both of them ,
+pretendid that he would give with none , unles al miht go out ,
+HARVEY,2.001.12
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+but indeed intendid , as it fil out , to give against me .
+HARVEY,2.001.13
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+These thre and the rest of the fellows which were abrode were enowh ,
+and too mani too , as it hath proved now , to stai me . Althouh in deed
+Sir Lawherns voic , if the vantage had bene presently takin , and I as
+circumspect to se to mi self as other were hasti to set uppon me in M.
+Nuces , and also in M. Osburns and M. Nevils iudgments too , as thei
+them selues have sinc not steekid to tel me , did make for me ,
+HARVEY,2.001.14
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+for he giving with me none had bene hindrid . Sinc which time M. Nuce
+said unto me that if he had notid so mutch at the present , I shuld
+with out ani farther delai have had mi grace at that time , which if it
+might then have taken place , I can not se whi it miht not take place
+yit . HARVEY,2.001.15
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+The matter stud after this manner : HARVEY,2.001.16
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+M. Nuce was requestid over niht to put up our graces the next morning :
+HARVEY,2.001.17
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+he made promis to do so . HARVEY,2.001.18
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+In the morning after praiers , as the manner litely is , we looked for
+it : HARVEY,2.001.19
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+but we had word that M. Nuce was not very wel at ease : and that he
+wuld dispatch the matter wel enouh before the congregation .
+HARVEY,2.001.20
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I can not sai hou it fil out , HARVEY,2.001.21
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+but I am sure it fil out too il for me , that the bel began to ring to
+the congregation before M. Nuce began to rise out of his <P_3> bed .
+HARVEY,3.001.22
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+In deed then he made as great speed as he wel miht HARVEY,3.001.23
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and in al the hast hiid him in to the hale . HARVEY,3.001.24
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+He put up mine , Sir Fars and S=r= Hoult 's graces togither for more
+speed : HARVEY,3.001.25
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+thei easly were graunted bi al , I wrongfully staiid bi M. Osburn and
+M. Nevil . The reason being demaundid whi , thei saied there was now no
+time to talk of it ; HARVEY,3.001.26
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and M. Nevil thouht that he needid not to render ani reason :
+HARVEY,3.001.27
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+but M. Osburn saied he wuld shew the cause privately ether-1 to mi self
+or ani of mi frends . HARVEY,3.001.28
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+The case hanging thus doutfully , as you se , and I delaied thus
+unfrendly , as you have hard , the Pensionars were also forthwith
+propoundid , HARVEY,3.001.29
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+nether were thei so soon propoundid but thei were as soon grauntid .
+HARVEY,3.001.30
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+This was after eiht a clock in the forenoon , HARVEY,3.001.31
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and after nine <paren> for there was a sermon ad clerum first </paren>
+was the congregation for the nomination . HARVEY,3.001.32
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Al the rest were nominatid . HARVEY,3.001.33
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+The congregation was continuid until the afternoon . HARVEY,3.001.34
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Thei had al their graces ad visitandum . HARVEY,3.001.35
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Thus was I kast behind twoo congregations , and yit not on good reason
+alleagid whi . HARVEY,3.001.36
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Mi frends wunderid at it , HARVEY,3.001.37
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and I had cause to be greevid at it ; considering how litle I had
+deservd it at ani of there hands . HARVEY,3.001.38
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+But wilfulnes wil beare a suai , if it be not bridelid :
+HARVEY,3.001.39
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and thai that have the wors end of the staf shal be sure to be wrung to
+the wors , if thai be not rescuid . HARVEY,3.001.40
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Here your wurship culd not choose but think me greatly to blame , if I
+shuld not have endevorid mi self to assuage there coller , as far as I
+miht , and reconcile them unto me , as wel as I culd : considering that
+the law was now in there own hands , and miht had alreddi overcumd riht
+. HARVEY,3.001.41
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Therefore after the rest were nominatid , and before thai had there
+graces ad visitandum , I besout M. Nevil that he wuld not deale so
+hardly bi me in that whitch concernd me so greatly : desiring him that
+he wuld not hinder me ani longer , but that I miht be nominatid that
+dai . HARVEY,3.001.42
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+No intreati wuld serv : HARVEY,3.001.43
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and this was al that I culd get of him , that if I wuld cale the
+cumpani to <P_4> gither , I shuld se what he ment to do for me .
+HARVEY,4.001.44
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I tould him that unles he wuld put me in sum hope , it wuld be but a
+trubble for them , and no pleasure to me . HARVEY,4.001.45
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Wel , al wuld not suffice : HARVEY,4.001.46
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+M. Nevil is resolvid what to do : HARVEY,4.001.47
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+he hath set down his staf , and made his reckning : HARVEY,4.001.48
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+he wil sustain the displeasure of it , cum of it what wil .
+HARVEY,4.001.49
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And yit we comminid so long togither , that there was no time at al
+left to talk with M. Osburn before the congregation . HARVEY,4.001.50
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Al our hole talk concernid the causes of his staying me . Whitch seeing
+the matter staiith chefly uppon them , I wil truly report unto yur
+wurship , as thei were uniustly and scornfully laid in mi dish .
+HARVEY,4.001.51
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I hope you wil have me excusid thouh I be trubblesum to your waihtier
+affaiers . HARVEY,4.001.52
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+He laid against me mi commun behaviur , that I was not familiar like a
+fellow , and that I did disdain everi mans cumpani . HARVEY,4.001.53
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+To this I made him anser that I was aferd les over mutch familiariti
+had mard al : HARVEY,4.001.54
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and therefore where as I was wunt to be as familiar , and as sociable
+and as gud a fellow too , as ani , seing sum to be sumwhat far of , and
+other not to like so well of it , as it was ment , I was constrained to
+withdrawe mi self sumwhat the more , althouh not greatly nether , out
+of oftin and continual cumpani . Marri so , that at usual and
+convenient times , as after dinner and supper , at commenti fiers , yea
+and at other times too , if the lest occasion were offrid , I continuid
+as long as ani , and was as fellowli as the best . HARVEY,4.001.55
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+What thai cale sociable I know not : HARVEY,4.001.56
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+this I am suer , I never auoidid cumpani : HARVEY,4.001.57
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I have bene merri in cumpani : HARVEY,4.001.58
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I have bene ful hardly drawn out of cumpani . HARVEY,4.001.59
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And as for disdaining of others , I wuld thai culd have found in their
+harts to have made that account of me that I have made of them , and
+bene as willing to accept of mi cumpani as I have bene reddi to seek
+theirs . HARVEY,4.001.60
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And of troth this dare I avouch bouldly to your wurship , whitch sum
+others can testifi to be most tru , that I have not shoun mi self so
+surli towards mi inferiors as M. Nevil hath shoun him self disdainful
+towards his oequals and superiors too . HARVEY,4.001.61
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+For mi self , whitch in deed am an inch beneath him , as he ons <P_5>
+made his vaunt ; he can not deni it , he hath confest so mutch to me
+himself , that I passing bi him , and mouing mi cap , and speking unto
+him , he hath lookd awri an other wai , nether afording me a word , nor
+a cap : purposing , as I take it , to make of his inch a good long el ,
+and to show a lusti contempt of so silli a frend . HARVEY,5.001.62
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+As for others , this is wel knoun , not to on , or two , but to al , or
+most of y=e= cumpani , yea and to sum of the Pensionars too .
+HARVEY,5.001.63
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I am assured none wil nor can deni it , that both M. Nuce and M.
+Jackson at a commenti fier in M. Jacksuns chamber this last year , did
+in gud ernest and in sum heat for his gud behaviur then , cale him Wil
+Summer . HARVEY,5.001.64
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+In deed he was faint to put it up quietly bycaus he knew he had the
+wors end of the staf . HARVEY,5.001.65
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+At other times ful oft hath he bene at big words , and gud whot
+bickerings with sum other and with M. Nuce almost continually ; til now
+of late that nu matter hath bene in bruing . HARVEY,5.001.66
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And this is he that accuseth me of not being sociable , him self so
+sociable as you se , and wil needs bare other doun , not onli privately
+at home but communly abrode , amongst his cumpanions and others , that
+I am thus and thus insolent , when as he miht do wel to shew him self
+les insolent . HARVEY,5.001.67
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I wuld he were but as wel bent to pluck out the beame out of his oun i
+as he is busi to spi a mote in an other man 's i . HARVEY,5.001.68
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+But it is almost impossible that he shuld se him self , which is so
+mutch gevin to look uppon others . HARVEY,5.001.69
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Nether do I speak this so mutch to accuse him , whome I use to speak
+wel of , and mutch better then he hath deservid , as it proovith now ;
+as to excuse mi self whome he hath so uniustly
+{COM:IN_EDITION_nniustly} and falsly chargid with arroganci and
+disdainfulnes . HARVEY,5.001.70
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+But it mai pleas your wurship to remember that excellent vers of y=e=
+famus poet : Quis tulerit Gracchos de seditione querentes ?
+HARVEY,5.001.71
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+for it were nedles for me to go about to point out his pride and <P_6>
+lustines , whereas his oun gai gallant gaskins , his kut dublets , his
+staring hare , with sum other gudli and gentlemanlike ornaments , do
+and wil discri it sufficiently . HARVEY,6.001.72
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And how sociablely he hath delt bi me , to deni me mi grace in the
+house , and to disgrace and slaunder me in the toun , I had rather leav
+it to your wisdums consideration to iudg then I in mine own cause be
+mine oun iudge . HARVEY,6.001.73
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+II. The secund point that he stud uppon was , that I culd hardly find
+in mi hart to commend of ani man ; and that I have misliked those which
+bi commun consent and agrement of al have bene veri wel thout of for
+there lerning . HARVEY,6.001.74
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I anserid , that I was alwais of this opinion that I thout it mi duti
+to speak wel of those that deservd wel ; and that he miht sundri times
+have harde me commend mani a on , but that it pleasd him now to wrangle
+with me . Whereuppon he tould me roundly , that that was mi fault
+indeed , and that I was evermore in mi extremites , ether-5 in
+commending to mutch without reason , or dispraising to mutch without
+cause . To the whitch I gave him no other anser but this , that he ouht
+to give me and others as gud leave to use our iudgments in that behalf
+as I and others had givn him . HARVEY,6.001.75
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Stil he harpid uppon that string , that I culd not aford ani a gud wurd
+. HARVEY,6.001.76
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And I made him aunser , that this were great arroganci and extreme
+folli . HARVEY,6.001.77
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Hereuppon we had farther descanting of them both , HARVEY,6.001.78
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and he semid sumwhat pretely as he thout , but too flatly , and grosely
+indeed , to kast them both in mi teeth . In which discours , amongst
+other things , I hapned to kast out thus mutch , that althouh thei were
+both veri il , yit of the two it were better for a man to be thout
+arrogant then foolish . Whereuppon aris a wunderful accusation made bi
+M. Nevil in a gud great audienc - I mi self not being there - that
+sutch an on semid flatly to allow of arroganci , that he praeferd it
+before folli , that he would not steak to sai bouldly he had rather be
+arrogant then foolish . HARVEY,6.001.79
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And this was a great big matter , and a hie point forsooth , for them
+to beat there heds and whet there tungs about . So that your wurship
+mai here plainly se , <P_7> as in a glas , how reddi thai ar to take
+the vantage , and how able thai ar to make sumwhat of nothing .
+HARVEY,7.001.80
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Touching the veri accusation , I can sai no more for mi self but this ,
+that I have commendid and discommendid men , as I thout thai deservid
+to be commendid or discommendid . HARVEY,7.001.81
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And this wil I stand bi , HARVEY,7.001.82
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and am able to proove it too , if need be , that I never haue
+discommendid ani of thos , that haue in the most and best mens
+iudgments bene thout commendable . HARVEY,7.001.83
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+In deed thei sai against me , that I on a time praeferd M. Lewin before
+M. Becon in speaking ex tempore : which I can not deni but I miht have
+done , as mani others besides me have , and mai yit , for ani thing I
+know , do it stil , as wel as thai . HARVEY,7.001.84
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I praefer Tulli before Caesar in writing Latin : HARVEY,7.001.85
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+do I therefore disable or disalow Caesar ? HARVEY,7.001.86
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And yit I do not so praefer Tulli nether but that Caesar in sum on
+point , as in lepore , brevitate or the like mai pas and excel Tulli .
+HARVEY,7.001.87
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I contend that M. Lewins extemporal faculti is better then M. Becons is
+, HARVEY,7.001.88
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and yit I do not deni , and I have often said it too , that M. Becon is
+more sententius then M. Lewin . HARVEY,7.001.89
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+But thai wil sai , Comparisons ar odius : HARVEY,7.001.90
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+in deed , as it fals out , thai ar too odius . HARVEY,7.001.91
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I am wel assured thai have gone about bi this comparrison to make me
+odius . HARVEY,7.001.92
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+How iustly I leav it to your wisdum to think of . HARVEY,7.001.93
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+This I dare sai , and I can as easly proove it , that thai themselvs
+that wil now seme to mislike this so mutch in me , and therefore plague
+me thus cruelly for it , have usid mutch more liberti this wai then
+euer I did ; and have made more odius comparrisons then euer I have ,
+or purpose to make . HARVEY,7.001.94
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I prai you let this on suffice in stead of a mani the like .
+HARVEY,7.001.95
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+We had talk not long sinc in M. Nuces chamber of M. Alin , then and now
+senior proctor . HARVEY,7.001.96
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I <P_8> commendid him to be a riht gud schollar divers wais , and that
+he was veri wel sene in the lattin and greek tung . HARVEY,8.001.97
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Strait wais M. Nevil was on mi top , HARVEY,8.001.98
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and said he plaid the veri snudg then that had so much lerning and
+shoud so litle : and that he did not wel to hord it up , whereas he
+miht have so gud vse of it . HARVEY,8.001.99
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Besides sum other trim iests and iybes of his , as that he had givne us
+mani a choke pare in his dais and the like . HARVEY,8.001.100
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Here wuld I fain know whither I bi M. Becon or Nevil bi M. Alin have
+delt more reasnably , and spokin more curtuusly . HARVEY,8.001.101
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+But no marvel if Nevil were sumwhat sharp set against M. Alin , when as
+I had givn him so hih a commendation before : HARVEY,8.001.102
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+for within les then this fortniht he tould me thus mutch to mi face ,
+that he and sum others had dispraisd sum men the more bicaus I had
+praisd them , not so mutch to disable them as to overwhart me , and
+that I miht not have mine own wil . HARVEY,8.001.103
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+These ar ther sociable and fellouli delings . HARVEY,8.001.104
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+But I pas mani sutch misusagis over les I shuld be over taedius to your
+wurship . HARVEY,8.001.105
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+III. M. Nevils third reason was , that I made but smal and liht account
+of mi fellouship . That he gatherid uppon certain talk that a litle
+before fil out betwixt him and me at the table . HARVEY,8.001.106
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+The talk was this : HARVEY,8.001.107
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+he said he wuld not for a hundrith pounds but have bene fellou of the
+hous : HARVEY,8.001.108
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and I said merrely , that a hundrith pound was a great deal of moni in
+a schollars purs . HARVEY,8.001.109
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Wel , said he , it hath savd me forti pound spending alreddi ,
+HARVEY,8.001.110
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and I wuld rather have givn an hundrith pound then have gone beside it
+. HARVEY,8.001.111
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I tould him plainly , that so had not I , and that I wuld rather have
+missid of it then givn twenti pound in reddi munni for it :
+HARVEY,8.001.112
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+whi , saith he , it hath bene so mutch wurth unto you alreddi :
+HARVEY,8.001.113
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I easly grauntid him that , HARVEY,8.001.114
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+but I tould him I culd have made better shift without a fellouship then
+I culd have made shift to pai so mutch for a fellouship .
+HARVEY,8.001.115
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I said also , that I made as great account of the bennefit as ethir he
+or ani man els did , or coold . Marri so , that I wuld have bene loth
+to have bouht it so dear as he spake of . HARVEY,8.001.116
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Al this was <P_9> spokin obiter at the table , as mani things were
+beside : HARVEY,9.001.117
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and suerly I had thout it had bene as wel digestid as other things were
+. HARVEY,9.001.118
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+But here was stuf gud plenti to furnish up a trim tragedi .
+HARVEY,9.001.119
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I set naut bi mi fellouship : HARVEY,9.001.120
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I contemn mi fellouship : HARVEY,9.001.121
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I make no count of the bennefit : HARVEY,9.001.122
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+ani college in y=e= toun wuld have bene glad of me : HARVEY,9.001.123
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I miht have bene as wel sped in ani other place : HARVEY,9.001.124
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I culd not have wantid a fellouship in ani place , no not in kings
+college , if nead had bene . HARVEY,9.001.125
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And mutch a doo had we with this I warrant you : HARVEY,9.001.126
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+here was matter enouh for them to wurk uppon . So cunning ar thai to
+bru , and so reddi to broche debate , if a man feed not there humor ,
+nor sooth them up in there saiings . HARVEY,9.001.127
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I tould M. Nevil then , and said as mutch to M. Nuce sinc , that I culd
+not abide it in an other , and therefore did abhor it in mi self to be
+ingrateful for a bennefit receivid . And that if thai bi hose means I
+had obtainid this bennefit , and namely your wurship , had ever had
+occasion to tri me , ye shuld have found me in al points both veri
+mindful of it and riht thankful for it : finally that I did and do set
+as great store bi mi fellouship as he whoosoever made most of it .
+HARVEY,9.001.128
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+M. Nevil was content to give me the hering , to take occasion of nu
+matter , and fresh game : HARVEY,9.001.129
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+but when we came onc to y=e= point to know what he wuld do for me or
+against me , I was never a whit the near , but rather farther to seek
+then at our first meting . HARVEY,9.001.130
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+For in the end the gentleman was disposid to shew his wit ,
+HARVEY,9.001.131
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and pleasd him self wunderfulli in blurting out sutch iests as he had
+gottin togither for the nons : HARVEY,9.001.132
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I wil do as men of best consciences do : HARVEY,9.001.133
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I dare make no promis : HARVEY,9.001.134
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I wil not do ani thing for intreati : HARVEY,9.001.135
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I wil do as god shal put in mi hed : HARVEY,9.001.136
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I minde to cum fre to y=e= place : And as mani or mo in an other vain :
+HARVEY,9.001.137
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+You must lern to know your self : HARVEY,9.001.138
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+It is dun for your amendment : HARVEY,9.001.139
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+In sum respects I coold finde in mi hart to giv you an hundrith voicis
+, if I had them : HARVEY,9.001.140
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+In sum other respects I must stai a while . HARVEY,9.001.141
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+You must put of the ould man , and put on the nu man : HARVEY,9.001.142
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+You have the veni ; HARVEY,9.001.143
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+the game is to strive for yit . HARVEY,9.001.144
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And I $can $not {TEXT:cannot} tel how mani mo of this stamp frivolus
+and <P_10> doggid iests . HARVEY,10.001.145
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+This is the wai that thes fellouli men have takin to school and coole
+me , silli soul . HARVEY,10.001.146
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And yit if I shuld report and repeat al , your wurship miht think me
+far wurs abusid . HARVEY,10.001.147
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+IIII. It pleasd M. Nevil to use a forth reason also against me ;
+HARVEY,10.001.148
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and that forsooth was this : that I was a great and continual patron of
+paradoxis and a main defender of straung opinions , and that communly
+against Aristotle too . HARVEY,10.001.149
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I tould him that for thos paradoxis , as he termid them , thai were
+more of mine own making , but only propoundid of me out of others to be
+discussid and riflid in disputation : and that I never yit tooke uppon
+me the defenc of ani quaestion which I culd not shew with a wet fingar
+out of sum excellent late writer or other ; and esspecially out of
+Melancthon , Ramus , Valerius and Foxius , fower wurthi men of famus
+memori . And as for Aristotle , that I have alreddi both in private
+talk often , and in publick disputation almost usually commendid him as
+hihly as I wel culd and purposid hereafter to commend him more , as
+occasion shuld serv and the matter bare : marri not so , that I can
+strait wai take it for scripture what soever he hath givn his wurd for
+. HARVEY,10.001.150
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Mi chefist propositions against Aristotles philosophi have bene thes ,
+or the like : Mundus non est aeternus : Coelum non est quintae naturae
+: Coelum non est animatum : Nihil est Physikos infinitum potentia :
+Virtus non est in nostra potestate . Whereof the first , the secund ,
+the third , and the fift too after a sort , ar al stoutly and mihtely
+avouchid of al , or almost al thos fower notable and famus writers .
+HARVEY,10.001.151
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+In deed , the forth as far as I could yit lern , is onli defendid of
+Ramus : marri so , that I for mi smal scil think he is able to satisfi
+ani reasnable natural philosopher in that point . HARVEY,10.001.152
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+If thes or the like be so greuus and hainus opinions as mai lawfulli
+debar a man of his degre , what meen we to account the <P_11> tutors
+and fautors of them so wurthi and passing men ? Unles we wil onli admit
+of that to be done whitch we our selvs onli have dun , in philosophical
+disputations to give popular and plausible theams , de nobilitate , de
+amore , de gloria , de liberalitate , and a few the like , more fit for
+schollars declamations to discurs uppon then semli for masters problems
+to dispute uppon : and more gudli and famus for the show then ether
+convenient for the time , or meet for the place , or profitable for the
+persons . HARVEY,11.001.153
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Sutch matters have bene thurrouly canvissid long ago :
+HARVEY,11.001.154
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and everi on that can do ani thing is able to write hole volumes of
+them , and make glorius shows with them . HARVEY,11.001.155
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I $can $not {TEXT:cannot} tel , HARVEY,11.001.156
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+but me thinks it were more fruteful for us and commodius for our
+auditors to handle sum sad and witti controversi . HARVEY,11.001.157
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+But I never found ani fault with them for duelling in there own stale
+quaestions . HARVEY,11.001.158
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I wuld it miht have pleasd them as litle to envi me for mi nu fresh
+paradoxis . HARVEY,11.001.159
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+But thai fare that this singulariti in philosophi is like to grow to a
+shrode matter , if I onc convert mi studdi to diuiniti .
+HARVEY,11.001.160
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Belike thai are aferd les I shuld proove sum noble heretick like Arrius
+and Pelagius : and so disturb and disquiet the Church as I now do the
+Chappel . HARVEY,11.001.161
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Wel , I hope thai shal have no great caus as long as I busi mi self in
+no other matters then {in}_P I do , HARVEY,11.001.162
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and if I keap mi self as upriht in diuiniti as thes men have dun whos
+opinions I have desirid to be thurrouly siftid I dout not but I shal do
+wel enouh , althouh not fully so wel as thai . HARVEY,11.001.163
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And yit , bycaus thai wil nedes have me do as thai do and sai as thai
+sai , I care not greatly if I now take forth a nu lessun , and begin to
+do so in deed : HARVEY,11.001.164
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and I wil lock Melancthon and Ramus up in mi studdi , and bring Osorius
+and Omphalius in to the chappel . HARVEY,11.001.165
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+But enouh of this , and to mutch too , but that I am drawn and drivn
+unto it violentli . HARVEY,11.001.166
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I have in most humble manner to desier you , riht wurshipful , to bare
+with mi over great simpliciti <P_12> and bouldnes in opening mi case
+unto you : HARVEY,12.001.167
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and you se how the matter goith with me . HARVEY,12.001.168
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I am inforcid rather to bungle up a pelting histori then to write a set
+epistle . HARVEY,12.001.169
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Your wurship hath harde what forcible and waiti reasons M. Nevil hath
+usid against me ; besides certain glauncis at two or thre od things mo
+; HARVEY,12.001.170
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+<paren> 1 </paren> as at mi sitting in the chappel in the reading of my
+oration , whereas the use , thai sai , hath bene to kneel , and yit now
+as mani almost use to sit as kneel , HARVEY,12.001.171
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and I think suerly everi man mai do as he himself felith most for his
+ease : HARVEY,12.001.172
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+<paren> 2 </paren> and esspecialli at the putting on of mi hat at
+problem , which I did not twelmunth nethir . HARVEY,12.001.173
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Indeed not long after mi first cumming I must needs , and do willingly
+confes , I having bene veri sore sick , and at the self same time
+waring a charcher , feeling mi hed sumwhat could <paren> for it was in
+the deadist time of winter </paren> , and , faring lest I shuld take
+could and kast mi self in to farther sicknes , did praesume so mutch of
+other mens pacienc as to put on mi hat ; HARVEY,12.001.174
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and no man did onc seem to note it , or to think ani thing in it , that
+I could heer of . HARVEY,12.001.175
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And a while afterward I , having thus bi reason of sicknes usid mi self
+to a hat and a karcher , culd not abide ani while to be barehed ,
+without sum praesent hed ache : HARVEY,12.001.176
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and therefore twise or thrise that winter and not above , uppon the
+cruellist could nihts , did after the same manner . HARVEY,12.001.177
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+No man al this while for ouht that I culd lern did onc sai black was
+mine i for it . HARVEY,12.001.178
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+The next winter , uppon a sharp frosti niht or two , being not greatly
+wel nethir , I was so hardi as to do as mutch ; HARVEY,12.001.179
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and so was M. Nevil him self too onc , by his leav , being then but
+batchelur as wel as I . HARVEY,12.001.180
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+The secund time M. Nuce veri frendly , I thank him , gave me this
+caveat in mine are , that it was not the custum that batchelurs shuld
+be coverid , and that it was offensive unto certain of the cumpani .
+HARVEY,12.001.181
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I aunserid him as louly , I did not know so mutch ; and that I wuld not
+do so ani more ; HARVEY,12.001.182
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+nethir in deed did I so ani more sinc . HARVEY,12.001.183
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+But Insipientis est dicere non putaram : HARVEY,12.001.184
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and yit now am I forcid onc again to it , HARVEY,12.001.185
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and $can $not {TEXT:cannot} choose but cri out , non putaram :
+HARVEY,12.001.186
+
+<P_13>
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Suerly it never once cam in to mi mind to imadgin that it wuld ever
+have cum to ani sutch ishu . HARVEY,13.001.187
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+If it had , I percaiv a great inconvenienc had bene better then the
+breach of ani custum . HARVEY,13.001.188
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+But it was mi il luck to bi wit at the dearist hand . HARVEY,13.001.189
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And now your wurship hath , as near as I culd , harde al , or wel ni al
+the talk , that passid betwene M. Nevil and me at that time and how I
+did then unto him , and do now unto you aunser in mi own behalf .
+HARVEY,13.001.190
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+$Be $that {TEXT:Bethat} we had on this manner spent gud part of the
+afternoon <paren> for we had now bene at it from immediatly after
+dinnar til thre a clock </paren> the bel rang to the congregation .
+HARVEY,13.001.191
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+The other got there graces ad visitandum , as I said before ;
+HARVEY,13.001.192
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I was left at home ad miserandum as it hath proovd since .
+HARVEY,13.001.193
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Notwithstanding , as soone as I miht conveniently <paren> for it stud
+me in hand to bestur me </paren> I went also in like manner unto M.
+Osburn , HARVEY,13.001.194
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and requestid him most ernestly that he wuld not kepe me back ani
+lenger , considering what a foul shame and foil it had alreddi bene
+unto me . HARVEY,13.001.195
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I made him this lavish offer , whitch then I promissid , and now
+purpose duly and truly to perform , that if I had ani wais dun amis ,
+or in ani point offendid e ther him or M. Nevil , or ani other , that I
+wuld bend , and endevur mi self to the uttermost of mi power both-4
+hereafter to redres and amend it , and praesently to make ani reasnable
+satisfaction for it . HARVEY,13.001.196
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+This so moovid M. Osburn at the instant , that he semid hereuppon to be
+wel pacifiid : HARVEY,13.001.197
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and indede I was more than half persuadid that he wuld do for me .
+HARVEY,13.001.198
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Onli this he said , and he spake it veri mildly , that before I had
+talkd more with the rest and namely with M. Nevil , he miht make no
+prommis : HARVEY,13.001.199
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and yit truly mi thout he did almost make me a pees of a prommis .
+HARVEY,13.001.200
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+This made wel for me : HARVEY,13.001.201
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I began now to be in a farther hope : HARVEY,13.001.202
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and therefore I sout mi opportuniti to talk with M. Nevil a fresh , to
+tri if I culd find him ani whit more tractable . HARVEY,13.001.203
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+M. Nevil was M. Nevil stil , the veri self same man that I left him ,
+nether to be allurid bi prommissis , nor persuadid bi wurds , <P_14>
+nor wun bi intreati nor moovid bi greef . In so mutch that him self
+spake thus curragiusly of him self , that if the Emperur shuld write
+his letters unto him in mi behalf , that he wuld not relent : a wurthi
+pattern of a noble stummock . HARVEY,14.001.204
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And now he was thurrouly furnisshid with a cumpani of gud lusti cuts
+and stateli scofs , HARVEY,14.001.205
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and amongst a pack of them he brake out into this iolli and brave iybe
+: HARVEY,14.001.206
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+We have you at the suords point : HARVEY,14.001.207
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+we wil hould ye thare whilst we have ye thare , les if you get ons
+within the half swurd you chaunc to give us the lamskin .
+HARVEY,14.001.208
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And straitely after <paren> for I let him alone , I sae him so lustely
+disposid </paren> ; A bird in the hand is surist . So that now he was
+altogither set on his merri pinnes , and walkd on his stateli pantocles
+; setting al at nauht that I culd sai unto him . HARVEY,14.001.209
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And yit I am suer I wooid him so as mani a gud man never did his wife :
+HARVEY,14.001.210
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and I am suer he reiectid me so as few honist masters have dun there
+servants . HARVEY,14.001.211
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+To conclude , I talkid and walkid so long with him , that I was so weri
+I culd scarce stand , and so dri that I culd hardly speak .
+HARVEY,14.001.212
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Al was nauht wurth : HARVEY,14.001.213
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+onli he gave me this flim flam , that I had persuadid him sumwhat , and
+as mutch as a man miht persuade him : marri so that he culd not , nor
+wuld not as yit condescend ani thing to mi petition . HARVEY,14.001.214
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And forsooth now he had gotten a gud nu argument of singulariti ,
+HARVEY,14.001.215
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and that was this : that I wuld needs in al hast be a studdiing in
+Christmas , when other were a plaiing , and was then whottist at mi
+book when the rest were hardist at their cards . HARVEY,14.001.216
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Here althouh there was little need of excuse , yit , to satisfie his
+mind and abate his heat , I said that I had veri urgent busines this
+last Christmas , more then everi man knew of , HARVEY,14.001.217
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+or els I had bene man like enouh to have dun as other did .
+HARVEY,14.001.218
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+He tould me again , na , I had dun so everi Christmas sins I cam to the
+house . HARVEY,14.001.219
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Wel , there was no shift of it , HARVEY,14.001.220
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+M. Nevil wil and must needs have his own wurds : HARVEY,14.001.221
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and thus he and his fellows seek to pick quarrels with me , and to make
+huge mountains of smal low molhils . HARVEY,14.001.222
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+When I had reasenid the matter <P_15> up and doun mi belli ful , and my
+hed ful too , I praid him most hartely , and that with mi cap in mi
+hand , that he wuld not suffer me to go in as great suspens as {in}_P I
+cam : and , unles he thout too vilely and abiectly of me , that he culd
+not altogither set me and mi wurds at nauht , but wuld at the last put
+me in sum better hope . HARVEY,15.001.223
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Tush , thes ar but wurds , HARVEY,15.001.224
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+nothing wil suffice , HARVEY,15.001.225
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+there is no remmedi ; HARVEY,15.001.226
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+M. Nevil is flinti , HARVEY,15.001.227
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and is M. Nevil stil ; HARVEY,15.001.228
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I must needes abide the brunt of his displeasure ; HARVEY,15.001.229
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+what is a gentleman but his pleasure ? HARVEY,15.001.230
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And so I partid from him as wise as I cam . HARVEY,15.001.231
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+After this I tooke mi time to intreate M. Osburn anu :
+HARVEY,15.001.232
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and I found him not so quiet and calme before , HARVEY,15.001.233
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+but I felt him as whot and boisterus , or rather pevish , and wayward
+now . HARVEY,15.001.234
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+He revilid me to mi teeth : HARVEY,15.001.235
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and tould me veri flatly that he was bewitchid before , yea , and that
+it was mi flatteri and serviliti <paren> for so it pleasd him now to
+term it </paren> that bewitchid him : and that for an unreasnable
+desire of the degre I spake that whitch I never ment , and did I carid
+not what . HARVEY,15.001.236
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+What shuld a man doo , or sai , in so desperate a case ?
+HARVEY,15.001.237
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Wel , I tould him quietly , that he delt veri rouhly and uncurtuusly by
+me , to charg me with that which he knew not : and to interprit that so
+il which was dun and ment so wel : and that now I parsaivid plainly
+nothing culd content them ; HARVEY,15.001.238
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+before I was arrogant HARVEY,15.001.239
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and now I am servile . HARVEY,15.001.240
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And he said again as fersly as before , that I went ab extremo ad
+extremum sine medio ; so il succes had mi gentle behaviur towards them
+. HARVEY,15.001.241
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+The conclusion was this , that if the fellous were calid togither he
+wuld do for me as he thouht best . HARVEY,15.001.242
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Thus was I doggid and dodgid on everi side ; and so that in your
+wurships absenc I sae litle hope of amendment , sum of them being so
+far in with M. Nuce , as I knew . HARVEY,15.001.243
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And yit in this meane while I once besouht M. Nuce also ; that he wuld
+stand mi frend in so great an extremiti : althouh in deed I culd not be
+ignorant that M. Osburn and M. Nevil , mi heavi masters , had now
+handelid the matter wel enouh with him , and had , as we sai ,
+forestalid the market . HARVEY,15.001.244
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Notwithstanding , suerly I must needs sai , I <P_16> found him
+reasnable and frendly : but so that he culd not stur in the matter til
+there reasons were examinid . Whereuppon we began to reckin up sum of
+them : HARVEY,16.001.245
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and he thouht that thos causis of being sociable , and of commending
+and discommending men , were no better then trifling and childish
+causis ; and that litle better of setting so lite bi mi fellouship .
+HARVEY,16.001.246
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+We had longist and largist discoursis about mi philosophi quaestions :
+HARVEY,16.001.247
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and he tould me that he ment not to discurrage other from doing the
+like ; HARVEY,16.001.248
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+onli I seemid to be givin over mutch to nu opinions in givin so
+communly sutch questions . HARVEY,16.001.249
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+We touchid also thos other points that M. Nevil stud uppon before : but
+more particularly and fully certain iars that had faln out betuixt M.
+Osburn and me , and M. Nevil and me , long ago : thai them selvs , not
+I , being the beginners and continuers of them . HARVEY,16.001.250
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Thes he said in deed were private quarrels and privately had with
+private men , and therefore to have bene forgivn and forgottin :
+HARVEY,16.001.251
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+but that it was likeli that thai went about of private grudgis to make
+them commun causis , HARVEY,16.001.252
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and therefore desirid that the hole matter miht be harde , and iudg of
+bi the fellous . And that he misdeemid thai had sum sutch thing in
+there hed to go about to proove me contentiosum , as indeed it hath
+proovid sins . HARVEY,16.001.253
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+For against the next morning was there an other congregation calid .
+Whereuppon in the morning I desirid M. Nuce to moove mi grace unto the
+fellous anu : HARVEY,16.001.254
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+He did so . HARVEY,16.001.255
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+M. Osburn did now as he did in y=e= parlur before : HARVEY,16.001.256
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+he being urgid to shew the cause , usid first thes veri wurds towards
+me : HARVEY,16.001.257
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+S=r= Harvie you have bene veri surli and too surli heretofore :
+HARVEY,16.001.258
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and therefore if I shuld addere autoritatem , I think I shuld ignem
+igni addere . HARVEY,16.001.259
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+In the mean while M. Nevil askith leav of M. Nuce that he miht depart ,
+alleaging his other busines , and saiing that he wuld leav M. Osburn to
+follow the matter for this time . HARVEY,16.001.260
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+M. Osburn went on , HARVEY,16.001.261
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and began in deed to lai contentiusnes to mi charg . HARVEY,16.001.262
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Whi ? HARVEY,16.001.263
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Bycaus I had bene at wurds with him , with M. Nevil , and I $can $not
+{TEXT:cannot} tel with home besides ; HARVEY,16.001.264
+
+<P_17>
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+nor he nethir , if he wil speak no more , but that he knowith and
+thinkith . HARVEY,17.001.265
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And to sai troth , I suppose verily , a litle breach betuixt thes twoo
+and me was the tru and onli caus of al thes sturs . HARVEY,17.001.266
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Hinc mihi prima mali labes , hinc semper Ulisses Criminibus terrere
+novis , hinc spargere voces In vulgum ambiguas et quaerere conscius
+arma , Nec requievit enim , donec Chalcante ministro .
+HARVEY,17.001.267
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Wel , I tould M. Osburn that thos matters were or shuld have bene dead
+and buriid long ago : And , as for his contentiusness , that I culd
+easly enouh clear mi self of it ; considering that the plaintifs
+themselvs plaid the cheefist part , and bore the greatist stroke in it
+. Notwithstanding if he or ani other culd proove that bi me , whitch
+nethir he nor ani other shal ever proove bi me , that there was an
+ordinari deeling , praescribid bi our statuts for it , and that he culd
+not , nor ouht not in ani sutch respect to deni me mi grace .
+HARVEY,17.001.268
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I trow I shuld first have bene admonnisshid privately of it , and not
+openly have takin ani iniuri for it . HARVEY,17.001.269
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And this statute I chargid him with al . HARVEY,17.001.270
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Bi that time we had talkid thus mutch too and fro , the bel range to
+the Congregation : HARVEY,17.001.271
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and so we brake up ; I thus delaiid and deludid , as you have hard
+{COM:DIAERESIS_ABOVE_a_IN_hard} . HARVEY,17.001.272
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+S=r= Far and S=r= Hoult were praesently admittid , HARVEY,17.001.273
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and ar now Masters of Art , and I not as yit gottin mi grace in the
+hous , to mi great defamation in the town and hous . HARVEY,17.001.274
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And now tales run up and down the town that S=r= Harvi of Pembrook Hale
+hath dun thus and thus , abusid thes men , and thes men , behavid
+himself after this manner and this manner and thereuppon is staid in
+the hous : in so mutch that thai that knew me not can not choose but
+think veri il of me , and thai that knew me too <paren> unles it be sum
+of mi nearist acquaintanc </paren> mai now begin to dout of me .
+HARVEY,17.001.275
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+In deed M. Thomas Nevil , a veri frend of mine at the pinch , I thank
+him for it , hath dun mi arrand , and blasd
+{COM:DIAERESIS_ABOVE_a_IN_blasd} mi arms abrode , HARVEY,17.001.276
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and hath not offerid so mutch wrong and iniuri at home , but he hath
+utterid mutch more malice and spite in other <P_18> placis : so that I
+have not yit bene so courst and gald in our own hous as I am like
+hereafter to be pincht and nipt in the regent hous . HARVEY,18.001.277
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Matters ar made wurs and wurs in the telling : HARVEY,18.001.278
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and now forsooth mi not being sociable , arguith great arroganci ;
+HARVEY,18.001.279
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+mi reprehending of others , arguith great arroganci ; HARVEY,18.001.280
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+mi defending of paradoxis , arguith great arroganci ; HARVEY,18.001.281
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and , to be short , everi thing , mi going , mi speaking , mi reading ,
+mi behaviur arguith great and intolerable arroganci . HARVEY,18.001.282
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Nothing so commun and rife in everi mans mouth as sutch a batchelurs
+hautines , insolenci , stoutnes , pride , contentiusnes , and I can not
+tel what els : besides sutch ripping up of ould matters , and sutch
+boulting and sifting of mi matters as I suppose there have sildum been
+seen the like ; HARVEY,18.001.283
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I am veri suer I never felt the like . HARVEY,18.001.284
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Al this , and more then al this too , if more mai be , sprung of gud M.
+Nevil , whitch uppon no other occasion but stummock , and an ould grudg
+, hinc illae lachrymae , whatsoever he praetends otherwise , hath now
+not so litle as a fortniht openly and before not so litle as a munth
+prively plaid his part and wrouht his feat on this manner : besides his
+facing and outfacing of me at y=e= table , in the court and in everi
+place els . So that I suppose verily never bare was so baitid at the
+stake with bandogs and masties as sum of them and namely gud M. Nevil ,
+a gud benefactur of mine , hath baitid and tuslid and chasid me .
+HARVEY,18.001.285
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Whitther this be procurare malum socio , to doo thus at home and
+abroade and in eviri cumpani sine discretione , I leav it to your
+wisdum to considder . HARVEY,18.001.286
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Truly I $can $not {TEXT:cannot} scil what is procurare malum socio , or
+iniuriam inferre socio , HARVEY,18.001.287
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+nae I know not what is petere iugulum socii if this be not .
+HARVEY,18.001.288
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Suer I am it is far enouh from that , Inter bonos bene agier , and ,
+Homo homini Deus . HARVEY,18.001.289
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I am afraid it smels to mutch of the contrari , Homo homini lupus ; and
+if that be ani whit more , socius socio . HARVEY,18.001.290
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Wel , I douht not but I shal finde your wurship , as I have dun alwais
+, veri favorable and gud unto me in this ruli and miserable case .
+HARVEY,18.001.291
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+You se how greatly it concerns me : and how unkindly , nae how cruelly
+and fersely , I am delt with al . HARVEY,18.001.292
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Nethir <P_19> can I looke for ani thing els but passing extremiti , and
+the wurst thai can doo at there hands . HARVEY,19.001.293
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Therefore I have most humbely and hartely to beseech you , riht
+wurshipful , that you for your wisdum wil take sum sutch order out of
+hand that I mai praesently get mi grace in the hous . HARVEY,19.001.294
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+There is now no other wai , thai have handelid the matter so clarkly ,
+and armid them selvs so strongely . HARVEY,19.001.295
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+So gracius ar thai that have mi grace in there hands :
+HARVEY,19.001.296
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and so ungracius am I , that am to seek mi grace at sutch men 's hands
+. HARVEY,19.001.297
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Whereas almost al the toun ar gracid yea and admittid too alreddi : and
+I , unles I have better luck then I looke for , am as suer to have
+sumwhat a doo an other while in the town . HARVEY,19.001.298
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+But thes men , for ani thing I can see , wil never relent of themselvs
+, but bi your wurship 's means and commandiment ; HARVEY,19.001.299
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and suerly I am afraid thai have vowid so mutch , in so mutch that M.
+Nuce , whome thai have , as is most likeli , made privi to al there
+doings , gave me this watchwurd in his own chamber , that it miht be
+thai ment to make me weri of the hous , and so caus me to commens in
+sum other hous . So mihtely and valiantly thai purpose yit to set uppon
+me . HARVEY,19.001.300
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+But I trust , as it hath likid your wurship to bestow so great a
+bennefit uppon me , in choosing me fellow , so it mai pleas you to
+bestow as great a bennefit uppon me in keeping me in mi fellouship stil
+; HARVEY,19.001.301
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+for alas what ioi can I possibely have to continu in mi fellouship , mi
+juniors being masters , as thai ar , and I but batchelur , as I am yit
+like to be ; and thos other triumphing and insulting uppon me as it
+pleasis them ? HARVEY,19.001.302
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+For God 's sake wai mi caus , what it is , HARVEY,19.001.303
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and considder mi case how it standith ; HARVEY,19.001.304
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and as soon as you mai conveniently rid me out of sum of this greef .
+HARVEY,19.001.305
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I am occasionid to go abroad about Whitsuntide <paren> and in deed it
+is to Sir Thomas Smyths hous in the cuntri , as I was certifiid
+</paren> if it were possible <P_20> before that time to be admittid :
+HARVEY,20.001.306
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and unles I be so <paren> and yit there is a Gaubert in the wai that
+wil plai his part too , as Sir Flower tould me this verri morning
+</paren> there must be two or thre several congregations purposely and
+only for me . HARVEY,20.001.307
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And so mutch the harder it is like to go with me when it cums onc that
+I must run thorouh the pikes . HARVEY,20.001.308
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+Therefore I wuld it miht like your wurship to take this order
+HARVEY,20.001.309
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and I beseech you most humbely do so , that thai delai and delude me no
+lenger , but graunt me mi grace forthwith : HARVEY,20.001.310
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and if so be there be ani thing wherein thai can sai I have offendid
+against ani on statute I shall be reddi ani time hereafter to stand to
+the trial of it with them , ether-4 before your wurship , or the
+Cumpani : HARVEY,20.001.311
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+and I $shall $be {TEXT:shalbe} contentid to abide du punishment
+therefore , according to the wil and discretion ether-1 of your wurship
+, or the Cumpani . HARVEY,20.001.312
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+But I wil leave the hole matter to your wisdums reasnable consideration
+: HARVEY,20.001.313
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+for I know I have bene too taedius unto you . Wherein I have most
+ernestly to request your wurship to pardun me , as also in mi over flat
+and homeli kind of writing . HARVEY,20.001.314
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+But I culd not possibely ani other wai expres the matter as it is :
+HARVEY,20.001.315
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+nethir am I able ani wai in deed to expres it sufficiently .
+HARVEY,20.001.316
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+I trust your wurship wil bare with me . HARVEY,20.001.317
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+And here I rest to be trubblesum unto you , commending you in mi
+praiers unto God , whos you ar . HARVEY,20.001.318
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:JOHN_YOUNG:MALE:_:_:_
+LETTER:HARVEY_001:E2:1573:AUTOGRAPH:OTHER
+From Pembrook hal this xxi. of March . A. 1573 . HARVEY,20.001.319
+
+<Q_HAV_A_1573_T_GHARVEY> <L_HARVEY_002> <A_GABRIEL_HARVEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1545?> <R_HUMPHREY_TYNDALE>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_20>
+
+{ED:TO_HUMPHREY_TYNDALE,_FELLOW_OF_PEMBROKE.}
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+Salutem plurimam . HARVEY,20.002.320
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+Master Tendal , I am sorie I am so litle gratius in Pembrook hal that I
+$can $not {TEXT:cannot} yit , after so long and great a doo , obtain mi
+grace . HARVEY,20.002.321
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+I persaive our Master hath bene sumwhat ernest and whot in mi behalf :
+HARVEY,20.002.322
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+but I persaive also M. Osburn <P_21> and M. Nevil wil be Quarter
+Masters . HARVEY,21.002.323
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+And as for Sir Flower , of a like he is no better then Sir Perfidus ,
+and a veri flower in deed ; HARVEY,21.002.324
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+and so he shal wel understand if I be ons Master . HARVEY,21.002.325
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+What were best to be dun in so desperat a case I se not .
+HARVEY,21.002.326
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+Ride yit to London mi self I can not . HARVEY,21.002.327
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+Differ the time ani longer I ouht not . HARVEY,21.002.328
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+Overlode mi frends with mi burden I dare not . HARVEY,21.002.329
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+And what other wai I shuld take I know not . HARVEY,21.002.330
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+You counsel me to take counsel of mi pillow ; HARVEY,21.002.331
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+but I am aferd al the pillow counsel in Walden is scarc able to counsel
+to so hard a case . HARVEY,21.002.332
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+To be plaine , I like your good Cambridg counsel best , that you take
+the paines to make a iorni over to London to our Master , and there to
+talk with him at larg in the matter . HARVEY,21.002.333
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+And yit I wuld be veri loth , if it miht be otherwise , to be so
+trubblesum unto you . HARVEY,21.002.334
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+But I prai you bare with me , good M. Tendal , if I make too bould with
+mi frends in this extremiti . HARVEY,21.002.335
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+If I mai ani wais stand you in the like stead , or at ani time help you
+with the like counsel , be you wel assurid of it , HARVEY,21.002.336
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+I wil be as reddi to pleasure you as you ar willing to ride for me .
+HARVEY,21.002.337
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+Few wurds shal suffice amongst frends : HARVEY,21.002.338
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+and I am now constrainid to be short . HARVEY,21.002.339
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+Wel , if you do voutsafe to ride to Lundon , I beseech you handle the
+matter cunningly with our Master , HARVEY,21.002.340
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+and use sutch means that your iorni mai take effect . HARVEY,21.002.341
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+You know how easely our Master mai coniure our two yung masters Flower
+and Lawhern . HARVEY,21.002.342
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+And there be other wais too , I think , to make up the matter , if need
+be . HARVEY,21.002.343
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+M. Brown miht be wun before he cum to Cambridge , and before he meddle
+ani thing in the matter . HARVEY,21.002.344
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+Afterward ther wil be no deling with him , if he be ons set against me
+, HARVEY,21.002.345
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+and I had rather have ten Osburns then on Brown against me .
+HARVEY,21.002.346
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+I beseech you , good M. Tendal , use your own discretion with our
+Master and others : HARVEY,21.002.347
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+for I tel you tru HARVEY,21.002.348
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+I mi self was never more to seek then I am now . HARVEY,21.002.349
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+Only thus mutch you mai certifi our Master , <P_22> whitch you yourself
+know too , as wel as I , that what soever is dun is dun uppon spite and
+an ould grudg ; that nothing culd have bene reprochful and infamus unto
+me ; that thei can not convict me of ani sutch crime as miht iustly
+deserve ani sutch punnishment ; that you have known mi mind , how
+desirous I have alwais bene of quietnes ; that thei seek al occasions
+of quarreling ; and other the like things , whitch you know to be veri
+tru , and mai honestly report . HARVEY,22.002.350
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+But I wil commit al sutch matters to your own consideration .
+HARVEY,22.002.351
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+And as for mi cumming to Cambridg , althouh I think it better for mi
+harts ease to continu at Walden stil , yit I wil do as you wil me ,
+HARVEY,22.002.352
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+and I wil se Pembrook hal , God willing , ere it be long .
+HARVEY,22.002.353
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+In the meane while I commit you to the protection of God .
+HARVEY,22.002.354
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_002:E2:1573:AUTOGRAPH:OTHER
+In hast . HARVEY,22.002.355
+
+<Q_HAV_A_1573_T_GHARVEY> <L_HARVEY_003> <A_GABRIEL_HARVEY>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1545?> <R_HUMPHREY_TYNDALE>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_22>
+
+{ED:TO_THE_SAME.}
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+Salutem plurimam . HARVEY,22.003.356
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+Master Tendal , you must impute it to the chaung of the wether that
+Wale cummith no sooner to Cambridg . HARVEY,22.003.357
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+I hope mi long lingering matter is ere now quietly dispatch .
+HARVEY,22.003.358
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+I prai God it be so . HARVEY,22.003.359
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+But , how so ever the world goith , with me or against me , I prai you
+send your letter bi Wale when you think it best for me to be at home
+and whi . HARVEY,22.003.360
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+And I prai you also let me understand a part how your London triacle
+hath wrouht against your Cambridg poisun . HARVEY,22.003.361
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+I am aferd the triacle is scarc so mihti and effectual as the poisun is
+daungerus and deadli . HARVEY,22.003.362
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+And yit bicaus I have litle or no scil in this kind of physick mi self
+, I hope the best , HARVEY,22.003.363
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+and like it so mutch the better bycaus it is minnistrid bi an <P_23>
+ould and tried physician . HARVEY,23.003.364
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+And as smal cunning as I have that wai mi self , I persaivid this
+before mi cumming to Walden , that an easi purgation wuld ease them but
+a litle , and therefore that sum other extreme medecine was to be souht
+for sutch a maladi , HARVEY,23.003.365
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+for main evils you know must have main remmedies . HARVEY,23.003.366
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+Now if nether strong triacle can take effect , nor gentle purgations do
+ani good , I mai rather dispaier of curing the dissease then hope for
+better phisick . Unles there be sum pretti feat wai to let them blud
+and so to rid them of that corrupt and dead blud whitch now hath the
+cours in ther vennemus boddies . HARVEY,23.003.367
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+And this must cum too from a more expert and scilful surgeant then I mi
+self am , HARVEY,23.003.368
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+for unles he be suer aforehand that he strike the riht vain al his hole
+surgeri mai hap to be in vain . HARVEY,23.003.369
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+I tel you tru , M. Tendal , there is so mutch the les hope ether-2 in
+phisick or surgeri for that the disseasid persons ar agents , not
+patients : whereas phisicians and surgeans , for ouht that ever I culd
+heare , take only uppon them to heale there patients .
+HARVEY,23.003.370
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+But nu disseassis must have nu phisick : HARVEY,23.003.371
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+and unles sum busi agents of Cambridg be handsumly and houlsumly curid
+, on pore patient of Walden is like to be past all cure .
+HARVEY,23.003.372
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+You know he hath lit uppon sutch perillus surgeans , and hath so
+daungerusly and unhappely bene let blud , $that {TEXT:than} {COM:SIC?}
+if he had bene ani whit fainthartid he had sundid and sundid long ere
+this . HARVEY,23.003.373
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+But I suppose he hath sum gud frends in Cambridg that wuld gladly do
+him gud : HARVEY,23.003.374
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+and I know he hath sum fast frends in Cambridg that have alreddi dun
+him gud : HARVEY,23.003.375
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+and I hope he hath sum big frends in Cambridg that $shall $be
+{TEXT:shalbe} able to do him gud : HARVEY,23.003.376
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+and I trust he shal find thos leachis in Cambridg that can for there
+scil and wil for there kindnes stint the blud and ease the patient .
+HARVEY,23.003.377
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+And therefore I have wild him to be on good cheare , and tarri a while
+, til he heares from sum on of them : bidding him not to dout but thos
+il disseassid surgeans of Cambridg shal find leachchraft gud enouh
+amongst the other gud hail surgeans of Cambridg . So that now I dare
+sai he hopes for no les : but looks everi hower to be <P_24> healid .
+HARVEY,24.003.378
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+And this is the worst that I can wish him , HARVEY,24.003.379
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+I prai God he be alreddi or praesently mai be healid .
+HARVEY,24.003.380
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+God be with you and him , good M. Tendal , HARVEY,24.003.381
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+and give him now and him and you ever hereafter a praesent
+praeservative against al sutch sores . HARVEY,24.003.382
+
+AUTHOR:GABRIEL_HARVEY:MALE:_:1545?:28?
+RECIPIENT:HUMPHREY_TYNDALE:MALE:_:_:_
+LETTER:HARVEY_003:E2:1573:AUTOGRAPH:OTHER
+From Walden , this xiii. of April . HARVEY,24.003.383
+
+<Q_HAV_A_1573_FN_GHARVEY> <L_HARVEY_004> <A_GABRIEL_HARVEY>
+<A-GENDER_MALE> <A-REL_SON> <A-DOB_1545?> <R_HARVEY> <R-GENDER_MALE>
+<R-REL_FATHER> <R-DOB_--->
+
+<P_40>
+
+{ED:TO_HIS_FATHER.}
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+Althoughe you have heard alreddi , most loving father , that at y=e=
+last , in spite of all mi illwillers , I have obtainid mi sute , and as
+it were gottin y=e= victory , with shame enouh to them all , and
+sumwhat els to sum : yit forsomutch as y=e= matter hung so long as it
+did , and you , with y=e= rest of mi frends miht think more in it then
+was in deed , I thouht good brefely in a word or twoe to showe you what
+a glorius end they had of there gudly enterprise . HARVEY,40.004.384
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+Our Master , seing his letters wuld take no place , HARVEY,40.004.385
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+and persaiving there spiteful and malicius purpose against me , cam
+downe himself to Cambridg uppon Thursday in Whitsunweek , being y=e=
+xiiij. day of Maye , for no other purpose that any could persaive but
+only to stenche this strife , and to rid me out of trubble .
+HARVEY,40.004.386
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+Thay lookid presently for sum nu fresh putting up of mi grace in all
+hast : HARVEY,40.004.387
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+but he let them alone til Munday , never almost making any mention of
+any sutch matter : in so mutch that thay wunderid greatly what he ment
+, being not able to coniecture what purpose he should have in his hed .
+HARVEY,40.004.388
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+Uppon Mundy in the morning there was a congregation , that is , an
+assembly and meeting togither of thos in y=e= publique schooles that
+have to do in thes matters , after thay ar ons passid <P_41> y=e= howse
+. At which time , as y=e= manner is , I was openly nominatid as we call
+it : which is as mutch as can be cumpassid y=e= first Congregation .
+HARVEY,41.004.389
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+This geere semid verie straung and marvelus to mie heavi Masters ;
+HARVEY,41.004.390
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+nether culd thay tel in the world what to say unto it , as well as thay
+thouht them selves armid in al respects . HARVEY,41.004.391
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+The Congregation was continuid til y=e= afternoone , HARVEY,41.004.392
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+and then had I mi grace ad visitandum , as we terme it ; that is , to
+visitt all y=e= Masters in the towne of five yeares , whereunto we ar
+inioined by statute , which is all that can be dun at y=e= secund
+meeting . HARVEY,41.004.393
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+That afternoon and y=e= next day wholy , and uppon Weddensday in y=e=
+morning , I trudgid upp and down y=e= towne a visiting , as gossups in
+sum places do a gaddinge . HARVEY,41.004.394
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+But that is our manner ; HARVEY,41.004.395
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+and to say troth I was full glad I was cum so far , HARVEY,41.004.396
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+mie thought it was even y=e= gudliist and pleasauntist progresse that
+ever I made . HARVEY,41.004.397
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+In y=e= afternoone was there a third Congregation : at which in spite
+of y=e= pie <paren> albeit there was a certain busi boddi - a lusti
+pensionar of our own howse , on Gawber , a knave for y=e= nonse sett on
+, as is most probable by y=e= Masters of y=e= Mischeif , whenas thay
+durst do nothing themselves for feare of afterclaps - that playd his
+part sumwhat egerly against me before mie face , first in charging me
+that I had not visitid his Mastership , as I was bownd , and then in
+going about to disable the doing of mi acts for that I had disputid
+being suspendid </paren> ; at this Congregation , I say ,
+notwithstanding this sore and fierce enditement , I was forthwithe
+admittid Master of Art . HARVEY,41.004.398
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+And thus in thre dayes were all things dispatchid thurrouhly that had
+now wel nih thre munths hangid so doutfully . Which was not so
+commodious for me to mie great cumfort , as it was inglorius for them ,
+to ther wunderful greif . HARVEY,41.004.399
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+But it was now verifiid that M. Tyndal ons tould them , and often said
+unto me , that a foolish enterprise wuld have a foolish end ; so that
+whereas thay thouht by there great words and big looks to have made
+there own parts gud and mine <P_42> wurs then nauht , thay have now by
+on mans reasnable and upright dealing showid themselves what thay ar ,
+and openid there cancrid stummocks to y=e= whole town .
+HARVEY,42.004.400
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+And as for gentle M. Gawber , his Mastership may go shake his eares
+elswhere , and appoint {ED:bespeake_WRITTEN_ABOVE_appoint} his diet at
+sum other table {ED:ordinary_WRITTEN_ABOVE_table} . HARVEY,42.004.401
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+Pembrook hall fare is not for his tooth . HARVEY,42.004.402
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+The truth is , our Master chargid him to be packing , HARVEY,42.004.403
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+and willid M. Tyndall to put him out of Commins , HARVEY,42.004.404
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+and indeed so he is , I warraunt him , although otherwhiles he
+lingerith about y=e= Colledg like a masterles howne , bycause he wuld
+not seem to be thrust out : but in deed lookith like a dog that had
+lost his taile , or , to make y=e= best of it , like an unbidden geste
+that knowes not where to sitt him downe . HARVEY,42.004.405
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+A iust reward for sutch a companion to shuffle him self out of dores ,
+and a meet game for sutch a gamster to play Wylye beguile him selfe .
+HARVEY,42.004.406
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+Thus good M. Doctor Yunge , to his great commendation and mie
+furtheraunce , handelid mie matter at Cambridg , HARVEY,42.004.407
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+and forthwith returnid back to London . Since which time I have oft
+thought with mieself howe great thanks I owe unto God that shapid me so
+soveraine a savegard at y=e= last , $when $as {TEXT:whenas} he had
+chastined me a while for mie demerittes . HARVEY,42.004.408
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+And this it was , as I take it , if it were any thing , that was tould
+me above x yeares agoe for mie fortune , that I should go allwaies to
+lerning , and go well enough forward in lerninge , but never take any
+high degree in schooles ; that is , very hardly and with mutch
+difficulty , which mie mother putt me in minde of , at mie last being
+at Walden , being quite and cleane forgottin of me . HARVEY,42.004.409
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+And as for good M. Yung , a very notable instrument of Gods singular
+goodnes towards me , and in deed a worthi man in divers respects , I
+recount mi self so mutch bownd unto him in this behalf , that I suppose
+verely I $can $not {TEXT:cannot} any wayes possible be thankfull enough
+. Who as he was for his place bownd , for his autority able , for his
+benevolenc desirus , to succur <P_43> me , so for his wisdum he was as
+reddy , for his equity as forward , to repres there insolensy as ether
+I culd wish or he himself culd be . HARVEY,43.004.410
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+His will was so pliable to better my bale : And his scill so forcible
+to quitt me of ale . HARVEY,43.004.411
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+And thus mutch concerning my gud and prosperus successe , after so
+greate and greevus trubbles : as commenly after boisterus and bitter
+stormes there insuith a pleasaunt caulm . HARVEY,43.004.412
+
+AUTHOR:GABRIEL_HARVEY:MALE:SON:1545?:28?
+RECIPIENT:HARVEY:MALE:FATHER:_:_
+LETTER:HARVEY_004:E2:1573:AUTOGRAPH:FAMILY_NUCLEAR
+Sins mie admission M. Senior Proctour , of his owne accord , without
+any labouring at all on mie part <paren> whereas sum other and sum
+iolly fellowes in deed had said unto him in that behalfe </paren> ,
+desirid me verry frendly to be senior Master . HARVEY,43.004.413

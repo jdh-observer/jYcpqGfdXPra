@@ -1,0 +1,3725 @@
+<B_MARVELL> <Q_MAV_A_1653_T_AMARVELL> <L_MARVELL_001>
+<A_ANDREW_MARVELL_JR> <A-GENDER_MALE> <A-REL_---> <A-DOB_1621>
+<R_OLIVER_CROMWELL> <R-GENDER_MALE> <R-REL_---> <R-DOB_1599>
+<AREW_MARVELL_JR> <P_304> {ED:1.}
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+{COM:ADDRESSED} For his Excellence , the Lord General Cromwell . these
+with my most humble service : MARVELL,304.001.1
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+May it please your Excellence , It might perhaps seem fit for me to
+seek out words to giue your Excellence thanks for my selfe .
+MARVELL,304.001.2
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+But indeed the onely Ciuility which it is proper for me to practise
+with so eminent a Person is to obey you , and to performe honestly the
+worke that you haue set me about . MARVELL,304.001.3
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+Therefore I shall use the time that your Lordship is pleas'd to allow
+me for writing , onely to that purpose for which you haue giuen me it :
+That is to render you some account of M=r= Dutton . MARVELL,304.001.4
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+I haue taken care to examine him seuerall times in the presence of M=r=
+Oxenbridge , as those who weigh and tell ouer mony before some witnesse
+ere they take charge of it . MARVELL,304.001.5
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+For I thought that there might possibly be some lightnesse in the Coyn
+, or errour in the telling , which hereafter I should be bound to make
+good . MARVELL,304.001.6
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+Therefore M=r= Oxenbridge is the best to make your Excellence an
+impartiall relation thereof . MARVELL,304.001.7
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+I shall onely say that I shall striue according to my best
+understanding <paren> that is according to those Rules your Lordship
+hath giuen me </paren> to increase whatsoeuer Talent he may haue
+already . MARVELL,304.001.8
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+Truly he is of a gentle and waxen disposition : MARVELL,304.001.9
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+and , God be praisd , I can not say that he hath brought with him any
+euill Impression , MARVELL,304.001.10
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+and I shall hope to set nothing upon his Spirit but what may be of a
+good Sculpture . MARVELL,304.001.11
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+He hath in him two things which make Youth most easy to be managed ,
+Modesty which is the bridle to Vice , and Emulation which is the Spurr
+to Virtue . MARVELL,304.001.12
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+And the Care which your Excellence is pleas'd to take of him is no
+small incouragement MARVELL,304.001.13
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+and shall be so represented to him . MARVELL,304.001.14
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+But aboue all I shall labour to make him sensible of his Duty to God .
+MARVELL,304.001.15
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+For then we begin to serue faithfully , when we consider that he is our
+Master . MARVELL,304.001.16
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+And in this both he and I ow infinitely to your Lordship , for hauing
+placed us in so godly a family as that of M=r= Oxenbridge whose
+Doctrine and Example are like a Book and a Map , not onely <P_305>
+instructing the Eare but demonstrating to the Ey which way we ought to
+trauell . MARVELL,305.001.17
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+And M=rs= Oxenbridge hath a great tendernesse ouer him also in all
+other things . MARVELL,305.001.18
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+She has lookd so well to him that he hath already much mended his
+Complexion : MARVELL,305.001.19
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+And now she is busy in ordring his Chamber , that he may delight to be
+in it as often as his Studyes require . MARVELL,305.001.20
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+For the rest , most of this time hitherto hath been spent in
+acquainting our selves with him : MARVELL,305.001.21
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+and truly he is very chearfull MARVELL,305.001.22
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+and I hope thinks us to be good company . MARVELL,305.001.23
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+I shall upon occasion henceforward informe your Excellence of any
+particularityes in our litle affairs . MARVELL,305.001.24
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+For so I esteem it to be my Duty . MARVELL,305.001.25
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+I haue no more at present but to giue thanks to God for your Lordship ,
+and to beg grace of him , that I may approue my selfe Your Excellencyes
+most humble and faithfull Servant Andrew Marvell . MARVELL,305.001.26
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+Windsor MARVELL,305.001.27
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+July 28 1653 . MARVELL,305.001.28
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:32
+RECIPIENT:OLIVER_CROMWELL:MALE:_:1599:54
+LETTER:MARVELL_001:E3:1653:AUTOGRAPH:OTHER
+M=r= Dutton presents his most humble Seruice to your Excellence .
+MARVELL,305.001.29
+
+<Q_MAV_A_1659_T_AMARVELL> <L_MARVELL_002> <A_ANDREW_MARVELL_JR>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1621> <R_GEORGE_DOWNING>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1623> <AREW_MARVELL_JR> <P_307>
+{ED:5.}
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_002:E3:1659:AUTOGRAPH:OTHER
+{COM:ADDRESSED} For the Honourable George Downing , Esquire , Resident
+for his Highnesse with the States of the United Provinces .
+MARVELL,307.002.30
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_002:E3:1659:AUTOGRAPH:OTHER
+Sir , M=r= Secretary being something tired with Parliament and other
+businesse hath commanded me to giue you some account of what hath
+passed in the house this weeke . MARVELL,307.002.31
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_002:E3:1659:AUTOGRAPH:OTHER
+Upon Munday the Bill for recognition of his Highnesse was red the
+second time . MARVELL,307.002.32
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_002:E3:1659:AUTOGRAPH:OTHER
+Thereupon the House entered into that debate MARVELL,307.002.33
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_002:E3:1659:AUTOGRAPH:OTHER
+And all hath been said against it which could be by S=r= Arthur
+Haslerig , Sir Henry Vane , M=r= Weauer , M=r= Scott , M=r= S=t=
+Nicholas , M=r= Reinolds , S=r= Antony Ashly Cooper , Major Packer ,
+M=r= Henry Neville , the lord Lambert , and many more .
+MARVELL,307.002.34
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_002:E3:1659:AUTOGRAPH:OTHER
+Their Doctrine hath moved most upon their Maxime that all pow'r is in
+the people That it is reuerted into this house by the death of his
+Highnesse , that M=r= Speaker is Protector in possession and it will
+not be his wisdome to part with it easily , that this house is all
+England . MARVELL,307.002.35
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_002:E3:1659:AUTOGRAPH:OTHER
+Yet they pretend that they are for a single person and this single
+person but without negatiue voice without militia not upon the petition
+and advice but by adoption and donation of this House and that all the
+rights of the people should be specifyd and indorsed upon that Donation
+. MARVELL,307.002.36
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_002:E3:1659:AUTOGRAPH:OTHER
+But we know well enough what they mean . MARVELL,307.002.37
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_002:E3:1659:AUTOGRAPH:OTHER
+A Petition from some thousands in the City to their purpose hath been
+brought in <paren> & they say they are trying to promote another in the
+Army </paren> but laid by to be red at the end of this debate in which
+nothing is to intervene . MARVELL,307.002.38
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_002:E3:1659:AUTOGRAPH:OTHER
+They haue held us to it all this weeke and yet litle nearer .
+MARVELL,307.002.39
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_002:E3:1659:AUTOGRAPH:OTHER
+It was propounded on our side seeing the whole bill stuck so , that
+before the Commitment of it it should be voted in the house as part of
+it that his Highn=s= is Protector &c : and not to passe but with the
+whole bill MARVELL,307.002.40
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_002:E3:1659:AUTOGRAPH:OTHER
+But all we could gaine hitherto is that their shall be a previous vote
+before the Commitment MARVELL,307.002.41
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_002:E3:1659:AUTOGRAPH:OTHER
+but y=t= that should be it is yet as farre of as euer
+MARVELL,307.002.42
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_002:E3:1659:AUTOGRAPH:OTHER
+For they speak eternally to the question , to the orders of the house ,
+and <P_308> in all the tricks of Parliament . MARVELL,308.002.43
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_002:E3:1659:AUTOGRAPH:OTHER
+They haue much the odds in speaking MARVELL,308.002.44
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_002:E3:1659:AUTOGRAPH:OTHER
+but it is to be hoped that our justice our affection and our number
+which is at least two thirds will weare them out at the long runne .
+MARVELL,308.002.45
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_002:E3:1659:AUTOGRAPH:OTHER
+This is all that I can tell you at present but that I am Sir , Your
+most humble Serv=t= Andrew Marvell . MARVELL,308.002.46
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_002:E3:1659:AUTOGRAPH:OTHER
+Whitehall MARVELL,308.002.47
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_002:E3:1659:AUTOGRAPH:OTHER
+Febr: 11. 1658 . MARVELL,308.002.48
+
+<Q_MAV_A_1659_T_AMARVELL> <L_MARVELL_003> <A_ANDREW_MARVELL_JR>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1621> <R_GEORGE_DOWNING>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1623> <AREW_MARVELL_JR> <P_308>
+{ED:6.}
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_003:E3:1659:AUTOGRAPH:OTHER
+{COM:ADDRESSED} For George Downing Esquire Resident for his Highnesse
+with the States Generall of the United Provinces . MARVELL,308.003.49
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_003:E3:1659:AUTOGRAPH:OTHER
+At the Hague . MARVELL,308.003.50
+
+{ED:25_MARCH_1659}
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_003:E3:1659:AUTOGRAPH:OTHER
+Sir , M=r= Secretary hath now late at night commanded me to let you
+know that he hath receiued yours of the 18=th= our Stile , and this
+morning your expresse by the Fregate . MARVELL,308.003.51
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_003:E3:1659:AUTOGRAPH:OTHER
+But that this Post an answer can not be returned unto those matters ,
+there will be speedily by an expresse which may perhaps arriue as soon
+as the Post . MARVELL,308.003.52
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_003:E3:1659:AUTOGRAPH:OTHER
+This week the long debate of the Scotch members sitting hath been
+concluded for them . The next day that of the Irish MARVELL,308.003.53
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_003:E3:1659:AUTOGRAPH:OTHER
+And the House was so weary and satisfyd of the former that these passed
+the same forenoon that proposed . MARVELL,308.003.54
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_003:E3:1659:AUTOGRAPH:OTHER
+The next day Packer was dismissd hauing been elected illegally at
+Hartford . MARVELL,308.003.55
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_003:E3:1659:AUTOGRAPH:OTHER
+Yesterday Sir Hierom Zanchy brought in an high charge of bribery breach
+of trust & perverting the debts of the soldiery against D=r= Petty who
+is sent for to Irland to answer within a moneth . MARVELL,308.003.56
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_003:E3:1659:AUTOGRAPH:OTHER
+To day a Petition was read from one Thomas an Agent heretofore of C:
+Steward alledging that he had bin imprisond by M=r= Secretaryes order &
+sent to Barbados . MARVELL,308.003.57
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_003:E3:1659:AUTOGRAPH:OTHER
+From persons of the same stamp against S=r= J: Copleston , C: Hatsell ,
+M=r= Noell MARVELL,308.003.58
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_003:E3:1659:AUTOGRAPH:OTHER
+That first held all the forenoon MARVELL,308.003.59
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_003:E3:1659:AUTOGRAPH:OTHER
+We stroue to throw it out MARVELL,308.003.60
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_003:E3:1659:AUTOGRAPH:OTHER
+but could not get ouer MARVELL,308.003.61
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_003:E3:1659:AUTOGRAPH:OTHER
+so adjournd indefinitely . MARVELL,308.003.62
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_003:E3:1659:AUTOGRAPH:OTHER
+To morrow therefore perhaps that , perhaps the transaction with the
+other house comes on . MARVELL,308.003.63
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:38
+RECIPIENT:GEORGE_DOWNING:MALE:_:1623:36
+LETTER:MARVELL_003:E3:1659:AUTOGRAPH:OTHER
+Let my hast excuse Sir Your humble Servant Andrew Marvell .
+MARVELL,308.003.64
+
+<Q_MAV_A_1667_T_AMARVELL> <L_MARVELL_004> <A_ANDREW_MARVELL_JR>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1621> <R_PHILIP_WHARTON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1613> <AREW_MARVELL_JR> <P_309>
+{ED:8._TO_LORD_WHARTON}
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+My Lord , I could easily frame an apology for not writing to your
+Lordship the last weeke , did I not thinke that so insignificant
+letters as mine , the seldomer and later they came , were the more
+excusable . So that my greater difficulty hath bin to resolve now to
+molest your Lordship , hauing not yet anything mature enough in the
+businesse we used to discourse of , which might be worthy your notice .
+MARVELL,309.004.65
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+But , by the Terme , I doubt not at all of , approving at least mine
+industry , if not my good fortune , to your Lordship in those affaires
+. MARVELL,309.004.66
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+And in the mean time , I beseech you to take it for granted , as a
+Principle of your Lordships <P_310> favour to me , that I perfectly
+honour and therefore desire faithfully to serve you .
+MARVELL,310.004.67
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+I haue herewith sent your Lordship something of others , having nothing
+of mine own to deserve your acceptance . MARVELL,310.004.68
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+The one is an Oration or Sermon of M=r= Stillingfleets .
+MARVELL,310.004.69
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+The other is a Poem , writ <paren> but that is a piece of a secret
+</paren> by M=r= Ford the Minister that was of Northampton , of Exeter
+&c : MARVELL,310.004.70
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+The Latin , in this last , <paren> if I may presume to censure in your
+Lordships presence </paren> hath severall excellent heights ,
+MARVELL,310.004.71
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+but the English translation is not so good ; MARVELL,310.004.72
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+and both of them strain for wit and conceit more then becomes the
+gravity of the author or the sadnesse of the subject .
+MARVELL,310.004.73
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+M=r= Stillingfleet is more in his element , and so polish't as indeed
+suited with the delicacy of his auditory rather then the notoriousnesse
+of the Evill . MARVELL,310.004.74
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+For certainly the impiety of men is growne so ranke in this kind and
+all others , that if Ministers instead of preaching and arguing could
+thunder and lighten , it were all but too litle . MARVELL,310.004.75
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+However his Majesty hath testifyd his care and Sense abundantly herein
+, in commanding it to be printed . MARVELL,310.004.76
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+And I wish , for the reputation of this holy time of Lent , that the
+rest of the Sermons lately preacht at Court were also made publick .
+MARVELL,310.004.77
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+My Lord , I belieue you haue lesse curiosity to hear news then I
+inclination to tell it . MARVELL,310.004.78
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+But it is grown as constant an ingredient of a London letter as the
+Picture is of the Almanack . MARVELL,310.004.79
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+Therefore , M=rs= Stuart notwithstanding her resolution against wedding
+in Lent hath suffered her selfe to be marryd last Sunday to the Duke of
+Richmond . MARVELL,310.004.80
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+The Generall is returnd again to Town , which discredits that report of
+his having retired from Court upon discontent . MARVELL,310.004.81
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+We speake still of the Treaty MARVELL,310.004.82
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+and prepare against an Invasion . MARVELL,310.004.83
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+The Chain , at Chatham , removed lower , MARVELL,310.004.84
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+the Duke of Yorks regiment marcht to the Sea-Side , Seuerall forts
+erecting or Strengthning upon the Coast , Burlington one .
+MARVELL,310.004.85
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+Safe-conduct is come from France but not yet from Holland for our
+Embassadors , so that the time of their going yet uncertain .
+MARVELL,310.004.86
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+The Dutch are in great preparation for warre . MARVELL,310.004.87
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+Their twelue new great shipps ready onely want mounting their Canon .
+MARVELL,310.004.88
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+Their fleet , they say , consist of men of warre whereof great . So
+that upon the Change , our Merchants are but in ill heart and hope very
+litle of peace . MARVELL,310.004.89
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+The Duke of Buckingham hath many friends at Court that boldly own &
+defend his interest in so much that men say the king belieues better of
+him then formerly . MARVELL,310.004.90
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+The king leaues the execution of the Act of Irish Cattell to take its
+fortune at law , upon the late invention of bringing them ouer cheaper
+then before that Act past . MARVELL,310.004.91
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+The raising of more Land-forces here is again freshly discourst of as
+necessary . MARVELL,310.004.92
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+I see they are staking out the <P_311> City euery day
+MARVELL,311.004.93
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+but can observe litle hast of building . MARVELL,311.004.94
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+Somebody told me yesterday that a merry or a simple fellow was looking
+on , and misliking somewhat in their laying out of the streets , said
+Poh , if they do it no better then thus , the City had as good never
+haue bin burn't . MARVELL,311.004.95
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+My Lord , these litle rumors make up too much of our interteinment here
+: MARVELL,311.004.96
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+but that I should intrude upon your Lordships better time & sereous
+employments with such impertinencyes , seems to me now I haue writ ,
+almost impardonable . MARVELL,311.004.97
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+Nor should I haue the heart at last to send this Letter forward , but
+for this one line in it , that I beg leaue to remaine My Lord , Your
+Lordships most obedient & most humble Servant Andrew Marvell
+MARVELL,311.004.98
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+London MARVELL,311.004.99
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:46
+RECIPIENT:PHILIP_WHARTON:MALE:_:1613:54
+LETTER:MARVELL_004:E3:1667:AUTOGRAPH:OTHER
+Aprill 2=d= 1667 . MARVELL,311.004.100
+
+<Q_MAV_A_1670_T_AMARVELL> <L_MARVELL_005> <A_ANDREW_MARVELL_JR>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1621> <R_EDWARD_THOMPSON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1640?> <AREW_MARVELL_JR> <P_319>
+{ED:13.}
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+{COM:ADDRESSED} For M=r= Edward Thompson Merchant : in Yorke .
+MARVELL,319.005.101
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+Dec. 17. MARVELL,319.005.102
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+<font> Monsieur Edouart , mon tres cher ami </font> , I would not haue
+faild so much either-1 in kindnesse or civility as to haue mist
+answering yours of the former Post but that I transferd that debt upon
+a more responsible man your Cosin Ned & was my selfe tired out with
+sitting daily till nine a clock , most part , at night upon the
+Committee of 4=li= per tun at the Custome house . MARVELL,319.005.103
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+But now I will not lose the opportunity & thanks of giuing you double
+good news . MARVELL,319.005.104
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+For as to the first matter concerning your brother S=r= Henry there
+hath bin no Committee of inspection in that nature you imagind .
+MARVELL,319.005.105
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+All that concernd him was casually in discourse or some accounts where
+he was unnecessarily named at the Committee about the 4=li= .
+MARVELL,319.005.106
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+Fairfax named him at the Committee upon occasion of the outdistricts
+not hauing giuen in their accounts and that he refused to sweare
+concerning a considerable quantity of wines charged upon him .
+MARVELL,319.005.107
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+And Wadlow mentioning $=li= {TEXT:2000=li=} & upwards in M=r= Listers
+hands nam'd S=r= Henry as participem criminis upon which I rebuked them
+& said that it was false whatsoeuer was said concerning either his
+partnership or combining with Lister : after w=ch= Wadlow who
+understands well enough his matters was very well aware to touch no
+more upon that point . MARVELL,319.005.108
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+Onely S=r= John Knight our Chairman a talkatiue wine merchant of
+Bristow once more at the Committee dropt S=r= Henrys name again
+together with Listers whereupon I took him up & told him the Committee
+had neither any thing to do with mens names but onely to state the
+account whether the were levyd & returne their opinions to the house :
+MARVELL,319.005.109
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+and however that concerning S=r= Henry with Lister was an invention of
+Wadlows & w=ch= he would not stand to if questioned .
+MARVELL,319.005.110
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+What I observ'd in the severall accounts brought to us was that in the
+Com=rs= of accounts papers S=r= Henry is not at all named .
+MARVELL,319.005.111
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+In an account of Fairfax and Foxes is : From Oct: 69 to 24=th= June the
+Tomsons wines . MARVELL,319.005.112
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+S=r= Henry & Steven Tomson French wine MARVELL,319.005.113
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+1. payd MARVELL,319.005.114
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+by bond 25. MARVELL,319.005.115
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+rest 77. MARVELL,319.005.116
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+Steven Tomson . 2=T=. MARVELL,319.005.117
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+rest 2. - MARVELL,319.005.118
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+More 78. MARVELL,319.005.119
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+rest 78 MARVELL,319.005.120
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+Robert Watson . 49. MARVELL,319.005.121
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+rest 49 . MARVELL,319.005.122
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+These were all put in one title the Tomsons wines . MARVELL,319.005.123
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+In another account of Coopers To ready mony to wines resting the 24=th=
+of June . MARVELL,319.005.124
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+Hull 453=li=. York 4=li= . MARVELL,319.005.125
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+This seemd somthing strange MARVELL,319.005.126
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+but operated no further . MARVELL,319.005.127
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+As for M=r= Strickland he never was at the Committee once all the times
+it sate : MARVELL,319.005.128
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+& he good man had a more particular concernment for himselfe <P_320> to
+excuse w=ch= he for his part was named , among other our members for
+greater summs , debtor to the King for publick mony .
+MARVELL,320.005.129
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+That doubtlesse being upon another occasion & referd to another
+Committee you must ere this haue heard of . MARVELL,320.005.130
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+But as to our Committee , yesternight we voted our report & opinion
+that the with interest was all payd securd or recoverable by wines
+already imported . MARVELL,320.005.131
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+And this morning $'t $was {TEXT:'twas} so reported to the house
+Whereupon the house resolued after a small debate & all tending the
+right way , that his Majesty be desired to take of the imposition of
+4=li= per tun & that the members of the privy Counsell w=ch= are of the
+house present this desire to his M=ty= . MARVELL,320.005.132
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+You may undoubtedly reckon of this desire as granted .
+MARVELL,320.005.133
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+Thus farre I hope I haue giuen you satisfaction . MARVELL,320.005.134
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+Now as to publicker matters . MARVELL,320.005.135
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+This day the Committee of the whole house reported to the house about
+the about $=li= {TEXT:800000=li=} ready mony MARVELL,320.005.136
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+& the house agreed . That every in mony pay . That every in the
+Bankiers hand pay 15=s= . That all mony lent to the King or transferd
+upon this Act shall not at all be taxed . That the King shall giue
+7=li= per Cent for interest for such mony . That stock for trade pay
+6=s= per cent . Stock on land and houshold stuffe not to be taxed . All
+Offices & profitable places to pay 2=s= the pound . Upon all land at
+the present improved value one shilling per pound . Deduction to be
+made for debts annuitys rent charges rents reserved fee farms &c :
+Commissioners to be named by his Majesty . Those , Assessors ,
+witnesses to be all upon Oath . & Accordingly a bill orderd .
+MARVELL,320.005.137
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+So there are foure bills in all None of 'm yet come on .
+MARVELL,320.005.138
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+Additionall Beere . Forain Excise . Proceedings at Law . W=ch= three
+{TEXT:three} {ED:SIC} the house has valued at per An~ & I belieue will
+giue 'm for 6 years And this in one year at four quarterly payments the
+first quarter to end midsomer next . MARVELL,320.005.139
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:49
+RECIPIENT:EDWARD_THOMPSON:MALE:_:1640?:30?
+LETTER:MARVELL_005:E3:1670:AUTOGRAPH:OTHER
+Yours A M MARVELL,320.005.140
+
+<Q_MAV_A_1671_T_AMARVELL> <L_MARVELL_006> <A_ANDREW_MARVELL_JR>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1621> <R_HENRY_THOMPSON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1626> <AREW_MARVELL_JR> <P_320>
+{ED:14.}
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:50
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:45
+LETTER:MARVELL_006:E3:1671:AUTOGRAPH:OTHER
+{COM:ADDRESSED} For my much honord friend S=r= Henry Thompson Knight ;
+MARVELL,320.006.141
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:50
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:45
+LETTER:MARVELL_006:E3:1671:AUTOGRAPH:OTHER
+At Escrick Westm: Jan: 5. MARVELL,320.006.142
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:50
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:45
+LETTER:MARVELL_006:E3:1671:AUTOGRAPH:OTHER
+Sir , I found at my returne the 25=th= Dec: a Letter from you , the
+kindnesse and civility of which deserves a better answer then I am able
+to make you . MARVELL,320.006.143
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:50
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:45
+LETTER:MARVELL_006:E3:1671:AUTOGRAPH:OTHER
+But in short I should haue bin glad to haue wanted that <P_321>
+opportunity of serving you ; though seeing the falshood and malice of
+those persons made it necessary to vindicate you , I could not be
+displeas'd that it fell to my turne . MARVELL,321.006.144
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:50
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:45
+LETTER:MARVELL_006:E3:1671:AUTOGRAPH:OTHER
+For beside that duty of those in our station to doe right to any
+gentleman ; you may well thinke it was no small satisfaction to me to
+meet with that in my way w=ch= I would always haue searched after , an
+occasion to oblige you . MARVELL,321.006.145
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:50
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:45
+LETTER:MARVELL_006:E3:1671:AUTOGRAPH:OTHER
+And so litle hath this been in discharge of what I reckon my selfe
+indebted to you and your brother upon my Nephew Wills account , that
+indeed I ought rather to beg your excuse then own your thanks .
+MARVELL,321.006.146
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:50
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:45
+LETTER:MARVELL_006:E3:1671:AUTOGRAPH:OTHER
+For you are seriously so farre before hand in Courtesy with me , that
+you haue no possible way of gratitude to me but by Commanding and using
+me as , Sir , Your most obliged and most affectionate serv=t= Andr:
+Marvell MARVELL,321.006.147
+
+<Q_MAV_A_1673_T_AMARVELL> <L_MARVELL_007> <A_ANDREW_MARVELL_JR>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1621> <R_EDWARD_HARLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1624> <AREW_MARVELL_JR> <P_328>
+{ED:22.}
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+{COM:ADDRESSED} For S=r= Edward Harlay Knight of the Bath At Brampton
+Castle to be left with the Post-master of Ludlow . MARVELL,328.007.148
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+Sir , I was to wait on you severall times after we rose
+MARVELL,328.007.149
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+but mist you till I took a sudden journy to Stanton-Harcourt .
+MARVELL,328.007.150
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+And there I understood not that you were at the same time so many dayes
+in the neighbourhood till you were gone home . So that all I can doe
+for my selfe is to retrieve the losse of those opportunityes by writing
+. MARVELL,328.007.151
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+I find here at my returne a new booke against the Rehearsall intitled :
+S=t= , to him Bayes : writ by one Hodges . MARVELL,328.007.152
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+But it is like the rest onely somthing more triviall .
+MARVELL,328.007.153
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+Gregory Gray-beard is not yet out . MARVELL,328.007.154
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+D=r= Parker will be out the next weeke . MARVELL,328.007.155
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+I haue seen of it already pages MARVELL,328.007.156
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+and it will be much more . MARVELL,328.007.157
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+I perceive by what I haue read that it is the rudest book , one or
+other , that ever was publisht <paren> I may say </paren> , since the
+first invention of printing . MARVELL,328.007.158
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+Although it handles me so roughly yet I am not at all amated by it .
+MARVELL,328.007.159
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+But I must desire the advice of some few friends to tell me whether it
+will be proper for me and in what way to answer it .
+MARVELL,328.007.160
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+However I will for mine own private satisfaction forthwith draw up an
+answer that shall haue as much of spirit and solidity in it as my
+ability will afford & the age we liue in will indure .
+MARVELL,328.007.161
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+I am <paren> if I may say it with reverence </paren> drawn in , I hope
+by a good Providence , to intermeddle in a noble and high argument
+w=ch= therefore by how much it is above my capacity I shall use the
+more industry not to disparage it . MARVELL,328.007.162
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+But I desire that all the discourse of my friends may run as if no
+answer ought to be expected to so scurrilous a book .
+MARVELL,328.007.163
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+Sir , I would intreat you to put the learned Scotch gentleman neare you
+in mind of drawing up a succinct full narrative of w=t= he remembers
+concerning the man we spoke of in Ireland . MARVELL,328.007.164
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+I intend by the end of the next week to betake my selfe some fiue miles
+of to injoy the spring & my privacy . MARVELL,328.007.165
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+If you please to favor me with any letter I pray <paren> till you find
+that the Posts are cleare </paren> inclose it under a Cover to M=r=
+Richard <P_329> Thompson at the Signe of the Golden Cock in
+Wooll-Church Market : London . MARVELL,329.007.166
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+Our Fleet was faln down in order to haue sailed toward Portsmouth to
+take up the rest there and to meet with the French when they should
+come . MARVELL,329.007.167
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+But the news is certain to day at Whitehall that the Holland Fleet is
+of Albrough MARVELL,329.007.168
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+and it is reported they are saile . MARVELL,329.007.169
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+I am Sir Your most humble Serv=t= Andr: Marvell . MARVELL,329.007.170
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+London . MARVELL,329.007.171
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:52
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:49
+LETTER:MARVELL_007:E3:1673:AUTOGRAPH:OTHER
+May 3. 1673 . MARVELL,329.007.172
+
+<Q_MAV_A_1674_T_AMARVELL> <L_MARVELL_008> <A_ANDREW_MARVELL_JR>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1621> <R_HENRY_THOMPSON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1626> <AREW_MARVELL_JR> <P_329>
+{ED:23.}
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+{COM:ADDRESSED} For S=r= Henry Thompson at Escrick to be left with Mr.
+Edward Thompson , Merchant at Yorke . MARVELL,329.008.173
+
+{ED:POSTMARKED_OCT._24_1674.}
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+Worthy Sir Yours of the 13th when I look upon the Date accuses me of
+too slow an answer , whereas your great favors need not be heightened
+by any incivility on my part . MARVELL,329.008.174
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+But I will not lose the time I can now take for writing to you in
+making any excuses , but such as your own candour will suggest to you ;
+MARVELL,329.008.175
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+nor will I attempt impossibly to expresse my thanks for all your
+courtesyes further then by assuring you that they exceed the capacity
+of all my facultyes except my Memory . MARVELL,329.008.176
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+And even that must necessarily be defective where neither my
+Imagination nor my Understanding can sufficiently comprehend my
+Obligation . MARVELL,329.008.177
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+I might indeed say that my Will is good however : MARVELL,329.008.178
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+But what dos that import where it can not afford myselfe , much lesse
+you , one Experiment . MARVELL,329.008.179
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+To be short , w=ch= I must acknowledge , I perceive that I am yours
+with all my Soule , but that it is a very little one .
+MARVELL,329.008.180
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+As for Monsieur Turenne , it is said that he has been reinforced with
+both the Arrie`re ban by the Mareschal of Crequy and the squadrons of
+Genlis from the Prince of Conde` : MARVELL,329.008.181
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+and neverthelesse that understanding the Confederates were coming upon
+him he marchd away beyond Saverne MARVELL,329.008.182
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+and has left them Masters of the whole upper Alsatia
+MARVELL,329.008.183
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+And whether he will admit a fight with them or suffer them to passe by
+him nearer into the French dominions I doe not understand .
+MARVELL,329.008.184
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+The taking of Graue is now old news . MARVELL,329.008.185
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+And we expect a particular what Magazin , doubtlesse great , of
+Provisions Ammunition and Equipage of warre the Hollanders haue there
+met with . MARVELL,329.008.186
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+They say there were of <P_330> Canon at lest 5 or and 44 , Some Sixty ,
+with the King of Frances own Arms with the Motto upon them Pour moi
+Gloire ; whereof six he marchd out with <paren> I mean Monsieur de
+Chamilly </paren> and 16 he capitulated to go for Mastrecht , as
+himselfe for Charleroy . MARVELL,330.008.187
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+$'T $is {TEXT:Tis} said that Prs William of Fuerstenberg hath been
+sentenced and executed , his right hand first cut of and then his Head
+. MARVELL,330.008.188
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+I do not believe the rumour that the D. of Holsteyne because
+Bournonville fought not well but suffered the Lunenbergers to abide the
+brunt of the day , has duelld or stabbd or shot him .
+MARVELL,330.008.189
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+Souches is said to be in disgrace & out of imployment if it rest there
+. MARVELL,330.008.190
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+Our English are much offended that no notice is taken of them on the
+Records of the Gazette they having been put upon & performed the
+hardest service while the French run away and pillagd their bagages .
+MARVELL,330.008.191
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+The best is the complainants will daily diminish : most of the Officers
+of Churchils Regiment hauing been killd , and Soldiers proportionably :
+and of Litletons Regiment of Horse himselfe slain and but forty men
+escaped MARVELL,330.008.192
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+& the other English had their part . MARVELL,330.008.193
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+There are strong indevors by us & the Swedes towards a Peace this
+Winter MARVELL,330.008.194
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+And I know not whether we shall haue a mind to spend some of our
+Treasury in an Army to force the victorious French to accept of a Peace
+or whether we shall be able to put the Scotch upon rebellion and make
+another good Old Cause of it . MARVELL,330.008.195
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+Yet I know litle more from Scotland then formerly except that
+Lieutenant Generall Drummond is committed to prison and that the City
+of Edinburg has been writ to to continue their Magistrates for the next
+yeare which though expedient is thought extraordinary and to the
+prejudice of their Oaths for Election . MARVELL,330.008.196
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+But I omitted to tell you that the Plot against the King of France is
+that which takes up the most of our curiosity . MARVELL,330.008.197
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+Some will say that $'t $is {TEXT:tis} nothing but some liberty of
+speech that has been used by many on occasion of the publicke pressures
+and raising of the Arrie`reban : others that it was no lesse then to
+have spirited away King Queen Dolphin & all into Flanders <paren> as
+Blud attempted the D. of Ormond </paren> and to have deliuerd up
+seuerall Towns . MARVELL,330.008.198
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+However the King is extreme jealous and sullen and the Prisons full
+both-1 of Seculars and Religious MARVELL,330.008.199
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+but what is best they say not one Protestant . MARVELL,330.008.200
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+The Chevalier de Rohan , a cadet of the House of Guimenay a Papist
+would haue starvd himselfe but forced they say to eat against Stomach
+and in spight of his teeth . MARVELL,330.008.201
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+Madame de Villars accused the Marshall of Crequy for one
+MARVELL,330.008.202
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+but the King turnd it into Raillery as was fitting .
+MARVELL,330.008.203
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+And moreover the Cardinall de Retz and other persons of great quality .
+MARVELL,330.008.204
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+We shall in a short time see what they will make of it .
+MARVELL,330.008.205
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+Sir I will not faile when S=r= John comes <P_331> to town to make use
+of what discourse we shall have together MARVELL,331.008.206
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+and it shall be the Condition and test of friendship betwixt me and all
+others as they are affected to your cause which on my Conscience no man
+ever had a clearer and a better . MARVELL,331.008.207
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+Pray Sr excuse me to Monsieur Edouart MARVELL,331.008.208
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+& tell him that those at Hull do not sollicite me about the Wine bonds
+MARVELL,331.008.209
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+nor haue I heard how they intend MARVELL,331.008.210
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+& I take it as a Courtship from him to put me into discourse of that
+matter w=ch= he is master of . MARVELL,331.008.211
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+But certainly Pt not sitting there are but two ways either to plead as
+far as it will goe in the Exchequer or Petition the King in Councill .
+MARVELL,331.008.212
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_008:E3:1674:AUTOGRAPH:OTHER
+I am Sir Your most affectionate and humble servant . Andr: Marvell .
+MARVELL,331.008.213
+
+<Q_MAV_A_1674_T_AMARVELL> <L_MARVELL_009> <A_ANDREW_MARVELL_JR>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1621> <R_HENRY_THOMPSON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1626> <AREW_MARVELL_JR> <P_333>
+{ED:26.}
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+{COM:ADDRESSED} For S=r= Henry Thompson At Escrick : to be left with
+M=r= Edward Thompson , Merchant At Yorke . MARVELL,333.009.214
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+Dec: 1. 1674 MARVELL,333.009.215
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+Sir there are some few men of w=ch= you are the principall whom I beare
+such respect to that I lay by their letters expecting to give 'm in
+Answer something materiall & compensatiue . MARVELL,333.009.216
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+But such is the hurry and foolery of the Town that I find unlesse I
+write Posthast I can neuer comply with mine obligations .
+MARVELL,333.009.217
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+Sure you haue by this time heard that my L=d= S=t= John at the kings
+Bench in a cause where he would haue bin a great gainer in Lead being
+absent at Boloon was much foyled . A Forged Record of Rich 2 & another
+produced on his part and on the other the originall .
+MARVELL,333.009.218
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+His Counsell all ran from the Bar . MARVELL,333.009.219
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+Tomson Rilyes man of the Records who forged it run away
+MARVELL,333.009.220
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+& one Atkinson a Northern man therabout fled also . MARVELL,333.009.221
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+Money provd payd & greater promises . MARVELL,333.009.222
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+If <paren> as Whitehall is ready </paren> it can be fixed on him and
+Tomson render himselfe there & speak out , it concerns life & estate .
+MARVELL,333.009.223
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+But howeuer I doubt reputation is eternally lost . MARVELL,333.009.224
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+There being a Treaty of Commerce depending betwixt us & France for 5 or
+6 years the Com=rs= of Customs & French merch=ts= haue brauely
+acquitted themselus before the Councill demonstrating the balance to
+exceed us euery year aboue a million . MARVELL,333.009.225
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+The Dutchesse of Portsmoth has a yeare setled on the Wine Licenses &
+Cleueland in lieu therof a yeare on the excise MARVELL,333.009.226
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+& Portsmoth is throwing out Yong & Woolsley Com=rs= of Wine Licenses to
+place there Henry Killigree & S=r= Philip Floyd . MARVELL,333.009.227
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+Prat , the litle Birdkeeper in the Park is Ranger of the New Forest in
+stead of S=t= John , & S=t= Johns estate beggd if he can be proued
+guilty . MARVELL,333.009.228
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+Pembrokes mariage with Querroual is fixd & he almost in case to
+consummate it . MARVELL,333.009.229
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+Buckhursts with Falmoth proues extreme dissatisfactory on all points .
+MARVELL,333.009.230
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+Coke is last week marryd with Tres=rs= daughter . MARVELL,333.009.231
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+Castleton has secured <P_334> mother & daughter though with great
+opposition . MARVELL,334.009.232
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+The French affairs are in great decadence unlesse we can help them at a
+dead lift . MARVELL,334.009.233
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+Huly goes out of Town on Monday next . MARVELL,334.009.234
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+I haue treated him to quit my selfe of his York obligations .
+MARVELL,334.009.235
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+He has treated me since . MARVELL,334.009.236
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+Out of mutuall modesty nothing sued . MARVELL,334.009.237
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+Rushworth & Hartlib his Sollicitors haue treated us to day .
+MARVELL,334.009.238
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+Nothing . MARVELL,334.009.239
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+The thing might make a Play $'t $is {TEXT:tis} so foolish an humor
+MARVELL,334.009.240
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+and in good faith me thinks I neuer saw so meere a Cully .
+MARVELL,334.009.241
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+I shall haue yet ere we part a more effectuall interview with him .
+MARVELL,334.009.242
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+For George I humbly thanke you . MARVELL,334.009.243
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+I belieue he will stay this winter at York . MARVELL,334.009.244
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+If you do anything let it be the meerest Chance . MARVELL,334.009.245
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_009:E3:1674:AUTOGRAPH:OTHER
+I am Sir Your most humble serv=t= Andr: Marvell . MARVELL,334.009.246
+
+<Q_MAV_A_1674_T_AMARVELL> <L_MARVELL_010> <A_ANDREW_MARVELL_JR>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1621> <R_HENRY_THOMPSON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1626> <AREW_MARVELL_JR> <P_335>
+{ED:28.}
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+{COM:ADDRESSED} For S=r= Henry Thompson At Escrick . to be left with
+M=r= Edward Thompson , Merchant At Yorke . MARVELL,335.010.247
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+Sir , I haue the favour of yours of the 12=th= , which ere this I
+should haue answerd or prevented but that I stumbled always at the
+first step of writing , which must be about S=r= John Huly
+MARVELL,335.010.248
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+For , whether out of consciousnesse or modesty , I could not frame my
+selfe to giue you an account all in ciphers ; and to tell you that in a
+businesse which you are concerned in , I haue , with all my intentions
+, yet done just nothing . MARVELL,335.010.249
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+But I must get over this listlesnesse . MARVELL,335.010.250
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+Truly I never found a naturall opportunity of beginning to him ,
+MARVELL,335.010.251
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+neither did he among all our freedome ever open to me .
+MARVELL,335.010.252
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+If he had in the lest , I would haue been sure to haue pledg'd the
+discourse . MARVELL,335.010.253
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+As to what you say of dealing with his sollicitors that race of men you
+know are not easy to discourage a cause w=ch= brings them grist ,
+MARVELL,335.010.254
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+and they will claw any mans humor as long as he feeds them with mony .
+MARVELL,335.010.255
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+That they reckon to be but Justice , be the businesse never so indirect
+- MARVELL,335.010.256
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+But truly Hartlib is a man of some ingenuity and Rushworth I thinke of
+much honesty : MARVELL,335.010.257
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+the first my acquaintance MARVELL,335.010.258
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+but this my Friend . MARVELL,335.010.259
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+And I do not see but that I may , and I can do it more freely then with
+S=r= John , discourse the thing very plainly with M=r= Rushworth ouer a
+pint of wine MARVELL,335.010.260
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+and I will doe so and that ere long . Though I belieue $'t $will
+{TEXT:'twill} be many a day yet before that Cause or any of that kind
+come to a Triall . MARVELL,335.010.261
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+I thank you Sir very much for your mindfulnesse of Georges matter .
+MARVELL,335.010.262
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+Whatsoever you are pleasd to contribute to it let it be slowly and
+accidentally . MARVELL,335.010.263
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+For S=r= Jeremy knows the mans humor perfectly MARVELL,335.010.264
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+and intends not to presse or apply to him much but giue him line and
+expect what things of themselues will work to : MARVELL,335.010.265
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+in the mean time owns his great obligation to you MARVELL,335.010.266
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+Forain news I can tell you nothing publickly considerable .
+MARVELL,335.010.267
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+The Duke des Vermandois <paren> the Kings son by la Valiere </paren>
+gaue the Prince of Conde` a visit since he came home to Chantilly .
+MARVELL,335.010.268
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+The Prince told him that he gaue him the upper hand in his own House
+because it was in his own House . MARVELL,335.010.269
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+This the King took very ill MARVELL,335.010.270
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+and declared that he would haue that Duke take place of all the Princes
+of the Blood . MARVELL,335.010.271
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+$'T $is {TEXT:Tis} very well MARVELL,335.010.272
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+I wish he would pursue the point : MARVELL,335.010.273
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+it would make good Blood . MARVELL,335.010.274
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+Yet his complement to the Prince was not amisse at his returne from the
+Campagne thanking him and the Prince excusing the litle he had bin able
+to do , MARVELL,335.010.275
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+the King replyed <font> Ouy mon Cousin ce que <P_336> vous auez fait
+est peu de chose pour vous , mais beaucoup pour moy et le bien de mon
+estat </font> . MARVELL,336.010.276
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+A match being concluded betwixt the D: of Nauailles his son and
+Mademoiselle d'Aligre heire to the Chancellor of that name the King
+absolutly broke it by his countermand MARVELL,336.010.277
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+& marryes her to Mons=r= de Saignelay Colberts son .
+MARVELL,336.010.278
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+As for things at home my L: Arlinton is still expected .
+MARVELL,336.010.279
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+Neither can I yet heare that the Bishops are come to a result of their
+consultations how to hinder the progresse of Popery or to preserve the
+Church as now established according to Law . MARVELL,336.010.280
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+I can not speake with any wise man indeed that can guesse what the
+mystery is of such a meeting . MARVELL,336.010.281
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+The event must teach us whether it hath more of Prudence or Folly .
+MARVELL,336.010.282
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+You haue heard doutlesse that the Duchesse of Portsmoth has a yeare
+setled out of the Wine Licenses she of Cleueland hauing chosen hers out
+of the Excise as the more secure and legall fond . MARVELL,336.010.283
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+The Dutchesse of Portsmoth is in deep mourning for the Chevalier de
+Rohan as being forsooth of kin to that family . MARVELL,336.010.284
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+Her sister was on Thursday married to the Earle of Pembroke he being
+prity well recoverd of his Clap . MARVELL,336.010.285
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+The King pays the portion . MARVELL,336.010.286
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+There is also a yeare setled on Nells Children . MARVELL,336.010.287
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+And last Wednesday my L: Lauderdales Patent past for a yeare to be payd
+here quarterly out of the Customs . MARVELL,336.010.288
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+Som Ladyes tell me that there is a Collection of Pearls making in all
+Parts to make a Necklace of w=ch= the King will present to the
+Countesse of Sussex . MARVELL,336.010.289
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+Yesterday the L: Mayor & Common Councill came to Whitehall
+MARVELL,336.010.290
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+& presented the King his Freedome in a golden box of value .
+MARVELL,336.010.291
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+They will afterwards proportionably to the Duke the Treasurer & his two
+sons & the L: Barclay who were all made free the same day the King
+dined in the City . MARVELL,336.010.292
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+The Treasurers second son the Lord Dunblane is certainly to be marryed
+to M=rs= Hide , Viners daughter in law . MARVELL,336.010.293
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+The Earle of Clarinden you heare is dead , MARVELL,336.010.294
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+they say the same day that Judge Vaghan MARVELL,336.010.295
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+It is prity if Death reconciled two such Enemyes . MARVELL,336.010.296
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+I can remember nothing else but that I am Sir Your most affectionate
+and most humble servant Andr: Marvell . MARVELL,336.010.297
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+Westm: MARVELL,336.010.298
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+Dec: 19. 1674. MARVELL,336.010.299
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+My L: Castleton hath at last fully secured both his mariages .
+MARVELL,336.010.300
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+The businesse between my L: Lauderdale & M=r= Burnet as also between
+Betty Howard and Felton would each require a distinct Leter .
+MARVELL,336.010.301
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+The Priest that was condemnd is reprievd MARVELL,336.010.302
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:53
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:48
+LETTER:MARVELL_010:E3:1674:AUTOGRAPH:OTHER
+& will doutlesse be conveyd beyond Sea . MARVELL,336.010.303
+
+<Q_MAV_A_1675_T_AMARVELL> <L_MARVELL_011> <A_ANDREW_MARVELL_JR>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1621> <R_HENRY_THOMPSON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1626> <AREW_MARVELL_JR> <P_337>
+{ED:29.}
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+{COM:ADDRESSED} For S=r= Henry Thompson At Escrick . to be left with
+M=r= Edward Thompson , Merchant At Yorke . MARVELL,337.011.304
+
+{ED:END_OF_JANUARY_1674:5.}
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+Sir , it is long since I had the honour to heare from you ; which , if
+it proceed , as you said in a former Letter but which I can scarse
+handsomly mention , from your tendernesse of troubling me , is the
+cruellest Piece of your Ciuility : to me especially who haue no
+imployment but idlenesse and who am so oblivious that I should forget
+mine own name did I not see it sometimes in a friends superscription
+MARVELL,337.011.305
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+And yet if to retaine things past be the worke of memory , mine sure
+must be none of the worst , who , hauing so long since promised you to
+speake with some persons in your concernment , am so mindfull as , when
+I belieue you had in your thoughts giuen me over , now to send you an
+account of it . MARVELL,337.011.306
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+As for Hartlib , who was S=r= Johns eagerest Sollicitor , he hath a
+moneth ago shot the pit . MARVELL,337.011.307
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+For being a vaine fellow and expensiue beyond his incomes , he hath
+thought convenient to passe ouer into Holland with no intention of
+returning . And so unhandsomely as to goe away euen in M=r= Rushworths
+Debt who good man stood not in need of such an accident .
+MARVELL,337.011.308
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+But with M=r= Rushworth himselfe I haue discoursed the whole matter
+very deliberately and fasting . MARVELL,337.011.309
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+He tells me , and I dare say with a very plain and honest heart , that
+he hath frequently advised S=r= John to desist , urging upon him both
+the weakenesse of his pretense so ill founded , and the reflexion that
+he dos and will ly under as stickling onely upon the Treasures interest
+; beside the unavoidable temptation if he could possibly get in , of
+prostituting his vote to the discretion of his Lordship . Insomuch that
+he looks upon him as wavering in his resolution ; unwilling indeed to
+let goe , yet wishing he could handsomely come of . So that from M=r=
+Rushworth I perceive he is like to haue but cold comfort and weake
+assistance ; who tells me too that Sir John comes not up this terme ,
+which , considering the present noise of the Parl=ts= sitting and his
+usuall attention , makes me thinke that he begins to hope ill of his
+own businesse . MARVELL,337.011.310
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+I haue not spoke indeed to M=r= Rushworth of writing to him to the same
+purpose as yet , it being something hard for a man of his ingenuity to
+obtrude a blunt advice against the haire of his friend without a fresh
+<P_338> occasion : MARVELL,338.011.311
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+but I am now enterd into so free a way of talking these things with him
+that at lest in Easter terme when S=r= John comes up , I doubt not but
+that he and I my selfe may both set upon him . MARVELL,338.011.312
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+Yet that is with the latest MARVELL,338.011.313
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+and by that time he will be too much involv'd in his own resolution so
+that I will watch if any thing may be said hence sooner
+MARVELL,338.011.314
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+and if you in the mean time can find how he may be sounded at Yorke $'t
+$is {TEXT:'tis} possible it might not be unsuccesfull .
+MARVELL,338.011.315
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+My L: S=t= John is in the Hall MARVELL,338.011.316
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+and saith he is come up to justify himselfe against the calamnyes &
+contrivances of his Enemyes . MARVELL,338.011.317
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+The L: Mordant went down <paren> and I imagine not altogether
+officiously </paren> to invite my Lord Shaftsbury to Town .
+MARVELL,338.011.318
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+But my Lord gaue him a dextrous insignificant answer ,
+MARVELL,338.011.319
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+yet perhaps may this Terme bring up his daughter Ashly to ly in at
+London . MARVELL,338.011.320
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+The D: of Lauderdale saith openly at his Table they say he shall goe
+Emb=r= for Spain or France MARVELL,338.011.321
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+but he will not stirre his ground unlesse to Scotland .
+MARVELL,338.011.322
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+He was sworn the Test this Terme for his new Pension of a yeare .
+MARVELL,338.011.323
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+There has been an Habeas Corpus granted for bringing S=r= R: Viners
+daughter forth whom he detains and inveagles , Dunblane nightly
+visiting and his sister lying with her : MARVELL,338.011.324
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+the Treasurer not being able to despaire of nulling the mariage the
+Keeper Treasurer and Lauderdale spend yet whole days with the Bishops
+at Lambeth : MARVELL,338.011.325
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+We shall at last sure know the bottome of it MARVELL,338.011.326
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+The B=ps= are upon their guard and very jealous of being trepannd .
+MARVELL,338.011.327
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+We are very desirous to set out a Fleet of saile MARVELL,338.011.328
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+and there is a new Article discoverd to assist Sweden they say with
+ships & men whensoeuer any of his territoryes are invaded :
+MARVELL,338.011.329
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+but it will be difficult to cary through . MARVELL,338.011.330
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+France also offers us great conditions again and Towns for Caution .
+MARVELL,338.011.331
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+They say Van Trump told the King if the French had fought like the
+English the Dutch Fleet had bin wholy ruined . That he complemented the
+Duke , though God sent him not a son , England had bin happily gouernd
+by women : for example Q: Elizabeth . that the D: replyd he was ill
+informd of our affairs , $'t $was {TEXT:twas} the worst reigne since
+the Conquest . MARVELL,338.011.332
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+Buckhurst is Midlesex MARVELL,338.011.333
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+& will be of the Councell . MARVELL,338.011.334
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+Rochester has lost his Bridge . MARVELL,338.011.335
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+The D: forgiues not Henry Sauill MARVELL,338.011.336
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+but is still forbid the Court . MARVELL,338.011.337
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_011:E3:1675:AUTOGRAPH:OTHER
+I am Your most humble serv=t= Andr: Marvell . MARVELL,338.011.338
+
+<Q_MAV_A_1675_T_AMARVELL> <L_MARVELL_012> <A_ANDREW_MARVELL_JR>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1621> <R_HENRY_THOMPSON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1626> <AREW_MARVELL_JR> <P_340>
+{ED:31.}
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_012:E3:1675:AUTOGRAPH:OTHER
+{COM:ADDRESSED} For S=r= Henry Thompson At Escrick to be left with the
+Post mast=r= of Yorke . MARVELL,340.012.339
+
+{ED:6_JULY_1675.}
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_012:E3:1675:AUTOGRAPH:OTHER
+Sir I thanke you for taking my $letters {ED:ONE_OR_TWO_WORDS_MISSING.}
+MARVELL,340.012.340
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_012:E3:1675:AUTOGRAPH:OTHER
+I can not requite it but with the good news of the Kings safe arrivall
+from sea this night . MARVELL,340.012.341
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_012:E3:1675:AUTOGRAPH:OTHER
+For from Sat: till Saturday we were at a losse . MARVELL,340.012.342
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_012:E3:1675:AUTOGRAPH:OTHER
+He had a most terrible storme . MARVELL,340.012.343
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_012:E3:1675:AUTOGRAPH:OTHER
+Himself writ to a Lady that <font> il faisoit un temps bien effroiable
+</font> . MARVELL,340.012.344
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_012:E3:1675:AUTOGRAPH:OTHER
+Capt: Lawson <paren> E: of Carlisles Nephew </paren> went lately over
+with neare horse & as many men to serve the King of France
+MARVELL,340.012.345
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_012:E3:1675:AUTOGRAPH:OTHER
+When at Calais went to salute the Count of Charost , Governor . Who
+told him his soldiers should not be quarterd in Town .
+MARVELL,340.012.346
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_012:E3:1675:AUTOGRAPH:OTHER
+Lawson said he was glad he told him so in time MARVELL,340.012.347
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_012:E3:1675:AUTOGRAPH:OTHER
+for his Horses were not landed MARVELL,340.012.348
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_012:E3:1675:AUTOGRAPH:OTHER
+Charost said <font> les Anglois ne sont pas des Chrestiens et ils
+traittent les Francois d'une facon barbare </font>
+{COM:A_CEDILLA_UNDER_THE_LETTER_c_IN_THE_WORDS_Francois_facon} .
+MARVELL,340.012.349
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_012:E3:1675:AUTOGRAPH:OTHER
+Lawson replyd if this were their first civility he saw what to expect
+for the future : MARVELL,340.012.350
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_012:E3:1675:AUTOGRAPH:OTHER
+went away to take ship again MARVELL,340.012.351
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_012:E3:1675:AUTOGRAPH:OTHER
+but the Count sent excuses to ouertake him MARVELL,340.012.352
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_012:E3:1675:AUTOGRAPH:OTHER
+and ouerperswaded him . MARVELL,340.012.353
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_012:E3:1675:AUTOGRAPH:OTHER
+Capt: Kirke is also going shortly , hauing a fortnight agoe taken by
+force from her friends but her own consent a Shoomakers daughter
+portion but not to mary her , MARVELL,340.012.354
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_012:E3:1675:AUTOGRAPH:OTHER
+fought it through the streets to the water side MARVELL,340.012.355
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_012:E3:1675:AUTOGRAPH:OTHER
+& lodgd her in Whitehall . MARVELL,340.012.356
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_012:E3:1675:AUTOGRAPH:OTHER
+Last Sunday fougt Mulgraue on his sister Mals quarell
+MARVELL,340.012.357
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_012:E3:1675:AUTOGRAPH:OTHER
+& worsted & wounded him . MARVELL,340.012.358
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_012:E3:1675:AUTOGRAPH:OTHER
+Rushworth going for the North tells me he told S=r= John at parting
+would neuer in the lest appeare more for him & when at York will tell &
+perswade with his Lady . MARVELL,340.012.359
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_012:E3:1675:AUTOGRAPH:OTHER
+I am Your most affect serv=t= Andr: Marvell . MARVELL,340.012.360
+
+<Q_MAV_A_1675_T_AMARVELL> <L_MARVELL_013> <A_ANDREW_MARVELL_JR>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1621> <R_HENRY_THOMPSON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1626> <AREW_MARVELL_JR> <P_343>
+{ED:33.}
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_013:E3:1675:AUTOGRAPH:OTHER
+{COM:ADDRESSED} For S=r= Henry Thompson of Escrick to be left with the
+Postmaster of Yorke MARVELL,343.013.361
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_013:E3:1675:AUTOGRAPH:OTHER
+Dec: 9 - 1675 MARVELL,343.013.362
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_013:E3:1675:AUTOGRAPH:OTHER
+Sir {ED:,} I hope you haue had a good journey down .
+MARVELL,343.013.363
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_013:E3:1675:AUTOGRAPH:OTHER
+I sent the vote to a friend at Hull with order to send you a Copy .
+MARVELL,343.013.364
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_013:E3:1675:AUTOGRAPH:OTHER
+The daily contrary rumors concerning Parliament are not worth taking
+notice of . MARVELL,343.013.365
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_013:E3:1675:AUTOGRAPH:OTHER
+Truly that of the selling of Tangier I should think as litle .
+MARVELL,343.013.366
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_013:E3:1675:AUTOGRAPH:OTHER
+All the Goldsmiths Banquiers in Lombard Street haue been for now more
+then a weeke {TEXT:been} {ED:SIC} laid at by their Creditors and so
+much mony drawn from them that I belieue it will neuer more find the
+same Chanell . And all as far as I can perceiue upon unnecessary
+surmises or upon an intention of some persons Wholy to breake all
+credit of that nature . MARVELL,343.013.367
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_013:E3:1675:AUTOGRAPH:OTHER
+It skirted upon our friends in Wooll-church market :
+MARVELL,343.013.368
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_013:E3:1675:AUTOGRAPH:OTHER
+but they proceed Cock-sure . MARVELL,343.013.369
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_013:E3:1675:AUTOGRAPH:OTHER
+People talke as if there were some neare probability of a peace and
+that we and the Hollanders &c: shall impose it upon the <P_344>
+Confederats . MARVELL,344.013.370
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_013:E3:1675:AUTOGRAPH:OTHER
+I heare that two ugly distichs haue been pasted up at the Kings
+Bedchamber doore . MARVELL,344.013.371
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_013:E3:1675:AUTOGRAPH:OTHER
+I am sory that they should haue so much effect as to make the King
+distrust his Safety and walk with guards MARVELL,344.013.372
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_013:E3:1675:AUTOGRAPH:OTHER
+Mr Skelton is going to fetch ouer Count Furstenberg to be deposited in
+his M=tys= hands . MARVELL,344.013.373
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_013:E3:1675:AUTOGRAPH:OTHER
+The Dutchesse Mazarin is either arrived or expected here .
+MARVELL,344.013.374
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_013:E3:1675:AUTOGRAPH:OTHER
+S=r= Rich: Gremes 's brother has marryd himselfe to Mrs Doll Howard one
+of the maids of Honor . MARVELL,344.013.375
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:54
+RECIPIENT:HENRY_THOMPSON:MALE:_:1626:49
+LETTER:MARVELL_013:E3:1675:AUTOGRAPH:OTHER
+I am Sir Your most humble Serv=t= Andr: Marvell MARVELL,344.013.376
+
+<Q_MAV_A_1676_T_AMARVELL> <L_MARVELL_014> <A_ANDREW_MARVELL_JR>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1621> <R_EDWARD_HARLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1624> <AREW_MARVELL_JR> <P_344>
+{ED:35.}
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+{COM:ADDRESSED} For S=r= Edward Harlay at Brampton Castle To be left
+w=th= y=e= Post-master of Ludlow . MARVELL,344.014.377
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+Sir , to make the Town new to me I haue been airing my selfe for neare
+three weeks in the Country where I received your favorable and welcome
+Letter & whence I returned last Tuesday . MARVELL,344.014.378
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+The first thing I heard was Judge Ellis dismissed and S=r= W: Scroggs
+Judge in his place of both which I find no uncertainty .
+MARVELL,344.014.379
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+Next they told me that the <P_345> L: Rochester with Ettridge Bridges
+and Downs had in a debauch at Epsome caused the Constable to defend
+himselfe . MARVELL,345.014.380
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+Rochester said to haue first ingaged & first fled and abjectly hid
+himselfe while the rest were exposed and the Rusticks animadverted so
+severely upon them that Downs is since dead & the Crowner has found it
+murther , which being done in a Riot wounds onely the Aggressors .
+MARVELL,345.014.381
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+On the Wednesday Jynks appeard before the Councill on Summons .
+MARVELL,345.014.382
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+S=r= R: Payton severall Templars & Citizens countenancd him thither .
+MARVELL,345.014.383
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+His crime , the Saturday before at the Common hall for Elections
+<paren> where the Knights of the Stocking & the Urinall Clarges & Rich
+were chosen Shreeves </paren> he had moved for a new Parliament as the
+Right & Remedy of the Nation . MARVELL,345.014.384
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+There was a great Well mov'd & afterwards an Hum MARVELL,345.014.385
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+and the Mayor gaue an insignificant plausible answer .
+MARVELL,345.014.386
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+He was committed to the Gate-house for that Mutinous and Seditious
+Motion & for his Arrogant defending it before the Councill .
+MARVELL,345.014.387
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+He is frequently visited . MARVELL,345.014.388
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+But the same day S=r= Rob: Car accused S=r= Phil: Munkton at Councill
+not thinking him so neare for the same kind of attempts in the Country
+. MARVELL,345.014.389
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+He was called in , MARVELL,345.014.390
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+ownd his being for a new Parl=t= MARVELL,345.014.391
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+talkd with the Liberty of an old Cavalier and his own peculiar folly to
+the King of the D: of Yorke to the Privy Seale to Coventry concerning
+Papists <paren> $'t $were {TEXT:twere} a pleasant Scene had I time to
+open it </paren> MARVELL,345.014.392
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+But the best of the sport was , accused Car of having in Lincolnshire
+instigated severall gentlemen & ministers whom S=r= Ph: named , for a
+new P=t= . MARVELL,345.014.393
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+He denyed it MARVELL,345.014.394
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+and they are summond up as Witnesses , so or no , S=r= Ph: at Liberty &
+to appeare when they come . MARVELL,345.014.395
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+This may hit , MARVELL,345.014.396
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+and truly I heare besides that my L: Arlington is making a retreat from
+Court . MARVELL,345.014.397
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+On Thursday Ratford for propagating the Libell was indited of Treason ,
+tryed & acquitted by the Jury MARVELL,345.014.398
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+and the rude People clappd their hands for joy MARVELL,345.014.399
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+and made a great acclamation at the Verdict . MARVELL,345.014.400
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+On Friday the L: Cornwallis was tryed and acquitted by his Peers
+MARVELL,345.014.401
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+but the People were then more civell being before better Company
+MARVELL,345.014.402
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+and broke not out into that clamorous applause . MARVELL,345.014.403
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+The L: Treasurer , Privy-Seale , and foure or fiue others were for
+finding it manslaughter . MARVELL,345.014.404
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+I expect certainly to see M=r= Atturny Generall for his coolenesse in
+some things that require his opinion and activity , make place for
+another . MARVELL,345.014.405
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+Here are diverse books come out lately The Catholick Naked Truth , by a
+Papist . A modest Survey of a discourse intitled the Naked Truth
+<paren> the poore mans book </paren> by Burnet . The Conference before
+the Lady Tirwhit by Burnet and Stillingfleet . D=r= Stillingfleets
+answer to Godwin , where in his prefatory Epistle to <P_346> the B=p=
+of London dated May the he seems to haue read the sheet so seditious
+and defamatory to Christian Religion . MARVELL,346.014.406
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+the book said to be Marvels makes what shift it can in the world
+MARVELL,346.014.407
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+but the Author walks negligently up & down as unconcerned .
+MARVELL,346.014.408
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+The Divines of our Church say it is not in the merry part so good as
+the Rehearsall Transpros'd , that it runns dreggs : MARVELL,346.014.409
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+the Essay they confesse is writ well enough to the purpose {to}_P he
+intended it MARVELL,346.014.410
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+but that was a very ill purpose . MARVELL,346.014.411
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+The B=p= of Londons Chaplain said it had not answerd expectation .
+MARVELL,346.014.412
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+D=r= Turner first met it at Broom 's MARVELL,346.014.413
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+went into a Chamber MARVELL,346.014.414
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+& though he were to haue dined which he seldome omits nor approues of
+Fasting yet would not come down MARVELL,346.014.415
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+but read it all over in consequence . MARVELL,346.014.416
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+The B=p= of London has carryed it in his hand at Councill seuerall days
+, showing his friends the passages he has noted MARVELL,346.014.417
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+but none takes notice of them . MARVELL,346.014.418
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+No man in the Town appears more curiously & studiously concerned
+against it then D=r= Bates <paren> most upon the score of the Nicene
+Councill </paren> MARVELL,346.014.419
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+But why ? MARVELL,346.014.420
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+It dos not against his Corporation Oath teach that it is lawfull to
+take arms against persons Commissionated by his Majestys authority .
+MARVELL,346.014.421
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+But some years agoe I heard that he said Marvell was an Intelligencer
+to the King of France . MARVELL,346.014.422
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+$'T $was {TEXT:Twas} about the same time that the Doctor was in pension
+to another Monarch . MARVELL,346.014.423
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+I know not what to say : MARVELL,346.014.424
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+Marvell , if it be he , has much staggerd me in the busnesse of the
+Nicene & all Councills , MARVELL,346.014.425
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+but had better haue taken a rich Presbyterians mony that before the
+book came out would haue bought the whole Impression to burne it .
+MARVELL,346.014.426
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+Who would write ? MARVELL,346.014.427
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+What saith the poor man . MARVELL,346.014.428
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+Your humble servant . MARVELL,346.014.429
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:55
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:52
+LETTER:MARVELL_014:E3:1676:AUTOGRAPH:OTHER
+July 1. 1676 . MARVELL,346.014.430
+
+<Q_MAV_A_1677_T_AMARVELL> <L_MARVELL_015> <A_ANDREW_MARVELL_JR>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1621> <R_EDWARD_HARLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1624> <AREW_MARVELL_JR> <P_351>
+{ED:40.}
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+{COM:ADDRESSED} For S=r= Edward Harlay At Brampton Castle to be left
+with the Post-master of Ludlow . MARVELL,351.015.431
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+Sir , I promised you when you went out of Towne to giue you the first
+news of the Battell betwixt the Duke of Loraine and Crequy which was
+then expected . MARVELL,351.015.432
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+But I will not lose the benefit of writing to you so long till that may
+happen . MARVELL,351.015.433
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+For Crequy avoids the maine chance MARVELL,351.015.434
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+and will as long as he can . MARVELL,351.015.435
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+Some disputes haue happened indeed , in which the French haue not been
+superior . MARVELL,351.015.436
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+Yet we imagine that within ten days we may haue news of importance from
+one side or other , the severall confederate Troopes all now pointing
+to their respectiue designes . MARVELL,351.015.437
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+Some Germans here in town tell me they looke not for any vigour on the
+Hollanders part although there should be sincerity : for that the
+French & Hollander are perfectly agreed upon all their Articles though
+not to ratify them untill the Confederates also haue satisfaction .
+MARVELL,351.015.438
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+I remember in the Treaty of Munster the French highly complained of the
+Hollanders for managing the Project of their own peace with the
+Spaniard in the same manner . MARVELL,351.015.439
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+And at last it did turne into an effectuall Treaty betweene them two ,
+the French being left out of it . MARVELL,351.015.440
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+I do not perceive that the foraine Ministers here advance one step in
+<P_352> negotiating us into the Confederacy . MARVELL,352.015.441
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+What wants in this news I must supply with the Story of the Common hall
+last Sunday when the City , it falling out to be Midsummer day , were
+by Charter to chuse their Shrieues , Chamberlain & other officers .
+MARVELL,352.015.442
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+But heretofore in ciuility to the Lords day they had been used in the
+like case to put it of till the day following . MARVELL,352.015.443
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+Yet now hauing an influenced designe <paren> some add there was a
+letter , but upon view of the physiognomy of the Hall forborn out of
+discretion </paren> to out S=r= Thomas Playor , and imagining that the
+Fanaticks might be absent upon scruple of profaning the Sabbath they
+would celebrate the Election with that advantage . MARVELL,352.015.444
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+But there was neuer seen so full an hall crowded from one end up to the
+other & many forced to stand without doores so that when Loads <paren>
+a loyall Orange-merchant </paren> was nominated by some of his friends
+for Chamberlaine he was universally decryed and S=r= Thomas confirmed
+with all the vanity of publick applause and fauour .
+MARVELL,352.015.445
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+That which I tell you this principally for , is onely to introduce that
+when after all other officers were chosen till they descended to that
+of Ale-cunner , then Loads his Adversaryes in a malicious City jeere
+cryed him up as eagerly as they rejected him before to that Preferment
+till the Common Sergent apologized for him as a person of greater
+dignity . MARVELL,352.015.446
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+If I should goe still back to tell you old news , the Wednesday before
+this I saw S=r= Jo: Robinson march through Cheap-side in the head of
+the Artillery company , S=r= Thomas Player hauing declined that pompe
+out of a modest consciousnesse of the Kings and Duke of Yorkes
+displeasure . MARVELL,352.015.447
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+It was but an houre before that a great Swarme of Bees had light upon
+the Signe of the three Boars heads in Cheapside & was there fortunately
+hived . MARVELL,352.015.448
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+Still backward , Browne was tryed at Guild-hall very accurately , all
+the Kings Councill laying on all their Art and Load .
+MARVELL,352.015.449
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+Horrible libells read in the Inditement MARVELL,352.015.450
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+But acquitted of them by the Jury , MARVELL,352.015.451
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+onely found guilty of publishing the Long Parl=t= dissolved :
+MARVELL,352.015.452
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+for they thought they must in ciuility find somthing , though there was
+the lest reason for this , it being a packet broke open by a Knave who
+should haue carryed it to East India . MARVELL,352.015.453
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+Brown has since petitiond the King abjectly enough :
+MARVELL,352.015.454
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+but hauing no Answer has moved an Arrest of Judgement .
+MARVELL,352.015.455
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+Judge Rainsford had told the Jury that what verdict they shou {ED:ld}
+bring in would be the Test of the Loyalty of the City .
+MARVELL,352.015.456
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+The Sport was : asking them at their returne What do you find the
+Foreman simply answerd these indiuiduall words the Long Parliament
+dissolued : so that it was necessary to explaine them .
+MARVELL,352.015.457
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+Mallet <paren> who with Williams and Tremaine was Browns Counsell
+</paren> said $'t $was {TEXT:twas} a Moot point whether the Parl=t=
+were <P_353> not dissolued & that he was ready to argue it
+MARVELL,353.015.458
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+But was told it was not a question of that place . MARVELL,353.015.459
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+But the great businesse was yesterday , Shaftsbury at the Kings Bench
+upon his Habeas Corpus . MARVELL,353.015.460
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+I am afraid to launch into it at the end of a Letter ,
+MARVELL,353.015.461
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+I am so subject to be particular . MARVELL,353.015.462
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+People were at twelue a clock at night beating up the Hall doore to get
+in . MARVELL,353.015.463
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+By foure in the morning there were no places left . MARVELL,353.015.464
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+It lasted debate from halfe an houre past seuen till Noone .
+MARVELL,353.015.465
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+He was remanded as committed by the Superior Court yet sitting with
+w=ch= the Kings Bench had nothing to doe . MARVELL,353.015.466
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+Severall were carryed out of Court for dead . MARVELL,353.015.467
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+Shaftsbury himsefe had spoke as well as Williams and Wallop his
+Counsell . MARVELL,353.015.468
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+The King has giuen my L: Salisbury two moneths more .
+MARVELL,353.015.469
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+D: of Buckingam last weeke had two days to see Cliueden
+MARVELL,353.015.470
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+& returned . MARVELL,353.015.471
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+S=r= John King went sick from the Bar a weeke agoe MARVELL,353.015.472
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+and dyed yesterday . MARVELL,353.015.473
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+I do not belieue the Dutch fears that fourteen of our men of war are
+gone to intercept their East India Fleet : MARVELL,353.015.474
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+yet so they write . MARVELL,353.015.475
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+I am told de Boyes has a letter that twelue Papists are clappd up at
+Dublin hauing a Designe at the jollity & carelesnesse which should be
+at the D: of Ormonds Coming ouer to seize and fire Castle Magazine &c.
+at Dublin . MARVELL,353.015.476
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+He goes next moneth , D: Lauderdale next Tuesday . MARVELL,353.015.477
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+My lord Obrians Son married this weeke to the Treasurers daughter .
+MARVELL,353.015.478
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+Some of Quality of which wisdome is not one pay not the Tax but upon
+Distresse . MARVELL,353.015.479
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+I am S=r= your most affect. Serv=t= . MARVELL,353.015.480
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_015:E3:1677:AUTOGRAPH:OTHER
+June . MARVELL,353.015.481
+
+<Q_MAV_A_1677_T_AMARVELL> <L_MARVELL_016> <A_ANDREW_MARVELL_JR>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1621> <R_EDWARD_HARLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1624> <AREW_MARVELL_JR> <P_353>
+{ED:41.}
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_016:E3:1677:AUTOGRAPH:OTHER
+{COM:ADDRESSED} For S=r= Edward Harlay At Brampton Castle to be left
+with the Postmaster of Ludlow . MARVELL,353.016.482
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_016:E3:1677:AUTOGRAPH:OTHER
+Sir , I suppose you may not be uncurious to know what passed yesterday
+which I shall therefore giue you as I haue it from seuerall hands .
+MARVELL,353.016.483
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_016:E3:1677:AUTOGRAPH:OTHER
+The Parliament men in Towne met at the House : MARVELL,353.016.484
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_016:E3:1677:AUTOGRAPH:OTHER
+none scarse came on purpose . MARVELL,353.016.485
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_016:E3:1677:AUTOGRAPH:OTHER
+They say there might be about , but three parts of them of the Court .
+MARVELL,353.016.486
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_016:E3:1677:AUTOGRAPH:OTHER
+The Speaker came in about ten a clock MARVELL,353.016.487
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_016:E3:1677:AUTOGRAPH:OTHER
+and after Prayers tooke the Chaire . MARVELL,353.016.488
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_016:E3:1677:AUTOGRAPH:OTHER
+Forthwith in the same instant Secr. Coventry deliverd a verball message
+that it was the Kings pleasure the House should immediately Adjourne
+till the Third of December . MARVELL,353.016.489
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_016:E3:1677:AUTOGRAPH:OTHER
+The House then cryed Adjourne , Adjourne as soon as the Speaker had
+repeated the Message MARVELL,353.016.490
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_016:E3:1677:AUTOGRAPH:OTHER
+& it seemed that he was no lesse ready to pronounce the Adjournment
+without expecting further the Houses pleasure or putting the Question .
+MARVELL,353.016.491
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_016:E3:1677:AUTOGRAPH:OTHER
+But my L: Cauendish modestly moved in few <P_354> words w=ch= M=r=
+Williams seconded somthing more briskly but as short that they might
+haue the Order read whereby they were last Adjourned .
+MARVELL,354.016.492
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_016:E3:1677:AUTOGRAPH:OTHER
+Yet there was on purpose so set and generall a noise made for
+Adjournment that they could scarse be heard : MARVELL,354.016.493
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_016:E3:1677:AUTOGRAPH:OTHER
+and the Speaker thereupon without further Ceremony pronounced of
+himselfe the words This House is Adjourned till the third of December
+next . MARVELL,354.016.494
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_016:E3:1677:AUTOGRAPH:OTHER
+Those that were not pleased with it are displeased ,
+MARVELL,354.016.495
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_016:E3:1677:AUTOGRAPH:OTHER
+and may turne the buckle of their girdle behind them .
+MARVELL,354.016.496
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_016:E3:1677:AUTOGRAPH:OTHER
+I heare this motion was not made with hope or intention to bring it up
+to any debate or question , where the number was so unequall , but
+onely to lay a claime for hereafter to question the Speaker .
+MARVELL,354.016.497
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_016:E3:1677:AUTOGRAPH:OTHER
+The Order they askd for was , I heare , enterd that the House adjournd
+it selfe , which if it had been read did naturally lead to examine the
+Fact which was contrary . MARVELL,354.016.498
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_016:E3:1677:AUTOGRAPH:OTHER
+We say Lorain killd French & English in this late Action : Capt: Lawson
+, my L: Carlisles Nephew , Capt Mackartie , &c: Officers . That the
+Prince is set down before Charleroy & he coming to Couer the Siege .
+MARVELL,354.016.499
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_016:E3:1677:AUTOGRAPH:OTHER
+But the Dane has utterly destroyd the Swedes whole Navy .
+MARVELL,354.016.500
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_016:E3:1677:AUTOGRAPH:OTHER
+July 17. 1677 . MARVELL,354.016.501
+
+<Q_MAV_A_1677_T_AMARVELL> <L_MARVELL_017> <A_ANDREW_MARVELL_JR>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1621> <R_EDWARD_HARLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1624> <AREW_MARVELL_JR> <P_354>
+{ED:42.}
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+{COM:ADDRESSED} For S=r= Edward Harlay At Brampton Castle to be left
+with the Postmaster of Ludlow MARVELL,354.017.502
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+Worthy Sir , I am happy that the same letter which brought me the first
+news of your indisposition added that of your recovery .
+MARVELL,354.017.503
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+The E: of Salisbury , after hauing his Petition severall times
+corrected , broke the ice MARVELL,354.017.504
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+and at last acknowledged therein his unaduised discourse concerning the
+Prorogation . MARVELL,354.017.505
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+Hereupon he was fully discharged onely with condition to make the same
+submission to the House of Lords when sitting . MARVELL,354.017.506
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+The L: Wharton writ after the same Copy MARVELL,354.017.507
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+and had the same Order . MARVELL,354.017.508
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+The King jested with him MARVELL,354.017.509
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+and said he would teach him a text of Scripture . MARVELL,354.017.510
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+It will be very acceptable from your M=ty= . MARVELL,354.017.511
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+Sinne no more . MARVELL,354.017.512
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+Your M=ty= has that from my quotation of it to my L: Arlinton when he
+had been before the house of Commons . MARVELL,354.017.513
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+Well my Lord you and I are both old men MARVELL,354.017.514
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+and we should love quietnesse . MARVELL,354.017.515
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+Beside all other obligations I haue reason to desire it hauing some
+$=li= {TEXT:1500=li=} a yeare to lose . MARVELL,354.017.516
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+Ay my Lord but you haue an aking tooth still . MARVELL,354.017.517
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+No indeed , mine are all faln out . MARVELL,354.017.518
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+The D: of Buckingam petitiond only that he had layd so long , had
+contracted severall indispositions and desired a moneths <P_355> aire .
+MARVELL,355.017.519
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+This was by Nelly , Midlesex , Rochester , and the merry gang easily
+procured with presumption to make it an intire liberty .
+MARVELL,355.017.520
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+Hereupon he layd constantly in Whitehall at my L: Rochester 's logings
+leading the usuall life . MARVELL,355.017.521
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+The D: of Yorke , the Treasurer and , they tell me too , the D: of
+Munmoth , remonstrated to the King that this was to leap over all rules
+of decency and to suffer his authority to be trampled on but if he had
+a fauor for him he might do it in a regular way &c :
+MARVELL,355.017.522
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+Neverthelesse it was for some days a moot point betwixt the Ministers
+of State and Ministers of Pleasure who should carry it .
+MARVELL,355.017.523
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+At last Buck. was advertised that he should retire out of Whitehall .
+MARVELL,355.017.524
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+He obeyd MARVELL,355.017.525
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+and since presented they say a more acknowledging Petition then either
+Salisburyes or Wharton 's whereupon I heare that he was yesterday by
+the same Rule dismissed . MARVELL,355.017.526
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+People were full of vaine imaginations what changes he would make in
+Court MARVELL,355.017.527
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+but he loves Pleasure better then Revenge MARVELL,355.017.528
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+and yet this last is not the meanest luxury . MARVELL,355.017.529
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+The E: of Shaftsbury 's Lady tother day petitiond he might haue a month
+at S=t= Gills : MARVELL,355.017.530
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+but the King receiv'd it without any further notice or usuall respect .
+MARVELL,355.017.531
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+Yet there are that say the Court would be glad to be rid of him on
+easier terms then the other Lords but that he is too scrupulous of
+Honor . MARVELL,355.017.532
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+Indeed I will tell you an incredible story , yet there is but litle
+roome to doubt of it : that on the 16=th= of July the L: Stafford gaue
+him a visit , told him he was sory that after having tryed so many ways
+there was none to get out . But yet there was one left .
+MARVELL,355.017.533
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+Which is that I beseech you ? MARVELL,355.017.534
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+Your Lordship is wise and sagacious enough to understand what , without
+my further describing it . MARVELL,355.017.535
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+He paused MARVELL,355.017.536
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+and said I suppose I comprehend your Lo , MARVELL,355.017.537
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+you would have the Duke to write a new Creed for me and I to subscribe
+it MARVELL,355.017.538
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+But I shall never do it . MARVELL,355.017.539
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+He has done his worst to me MARVELL,355.017.540
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+yet would doe worse if it were in his power . MARVELL,355.017.541
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+He would haue my Head MARVELL,355.017.542
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+but I shall yet weare it in despight of him and liue perhaps to come
+betwixt him and his great hopes . MARVELL,355.017.543
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+And for you my Lord $'t $is {TEXT:tis} a mean office and unfit for a
+person of honour to haue made me such a motion : MARVELL,355.017.544
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+nor can you expiate it but by acquainting the Duke with all I haue said
+which I demand of you . MARVELL,355.017.545
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+What occasion was there for all this ? MARVELL,355.017.546
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+He is like to be left for the reckoning . MARVELL,355.017.547
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+It is some weeks since that the E: of Ossory and Don Carlos went for
+the Prince of Oranges army & since that the D: of Albemarle .
+MARVELL,355.017.548
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+The French Em=br= complaind of it to the King . MARVELL,355.017.549
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+Hereupon Monmoth & Feversham were immediately posted away for the
+French Army & since then Mulgrave Middleton and Lumley .
+MARVELL,355.017.550
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+The Field Conventicles in Scotland are very rife , more then ever . And
+the proceedings against <P_356> them as violent . MARVELL,356.017.551
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+Even poore herd-boys are fined shillings and six-pences .
+MARVELL,356.017.552
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+They quarter Troopers all where they heare Conventicles haue bin kept .
+MARVELL,356.017.553
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+One Gentleman fined sterlin & imprisond because he will not take the
+Oath to answer all their questions & tell the Nonconf=s= name that
+baptized his child . MARVELL,356.017.554
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+At a Nonc: Ministers childs buriall at Glasgow there came from seuen
+miles about neare people to spight the Bishop of Argyle who is also
+Parson of Glasgow who would not suffer the Bellman to publish the
+buriall after the usuall manner Child to such an one Minister of the
+Gospell at Maidlan but somtimes Minister wherfore they imployd not the
+Bellman at all MARVELL,356.017.555
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+but a Woman seeing the Bishop peep out cryed aloud Ha Theefe thou wilt
+never haue so many at thy buriall except thou be hanged .
+MARVELL,356.017.556
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+M=r= Jenkins is richly marryed : Owen tolerably to M=rs= Doily .
+MARVELL,356.017.557
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+The King gone by sea for Portsmouth . MARVELL,356.017.558
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+Aug: 7. 1677 . MARVELL,356.017.559
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_017:E3:1677:AUTOGRAPH:OTHER
+I am much out of Towne w=ch= has caused this late returne .
+MARVELL,356.017.560
+
+<Q_MAV_A_1677_T_AMARVELL> <L_MARVELL_018> <A_ANDREW_MARVELL_JR>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1621> <R_EDWARD_HARLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1624> <AREW_MARVELL_JR> <P_356>
+{ED:43._TO_SIR_EDWARD_HARLEY}
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+Nov: 17. 77 . MARVELL,356.018.561
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+I am afraid they burne Popes to night . MARVELL,356.018.562
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+Sir my indiscretion in talking so much and so extravagantly concerning
+my selfe in my last Letter <paren> but I know with whom it is deposed
+</paren> makes me write this for amends . MARVELL,356.018.563
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+The Prince goes away on Munday . MARVELL,356.018.564
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+I heare the French haue besieged our Lady of Halle neare Brussells .
+MARVELL,356.018.565
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+As my L: Hollis said whom I dined with to day , they fight when others
+are gone to bed , and before they be up . MARVELL,356.018.566
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+I feare they will cary Friburg too . MARVELL,356.018.567
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+The Confederate Ministers here are jealous lest England France and
+Holland haue allyed to force a Peace upon the rest seeming specious but
+really noxious . MARVELL,356.018.568
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+To day is acted the first time Sir Popular Wisdome or the Politician
+where my Lord Shaftsbury and all his gang are sufficiently personated .
+MARVELL,356.018.569
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+I conceiue the King will be there . MARVELL,356.018.570
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+The Lady Portsmouth is passing a Patent for the whole Cole-farme and a
+yeare in the meane time . MARVELL,356.018.571
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+No Archbishop yet appears : MARVELL,356.018.572
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+we thinke London . MARVELL,356.018.573
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+Taunton is forced to be a Corporation Bishop Mew and Earle of Rochester
+two of the Aldermen . MARVELL,356.018.574
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+Bishop sent next day for M=r= Newton MARVELL,356.018.575
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+Why could he not conforme now as well as then ? MARVELL,356.018.576
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+Assent and Consent . MARVELL,356.018.577
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+Why ? MARVELL,356.018.578
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+One , And they rebelled against MARVELL,356.018.579
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+And they were obedient to his Word . MARVELL,356.018.580
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+Very angry . MARVELL,356.018.581
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+Heavy hauock there sence . MARVELL,356.018.582
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+To cure your Gout at any time the Chandlers boys haue got a trick
+<P_357> of making squibs exquisitely in candles . MARVELL,357.018.583
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+One of m by chance set up to burne by him all night lying in of gout &
+stone . MARVELL,357.018.584
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+It did a most admirable reall ridiculous effect MARVELL,357.018.585
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+made him run up and down like a squib crying Devell Murder Treason .
+MARVELL,357.018.586
+
+AUTHOR:ANDREW_MARVELL_JR:MALE:_:1621:56
+RECIPIENT:EDWARD_HARLEY:MALE:_:1624:53
+LETTER:MARVELL_018:E3:1677:AUTOGRAPH:OTHER
+I haue not further of what I last inclosed . MARVELL,357.018.587

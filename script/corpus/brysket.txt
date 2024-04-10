@@ -1,0 +1,1756 @@
+<B_BRYSKET>
+
+<Q_BRY_A_1581_T_LBRYSKETT> <L_BRYSKET_001> <A_LODOWICK_BRYSKETT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1545?> <R_FRANCIS_WALSINGHAM>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1530?>
+
+<P_17>
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+May it please your honor . The manifold favors that it hath pleased you
+to bestowe vpon me , doe often summon me to make some satisfaction as
+an honest man , standing so farre indebted and bounde to so honorable a
+personage . BRYSKET,17.001.1
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+But when I consider myne owne inhabilitie , muche lyke to him that is
+forced to hyde his hed from his creditors I am ashamed to shewe my self
+or appere before your honor in any sorte . BRYSKET,17.001.2
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+And yet your great humanitie and courtesie cheereth me vp againe ,
+BRYSKET,17.001.3
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+and geveth me courage , perswading me that your honor with your
+singular Iudgement is hable well enough to consider and will not refuse
+to enter into the weighing of my case : BRYSKET,17.001.4
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+And withall in reason I am taught to knowe , that a willingnes and a
+good intention in any man to discharge his obligacions , is so muche
+the more easily taken for paiment , as the personage to whom the
+obligacions are , is more noble and worthie . BRYSKET,17.001.5
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+This doth embolden me <paren> right honorable </paren> to trouble you
+with these my rude letters , hoping that you will rather take in good
+parte this simple shewe or token of acknowledging my infinite debt vnto
+your honor , then impute me for being troublesome vnto you .
+BRYSKET,17.001.6
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+Of the State of the Countrey if I wryte but little , I am to beseche
+your honor to thinke that the shorte tyme past since my retourne , in
+which I could <P_18> not have as yet lerned the state of the Provinces
+severally and the more large advertisements which my Lord Deputie hath
+sent over lately , doe yelde me small occassion to enlarge my self in
+that behalf . BRYSKET,18.001.7
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+Onely thus muche I hope , I may without offence say , that considering
+the great and many practises against this State <paren> the depthe
+whereof I am perswaded is not yet throughly sounded </paren> and the
+vniversal disposicion of this people to disobedience , I doe rather
+wonder to see things in so good frame , then loke they shold muche
+better , onlesse Her Majestie by th'advyse of your honors , putt on a
+determinacion to goe throrough with the reformacion of Ireland : The
+State whereof me thinketh I may well compare , vnto an old cloke or
+garment often tymes mended and patched vp , wherein now so great a rend
+or gashe being made by violence , as of late all the world doth knowe ,
+there is now no remedy but to make a newe : BRYSKET,18.001.8
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+for to piece the old againe will be but labor loste , consumpcion of
+that $shall $be {TEXT:shalbe} bestowed vpon it , and doubtful whether
+tyme now omitted , will suffer her Highnes and your honors , when you
+would to have any newe at all . BRYSKET,18.001.9
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+For this is most assuredly to be built vpon , that whatsoever obedience
+is shewed now , ether in such as have manifested them selves in this
+Rebellion , or in the rest , is but for feare , because of the force
+Her Majestie hath here : and to winn tyme , as men that by long
+experience of this State , and taught by their owne devyses , doe know
+, how loth her Highnes will be to continue the great charge she now is
+at , BRYSKET,18.001.10
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+or at the lest such is their hope . BRYSKET,18.001.11
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+But the furder discourse of these matters , are nether fitting for my
+place , not being comaunded , nor mete for my reache being of so meane
+Judgement . BRYSKET,18.001.12
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+And therefore I humbly crave pardon at your honor 's hands for my
+boldnes in that behalf . BRYSKET,18.001.13
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+At my arryvall here in this land I found my L. Deputie out in a iorney
+which he had made towards the borders of Conaght , to whom nevertheles
+I repaired presently , BRYSKET,18.001.14
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+and having delivered vnto his L. the Counsell 's and your honors
+letters , and the rest , he afterwards some what blamed my long absence
+hence , BRYSKET,18.001.15
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+nevertheles in respect of the letters which I had brought was contented
+to remit that was past and to assure me of his L. favor hereafter in
+the exercyse of my place , BRYSKET,18.001.16
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+And accordingly have found his countenance towards me ever since .
+BRYSKET,18.001.17
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+But concerning the office I had in the Impost , before my coming not
+long , his Lordship had disposed some of them , the best .
+BRYSKET,18.001.18
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+Nevertheles I am not out of hope but his Lordship will vpon
+consideracion of your honors letters and in regard of my service
+restore them againe vnto me , the rather if it wold please your honor
+eftsones to prick him but a little forward in some letter of yours .
+BRYSKET,18.001.19
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+For by perceiving that your honor hath some care of me in my absence he
+may easily be induced , in my conceite , to wishe me that good was ment
+me , especially when he may withall turne her Ma=tie= to benefite as
+<P_19> by comitting that trust to me of reforming the abuses of the
+Officers , through which I dare boldly affirme , and the Auditors will
+testifie , her highnes is yerely hindred above a thowsand marks .
+BRYSKET,19.001.20
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+I confesse I am half ashamed to presse your honor thus farre ,
+BRYSKET,19.001.21
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+but seing that with a fewe wordes you may doe so good a dede , I doe
+presume to crave it in humble sorte at your hands . BRYSKET,19.001.22
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+I knowe it is not mete for me to be tedious to your honor , being
+otherwyse so continually busied in weightier affaires .
+BRYSKET,19.001.23
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+And therefore with humble recommendation of my duetie , and offer to
+perfourme this office hereafter so farre forth as the same may not be
+troublesome vnto your honor , I end beseching Almighty God to prosper
+your honor and all your Godly actions . BRYSKET,19.001.24
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+From Dublin the second of Marche {ED:-81} . BRYSKET,19.001.25
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+Your honors most bounden & at comandement Lod: Bryskett .
+BRYSKET,19.001.26
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+It may please your honor I have allwayes found this place toylesome but
+now most of all and that without intermission , and small or no profitt
+. BRYSKET,19.001.27
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+The fee is only x=li= Irish , by the yere , where the Clerkes in the
+Provinces have xx=li= sterling by the yeare apiece . BRYSKET,19.001.28
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+I humbly beseche your honor to consider my case and to be favorable
+vnto me , that I may not altogether consume my selfe as hitherto I have
+done , God is my witnesse , and yet live in continuall toyle and labor
+. BRYSKET,19.001.29
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_001:E2:1581:AUTOGRAPH:OTHER
+Mr. Waterhouse him selfe even vpon the first conference hath made an
+end betwene Mr Chaloner and me , so conformable have I ben , to be
+ruled as Mr Waterhouse wold appoint . BRYSKET,19.001.30
+
+<Q_BRY_A_1581_T_LBRYSKETT> <L_BRYSKET_002> <A_LODOWICK_BRYSKETT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1545?> <R_FRANCIS_WALSINGHAM>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1530?>
+
+<P_20>
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+May it please $your {TEXT:yor} hono=r= . I have received $your
+{TEXT:yor} $lettre {TEXT:lre} of the xv=th= of Marche by the which I
+fynde my $obligacions {TEXT:obligacons} infinitely to encrease , not
+only in that I $perceive {TEXT:pceive} the continuance of your favor
+and countenance towards me according to your honorable promesse , but
+also in vouchsafing so redily to wryte in my behalf vnto my good Lorde
+at my request , by whose owne mouth I had vnderstanding thereof before
+your honor 's lettres cam to my hand : BRYSKET,20.002.31
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+Besydes that in making me worthie to receive any lettres at all from
+you I $can $not {TEXT:cannot} but confesse your great courtesie to
+excede farre , ether my deserte or expectacion . BRYSKET,20.002.32
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+For knowing how deere and precious every minute of tyme is vnto your
+honor , throughe the huge masse of weightie and important affaires that
+kepe you continually busied I was so farre from looking that your honor
+should spare any tyme to aunswere my rude lettres , as rather I doubted
+lest the reeding of them might be troublesome vnto you .
+BRYSKET,20.002.33
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+But even as the beames of the sunne $can $not {TEXT:cannot} but shyne ,
+and doe no lesse plentifully then indifferently emparte heate and light
+to all men without regard of persons : So true nobilitie and vertue
+never ceaseth to dispence their fruites universally without exact
+consideracion of the merits of persons , delighting generally to be
+beneficiall to all men . Through which $disposicion {TEXT:disposicon} I
+for my parte acknowledge all the favour which your honor bestoweth vpon
+me so aboundantly , knowing how vnhable I am to deserve any way the
+lest part thereof , other then with a duetifull and a gratefull mynde ,
+which you shall allwayes fynde in me aunswerable to your great goodnes
+, BRYSKET,20.002.34
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+and what is wanting in power to doe you service as I am bound , $shall
+$be {TEXT:shalbe} supplyed with prayer to Almighty God , who will
+<paren> I hope </paren> most aboundantly recompence your honor both
+with his blessings in this world , and with his most true promesses in
+the world to come . BRYSKET,20.002.35
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+And now as I am most humbly to geve your honor thanks for your
+effectuall lettres so written in my behalfe : so doe I with lyke
+humilite earnestly beseche you , as alredy I have donne by my former
+lettres , that it wold please you to take knowledge of his Lordships
+very honorable dealing with me , concerning those offices , and
+otherwyse , in geving me the creditt and countenanance of my place ,
+and that so favorably , as I may well understand thereby how muche
+<P_21> your honors recomendacion worketh with him , BRYSKET,21.002.36
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+for of myself I confesse I am vnworthie of so great favor as dayly he
+sheweth me more and more BRYSKET,21.002.37
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+And since therefore for yo=r= sake it is he vseth me so well , I thinke
+it my parte to geve you knowledge thereof , to th'end yo=r= honor may
+conceive thereof as his L. affection towards you deserveth ,
+BRYSKET,21.002.38
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+and as farre as w=th= modestie I may crave it , it might please you in
+my behalf to geve him thanks therefore . W=ch= I am the rather to
+desyre at yo=r= hono=rs= handes for that , these last lettres seeming
+to importe , some expostulation for the want of the offices of Impost
+w=ch= were long since confirmed vnto me , might in another mans mynde
+of more scrupelous disposicon then my L. have bred some suspicon of
+more redines in me to complaine , then of thankefulnes ; w=ch= I wolde
+be very loathe to be suspected of ; especially being so courteously and
+so honorably used at his hands as I am . BRYSKET,21.002.39
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+Concerning the state of the Countrey here , albeit I may well thinke
+superfluous what I wryte , knowing how $particulerly {TEXT:pticulerly}
+your honor is from tyme to tyme advertised thereof by others : yet
+since it pleaseth you to take in good part my simple skribles , I will
+presume in brief to certifie my knowledge thereof . BRYSKET,21.002.40
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+And to begin first with these neerest mountein men : God be thanked
+they have of late bene metely well plagued by losse of some of the best
+of their men slaine and taken at severall tymes by the garrisons lyeing
+about them ; BRYSKET,21.002.41
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+and lastly Feaghe himself having ben so neere sett vpon as his Jack and
+haubergeon came to our soldiers hands with no small suspicions of his
+owne hurte at the lest , and the killing of Garrett Otole and dyvers
+others : BRYSKET,21.002.42
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+and shortly after the disloyall vicounts brother Thomas Ewstace , being
+taken and dyvers of his best men slayne . So that there is no doubt but
+the service being followed now that they begin to drop thus away , the
+traytors will ether them selves be shortly caught , or dryven to flye
+this their fastnes , and ioyne them selves with the Mounster rebells .
+Vpon whome some service hath also ben lately done by S=r= Will=m=
+Morgans , and Cap=t= Piers his men , who being sett vpon by Barry Roe
+the L. Barries second sonne and others in great number exceeding oures
+farre , yet they not onely defended themselves manfully , but also
+slewe dyvers of the best of their enemies ; BRYSKET,21.002.43
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+for the gentlemen emong the traytors forsaking their horses to
+encourage their kerne and galloglas , encountred oure men on foote
+BRYSKET,21.002.44
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+and charged them even vpon the pykes , thoughe to their cost ; by which
+meanes the best sorte were first and chiefly slayne , and the rest
+broken and putt to flight . BRYSKET,21.002.45
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+Neverthelesse to speake plaine , <paren> as to your honour I assure
+myself I may </paren> I have not herd in truthe since my coming over of
+any piece of <P_22> service donne there but casuall , no excellent
+draught or practise by espialls , nor any execusion worthie the numbers
+of men lyeing in that province : being aboue ii=c= : thoughe wonders be
+geven out of the exceeding toile and travell of the Lord Generall , a
+noble gentleman and worthie to be pitied to take so much paine in vaine
+. BRYSKET,22.002.46
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+As for Conaght thoughe the fyre yet burne there , as in the rest of the
+Provinces yet by the good care of S=r= Nicholas Malbie it is so farre
+from doing any great harme , as with two Englishe footebandes besydes
+his owne horsemen <paren> if my memory deceive me not </paren> he
+holdeth the yoake upon that whole Countrey . BRYSKET,22.002.47
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+The Pale with the borders thereof are now in reasonable good quiett the
+Omoores having ben for the most part dispatched ; and lyke occasion
+watched to rid the Occonors : who though as yet they have done no hurte
+but takinge of meate and drinke violently , yet they flock in great
+companies , and geve manifest signes that they would burst out if they
+durst , BRYSKET,22.002.48
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+but they are so observed , by Capt Macworth that they shall not be
+hable to do any act of hostilitie , I hope , before they be cutt of as
+their neighbours were . BRYSKET,22.002.49
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+William Nugent with his bastard brother , and Bryan Magoghegan are fled
+the borders of Westmeith , and gone into Turlogh Lenaghes Camp where
+they remaine . BRYSKET,22.002.50
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+Vpon the complaint of the Countie of Westmeithe , of grievous extorcion
+vsed by the bandes drawen thither for the $persequucion
+{TEXT:persequucon} of the Nugents , my Lord Deputie thought good to goe
+downe to examine the cause and to take order for the punishment of the
+offenders and redresse of the parties grieved . BRYSKET,22.002.51
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+And comming to Molingar , after proclamation made to lett the Countrey
+vnderstand his determinacion , there cam in suche a number of peticions
+to that effect , as it had not ben possible for his L. to have
+proceeded to th'examinacion of them all particulerly in x or xij dayes
+. Wherefore St George 's day approching so nere , and he therefore ,
+and for other causes not being hable to attend that matter as he was
+desyrous to have done . He first entred into th'examinacion of a fewe
+the chiefest that concerned the officers of bandes , and committed some
+of them to the marshall , and for the rest tooke this generall order
+that whatsoever any soldier had exacted wrongfully from any man besydes
+his meat and drinke , shold be repayde by the Treasourer , and defalked
+vppon the Capteins entertainement , that was their leader ; and to that
+effect appointed viij or nyne principall gentlemen part of the Countrey
+, and somme Englishe , to examine every complaint , and to make a booke
+of the extorcions of every band severally by it self , according to the
+certificate whereof <paren> which they were appointed to make before
+the xxth of the next month </paren> his Lordship would direct warrant
+for the paiment of the poore oppressed as aforesayd . BRYSKET,22.002.52
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+During his being at Mollingar he executed there xiij notable
+malefactors , <P_23> emong which was a priest taken , and condempned
+for a spie and a messenger betwene the rebells . BRYSKET,23.002.53
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+Truly thoughe I have ben in many iorneys in this land , yet sawe I
+never so shorte an one made to better purpose , or to greater
+satisfaction and contentement of the countrey , then this , which
+continued not above nyne dayes . BRYSKET,23.002.54
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+And now lastly to comme to the Province of Ulster , that standeth as it
+hath ever done in my tyme vpon doubtfull termes , Turlogh Lenaghe still
+making great shewes and bragges : without any open act of hostilitie ,
+whyles nevertheles he onely nourisheth and relieveth the flame that
+burneth over all the whole realme . BRYSKET,23.002.55
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+For in tryfling of the tyme with quarrells and challenges touching his
+riates {ED:?_THE_WORD_MAY_BE_triales} he ceaseth not continually by his
+messengers to animate the rebells in every province , to receive and
+cherishe suche as flye to him , when they can no longer hold out ; and
+lastly <paren> to the certein overthrowe of this State , if it be not
+in tyme prevented </paren> to drawe over numbers of Scotts to assist
+the rebells , and to make him self terrible vnto vs . By which meanes I
+may indede rightly terme him the very roote , or seedeman of all the
+rebellion of Ireland . BRYSKET,23.002.56
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+And thoughe him selfe for his owne forces be not greatly to be feared ,
+yet assuredly onlesse he be spedily delt withall , and taught to knowe
+how farre he abuseth the clemencie of Her Majestie , it is greatly to
+be feared , lest the whole State fele the smarte of the slacknes in
+that behalf . BRYSKET,23.002.57
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+And having ben moved in duetie to say thus muche , I will conclude with
+humble request vnto your honour to be carefull of the number of good
+faithfull and serviceable subiects which her Majestie hath here in this
+Realme whose welfare and estate hang upon the provisions which her
+highnes and your Honours are to make for their safetie and the safetie
+of her State here ; which was never yet since the conquest so shaken as
+it hath ben by this rebellion , yet on fote and not extinguished , but
+lykely enoughe , if it be never so little forslowed , or negligently
+left vnquenched , to burst out into greater flames than ever before .
+BRYSKET,23.002.58
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+Now is the tyme to goe thouroughe withall , BRYSKET,23.002.59
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+and thoughe the expence seme great ; yet better is it to make one great
+charge for the whole with hope to recover it againe , then to hazard
+the losse of the whole or to linger a growing charge , which will in
+th'end consume this State , not vnlyke to the continuall lingering
+fever which assuredly consumeth the body , and bringeth certein death .
+BRYSKET,23.002.60
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+Her Majestie had never here a more willing , a more zealous , nor a
+more sufficient minister for suche an enterprise then this L. Deputie ,
+BRYSKET,23.002.61
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+nether was there ever any here more lykely to prosper in any action
+that he shall take in hand , as a man living in the feare of God , and
+so consequently assured of his blessing , whereof somme token hath ben
+shewed already , so great as we <P_24> may all rejoice and say A
+$Domino {TEXT:Dino} factum est istud et est mirabile in oculis nostris
+. BRYSKET,24.002.62
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+And therefore to lett slipp the occasion so apparently offred were but
+wilfully , to reiect God 's grace and goodnes layde before vs for the
+reformation of this miserable decayed Commonweale . BRYSKET,24.002.63
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+But <paren> Lord </paren> how doe I forgett myself to babble so long
+with your honor . BRYSKET,24.002.64
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+Pardon me I humbly beseche you , BRYSKET,24.002.65
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+and lett not my boldnes ether in presuming to discourse of these things
+or in overtedious troubling you , be imputed to rashnes or folly rather
+then to zeal and duetie which your honor hath tyed me many wayes to
+express by all the meanes that I may be hable {by}_P .
+BRYSKET,24.002.66
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+And evenso , with my most humble duetie to your honor I take my leave .
+BRYSKET,24.002.67
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+From Dublin the xxj=th= of Aprill 1581 . BRYSKET,24.002.68
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+Your honors most bound and humble at commandement Lod. Bryskett .
+BRYSKET,24.002.69
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+Since the wryting of this letter , the Sergeant Maior and the Capteins
+that were at the taking of Baltinglasses brother and cousin , are come
+to this towne , BRYSKET,24.002.70
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_002:E2:1581:AUTOGRAPH:OTHER
+and have not onely brought the prisoners with them , but also the hed
+of William Eustace another brother of the sayd Baltinglas , and two
+other heds of notable villeins his followers , whome they lyghted vpon
+this morning in their way , having had intelligence as they came ,
+where he had been spoiling the night before on the borders of the
+Countie of Kildare . BRYSKET,24.002.71
+
+<Q_BRY_A_1581_T_LBRYSKETT> <L_BRYSKET_003> <A_LODOWICK_BRYSKETT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1545?> <R_WILLIAM_CECIL>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1520>
+
+<P_25>
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:61
+LETTER:BRYSKET_003:E2:1581:AUTOGRAPH:OTHER
+Right honorable and my speciall good Lord . As I was lately bold to
+trouble yo=r= hono=r= with my rude scribles , to expresse my thankefull
+mynde , for the honorable and comfortable speches that it pleased you
+to geve me at my last taking leave from your Lordship : So being
+encouraged by the same to presume upon your goodnes , as one buylding
+so muche or more vpon the least word you shall vouchsafe me , then vpon
+the greatest promesses of many others , I have emboldened my self to
+emparte vnto your Lordship my desyre in a suite , which the occasion of
+tyme offreth me to make , and wherein I am so farre forthe to crave
+your honorable favor , as you shall please to thinke me worthie of the
+same . BRYSKET,25.003.72
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:61
+LETTER:BRYSKET_003:E2:1581:AUTOGRAPH:OTHER
+It hath pleased God to visite with his hand , Mr John Chaloner her
+Majesties Secretarie for the State here , and in suche sorte as there
+is no hope left of his recovery : a gentleman of great experience and
+knowledge of this Countrey service , and such a minister for his place
+as I thinke it will be hard to fynde any man so rype in many causes
+concerning his Office . BRYSKET,25.003.73
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:61
+LETTER:BRYSKET_003:E2:1581:AUTOGRAPH:OTHER
+And although of late Mr Fenton have ben appointed to be an assistant to
+the sayd Mr Chaloner as a gentleman of sufficiencie , and very mete to
+be employed in in {ED:SIC} such place of service : yet considering the
+short tyme of the sayde Mr Fentons experience in the particulers of
+this State , since it hath ben God 's good pleasure to call vnto his
+mercy Mr Secretarie Chaloner , whose ready knowledge in the matters of
+Bonaght , in the distribucions of cariages to the general hostings , in
+the division of the cessable lands of the Pale , and suche other lyke
+things , in which matters Mr Fenton must needs be very rawe and vtterly
+to seke : It is to be supposed that some man of experience is to be
+appointed to supplie that charge , and to be ioyned with Mr Fenton for
+the execucion of that place . Wherefore albeit I doe nether arrogantly
+nor ambiciously seeke to be preferred to any place of creditt , whereof
+I may not be thought worthie of yo=r= hono=rs= in consideracion of my
+service , which I may not with modestie boast of : yet presuming vpon
+the tyme of my experience of this Countrey service , which is no lesse
+then sixtene yeres at the lest , and of the particuler knowledge of
+those things , which through the place I holde , I have of course ben
+acquainted withall , well nighe these fyve yeres , I have thought it
+not impertinent to offer my simple endevour vnto your honours
+remembrance , that if it shall please you to appoint any man to the
+succession of Mr Chaloners roome , I may be considered of by her
+Majestie and your Lordship as one most willing to employ myself any way
+in her highnes service . BRYSKET,25.003.74
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:61
+LETTER:BRYSKET_003:E2:1581:AUTOGRAPH:OTHER
+I call to wittnes Almightie God that is " scrutator $cordium
+{TEXT:cordum} " how <P_26> farre I am from any prick of ambicion to
+aspyre vnto this place , BRYSKET,26.003.75
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:61
+LETTER:BRYSKET_003:E2:1581:AUTOGRAPH:OTHER
+and that reason moveth me onely , to desyre that my travell may not
+without consideracion be turned to the creditt of another man ,
+BRYSKET,26.003.76
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:61
+LETTER:BRYSKET_003:E2:1581:AUTOGRAPH:OTHER
+and as is sayde of the Asse to cary the wyne and drinke but water , as
+I forsee it will be my lott if no man mete of his owne experience to
+discharge that offyce be appointed therevnto ; whereby I shold be
+dryven to doe more then apperteineth to my office , thoughe of it self
+it be toylesome enoughe , and yet the fee so bare , as , onlesse the
+hope of her Majesties acceptacion of my service had drawen me to the
+continuance of the same , I wold long since with duetifull termes have
+rid my hands thereof . BRYSKET,26.003.77
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:61
+LETTER:BRYSKET_003:E2:1581:AUTOGRAPH:OTHER
+For truly <paren> my good Lord </paren> I never had yet but x=li=
+Irishe fee , whereas the Clerkes of the provinces of Conaght and
+Mounster have eche of them xx=li= sterling . BRYSKET,26.003.78
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:61
+LETTER:BRYSKET_003:E2:1581:AUTOGRAPH:OTHER
+And yet , God knowes , and the world will wittness with me , what
+charges I have ben at , to the consuming of my small patrimonie ,
+whiles I have laboured to bring the Office which before was growen to
+be of small or no reputation , vnto some creditt . BRYSKET,26.003.79
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:61
+LETTER:BRYSKET_003:E2:1581:AUTOGRAPH:OTHER
+But it is nedeles for me to enter into any complaint of my estate vnto
+your lordship , who not onely by your singuler Judgement , but also by
+the knowledge you have particulerly of every minister of this State ,
+may well enough discerne my case from other mens . BRYSKET,26.003.80
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:61
+LETTER:BRYSKET_003:E2:1581:AUTOGRAPH:OTHER
+And therefore to avoid tediousness vnto your lordship I will conclude
+with this , that I referre the considering of this my petition vnto
+your grave wisdome , according to the which I will moderate my desyre ;
+BRYSKET,26.003.81
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:61
+LETTER:BRYSKET_003:E2:1581:AUTOGRAPH:OTHER
+and howsoever it shall please your honour to bestowe your favour vpon
+me , you shall ever fynde me <paren> suche as I $shall $be
+{TEXT:shalbe} </paren> most willing and desyrous to doe your L.
+acceptable service in anything {in}_P I can . BRYSKET,26.003.82
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:61
+LETTER:BRYSKET_003:E2:1581:AUTOGRAPH:OTHER
+And evenso referring my self and my cause to your honours good and
+favorable consideracion , I humbly take my leave . BRYSKET,26.003.83
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:61
+LETTER:BRYSKET_003:E2:1581:AUTOGRAPH:OTHER
+From Dublin the xxv=th= of Aprill 1581 . BRYSKET,26.003.84
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:61
+LETTER:BRYSKET_003:E2:1581:AUTOGRAPH:OTHER
+Your honorable Lordship 's most humble at commandement Lod: Bryskett .
+BRYSKET,26.003.85
+
+<Q_BRY_A_1581_T_LBRYSKETT> <L_BRYSKET_004> <A_LODOWICK_BRYSKETT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1545?> <R_WILLIAM_CECIL>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1520>
+
+<P_26>
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:61
+LETTER:BRYSKET_004:E2:1581:AUTOGRAPH:OTHER
+My most honoured good Lord . Since the wryting of my last letter to
+your Lordship , it hath pleased God to take to his mercie Mr Chaloner ,
+as before , by the extremitie of his disease , it was likely he wold
+doe : Sone after whose death my L. Deputie , vnmoved by me or any other
+for me , and indede vnlooked for told me , that forasmuche as he
+thought it expedient , that somme man of experience in this Countrey
+service shold succeed Mr Chaloner in the place of Secretarie , one not
+being hable in his busie tyme to supply the whole , he was willing
+<paren> if I esteemed it any preferrement vnto me </paren> to be a
+meane for my placing in the same . Which <P_27> his L. favorable
+speches concurring with my desyre <paren> thoughe I forbare to make any
+mediacion therefore here to his L. till the other were dead , for
+modesties sake </paren> and preventing my intencion in that behalf ,
+have not a little comforted me , in that I fynde his honorable
+Judgement to make me worthie of the place , which I esteme not so much
+as I doe his sayd Judgement by a great deele . BRYSKET,27.004.86
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:61
+LETTER:BRYSKET_004:E2:1581:AUTOGRAPH:OTHER
+And forasmuche as before I was bold to become a sueter to your L. for
+your favor towards me in the obteining of the succession to Mr
+Chaloners rome , onely in consideration of Mr Fentons coming over at
+that tyme who I doubted not wold labor to drawe the whole into him
+selfe : I doe now the more confidently , accompanied with so good a
+testimonie continue my sayd suite : with all humilitie beseching your
+good L. to bestowe your favourable furtherance in that behalf upon me ,
+which thoughe I dare not say I will make my self worthie of by any
+office or endevour ether publike or private : yet thus much I $will $be
+{TEXT:wilbe} bold to promesse , that no man shall labor more to doe my
+Patrones honor ether by service , or by honest offices then my self .
+BRYSKET,27.004.87
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:61
+LETTER:BRYSKET_004:E2:1581:AUTOGRAPH:OTHER
+And so humbly committing my self and my cause to your L. good favor I
+will cease to trouble your honor any furder for this tyme taking my
+leave with prayer to Almightie God for the long prosperitie of your L.
+in all happines . BRYSKET,27.004.88
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:61
+LETTER:BRYSKET_004:E2:1581:AUTOGRAPH:OTHER
+From Dublin the xv=th= of May 1581 . BRYSKET,27.004.89
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:61
+LETTER:BRYSKET_004:E2:1581:AUTOGRAPH:OTHER
+Your L. most humble at commandement Lod. Bryskett . BRYSKET,27.004.90
+
+<Q_BRY_A_1581_T_LBRYSKETT> <L_BRYSKET_005> <A_LODOWICK_BRYSKETT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1545?> <R_FRANCIS_WALSINGHAM>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1530?>
+
+<P_30>
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_005:E2:1581:AUTOGRAPH:OTHER
+26 November 1581 . BRYSKET,30.005.91
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_005:E2:1581:AUTOGRAPH:OTHER
+Right honorable . I wryte these fewe lynes vnto your honor onely for
+dueties sake , not fynding any cause to trouble you furder in my
+pryvate matters , in which I have so ill success : and in publike
+considering how vnfitting it is for me to intermeddle , especially
+where I may by probable coniecture conceive , of howe small moment my
+letters may be accoumpted . BRYSKET,30.005.92
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_005:E2:1581:AUTOGRAPH:OTHER
+And yet I $can $not {TEXT:cannot} lett to say thus much that the
+confusednes of this State and the disorder is suche , what throughe the
+vniversall inclinacion of this people to mischiefe , and what throughe
+the small reputacion which the Governors are brought into emong them
+for want of countenance and creditt from home , and the often
+expectations of change , that this good noble gentleman may well toyle
+himselfe , but little good I feare he $will $be {TEXT:wilbe} hable to
+doe in fine : onlesse her Majestie and your honors there , doe better
+enhable him , and alter the course which now is held ; committing the
+trust to him , that being continually here is best hable , and nerest
+eye wittnes , to discerne what is most expedient for the reformation of
+this miserable disordered countrey . BRYSKET,30.005.93
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_005:E2:1581:AUTOGRAPH:OTHER
+Yet God knoweth , how he supplieth , as much as possible may be , with
+his wisdom dilligence and sinceritie ; which together with many other
+noble parts , are such in him , as truly in my conscience I never sawe
+the lyke in any other Governor here . BRYSKET,30.005.94
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_005:E2:1581:AUTOGRAPH:OTHER
+And although things $can $not {TEXT:cannot} be brought to that good
+passe and quietnes , that could be <P_31> wished <paren> the chiefest
+defaulte whereof proceedeth from your honors there <paren> with duetie
+I speake it </paren> who supply not the wants here as they shold be
+supplyed </paren> yet doth the government <paren> God be thanked
+</paren> goe well forward , and muche better , in my simple judgement
+then might have ben looked for in these broken and corrupt tymes . The
+particulers whereof I forbeare to wryte , knowing how largely they be
+written otherwyse . BRYSKET,31.005.95
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_005:E2:1581:AUTOGRAPH:OTHER
+God graunt yet at the last that this last conspiracie open your eyes
+there : BRYSKET,31.005.96
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_005:E2:1581:AUTOGRAPH:OTHER
+for if my Lords good endevo=r= in making examples of Justice by the
+offendors , be not seconded with good acceptacion and encouragement
+from thence to their furder terror ; it $will $be {TEXT:wilbe} but even
+as a lenitive in a pestilent fever : where if the hart be not
+strengthened , and the disease cleane taken away , althoughe the
+patient feele some ease for a tyme , yet the danger $will $be
+{TEXT:wilbe} never the lesse ; but so much the more , as the second
+fall is ever worse then the first disease . BRYSKET,31.005.97
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_005:E2:1581:AUTOGRAPH:OTHER
+I $can $not {TEXT:cannot} chuse <paren> thoughe I had otherwyse
+resolved when I began to wryte </paren> but lett your honor vnderstand
+how muche I thinke myself disgraced by the repulse I have susteined of
+that preferrement which my Lord wished me vnto : who if being but of a
+shorte tyme a wittness of my service could thinke me worthie thereof :
+what can I furder looke for at their handes that having knowen the
+continuance thereof of long tyme have rejected my suite ?
+BRYSKET,31.005.98
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_005:E2:1581:AUTOGRAPH:OTHER
+Truly it hath so cleered me of any hope that I might henceforth have to
+be considered for my painefull service that I determine to geve over
+the toyle thereof : and to betake myself to a quyeter kynde of lyfe ,
+the better to attend my studdies and to serve God , taking this thwarte
+as a gale in poupe , which God hath sente me of his goodnes , to bring
+me in a haven of rest . BRYSKET,31.005.99
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_005:E2:1581:AUTOGRAPH:OTHER
+I hope I shall fynde your honor favorable in this <paren> being the
+last suite wherewith I meane to be troublesome vnto you </paren> that I
+may with good lyking both-2 of her Majestie , and your honors ,
+withdrawe my selfe . BRYSKET,31.005.100
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_005:E2:1581:AUTOGRAPH:OTHER
+And furder recompense I will not sue for , since I perceive my froward
+fortune to beare a greater swaye , then the good disposition which I
+have allwayes founde in your honor to benefite me . Whose favor thoughe
+it may not purchase me so muche good , as her despight hinderance ; yet
+will I not cease to acknowledge my self infinitely bound vnto you .
+BRYSKET,31.005.101
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_005:E2:1581:AUTOGRAPH:OTHER
+And evenso praying to Almighty God , that her highnes may never have
+woorse disposed minister in this State then I have ben these fyve yeres
+and more , nor your honor a lesse devoute and affectioned follower in
+my place then my self , I humbly take my leave . BRYSKET,31.005.102
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_005:E2:1581:AUTOGRAPH:OTHER
+Dublin BRYSKET,31.005.103
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_005:E2:1581:AUTOGRAPH:OTHER
+the xxvj=th= of November 1581 . BRYSKET,31.005.104
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_005:E2:1581:AUTOGRAPH:OTHER
+Yo=r= honors most bounden and humble at commandement Lod: Bryskett .
+BRYSKET,31.005.105
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:36?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:51?
+LETTER:BRYSKET_005:E2:1581:AUTOGRAPH:OTHER
+{ED:INDORSED:} To the right honorable Sir Francys Walsingham $knight
+{TEXT:knt} .... geve these . BRYSKET,31.005.106
+
+<Q_BRY_A_1582_T_LBRYSKETT> <L_BRYSKET_006> <A_LODOWICK_BRYSKETT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1545?> <R_FRANCIS_WALSINGHAM>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1530?>
+
+<P_32>
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+15th January 1581 {ED:-82} BRYSKET,32.006.107
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+I have received your honors letters of the 29th of the last moneth and
+together with them no small comforte and satisfaction , in that I fynde
+the continuance of your honorable favour towards me , and also a care
+of my poore estate : for which I must acknowledge my self greatly bound
+vnto your honour hoping that yet one day , in despighte of fortune , I
+shall through your meanes procure some happy recompence in
+consideracion of my service , and of my expences which it hath bred .
+The rather since that my good Lord the Lord Deputie is pleased to
+furder me with his favour , as by sondry tokens dayly more and more he
+geveth me to understand . Wherevnto <paren> right honorable </paren> if
+you will vouchsafe to putt your helping hand , no doubt but between you
+ye may bring to passe so good a worke . BRYSKET,32.006.108
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+In my last letters I signified unto your honor my desyre to withdrawe
+my self from this toylesome office , voyde ether of profitt for me or
+yet of reputacion , craving your honors favor , whereby I might with
+favour and good acceptacion doe it ; BRYSKET,32.006.109
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+and so as it might appere I retyred my selfe , BRYSKET,32.006.110
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+but did not flye . BRYSKET,32.006.111
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+And the same humble request I renewe eftsones , howbeit not with that
+intencion which your honor supposed to retourne presently into England
+: BRYSKET,32.006.112
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+for having spent the little patrimonie I had , I shold be ashamed to
+live a begger emong my friends . BRYSKET,32.006.113
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+But my meaning is , since my fortune , or rather Gods providence , so
+leadeth me , to employe some more tyme in this miserable countrey ,
+thoughe in another kynde , and to trye , whether by my industrie and
+travell , I can picke out of the soyle a living , thoughe not
+plentifull or superfluous , <P_33> yet voyde of those other
+discontentments , which this place , and the ingratitude of a long and
+faythfull service bredeth in an honest mynde . For which purpose I have
+taken a farme here , not of any of Her Majesties lands , but even at
+the deerest hand , where I meane to make proofe <paren> God willing
+</paren> whether the lyfe of a borderer in this land be a lyke
+perillous vnto all men , and to see if a just and honest simple lyfe ,
+may not even emong the most Barbarous people of the world breede
+securitie to him that shall live nere them or emong them .
+BRYSKET,33.006.114
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+The place which I have chosen is in the Countie of Wexford , or waste
+pece of land , whereof the Master of the Rolles here hath the fee farme
+; joyning upon the Duffey and the Moroghes and nighboured by very
+quyett gentlemen of the Cavenaghs : but for situation very pleasaunt
+and the soyle very fertile . BRYSKET,33.006.115
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+It was sometymes a Pryory belonging to the house of St. John Jerusalem
+and yelding to the Prince but xl=s= Irish per annum .
+BRYSKET,33.006.116
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+I pay +L $sterling {TEXT:str} rent by the yere . BRYSKET,33.006.117
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+There I meane to confyne my selfe for a tyme , till God shall please to
+make my planett favorably to shyne , having armed my mynde aforehand to
+take any toyle , any hazard , and any other inconvenience that this
+confused State shall brede , and being fully resolved to esteme the
+course and hard temperate fare of a ploweman voyde of indignities ,
+farre sweeter then all the dayntie dishes of Princes courts , where
+<paren> with humilitie and duetie I speake it </paren> I think it easie
+for a man to fill his belly , and to be puffed up with vanities and
+never accomplished hopes and expectations , but very hard for an honest
+man to purchase the due rewarde of his service . BRYSKET,33.006.118
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+Nevertheles because he is worthie to be drowned , that when he fyndeth
+him selfe to sinke will nether crye for help , nor yet help himself :
+BRYSKET,33.006.119
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+I doe yet now in my nede make this suite vnto your honor , that since
+<paren> as I sayd </paren> Gods will is that I shall so dispose of my
+self , and leave the vaine expectacons of benefeting my self by service
+nere the State , It may please your honor to be a meane that in respect
+not onely of my service past , but also , of that which haply I may doe
+<paren> being anything countenanced </paren> vpon a border , I may have
+some help and relief toward my maintenance , of pencion or
+enterteinement whereby I may be enhabled , as occasion may serve , to
+doe Her Majestie and the State some service , which $can $not
+{TEXT:cannot} be disjoyned from myne owne securitie .
+BRYSKET,33.006.120
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+I fynde my Lord of him self very well disposed : BRYSKET,33.006.121
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+but this tyme of discharges , and diminishing of the garrisons , maketh
+his Lordship to pawse : whereas even this tyme , with due respects , is
+<paren> in my oppinion </paren> meetest for suche a thinge , when a
+great charge being cutt of , a small is bestowed , to a good purpose
+and in just consideracion of service past . BRYSKET,33.006.122
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+The pay of only eight horsemen , and a dozen footmen wold make me
+stronge enoughe to doe her Majestie better service every yere twenty
+times then the enterteinement of those xx men wold come vnto .
+BRYSKET,33.006.123
+
+<P_34>
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+And if your honor enforme your self , by Sir William Russell , Sir
+William Stanley , or any other that knoweth those borders , I doubt but
+they all will confesse that it may be done . BRYSKET,34.006.124
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+Now whether your honor will admitt me for one that is mete to take any
+suche worke in hand , there stands the pointe . BRYSKET,34.006.125
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+I am content to be judged by them that knowe me . BRYSKET,34.006.126
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+And this muche I will be bold to bragge of , that I fynde my mynde
+<paren> God be thanked </paren> aswell framed to handle the sworde as
+the pen , and of the two much better , and whatsoever her Majestie
+shall bestowe on me for enterteinement of men , I will kepe double so
+many as well for her service and the quiett of the borders as for myne
+owne safetie . BRYSKET,34.006.127
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+Your honor may now doe me this benefite BRYSKET,34.006.128
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+and I hope you will not refuse to doe it , the rather for that I meane
+not to establishe this as a perpetual charge but only for a tyme till I
+may have planted myself and taken roote there , by which tyme I doubt
+not but God will arme me with some better strengthe against the
+attempts of this wicked generacion , or cutt them of from emong vs .
+Wherefore I humbly beseche your honor to be a meane for me in that
+behalf , whereby althoughe you $can $not {TEXT:cannot} bynde me more
+vnto you then I am allredy bounde ; yet you may haply enhable me to
+make some better shewe of gratitude , and to yeld some more notable
+testimonie to the worlde of my manifold obligacions .
+BRYSKET,34.006.129
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+I feare me I trouble your Lordship all to longe , BRYSKET,34.006.130
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+and therefore with the glad newes of Sir John of Desmonds killing ,
+whome Mr Zowch : the Governor of Mounster hath most happily lighted
+upon and sent his hed hither to overlooke the rest vpon the Castle gate
+, I will end for this tyme , most humbly taking my leave .
+BRYSKET,34.006.131
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+From Dublin the xv=th= of January 1581 . BRYSKET,34.006.132
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+Your honors most bounde at commaundement during lyfe Lod: Bryskett .
+BRYSKET,34.006.133
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_006:E2:1582:AUTOGRAPH:OTHER
+{ED:INDORSED:} To the right honorable S=r= Francys Walsingham knight ,
+principall secretary {ED:to_her} Maj=tie= : and of her highnes most
+honorable privie Counsell . BRYSKET,34.006.134
+
+<Q_BRY_A_1582_T_LBRYSKETT> <L_BRYSKET_007> <A_LODOWICK_BRYSKETT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1545?> <R_FRANCIS_WALSINGHAM>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1530?>
+
+<P_34>
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_007:E2:1582:AUTOGRAPH:OTHER
+Right honorable By my last letters I moved your honor in a suite
+concerning some enterteinement for men towards my settling in this
+County of Wexford . Since which tyme things have so fallen out as my
+Lord hath ben forced to remove all the garrisons from those borders and
+to leave them utterly without any other defence against the ill {ED:?}
+borderers than our {ED:?} accustomed precarium imperium . In which
+respect I am now the more ernestly to become a sueter vnto your honor
+for your favor and furtherance in that behalf . BRYSKET,34.007.135
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_007:E2:1582:AUTOGRAPH:OTHER
+As before I wrote , myne owne safetie $can $not {TEXT:cannot} be in
+that place without the <P_35> service of her Majestie and the State ,
+especially now the subject being weakened by withdrawing of the forces
+, BRYSKET,35.007.136
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_007:E2:1582:AUTOGRAPH:OTHER
+the disordered septs of the Cavenaghs , although not with open
+hostilitie , yet according to ye cunning manner of this Countrey , will
+never cease to revenge by secrett stelthes and spoyles , those services
+which the good subiect hath done vpon them in this tyme of their
+rebellion . BRYSKET,35.007.137
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_007:E2:1582:AUTOGRAPH:OTHER
+And forasmuche as my desyre and my fortune doe now drive me to live
+upon that border , I humbly beseche your honor , in consideration of my
+faithfull travell and service past , and in hope of that I may doe ,
+being countenanced and holpen with some strength of her Majesties for a
+tyme , to be a meane that I may have those xx men in pay for some
+reasonable tyme , by which I hope to purchase no lesse good and
+benefite to the countrey , then comoditie to my self :
+BRYSKET,35.007.138
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_007:E2:1582:AUTOGRAPH:OTHER
+And so shall your honor be author of a double good not without
+satisfaction to your self , and yet with infinite obligacon on my
+behalf . BRYSKET,35.007.139
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_007:E2:1582:AUTOGRAPH:OTHER
+And evenso ceasing to trouble your honor I humbly take my leave .
+BRYSKET,35.007.140
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_007:E2:1582:AUTOGRAPH:OTHER
+From Dublin , the first of February , 1581 {ED:-82} .
+BRYSKET,35.007.141
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_007:E2:1582:AUTOGRAPH:OTHER
+Your honors most bounden during life , Lod: Bryskett .
+BRYSKET,35.007.142
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_007:E2:1582:AUTOGRAPH:OTHER
+{ED:INDORSED:} To the right honorable Sir Francis Walsingham Knight ,
+Principall secretary to her Majestie , and one of her highnes most
+honorable privy counsell geve these . BRYSKET,35.007.143
+
+<Q_BRY_A_1582_T_LBRYSKETT> <L_BRYSKET_008> <A_LODOWICK_BRYSKETT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1545?> <R_FRANCIS_WALSINGHAM>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1530?>
+
+<P_36>
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+Dublin BRYSKET,36.008.144
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+x=th= May 1582 . BRYSKET,36.008.145
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+<font> To Sir Francis Walsingham . </font> BRYSKET,36.008.146
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+Right Honorable . According to my former resolucion , wherewith
+heretofore I acquainted your honour , I have now , at the last , wholy
+discharged myself of the Office of Clerk of the Counsell , not without
+the allowance and good lyking of my very good Lorde the L. Deputie .
+BRYSKET,36.008.147
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+And as I have therein greatly eased myne owne mynde , and perhaps
+satisfied the desyre of others <P_37> that have obiected against my
+holding of that place <paren> how frivolously I leve to the wiser sort
+to iudge </paren> albeit my self , in truthe never deemed my self meete
+therefore : So am I yet eftsones to beseche your honor both that it
+wold please you to accept of my doinge in that behalf , and to yelde
+your favorable countenance to him that hath succeeded me in the Office
+by the appointment of the Lord Deputie . BRYSKET,37.008.148
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+He is one that hath exercysed the place as my substitute welnye these
+fower yeres , of good sufficiencie , and very well lyked aswell of the
+governor as of the whole Counsell here , for his honestie and good
+behaviour : BRYSKET,37.008.149
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+and for that he is allyed vnto me by marying of a nere kinswomans of my
+wyves , I have ben the more willing to preferre him BRYSKET,37.008.150
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+and am the more ernest to recommend him vnto your honors patronage .
+BRYSKET,37.008.151
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+His name is Nathaniel Dillon and nephewe to Sir Lucas Dillon and S=r=
+Robert Dillon here , whose deserts may well purchase him somewhat the
+more favour : BRYSKET,37.008.152
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+but he is of Englishe birthe and his mother a mere English-woman ,
+BRYSKET,37.008.153
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+and hath ben well bred and trained vp in England , sometyme vnder M=r=
+Secretary Wilson whyles he was Master of the Requests , and after
+drawen over hither by S=r= Lucas Dillon , and ever since employed in
+affaires of this State , whereby he hath gotten not onely experience of
+those things , but also a generall good oppinion as I sayd before . In
+all which respects I hope he shall fynde your honor , according {ED:to}
+your accustomed goodnes to all men that {ED:are}_BEP honest ,
+favourable vnto him for his continuance in the place .
+BRYSKET,37.008.154
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+In my twoo last letters I made suite vnto your honour to be a meane for
+me for somme enterteinment of men , that I might with some safetie have
+settled my self vpon a waste farme in the Countie of Wexford .
+BRYSKET,37.008.155
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+And as I was bold to presume vpon your honors favor therein ,
+especially having so good an intention to sitt downe vpon a border and
+to oppose my self to the hazard of their wicked and rebellious attempts
+, who will never cease to disturbe the quyett of the State : So now
+that the garrisons are cleene removed , out of those quarters , and
+that the course of thinges teacheth me that there can be no great hope
+of any suche allowance for me , I have begon to wayne my self from that
+desyre , and to frame my self wholy to a more quyett kynde of lyfe with
+a resolute determinacion to content my self with whatsoever state it
+pleaseth God to call me vnto , not doubting but your honor will
+nevertheles persever in your wonted good oppinion and conceite of me ,
+and yelde me your lawfull and honorable favor in any occasion wherein
+you may doe me good in consideracion of my service , and of my
+affection and devocion towards you . BRYSKET,37.008.156
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+I am geven to vnderstand that my L. Deputie in his letter to her
+Maj=tie= hath mencioned me as one of the fower to whome he hath
+comitted the care of some of the attainted lands since the restraint ;
+and recommended my service vnto her <P_38> highnes , BRYSKET,38.008.157
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+and albeit I doubt not but his L. hath made the case plaine enoughe ,
+yet for myne owne particular I have thought good to declare vnto your
+honor what it is that I have , lest it might be supposed to be
+something greatly beneficiall vnto me , and barre me from some better
+recompence of my service . BRYSKET,38.008.158
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+And thus the matter standeth . BRYSKET,38.008.159
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+William Owgan of Rathcoffie , was attainted convicted , and executed ,
+for treason the last terme . BRYSKET,38.008.160
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+{ED:Six} yeres before he made a conveyance of his lands by feoffment ,
+by which his sonne and heire pretendeth to enioye the land ,
+BRYSKET,38.008.161
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+but the enquyry thereof , yet stayed by the Commissioners for good
+considerations . BRYSKET,38.008.162
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+The feoffees nevertheless <paren> for the better maintenance of the
+chylds tytle </paren> have made a lease of all his lands during the
+minoritie of the chylde to Henry Burnell lerned in the lawes , who by
+vertue of that lease seeking to enter into possession of the sayd lands
+, BRYSKET,38.008.163
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+and my L. Deputie , thinking it best reason the possession shold
+remaine in the Quenes Ma=tie= , it pleased his L. to commaund me to
+kepe the possession till the tytle were tryed and to take the best
+order I could for preserving them from lyeng wast , which in this
+countrey is a thing sone brought to passe and comonly sene , onlesse
+great dilligence be vsed in keping the tenaunts at May , who never have
+but one yeres estate in their farmes , and are free to departe every
+yere if the {ED:y} list . BRYSKET,38.008.164
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+And to this effect hath my Lord passed a Commission to me , for keping
+Her Majesties possession , and holding of the tenants by the best vsage
+I can till the right be tryed . BRYSKET,38.008.165
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+And furder interest therein have I none , BRYSKET,38.008.166
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+nor none look to have . BRYSKET,38.008.167
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+And thus muche for my selfe . BRYSKET,38.008.168
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+But concerning my Lord I beseche your honor geve me leave to say
+without offence , that I $can $not {TEXT:cannot} but wonder by what
+practise her Maj=tie= and your honors could be induced to doe a noble
+man of that vertue , deserte , and wisdome , so great an iniury as to
+take from him all those meanes to benefite those that serve the State
+under him , which reason , custome , yea and law hath allwayes geven to
+all others , and in all States ; and without the which it is not
+possible for him or any man els to beare the porte and majestie which
+this Governement requyreth . BRYSKET,38.008.169
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+For althoughe many men could be content for the affection they beare
+vnto his vertue , to followe him and to serve vnder his L. rather then
+vnder any man els , and of them some without respect of any other
+commoditie then his countenance and favor : yet when even they shall
+understand that the power or habilitie is taken from him to benefite
+any man whereby , if he , of his owne gratefull and honorable
+disposicion wold , might recompense their goodwill , and the others
+service ; there can be no doubt but all will growe weary ; and him
+selfe most weariest of all ; which haply may be the drift of them that
+labor the practise , and have allredy brought their intent to passe ,
+and in suche sorte as his L. conceiveth great hope to be discharged :
+BRYSKET,38.008.170
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+and common brute and reporte maketh it publicke . BRYSKET,38.008.171
+
+<P_39>
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+For his owne satisfaction truly I wishe it , BRYSKET,39.008.172
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+and shall thinke him happie , when it $shall $be {TEXT:shalbe}
+accomplished . BRYSKET,39.008.173
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+But for the State and the weale publike , I must nedes thinke it the
+miserablest case that may befall . BRYSKET,39.008.174
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+For if he that hath recovered the State , languishing in extremitie of
+death " as I may say " and hath even in a forced course reduced things
+to that good stay which <paren> God be thanked </paren> they are nowe
+in , whose Justice is a terror to the wicked , and a comforte vnto the
+good , whose sinceritie very envie it self $can $not {TEXT:cannott}
+touche , and whose wisdome might in the oppinion of the wysest that
+consider his proceedings , governe a whole Empyre , shall even when he
+beginneth to ioyne the experience of this countrey service , with his
+vniversall knowledge in matters politique , be called away : what can
+be sayd but that the secrett Judgement of God hangeth over this soyle ,
+that causeth all the best endeavors of those that labor the reformation
+thereof to come to naught . BRYSKET,39.008.175
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+And what greater infelicitie can men be driven into , then we that by
+any occasion are drawen to live in this Countrey , that must endure so
+many chaunges of maisters , and abyde the hazards of everyes {ED:SIC}
+good lyking how good , how faythfull , and how honest soever our
+service be . By which occasion men are forced <paren> as it were
+</paren> and beaten to learne by experience eche one to take the
+benefite of the present tyme with feare of the tyme to come , and so
+often tymes even the honest mynde bent from his straight course , and
+the others gett some coulorable excuse , in worldly wisdome , to cover
+and shadowe their greedie disposicions . BRYSKET,39.008.176
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+But what doe I thrust my self into the consideracions of these things
+wherto I am nether called , nor are for my capacitie ?
+BRYSKET,39.008.177
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+Truly <paren> S=r= </paren> it is but aboundance of zeale that moveth
+me to speake thereof , encoraged by the hope I have of your honors good
+acceptation of my rude skribles , which till I may vnderstand they be
+tedious or displeasaunt , vnto you , I will presume , as opportunitie
+serveth to offer vnto y=r= honor . BRYSKET,39.008.178
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+And for thys tyme craving pardon I will cease . BRYSKET,39.008.179
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+From Dublin the x=th= of May 1582 . BRYSKET,39.008.180
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_008:E2:1582:AUTOGRAPH:OTHER
+Your honors most bounden and ever humble at commaundement Lod: Bryskett
+. BRYSKET,39.008.181
+
+<Q_BRY_A_1582_T_LBRYSKETT> <L_BRYSKET_009> <A_LODOWICK_BRYSKETT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1545?> <R_FRANCIS_WALSINGHAM>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1530?>
+
+<P_41>
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_009:E2:1582:AUTOGRAPH:OTHER
+Right honorable . I nede trouble your honor the lesse ether with any
+matter concerning the state of thinges here or concerning my selfe :
+for that M=r= Waterhous , that is the bearer hereof , will sufficiently
+acquaint you with all that which I might wryte . BRYSKET,41.009.182
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_009:E2:1582:AUTOGRAPH:OTHER
+Onely I will humbly beseche your honor to continue your wonted favour
+vnto me : and seing my travell and carefullnes hath ben no small meane
+to procure suche an encrease of the Impost to her Majestie as by
+comparing of this yeres proffitt with other yeres your honor may easily
+perceive , that it would please {ED:you}_NP-OB2 to worke that the small
+stay of living which resteth with me by that Office , in recompense of
+my service may not be stopped . The dealinge wherein I comitt wholy to
+your honor and to M=r= Waterhous whose case is the same with myne
+concerning the Office which he holdeth . BRYSKET,41.009.183
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_009:E2:1582:AUTOGRAPH:OTHER
+Also I am to beseche your honor to furder the purging of my inocencie
+<P_42> concerning the matter wherewith Theobald Walshe hath most
+falsely charged me , for better testimonie whereof I have procured the
+Counsell 's letter here , which lykewyse M=r= Waterhouse hath in my
+behalf . BRYSKET,42.009.184
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_009:E2:1582:AUTOGRAPH:OTHER
+And evenso with the humble remembrance of my duetie I take leave .
+BRYSKET,42.009.185
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_009:E2:1582:AUTOGRAPH:OTHER
+Dublin BRYSKET,42.009.186
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:37?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:52?
+LETTER:BRYSKET_009:E2:1582:AUTOGRAPH:OTHER
+the vi=th= of November , 1582 . BRYSKET,42.009.187
+
+<Q_BRY_A_1583_T_LBRYSKETT> <L_BRYSKET_010> <A_LODOWICK_BRYSKETT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1545?> <R_FRANCIS_WALSINGHAM>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1530?>
+
+<P_42>
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:38?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:53?
+LETTER:BRYSKET_010:E2:1583:AUTOGRAPH:OTHER
+May it please your honor . Althoughe by your last letter of the 5th of
+December it pleased you to signifie vnto me your favorable disposicion
+to procure the continuance of the office which I have of Comptroller of
+the Impost generall within this Realme : yet since I have ben warned by
+M=r= Auditor that he is commaunded by yo=r= honor to stay the fees of
+the portes that are farmed to her Majesties use . BRYSKET,42.010.188
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:38?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:53?
+LETTER:BRYSKET_010:E2:1583:AUTOGRAPH:OTHER
+And the principall ports of the Realme being farmed , that is none
+other then to take as well from M=r= Waterhouse , as from me , the
+whole benefite of our Offices , which nevertheles by vertue of our
+letters patents we are in lawe and conscience to enioye .
+BRYSKET,42.010.189
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:38?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:53?
+LETTER:BRYSKET_010:E2:1583:AUTOGRAPH:OTHER
+I might also adde some deserte in my self without arrogance ; for that
+I have God and my conscience to witnesse with me how carefull I have
+ben , to amend the abuses of the Officers which before made havock of
+her Majesties due revenue ; BRYSKET,42.010.190
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:38?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:53?
+LETTER:BRYSKET_010:E2:1583:AUTOGRAPH:OTHER
+and the fruite and sequele of my travell doth well declare it , thoughe
+hitherto as one not geven to boast my doings , I have passed it with
+silence . BRYSKET,42.010.191
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:38?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:53?
+LETTER:BRYSKET_010:E2:1583:AUTOGRAPH:OTHER
+For since my coming to the exercyse of th'office which I attend my self
+in this haven {ED:Dublin} , the Impost which never before arose to
+iiij=c li= I brought to iiij=c=liiij=li= sterling the first yere , and
+to iiij=cl=vj=li= str. the next yere which was the last
+BRYSKET,42.010.192
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:38?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:53?
+LETTER:BRYSKET_010:E2:1583:AUTOGRAPH:OTHER
+and I hope will be as good if not better this yere . BRYSKET,42.010.193
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:38?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:53?
+LETTER:BRYSKET_010:E2:1583:AUTOGRAPH:OTHER
+Gallwey which before was wont to make reckonings of iiij=c li= a yere
+because Anthony Fytton being both collector and comptroller made what
+accoumpts he list , by my dilligence in placing an honest man under me
+there , was brought the last yere to xj=c li= and more ,
+BRYSKET,42.010.194
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:38?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:53?
+LETTER:BRYSKET_010:E2:1583:AUTOGRAPH:OTHER
+and by that president is now farmed for a thowsand pounds this yere .
+BRYSKET,42.010.195
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:38?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:53?
+LETTER:BRYSKET_010:E2:1583:AUTOGRAPH:OTHER
+The lyk I might say of as many other ports as I could in so short tyme
+furnishe with honest men , wherein I protest to Almighty God I was no
+lesse careful then if the whole revenue shold have come vnto my self .
+BRYSKET,42.010.196
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:38?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:53?
+LETTER:BRYSKET_010:E2:1583:AUTOGRAPH:OTHER
+Now if the recompence of my honest travell and endevor $shall $be
+{TEXT:shalbe} to have that little commoditie taken from me which by law
+is due vnto me by her highnes graunt under the great seale , and which
+is the only stay of living left me after my vij yeres service about the
+State : I beseche your honor <P_43> to consyder of my hard hap , and to
+have suche honorable care of me and of my case , as the duetifullnes of
+my service hath deserved . Wherein as I misdoubt not your accustomed
+goodnes and favor towards me , so will I leave it wholy and my self
+vnto your honorable patronage , resting with my wonted hope to receive
+a comfortable aunswere from your honor for the quyeting of my mynde ,
+which truly I fynde to be somewhat appassionately moved with the
+consideration of my state . BRYSKET,43.010.197
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:38?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:53?
+LETTER:BRYSKET_010:E2:1583:AUTOGRAPH:OTHER
+And evenso ceasing to troble your honor furder at this tyme , I humbly
+take my leave . BRYSKET,43.010.198
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:38?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:53?
+LETTER:BRYSKET_010:E2:1583:AUTOGRAPH:OTHER
+Dublin BRYSKET,43.010.199
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:38?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:53?
+LETTER:BRYSKET_010:E2:1583:AUTOGRAPH:OTHER
+the xx=th= of February , 1582 {ED:-83} . BRYSKET,43.010.200
+
+AUTHOR:LODOWICK_BRYSKETT:MALE:_:1545?:38?
+RECIPIENT:FRANCIS_WALSINGHAM:MALE:_:1530?:53?
+LETTER:BRYSKET_010:E2:1583:AUTOGRAPH:OTHER
+Lod: Bryskett . BRYSKET,43.010.201

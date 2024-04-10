@@ -1,0 +1,3539 @@
+<B_ORIGIN3>
+
+<Q_OR3_A_1580S?_T_W1FLEETWOOD> <L_ORIGIN3_001> <A_WILLIAM_FLEETWOOD_1>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1535> <R_WILLIAM_CECIL>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1520>
+
+<P_30>
+
+{ED:LETTER_SERJ=T=._FLETEWOOD_RECORDER_OF_LONDON,_TO_LORD_BURGH
+LEY.}
+
+AUTHOR:WILLIAM_FLEETWOOD_1:MALE:_:1535:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:_
+LETTER:ORIGIN3_001:E2:1580S?:AUTOGRAPH:OTHER
+My very good Lord , yesterday I sent your Lordship a Letter towchinge
+the admission of my Lord chieff Justice in to the Comen Place ;
+ORIGIN3,30.001.1
+
+AUTHOR:WILLIAM_FLEETWOOD_1:MALE:_:1535:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:_
+LETTER:ORIGIN3_001:E2:1580S?:AUTOGRAPH:OTHER
+but my man finding not your Lordship in the Court retorned the Letters
+to me agayne . ORIGIN3,30.001.2
+
+AUTHOR:WILLIAM_FLEETWOOD_1:MALE:_:1535:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:_
+LETTER:ORIGIN3_001:E2:1580S?:AUTOGRAPH:OTHER
+This present Sundaye my Lord Maior was presented , <P_31> where her
+Maiestie most gratiouslie accepted of my Lord , and of my folishe
+speache , to the great comforth of my Lord Maior and of all his
+bretherne the Aldermen . ORIGIN3,31.001.3
+
+AUTHOR:WILLIAM_FLEETWOOD_1:MALE:_:1535:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:_
+LETTER:ORIGIN3_001:E2:1580S?:AUTOGRAPH:OTHER
+Her Maiestie was wonderfully well pleased in all things , savinge for
+that some yonge gentilmen beinge more bold then well manered , did
+stand upon the Carpett of the Clothe of Estate , and did allmost leane
+upon the Quesions . ORIGIN3,31.001.4
+
+AUTHOR:WILLIAM_FLEETWOOD_1:MALE:_:1535:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:_
+LETTER:ORIGIN3_001:E2:1580S?:AUTOGRAPH:OTHER
+Her Highness found falt with My Lord Chamberlain and M=r= Vizchamb. and
+with the gentelmen ushers , for suffering suche disorders .
+ORIGIN3,31.001.5
+
+AUTHOR:WILLIAM_FLEETWOOD_1:MALE:_:1535:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:_
+LETTER:ORIGIN3_001:E2:1580S?:AUTOGRAPH:OTHER
+Her Majestie found fault with me for geving more praises unto her
+Highnes as towching the avaunsement of Religion then , as she said ,
+she deserved ; ORIGIN3,31.001.6
+
+AUTHOR:WILLIAM_FLEETWOOD_1:MALE:_:1535:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:_
+LETTER:ORIGIN3_001:E2:1580S?:AUTOGRAPH:OTHER
+but my good Lord , I said nothing but truly and iustlie as it was
+indeed . ORIGIN3,31.001.7
+
+AUTHOR:WILLIAM_FLEETWOOD_1:MALE:_:1535:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:_
+LETTER:ORIGIN3_001:E2:1580S?:AUTOGRAPH:OTHER
+My Lord Chamberlain made my Lord Maior Knight ; ORIGIN3,31.001.8
+
+AUTHOR:WILLIAM_FLEETWOOD_1:MALE:_:1535:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:_
+LETTER:ORIGIN3_001:E2:1580S?:AUTOGRAPH:OTHER
+my lord kyssed her Highnes hand , ORIGIN3,31.001.9
+
+AUTHOR:WILLIAM_FLEETWOOD_1:MALE:_:1535:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:_
+LETTER:ORIGIN3_001:E2:1580S?:AUTOGRAPH:OTHER
+and sone departed . ORIGIN3,31.001.10
+
+AUTHOR:WILLIAM_FLEETWOOD_1:MALE:_:1535:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:_
+LETTER:ORIGIN3_001:E2:1580S?:AUTOGRAPH:OTHER
+There wanted your Lordship , my lord Admirall , my lord of Leic. my
+lord of Hunsdon , M=r=. Secretarie , and other great persones .
+ORIGIN3,31.001.11
+
+{COM:PASSAGE_OMITTED}
+
+AUTHOR:WILLIAM_FLEETWOOD_1:MALE:_:1535:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:_
+LETTER:ORIGIN3_001:E2:1580S?:AUTOGRAPH:OTHER
+Our Lord Jesus blesse your Lordship , ORIGIN3,31.001.12
+
+AUTHOR:WILLIAM_FLEETWOOD_1:MALE:_:1535:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:_
+LETTER:ORIGIN3_001:E2:1580S?:AUTOGRAPH:OTHER
+and send your Lordship helthe ; ORIGIN3,31.001.13
+
+AUTHOR:WILLIAM_FLEETWOOD_1:MALE:_:1535:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:_
+LETTER:ORIGIN3_001:E2:1580S?:AUTOGRAPH:OTHER
+this present Sundaye . ORIGIN3,31.001.14
+
+AUTHOR:WILLIAM_FLEETWOOD_1:MALE:_:1535:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:_
+LETTER:ORIGIN3_001:E2:1580S?:AUTOGRAPH:OTHER
+Your good Lordship 's most bounden W. Fletewood . ORIGIN3,31.001.15
+
+AUTHOR:WILLIAM_FLEETWOOD_1:MALE:_:1535:_
+RECIPIENT:WILLIAM_CECIL:MALE:_:1520:_
+LETTER:ORIGIN3_001:E2:1580S?:AUTOGRAPH:OTHER
+To the right honorable & my singuler good Lord my Lord Treasorer .
+ORIGIN3,31.001.16
+
+<Q_OR3_D_1594_T_ERUSSEL> <L_ORIGIN3_002> <A_ELIZABETH_RUSSEL>
+<A-GENDER_FEMALE> <A-REL_AUNT> <A-DOB_---> <R_ROBERT_CECIL>
+<R-GENDER_MALE> <R-REL_NEPHEW> <R-DOB_1563?>
+
+<P_40>
+
+{ED:LETTER_ELIZABETH_DOWAGER_LADY_RUSSEL_TO_LORD_CECIL;_A.D.1
+594.}
+
+AUTHOR:ELIZABETH_RUSSEL:FEMALE:AUNT:_:_
+RECIPIENT:ROBERT_CECIL:MALE:NEPHEW:1563?:31?
+LETTER:ORIGIN3_002:E2:1594:UNKNOWN:OTHER
+God comfort you , my Lord , when you woold as it pleased your Lordship
+to comfort my daunted spiritts which were so changed therby and sturred
+upp by your Lordships so honorable most kynde and unloked for
+visitacion , as turned melancoly into a sanguin . ORIGIN3,40.002.17
+
+AUTHOR:ELIZABETH_RUSSEL:FEMALE:AUNT:_:_
+RECIPIENT:ROBERT_CECIL:MALE:NEPHEW:1563?:31?
+LETTER:ORIGIN3_002:E2:1594:UNKNOWN:OTHER
+My Lord in trawth I am weak . ORIGIN3,40.002.18
+
+AUTHOR:ELIZABETH_RUSSEL:FEMALE:AUNT:_:_
+RECIPIENT:ROBERT_CECIL:MALE:NEPHEW:1563?:31?
+LETTER:ORIGIN3_002:E2:1594:UNKNOWN:OTHER
+Heat in the forpart of my hed unfaynedly , with shooting payen , and
+swimming brayne , maketh me , on my fayth , to feare a sodayne death ,
+like to the Erle Dorset . ORIGIN3,40.002.19
+
+AUTHOR:ELIZABETH_RUSSEL:FEMALE:AUNT:_:_
+RECIPIENT:ROBERT_CECIL:MALE:NEPHEW:1563?:31?
+LETTER:ORIGIN3_002:E2:1594:UNKNOWN:OTHER
+Suer I am that I slepe litle , eate less , nor drank a draught of ale ,
+bere or wyne sins my comming to Windsor , but water and limmons , by
+phisitions advise . ORIGIN3,40.002.20
+
+AUTHOR:ELIZABETH_RUSSEL:FEMALE:AUNT:_:_
+RECIPIENT:ROBERT_CECIL:MALE:NEPHEW:1563?:31?
+LETTER:ORIGIN3_002:E2:1594:UNKNOWN:OTHER
+But in trawth I had clymed up and stoode from your Lordship 's comming
+in , to your going owt , which made me faynt and sweat truly .
+ORIGIN3,40.002.21
+
+AUTHOR:ELIZABETH_RUSSEL:FEMALE:AUNT:_:_
+RECIPIENT:ROBERT_CECIL:MALE:NEPHEW:1563?:31?
+LETTER:ORIGIN3_002:E2:1594:UNKNOWN:OTHER
+Thus muche have I troobled your Lordship becawse I woold not willingly
+deserve to be thought a dissembler or ipperitt . ORIGIN3,40.002.22
+
+AUTHOR:ELIZABETH_RUSSEL:FEMALE:AUNT:_:_
+RECIPIENT:ROBERT_CECIL:MALE:NEPHEW:1563?:31?
+LETTER:ORIGIN3_002:E2:1594:UNKNOWN:OTHER
+Becawse I here your Lordship meaneth to be gon early in the morning , I
+am bowld to send your pale thin checks a comfortable litle breckfast
+agaynst the contagion of this tyme . ORIGIN3,40.002.23
+
+<P_41>
+
+AUTHOR:ELIZABETH_RUSSEL:FEMALE:AUNT:_:_
+RECIPIENT:ROBERT_CECIL:MALE:NEPHEW:1563?:31?
+LETTER:ORIGIN3_002:E2:1594:UNKNOWN:OTHER
+God bless yow , with the continuance of all helth and happiness as I
+woold to myself unfaynedly . Your Lordships owld Awnt , of compleate
+lxviij yeres , that will pray for your long lyfe Elizabeth Russel
+<font> douager </font> . ORIGIN3,41.002.24
+
+<Q_OR3_C_1597_T_RCECIL> <L_ORIGIN3_003> <A_ROBERT_CECIL>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1563?> <R_ROBERT_DEVEREUX>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1565>
+
+<P_41>
+
+{ED:LETTER_CCXXXIV._SIR_ROBERT_CECIL_TO_THE_EARL_OF_ESSEX.}
+
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+My good lord By a Letter of yours , written on Saterday , what howre I
+know not , your Lordship seemeth not to conceave what might be the
+reason that things runne <P_42> on by us with so great silence ;
+wherein that you may see the poore unfortunate Secretarie will leave no
+scrupule in you of lack of industry , to yeald you all satisfaction ,
+<paren> whome it were inhumanitie to neglecte , the circumstances
+considered of your cares and toiles , which have much of their
+dependencie upon the breath of this place , </paren> ORIGIN3,42.003.25
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+I have thought good to yeald you reason for all , by drawing you to
+make your owne computations . ORIGIN3,42.003.26
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+Tyll Fryday in the morning wee heard nothing of your safe arrivall , of
+which , to tell you true , tyll I was well advertised , I tooke little
+pleasure to thinke of aunswering the Remaine , but wished the Action
+dissolved , and knewe , yf you had perished , it hath ben a vanitie to
+have dreamed any further , of ought els but passion here , and
+confusion there . ORIGIN3,42.003.27
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+And for good M=r=. Ralegh , who wonders at his owne diligence <paren>
+because diligence and he are not familiars </paren> , it is true , that
+on Wednesday night , I being at Greenwich , and the Queen at M=r=.
+Walsinghams , his Letter found me , which I imparted on Thursday , as
+soone as the Queene was readie , unto her ; ORIGIN3,42.003.28
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+and do confesse , that in expectation to heare of you , wee did differe
+aunswer to you untill Fryday , of which day , I trust , divers
+dispatches are with you long before this tyme . ORIGIN3,42.003.29
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+Thus do you see that a man , whose fortunes scants him of meanes to do
+you service , will not beare coales to be accused of dulnes , <P_43>
+especially by your rere-admirall , who making haste but once in a yeare
+to write a lettre in post , gave date from Waymouth to his last
+dispatche , which by the circumstances I knew was written from Plymouth
+. ORIGIN3,43.003.30
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+But now , My Lord , after this longe preface , lett me take a little
+tyme for you with that , which I assure you would have pleased you , if
+you had ben a beholder . ORIGIN3,43.003.31
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+There arrived three daies since in the Cittie an Ambassador out of
+Poland , a gentleman of excellent fashion , witte , discourse ,
+language , and person ; ORIGIN3,43.003.32
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+the Queene was possessed by some of our new Counsellours , that are as
+cunning in intelligence as in decyphering , that his negotiation
+tendeth to a proposition of peace . ORIGIN3,43.003.33
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+Her Majesty , in respect that his father the Duke of Finland had so
+much honored her , besydes the lyking she had of this gentlemans
+commelines and qualities brought to her by reporte , did resolve to
+receave him publickly in the Chamber of Presence , where most of the
+Erles and Noblemen about the Court attended , ORIGIN3,43.003.34
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+and made it a great day . ORIGIN3,43.003.35
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+He was brought in attired in a longe robe of black velvett , well
+jeweld and buttond , ORIGIN3,43.003.36
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+and came to kisse her Ma=ts=. hands where she stood under the State ,
+from whence he straight retired , tenne yardes of , ORIGIN3,43.003.37
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+and then begonne his Oration aloude in Latin , with such a gallant
+countenance , as in my lyfe I never behelde . ORIGIN3,43.003.38
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+The effect of it was this : that " the King hath sent him to putt her
+Ma=tie=. in minde of the auncient confederacies betweene <P_44> the
+Kings of Poland and England ; that never a Monarche in Europe did
+willinglie neglect their frendship ; that he had ever frendlie receaved
+her merchants and subjects of all qualitie ; that she had suffered his
+to be spoiled without restitution , not for lacke of knowledge of the
+violencies , but out of meer injustice , not caring to minister remedie
+, notwithstanding many particular petitions and letters receaved ;
+ORIGIN3,44.003.39
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+and to confirme hir dispositon to avowe these courses <paren> violating
+both-1 the Law of Nature and Nations </paren> because ther were quarels
+between her and the King of Spaine , she therfor tooke upon her , by
+mandat , to prohibite him and his Countreis , assuming therby to her
+self a superioritie <paren> not tollerable </paren> over other Princes
+; ORIGIN3,44.003.40
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+nor he determined to endure ; ORIGIN3,44.003.41
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+but rather wished her to knowe , that yf there were no more then the
+auncient amitie between Spaine and him , it were no reason to looke
+that his subjects should be impedited , much lesse now , when a strickt
+obligation of bloud had so conjoyned him with the illustrious howse of
+Austria : " ORIGIN3,44.003.42
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+concluding , that , " if her Ma=tie= would not reforme it , he would .
+" ORIGIN3,44.003.43
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+To this I sweare by the living God , that her Ma=tie=. made one of the
+best aunswers ex tempore , in Latin , that ever I heard , being much
+mooved to be so challenged in publick , especially so much against her
+expectation . ORIGIN3,44.003.44
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+The wordes of her beginning were these , " Expectavi Legationem , mihi
+vero Querelam adduxisti ; ORIGIN3,44.003.45
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+is this the busynes your King hath sent you <P_45> about !
+ORIGIN3,45.003.46
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+suerlie I can hardlie beleeve , that yf the King himself were present ,
+he would have used such a language , ORIGIN3,45.003.47
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+for yf he should , I must have thought that his being a King not of
+many yeares , and that non de jure sanguinis , sed de jure electionis ,
+imo noviter electus , may happilie leave him uninformed of that course
+which his father and auncestors have taken with us , and which
+peradventure $shall $be {TEXT:shalbe} observed by those that shall live
+to come after him . ORIGIN3,45.003.48
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+And as for you <paren> saied she to the Ambassador </paren> although I
+perceave you have redde many books to fortifie your arguments in this
+case , yet am I apt to beleeve that you have not lighted upon the
+Chapter that prescribeth the forme to be used between Kings and Princes
+; ORIGIN3,45.003.49
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+but were it not for the place you hold , to have so publicly an
+imputation throwne upon our Justice , which as yet never failed , wee
+would aunswer this audacitie of yours in another style .
+ORIGIN3,45.003.50
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+And for the particulars of your Negotiations , wee will appoint some of
+our Counsell to conferre with you to see upon what ground this clamor
+of yours hath his foundacion , who have shewed your self rather an
+Heralde then an Ambassador . " ORIGIN3,45.003.51
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+I assure your Lordship though I am not apt to wonder , I must confesse
+before the living Lord that I never heard her <paren> when I know her
+spirits were in passion </paren> speake with better moderation in my
+lyfe . ORIGIN3,45.003.52
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+You will thinke it strange that I am thus idle as to use an other
+bodies hand . ORIGIN3,45.003.53
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+I assure you I have harte <P_46> my thumme at this hower ;
+ORIGIN3,46.003.54
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+and because the Queene tould me she was sorrye you heard not his Latin
+and hers , I promised her to make you partaker of as much as I could
+remember , being as I knew the worst you would expect from her , and
+yet the best could come from any other . ORIGIN3,46.003.55
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+Yf therfore this my Lettre finde you , and that you write backe before
+your going , I pray you take notice that you were pleased to heare of
+her wise and eloquent aunswer . ORIGIN3,46.003.56
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+I am half ashamed to take thus much tyme from you , ORIGIN3,46.003.57
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+but when I hope it $shall $be {TEXT:shalbe} the last which shal come to
+you before you goe out of England , I am contented in this to be
+censured idle , though , in all things els upon the face of the earth ,
+I $will $be {TEXT:wilbe} founde Your faithfull and affectionate poore
+frende , to doe you service {ED:...} ORIGIN3,46.003.58
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+From the Court at Grenwich ORIGIN3,46.003.59
+
+AUTHOR:ROBERT_CECIL:MALE:_:1563?:34?
+RECIPIENT:ROBERT_DEVEREUX:MALE:_:1565:32
+LETTER:ORIGIN3_003:E2:1597:COPY:OTHER
+the 26 of July 1597 . ORIGIN3,46.003.60
+
+<Q_OR3_D_1600?_T_FDEVEREUX> <L_ORIGIN3_004> <A_FRANCES_DEVEREUX>
+<A-GENDER_FEMALE> <A-REL_---> <A-DOB_---> <R_ROBERT_CECIL>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1563?>
+
+<P_55>
+
+{ED:LETTER_CCXXXVII._THE_COUNTESS_OF_ESSEX_TO_MR_SECRETARY_CECIL.}
+
+
+<P_56>
+
+AUTHOR:FRANCES_DEVEREUX:FEMALE:_:_:_?
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:37?
+LETTER:ORIGIN3_004:E2:1600?:UNKNOWN:OTHER
+Sir Although the awnswere I receved from you two daies since gave mee
+small incouragement to flatter my self that anie importunity I could
+make should bee able to appease the scandall you had conceaved to bee
+geven you by my unfortunat husband : yet hade it not pleased God to
+powre uppon mee one affliction <P_57> after an other , and to add to
+the immesurable sorrowes of my harte so violent a sicknes as I am not
+able of my self to stur out of my bed , I had presented unto your vew
+the image of the importunante Widow mentioned in the Scriptur ,
+ORIGIN3,57.004.61
+
+AUTHOR:FRANCES_DEVEREUX:FEMALE:_:_:_?
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:37?
+LETTER:ORIGIN3_004:E2:1600?:UNKNOWN:OTHER
+and had never ceased to pester you with my complaines till you had
+afforded me some assurance that , whatsoever respects might dehorte you
+from so much as wishinge my husband 's good , yet that an afflicted and
+wofull lady should not wholly loose her labor , or returne desperate of
+such comforts at the last yeare you so honorably ministred unto mee in
+a great affliction though differinge from this in qualitie .
+ORIGIN3,57.004.62
+
+AUTHOR:FRANCES_DEVEREUX:FEMALE:_:_:_?
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:37?
+LETTER:ORIGIN3_004:E2:1600?:UNKNOWN:OTHER
+As I receaved then such noble curtesies from you as must never bee
+forgotten ; so bee perswaded , I beseech you , that whatsoever new
+favor you shall now be pleased to add to the old , shall so binde mee
+to reverence of your vertues as I will resolve to recken my self a
+bankerout till I have yeelddid some demonstrative testimonie of the
+best thankfullness that the honestest harte can expresse for the
+worthest benefitt . ORIGIN3,57.004.63
+
+AUTHOR:FRANCES_DEVEREUX:FEMALE:_:_:_?
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:37?
+LETTER:ORIGIN3_004:E2:1600?:UNKNOWN:OTHER
+Honorable Sir , I know there bee private causes to discourage mee from
+movinge you heerin : ORIGIN3,57.004.64
+
+AUTHOR:FRANCES_DEVEREUX:FEMALE:_:_:_?
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:37?
+LETTER:ORIGIN3_004:E2:1600?:UNKNOWN:OTHER
+yet , seeinge the highest providence hath placed you in a callinge most
+propper to bee a mene for my comforte , and that former experiance hath
+tought me that you are rather inclyned to doe good then to looke allway
+to private interest , I beseech you , even for your vertues sake ,
+performe this noble office for mee as to joyne with the rest of your
+<P_58> LL=ps=. of the Councell in presentinge my humblest supplicacion
+to her Majestie . ORIGIN3,58.004.65
+
+AUTHOR:FRANCES_DEVEREUX:FEMALE:_:_:_?
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:37?
+LETTER:ORIGIN3_004:E2:1600?:UNKNOWN:OTHER
+Bere Sir , I pray you , with theise tedious blotts from her feeble hand
+and sad sick harte that is stored with much thankfullness and infinite
+best wishes unto you , who will ever rest Your most beeholdinge poore
+distressed frend fra: Essex ORIGIN3,58.004.66
+
+AUTHOR:FRANCES_DEVEREUX:FEMALE:_:_:_?
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:37?
+LETTER:ORIGIN3_004:E2:1600?:UNKNOWN:OTHER
+And M=r= Secretary even as you desire of God that your owne sonne never
+bee made orphane by the untimely or unnaturall death of his deere
+father , vouchsafe a relentinge to the not urginge if you may not to
+the hindringe of that fatell warrant for Execution , which if it bee
+once signed I shall never wish to breath one howre after .
+ORIGIN3,58.004.67
+
+AUTHOR:FRANCES_DEVEREUX:FEMALE:_:_:_?
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:37?
+LETTER:ORIGIN3_004:E2:1600?:UNKNOWN:OTHER
+To the right honorable M=r=. Secretary Cecill . ORIGIN3,58.004.68
+
+<Q_OR3_A_1600S_FN_BELIZABETH> <L_ORIGIN3_005> <A_ELIZABETH_STUART>
+<A-GENDER_FEMALE> <A-REL_SISTER> <A-DOB_1596> <R_HENRY_STUART>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_1594>
+
+<P_89>
+
+{ED:LETTER_THE_PRINCESS_ELIZABETH,_TO_HER_BROTHER_PRINCE_HENR
+Y.}
+
+AUTHOR:ELIZABETH_STUART:FEMALE:SISTER:1596:_
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:_
+LETTER:ORIGIN3_005:E2:1600S:AUTOGRAPH:FAMILY_NUCLEAR
+My most worthy and dearest Brother : I geve you a million of thankes
+for the servant you sent mee , but <P_90> more for your kinde Letter ,
+takyng few thinges so joyfully as to hear of your health ,
+ORIGIN3,90.005.69
+
+AUTHOR:ELIZABETH_STUART:FEMALE:SISTER:1596:_
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:_
+LETTER:ORIGIN3_005:E2:1600S:AUTOGRAPH:FAMILY_NUCLEAR
+and though I $can $not {TEXT:cannot} requite you with so pleasant a
+token , yet are these few lines a testymony of the affection of her
+whome you shall ever constantly finde Yo=r= most loving sister
+Elizabeth . ORIGIN3,90.005.70
+
+AUTHOR:ELIZABETH_STUART:FEMALE:SISTER:1596:_
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:_
+LETTER:ORIGIN3_005:E2:1600S:AUTOGRAPH:FAMILY_NUCLEAR
+To my good brother the Prince . ORIGIN3,90.005.71
+
+<Q_OR3_A_1600S_FN_BELIZABETH> <L_ORIGIN3_006> <A_ELIZABETH_STUART>
+<A-GENDER_FEMALE> <A-REL_SISTER> <A-DOB_1596> <R_HENRY_STUART>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_1594>
+
+<P_90>
+
+{ED:LETTER_CCXLIX._THE_PRINCESS_ELIZABETH_TO_PRINCE_HENRY.}
+
+
+AUTHOR:ELIZABETH_STUART:FEMALE:SISTER:1596:_
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:_
+LETTER:ORIGIN3_006:E2:1600S:AUTOGRAPH:FAMILY_NUCLEAR
+Worthy Prince and my dearest brother : I received your most welcom
+Letter and kynd token by M=r=. Hopkins , highly esteeming them as
+delightfull memorialls of your brotherly love . In which assuredly
+<paren> whatsoever ells may fayle </paren> I will ever endevor to
+equall you , esteeming that time happiest when I enjoyed your company ,
+and desiring nothing more than the fruition of it again : that as
+nature hath made us neerest in our love together , so accident might
+not separate us from living together . ORIGIN3,90.006.72
+
+AUTHOR:ELIZABETH_STUART:FEMALE:SISTER:1596:_
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:_
+LETTER:ORIGIN3_006:E2:1600S:AUTOGRAPH:FAMILY_NUCLEAR
+Neither do I account yt the leste part of my present comfort , that
+though I am deprived of your happy presence , yet I can make <P_91>
+these lines deliver this true message , that I will ever bee during my
+lyfe Your most kinde and loving syster Elizabeth . ORIGIN3,91.006.73
+
+AUTHOR:ELIZABETH_STUART:FEMALE:SISTER:1596:_
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:_
+LETTER:ORIGIN3_006:E2:1600S:AUTOGRAPH:FAMILY_NUCLEAR
+To my most dear brother the Prince . ORIGIN3,91.006.74
+
+<Q_OR3_A_1610?_FN_CHARLES1> <L_ORIGIN3_007> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_1600> <R_HENRY_STUART>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_1594>
+
+<P_92>
+
+{ED:LETTER_CCLII._CHARLES_DUKE_OF_YORK,_TO_PRINCE_HENRY.}
+
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:10?
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:16?
+LETTER:ORIGIN3_007:E2:1610?:AUTOGRAPH:FAMILY_NUCLEAR
+Sir Please your H. your trustie Douglas will witnes what sport I have .
+ORIGIN3,92.007.75
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:10?
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:16?
+LETTER:ORIGIN3_007:E2:1610?:AUTOGRAPH:FAMILY_NUCLEAR
+He will acquaint you with <P_93> my sutte , which I pray you moove to
+his M. ORIGIN3,93.007.76
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:10?
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:16?
+LETTER:ORIGIN3_007:E2:1610?:AUTOGRAPH:FAMILY_NUCLEAR
+So kissing your handes I rest Your H. most duetiefull York .
+ORIGIN3,93.007.77
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:10?
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:16?
+LETTER:ORIGIN3_007:E2:1610?:AUTOGRAPH:FAMILY_NUCLEAR
+To his Hienesse . ORIGIN3,93.007.78
+
+<Q_OR3_A_1610?_FN_CHARLES1> <L_ORIGIN3_008> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_1600> <R_HENRY_STUART>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_1594>
+
+<P_93>
+
+{ED:LETTER_CCLIII._THE_DUKE_OF_YORK_TO_PRINCE_HENRY.}
+
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:10?
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:16?
+LETTER:ORIGIN3_008:E2:1610?:AUTOGRAPH:FAMILY_NUCLEAR
+Good brother , I hope you are in good helth and merry , as I am , God
+be thanked . ORIGIN3,93.008.79
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:10?
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:16?
+LETTER:ORIGIN3_008:E2:1610?:AUTOGRAPH:FAMILY_NUCLEAR
+In your absence I visit somtimes your stable , ORIGIN3,93.008.80
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:10?
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:16?
+LETTER:ORIGIN3_008:E2:1610?:AUTOGRAPH:FAMILY_NUCLEAR
+and ride your great horses , that at your return I may wait on you in
+that noble exercise . ORIGIN3,93.008.81
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:10?
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:16?
+LETTER:ORIGIN3_008:E2:1610?:AUTOGRAPH:FAMILY_NUCLEAR
+So committing you to God , I rest Your loving and dutifull brother York
+. ORIGIN3,93.008.82
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:10?
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:16?
+LETTER:ORIGIN3_008:E2:1610?:AUTOGRAPH:FAMILY_NUCLEAR
+To my brother the Prince . ORIGIN3,93.008.83
+
+<Q_OR3_A_1608_FN_HSTUART> <L_ORIGIN3_009> <A_HENRY_STUART>
+<A-GENDER_MALE> <A-REL_SON> <A-DOB_1594> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_FATHER> <R-DOB_1566>
+
+<P_93>
+
+{ED:LETTER_CCLIV._HENRY_PRINCE_OF_WALES_TO_KING_JAMES_THE_FIRST.}
+
+
+AUTHOR:HENRY_STUART:MALE:SON:1594:14
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:42
+LETTER:ORIGIN3_009:E2:1608:AUTOGRAPH:FAMILY_NUCLEAR
+Please yo=r= Ma=tie= I am glad to have heard of your Ma=ties= recovery
+, before I understood of your distemper by the heat of the weather .
+ORIGIN3,93.009.84
+
+AUTHOR:HENRY_STUART:MALE:SON:1594:14
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:42
+LETTER:ORIGIN3_009:E2:1608:AUTOGRAPH:FAMILY_NUCLEAR
+I have sent this bearer of purpose , to <P_94> returne word of yo=r=
+Ma. good health , which I beseech God long to continew , as also to
+remember my most humble duety . ORIGIN3,94.009.85
+
+AUTHOR:HENRY_STUART:MALE:SON:1594:14
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:42
+LETTER:ORIGIN3_009:E2:1608:AUTOGRAPH:FAMILY_NUCLEAR
+He is lykewyse to acquaint yo=r= Ma=tie= that Mons=r=. le Grand hath
+sent me a horse by a French gentleman , wherewith I hope yo=r= Ma=tie=
+will be well pleased . ORIGIN3,94.009.86
+
+AUTHOR:HENRY_STUART:MALE:SON:1594:14
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:42
+LETTER:ORIGIN3_009:E2:1608:AUTOGRAPH:FAMILY_NUCLEAR
+The nexte Weeke I meane to use the benefit of yo=r= Ma=ties=. gratious
+favour of hunting in Waltham forrest , the place appointed as fittest
+for the sport being Wansted . ORIGIN3,94.009.87
+
+AUTHOR:HENRY_STUART:MALE:SON:1594:14
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:42
+LETTER:ORIGIN3_009:E2:1608:AUTOGRAPH:FAMILY_NUCLEAR
+In the mean whyle , and after , I will employ my tyme at my booke the
+best I can to your Ma=ties=. satisfaction , whereof hoping your Ma=tie=
+will rest assured I kisse most humbly your hands as Yo=r= Ma. most
+dutifull and obedient sonne . ORIGIN3,94.009.88
+
+AUTHOR:HENRY_STUART:MALE:SON:1594:14
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:42
+LETTER:ORIGIN3_009:E2:1608:AUTOGRAPH:FAMILY_NUCLEAR
+Agust . ORIGIN3,94.009.89
+
+<Q_OR3_A_1610?_FN_CHARLES1> <L_ORIGIN3_010> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_1600> <R_HENRY_STUART>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_1594>
+
+<P_94>
+
+{ED:LETTER_CCLV._THE_DUKE_OF_YORK_TO_PRINCE_HENRY.}
+
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:10?
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:16?
+LETTER:ORIGIN3_010:E2:1610?:AUTOGRAPH:FAMILY_NUCLEAR
+Sir Pleas your H. I doe keepe your haires in breath ORIGIN3,94.010.90
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:10?
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:16?
+LETTER:ORIGIN3_010:E2:1610?:AUTOGRAPH:FAMILY_NUCLEAR
+<paren> and I have very good sport </paren> ORIGIN3,94.010.91
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:10?
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:16?
+LETTER:ORIGIN3_010:E2:1610?:AUTOGRAPH:FAMILY_NUCLEAR
+I doe wish the King and you might see it . ORIGIN3,94.010.92
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:10?
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:16?
+LETTER:ORIGIN3_010:E2:1610?:AUTOGRAPH:FAMILY_NUCLEAR
+So longing to see you , I kisse your hands , ORIGIN3,94.010.93
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:10?
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:16?
+LETTER:ORIGIN3_010:E2:1610?:AUTOGRAPH:FAMILY_NUCLEAR
+and rest Yours to be commanded York . ORIGIN3,94.010.94
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:10?
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:16?
+LETTER:ORIGIN3_010:E2:1610?:AUTOGRAPH:FAMILY_NUCLEAR
+My maydes service to you . ORIGIN3,94.010.95
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:10?
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:16?
+LETTER:ORIGIN3_010:E2:1610?:AUTOGRAPH:FAMILY_NUCLEAR
+To his Hienesse . ORIGIN3,94.010.96
+
+<Q_OR3_A_1612_FN_CHARLES1> <L_ORIGIN3_011> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_1600> <R_HENRY_STUART>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_1594>
+
+<P_96>
+
+{ED:LETTER_CCLVIII._CHARLES_DUKE_OF_YORK_TO_THE_PRINCE.}
+
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:12
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:18
+LETTER:ORIGIN3_011:E2:1612:AUTOGRAPH:FAMILY_NUCLEAR
+Most loving Brother I long to see you , ORIGIN3,96.011.97
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:12
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:18
+LETTER:ORIGIN3_011:E2:1612:AUTOGRAPH:FAMILY_NUCLEAR
+and hope that you will returne shortly , ORIGIN3,96.011.98
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:12
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:18
+LETTER:ORIGIN3_011:E2:1612:AUTOGRAPH:FAMILY_NUCLEAR
+therfore I have presumed to wreat these few lynes to You that I may
+rest in your favour and ever bee thought Your H. most loving brother
+and obedient servant Charles . ORIGIN3,96.011.99
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:12
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:18
+LETTER:ORIGIN3_011:E2:1612:AUTOGRAPH:FAMILY_NUCLEAR
+S=t=. James ORIGIN3,96.011.100
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:12
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:18
+LETTER:ORIGIN3_011:E2:1612:AUTOGRAPH:FAMILY_NUCLEAR
+14. Mar. 1611 . ORIGIN3,96.011.101
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:12
+RECIPIENT:HENRY_STUART:MALE:BROTHER:1594:18
+LETTER:ORIGIN3_011:E2:1612:AUTOGRAPH:FAMILY_NUCLEAR
+To his Highness . ORIGIN3,96.011.102
+
+<Q_OR3_A_1613_FN_CHARLES1> <L_ORIGIN3_012> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_SON> <A-DOB_1600> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_FATHER> <R-DOB_1566>
+
+<P_102>
+
+{ED:LETTER_CCLXIV._PRINCE_CHARLES_TO_KING_JAMES_THE_FIRST.}
+
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:13
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:47
+LETTER:ORIGIN3_012:E2:1613:AUTOGRAPH:FAMILY_NUCLEAR
+Sir I $can $not {TEXT:cannot} exprese the thankes I owe to so good a
+Father , first in showing my fault so rivelie , and then in forgiving
+my fault so frilie : ORIGIN3,102.012.103
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:13
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:47
+LETTER:ORIGIN3_012:E2:1613:AUTOGRAPH:FAMILY_NUCLEAR
+albeit I $can $not {TEXT:cannot} love and honnor youre Ma=tie= more
+then I did , yet this shall learne me heerafter not to be so foulish as
+to sende anie sutche message as shall beare anie comment but my owen ,
+which shall be as full of love and respect as a dewtifull sone can owe
+to so loving a Father , thinking I shall prosper no longer then I
+deserve to be cald Your M=ties= most humble and obedient sone and
+servant Charles . ORIGIN3,102.012.104
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:13
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:47
+LETTER:ORIGIN3_012:E2:1613:AUTOGRAPH:FAMILY_NUCLEAR
+S=t=. James ORIGIN3,102.012.105
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:13
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:47
+LETTER:ORIGIN3_012:E2:1613:AUTOGRAPH:FAMILY_NUCLEAR
+the 11 of March 1612 ORIGIN3,102.012.106
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:13
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:47
+LETTER:ORIGIN3_012:E2:1613:AUTOGRAPH:FAMILY_NUCLEAR
+To the King 's M=tie= . ORIGIN3,102.012.107
+
+<Q_OR3_A_1610S_TC_CHARLES1> <L_ORIGIN3_013> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_FRIEND> <A-DOB_1600> <R_GEORGE_VILLIERS>
+<R-GENDER_MALE> <R-REL_FRIEND> <R-DOB_1592>
+
+<P_102>
+
+{ED:LETTER_CCLXV._PRINCE_CHARLES_TO_LORD_VILLIERS.}
+
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_013:E2:1610S:AUTOGRAPH:FRIEND
+Steenie Ther is none that knowes me so well as yourselfe , what
+dewtiefull respect and love I have ever , and <P_103> shall ever carrie
+to Kinge : ORIGIN3,103.013.108
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_013:E2:1610S:AUTOGRAPH:FRIEND
+and therfor ye may juge what greefe it is to me to have the ill fortune
+as that anie of my actions should beare so ill an interpretation as I
+fynd by your Letter this message I sent by my Lo. Mongomerie has borne
+. ORIGIN3,103.013.109
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_013:E2:1610S:AUTOGRAPH:FRIEND
+I will no wais stand upon my justification , ORIGIN3,103.013.110
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_013:E2:1610S:AUTOGRAPH:FRIEND
+but desyre that my good meaning may be taken insted of the ill message
+. ORIGIN3,103.013.111
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_013:E2:1610S:AUTOGRAPH:FRIEND
+That which made me thinke that this message would not displease the
+King , was the command ye know he gave a good whyle ago that I should
+use all the menes I could to make the Queene make a will , wherby she
+should make over to me her Jewels : ORIGIN3,103.013.112
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_013:E2:1610S:AUTOGRAPH:FRIEND
+therfor I sent to have Kings aprobation of that which I thought he had
+desyred , ORIGIN3,103.013.113
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_013:E2:1610S:AUTOGRAPH:FRIEND
+and therfore I thought he would eather {COM:FOR_rather?} be glad then
+anie way displeased with the message ; ORIGIN3,103.013.114
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_013:E2:1610S:AUTOGRAPH:FRIEND
+my meaning was never to clame anie thing as of right , but to submit my
+selfe as wel in this as in all other things to the King 's pleasure .
+ORIGIN3,103.013.115
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_013:E2:1610S:AUTOGRAPH:FRIEND
+It doth greeve me much , that the King should be so much mouved with it
+as you say he is , ORIGIN3,103.013.116
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_013:E2:1610S:AUTOGRAPH:FRIEND
+for the least show of his displeasure would make me leave to medle , or
+thinke of anie such thing anie more , without showing himselfe openlie
+so angrie with me . ORIGIN3,103.013.117
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_013:E2:1610S:AUTOGRAPH:FRIEND
+To conclude , I pray you to commend my most humble service to his
+M=tie= and tel him that I am verri sorri that I have done anie thing
+may offend him , and that I will be content to have anie pennance
+inflicted upon me so he may forgive me , ORIGIN3,103.013.118
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_013:E2:1610S:AUTOGRAPH:FRIEND
+althought I had never <P_104> a thought nor never shall have to
+displease him , yet I deserve to be punniched for my ill fortune .
+ORIGIN3,104.013.119
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_013:E2:1610S:AUTOGRAPH:FRIEND
+So hoping never to have occasion to wryt to you of so ill a subject
+againe , but of manie better , I rest Your treu constant loving frend
+Charles P. ORIGIN3,104.013.120
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_013:E2:1610S:AUTOGRAPH:FRIEND
+I had written to the King before I receaved yours , ORIGIN3,104.013.121
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_013:E2:1610S:AUTOGRAPH:FRIEND
+but I hope you will mende anie thing that is amisse in the other with
+this ORIGIN3,104.013.122
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_013:E2:1610S:AUTOGRAPH:FRIEND
+for I did not thinke the Kinge had beene so angrie before I receaved
+yours . ORIGIN3,104.013.123
+
+<Q_OR3_A_1623_FN_CHARLES1> <L_ORIGIN3_014> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_SON> <A-DOB_1600> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_FATHER> <R-DOB_1566>
+
+<P_121>
+
+{ED:LETTER_PRINCE_CHARLES_AND_THE_MARQUIS_OF_BUCKINGHAM_WHILE_
+INCOGNITO_AT_PARIS,_TO_THE_KING.}
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:23
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:57
+LETTER:ORIGIN3_014:E2:1623:AUTOGRAPH:FAMILY_NUCLEAR
+Sir Since the closing of our last we have beene at Court againe ,
+ORIGIN3,121.014.124
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:23
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:57
+LETTER:ORIGIN3_014:E2:1623:AUTOGRAPH:FAMILY_NUCLEAR
+<paren> and that we might not houd you in paine , we assure you that we
+have not been knowen , </paren> <P_122> where we saw the young Queene ,
+littell Monsieur , and Madame , at the practising of a Maske that is
+intended by the Queene to be presented to the Kinge ,
+ORIGIN3,122.014.125
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:23
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:57
+LETTER:ORIGIN3_014:E2:1623:AUTOGRAPH:FAMILY_NUCLEAR
+and in it ther danced the Queene and Madame with as manie as made up
+nineteen faire dancing Ladies , amongst which the Queene is the
+handsomest , which hath wrought in me a greater desier to see her
+sister . ORIGIN3,122.014.126
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:23
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:57
+LETTER:ORIGIN3_014:E2:1623:AUTOGRAPH:FAMILY_NUCLEAR
+So in haste , going to bed , we humblie take our leaves
+ORIGIN3,122.014.127
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:23
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:57
+LETTER:ORIGIN3_014:E2:1623:AUTOGRAPH:FAMILY_NUCLEAR
+and rest Your Majestie 's most humble and obedient sone and servant
+Charles : ORIGIN3,122.014.128
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:23
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:57
+LETTER:ORIGIN3_014:E2:1623:AUTOGRAPH:FAMILY_NUCLEAR
+Paris ORIGIN3,122.014.129
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:23
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:57
+LETTER:ORIGIN3_014:E2:1623:AUTOGRAPH:FAMILY_NUCLEAR
+the 22 of Feb. 1622-3 ORIGIN3,122.014.130
+
+<Q_OR3_A_1623_FN_CHARLES1> <L_ORIGIN3_015> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_SON> <A-DOB_1600> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_FATHER> <R-DOB_1566>
+
+<P_145>
+
+{ED:LETTER_PRINCE_CHARLES_AND_THE_DUKE_OF_BUCKINGHAM_TO_KING_
+JAMES.}
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:23
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:57
+LETTER:ORIGIN3_015:E2:1623:AUTOGRAPH:FAMILY_NUCLEAR
+Sir I confess that ye have sent mor jewels then <paren> at my departure
+</paren> I thought to had use of ; ORIGIN3,145.015.131
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:23
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:57
+LETTER:ORIGIN3_015:E2:1623:AUTOGRAPH:FAMILY_NUCLEAR
+but , since my cumming , seeing manie jewels worne heere , and that my
+braverie can consist of nothing else , besydes that sume of them which
+ye have appointed me to give to the Infanta , in Steenies oppinion and
+myne , ar nott fitt to be given to her ; therfor I have taken this
+bouldness to intreate your Majesty to send more for my owen wearing ,
+and for giving to my Mistres : in which I thinke Your Majesty shall not
+doe amiss to take Carlile 's advyce . ORIGIN3,145.015.132
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:23
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:57
+LETTER:ORIGIN3_015:E2:1623:AUTOGRAPH:FAMILY_NUCLEAR
+So humblie craving your blessing I rest Your Majesty 's humble and
+obedient sone and servant Charles . ORIGIN3,145.015.133
+
+<Q_OR3_A_1623_T_G1VILLIERS> <L_ORIGIN3_016> <A_GEORGE_VILLIERS>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1592> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1566>
+
+<P_145>
+
+{COM:THE_POSTSCRIPT_FROM_LETTER_CCLXXXVI_TO_KING_JAMES}
+
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_016:E2:1623:AUTOGRAPH:OTHER
+I your Doge , sayes you have manie jewels neyther fitt for your one ,
+your sones , nor your daughters wering , but verie fitt to bestow of
+those here who must necessarilie have presents ; ORIGIN3,145.016.134
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_016:E2:1623:AUTOGRAPH:OTHER
+and this way will be least chargable to your Majesty in my poure
+opinion . ORIGIN3,145.016.135
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_016:E2:1623:AUTOGRAPH:OTHER
+Madrill ORIGIN3,145.016.136
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_016:E2:1623:AUTOGRAPH:OTHER
+the 22 of Aprill 1623 . ORIGIN3,145.016.137
+
+<Q_OR3_A_1623_TC_G1VILLIERS> <L_ORIGIN3_017> <A_GEORGE_VILLIERS>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1592> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1566>
+
+<P_146>
+
+{ED:LETTER_CCLXXXVII._THE_DUKE_OF_BUCKINGHAM_TO_THE_KING.}
+
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+Dere Dad , Gossope and Steward Though your babie himselfe hath sent
+word what neede he hath of more jewells , yet will I by this berer ,
+who can make more speede then Carlile , againe acquaint your Majesty
+therewith , and give my poure and sausie opinion what will be fittest
+more to send . ORIGIN3,146.017.138
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+Hetherto you have bine so spareing that whereas you thought to have
+sent him sufficiently for his one wareing , to present his Mistris who
+I ame sure shall shortlie now louse that title , and to lend me , that
+I to the contrarie have bine forsed to lend him . ORIGIN3,146.017.139
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+You neede not aske who made me able to do it . ORIGIN3,146.017.140
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+Sir , he hath neyther chaine nor hattband ; ORIGIN3,146.017.141
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+and I beseech you consider first how rich they are in jewells here ,
+then in what a poure equipage he came in , how he hath no other meanes
+to appere like a Kings sonne , how they are usefullests at such a time
+as this when they may doe your selfe , your sone , and the nation honor
+, and <P_147> lastlie how it will neyther caust nor hasard you anie
+thinge . ORIGIN3,147.017.142
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+These resons , I hope , since you have ventured allredie your cheefest
+jewell your Sonne , will serve to perswade you to lett louse thesse
+more after him : first your best hattband ; the Portingall diamond ;
+the rest of the pendant diamonds , to make up a Necles to give his
+Mistris ; and the best rope of perle ; with a rich chaine or tow for
+himself to waire , ORIGIN3,147.017.143
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+or els your Doge must want a coller ; which is the redie way to put him
+into it . ORIGIN3,147.017.144
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+There are manie other jewells which are of so mean qualitie as they
+deserve not that name , but will save much in your purs and serve verie
+well for Presents . ORIGIN3,147.017.145
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+They had never so good and greate an occasion to take the aire out of
+there boxes as at this time . ORIGIN3,147.017.146
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+God knowes when they shall have such another : ORIGIN3,147.017.147
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+and they had neede some times to get nerer the Sonne to continue them
+in there perfection . ORIGIN3,147.017.148
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+Here give me leave humbly on my knees to give your Majesty thankes for
+that rich jewell you sent me in a box by my lord Vahan ,
+ORIGIN3,147.017.149
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+and give him leave to kiss your hands from me who tooke the paines to
+draw it . ORIGIN3,147.017.150
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+My reward to him is this , ORIGIN3,147.017.151
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+he spent his time well , which is the thinge wee should all most desier
+, and is the glorie I covett most here in your service , which sweet
+Jesus grant me , and your blessing . ORIGIN3,147.017.152
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+Your Majesty 's most humble slave and doge Steenie .
+ORIGIN3,147.017.153
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+Madrill ORIGIN3,147.017.154
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+the 25 of Aprill 1623 ORIGIN3,147.017.155
+
+<P_148>
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+Sir Foure Asses you I have sent . Tow hees and tow shees .
+ORIGIN3,148.017.156
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+Five Cameles , tow hees , tow shees , with a young one ; and one
+Ellefant , which is worth your seeing . ORIGIN3,148.017.157
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+Thees I have impudentlie begged for you . ORIGIN3,148.017.158
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+There is a Barbarie hors comes with them , I think from Watt Aston .
+ORIGIN3,148.017.159
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+My Lord Bristow sayeth he will send you more Camells .
+ORIGIN3,148.017.160
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+When wee come oure selves wee will bringe you Horses and Asses anoufe .
+ORIGIN3,148.017.161
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+If I may know whether you desier Mules or not , I will bringe them , or
+Dere of this Cuntrie eyther . ORIGIN3,148.017.162
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+And I will lay waite for all the rare coler burds that can be hard of .
+ORIGIN3,148.017.163
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+But if you doe not send your babie jewels eneugh $I $'ll {TEXT:I'le}
+stope all other presents . ORIGIN3,148.017.164
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:31
+RECIPIENT:JAMES_STUART_I/VI:MALE:_:1566:57
+LETTER:ORIGIN3_017:E2:1623:AUTOGRAPH:FRIEND
+Therfore louke to it . ORIGIN3,148.017.165
+
+<Q_OR3_A_1623_FN_CHARLES1> <L_ORIGIN3_018> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_SON> <A-DOB_1600> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_FATHER> <R-DOB_1566>
+
+<P_148>
+
+{ED:LETTER_CCLXXXVIII._PRINCE_CHARLES_TO_THE_KING.}
+
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:23
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:57
+LETTER:ORIGIN3_018:E2:1623:AUTOGRAPH:FAMILY_NUCLEAR
+Sir Steenie and I doe thinke it necessarie that Bristo should stay heer
+behynd us , ORIGIN3,148.018.166
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:23
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:57
+LETTER:ORIGIN3_018:E2:1623:AUTOGRAPH:FAMILY_NUCLEAR
+for wee $can $not {TEXT:cannot} see how the businesses of frendship
+<paren> as they call it </paren> <P_149> can be ended , without eather
+his stay or ours , ORIGIN3,149.018.167
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:23
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:57
+LETTER:ORIGIN3_018:E2:1623:AUTOGRAPH:FAMILY_NUCLEAR
+and we thinke that they $can $not {TEXT:cannot} choose but a great
+whyle of treating : ORIGIN3,149.018.168
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:23
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:57
+LETTER:ORIGIN3_018:E2:1623:AUTOGRAPH:FAMILY_NUCLEAR
+for that of the Palatinat onlie will take up at least two monthes for
+the perfyting of it : ORIGIN3,149.018.169
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:23
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:57
+LETTER:ORIGIN3_018:E2:1623:AUTOGRAPH:FAMILY_NUCLEAR
+besydes your Majesty knowes ther ar manie other businesses of great
+consequence which must requyre tyme : ORIGIN3,149.018.170
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:23
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:57
+LETTER:ORIGIN3_018:E2:1623:AUTOGRAPH:FAMILY_NUCLEAR
+and if wee should goe away without leaving somboddie behynd us to end
+them <paren> and your Majisty knowes ther is noboddie so fitt for this
+as Bristo </paren> they may justlie thinke that I cam onlie for a
+Marriage and not for a frendship . Wherfor since his stay will make our
+happiness of kissing your Majesty 's hands to be the sooner , I hope ye
+will not onlie give him leave , but command him to obey us in this .
+ORIGIN3,149.018.171
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:23
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:57
+LETTER:ORIGIN3_018:E2:1623:AUTOGRAPH:FAMILY_NUCLEAR
+So humblie craving your Majesty 's blessinge I rest Your Majesty 's
+humble and obedient sone and servant Charles . ORIGIN3,149.018.172
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:23
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:57
+LETTER:ORIGIN3_018:E2:1623:AUTOGRAPH:FAMILY_NUCLEAR
+Madrill ORIGIN3,149.018.173
+
+AUTHOR:CHARLES_STUART_I:MALE:SON:1600:23
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:57
+LETTER:ORIGIN3_018:E2:1623:AUTOGRAPH:FAMILY_NUCLEAR
+the 25 of Aprill 1623 ORIGIN3,149.018.174
+
+<Q_OR3_A_1620S_TC_CHARLES1> <L_ORIGIN3_019> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_FRIEND> <A-DOB_1600> <R_GEORGE_VILLIERS>
+<R-GENDER_MALE> <R-REL_FRIEND> <R-DOB_1592>
+
+<P_167>
+
+{ED:LETTER_CCXCIX._PRINCE_CHARLES_TO_THE_DUKE_OF_BUCKINGHAM.}
+
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_019:E2:1620S:AUTOGRAPH:FRIEND
+Steenie First I must thanke you for the token you sent me , then that
+you imployed so good a Secretaire to answer my letter .
+ORIGIN3,167.019.175
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_019:E2:1620S:AUTOGRAPH:FRIEND
+Now I must crave your pardon to truble you a little :
+ORIGIN3,167.019.176
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_019:E2:1620S:AUTOGRAPH:FRIEND
+and it is this ; ORIGIN3,167.019.177
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_019:E2:1620S:AUTOGRAPH:FRIEND
+Bristo stands upon his justification , ORIGIN3,167.019.178
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_019:E2:1620S:AUTOGRAPH:FRIEND
+and will by no means accept of my councells ; ORIGIN3,167.019.179
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_019:E2:1620S:AUTOGRAPH:FRIEND
+the King does hait to have him cum to his tryall , ORIGIN3,167.019.180
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_019:E2:1620S:AUTOGRAPH:FRIEND
+and I am affeard that if you be not with us to helpe to charge him ,
+and to set the King right , he may escape with too slight a sencure ;
+ORIGIN3,167.019.181
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_019:E2:1620S:AUTOGRAPH:FRIEND
+therfor I would have you send to the King to put of Bristoe 's tryall
+untill you might waite on him : ORIGIN3,167.019.182
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_019:E2:1620S:AUTOGRAPH:FRIEND
+but for God 's sake doe not venter <P_168> to cum suner then ye may
+with the saftie of your health ; ORIGIN3,168.019.183
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_019:E2:1620S:AUTOGRAPH:FRIEND
+and with that condition , the suner the better . ORIGIN3,168.019.184
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_019:E2:1620S:AUTOGRAPH:FRIEND
+If ye will answer me , truble not your selfe , ORIGIN3,168.019.185
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_019:E2:1620S:AUTOGRAPH:FRIEND
+but doe it by the Secretaire ye used last . ORIGIN3,168.019.186
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:_
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:_
+LETTER:ORIGIN3_019:E2:1620S:AUTOGRAPH:FRIEND
+Take care of your selfe for my sake , who is and ever shall be Your
+treu , loving , constante frend Charles P. ORIGIN3,168.019.187
+
+<Q_OR3_A_1625?_T_G1VILLIERS> <L_ORIGIN3_020> <A_GEORGE_VILLIERS>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1592> <R_NAME_UNKNOWN_7>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_179>
+
+{ED:LETTER_THE_DUKE_OF_BUCKINGHAM_TO_THE_EARL_OF_NEADSDALE.}_CO
+DE
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:33?
+RECIPIENT:NAME_UNKNOWN_7:MALE:_:_:_?
+LETTER:ORIGIN3_020:E2:1625?:AUTOGRAPH:OTHER
+My noble Lord His Majesty hath commanded me to acquaint your Lordship
+that he hath prorogued his Parliament untill the sixteenth day of
+Februarie for manie waightie <P_180> considerations , but principally
+this , that the respect of the Princesse of France and the reverence
+which will be given to her person when shee shall be here for those
+graces and virtues that shine in her , as likewise for the love and
+dutie borne to the Prince being all joyned in her , will not only stay
+the exorbitant or ingentle motions that might otherwise bee made in the
+House of Parliament , but will facilitate in his Majesties proceeding
+those passages of favors , grace , and goodnes which his Majesty hath
+promised for the ease of the Romaine Catholickes , not merelie in
+contemplation of that incomparable Ladie and his dere brother , but as
+the gentleman that was sent latlie here from you can bere wittnes ,
+with a desier worthie the cherishing , to make a beginning of a
+straighter correspondence betweene him you went to , then could be
+hoped for these manie yeres past . ORIGIN3,180.020.188
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:33?
+RECIPIENT:NAME_UNKNOWN_7:MALE:_:_:_?
+LETTER:ORIGIN3_020:E2:1625?:AUTOGRAPH:OTHER
+Besides , you may be pleased to lay before him I forbeare to name
+<paren> wanting a Sifer </paren> the obligation which must fall upon
+the Prince in a thinge which though it be to them but a circumstance of
+time , yet to him an essential favor , being pasionatelie in love :
+ORIGIN3,180.020.189
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:33?
+RECIPIENT:NAME_UNKNOWN_7:MALE:_:_:_?
+LETTER:ORIGIN3_020:E2:1625?:AUTOGRAPH:OTHER
+and , amongst Princes and generous spiritts , things themselves take
+not so much <P_181> as the maner they are done with :
+ORIGIN3,181.020.190
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:33?
+RECIPIENT:NAME_UNKNOWN_7:MALE:_:_:_?
+LETTER:ORIGIN3_020:E2:1625?:AUTOGRAPH:OTHER
+therefore I conjure You as a worke of more consequence then can at the
+first view be conceived , to use all possible diligences that where you
+are , there be used no delays nor interruptions to hinder the speedy
+dispaching of the Dispensation , which worke I hope will not be hard ,
+since I trust before this time that jentlemans dispatch make you
+plainelie perseve that his Majesty hath left nothing undone on his part
+both-5 to facilitate and hasten a happie end to this great busines
+which will make a good entrie to a greater good in Christendom .
+ORIGIN3,181.020.191
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:33?
+RECIPIENT:NAME_UNKNOWN_7:MALE:_:_:_?
+LETTER:ORIGIN3_020:E2:1625?:AUTOGRAPH:OTHER
+Thus leveing you to the protection of the Almightie I end .
+ORIGIN3,181.020.192
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:33?
+RECIPIENT:NAME_UNKNOWN_7:MALE:_:_:_?
+LETTER:ORIGIN3_020:E2:1625?:AUTOGRAPH:OTHER
+Your Lordship 's affectionate kinsman and humble Servant G. Buckingham
+. ORIGIN3,181.020.193
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:33?
+RECIPIENT:NAME_UNKNOWN_7:MALE:_:_:_?
+LETTER:ORIGIN3_020:E2:1625?:AUTOGRAPH:OTHER
+I hope the next news I shall here from you will bee you have done your
+errant , recovered your health , and on your way homwards .
+ORIGIN3,181.020.194
+
+AUTHOR:GEORGE_VILLIERS:MALE:_:1592:33?
+RECIPIENT:NAME_UNKNOWN_7:MALE:_:_:_?
+LETTER:ORIGIN3_020:E2:1625?:AUTOGRAPH:OTHER
+For the right honorable The Erle of Neadsdale . ORIGIN3,181.020.195
+
+<Q_OR3_A_1625_TC_CHARLES1> <L_ORIGIN3_021> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_FRIEND> <A-DOB_1600> <R_GEORGE_VILLIERS>
+<R-GENDER_MALE> <R-REL_FRIEND> <R-DOB_1592>
+
+<P_210>
+
+{ED:LETTER_CCCXIX._KING_CHARLES_I=ST=_TO_THE_DUKE_OF_BUCKINGHAM.}
+
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:25
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:33
+LETTER:ORIGIN3_021:E2:1625:AUTOGRAPH:FRIEND
+Steenie I writt to you by Ned Clarke that I thought I would have cause
+anufe in shorte tyme to put away the Monsers , ether by atemting to
+steale away my Wyfe , or by making plots with my owen subjects .
+ORIGIN3,210.021.196
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:25
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:33
+LETTER:ORIGIN3_021:E2:1625:AUTOGRAPH:FRIEND
+For the first I $can $not {TEXT:cannot} say certainlie whether it was
+intended , ORIGIN3,210.021.197
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:25
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:33
+LETTER:ORIGIN3_021:E2:1625:AUTOGRAPH:FRIEND
+but I am sure it is hindered ; ORIGIN3,210.021.198
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:25
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:33
+LETTER:ORIGIN3_021:E2:1625:AUTOGRAPH:FRIEND
+for the other , <P_211> though I have good grounds to belife it , and
+am still hunting after it , yet seing daylie the malitiusness of the
+Monsers , by making and fomenting discontentments in my Wyfe , I could
+tarie no longer from adverticing of You , that I meane to seeke for no
+other grounds to casier my Monsers , having for this porpose sent you
+this other letter that you may if you thinke good , advertise the
+Queene Mother with my intention , ORIGIN3,211.021.199
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:25
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:33
+LETTER:ORIGIN3_021:E2:1625:AUTOGRAPH:FRIEND
+for this being an action that may have a show of harshness I thought it
+was fitt to take this way , that she to whome I have hade manie
+obligations may not take it unkyndlie , ORIGIN3,211.021.200
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:25
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:33
+LETTER:ORIGIN3_021:E2:1625:AUTOGRAPH:FRIEND
+and lykwayes I thinke I have done you no wrong in my letter though in
+some place of it I may seeme to chyde you . ORIGIN3,211.021.201
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:25
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:33
+LETTER:ORIGIN3_021:E2:1625:AUTOGRAPH:FRIEND
+I pray you send mee word with what speed {with} you may , whither ye
+lyke this cource or not , ORIGIN3,211.021.202
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:25
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:33
+LETTER:ORIGIN3_021:E2:1625:AUTOGRAPH:FRIEND
+for I shall put nothing of this in exsecution while I heere frome you :
+ORIGIN3,211.021.203
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:25
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:33
+LETTER:ORIGIN3_021:E2:1625:AUTOGRAPH:FRIEND
+in the meane tyme , I shall thinke of the convenients meanes to doe
+this business with the best mind , ORIGIN3,211.021.204
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:25
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:33
+LETTER:ORIGIN3_021:E2:1625:AUTOGRAPH:FRIEND
+but I am resolute : ORIGIN3,211.021.205
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:25
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:33
+LETTER:ORIGIN3_021:E2:1625:AUTOGRAPH:FRIEND
+it must be done and that shortlie . ORIGIN3,211.021.206
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:25
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:33
+LETTER:ORIGIN3_021:E2:1625:AUTOGRAPH:FRIEND
+So , longing to see thee , I rest Your loving , faithfull , constante
+frend Charles R. ORIGIN3,211.021.207
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:25
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:33
+LETTER:ORIGIN3_021:E2:1625:AUTOGRAPH:FRIEND
+Hampton Courte ORIGIN3,211.021.208
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:25
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:33
+LETTER:ORIGIN3_021:E2:1625:AUTOGRAPH:FRIEND
+the of November 1625 . ORIGIN3,211.021.209
+
+<Q_OR3_A_1626_TC_CHARLES1> <L_ORIGIN3_022> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_FRIEND> <A-DOB_1600> <R_GEORGE_VILLIERS>
+<R-GENDER_MALE> <R-REL_FRIEND> <R-DOB_1592>
+
+<P_244>
+
+{ED:LETTER_CCCXXXII._THE_KING_TO_THE_DUKE_OF_BUCKINGHAM.}
+
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:26
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:34
+LETTER:ORIGIN3_022:E2:1626:AUTOGRAPH:FRIEND
+Steenie I have receaved your Letter by Dic Greame , ORIGIN3,244.022.210
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:26
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:34
+LETTER:ORIGIN3_022:E2:1626:AUTOGRAPH:FRIEND
+this is my Answer . ORIGIN3,244.022.211
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:26
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:34
+LETTER:ORIGIN3_022:E2:1626:AUTOGRAPH:FRIEND
+I command you to send all the French away to morrow out of the Toune .
+If you can , by faire meanes ORIGIN3,244.022.212
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:26
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:34
+LETTER:ORIGIN3_022:E2:1626:AUTOGRAPH:FRIEND
+<paren> but stike not longe in disputing </paren> ORIGIN3,244.022.213
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:26
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:34
+LETTER:ORIGIN3_022:E2:1626:AUTOGRAPH:FRIEND
+otherways force them away , dryving them away lyke so manie wyld
+beastes untill ye have shipped them , ORIGIN3,244.022.214
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:26
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:34
+LETTER:ORIGIN3_022:E2:1626:AUTOGRAPH:FRIEND
+and so the Devill goe with them . ORIGIN3,244.022.215
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:26
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:34
+LETTER:ORIGIN3_022:E2:1626:AUTOGRAPH:FRIEND
+Lett me heare no answer bot of the performance of my command .
+ORIGIN3,244.022.216
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:26
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:34
+LETTER:ORIGIN3_022:E2:1626:AUTOGRAPH:FRIEND
+So I rest Your faithfull constant loving frend Charles R.
+ORIGIN3,244.022.217
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:26
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:34
+LETTER:ORIGIN3_022:E2:1626:AUTOGRAPH:FRIEND
+Oaking , ORIGIN3,244.022.218
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:26
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:34
+LETTER:ORIGIN3_022:E2:1626:AUTOGRAPH:FRIEND
+the 7=th=. of Agust 1626 . ORIGIN3,244.022.219
+
+<Q_OR3_A_1626_TC_CHARLES1> <L_ORIGIN3_023> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_FRIEND> <A-DOB_1600> <R_GEORGE_VILLIERS>
+<R-GENDER_MALE> <R-REL_FRIEND> <R-DOB_1592>
+
+<P_249>
+
+{ED:LETTER_CCCXXXV._KING_CHARLES_TO_THE_DUKE_OF_BUCKINGHAM}
+
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:26
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:34
+LETTER:ORIGIN3_023:E2:1626:AUTOGRAPH:FRIEND
+Steenie I send you heerwith Letters to my Sister and Brother
+ORIGIN3,249.023.220
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:26
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:34
+LETTER:ORIGIN3_023:E2:1626:AUTOGRAPH:FRIEND
+<paren> I place them so , becaus I thinke the gray Meare is the best
+horse </paren> . ORIGIN3,249.023.221
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:26
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:34
+LETTER:ORIGIN3_023:E2:1626:AUTOGRAPH:FRIEND
+As for Newes I can say but litell yet , Yrland being the onlie Egg we
+have yet sitten upon , ORIGIN3,249.023.222
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:26
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:34
+LETTER:ORIGIN3_023:E2:1626:AUTOGRAPH:FRIEND
+and having a thike shell wee have not yet hached it .
+ORIGIN3,249.023.223
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:26
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:34
+LETTER:ORIGIN3_023:E2:1626:AUTOGRAPH:FRIEND
+For Blenuill he hes yet but made his formale demands concerning the
+Ships , to which he has a delatorie answer while we heere from France
+concerning <P_250> the restitution of oure Ships . ORIGIN3,250.023.224
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:26
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:34
+LETTER:ORIGIN3_023:E2:1626:AUTOGRAPH:FRIEND
+This is all I have to say to thee at this tyme , but that that I shall
+ever say and thinke , that I ame and ever will be Your faithfull loving
+constant frend Charles R. ORIGIN3,250.023.225
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:26
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:34
+LETTER:ORIGIN3_023:E2:1626:AUTOGRAPH:FRIEND
+For Yourself . ORIGIN3,250.023.226
+
+<Q_OR3_A_1628_TC_CHARLES1> <L_ORIGIN3_024> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_FRIEND> <A-DOB_1600> <R_GEORGE_VILLIERS>
+<R-GENDER_MALE> <R-REL_FRIEND> <R-DOB_1592>
+
+<P_253>
+
+{ED:LETTER_CCCXXXIX._THE_KING_TO_THE_DUKE_OF_BUCKINGHAM.}
+
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:28
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:36
+LETTER:ORIGIN3_024:E2:1628:AUTOGRAPH:FRIEND
+Buckingham I command You to draw my Armie together to Porchemouth , to
+the end I may send them speedli to Rochell . ORIGIN3,253.024.227
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:28
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:36
+LETTER:ORIGIN3_024:E2:1628:AUTOGRAPH:FRIEND
+I shall send after you directions how and whaire to billett them ,
+untill the tyme that ye will be able to shipp them ; for the doing
+whairof , this shall be your sufficient warrant , it being the command
+of Your louing faithfull constant frend Charles R. ORIGIN3,253.024.228
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:28
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:36
+LETTER:ORIGIN3_024:E2:1628:AUTOGRAPH:FRIEND
+Whithall , ORIGIN3,253.024.229
+
+AUTHOR:CHARLES_STUART_I:MALE:FRIEND:1600:28
+RECIPIENT:GEORGE_VILLIERS:MALE:FRIEND:1592:36
+LETTER:ORIGIN3_024:E2:1628:AUTOGRAPH:FRIEND
+the 6=th= of June 1628 . ORIGIN3,253.024.230
+
+<Q_OR3_D_1628_T_DCARLETON> <L_ORIGIN3_025> <A_DUDLEY_CARLETON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1573> <R_HENRIETTA_MARIA_STUART>
+<R-GENDER_FEMALE> <R-REL_---> <R-DOB_1609>
+
+<P_254>
+
+{ED:LETTER_CCCXL._DUDLEY_LORD_CARLETON_TO_THE_QUEEN.}
+
+
+<P_256>
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+Maddam I am to trouble your Grace , with a most Lamentable Relation ;
+ORIGIN3,256.025.231
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+This day betwixt nine and ten of the clock in the morning , the Duke of
+Buckingham then comming out of a Parlor , into a Hall , to goe to his
+coach and soe to the King , <paren> who was four miles of </paren>
+having about him diverse Lords , Colonells , and Captains , & many of
+his owne Servants , was by one Felton <paren> once a Lieutenant of this
+our Army </paren> slaine at one blow , with a dagger-knife .
+ORIGIN3,256.025.232
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+In his staggering he turn'd about , uttering onely this word , "
+Villaine ! " ORIGIN3,256.025.233
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+& never spake word more , ORIGIN3,256.025.234
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+but presently plucking out the knife from himselfe , before he fell to
+the ground , hee made towards the Traytor , two or three paces ,
+ORIGIN3,256.025.235
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+and then fell against a Table although he were upheld <P_257> by
+diverse that were neere him , that <paren> through the villaines close
+carriage in the act </paren> could not perceive him hurt at all , but
+guess'd him to be suddenly oversway'd with some apoplexie , till they
+saw the blood come gushing from his mouth and the wound , soe fast ,
+that life , and breath , at once left his begored body .
+ORIGIN3,257.025.236
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+Maddam , you may easily guesse what outcryes were then made , by us
+that were Commaunders and Officers there present , when wee saw him
+thus dead in a moment , and slaine by an unknowne hand ;
+ORIGIN3,257.025.237
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+for it seemes that the Duke himselfe onely knew who it was that had
+murdered him , ORIGIN3,257.025.238
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+and by meanes of the confused presse at the instant about his person ,
+wee neither did , nor could . ORIGIN3,257.025.239
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+The Souldiers feare his losse will be their utter ruine , wherefore att
+that instant the house and the court about it were full , every man
+present with the Dukes body , endeavouring a care of itt .
+ORIGIN3,257.025.240
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+In the meane time Felton pass'd the throng , which was confusedly great
+, not soe much as mark'd or followed , in soe much that not knowing
+where , nor who he was that had done that fact , some came to keepe
+guard at the gates , ORIGIN3,257.025.241
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+and others went to the ramports of the Towne ; in all which time the
+villaine was standing in the kitchin of the same house ,
+ORIGIN3,257.025.242
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+and after the inquiry made by a multitude of captaines and gentlemen
+then pressing into the house and court , and crying out a maine " where
+is the villain ? where is the butcher ? " hee most audaciously and
+resolutely drawing <P_258> forth his sword , came out
+ORIGIN3,258.025.243
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+and went amongst them , saying boldly , " I am the Man , heere I am ; "
+upon which diverse drew upon him , with an intent to have then
+dispatcht him ; ORIGIN3,258.025.244
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+but S=r= Thomas Morton , my selfe , and some others , us'd such means
+<paren> though with much trouble and difficulty </paren> that wee drew
+him out of their hands , ORIGIN3,258.025.245
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+and by order of my Lord High Chamberlaine , wee had the charge of
+keeping him from any comming to him untill a guard of musketeers were
+brought , to convey him to the Governor 's House , where wee were
+discharg'd . ORIGIN3,258.025.246
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+My Lord High Chamberlaine and M=r= Secretary Cooke were then at the
+Governor 's house , ORIGIN3,258.025.247
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+did there take his examination of which as yet there is nothing knowne
+, ORIGIN3,258.025.248
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+onely whilst he was in our custody I asked him several Questions , to
+which he answer'd ; viz=t=. ORIGIN3,258.025.249
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+He sayd , he was a Protestant in Religion ; ORIGIN3,258.025.250
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+hee also expressed himselfe that he was partly discontented for want of
+eighty pounds pay which was due unto him ; and for that hee being
+Lieutenant of a company of foot , the company was given over his head
+unto another , ORIGIN3,258.025.251
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+and yet , hee sayd , that that did not move him to this resolution ,
+but that he reading the Remonstrance of the house of Parliament it came
+into his mind , that in committing the Act of killing the Duke , hee
+should doe his Country great good service . ORIGIN3,258.025.252
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+And he sayd that to morrow he was to be pray'd for in London .
+ORIGIN3,258.025.253
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+I then asked him , att what Church , and to <P_259> what purpose ;
+ORIGIN3,259.025.254
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+hee told me at a Church by Fleet-Street-Conduit , and , as for a man
+much discontented in mind . ORIGIN3,259.025.255
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+Now wee seeing things to fall from him in this manner , suffer'd him
+not to bee further question'd by any , thinking it much fitter for the
+Lords to examine him , and to finde it out , and know from him whether
+he was encouraged and sett on by any to performe this wicked deed .
+ORIGIN3,259.025.256
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+But to returne to the screeches made att the fatall blow given , the
+Duchesse of Buckingham and the Countesse of Anglesey came forth into a
+Gallery which look'd into the Hall where they might behold the blood of
+their deerest Lord gushing from him ; ORIGIN3,259.025.257
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+ah poore Ladies , such was their screechings , teares , and
+distractions , that I never in my Life heard the like before , and hope
+never to heare the like againe . ORIGIN3,259.025.258
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+His Ma=ties= griefe for the losse of him , was express'd to be more
+then great , by the many teares hee hath shed for him , with which I
+will conclude this sad and untimely Newes . ORIGIN3,259.025.259
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+Felton had sowed a writing in the crowne of his hatt , half within the
+lyning , to shew the cause why hee putt this cruell act in execution ;
+thinking hee should have beene slaine in the place :
+ORIGIN3,259.025.260
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+and it was thus : ORIGIN3,259.025.261
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+" If I bee slaine , let no man condemne me , but rather condemne
+himselfe ; ORIGIN3,259.025.262
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+it is for our sinns that our harts are hardned , and become sencelesse
+, ORIGIN3,259.025.263
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+or else hee had not gone soe long unpunished . ORIGIN3,259.025.264
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+John Felton . " ORIGIN3,259.025.265
+
+<P_260>
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+" Hee is unworthy of the name of a Gentleman , or Soldier , in my
+opinion , that is afrayd to sacrifice his life for the honor of God ,
+his King , and Country . ORIGIN3,260.025.266
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+John Felton . " ORIGIN3,260.025.267
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+Maddam , this is the truth , the whole truth , and nothing but the
+truth , yet all too much too , if it had soe pleased God .
+ORIGIN3,260.025.268
+
+AUTHOR:DUDLEY_CARLETON:MALE:_:1573:55
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:_:1609:19
+LETTER:ORIGIN3_025:E2:1628:UNKNOWN:OTHER
+I thought it my bounden duty howsoever to let your Ma=tie=. have the
+first intelligence of it , by the hand of Maddam Yo=r= sorrowfull
+servant Dudley Carleton . ORIGIN3,260.025.269
+
+<Q_OR3_A_1638_T_CHARLES2> <L_ORIGIN3_026> <A_CHARLES_STUART_II>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1630> <R_WILLIAM_CAVENDISH>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1593?>
+
+<P_287>
+
+{ED:LETTER_CCCLIII._PRINCE_CHARLES_TO_THE_EARL_OF_NEWCASTLE.}
+
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:8
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:45?
+LETTER:ORIGIN3_026:E2:1638:AUTOGRAPH:OTHER
+My Lord I would not have you take too much Phisick :
+ORIGIN3,287.026.270
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:8
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:45?
+LETTER:ORIGIN3_026:E2:1638:AUTOGRAPH:OTHER
+for it doth allwaies make me worse , ORIGIN3,287.026.271
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:8
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:45?
+LETTER:ORIGIN3_026:E2:1638:AUTOGRAPH:OTHER
+and I think it will do the like with you . ORIGIN3,287.026.272
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:8
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:45?
+LETTER:ORIGIN3_026:E2:1638:AUTOGRAPH:OTHER
+I ride every day , ORIGIN3,287.026.273
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:8
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:45?
+LETTER:ORIGIN3_026:E2:1638:AUTOGRAPH:OTHER
+and am ready to follow any other directions from you .
+ORIGIN3,287.026.274
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:8
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:45?
+LETTER:ORIGIN3_026:E2:1638:AUTOGRAPH:OTHER
+Make hast to returne to him that loves you . ORIGIN3,287.026.275
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:8
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:45?
+LETTER:ORIGIN3_026:E2:1638:AUTOGRAPH:OTHER
+Charles P. ORIGIN3,287.026.276
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:8
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:45?
+LETTER:ORIGIN3_026:E2:1638:AUTOGRAPH:OTHER
+To my Lord of New-castle . ORIGIN3,287.026.277
+
+<Q_OR3_A_1638_T_CHARLES2> <L_ORIGIN3_027> <A_CHARLES_STUART_II>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1630> <R_WILLIAM_CAVENDISH>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1593?>
+
+<P_287>
+
+{ED:LETTER_CCCLIV._PRINCE_CHARLES_TO_LORD_NEWCASTLE.}
+
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:8
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:45?
+LETTER:ORIGIN3_027:E2:1638:AUTOGRAPH:OTHER
+My Lord I thank you for your New Years guift ; ORIGIN3,287.027.278
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:8
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:45?
+LETTER:ORIGIN3_027:E2:1638:AUTOGRAPH:OTHER
+I am very well pleasd with it , especially with the brass Statues .
+ORIGIN3,287.027.279
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:8
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:45?
+LETTER:ORIGIN3_027:E2:1638:AUTOGRAPH:OTHER
+On Munday by three of the clock I shall be glad to meete you at Lambeth
+. ORIGIN3,287.027.280
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:8
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:45?
+LETTER:ORIGIN3_027:E2:1638:AUTOGRAPH:OTHER
+Charles . ORIGIN3,287.027.281
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:8
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:45?
+LETTER:ORIGIN3_027:E2:1638:AUTOGRAPH:OTHER
+For My Lord of New Castle . ORIGIN3,287.027.282
+
+<Q_OR3_A_1642_T_CHARLES1> <L_ORIGIN3_028> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1600> <R_WILLIAM_CAVENDISH>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1593?>
+
+<P_291>
+
+{ED:LETTER_CCCLV._THE_KING_TO_THE_EARL_OF_NEWCASTLE.}
+
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_028:E3:1642:AUTOGRAPH:OTHER
+New Castel ORIGIN3,291.028.283
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_028:E3:1642:AUTOGRAPH:OTHER
+This is to tell you that this Rebellion is growen to that height , that
+I must not looke what opinion men ar who at this tyme ar willing and
+able to serve me . ORIGIN3,291.028.284
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_028:E3:1642:AUTOGRAPH:OTHER
+Therfore I doe not only permitt , but command you , to make use of all
+my loving subjects services , without examining ther Contienses <paren>
+more then there loyalty to me </paren> as you shall fynde most to
+conduce to the uphoulding of my just Regall Power . ORIGIN3,291.028.285
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_028:E3:1642:AUTOGRAPH:OTHER
+So I rest Your most asseured faithfull frend Charles R.
+ORIGIN3,291.028.286
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_028:E3:1642:AUTOGRAPH:OTHER
+Shrewsbury ORIGIN3,291.028.287
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_028:E3:1642:AUTOGRAPH:OTHER
+23 Sep. 1642 ORIGIN3,291.028.288
+
+<Q_OR3_A_1642_T_CHARLES1> <L_ORIGIN3_029> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1600> <R_WILLIAM_CAVENDISH>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1593?>
+
+<P_292>
+
+{ED:LETTER_KING_CHARLES_THE_FIRST_TO_THE_EARL_OF_NEWCASTLE.}_CO
+DE
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_029:E3:1642:AUTOGRAPH:OTHER
+New Castell ORIGIN3,292.029.289
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_029:E3:1642:AUTOGRAPH:OTHER
+Your endeavors are so really faithfull and lucky in my service , that
+<paren> though I pretend not to thank you in words , yet </paren> I
+$can $not {TEXT:cannot} but tell you of , <paren> though I can not all
+</paren> the sence I have of them , when , as now , I have tyme and
+oportunitie for it . ORIGIN3,292.029.290
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_029:E3:1642:AUTOGRAPH:OTHER
+This bearer will tell you of the defeate the Rebells have gotten ,
+which referring to him , I will tell you of fower thousand pounds I
+have sent you , for which doe not too much thanke me ,
+ORIGIN3,292.029.291
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_029:E3:1642:AUTOGRAPH:OTHER
+for , it may be , you should not have had it if I had knowen how it
+might have been speedily and safely conveyed hither ;
+ORIGIN3,292.029.292
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_029:E3:1642:AUTOGRAPH:OTHER
+yet I thinke very well employed . ORIGIN3,292.029.293
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_029:E3:1642:AUTOGRAPH:OTHER
+That I have desyred of you is to make what hast you can to cum to joine
+your forses with myne , ORIGIN3,292.029.294
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_029:E3:1642:AUTOGRAPH:OTHER
+for I suppose and hope that my Wife will be cum to you before you can
+be reddy to march . ORIGIN3,292.029.295
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_029:E3:1642:AUTOGRAPH:OTHER
+I wryt this that ye may be reddy when she comes , ORIGIN3,292.029.296
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_029:E3:1642:AUTOGRAPH:OTHER
+or if <paren> as it is possible </paren> she should take another course
+, you might make hast without her ; the certainty of which <paren> I
+mean my Wife 's journie </paren> you will know within <P_293> few dayes
+or howers after the returne of this bearer . ORIGIN3,293.029.297
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_029:E3:1642:AUTOGRAPH:OTHER
+This is all for this tyme . ORIGIN3,293.029.298
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_029:E3:1642:AUTOGRAPH:OTHER
+So I rest Your most assured constant frend Charles R.
+ORIGIN3,293.029.299
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_029:E3:1642:AUTOGRAPH:OTHER
+Oxford ORIGIN3,293.029.300
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_029:E3:1642:AUTOGRAPH:OTHER
+2: No: 1642 ORIGIN3,293.029.301
+
+<Q_OR3_A_1642_T_CHARLES1> <L_ORIGIN3_030> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1600> <R_WILLIAM_CAVENDISH>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1593?>
+
+<P_293>
+
+{ED:LETTER_CCCLVII._THE_KING_TO_THE_EARL_OF_NEWCASTLE.}
+
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_030:E3:1642:AUTOGRAPH:OTHER
+New Castell ORIGIN3,293.030.302
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_030:E3:1642:AUTOGRAPH:OTHER
+The services I have receaved from you hath beene so eminent , and is
+lykely to have so great an influence upon all my Affaires , that I need
+not tell you that I shall never forgett it , but alwais looke upon you
+as a principall instrument in keeping the Crowne upon my heade .
+ORIGIN3,293.030.303
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_030:E3:1642:AUTOGRAPH:OTHER
+The business of Yorkshire I account almost done , ORIGIN3,293.030.304
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_030:E3:1642:AUTOGRAPH:OTHER
+only I put you in mynde to make your self maister <paren> according as
+formerly but breefly I have written to you </paren> of all the Armes
+there , to aske them from the Trained bands by severall divisions , to
+desyre them from the rest of my well affected subjects , and to take
+them from the ill affected , espetially Leedes and Halifax .
+ORIGIN3,293.030.305
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_030:E3:1642:AUTOGRAPH:OTHER
+I have no greater want then of Armes , nor meanes to supply myselfe
+then from you , ORIGIN3,293.030.306
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_030:E3:1642:AUTOGRAPH:OTHER
+and therfor I recomend to you the getting as manie as you <P_294> can
+from all the parts you may , and even from New Castell <paren> whether
+for futur supplyes I have ordered great store to bee sent </paren> into
+some safe Magazin there . ORIGIN3,294.030.307
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_030:E3:1642:AUTOGRAPH:OTHER
+My next greatest want is dragooners , which I want the more , because
+it is the Rebelles <paren> indeed only </paren> strenth , theire foot
+having no inclination to winter marches ; wherfore if you could there
+horse and arme , and send these presently to mee , they might be of
+very great advantage . ORIGIN3,294.030.308
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_030:E3:1642:AUTOGRAPH:OTHER
+You have lykewais neighbours in Darbishire , Cheshire , and Lancashire
+, who <paren> for theire good service </paren> stand now in great need
+of your assistance , which I shall desire you to give , as far as will
+sut with my other service ; ORIGIN3,294.030.309
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_030:E3:1642:AUTOGRAPH:OTHER
+and that you may doe it the more effectually , I have given order that
+a Commission bee drawen for you to command all the Countries beyond
+Trent . ORIGIN3,294.030.310
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_030:E3:1642:AUTOGRAPH:OTHER
+Lastly I will put you in mynde that some of your forces extended to
+Nottingham and Newarke would make Lincolneshire extreamly right , and
+restore those good subjects of myne who ar now banished .
+ORIGIN3,294.030.311
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_030:E3:1642:AUTOGRAPH:OTHER
+So , desyring to heare often from you I rest Your most asseured
+constant frend Charles R. ORIGIN3,294.030.312
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_030:E3:1642:AUTOGRAPH:OTHER
+Oxford ORIGIN3,294.030.313
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_030:E3:1642:AUTOGRAPH:OTHER
+15: De: 1642 . ORIGIN3,294.030.314
+
+<Q_OR3_A_1642_T_CHARLES1> <L_ORIGIN3_031> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1600> <R_WILLIAM_CAVENDISH>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1593?>
+
+<P_295>
+
+{ED:LETTER_CCCLVIII._THE_KING_TO_THE_EARL_OF_NEWCASTLE.}
+
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+New Castell ORIGIN3,295.031.315
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+I thanke you for your Letter of the 25: De: and in particular for
+sending for my Wyfe with that earnestness that ye have done .
+ORIGIN3,295.031.316
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+I give you free leave to disobey my warants for issewing Armes ;
+ORIGIN3,295.031.317
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+for what I have done in that , was in supposition that you had anew for
+your selfe and your frends ; ORIGIN3,295.031.318
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+but having not , I confess Charity begins at home . ORIGIN3,295.031.319
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+I wonder to heare you say that there ar few Armes in that Country ,
+ORIGIN3,295.031.320
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+for when I was there , to my knowledge there was twelve thousand of the
+Trained Bands <paren> except some few Hotham gott into Hull </paren>
+compleat , besydes those of particular men ; ORIGIN3,295.031.321
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+therfor on God 's name inquyre what is becume of them ,
+ORIGIN3,295.031.322
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+and make use of them all ; ORIGIN3,295.031.323
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+for those who ar well affected will willingly give , or lend them , to
+you ; ORIGIN3,295.031.324
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+and those who ar not , make no bones to take them from them .
+ORIGIN3,295.031.325
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+As for your Invitations to severall places ; doe therein as you shall
+fynd best for my service , without looking to the little commodities of
+particular persons or Sheeres ; ORIGIN3,295.031.326
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+for though I may propose manie things to your consideration , yet I
+shall not impose anie thing upon you ; ORIGIN3,295.031.327
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+as for example , I heare Gen. King is come ; ORIGIN3,295.031.328
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+now I desyre You to make use of him in your Army , ORIGIN3,295.031.329
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+I am sure you have not good <P_296> Commanders to spare , no more than
+Armes , ORIGIN3,296.031.330
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+yet , I confess there may be such reasons that may make this desyre of
+myne impossible . ORIGIN3,296.031.331
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+I know Newport hes that place he expected ; to which I will only say
+that I wishe you an abler and - in his roome . ORIGIN3,296.031.332
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+You have had a litle tryall alreddy ; ORIGIN3,296.031.333
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+yet <paren> according to my owen rule </paren> I doe not command , but
+earnestlie desyre you to see if you can comply with this my desyre .
+ORIGIN3,296.031.334
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+My conclusion is to asseure you that I doe not only trust in your
+fidelity , which <paren> as Charles Chester said of Q. Elizabeth 's
+falts </paren> all the World takes on , but lykewais to your judgement
+in my Affairs ; ORIGIN3,296.031.335
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+and ye may be confident that nothing shall alter me from being Your
+most asseured constant frend Charles R. ORIGIN3,296.031.336
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+Oxford ORIGIN3,296.031.337
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+29: De: 1642 . ORIGIN3,296.031.338
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+I promis you , to be as wary of a Treatie , as you can desyre .
+ORIGIN3,296.031.339
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:42
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:49?
+LETTER:ORIGIN3_031:E3:1642:AUTOGRAPH:OTHER
+I pray you lett me heere from you as oft as ye may .
+ORIGIN3,296.031.340
+
+<Q_OR3_A_1643_FO_CHARLES1> <L_ORIGIN3_032> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_UNCLE> <A-DOB_1600> <R_PRINCE_MAURICE>
+<R-GENDER_MALE> <R-REL_NEPHEW> <R-DOB_1621>
+
+<P_296>
+
+{ED:LETTER_CCCLIX._THE_KING_TO_PRINCE_MAURICE.}
+
+
+<P_297>
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:43
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:22
+LETTER:ORIGIN3_032:E3:1643:AUTOGRAPH:FAMILY_OTHER
+Nepueu Maurice Though Mars be now most in voag , yet Hymen may bee some
+tymes remembred . ORIGIN3,297.032.341
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:43
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:22
+LETTER:ORIGIN3_032:E3:1643:AUTOGRAPH:FAMILY_OTHER
+The matter is this , ORIGIN3,297.032.342
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:43
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:22
+LETTER:ORIGIN3_032:E3:1643:AUTOGRAPH:FAMILY_OTHER
+your Mother and I have beene somewhat engaged concerning a Mariage
+betwine your brother Rupert and Mademoisell de Rohan ,
+ORIGIN3,297.032.343
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:43
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:22
+LETTER:ORIGIN3_032:E3:1643:AUTOGRAPH:FAMILY_OTHER
+and now her frends press your brother to a positive answer which I
+fynde him resolved to give negatively ; ORIGIN3,297.032.344
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:43
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:22
+LETTER:ORIGIN3_032:E3:1643:AUTOGRAPH:FAMILY_OTHER
+therfore I have thought fitt to know if you will not by your engagement
+take your brother hansomly off . ORIGIN3,297.032.345
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:43
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:22
+LETTER:ORIGIN3_032:E3:1643:AUTOGRAPH:FAMILY_OTHER
+I have not tyme to argue the matter , ORIGIN3,297.032.346
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:43
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:22
+LETTER:ORIGIN3_032:E3:1643:AUTOGRAPH:FAMILY_OTHER
+but , to show my judgement , I asseure you that if my sone James wer of
+a fitt age , I would want of my will but he should have her ;
+ORIGIN3,297.032.347
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:43
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:22
+LETTER:ORIGIN3_032:E3:1643:AUTOGRAPH:FAMILY_OTHER
+and indeed the totall rejecting of this Allyance may doe us some
+prejudice , whether ye looke to thease or the German affaires ; the
+performance of which is not expected untill the tymes shall be
+reasonably setled : though I desyre you to give me an answer assoone as
+you can <paren> having now occasion to send to France </paren> ,
+because delayes ar , some tymes , as ill taken as denyalls .
+ORIGIN3,297.032.348
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:43
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:22
+LETTER:ORIGIN3_032:E3:1643:AUTOGRAPH:FAMILY_OTHER
+So hoping and praying God for good newes from you , I rest Your loving
+Oncle and faithful frend Charles R. ORIGIN3,297.032.349
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:43
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:22
+LETTER:ORIGIN3_032:E3:1643:AUTOGRAPH:FAMILY_OTHER
+Oxford ORIGIN3,297.032.350
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:43
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:22
+LETTER:ORIGIN3_032:E3:1643:AUTOGRAPH:FAMILY_OTHER
+4: July 1643 . ORIGIN3,297.032.351
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:43
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:22
+LETTER:ORIGIN3_032:E3:1643:AUTOGRAPH:FAMILY_OTHER
+For my Nepueu Prince Maurice . ORIGIN3,297.032.352
+
+<Q_OR3_A_1644_T_CHARLES1> <L_ORIGIN3_033> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1600> <R_WILLIAM_CAVENDISH>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1593?>
+
+<P_298>
+
+{ED:LETTER_CCCLX._THE_KING_TO_THE_EARL_OF_NEWCASTLE.}
+
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:44
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:51?
+LETTER:ORIGIN3_033:E3:1644:AUTOGRAPH:OTHER
+New Castell ORIGIN3,298.033.353
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:44
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:51?
+LETTER:ORIGIN3_033:E3:1644:AUTOGRAPH:OTHER
+By your last dispach I perceave that the Scots are not the only , or
+<paren> it may be said </paren> the least ennemies you contest withall
+at this tyme ; wherefore I must tell you in a word <paren> for I have
+not tyme to make longe discourses </paren> you must as much contem the
+impertinent or malitius tonges and pennes of those that ar or professe
+to be your frends , as well as you dispyse the sword of an equall
+ennemie . ORIGIN3,298.033.354
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:44
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:51?
+LETTER:ORIGIN3_033:E3:1644:AUTOGRAPH:OTHER
+The trewth is , if eather you , or my L. Ethen leave my service , I am
+sure <paren> at least </paren> all the Northe <paren> I speake not all
+I thinke </paren> is lost . ORIGIN3,298.033.355
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:44
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:51?
+LETTER:ORIGIN3_033:E3:1644:AUTOGRAPH:OTHER
+Remember all courage is not in fyghting ; constancy in a good cause
+being the cheefe , and the dispysing of slanderus tonges and pennes
+being not the least ingredient . ORIGIN3,298.033.356
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:44
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:51?
+LETTER:ORIGIN3_033:E3:1644:AUTOGRAPH:OTHER
+$I $'ll {TEXT:I'l} say no more , ORIGIN3,298.033.357
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:44
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:51?
+LETTER:ORIGIN3_033:E3:1644:AUTOGRAPH:OTHER
+but , let nothing disharten you from doing that which is most for your
+owen honnor , and good of <paren> the thought of leaving your charge
+being against booke </paren> Your most asseured reall constant frend
+Charles R. ORIGIN3,298.033.358
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:44
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:51?
+LETTER:ORIGIN3_033:E3:1644:AUTOGRAPH:OTHER
+Oxford ORIGIN3,298.033.359
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:44
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:51?
+LETTER:ORIGIN3_033:E3:1644:AUTOGRAPH:OTHER
+5. Ap: 1644 ORIGIN3,298.033.360
+
+<Q_OR3_A_1644_T_CHARLES1> <L_ORIGIN3_034> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1600> <R_WILLIAM_CAVENDISH>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1593?>
+
+<P_299>
+
+{ED:LETTER_CCCLXI._THE_KING_TO_THE_EARL_OF_NEWCASTLE.}
+
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:44
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:51?
+LETTER:ORIGIN3_034:E3:1644:AUTOGRAPH:OTHER
+New Castell ORIGIN3,299.034.361
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:44
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:51?
+LETTER:ORIGIN3_034:E3:1644:AUTOGRAPH:OTHER
+You need not doute of the care I have of the North and in particular of
+your assistance against the Scots invasion , ORIGIN3,299.034.362
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:44
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:51?
+LETTER:ORIGIN3_034:E3:1644:AUTOGRAPH:OTHER
+but you must consider that wee , lyke you , $can $not {TEXT:cannot} doe
+alwais what we would ; ORIGIN3,299.034.363
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:44
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:51?
+LETTER:ORIGIN3_034:E3:1644:AUTOGRAPH:OTHER
+besydes our taske is not litle that we strugle with , in which if we
+faile , all you can doe will be to little purpose ; wherfor You may be
+asseured of all assistance from hence that may be , without laing our
+selfes open to eminent danger , the particulars of which I refer you to
+my L. Digby and rest Your most asseured reall constant frend Charles R.
+ORIGIN3,299.034.364
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:44
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:51?
+LETTER:ORIGIN3_034:E3:1644:AUTOGRAPH:OTHER
+Oxford ORIGIN3,299.034.365
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:44
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:51?
+LETTER:ORIGIN3_034:E3:1644:AUTOGRAPH:OTHER
+11. Ap: 1644 . ORIGIN3,299.034.366
+
+<Q_OR3_A_1644_FO_OCROMWELL> <L_ORIGIN3_035> <A_OLIVER_CROMWELL>
+<A-GENDER_MALE> <A-REL_BROTHER-IN-LAW> <A-DOB_1599>
+<R_VALENTINE_WALTON> <R-GENDER_MALE> <R-REL_BROTHER-IN-LAW>
+<R-DOB_1594>
+
+<P_299>
+
+{ED:LETTER_OLIVER_CROMWELL_TO_COLONEL_VALENTINE_WALTON_HIS_BRO
+THER_IN_LAW.}
+
+<P_300>
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+Deere Sir It 's our duty to sympathize in all mercyes ; that wee praise
+the Lord together , in chastisements or tryalls , that soe wee may
+sorrowe together . ORIGIN3,300.035.367
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+Truly England , and the Church of God , hath had a great favor from the
+Lord in this great victorie given unto us , such as the like never was
+since this War begunn . ORIGIN3,300.035.368
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+It had all the evidences of an absolute Victorie obtained by the Lord
+'s blessinge upon the godly partye principally . ORIGIN3,300.035.369
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+Wee never charged but wee routed the enimie . ORIGIN3,300.035.370
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+The lefte Winge which I commanded , being our owne horse , saving a few
+Scottes in our reere , beat all the Prince 's horse .
+ORIGIN3,300.035.371
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+God made them as stubble to our swords . ORIGIN3,300.035.372
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+Wee charged their Regiments of foote with our horse ORIGIN3,300.035.373
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+$and routed all wee charged . ORIGIN3,300.035.374
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+The particulars <P_301> I $can $not {TEXT:cannot} relate now ;
+ORIGIN3,301.035.375
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+but I believe of twenty thousand , the Prince hath not four thousand
+left . ORIGIN3,301.035.376
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+Give glory , all the glory , to God . ORIGIN3,301.035.377
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+Sir , God hath taken away your eldest sonn by a cannon shott .
+ORIGIN3,301.035.378
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+Itt brake his legge . ORIGIN3,301.035.379
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+Wee were necessitated to have itt cutt off , wherof hee died .
+ORIGIN3,301.035.380
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+Sir you know my tryalls this way , ORIGIN3,301.035.381
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+but the Lord supported mee with this , that the Lord tooke him into the
+happinesse wee all pant after and live for . ORIGIN3,301.035.382
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+There is your precious child , full of glory , to know sinn nor sorrow
+any more . ORIGIN3,301.035.383
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+Hee was a gallant younge man , exceedinge gracious .
+ORIGIN3,301.035.384
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+God give you his comfort . ORIGIN3,301.035.385
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+Before his death hee was soe full of comfort , that to Franke Russell
+and my selfe hee could not expresse it , itt was soe great above his
+paine . ORIGIN3,301.035.386
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+This he sayd to us . ORIGIN3,301.035.387
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+Indeed itt was admirable . ORIGIN3,301.035.388
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+A little after hee sayd , one thinge lay upon his spirit ;
+ORIGIN3,301.035.389
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+I asked him what that was ; ORIGIN3,301.035.390
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+hee told mee that it was that God had not suffered him to be noe more
+the executioner of his enemies . ORIGIN3,301.035.391
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+Att his fall , his horse beinge killed with the bullett and as I am
+informed three horses more , I am told hee bid them open to the right
+and left , that hee might see the rogues runn . ORIGIN3,301.035.392
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+Truly hee was exceedingly beloved in the Armie of all that knew him .
+ORIGIN3,301.035.393
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+But few knew him ; ORIGIN3,301.035.394
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+for hee was a precious younge man , fitt for God . ORIGIN3,301.035.395
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+You have cause to blesse the Lord . ORIGIN3,301.035.396
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+Hee is a glorious Sainct in heaven , wherein you ought exceedingly to
+rejoyce . ORIGIN3,301.035.397
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+Lett this drinke up your sorrowe . ORIGIN3,301.035.398
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+Seinge theise are not fayned words to comfort you ; but the <P_302>
+thing is soe real and undoubted a truth , You may doe all thinges by
+the strength of Christ . ORIGIN3,302.035.399
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+Seeke that , ORIGIN3,302.035.400
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+and you shall easily beare your tryall . ORIGIN3,302.035.401
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+Lett this publike mercy to the Church of God make you to forgett your
+private sorrowe . ORIGIN3,302.035.402
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+The Lord be your strength ; ORIGIN3,302.035.403
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+soe prayes Your truly faythfull and lovinge brother Oliver Cromwell .
+ORIGIN3,302.035.404
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+July 5=th=. 1644 . ORIGIN3,302.035.405
+
+AUTHOR:OLIVER_CROMWELL:MALE:BROTHER_IN_LAW:1599:45
+RECIPIENT:VALENTINE_WALTON:MALE:BROTHER_IN_LAW:1594:50
+LETTER:ORIGIN3_035:E3:1644:AUTOGRAPH:FAMILY_OTHER
+My love to your daughter and my cozen Perceval , sister Desbrowe , and
+all freinds with you . ORIGIN3,302.035.406
+
+<Q_OR3_A_1645_T_OCROMWELL> <L_ORIGIN3_036> <A_OLIVER_CROMWELL>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1599> <R_WILLIAM_LENTHALL>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_305>
+
+{ED:LETTER_OLIVER_CROMWELL_TO_WILLIAM_LENTHALL_ESQ=R=._SPEAKER_
+OF_THE_HOUSE_OF_COMMONS.}
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+Sir Beinge commanded by you to this service , I thinke my selfe bound
+to acquaint you with the good hand of God towards you and us .
+ORIGIN3,305.036.407
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+Wee marched yesterday after the Kinge whoe went before us from
+Daventree <P_306> to Haverbrowe , ORIGIN3,306.036.408
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+and quartered about six miles from him . ORIGIN3,306.036.409
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+This day wee marched towards him . ORIGIN3,306.036.410
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+Hee drew out to meete us . ORIGIN3,306.036.411
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+Both Armies engaged . ORIGIN3,306.036.412
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+Wee , after three howers fight , very doubtfull , att last routed his
+Armie , ORIGIN3,306.036.413
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+killed and tooke about five thousand , very many officers ,
+ORIGIN3,306.036.414
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+but of what quallitye wee yet know not . ORIGIN3,306.036.415
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+Wee tooke alsoe about two hundred carrages , all hee had , and all his
+gunnes , being twelve in number , whereof two were demie-cannon , two
+demie culveringes , and <paren> I thinke </paren> the rest sacers .
+ORIGIN3,306.036.416
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+Wee persued the enimie from three miles short of Haverb. to nine beyond
+, even to sight of Leic=r=. whether the Kinge fled .
+ORIGIN3,306.036.417
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+Sir this is non other but the hand of God , ORIGIN3,306.036.418
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+and to him alone belongs the glorie , wher in none are to share with
+him . ORIGIN3,306.036.419
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+The Generall has served you with all faythfullness and honor ,
+ORIGIN3,306.036.420
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+and the best commendations I can give him is that I dare say hee
+attributes all to God , and would rather perish than assume to himselfe
+; which is an honest and a thrivinge way , and yett as much for bravery
+may bee given to him in this action as to a man . ORIGIN3,306.036.421
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+Honest men served you faythfully in this action . ORIGIN3,306.036.422
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+Sir they are trusty . ORIGIN3,306.036.423
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+I beseech you in the name of God not to discourage them .
+ORIGIN3,306.036.424
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+I wish this action may begett thankfulnesse and humilitye in all that
+are concerned in itt . ORIGIN3,306.036.425
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+Hee that venters his life for the libertye of his countrie , I wish hee
+trust God for the libertye of his conscience <P_307> and you for the
+libertye hee fights for . ORIGIN3,307.036.426
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+In this hee rests , whoe is your most humble servant Oliver Cromwell .
+ORIGIN3,307.036.427
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+June 14=th=. 1645 ORIGIN3,307.036.428
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+Haverbrowe . ORIGIN3,307.036.429
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:46
+RECIPIENT:WILLIAM_LENTHALL:MALE:_:_:_
+LETTER:ORIGIN3_036:E3:1645:AUTOGRAPH:OTHER
+For the Hon=ble= William Lenthall Speaker of Commons - House of
+Parliament , Theise . ORIGIN3,307.036.430
+
+<Q_OR3_A_1645_T_CHARLES1> <L_ORIGIN3_037> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1600> <R_EDWARD_SOMERSET>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_310>
+
+{ED:LETTER_CCCLXVIII._KING_CHARLES_TO_THE_EARL_OF_GLAMORGAN.}
+
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:45
+RECIPIENT:EDWARD_SOMERSET:MALE:_:_:_
+LETTER:ORIGIN3_037:E3:1645:AUTOGRAPH:OTHER
+Hereford ORIGIN3,310.037.431
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:45
+RECIPIENT:EDWARD_SOMERSET:MALE:_:_:_
+LETTER:ORIGIN3_037:E3:1645:AUTOGRAPH:OTHER
+23 June 1645 . ORIGIN3,310.037.432
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:45
+RECIPIENT:EDWARD_SOMERSET:MALE:_:_:_
+LETTER:ORIGIN3_037:E3:1645:AUTOGRAPH:OTHER
+Glamorgan I am glad to hear that you are gone to Irland ,
+ORIGIN3,310.037.433
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:45
+RECIPIENT:EDWARD_SOMERSET:MALE:_:_:_
+LETTER:ORIGIN3_037:E3:1645:AUTOGRAPH:OTHER
+and asseure you that as my selfe is nowais disheartned by <P_311> our
+late misfortune , so nether this Country ; ORIGIN3,311.037.434
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:45
+RECIPIENT:EDWARD_SOMERSET:MALE:_:_:_
+LETTER:ORIGIN3_037:E3:1645:AUTOGRAPH:OTHER
+for I could not have expected more from them then they have now freely
+undertaken , though I had come hither absolute victorius ; which makes
+me hope well of the neighbouring Sheeres ; so that <paren> by the grace
+of God </paren> I hope shortly to recover my late losse , with
+advantage , if such succours come to me from that Kingdome which I have
+reason to expect : ORIGIN3,311.037.435
+
+AUTHOR:CHARLES_STUART_I:MALE:_:1600:45
+RECIPIENT:EDWARD_SOMERSET:MALE:_:_:_
+LETTER:ORIGIN3_037:E3:1645:AUTOGRAPH:OTHER
+but the circumstance of tyme is that of the greatest consequence ,
+being that which now is cheefliest and earnestliest recommended to you
+by Your most asseured , reall , constant frend Charles R.
+ORIGIN3,311.037.436
+
+<Q_OR3_A_1645_FO_CHARLES1> <L_ORIGIN3_038> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_UNCLE> <A-DOB_1600> <R_PRINCE_MAURICE>
+<R-GENDER_MALE> <R-REL_NEPHEW> <R-DOB_1621>
+
+<P_317>
+
+{ED:LETTER_CCCLXX._KING_CHARLES_TO_PRINCE_MAURICE.}
+
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:45
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:24
+LETTER:ORIGIN3_038:E3:1645:AUTOGRAPH:FAMILY_OTHER
+Newtoune ORIGIN3,317.038.437
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:45
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:24
+LETTER:ORIGIN3_038:E3:1645:AUTOGRAPH:FAMILY_OTHER
+Sep. 1645 . ORIGIN3,317.038.438
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:45
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:24
+LETTER:ORIGIN3_038:E3:1645:AUTOGRAPH:FAMILY_OTHER
+Nepueu What through want of tyme , or unwillingness , to speake to you
+of so unpleasing a subject , I have not yet <paren> which now I must
+supply </paren> spoken to you freely of your brother Ruperts present
+condition . ORIGIN3,317.038.439
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:45
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:24
+LETTER:ORIGIN3_038:E3:1645:AUTOGRAPH:FAMILY_OTHER
+The treuth is , that his unhansom quitting the Castell and Forte of
+Bristol , hath inforced me to put him off those Commands which he had
+in my Armys , ORIGIN3,317.038.440
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:45
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:24
+LETTER:ORIGIN3_038:E3:1645:AUTOGRAPH:FAMILY_OTHER
+and have sent him a Passe to goe beyond Sease ; ORIGIN3,317.038.441
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:45
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:24
+LETTER:ORIGIN3_038:E3:1645:AUTOGRAPH:FAMILY_OTHER
+now though I could doe no lesse than this , for which <paren> belive me
+</paren> I have too much reason upon strickt examination , yet I
+asseure you , that I am most confident that this great error of his
+<paren> which , indeed , hath given me more greefe then any misfortune
+since this damnable Rebellion </paren> hath no waise proceeded from his
+change of affection to me or my Cause ; but meerly by having his
+judgement seduced by some rottenharted villaines making faire
+pretentions to him ; ORIGIN3,317.038.442
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:45
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:24
+LETTER:ORIGIN3_038:E3:1645:AUTOGRAPH:FAMILY_OTHER
+and I am resolved so litle to forgett his former services , that ,
+whensoever it shall please God to enable me to looke upon my frends
+lyke a King , he shall thanke God for the paines he hath spent in my
+Armys . ORIGIN3,317.038.443
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:45
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:24
+LETTER:ORIGIN3_038:E3:1645:AUTOGRAPH:FAMILY_OTHER
+So <P_318> much for him ; ORIGIN3,318.038.444
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:45
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:24
+LETTER:ORIGIN3_038:E3:1645:AUTOGRAPH:FAMILY_OTHER
+now for yourselfe . ORIGIN3,318.038.445
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:45
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:24
+LETTER:ORIGIN3_038:E3:1645:AUTOGRAPH:FAMILY_OTHER
+I know you to be so free from his present misfortune , that it nowais
+staggars me in that good opinion which I have ever had of you ,
+ORIGIN3,318.038.446
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:45
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:24
+LETTER:ORIGIN3_038:E3:1645:AUTOGRAPH:FAMILY_OTHER
+and , so long as you shall not be weary of your Imploiments under me ,
+I will give You all the incouragement and contentment that lyes in my
+power ; ORIGIN3,318.038.447
+
+AUTHOR:CHARLES_STUART_I:MALE:UNCLE:1600:45
+RECIPIENT:PRINCE_MAURICE:MALE:NEPHEW:1621:24
+LETTER:ORIGIN3_038:E3:1645:AUTOGRAPH:FAMILY_OTHER
+however , you shall alwais fynd me Your loving oncle , and most
+asseured frend , Charles R. ORIGIN3,318.038.448
+
+<Q_OR3_A_1647_T_OCROMWELL> <L_ORIGIN3_039> <A_OLIVER_CROMWELL>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1599> <R_THOMAS_FAIRFAX>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1612>
+
+<P_318>
+
+{ED:LETTER_CCCLXXI._OLIVER_CROMWELL_TO_SIR_THOMAS_FAIRFAX.}
+
+
+<P_319>
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:48
+RECIPIENT:THOMAS_FAIRFAX:MALE:_:1612:35
+LETTER:ORIGIN3_039:E3:1647:AUTOGRAPH:OTHER
+Sir It hath pleased God to raise mee out of a dangerous sicknesse ;
+ORIGIN3,319.039.449
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:48
+RECIPIENT:THOMAS_FAIRFAX:MALE:_:1612:35
+LETTER:ORIGIN3_039:E3:1647:AUTOGRAPH:OTHER
+and I doe most willingly acknowledge that the Lord hath <paren> in this
+visitation </paren> exercised the bowells of a Father towards mee .
+ORIGIN3,319.039.450
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:48
+RECIPIENT:THOMAS_FAIRFAX:MALE:_:1612:35
+LETTER:ORIGIN3_039:E3:1647:AUTOGRAPH:OTHER
+I receaved in my selfe the sentence of death , that I might learne to
+trust in him that raiseth from the dead , ORIGIN3,319.039.451
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:48
+RECIPIENT:THOMAS_FAIRFAX:MALE:_:1612:35
+LETTER:ORIGIN3_039:E3:1647:AUTOGRAPH:OTHER
+and have noe confidence in the flesh . ORIGIN3,319.039.452
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:48
+RECIPIENT:THOMAS_FAIRFAX:MALE:_:1612:35
+LETTER:ORIGIN3_039:E3:1647:AUTOGRAPH:OTHER
+$It $'s {TEXT:Its} a blessed thinge to dye daylie ; ORIGIN3,319.039.453
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:48
+RECIPIENT:THOMAS_FAIRFAX:MALE:_:1612:35
+LETTER:ORIGIN3_039:E3:1647:AUTOGRAPH:OTHER
+for what is there in this world to be accounted off the best men
+according to the flesh ; ORIGIN3,319.039.454
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:48
+RECIPIENT:THOMAS_FAIRFAX:MALE:_:1612:35
+LETTER:ORIGIN3_039:E3:1647:AUTOGRAPH:OTHER
+and thinges are lighter than vanitye . ORIGIN3,319.039.455
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:48
+RECIPIENT:THOMAS_FAIRFAX:MALE:_:1612:35
+LETTER:ORIGIN3_039:E3:1647:AUTOGRAPH:OTHER
+I finde this only good ; to love the Lord , and his poore despised
+people ; to doe for them , and to bee readie to suffer with them ;
+ORIGIN3,319.039.456
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:48
+RECIPIENT:THOMAS_FAIRFAX:MALE:_:1612:35
+LETTER:ORIGIN3_039:E3:1647:AUTOGRAPH:OTHER
+and hee that is found worthy of this hath obteyned great favour from
+the Lord : ORIGIN3,319.039.457
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:48
+RECIPIENT:THOMAS_FAIRFAX:MALE:_:1612:35
+LETTER:ORIGIN3_039:E3:1647:AUTOGRAPH:OTHER
+and hee that is established in this , shall <paren> being conformed to
+Christ , and the rest of <P_320> the bodye </paren> participate in the
+Glory of a resurrection which will answare all . ORIGIN3,320.039.458
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:48
+RECIPIENT:THOMAS_FAIRFAX:MALE:_:1612:35
+LETTER:ORIGIN3_039:E3:1647:AUTOGRAPH:OTHER
+Sir , I must thankfully confesse your favor in your last Letter .
+ORIGIN3,320.039.459
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:48
+RECIPIENT:THOMAS_FAIRFAX:MALE:_:1612:35
+LETTER:ORIGIN3_039:E3:1647:AUTOGRAPH:OTHER
+I see I am not forgotten : ORIGIN3,320.039.460
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:48
+RECIPIENT:THOMAS_FAIRFAX:MALE:_:1612:35
+LETTER:ORIGIN3_039:E3:1647:AUTOGRAPH:OTHER
+and truly , to bee kept in your remembrance is very great satisfaction
+to mee ; ORIGIN3,320.039.461
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:48
+RECIPIENT:THOMAS_FAIRFAX:MALE:_:1612:35
+LETTER:ORIGIN3_039:E3:1647:AUTOGRAPH:OTHER
+for I can say in the simplicitye of my hart , I putt a high and true
+valew upon your love ; which when I forgett , I shall cease to bee a
+gratefull and an honest man . ORIGIN3,320.039.462
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:48
+RECIPIENT:THOMAS_FAIRFAX:MALE:_:1612:35
+LETTER:ORIGIN3_039:E3:1647:AUTOGRAPH:OTHER
+I most humblie begg my service may be presented to your Lady , to whom
+I wish all happinesse and establishment in the Truth .
+ORIGIN3,320.039.463
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:48
+RECIPIENT:THOMAS_FAIRFAX:MALE:_:1612:35
+LETTER:ORIGIN3_039:E3:1647:AUTOGRAPH:OTHER
+Sir , my prayers are for you , as becomes Your Excellencies most humble
+servant Oliver Cromwell . ORIGIN3,320.039.464
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:48
+RECIPIENT:THOMAS_FAIRFAX:MALE:_:1612:35
+LETTER:ORIGIN3_039:E3:1647:AUTOGRAPH:OTHER
+Sir , M=r= Rushworth will write to you about the quartering and the
+Letter lately sent you , ORIGIN3,320.039.465
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:48
+RECIPIENT:THOMAS_FAIRFAX:MALE:_:1612:35
+LETTER:ORIGIN3_039:E3:1647:AUTOGRAPH:OTHER
+and therefore I forbeare . ORIGIN3,320.039.466
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:48
+RECIPIENT:THOMAS_FAIRFAX:MALE:_:1612:35
+LETTER:ORIGIN3_039:E3:1647:AUTOGRAPH:OTHER
+March 7=th=. 1647 . ORIGIN3,320.039.467
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:48
+RECIPIENT:THOMAS_FAIRFAX:MALE:_:1612:35
+LETTER:ORIGIN3_039:E3:1647:AUTOGRAPH:OTHER
+For his Excellency Sir Tho. Fairfax Gen=l=. of the Parliaments Armies ,
+theise . ORIGIN3,320.039.468
+
+<Q_OR3_A_1648_FN_CHARLES1> <L_ORIGIN3_040> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_FATHER> <A-DOB_1600> <R_CHARLES_STUART_II>
+<R-GENDER_MALE> <R-REL_SON> <R-DOB_1630>
+
+<P_320>
+
+{ED:LETTER_CCCLXXII._KING_CHARLES_THE_FIRST_TO_PRINCE_CHARLES}
+
+
+AUTHOR:CHARLES_STUART_I:MALE:FATHER:1600:48
+RECIPIENT:CHARLES_STUART_II:MALE:SON:1630:18
+LETTER:ORIGIN3_040:E3:1648:AUTOGRAPH:FAMILY_NUCLEAR
+Teusday 1 Aug: 1648 ORIGIN3,320.040.469
+
+AUTHOR:CHARLES_STUART_I:MALE:FATHER:1600:48
+RECIPIENT:CHARLES_STUART_II:MALE:SON:1630:18
+LETTER:ORIGIN3_040:E3:1648:AUTOGRAPH:FAMILY_NUCLEAR
+Charles I had written to you sooner had I knowen <P_321> where you had
+been ; ORIGIN3,321.040.470
+
+AUTHOR:CHARLES_STUART_I:MALE:FATHER:1600:48
+RECIPIENT:CHARLES_STUART_II:MALE:SON:1630:18
+LETTER:ORIGIN3_040:E3:1648:AUTOGRAPH:FAMILY_NUCLEAR
+and particularly that express which , upon Saterday last , I directed
+to your brother I had sent to you , ORIGIN3,321.040.471
+
+AUTHOR:CHARLES_STUART_I:MALE:FATHER:1600:48
+RECIPIENT:CHARLES_STUART_II:MALE:SON:1630:18
+LETTER:ORIGIN3_040:E3:1648:AUTOGRAPH:FAMILY_NUCLEAR
+but I thought that {COM:CYPHER}_CODE_X ORIGIN3,321.040.472
+
+AUTHOR:CHARLES_STUART_I:MALE:FATHER:1600:48
+RECIPIENT:CHARLES_STUART_II:MALE:SON:1630:18
+LETTER:ORIGIN3_040:E3:1648:AUTOGRAPH:FAMILY_NUCLEAR
+I command you to doe nothing , whether it concerns War or Peace , but
+with the advice of your Councell ; and that you be constant to those
+grounds of Religion and Honor which heertofore I have given you .
+ORIGIN3,321.040.473
+
+AUTHOR:CHARLES_STUART_I:MALE:FATHER:1600:48
+RECIPIENT:CHARLES_STUART_II:MALE:SON:1630:18
+LETTER:ORIGIN3_040:E3:1648:AUTOGRAPH:FAMILY_NUCLEAR
+I suppose your not knowing how to send your Letters to me hath been the
+cause of your not writing since your comming out of Paris ;
+ORIGIN3,321.040.474
+
+AUTHOR:CHARLES_STUART_I:MALE:FATHER:1600:48
+RECIPIENT:CHARLES_STUART_II:MALE:SON:1630:18
+LETTER:ORIGIN3_040:E3:1648:AUTOGRAPH:FAMILY_NUCLEAR
+but now , indeed I shall take it unkindly if you doe not answer this ,
+and write my dyverse other Letters . ORIGIN3,321.040.475
+
+AUTHOR:CHARLES_STUART_I:MALE:FATHER:1600:48
+RECIPIENT:CHARLES_STUART_II:MALE:SON:1630:18
+LETTER:ORIGIN3_040:E3:1648:AUTOGRAPH:FAMILY_NUCLEAR
+God direct and prosper you in all your actions . ORIGIN3,321.040.476
+
+AUTHOR:CHARLES_STUART_I:MALE:FATHER:1600:48
+RECIPIENT:CHARLES_STUART_II:MALE:SON:1630:18
+LETTER:ORIGIN3_040:E3:1648:AUTOGRAPH:FAMILY_NUCLEAR
+Your loving Father Charles R. ORIGIN3,321.040.477
+
+AUTHOR:CHARLES_STUART_I:MALE:FATHER:1600:48
+RECIPIENT:CHARLES_STUART_II:MALE:SON:1630:18
+LETTER:ORIGIN3_040:E3:1648:AUTOGRAPH:FAMILY_NUCLEAR
+This Cypher which now I write in , is that which was sent you by the
+noble frend who conveis this Letter to you from me .
+ORIGIN3,321.040.478
+
+<Q_OR3_A_1648_FN_CHARLES1> <L_ORIGIN3_041> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_FATHER> <A-DOB_1600> <R_CHARLES_STUART_II>
+<R-GENDER_MALE> <R-REL_SON> <R-DOB_1630>
+
+<P_322>
+
+{ED:LETTER_CCCLXXIII._THE_KING_TO_PRINCE_CHARLES:PART_IN_CYPHER.}
+
+
+AUTHOR:CHARLES_STUART_I:MALE:FATHER:1600:48
+RECIPIENT:CHARLES_STUART_II:MALE:SON:1630:18
+LETTER:ORIGIN3_041:E3:1648:AUTOGRAPH:FAMILY_NUCLEAR
+Let none decypher this but your selfe , or my Lord Culpeper .
+ORIGIN3,322.041.479
+
+AUTHOR:CHARLES_STUART_I:MALE:FATHER:1600:48
+RECIPIENT:CHARLES_STUART_II:MALE:SON:1630:18
+LETTER:ORIGIN3_041:E3:1648:AUTOGRAPH:FAMILY_NUCLEAR
+Newport ORIGIN3,322.041.480
+
+AUTHOR:CHARLES_STUART_I:MALE:FATHER:1600:48
+RECIPIENT:CHARLES_STUART_II:MALE:SON:1630:18
+LETTER:ORIGIN3_041:E3:1648:AUTOGRAPH:FAMILY_NUCLEAR
+7 No: 1648 . ORIGIN3,322.041.481
+
+AUTHOR:CHARLES_STUART_I:MALE:FATHER:1600:48
+RECIPIENT:CHARLES_STUART_II:MALE:SON:1630:18
+LETTER:ORIGIN3_041:E3:1648:AUTOGRAPH:FAMILY_NUCLEAR
+Charles I have had so hopefull a reporte of your sickeness by D=r=.
+Fraiser , that I hope you will be fitt to read a Letter before that
+this can come to you ; ORIGIN3,322.041.482
+
+AUTHOR:CHARLES_STUART_I:MALE:FATHER:1600:48
+RECIPIENT:CHARLES_STUART_II:MALE:SON:1630:18
+LETTER:ORIGIN3_041:E3:1648:AUTOGRAPH:FAMILY_NUCLEAR
+and though now I will not troble you with long discourses , yet , I
+must desyre of you an account of the receipt of my former Letters , to
+witt fyve in October , besydes one yesterday ; in some of which I gave
+you an advice ORIGIN3,322.041.483
+
+{COM:CYPHER_OMITTED}
+
+AUTHOR:CHARLES_STUART_I:MALE:FATHER:1600:48
+RECIPIENT:CHARLES_STUART_II:MALE:SON:1630:18
+LETTER:ORIGIN3_041:E3:1648:AUTOGRAPH:FAMILY_NUCLEAR
+For other things I refer you to my former Letters , and to the
+obedience of your Mother 's commands . ORIGIN3,322.041.484
+
+AUTHOR:CHARLES_STUART_I:MALE:FATHER:1600:48
+RECIPIENT:CHARLES_STUART_II:MALE:SON:1630:18
+LETTER:ORIGIN3_041:E3:1648:AUTOGRAPH:FAMILY_NUCLEAR
+So God bless you , ORIGIN3,322.041.485
+
+AUTHOR:CHARLES_STUART_I:MALE:FATHER:1600:48
+RECIPIENT:CHARLES_STUART_II:MALE:SON:1630:18
+LETTER:ORIGIN3_041:E3:1648:AUTOGRAPH:FAMILY_NUCLEAR
+and send you perfect healthe and prosperity . ORIGIN3,322.041.486
+
+AUTHOR:CHARLES_STUART_I:MALE:FATHER:1600:48
+RECIPIENT:CHARLES_STUART_II:MALE:SON:1630:18
+LETTER:ORIGIN3_041:E3:1648:AUTOGRAPH:FAMILY_NUCLEAR
+Your loving father Charles R. ORIGIN3,322.041.487
+
+<Q_OR3_A_1665_T_CHARLES2> <L_ORIGIN3_042> <A_CHARLES_STUART_II>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1630> <R_EDWARD_MONTAGUE>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1625>
+
+<P_327>
+
+{ED:LETTER_KING_CHARLES_TH.ECOND_TO_THE_EARL_OF_SANDWICH.}_C
+ODE
+
+<P_328>
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:35
+RECIPIENT:EDWARD_MONTAGUE:MALE:_:1625:40
+LETTER:ORIGIN3_042:E3:1665:AUTOGRAPH:OTHER
+Whitehall ORIGIN3,328.042.488
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:35
+RECIPIENT:EDWARD_MONTAGUE:MALE:_:1625:40
+LETTER:ORIGIN3_042:E3:1665:AUTOGRAPH:OTHER
+9=th= June 1665 . ORIGIN3,328.042.489
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:35
+RECIPIENT:EDWARD_MONTAGUE:MALE:_:1625:40
+LETTER:ORIGIN3_042:E3:1665:AUTOGRAPH:OTHER
+My Lord Sandwich , Though you have already done me very eminent service
+, yet the great part you have had in this happy Victory which it hath
+pleased God to send us , adds very much to the former obligations I
+have to you . ORIGIN3,328.042.490
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:35
+RECIPIENT:EDWARD_MONTAGUE:MALE:_:1625:40
+LETTER:ORIGIN3_042:E3:1665:AUTOGRAPH:OTHER
+I send this bearer my Lord Hawly on purpose to lett you know more
+particularly my sence of it , ORIGIN3,328.042.491
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:35
+RECIPIENT:EDWARD_MONTAGUE:MALE:_:1625:40
+LETTER:ORIGIN3_042:E3:1665:AUTOGRAPH:OTHER
+and will say no more my selfe till I see you , that I may take you in
+my armes , and give you other testimonies how truely I am Your
+affectionat frinde Charles R. ORIGIN3,328.042.492
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:35
+RECIPIENT:EDWARD_MONTAGUE:MALE:_:1625:40
+LETTER:ORIGIN3_042:E3:1665:AUTOGRAPH:OTHER
+For the Earle of Sandwich . ORIGIN3,328.042.493

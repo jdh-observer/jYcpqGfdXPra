@@ -1,0 +1,542 @@
+<B_HENRY8>
+
+<Q_HE8_A_1528_FN_HENRY8> <L_HENRY8_001> <A_HENRY_TUDOR_VIII>
+<A-GENDER_MALE> <A-REL_HUSBAND> <A-DOB_1491> <R_ANNE_BOLEYN>
+<R-GENDER_FEMALE> <R-REL_WIFE> <R-DOB_1501?>
+
+<P_112>
+
+{ED:BRIEF_8}
+
+{COM:TO_ANNE_BOLEYN}
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_001:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+Derlyng , $thes shal be wonly to advertyce yow that thys berer and hys
+felow be dyspecyd with as meny thynges to compasse oure mater and to
+bryng it to pas as oure wyttes colde inmagyn or device . Whyche browght
+to pas , as I trust by theyre dylygence it shall be schortly , yow and
+I shall have oure desyryd ende , whyche shulde bee more to my hartes
+ease and more quiettnes to my $mynd than any other thyng in thys worlde
+, as with god grace shortly I trust shal be provyd , but nott so soon
+{ED:soon_SUPERIOR_INSERT} as I wolde it wer . HENRY8,112.001.1
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_001:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+Yet I wyll ensure yow , ther shal $be no tyme lost that may be wonne ,
+HENRY8,112.001.2
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_001:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+$and forther $can $not {TEXT:cannott} be donne . HENRY8,112.001.3
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_001:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+For vltra $posse non est esse . HENRY8,112.001.4
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_001:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+Kepe hym nott to long with yow HENRY8,112.001.5
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_001:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+but desyre hym for your sake to make the more spede . HENRY8,112.001.6
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_001:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+For the sonner we shall have worde frome $hym , the sonner shall oure
+mater comme to pase . HENRY8,112.001.7
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_001:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+And thus opon trust off $your short repaire to London I make an ende
+off my letter , myne awne swettehart . HENRY8,112.001.8
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_001:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+Wryttyn with the hand off hym whyche desyryth as muche to be yours as
+yow do to have hym - H Rx HENRY8,112.001.9
+
+<Q_HE8_A_1528_FN_HENRY8> <L_HENRY8_002> <A_HENRY_TUDOR_VIII>
+<A-GENDER_MALE> <A-REL_HUSBAND> <A-DOB_1491> <R_ANNE_BOLEYN>
+<R-GENDER_FEMALE> <R-REL_WIFE> <R-DOB_1501?>
+
+<P_124>
+
+{ED:BRIEF_11}
+
+{COM:TO_ANNE_BOLEYN}
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_002:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+Syns yors last letters , myne awne derlyng , $Water Welche , Master
+Browne , Jhon $Care , Yrion off Brearton , Jhon Coke the potecary be
+fallen off the swett in thys howse , and $thankyd be god all well
+recoveryd . So that as yet the plage is nott fully ceasyd here ,
+HENRY8,124.002.10
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_002:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+but I trust shortly it shall by hys marcy off god
+{ED:off_god_SUPERIOR_INSERT} . HENRY8,124.002.11
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_002:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+The rest off vs yet be well HENRY8,124.002.12
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_002:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+and I trust shall passe it , $other nott to have it , or att the lest
+as easly as the rest have don . HENRY8,124.002.13
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_002:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+As tochyng the mater off Wylton , my lord cardinall hathe had the
+nunnys byfore hym and examynyd them , Master Bell beyng present ; wyche
+hath certefied me that , for a trawght , that she hath confessyd
+herself <paren> whyche we wollde haue had abbesse
+{ED:abbesse_SUPERIOR_INSERT} </paren> to have hadde to chyldren by tow
+sondery $prestes and further sins hath bene keppyd by a servant off the
+Lord Broke that was , and that nott long agoo . Wherfore I wolde nott
+for all the golde in the worlde $clooke your consience nor myne to make
+her ruler off a howse whyche is off so vngudly demenour .
+HENRY8,124.002.14
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_002:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+Nor I trust , yow wolde nott that nother-1 for brother nor syster I
+shulde so dystayne myne honour or consience . HENRY8,124.002.15
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_002:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+And as tochyng the prioresse , or dame Ellenors eldest
+{ED:eldest_SUPERIOR_INSERT} sister , thowght ther is nott any evident
+case provyd agaynst them and that the priores is so olde that off meny
+yeres she colde nott be as she was namyd , yet nottwithstandyng , to do
+yow pleasure , I have donne that nother off them shall have itt , but
+that summe other , good and well disposyd woman shall have it ; werby
+the {ED:hose_CROSSED_OUT} howse shall be the better reformyd , wheroff
+I ensure yow it had moche ned , and god muche the better servyd .
+HENRY8,124.002.16
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_002:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+As tochyng your abode att Hever , do therin as best shall lyk yow ,
+HENRY8,124.002.17
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_002:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+for yow know best what ayre dothe best with {ED:with_SUPERIOR_INSERT}
+yow . HENRY8,124.002.18
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_002:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+But I wolde it wer comme thereto <paren> yff it pleasyd god </paren>
+that nother off vs nede care for that , HENRY8,124.002.19
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_002:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+for I ensure yow I thynke it longe . HENRY8,124.002.20
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_002:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+Suche is fallen syk off the swett , HENRY8,124.002.21
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_002:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+and therfor I send yow thys berar , bycause I thynke yow longe to her
+tydyng fromme vs as we do in lyke wyse fromme yow . HENRY8,124.002.22
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_002:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+Writtyn with the hand de vostre seulle - HENRY8,124.002.23
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_002:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+H Rx HENRY8,124.002.24
+
+<Q_HE8_A_1528_FN_HENRY8> <L_HENRY8_003> <A_HENRY_TUDOR_VIII>
+<A-GENDER_MALE> <A-REL_HUSBAND> <A-DOB_1491> <R_ANNE_BOLEYN>
+<R-GENDER_FEMALE> <R-REL_WIFE> <R-DOB_1501?>
+
+<P_128>
+
+{ED:BRIEF_12}
+
+{COM:TO_ANNE_BOLEYN}
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_003:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+The cause off my wrytyng at thys tyme , good swetthart , is wonly to
+vnderstand off your good helthe and prosperite , weroff to know I wolde
+be as glade as in manere myne Awne , prayng god <paren> that and it be
+hys pleasure </paren> to send vs shortly togyder . HENRY8,128.003.25
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_003:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+For I promes yow , I longe for it , howbeit trust it shall nott be long
+to . HENRY8,128.003.26
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_003:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+And seyng my darlyng is absent , I can no les do then to sende her
+summe flesche representyng my name , whyche is hart flesche for Henry ;
+pronosticatyng that herafter god wyllyng yow must inyoye summe off myne
+, whyche , he pleasyd , I wolde wer now . HENRY8,128.003.27
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_003:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+As tochyng your syster mater , I have causyd Water Welshe to wrytte to
+my lord myne mynde therin , wherby I trust that Eve shall nott have
+poure to dyssayve Adam . HENRY8,128.003.28
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_003:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+For surly whatsoever is sayde {ED:is_sayde_SUPERIOR_INSERT} , it $can
+$not {TEXT:cannott} so stand with hys honour but that he must nedes
+take her , hys naturall dawghter , now in her extreme
+{ED:nesse_CROSSED_OUT} necessite . HENRY8,128.003.29
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_003:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+No more to yow att thys tyme , myne awne darlyng , but that with a
+wysche , I wolde we wer togyder an evennyng . HENRY8,128.003.30
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_003:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+With the hande off yours - HENRY8,128.003.31
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_003:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+H Rx HENRY8,128.003.32
+
+<Q_HE8_A_1528_FN_HENRY8> <L_HENRY8_004> <A_HENRY_TUDOR_VIII>
+<A-GENDER_MALE> <A-REL_HUSBAND> <A-DOB_1491> <R_ANNE_BOLEYN>
+<R-GENDER_FEMALE> <R-REL_WIFE> <R-DOB_1501?>
+
+<P_132>
+
+{ED:BRIEF_13}
+
+{COM:TO_ANNE_BOLEYN}
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_004:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+Darlyng , I hartely recommande me {ED:me_SUPERIOR_INSERT} to yow ,
+assertayneyng yow that I am nott a lytyll perplexte with
+{ED:shu_CROSSED_OUT} suche $thynges as your brother shall on my part
+declare vnto yow , to home I pray yow gyffe full credence ,
+HENRY8,132.004.33
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_004:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+for it wer to long to wryte . HENRY8,132.004.34
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_004:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+In my last letters i $wrotte to yow that I trustyd shortly to se yow ,
+whyche is better knowne att London than with any that is abowght me ,
+weroff I nott a lytyll mervell . HENRY8,132.004.35
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_004:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+But lake off dyscrette handelyng must nedes be the cause theroff .
+HENRY8,132.004.36
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_004:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+No more to yow att thys tyme , but that I trust shortly ours metynges
+shall nott depende vppon other menys lyght handyllynges but vppon your
+Awne . HENRY8,132.004.37
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_004:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+Wryttyn with the hand off hym that longyth to be yours - H Rx
+HENRY8,132.004.38
+
+<Q_HE8_A_1528_FN_HENRY8> <L_HENRY8_005> <A_HENRY_TUDOR_VIII>
+<A-GENDER_MALE> <A-REL_HUSBAND> <A-DOB_1491> <R_ANNE_BOLEYN>
+<R-GENDER_FEMALE> <R-REL_WIFE> <R-DOB_1501?>
+
+<P_136>
+
+{ED:BRIEF_14}
+
+{COM:TO_ANNE_BOLEYN}
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_005:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+Myne Awne swethhart , thes shall be to advertes yow off the grette
+elengenes that I fynde her syns your departyng . HENRY8,136.005.39
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_005:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+For I ensure yow , me thynkyth the tyme lenger syns your departyng now
+last then I was wonte to do a hole fortnyght . HENRY8,136.005.40
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_005:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+I thynke your kyndnes and my fervenncs off love causyth it .
+HENRY8,136.005.41
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_005:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+For otherwyse I wolde not have thowght it possyble that for so littyll
+a wyle it shulde have grevyd me . HENRY8,136.005.42
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_005:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+But now that I am comyng {ED:th_CROSSED_OUT} toward yow , me thynkyth
+my painnys bene halfe relesyd , HENRY8,136.005.43
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_005:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+and allso I am ryght well comfortyd in so muche that my bok makyth
+substancially for my matter , in lokyng wheroff I have spente above
+IIII ours thys day , whyche causyd me now to wrytte the schortter
+letter to yow at thys tyme bycause off summe payne in my hed ;
+HENRY8,136.005.44
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_005:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+wyschyng myselfe <paren> specially an evenyng </paren> in my swethart
+harmys , whose prety dukkys I trust shortly to cusse .
+HENRY8,136.005.45
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_005:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+Wryttyn with the hand off hym that was , is , and shal be yours by hys
+wyll - H Rx HENRY8,136.005.46
+
+<Q_HE8_A_1528_FN_HENRY8> <L_HENRY8_006> <A_HENRY_TUDOR_VIII>
+<A-GENDER_MALE> <A-REL_HUSBAND> <A-DOB_1491> <R_ANNE_BOLEYN>
+<R-GENDER_FEMALE> <R-REL_WIFE> <R-DOB_1501?>
+
+<P_140>
+
+{ED:BRIEF_15}
+
+{COM:TO_ANNE_BOLEYN}
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_006:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+Darling , thowght I have skant laysor , yet remembryng my promes , I
+$thowghte it {ED:go_CROSSED_OUT} convenyent to certefy yow brevely in
+what case oure affaires stande . HENRY8,140.006.47
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_006:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+As tochyng a loggyng for yow , we have gotten won by my lord cardinall
+menys , the lyke weroff colde nott have bene fond her abowght for all
+causys , as thys berar shall more shew yow . HENRY8,140.006.48
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_006:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+As tochyng oure other affayres , I enswre yow ther can be no more donne
+, nor more diligence vsyd , nor all maner off dangers better bothe
+forsene and providyd for , so thatt I trust it shall be heraffter to
+bothe our comfort , the specialltes weroff wer bothe to long to be
+wryttyn and hardly by messenger to be $declaryd ; wherfore tyll your
+repayre hyder I kepe sumthynge in store , $trustyng it shall nott be
+long to , HENRY8,140.006.49
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_006:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+for I have causyd my lord your fader to make hys provisions with spede
+. HENRY8,140.006.50
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_006:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+And thus for lake off tyme , derlyng , I make an ende off my letter .
+HENRY8,140.006.51
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_006:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+Wryttyn with the hand off hym whyche I wolde wer yours - H Rx
+HENRY8,140.006.52
+
+<Q_HE8_A_1528_FN_HENRY8> <L_HENRY8_007> <A_HENRY_TUDOR_VIII>
+<A-GENDER_MALE> <A-REL_HUSBAND> <A-DOB_1491> <R_ANNE_BOLEYN>
+<R-GENDER_FEMALE> <R-REL_WIFE> <R-DOB_1501?>
+
+<P_144>
+
+{ED:BRIEF_16}
+
+{COM:TO_ANNE_BOLEYN}
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_007:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+The resonable request off your last $lettres , with the pleasur also
+that I take to know them trw , causyth me to send yow now thes news :
+HENRY8,144.007.53
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_007:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+The legate whyche we most desyre aryvyd att Parys on Sunday or Munday
+last past , so that I trust by the next Munday to here off hys aryvall
+att Cales . HENRY8,144.007.54
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_007:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+And then I trust within a wyle after to enyoy that whyche I have so
+long longyd for to god pleasur and oure bothe comfort .
+HENRY8,144.007.55
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_007:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+No more to yow at thys present , myne awne darlyng , for lake off tyme
+, but that I wolde yow were in myne armes or I in yours ,
+HENRY8,144.007.56
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_007:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+for I thynk it long , syns I kyst yow . HENRY8,144.007.57
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_007:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+Writtyn affter the kyllyng off an hart att a XI off the kloke , myndyng
+with god grace tomorow mytely tymely to kyll Another . By the hand off
+hym , whyche I trust shortly shall be yours - Henry Rx
+HENRY8,144.007.58
+
+<Q_HE8_A_1528_FN_HENRY8> <L_HENRY8_008> <A_HENRY_TUDOR_VIII>
+<A-GENDER_MALE> <A-REL_HUSBAND> <A-DOB_1491> <R_ANNE_BOLEYN>
+<R-GENDER_FEMALE> <R-REL_WIFE> <R-DOB_1501?>
+
+<P_148>
+
+{ED:BRIEF_17}
+
+{COM:TO_ANNE_BOLEYN}
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_008:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+To informe yow what joy it is to me to vnderstand off your
+conformabylnes to reson , and off the subpressyng off your invtille and
+vayne $thowghtys and fantesys with the brydell off reson , I ensure yow
+all the good in thys worlde colde nott conterpasse for my satysfaction
+the knowlege and certente theroff . Wherfore , good swetthart , contynw
+the same ; nott wonly in thys but in all your doynges heraffter ,
+HENRY8,148.008.59
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_008:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+for therby shall comme bothe-1 to yow and me the grettest
+{ED:yoi_CROSSED_OUT} quiettnes that may be in thys world .
+HENRY8,148.008.60
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_008:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+The cause why thys berar taryth so long is the bysynes that I have
+hadde to dres vpp ger for yow , whyche I trust or longe to
+{TEXT:to_repeated} se yow occupy . HENRY8,148.008.61
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_008:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+And then I trust to occupy yours , whyche shal be recompence inowght to
+me for all my pains and labors . HENRY8,148.008.62
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_008:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+The vnfaynyd {ED:vnfaynyd_SUPERIOR_INSERT} siknes off thys well wyllyng
+legate dothe sumwhat retard hys accesse to your presence .
+HENRY8,148.008.63
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_008:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+But I trust verely , when god shall $sende hym helthe , he wyll with
+dilygence recompence hys demowre . HENRY8,148.008.64
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_008:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+For I know well {ED:well_SUPERIOR_INSERT} , $were he hath sayd <paren>
+lamentynt the sayng and brute {ED:the_sayng_and_brute_SUPERIOR_INSERT}
+that he shulde be imperyall </paren> that it shulde be
+{ED:be_SUPERIOR_INSERT} well knowne in thys mater that he is nott
+imperiall . HENRY8,148.008.65
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_008:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+And thus for lake off tyme , swetthart , farwell . HENRY8,148.008.66
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_008:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+Wryttyn with the hand whyche fayne wolde be yours HENRY8,148.008.67
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_008:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+and so is the hart - HENRY8,148.008.68
+
+AUTHOR:HENRY_TUDOR_VIII:MALE:HUSBAND:1491:37
+RECIPIENT:ANNE_BOLEYN:FEMALE:WIFE:1501?:27?
+LETTER:HENRY8_008:E1:1528:AUTOGRAPH:FAMILY_NUCLEAR
+H Rx HENRY8,148.008.69

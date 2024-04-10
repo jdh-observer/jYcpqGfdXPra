@@ -1,0 +1,2443 @@
+<B_FITZHER>
+
+<Q_FIT_A_1608_T_TFITZHERBE> <L_FITZHER_001> <A_THOMAS_FITZHERBERT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1552> <R_GEORGE_BIRKHEAD>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1549>
+
+<P_4>
+
+{ED:I._[FITZHERBERT]_TO_CHAMBERLANE_[BIRKHEAD],_18_MAY_1608. }
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+Right Reverend Syr . I have receaved your letter of the 14 of March ,
+FITZHER,4.001.1
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+and rest much comforted to see your good resolution and courage in gods
+cause , which I hope his devyne majesty will encrease in you , with
+good successe to your endevours , to repayre the late wracks that his
+cause hath susteyned by the weaknes of your predecessour .
+FITZHER,4.001.2
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+I have read the copy of your letter FITZHER,4.001.3
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+and lyke it singularly well . FITZHER,4.001.4
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+only I wold wish you hereafter <paren> whether you wryte to the same
+party or any other of lyke quality </paren> to be as breef as the <P_5>
+matter will geve you leave , and thys especially yf you wryte to Paul ,
+FITZHER,5.001.5
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+for other ways your letters may be remitted to others to be read and
+related , and not read by the parties theym selves , which wold hinder
+the good effectes that otherways may be expected ; FITZHER,5.001.6
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+and of thys we have so much experience here , that I think yt important
+to be known and considered of you . FITZHER,5.001.7
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+The party to whom you wrote your latin letter ys alreddy departed hence
+for all thys sommer , FITZHER,5.001.8
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+and therefore hereafter your letters must be to others , especially to
+him , whose place he supplyed <paren> who is now here himself </paren>
+or to some such as he shall appoynt ; whereof you $shall $be
+{TEXT:shalbe} advertised hereafter ; FITZHER,5.001.9
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+for he will no dout appoynt some to supply for him when he goeth hence
+which I think he will do ere thys sommer passe . FITZHER,5.001.10
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+In the meane tyme you may do well to send your letters without
+superscription , which may be added here according to the party that
+shall occupy the place ; FITZHER,5.001.11
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+for the matter and style may always serve indifferently for any of that
+quality as you know . FITZHER,5.001.12
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+having understood that your old and best patron hath conceyved somewhat
+hardly of f. p. for not delivering certayn letters of hys sent some
+yeres agoe or thereabout to P. I can do no <P_6> lesse then testify
+unto you , what I know thereof which I wold <P_7> wryte to your patron
+him selfe , yf I were as well knowen unto him , as I was to hys
+grandfather , to whom both I and my father and uncle were exceedingly
+bound for hys great favour and affection in which respect and dyvers
+others needles to relate I have ever greatly honored your patron and
+cordially loved him . FITZHER,6.001.13
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+The truth ys that f. p. receaving the foresayd letters , and
+considering the danger of those tymes , and dyvers other inconveniences
+concurring consulted with some few confident frendes <paren> of whom my
+self was one </paren> whether it were more convenient to deliver the
+letters theym selves , or to suggest and represent the effect thereof ,
+to the party to whom they were written , and the same to be done in
+your patrons name , and as by particular commission from him ,
+FITZHER,6.001.14
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+and it seeming to us that the latter wold be the most secure and safe
+way for your patron <paren> in respect of some examples we had before
+seene of important matters published by the negligence of such as had
+the keeping of letters and papers of that quality </paren> we presumed
+so farre of your patrons allowance , <paren> pretending nothing on our
+parts , but his satisfaction and security and gods glory and service
+</paren> that we resolved to open the letters and to represent the
+contents in hys name , which I assure you was done effectually and with
+as ample a relation of your patrons great worth and merits , as he him
+self could have wished , though the party to whom the same was
+suggested , was at that tyme so exceedingly troubled and alienated from
+hearing of those or any other of our affayres by the accidents which
+then hapned , to your patron him self as well as to dyvers others , as
+you know , that the resolution thereof could not be prosecuted , and
+much lesse procured , FITZHER,6.001.15
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+and so the matter being , as fully and sufficiently intimated as could
+be wished , was let fall perforce ; FITZHER,6.001.16
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+and one reason amongst others , which moved us at that tyme rather to
+deliver the effect of the letters then the letters theym selves was the
+great length of theym , whereby we assured our selves that the party
+wold not read theym , but remit theym to be related to him by others ,
+who wold not perhaps do it so effectually , as we desyred .
+FITZHER,6.001.17
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+And this ys the truth FITZHER,6.001.18
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+and if your patron conceave other ways he ys much deceaved ,
+FITZHER,6.001.19
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+and doth great wrong to us hys servants here , and especially to f. p.
+in whom I have ever seene so much love and affection towards him , and
+such endevour in all oportunityes to advance hys favour and reputation
+, that I must needs say he deserveth a farre better construction of hys
+action herein , then as I understand , your patron maketh .
+FITZHER,6.001.20
+
+<P_8>
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+for God ys our witnes <paren> I may boldly say it for my self no leses
+then for the rest that delt in that matter </paren> we had no other
+desynment or meaning in the world , then gods service with your patrons
+better satisfaction , though it may be we presumed too farre of the
+confidence we thought he reposed in us and consequently of hys
+appreciation of what we should think most fit to be donne , the
+condition of this place , that tyme and the matter it self , being
+considered ; FITZHER,8.001.21
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+howsoever it ys , yf your patron take it not well , I may boldly say ,
+and so protest unto you that I think , that there was never matter
+better meant on our parts , nor more mistaken by him or any other ,
+FITZHER,8.001.22
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+and to thys effect I wold have written unto him my self , yf he had
+once knowen me , or that I had thought he wold have taken it for
+presumption in me , being unacquaynted with him ; FITZHER,8.001.23
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+and therefore I have thought good to signify thus much to you , and to
+remit it to your wisdom , to impart it to him , as farre as you shall
+think convenient , with most humble and affectionat offer of my service
+. FITZHER,8.001.24
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+and so thys being for no other at thys tyme I take my leave
+recommending you to gods holly protection . FITZHER,8.001.25
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+from my old residence the 18 of May Yours as my owne T. Swinnerton .
+FITZHER,8.001.26
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+If you impart thys to your patron I should be very glad to heare from
+you how he resteth satisfied . FITZHER,8.001.27
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_001:E2:1608:AUTOGRAPH:OTHER
+{ED:ADDRESSED} To Mr Chamberlane G. B. A . FITZHER,8.001.28
+
+<Q_FIT_A_1608_T_TFITZHERBE> <L_FITZHER_002> <A_THOMAS_FITZHERBERT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1552> <R_GEORGE_BIRKHEAD>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1549>
+
+<P_13>
+
+{ED:III._FITZHERBERT_TO_BIRKHEAD,_13_JUNE_1608.}
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+Right Reverend , I have received yours of the 24 of Aprill with the
+enclosed for C. Buff . who is still out of the towne , and will be all
+this sommer , FITZHER,13.002.29
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+and therefore I must send him always such things as come from you for
+him , as I did your former , which he hath very gratfully received ,
+and ys exceeding glad of your good proceedings , as he hath signified .
+FITZHER,13.002.30
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+I am very sorry to see that you have so little assistance , as may
+appeare , by your letters and coppyes , written all with your owne hand
+, wherein you must needs seeke some helpe to ease you of your burden .
+FITZHER,13.002.31
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+I do lyke notably well the coppy of your admonition , which can not be
+ill taken of any that hath the spirit of unity , and obedience to the
+supreme pastor , seeing it ys evident that you have donne no more
+therein then he hath expressly commanded and ordayned .
+FITZHER,13.002.32
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+The facultyes which you requyre , $shall $be {TEXT:shalbe} procured
+with all possible speede , FITZHER,13.002.33
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+and had benne ere this , but that the protector went out of towne upon
+sundayes , for some dayes , and ys not yet returned ; FITZHER,13.002.34
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+he ys wont to make greate difficulty in cases of subdelegation ,
+douting how farre his power extendeth there in , FITZHER,13.002.35
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+and therefore I thinke we must have recourse to the hyghest , where of
+you shall heare more at my next oportunity . FITZHER,13.002.36
+
+<P_14>
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+Whereas you signify the greate desyre of many to have byshops , and
+have also written about it to C. Buffalo , I do assure you , there hath
+benne as much donne in that matter as hath benne possible ,
+FITZHER,14.002.37
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+for besydes the former endevours of F. Parsons some yeres agoe in pope
+Clements tyme , <paren> when the Archpriest was first made </paren>
+there was a new onset geven of late by Mr Sweete , upon his returne
+from England , with the consent and furderance of fa: Parsons , and all
+his frends here , FITZHER,14.002.38
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+and the matter I assure you , was solicited effectually with all the
+Cardinals of the inquisition , to whome it was referred ,
+FITZHER,14.002.39
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+and yet notwithstanding , in conclusion his hollynes , and they
+resolved to differre for the present the making of bishops , and to
+make a new Archpriest upon the fall of the other , which came to be
+understood heere whyle that matter of byshops was prosecuted ,
+FITZHER,14.002.40
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+And yet nevertheles I have <P_15> not understood that his hollynes hath
+rejected , or that he dislyketh that mocion , but that he only
+differreth it for some tyme , <P_16> fearing that yt would exasperat
+much more , then the course he hath taken , FITZHER,15.002.41
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+neyther have all the reasons geven to the contrary suffyced to alter
+his opinion FITZHER,15.002.42
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+and therefore I assure you we have pacience perforce ,
+FITZHER,15.002.43
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+for we can not force his will , FITZHER,15.002.44
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+neyther were it convenient that we shuld doe it , though we could ,
+seeing we are to presume that he hath more assistance from above , then
+we canne attribut to ourselves . FITZHER,15.002.45
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+Nevertheles upon your new mocion I have consulted the matter with fa:
+Pars. FITZHER,15.002.46
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+and he persisting in his former opinion of the conveniency thereof ,
+and also in his desyre to procure all the satisfaction that may be to
+your brethren with you , hath promised his assistance to effect the
+same , FITZHER,15.002.47
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+and to that end we meane to try whether we can procure order from his
+hollynes to you , to take the opinions of your assistants , and your
+other brethren there concerning the persons that may be fit amongst
+them for that tytle , and charge , which we thinke to be the lykelyest
+way to geve satisfaction to all there with you , FITZHER,15.002.48
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+and we have the better hope to obtayne it , because his hollynes had
+alreddy taken such a resolution upon the former sute that was made here
+, before the Archpriests fall , FITZHER,15.002.49
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+and I take yt , that some such letter , was written to him though
+perhaps by reason of his apprehension and fall presently after , it
+could not be delivered , or at least have any effect , which I thinke
+did partly move his hollynes to ordayne a new Archpriest for the
+present , untill he might be furder satisfyed , concerning fit subjects
+amongst you for the Episcopal charge , hoping also that in the meane
+tyme the weather would grow more calme in England , and some such
+occasions happe , that yt might be donne with lesse danger of
+molestation of the Catholykes which ys that which his hollynes seemeth
+most to respect in this matter , Though yf I shall tell you my owne
+opinion <paren> which I <P_17> have alwayse signifyed when occasion
+hath requyred </paren> I hold it more convenient <paren> seeing it must
+needs be donne sooner , or later </paren> to doe it when the
+persecution ys at the worst , then in a calme , FITZHER,17.002.50
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+for yt ys evident ynough , that it woold rayse a greate persecution ,
+though there were none , which wold make the Catholykes , at least all
+the weaker sort , greatly mislyke the institution of byshops , where as
+now in the extremity , yt could make things no worse then they are
+alreddy , FITZHER,17.002.51
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+and therefore truly my opinion ys , <paren> as I have sayd </paren>
+that it were not a misse , to doe it at this present with a condicion ,
+nevertheles , which I once told to his hollynes , when it {TEXT:it}
+{ED:SIC} pleased him to aske me my opinion therein , that whosoever
+shuld be made bishops for england , shuld be bound to residence , I
+meane , to remayne within the country , though it cost him his life ,
+FITZHER,17.002.52
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+and of that mynd shall I be ever , feareing that otherwayse some
+ambitious humours may procure to have the dignity and after upon
+pretence of daungers <paren> which can never want during these tymes of
+heresy </paren> eyther goe up and doune other cuntreys begging , or
+become suffragans to other byshops abroad , of both of which poynts we
+have seen sufficient experience in the yrish byshops FITZHER,17.002.53
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+and may well feare the lyke in our cuntry , yf good order be not taken
+, FITZHER,17.002.54
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+and this consideration his hollynes seemed to me to well to lyke of ,
+which I am bold to signify unto you in confidence , Though whether he
+will put it in practyse , I know not , FITZHER,17.002.55
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+for the truth ys that in these things concerning our ecclesiasticall
+affayres , he will not stand eyther to his owne opinion , or to the
+conceyt of any privat man , but treateth and resolveth all things with
+the Cardinals of the inquisition , who use to sift matters to the
+bottome , and being many as they are , all very wyse , and of different
+humours , resolve , as it may $wel $be {TEXT:welbe} thought , without
+passion , or particular affection to any man or matter ,
+FITZHER,17.002.56
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+and so was the resolution lately taken to make a new Archpriest for the
+tyme , in that manner that {in}_P yt hath benne donne ,
+FITZHER,17.002.57
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+and therefore yf any goe about to contradict it , they are lyke to have
+a cold sute ; FITZHER,17.002.58
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+our lord have you in his holly protection , FITZHER,17.002.59
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+from my old residence the 13 of June . FITZHER,17.002.60
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_002:E2:1608:AUTOGRAPH:OTHER
+yours as my owne T. F . FITZHER,17.002.61
+
+<Q_FIT_A_1608_T_TFITZHERBE> <L_FITZHER_003> <A_THOMAS_FITZHERBERT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1552> <R_GEORGE_BIRKHEAD>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1549>
+
+<P_19>
+
+{ED:V._FITZHERBERT_TO_BIRKHEAD,_27_JULY_1608.}
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+I have receaved yours of the 6 of June with the enclosed one to Car.
+Buf. from your self , and one from D. Bavan to the protector , and
+another from D. Smith to hys holynes , FITZHER,19.003.62
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+and I hope that you have receaved synce you wrote yours , three of myne
+, one of the 24 of May or thereabouts , and one other of the 13 of June
+and the 3=d= of the 21 of the same , in which three letters I wrote
+amply unto you concerning the two poynts , wherein you ar so much
+pressed there , and you also urge in your letters , to wit concerning
+bishops , and two procurators to be sent hither from our clergy ;
+FITZHER,19.003.63
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+and I dout not but that some resolution $will $be {TEXT:wilbe} taken
+shortly in the first poynt FITZHER,19.003.64
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+for <paren> as I understand </paren> the same ys seriously handled in
+the inquisition ; FITZHER,19.003.65
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+and therefore I verily think that some thing will be sent you ere it be
+long from hence , to be debated and consulted there by you and our
+brethren ; in which respect I do not see that it ys to any purpose to
+urge the second poynt until the former be concluded ; FITZHER,19.003.66
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+for satisfaction being geven in the matter of bishops , the other poynt
+of agents of the clergy , will requyre other considerations ,
+FITZHER,19.003.67
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+and must be referred to the bishops them selves to determin , as well
+concerning the number of theyr agents , as theyr persons , which are
+not lyke to be alyke gratefull to every one of the bishops , who
+perhaps will chose every one hys owne agent ; FITZHER,19.003.68
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+and therefore in my opinion you may with great reason desyre those
+which urge these two poynts so much , to expect the resolution of the
+first <paren> seeing it ys promised with speed </paren> before they
+prosecut the latter , which in no sure and firme order can be taken now
+, yf the first be granted . FITZHER,19.003.69
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+Nevertheless , the proposition you make in theyr name for agents , both
+hath ben alreddy and $shall $be {TEXT:shalbe} furder intimated to hys
+hollynes , as well to satisfy your earnest desyres therein , as also
+<P_20> to the end hys hollynes may fully know the state of things there
+, <paren> as he desyreth </paren> FITZHER,20.003.70
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+and to that purpose I do take out the substance of your letter to me ,
+as also of that other to Card. Buffalo , according to the copy you send
+, FITZHER,20.003.71
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+and to-morrow , by gods grace , it $shall $be {TEXT:shalbe} presented
+to hys hollynes , FITZHER,20.003.72
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+and thys I will do the rather because Card. Buff. ys out of the towne ,
+and $will $be {TEXT:wilbe} until october at the soonest , and neyther
+can nor will , as he hath signifyed , furder deale in our affayres ,
+especially our protector being here , as he now ys , who also , when he
+goeth hence , ys lyke to constitut another representative , by reason
+as well as of the other good Cardinals great infirmity of the gout
+<paren> which almost wholly hindereth hys negotiation </paren> , as
+also by reason of hys long absence . FITZHER,20.003.73
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+And therefore , as I remember , I advysed you in my former letters ,
+that you shuld wryte no more to Card. Buffalo , but wryte your letters
+so indifferently to all of hys quality that I may here make the
+superscripsion eyther to the protector him self , yf he be here , or
+els to any other that shall supply hys place , FITZHER,20.003.74
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+and thys I wold wish you henceforth to observe , FITZHER,20.003.75
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+and so no labour nor tyme $will $be {TEXT:wilbe} lost , as there hath
+ben much losse of both by sending to Card. Buffalo in this his long
+absence . FITZHER,20.003.76
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+I am very glad to have seen the letter of my old and deare frend Mr d.
+Bavan , wherein he showeth great wisdome , vertu , and frendship to you
+; FITZHER,20.003.77
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+and truly I know no one man in our clergy upon whose opinion I wold
+sooner rely , then upon his , in any matters whatsoever , and
+particulerly in those poynts which he toucheth , FITZHER,20.003.78
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+and for the matter of bishops , we find here by many letters and
+relations from those parts , that he only ys not of the opinion which
+he signifyeth , but very many other wyse men , who have sent hither
+theyr reasons to the same purpose ; FITZHER,20.003.79
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+and therefore yf the matter be comitted to be debated amongst you there
+, I dout not , but you will fynd great diversity of opinions .
+FITZHER,20.003.80
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+I am sorry that doctor Smiths letter cometh sealed , and without any
+coppy , especially seeing that yourself knoweth not the contents ,
+FITZHER,20.003.81
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+for I make great dout how yt shall be delivered , by reason that the
+secretaries are wont to make great difficulty to deliver private mens
+letters to his hollynes except they know the contents ;
+FITZHER,20.003.82
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+and to deliver yt with my owne hands to hys hollyness , not knowing
+what yt conteyneth , I wold be loth , though yt were for my owne
+brother ; FITZHER,20.003.83
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+Nevertheless for thys once I will see what may be donne to deliver yt
+by some secretary ; FITZHER,20.003.84
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+but I pray you hereafter to send no mans letter to me especially for
+his hollines except such as you at least have seen , and will answere
+<P_21> for the contents , whereby you shall also prevent great
+inconveniences , to wit not to send litteras Bellerophontis ; I mean
+letters to your owne prejudice , which you may otherways haply do
+sometymes , as men ar humored in these dayes , though I hope no such
+dout can justly be made of d. Smith , in respect of the frendship which
+yt seemeth ys betwixt you . FITZHER,21.003.85
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+Though I have written amply unto you concerning the earnest mocion made
+unto you about agents for the seculer priests , yet because you think
+it very necessary as you signify , for the making of peace and unity ,
+I would wish you to consider who and how many they are that so much
+urge the same , FITZHER,21.003.86
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+for yf they be only of the appellants as I take them to be , and that
+they will have those agents chosen out of theyr number , as by all
+lykelyhood they wold , there will follow two great inconveniences ,
+FITZHER,21.003.87
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+the one ys , that you shall greatly autoryse and strengthen theyr
+faction to your owne prejudice , seeing you shall acknowledge them
+still to be a body , as though theyr appeal was still in force , which
+ys fallen to the ground with the old Archpriest , FITZHER,21.003.88
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+and therefore now to suffer theym to assygne an agent eyther for theym
+selves or for the whole clergy , were no other but to nourish them in
+theyr former humour of opposition , and to geve theym meanes by theyr
+agents to undermyne you and your autority which they have so much
+ympugned in your predecessor ; FITZHER,21.003.89
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+The other inconvenience wold be <paren> as I think I signified unto you
+in some of my former letters </paren> that no one of that body <paren>
+who shall still hold correspondence and intrinsical amity with the rest
+</paren> will seeme to the greater and better part of english
+catholykes here , to deserve credit in this court , by reason that
+dyvers of that number and name of appellants , have had , <paren> as
+some also still have </paren> intelligence with the heretykes , in so
+much that eyther by the agents theym selves , or els by theyr adherents
+and frends all our affayres in thys court , wold be discovered to the
+enemy no lesse , FITZHER,21.003.90
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+then we see by experience , they ar dayly in England ;
+FITZHER,21.003.91
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+and truly thys I dare boldly say unto you , that the greatest part of
+english Catholykes here , and in all Italy wold hold those agents so
+suspected , that they wold not trust them in any thing , yea and
+perhaps oppose theymselves to theyr admission here , FITZHER,21.003.92
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+as for my part I think in conscience we are bound to doe for the good
+of the cause . FITZHER,21.003.93
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+thys I say in case the agents shuld be chosen eyther one or more by the
+appellants only , or out of theyr body . FITZHER,21.003.94
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+but yf the choyse shuld be made by the whole clergy , of some quiet men
+that had not ben of the number of the appellants , me thinks you are to
+consider whose agents they are to be accounted , whether yours or
+agents for the clergy ; FITZHER,21.003.95
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+yf yours I see no reason which may justly move you , to prejudice your
+self and your autority so much as to have your agents appoynted by your
+owne subjects , whereas it were fit that <P_22> they shuld be of the
+most confydent frends you have , and depending only on your self ,
+FITZHER,22.003.96
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+and yf they $shall $be {TEXT:shalbe} counted agents for the whole
+clergy , you shall acknowledge thereby , that your clergy is a body
+devyded from you , theyr head , and not depending on you ,
+FITZHER,22.003.97
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+yea , and as I signified before , you shall geve them both courrage and
+autority to attempt any thing agaynst you ; FITZHER,22.003.98
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+and verily I think that the lyke president hath not ben seene , and
+that no superiour eyther spiritual or temporal would suffer it .
+FITZHER,22.003.99
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+And therefore that which you may well do in thys case to content them
+in my opinion is to make choyse your self of some quiet man and
+confident frend of yours , to be your agent here , agaynst whom the
+appellants can take no just exception FITZHER,22.003.100
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+for with such , we , who are your frends here , will be also very glad
+to concurre , as occasion shall serve and no man more willing then my
+self whensoever you $shall $be {TEXT:shalbe} otherways provyded .
+FITZHER,22.003.101
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+and yet one thing more I wold wish you and theym to consider , which ys
+how your or theyr agents $shall $be {TEXT:shalbe} mentayned here ,
+FITZHER,22.003.102
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+for yf you or they expect that hys hollynes shall geve theym allowance
+, I verily think you will be deceaved , whereof I could yeld you many
+reasons , and some of theym grounded upon dayly experience yf it were
+needfull ; FITZHER,22.003.103
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+and thus much I have thought good to add to my former letters , though
+I think I have also touched the most of thys before ;
+FITZHER,22.003.104
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+but in thes cases I hold it better to say a great deale more then needs
+then any thing to litle , FITZHER,22.003.105
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+for abundans cautela non nocet ; FITZHER,22.003.106
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+and so being very weary with wryting I take my leave recommending you
+to gods holly protection . FITZHER,22.003.107
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+thys 27 of Juli FITZHER,22.003.108
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_003:E2:1608:AUTOGRAPH:OTHER
+yours as my owne F . FITZHER,22.003.109
+
+<Q_FIT_A_1608_T_TFITZHERBE> <L_FITZHER_004> <A_THOMAS_FITZHERBERT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1552> <R_GEORGE_BIRKHEAD>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1549>
+
+<P_28>
+
+{ED:VIII._SWINNERTON_[FITZHERBERT]_TO_BIRKHEAD,_23_AUGUST_1608.}
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+Right Reverend , Yours of the 21 of June , with the enclosed , which
+were for his hollynes , and the other for the protector , the thyrd for
+Card. Buff. and the 4=th= a copy of a letter from M=r= Parker , to the
+protector , as it seemeth , FITZHER,28.004.110
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+but the letter itself came not withall ; FITZHER,28.004.111
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+belyke it was forgotten . FITZHER,28.004.112
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+I have delivered the two letters for his hollynes , and the protector ,
+FITZHER,28.004.113
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+and $for $as {TEXT:foras} much as you demaunded in that to his hollynes
+, to know his resolution concerning the request made unto you by your
+brethren to send procuratours , I do solicit to have answere from his
+hollynes ; which I hope I shall have the next weeke , to send you by
+the next post , though I was determined , as I wrote unto you in my
+last , to solicit only the matter of bishops for the present , because
+I $can $not {TEXT:cannot} see , that any fyrme and certayne resolution
+can be made concerning the other , <paren> at least for the election of
+the persons , </paren> yf byshops be made . FITZHER,28.004.114
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+but however it ys , seeing you urge it still , I will doe what I can to
+procure you answere , though I must needs say , that the reason which
+you add to the demaund , $can $not {TEXT:cannot} but disgust his
+hollynes , for that it showeth a strange aversion in the demaunders ,
+not from some , but from all religious men without exception , seeing
+you <P_29> say that they will not have ullos religiosos immiscere se
+etc . which must needs move his hollynes to reflect upon theyr small
+inclynation to peace , though you perswade yourselfe that theyr
+satisfaction in this , wold procure and furder it ; FITZHER,29.004.115
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+but to tell you truely my opinion , I $can $not {TEXT:cannot} for my
+owne part , expect that it can follow of the employment of men of that
+humour in this place , where of I shall not neede to say any more in
+this matter , because I have written unto you amply thereof in my
+former ; FITZHER,29.004.116
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+only I will add , that my hope ys , that those which are of that
+opinion , are not eyther-2 the greatest , or most important part of our
+clergy , FITZHER,29.004.117
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+for truely , to speake my conscience , it were a pittiful case , yf it
+were soe ; FITZHER,29.004.118
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+and therefore I wold wish you to consider how many they may be that
+importune in this matter , and manner , <paren> I mean with such a
+tooth agaynst religious men </paren> and to take heede , least to
+content theym , you discontent a farre greater number , who I verely
+think , wold be loth to be thought to be of that humour .
+FITZHER,29.004.119
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+Whereas you write in this your last letter as in your former , that you
+have confirmed M=r= Singleton in his Assistency , you shall understand
+that he hath written unto me that it seemeth to him by letters , which
+he had lately received from you , that you doe , as it were , discharge
+him of it agayne , as having confirmed him agaynst the expresse words
+of the facultyes sent you from hence , FITZHER,29.004.120
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+and therefore I have written unto him , that I verily think , he
+mistaketh your letter , for that , although you have written at this
+tyme of the difficulty which since your confirmation of him , hath
+occurred unto you , and ben urged by others , yet nevertheles , you doe
+not seeme to have revoked it , but doe rather signify the contrary .
+FITZHER,29.004.121
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+and truely for ought I see in your facultyes , <paren> whereof we have
+heere the coppye </paren> you have not transgressed theym , in
+confirming him , but rather performed theym , seeing you are advysed
+therein , to confirme those Assistants , that had behaved theym selves
+well in that charge , FITZHER,29.004.122
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+and although you have also power to choose ; and subrogat others in the
+place of those that are dead , or absent , yet the meaning ys not , as
+we take it heere , that eligere et subrogare should be understood in
+one sense , but the fyrst to be applyed to the supply of those that are
+dead , and the later to wit subrogare to be performed in the place of
+the <P_30> absent or imprisoned , during only theyr absence , or
+disability to discharge theyr office ; on which respect we advysed you
+from hence at the first to confirme those two which were absent , and
+to substitut some others for theym to execut theyr office there ,
+untill theyr returne ; though it seemeth that M=r= Singleton being in
+the place where he ys , may assist you greatly in many occasions that
+may be offered to deale with the Nuncio for you , besyds that he may as
+soone answere you by letter in any matter of importance , as he could
+doe from Lankyshyre , or out of the north , and ys also in possibility
+to returne to you , whensoever it $shall $be {TEXT:shalbe} needefull ;
+FITZHER,30.004.123
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+and therefore yt wold seeme very hard that a man in his case and of his
+parts , and merits shuld loose his office ; for which respect we were
+heere of opinion that you shuld doe well to confirme him , and the
+rather , for that he ys well knowne to his hollynes , since his last
+being heere , and well esteemed of him , having had dyvers tymes since
+, occasion to write to his hollynes of matters of importance , which
+have occurred in those parts . and thus much touching him .
+FITZHER,30.004.124
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+I ame very glad to understand that your Patron ys so well satisfyed ,
+concerning the matter that you write of , though I can not but greatly
+mervel , that some learned men , as you insinuat , are so much
+scandalized with the fact , that they wold rather suffer torment then
+doe the lyke , where in truely you might have caused in me a great
+scruple , <paren> for as much as concerneth me </paren> were it not
+that I both know in my owne conscience , and also evidently see by your
+letter that they ground their judgement upon a false foundation ,
+supposing that the course of the busynes recommended by your patron was
+stopped , which I assure you ys altogether mistaken , for that the
+substance of his letter , and particulerly the poynt touching byshops ,
+was sett downe as effectually as might be , with convenient brevity and
+delivered , though by reason of the accidents , which followed after ,
+as you know , there could be no resolution taken , nor yet sollicited .
+FITZHER,30.004.125
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+and this being most true , <paren> as god knoweth , whome I call to
+witnes </paren> I dout not but that yf the learned men you speak of ,
+will add , but one dramme of good will , to an ounce of theyr good
+judgement , they will not so hardly censure our fact ,
+FITZHER,30.004.126
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+neverthelesse , if they still persist in that opinion , I pray you doe
+me the favour to know , and send me theyr reasons , to the end , that
+if they be of validity , we may heere reforme our erroneous consciences
+, FITZHER,30.004.127
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+and for my part , I assure you , <paren> and I dare promise as much for
+F. P. </paren> that I will most willingly acknowledge my fault , and
+crave pardon , when I shall see just cause , and reason to move me unto
+it , and woold do it for a farre lesse matter , then I perceave this ys
+taken to bee . FITZHER,30.004.128
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+And one thing I will be bold to say furder according , to my small
+skill , that though an agent or friend shuld forbeare to execut <P_31>
+his patrons , or friends order or desseyn , yea or hinder the course of
+some busynes of his , not of evil will , or intent to crosse him ; but
+only out of a desyre to doe him service , or pleasure , I see no reason
+why such a fact shuld be held for scandalous , FITZHER,31.004.129
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+for however such an agent might erre in judgement , I could not for my
+part condemme him in conscience , FITZHER,31.004.130
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+and sure I ame that in practyse the lyke fauleth out often betwyxt
+princes and theyr embassadours or agents ; FITZHER,31.004.131
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+and because I ame , as it chanceth , at good leasure , and use my mans
+hand , I will tell you an example that passed heere not many yeres agoe
+. FITZHER,31.004.132
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+The King of Spayne wrote to the Duke of Sessa his embassadour heere ,
+to geeve notice to the Duke of Bracciana , other wayse cauled D.
+Virginio ursino , <paren> the greatest subject in Rome </paren> that he
+deprived him of his protection , and pension , because he went into
+England in Queene Elizabeths tyme , without his knowledge , and consent
+, the queene being then publyke enemy to Spayne ; FITZHER,31.004.133
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+but the duke of Sessa judging it to be very inconvenient for the Kings
+service , wold not execut his order , FITZHER,31.004.134
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+and wrote to the king his reasons , which his majesty approved , though
+his former order was geven with the consent of all his counsel ;
+FITZHER,31.004.135
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+and so Don Virginio hath still this day remayned a dependant of Spayne
+; FITZHER,31.004.136
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+and many such other cases might be alleadged , to show that in practise
+agents are not so tyed to theyr patrons orders , but that they forbeare
+to execut theym , when they doe it with desyre , and intention of theyr
+service ; FITZHER,31.004.137
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+but this our case was farre otherwayse , as I have signifyed , seeing
+there was no cours of busynes stopped , but meant to be furdered to the
+full , and best content of your Patron , where in we presumed of his
+good opinion and assurance of our good will to him , and douted not but
+that he wold have allowed of our proceedings in his busynes , and taken
+the same course him selfe , if he had benne heere , for such reasons ,
+as I signifyed to you in my former letters , and therefore thinke now
+needeles to repeate theym . FITZHER,31.004.138
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+I send you back the letter to P_NPR as you desyre , FITZHER,31.004.139
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+but the other two were delivered for ought we know , or can remember to
+the contrary , FITZHER,31.004.140
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+and sure I ame , that there was no reason why we shuld open or withold
+theym . FITZHER,31.004.141
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+I perceave you have many bad reports of M=r= President our friend at
+Doway where of I wold you had mentioned some part , to the end I might
+have signifyed to you my opinion of the truth thereof ;
+FITZHER,31.004.142
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+for I make no dout but that he ys wrongfully charged , by reason of
+some controversyes he hath had of late with the Benedictins his new
+neyghbours , whereof I know the grounds reasonable well <paren> because
+the matter ys now heere at this present before his hollynes , committed
+to Cardinal Bianchetti one of the Inquisition </paren> ,
+FITZHER,31.004.143
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+and I assure you , that , for ought I see , he hath great reason in
+that matter , FITZHER,31.004.144
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+and so I verely think you woold say if you knew as much as I doe .
+FITZHER,31.004.145
+
+<P_32>
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+As for the Colledge which you heare ys lyke to be sett up at Rheims by
+the King of france , I rather wish it then beleeve it
+FITZHER,32.004.146
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+for I perswade my selfe that the king ys farre from that intention .
+FITZHER,32.004.147
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+I ame very glad to see you have helpe to write your letters , as I ame
+forced my selfe to have , and specially at this tyme , by reason of
+greate payne in my teeth . FITZHER,32.004.148
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+I almost forgot to advertyse you that I delivered M=r= Doctor Smiths
+letter by the meanes of one of his hollynes secretaryes , who ys my
+frend , as I also gave the substance of your letters to me <paren>
+concerning the demaund of byshops , and sending procurators hither
+</paren> , presently after my last letters unto you , as I promised you
+to doe , FITZHER,32.004.149
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+and now upon your owne letter to his hollynes , I hope the sooner to
+have answere . FITZHER,32.004.150
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+Whereas you remit the delivery of your letters , or of the substance
+there of to me , you may assure your selfe , I will doe alwayse that
+which I shall thinke coram deo to be the best , and most convenient for
+the accomplishment of your desyre , FITZHER,32.004.151
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+or els if I doe not what you request me , I will advertise you thereof
+; and of my reason which I hope you shall have no cause to dislyke ;
+FITZHER,32.004.152
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+and so for this tyme I take my leave recommending you to gods holly
+protection , FITZHER,32.004.153
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+Rome FITZHER,32.004.154
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+23 of August FITZHER,32.004.155
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+Yours as my owne T. Swinnerton . FITZHER,32.004.156
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+I pray you hartily commend me to good M=r= D. Smith whom I knew in
+Spayne , and to M=r= Parker when you see him , FITZHER,32.004.157
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+and yf I thought that you were lykely to meet with M=r= D. Bavan as
+with the other I shuld also desyre to be most kyndly remembered to him
+, FITZHER,32.004.158
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+for I have honored and loved him many yeres . FITZHER,32.004.159
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+youre letter to Card. Buffalo I send not because he is still farre out
+of Rome and hath geven over his office of viceprotector ;
+FITZHER,32.004.160
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+and I have answered you in former letters concerning the facultyes that
+you requyre of him , or by his meanes . FITZHER,32.004.161
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+We have not only taken away the seale and name of the letter , that we
+return unto you , but also razed out the yere and date and some 2 or 3
+words which wold have discovered the author as much as the hand and
+seale , though you gave me no commission in your letter to do it ,
+FITZHER,32.004.162
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+but we presume that youre self and your patron wold wish it to be donne
+, yf you considered the reason that moveth us thereto ; so that we see
+some things must be donne by discretion in absence of frends .
+FITZHER,32.004.163
+
+<P_33>
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+After all this upon better deliberation , fearing that yf the original
+letter be sent it may discover it self yf it shuld fall into evil hands
+<paren> except it shuld be much defaced </paren> we have thought good
+to stay it until we heare from you whether you will have it sent as it
+is , or the coppy , which may be razed yf you think good , where it
+shall seeme convenient , and the original kept entyre
+FITZHER,33.004.164
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+and thys we do rather because we think it importheth not so much to
+send it speedily as safely at least by furder order from you , the
+peril considered . FITZHER,33.004.165
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_004:E2:1608:AUTOGRAPH:OTHER
+in the meane tyme yt remeyneth here safe at your frends commandment .
+FITZHER,33.004.166
+
+<Q_FIT_A_1608_T_TFITZHERBE> <L_FITZHER_005> <A_THOMAS_FITZHERBERT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1552> <R_THOMAS_WORTHINGTON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1548?>
+
+<P_37>
+
+{ED:X._TO_WORTHINGTON,_PRESIDENT_OF_DOUAY,_6_SEPTEMBER_1608 .}
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:60?
+LETTER:FITZHER_005:E2:1608:AUTOGRAPH:OTHER
+Good M=r= president , I am sure you long to heare what passeth here in
+your bussines with the Benedictins . FITZHER,37.005.167
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:60?
+LETTER:FITZHER_005:E2:1608:AUTOGRAPH:OTHER
+all I can tell you yet , is that Don Anselmo <P_38> hath <paren> with
+the advyse and assistence of the procurator general of theyr order
+</paren> besought hys holines to command that theyr matters with the
+fathers and you , may be handled examined and determined by the whole
+congregation of the inquisition , and not stand only upon the relation
+of Cardinal Bianchetti , FITZHER,38.005.168
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:60?
+LETTER:FITZHER_005:E2:1608:AUTOGRAPH:OTHER
+and they left with hys hollines a memorial to the same effect ,
+FITZHER,38.005.169
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:60?
+LETTER:FITZHER_005:E2:1608:AUTOGRAPH:OTHER
+and the day after notifyed to the Cardinal , that the popes hollines
+had geven theym order , to informe the whole inquisition ,
+FITZHER,38.005.170
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:60?
+LETTER:FITZHER_005:E2:1608:AUTOGRAPH:OTHER
+and the same also they signifyed to F. parsons <paren> having belyke
+mistaken something that hys holynes had sayd unto theym </paren> ,
+FITZHER,38.005.171
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:60?
+LETTER:FITZHER_005:E2:1608:AUTOGRAPH:OTHER
+for within two or 3 dayes after , hys hollynes sent theyr memorial to
+Card. Bianchetti with order to heare and relate the cause as before ,
+FITZHER,38.005.172
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:60?
+LETTER:FITZHER_005:E2:1608:AUTOGRAPH:OTHER
+and notwithstanding they have ben tampering since , by other meanes to
+have yt out of hys hands , but in vayne , FITZHER,38.005.173
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:60?
+LETTER:FITZHER_005:E2:1608:AUTOGRAPH:OTHER
+and , as I understand , the whole congregation hath ben disgusted with
+thys theyr manner of proceding . so that now they must passe by his
+hands , who nevertheles , they may be well assured will do theym no
+wrong . FITZHER,38.005.174
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:60?
+LETTER:FITZHER_005:E2:1608:AUTOGRAPH:OTHER
+they geve up nothing in thys world in wryting as yet eyther-1 agaynst
+the fathers , or you , FITZHER,38.005.175
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:60?
+LETTER:FITZHER_005:E2:1608:AUTOGRAPH:OTHER
+and the truth ys , yt ys alreddy evident that they have nothing to say
+of substance . FITZHER,38.005.176
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:60?
+LETTER:FITZHER_005:E2:1608:AUTOGRAPH:OTHER
+they urge to have our wrytings and complaynts which the Card. refuseth
+to geve theym except they will put in theyrs agaynst us , so that we
+stand expecting what they will do . FITZHER,38.005.177
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:60?
+LETTER:FITZHER_005:E2:1608:AUTOGRAPH:OTHER
+yesterday the cardinal told me that the only thing which they object
+agaynst you , in theyr own defence , ys that you are altogether ruled
+in thys , by father parsons and the Jesuits and that thys your demand
+of theyr remove from doway , procedeth rather from theym then from you
+, which I flatly deny FITZHER,38.005.178
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:60?
+LETTER:FITZHER_005:E2:1608:AUTOGRAPH:OTHER
+and have showed some of your earnest letters to me FITZHER,38.005.179
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:60?
+LETTER:FITZHER_005:E2:1608:AUTOGRAPH:OTHER
+and urge the reasons , which of theym selves are sufficient to move you
+to desyre to be separated from theym ; FITZHER,38.005.180
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:60?
+LETTER:FITZHER_005:E2:1608:AUTOGRAPH:OTHER
+finally I still insist upon thys poynt that what composition so ever be
+made betwixt theym and the fathers for other colledges , there can be
+none made with you , but to remove eyther theym or you , for that your
+colledge being as it ys , ther can not be such disciplin observed as in
+the colledges of the fathers , in respect , that many of your schollers
+lye abroad in the towne , which can not be helped , for lack of
+sufficient lodging within the house . FITZHER,38.005.181
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:60?
+LETTER:FITZHER_005:E2:1608:AUTOGRAPH:OTHER
+besydes that I urge much the practise of F. Whyte with the Embassadour
+and the heretykes , which ys <P_39> sufficiently proved by the
+depositions that I have presented . so that we must now expect what
+$will $be {TEXT:wilbe} the end , though I think yt $will $be
+{TEXT:wilbe} some dayes or perhaps weeks passe before there can be any
+conclusion , FITZHER,39.005.182
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:60?
+LETTER:FITZHER_005:E2:1608:AUTOGRAPH:OTHER
+and in the meane tyme , I long greatly to heare from you , and to have
+a letter of your owne to Card. Bianchetti which I requyred , when he
+was first appoynted to heare the matter . FITZHER,39.005.183
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:60?
+LETTER:FITZHER_005:E2:1608:AUTOGRAPH:OTHER
+In the meane tyme I do dayly recommend it to god to dispose of yt to
+hys glory and the good of our cause FITZHER,39.005.184
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:60?
+LETTER:FITZHER_005:E2:1608:AUTOGRAPH:OTHER
+and so for thys tyme , I take my leave , recommending my self hartily
+unto you and you to gods holly protection . FITZHER,39.005.185
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:60?
+LETTER:FITZHER_005:E2:1608:AUTOGRAPH:OTHER
+from Rome the 6 of September FITZHER,39.005.186
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:60?
+LETTER:FITZHER_005:E2:1608:AUTOGRAPH:OTHER
+your as my owne T. Fitzherbert . FITZHER,39.005.187
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:60?
+LETTER:FITZHER_005:E2:1608:AUTOGRAPH:OTHER
+{ED:ADDRESSED} All M=to= Ill=e= , et M=to= R=do= Sig=re= Pr'on mio
+oss=mo= il Sig=re= Dottore Worthingtono presidente del collegio Inglese
+di Duaco . Doway FITZHER,39.005.188
+
+<Q_FIT_A_1608_T_TFITZHERBE> <L_FITZHER_006> <A_THOMAS_FITZHERBERT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1552> <R_GEORGE_BIRKHEAD>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1549>
+
+<P_44>
+
+{ED:XII._[FITZHERBERT]_TO_SALVIN_[BIRKHEAD],_11_OCTOBER_1608 .}
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+Right Reverend Syr . I wrote to you 8 days agoe to acknowledge the
+receat of yours of the 23 of July and the 4 of August , promising
+therein to send you the resolution of the douts you propounded therein
+at my first oportunity , which at thys present I can not performe
+because Cardinal Bianchetti went upon a suddayn to frescata , where he
+ys at thys present ; FITZHER,44.006.189
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+and as I wrote in my last , thys being a tyme of vacation , here $will
+$be {TEXT:wilbe} litle negotiation until alhollotyde .
+FITZHER,44.006.190
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+In the meane tyme to tell you our opinion here , concerning the hearing
+of the masse of the priests in the Clink , we think that seeing no
+excommunication hath passed agaynst them <paren> for any thing that we
+know </paren> there ys no dout but that theyr masses may be heard ,
+though they have lost theyr facultyes ; FITZHER,44.006.191
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+it may be you suppose they are excommunicated which is more then we
+know . FITZHER,44.006.192
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+Whereas you earnestly desyre to know my opinion concerning some meanes
+to satisfy your brethrens request etc F. parsons and I have conferred
+about it , FITZHER,44.006.193
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+and he will wryte unto you what hath occurred to him for your and their
+satisfaction in that poynt , which seemeth to me a good meanes to
+content theym with reason , FITZHER,44.006.194
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+for other things I referre you to my last . FITZHER,44.006.195
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+only I am to request you to commend me very hartily to M=r= doctor
+Weston , though unacquainted with him , except I saw him ones at doway
+when I passed that way with the duke of feria , FITZHER,44.006.196
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+and I pray you tell him that I perceave by a late letter of hys to F.
+parsons , that <P_45> amongst other learned and laudable workes of hys
+, now in hand he hath one to prove that the catholyke religion ys most
+fit for the government of state , which ys the special subject of a
+treatise which I have now in hand , and ys almost reddy for the presse
+, in discharge of my promise made in the first part of the sayd
+treatise concerning pollicy and religion , printed above five yeres
+agoe ; FITZHER,45.006.197
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+though it may be he hath not heard of it , and much lesse seene and
+read it ; nevertheles I heare it hath bin and ys currant among the
+heretykes . FITZHER,45.006.198
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+howsoever it ys I wold we might have conferred by letters concerning
+our handling one and the self same matter at one tyme , to the end we
+might at least have taken a different course . FITZHER,45.006.199
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+yf I had not alreddy promised thys second part , and therefore stand
+bound , as it were , in credit to performe it I wold upon thys
+advertisement of hys labours to the same purpose , suppresse myne ;
+FITZHER,45.006.200
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+and yf I had ymagined that he or any man of hys sufficiency wold have
+undertaken to wryte of that matter in our tongue , I wold have borne
+him the respect to forbeare wholly to do it ; FITZHER,45.006.201
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+but being engaged as I am and my treatise almost ready to be printed I
+can not now well stay it , especially seeing I heare , that it is
+expected of many . FITZHER,45.006.202
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+it may be M=r= doctor thinketh , and with reason <paren> yf he have
+seene my first part </paren> that I will not or rather am not able to
+handle that subject sufficiently ; FITZHER,45.006.203
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+and truly I have reason myself to feare it ; FITZHER,45.006.204
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+nevertheles yf he wold think it convenient <paren> seeing myne ys reddy
+and promised , and as I heare , expected </paren> to stay hys until he
+see what course I have taken , he may in my conceyt , make his worke
+both more plausible and profitable , by adding and supplying afterwards
+what may want in myne . FITZHER,45.006.205
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+At least I have thought it my part to advertise M=r= doctor thus much ,
+concerning my present labours , to the end we may take such course
+betwixt us , as our endevours may be the better to the purpose .
+FITZHER,45.006.206
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+I shuld be glad to know what course he taketh , FITZHER,45.006.207
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+and yf he think good , I will send him the tytles of my chapters ,
+which conteyne a summe of the whole ; FITZHER,45.006.208
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+though I think yt now needles , because , yt will not be long ere it be
+in print , yet yf he desyre to see the same sooner , I will send theym
+to him . FITZHER,45.006.209
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+and this I pray you tell him with my most affectionat commendations ,
+and the lyke to good M=r= doctor Smith my acquayntance in Spayn ,
+FITZHER,45.006.210
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+I pray you tell him I shall be very glad to see him here , and more
+glad to serve him in what {in}_P I may , eyther-2 in your affayres or
+his owne . FITZHER,45.006.211
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+and so for thys tyme I take my <P_46> leave in hast , recommending you
+to gods holly protection . FITZHER,46.006.212
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+from my old residence the 11 of October FITZHER,46.006.213
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+Yours as my owne T. Swynnerton . FITZHER,46.006.214
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:56
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:59
+LETTER:FITZHER_006:E2:1608:AUTOGRAPH:OTHER
+{ED:ADDRESSED} To my very frend M=r= George Salvin FITZHER,46.006.215
+
+<Q_FIT_A_1609_T_TFITZHERBE> <L_FITZHER_007> <A_THOMAS_FITZHERBERT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1552> <R_GEORGE_BIRKHEAD>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1549>
+
+<P_48>
+
+{ED:XIV._FITZHERBERT_TO_BIRKHEAD,_23_MAY_1609.}
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_007:E2:1609:AUTOGRAPH:OTHER
+Right Reverend Syr . I have receaved you letter sent by M=r= doctor
+Smith , FITZHER,48.007.216
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_007:E2:1609:AUTOGRAPH:OTHER
+and $will $be {TEXT:wilbe} reddy to geve you satisfaction concerning
+that which you request of me therein , assisting hym from tyme to tyme
+with my poore advyse and labour , wishing we may see the good effects ,
+which you expect to the satisfaction of all our brethren there , and a
+perfect peace amongst us all which I desyre to furder to the uttermost
+of my power , though it were with losse of my blood ;
+FITZHER,48.007.217
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_007:E2:1609:AUTOGRAPH:OTHER
+and therefore you may assure your self that there shall want nothing on
+my part , that may help it forward , FITZHER,48.007.218
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_007:E2:1609:AUTOGRAPH:OTHER
+and the lyke I can assure you for F. Parsons , who hath alreddy geven
+proof thereof to M=r= doctor Smith , not only in hys curteous
+enterteyment , but also in yelding unto him , as much as he him self ,
+or any other there with you can desyre , touching the first article of
+the matters to be propounded to hys holynes ; though the truth ys I
+have made some difficulty to make sure that you shuld be directly bound
+not to consult with the Fathers , because I do not see by your
+instructions or letters , that you desyre yt , but only that the clause
+in pope Clements breve may be interpreted whether you stand alreddy
+bound thereby or no . FITZHER,48.007.219
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_007:E2:1609:AUTOGRAPH:OTHER
+but forasmuch as M=r= <P_49> Doctor protesteth that there will never be
+peace otherwayse , and that , I fynd him resolut therein , and have
+reason withall to think that he knoweth your mind better than I do , I
+therefore yeld that it may be propounded in such manner , as I make
+full account that you will be declared bound though how farre I can not
+yet tell . FITZHER,49.007.220
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_007:E2:1609:AUTOGRAPH:OTHER
+to-morrow we shall have audience of hys hollynes , as I take it ,
+having only visited hitherto our protector , and Cardinal Borghese ; so
+that I can geve you no furder account of any thing <P_50> yet , but
+will do hereafter , as occasion shall requyre . FITZHER,50.007.221
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_007:E2:1609:AUTOGRAPH:OTHER
+I send you herewith an answere to your letter from the protector ; and
+one from M=r= doctor Smith , who I dout not but will geve you ample
+relation of hys proceedings hitherto , and so for thys tyme ,
+FITZHER,50.007.222
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_007:E2:1609:AUTOGRAPH:OTHER
+I take my leave recommending my self most humbly unto you , and you to
+gods holly protection : FITZHER,50.007.223
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_007:E2:1609:AUTOGRAPH:OTHER
+from Rome the 23 of May . FITZHER,50.007.224
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_007:E2:1609:AUTOGRAPH:OTHER
+Yours as my owne T. Fitzherbert FITZHER,50.007.225
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_007:E2:1609:AUTOGRAPH:OTHER
+Because I ymagin that F. parsons may have such bussines that he can not
+wryte unto you at thys tyme , I think good to add a word or two
+concerning him , that whereas you have geven order to M=r= doc. Smith
+to conferre your affayres with him <paren> quatenus id suae sanctitati
+placuerit </paren> it seemed convenient to him , that before he shuld
+enter into any particuler consultation of the poyntes to be propounded
+, M=r= doctor and I shuld demand his holynes lyking thereof , and the
+rather because F. General was out of the towne , and thys seemed also
+to me very necessary for the better expedition of the affayres , for
+that , yf his holynes shuld command us to consult and agree amongst our
+selves of the difficultyes and remedyes , <paren> which we made account
+we shuld do with great facility </paren> the long course of
+consultation by way of the inquisition <paren> whither our matters wold
+be otherways referred </paren> wold be prevented , and all things
+concluded with speed , and according to our owne agreements , and only
+such matters remitted to the inquisition , as we our selves should not
+agree upon , and determine . though we hoped that in conclusion , there
+wold be no such at all . FITZHER,50.007.226
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_007:E2:1609:AUTOGRAPH:OTHER
+thys seemed to F. parsons and me so probable , that we stood securely
+upon it , FITZHER,50.007.227
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_007:E2:1609:AUTOGRAPH:OTHER
+and the father wold not agree to enter into any consultation of
+particulers until eyther his holynes gave him leave <paren> according
+to your limitation </paren> or at least that father general shuld
+return and geve hys consent . FITZHER,50.007.228
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_007:E2:1609:AUTOGRAPH:OTHER
+and though M=r= Doctor Smith was herewith much offended for two or 3
+dayes , yet at length Father general returning , and geving hys consent
+to f. parsons to treat of those matters we are agreed to the
+proposition of the first article , in such manner as I have signifyed
+FITZHER,50.007.229
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_007:E2:1609:AUTOGRAPH:OTHER
+and I dout not but M=r= doctor hath written thereof to you more at
+large , FITZHER,50.007.230
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_007:E2:1609:AUTOGRAPH:OTHER
+only I could have wished that he wold have yelded that we might move
+his hollynes to geve us leave and order to agree of the remedyes
+amongst ourselves , and then to represent theym <P_51> to him , rather
+then to comit theym to be consulted in the inquisition , as they must
+be , though we consult of theym never so much without his hollynes
+order ; FITZHER,51.007.231
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_007:E2:1609:AUTOGRAPH:OTHER
+but M=r= doctor will by no means yeld to thys , FITZHER,51.007.232
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_007:E2:1609:AUTOGRAPH:OTHER
+and therefore we yeld to him , to follow hys way . FITZHER,51.007.233
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_007:E2:1609:AUTOGRAPH:OTHER
+and thys is all I shall need to signify to you at thys tyme and all
+that hath passed in effect . FITZHER,51.007.234
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_007:E2:1609:AUTOGRAPH:OTHER
+{ED:ADDRESSED} To the right reverend M=r= George Birkhed Archpriest of
+England . FITZHER,51.007.235
+
+<Q_FIT_A_1609_T_TFITZHERBE> <L_FITZHER_008> <A_THOMAS_FITZHERBERT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1552> <R_THOMAS_WORTHINGTON>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1548?>
+
+<P_55>
+
+{ED:XVI._TO_WORTHINGTON,_PRESIDENT_OF_DOUAY,_22_AUGUST_1609 .}
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+Right worshipfull and very reverend frend , My last letter , I feare me
+, gave you small content , FITZHER,55.008.236
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+and these I think will geve you as litle , though I verily hope it will
+turne to your credit and reputation in the end . FITZHER,55.008.237
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+Our vyceprotector wryteth unto you , what hath ben sent hether from
+those parts agaynst you , FITZHER,55.008.238
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+and hath also geven me commission to advertise you thereof , which in
+effect ys , that the nuntio hath sent the Cardinal a letter of yours to
+him to be proposed to hys holynes with his answere to you , and a
+memorial which was geven to the sayd nuntio agaynst you , charging you
+to have made a precept or decree <paren> for so the Cardinal tearmeth
+it </paren> that whosoever $shall $be {TEXT:shalbe} priest in your
+Colledge , must take an oth , or promise at least , not to enter into
+any religion , except it be into the Society ; FITZHER,55.008.239
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+and furthermore the nuntio hath written unto the Cardinal that you deny
+to be subject to the rules made by hys hollynes betwixt the benedictins
+and the fathers , and that he hath propounded to you , for the same ,
+and for the foresayd decree ; FITZHER,55.008.240
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+thus much concerning the nuntio hys letters hither . FITZHER,55.008.241
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+All thys being read before hys hollynes in the Congregation of the
+Inquisition , hys hollynes commanded the Cardinal to advertise you ,
+that you are to take your self to be comprehended in the rules lately
+made betwixt the Benedictines and the fathers , and to advyse you to
+live peacefully with the Benedictins your <P_56> neyghbours ; which the
+Cardinal hath told me he doth at thys tyme , wryting unto you by the
+nuntio hys packet ; FITZHER,56.008.242
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+And forasmuch as I assure my self , that the information of the decree
+aforesayd , ys utterly false , I beseeched the Cardinal to advertise
+you thereof particulerly , or els to geve me leave to do yt , to the
+end you may answere yt , assuring my self , as I told the cardinal ,
+that you will cleare your self fully therein , and show that the nuntio
+hath ben extremely abused . FITZHER,56.008.243
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+the Cardinal hath promised me to wryte unto you of that point him self
+. whereby you may take occasion to answere it fully , which I wold wish
+you to do , by as autentical meanes , as you can devyse without
+incurring the note of tumultuous dealing , which me thinks you may do ,
+taking only the testimonyes of your colledge , with the subscriptions
+of the priests , and such others as you shall think good , desyring the
+Cardinal to procure that the matter may be further examined , by the
+nuntio , to the end that your innocency may be knowen .
+FITZHER,56.008.244
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+It fauleth out well that you have just occasion to wryte hither to the
+Cardinal as soone as the nuntio , in respect of the Cardinals letter to
+you , FITZHER,56.008.245
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+and although I think it convenient that you send your answere by the
+way of the nuntio , informing him of what you wryte <paren> to hold him
+still as benevolent as you may </paren> , yet , it ys necessary that in
+any case you send me at the same tyme , a coppy of your letters and
+dischardges or sooner rather then later , to the end I may deale with
+the Card. effectually , yf the nuntio shuld chance to be slack .
+FITZHER,56.008.246
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+hys holynes and the Cardinals did not mislyke your letter written to
+the nuntio , FITZHER,56.008.247
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+but noted your moderation therein towards the benedictins , as I
+perceave by the Cardinal , who told me that you speake no yl of theym
+therein at all ; FITZHER,56.008.248
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+There came also at thys tyme another complaynt concerning the blessed
+martir M=r= Gervas <paren> as I take it </paren> , or some such other ,
+as the benedictins do challenge for theyres whereof they say you
+published the contrary making him a seculer priest , FITZHER,56.008.249
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+but I think there ys no great matter made of that ; FITZHER,56.008.250
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+yet yf the Card speake of yt in hys letter , you may answere as you
+shall think good ; FITZHER,56.008.251
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+otherways you may do well to let it passe , and to take no knowledge of
+it ; neyther of any thing els that I wryte unto you in thys further
+then the Cardinal him self geeveth you occasion by hys letter , using
+my advertisement of the rest for your information only , without taking
+knowledge of yt from hence , though yf you can justly pretend to know
+yt otherways , you may then answere to yt as you shall think good ,
+making mention of the meanes whereby you know yt , that it may appeare
+you have it not from me . FITZHER,56.008.252
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+The Cardinal hath advysed me to take a coppy of the rules betwixt the
+Benedictins and the fathers , out of the inquisition to send you ,
+which I mean to do at my next opportunity FITZHER,56.008.253
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+for now I can not do it before thys post depart . FITZHER,56.008.254
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+yf you cleare your selfe of that decree layd to your chardge <paren> as
+I dout not but you will </paren> , you may do well , by that occasion
+to represent the small lykelyhood <P_57> you have of the quiet
+demeanour of your neyghbours , and thereupon to urge in humble and myld
+manner , your separation as before you did . FITZHER,57.008.255
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+I take yt you have heretofore dismissed some , who you discovered to
+have a vocation to the society and refused to admit others who had the
+lyke vocation ; whereof it were very good you shuld send good testimony
+now upon thys occasion , seeing they chardge you directly with so great
+partiality . FITZHER,57.008.256
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+I looke that before thys letter come to your hands you will have
+answered to the nuntios letters to you and sent me also a coppy thereof
+, whereby I may help to give some satisfaction in the meane tyme
+FITZHER,57.008.257
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+and what shall want therein , you may now justly supply in your answere
+to the Cardinal . FITZHER,57.008.258
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+and so I dout not but in the end your adversaryes will rest foyled ,
+and your innocency cleared , wherein I and other your frends here ,
+will assist you to our uttermost . FITZHER,57.008.259
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+and si deus nobiscum quis contra nos ; to whose holly protection , I
+recommend you , willing you to have courage , FITZHER,57.008.260
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+for truly seeing your adversaryes proceed by way of calumniation , I
+make no dout but you will in the end prevayl with much reputation .
+FITZHER,57.008.261
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+from Rome the 22 of August FITZHER,57.008.262
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+Yours as my owne T. Fitzherbert FITZHER,57.008.263
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+I make account that you have alreddy yelded some reason to the nuntio
+why you did not account your self comprehended in the rules made for
+the Fathers and Benedictins ; FITZHER,57.008.264
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+but I wold wish that in your letters to the Cardinal you signify that
+the reason was because you ar not eyther of the religious , nor your
+colledge under the government of eyther of them , and that therefore it
+seemed to you that those rules did not concerne you though nevertheles
+you meant to observe them exactly on your part , as you have donne ever
+since . FITZHER,57.008.265
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:THOMAS_WORTHINGTON:MALE:_:1548?:61?
+LETTER:FITZHER_008:E2:1609:AUTOGRAPH:OTHER
+{ED:ADDRESSED} All M=to= Ill=re= et M=to= R=do= Sig=re= il Sig=re=
+Dottore Thomaso Worthingtono Presidente del venerabile collegio Inglese
+di Duaco . FITZHER,57.008.266
+
+<Q_FIT_A_1609_T_TFITZHERBE> <L_FITZHER_009> <A_THOMAS_FITZHERBERT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1552> <R_GEORGE_BIRKHEAD>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1549>
+
+<P_60>
+
+{ED:XVIII._FITZHERBERT_TO_SALVIN,_31_OCTOBER_1609.}
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+Right Reverend Syr , I have receaved yours of the 9 of August , in
+answere of one of myne of the 27 of June , since which tyme I have
+wrytten dyvers tymes unto you , as of the 8 and 22 of August and the 19
+of September . FITZHER,60.009.267
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+Whereas you wryte that rumours have ben spredd there amongst our
+brethren , that I and your ould frend have crossed M=r= doctor Smith in
+hys petitions and that you have written unto me somewhat roundly about
+the same , I have not receaved any such letters of yours ,
+FITZHER,60.009.268
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+neyther have deserved any such round wryting as you mention , for that
+I have punctually observed , both what you have willed me , and I also
+promised in my letters to you , and by word of mouth to doctor Smith ,
+which was , not to hinder hys negotiation here in any of hys
+propositions <paren> though <P_61> never so much mislyked by me
+</paren> no nor so much as to declare my opinion unto hys hollynes or
+the Cardinals except I were commanded to do yt ; which I say I Have
+truly observed ; FITZHER,61.009.269
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+and so little have I ben able to contradict hys propositions , that I
+do protest unto you , I did not know some particulers thereof ,
+otherways then by the answere , which was always geven him in my
+presence . FITZHER,61.009.270
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+I dout not but you have understood ere thys , what success he hath had
+in all that which he hath hitherto propounded , FITZHER,61.009.271
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+and though it were true , which you say ys there recorded , and he , as
+yt seemeth , supposeth , I meane that any man had crossed him , yet he
+shuld have no reason to dout of the equity of hys hollynes Judgment and
+of the Cardinals of the Inquisition , who understanding fully hys
+reasons , <paren> which he hath , no dout , amply layd doune unto them
+, as well by wryting as by word of mouth </paren> have ben able to
+judge of the validity thereof , and consequently of the convenience of
+the propositions , and have accordingly resolved , without respect , of
+any mans opposition , further then reason requyreth which always ought
+to prevayle , and doth , no dout , in that grave and wyse congregation
+of the inquisition , where no one man , nor a few , but the main part
+determineth , FITZHER,61.009.272
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+and therefore , I say , though any man shuld <paren> eyther by
+commandment or otherways of zeale to gods cause </paren> have suggested
+contrary reasons to M=r= doctors , all that could be thought thereof in
+my conceyt <paren> hys holynes resolution being considered </paren> ys
+, that M=r= doctors reasons were deficient , and deserved not to be
+admitted , in which case no man ought <paren> as I am persuaded
+</paren> so much as to wish that they had prevayled , the matters
+concerning gods cause as they do ; FITZHER,61.009.273
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+besyds that much ys , in thys and such lyke cases to be ascrybed to the
+will of god , and particuler direction of the holy ghost , who no dout
+assisteth hys hollynes in such mature deliberations , using such
+convenient meanes of consultation , as he doth in that grave
+congregation ; in which respect I can not but hope not only that the
+best resolution ys taken , I meane most convenient for our church and
+most for gods glory , but also that you , of your wisdome will so
+conceave , and rest satisfyed therewyth , how so ever M=r= doctor or
+any man els may incyte you to the contrary especially seeing your self
+have written dyvers tymes both-6 to F. parsons and me that you only
+desyred that your agent shuld be heard , and that hys holynes shuld
+determine what soever it shuld please him , wherewith you sayd you wold
+be satisfyed ; FITZHER,61.009.274
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+yea and you also gave us leave to propound our reasons to the contrary
+, yf we thought it convenient so that M=r= doctor <P_62> might be heard
+and understood as no dout he hath ben in all hys propositions
+FITZHER,62.009.275
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+and thys I am bold to say unto you in respect of the confidence you
+repose in me , as also in discharge of my conscience , assuring you
+nevertheles , as I have donne heretofore , that notwithstanding any
+diversity or contrariety of opinion or judgment which I may have in any
+of M=r= doctors propositions , I will in respect of you so long as I am
+your agent , forbeare to signify the same to hys holynes or the
+cardinals , except I be commanded to declare yt , in such sort that I
+may think my self bound thereto in conscience , in which case I am sure
+neyther you , nor any man els wold wish me to conceal yt .
+FITZHER,62.009.276
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+I wrote unto you in my last , my opinion concerning doctor Worthington
+, and the bussines touching him ; FITZHER,62.009.277
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+and I will now only ad , that I make no dout but that he will be able
+to put hys college in good order , and have such sufficient men about
+him as you wish , which for some yeares past he could not have in
+respect of his extreme poverty FITZHER,62.009.278
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+and I heare he hath alreddy called unto him some men of worth , and
+sett up a lesson of divinity , and another of cases , besyds other good
+orders established ; whereof I dout not but you will heare dayly and
+see better fruite then some as yt seemeth , have reported .
+FITZHER,62.009.279
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+We have of late <paren> I meane during these vacations </paren>
+differred to deale for your pension , which now by gods grace we will
+presently negotiat , hys holynes being returned to S. peters , and the
+Cardinals to theyr houses from these recreations ; FITZHER,62.009.280
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+god send us as good success therein , as you deserve and we desyre ,
+FITZHER,62.009.281
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+and for my part , I assure you there shall want no care or diligence .
+FITZHER,62.009.282
+
+<P_63>
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+I understand that you are advertised there , that M=r= doctor Norton
+came hither to crosse M=r= doctor Smith , in the matter of busshops ;
+FITZHER,63.009.283
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+what some men might imagin of hys coming hither I know not
+FITZHER,63.009.284
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+but sure I am , that he delt not in such matter here , and that having
+donne his devotions , and enjoyed the comfort of thys holly place some
+3 or 4 months , he returned with grant of some indulgences and
+privileges for the monastery of our cuntrywemen at Brussels , where hys
+sister ys , as I think you knowe . FITZHER,63.009.285
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+And for the matter of busshops yt was not so much as moved or spoken of
+, for ought I knowe , whyles he were here . FITZHER,63.009.286
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+I think I have wearyed you no lesse then myself with thys long letter ;
+FITZHER,63.009.287
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+and therefore wil take my leave , recommending you to gods holly
+protection ; FITZHER,63.009.288
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+from Rome the last of October FITZHER,63.009.289
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+Yours as my owne T. Fitzherbert . FITZHER,63.009.290
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+I have donne your commendations to F. parsons and your message ,
+whereto I think he will answere him self . FITZHER,63.009.291
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+only I will say that I hope your wisdome will provyde that his holynes
+interpretation of the late breve , shal not produce a contrary effect
+to hys meaning , I meane a greater separation and division then before
+; as yt must needs do yf you may not hold with the fathers so much as a
+frendly correspondence by letters which shall not concerne your
+government , FITZHER,63.009.292
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+and yf any man persuade you to that , I think you may well feare that
+he is no such frend of peace as were convenient , what so ever he may
+pretend the contrary . FITZHER,63.009.293
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:57
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:60
+LETTER:FITZHER_009:E2:1609:AUTOGRAPH:OTHER
+{ED:ADDRESSED} To my very loving frend Mr George Salvin geve these .
+FITZHER,63.009.294
+
+<Q_FIT_A_1610_T_TFITZHERBE> <L_FITZHER_010> <A_THOMAS_FITZHERBERT>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1552> <R_GEORGE_BIRKHEAD>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1549>
+
+<P_68>
+
+{ED:XX._[FITZHERBERT]_TO_SALVIN_[BIRKHEAD],_6_FEBRUARY_1610. }
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:58
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:61
+LETTER:FITZHER_010:E2:1610:AUTOGRAPH:OTHER
+Right reverend Syr . When I wrote unto you last <paren> which was the
+16 of January </paren> I did not think that I shuld have occasion to
+trooble you agayn , as now I am forced to do , by the commandment of
+Cardinal Bianchetti our vyceprotector , who hath geven me thys letter
+to send you , conteyning the resolution of hys holynes , concerning all
+the propositions of your agent M=r= D. Smith , and being a duplicat of
+that which hys grace also sent you at thys tyme , by your sayd agent ;
+FITZHER,68.010.295
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:58
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:61
+LETTER:FITZHER_010:E2:1610:AUTOGRAPH:OTHER
+I perceave that his grace considering the danger of the passage of
+letters , and that a dispatch which I sent you the last sommer from hys
+grace , about the priests in the Clink , was lost , and that this also
+concerneth the same matter , as he telleth me , he hath therfore
+thought good to send thys two ways ; FITZHER,68.010.296
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:58
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:61
+LETTER:FITZHER_010:E2:1610:AUTOGRAPH:OTHER
+I shall not need to say any thing unto you concerning the contents
+thereof , for that the same will satisfy you fully ; FITZHER,68.010.297
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:58
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:61
+LETTER:FITZHER_010:E2:1610:AUTOGRAPH:OTHER
+only I can not omit to signify unto you the hope I have , that now you
+will show your wisdome and piety , not only in conforming your self to
+hys holynes pleasure <paren> as you have oft assured me , you wuld do ,
+when you shuld see <P_69> hys answere </paren> but also in procuring
+the lyke conformity in your subjects , to the end we may have peace and
+quyet amongst us which hys hollyness greatly desireth . Whereof he hath
+seen alreddy here very good beginning , in the late peace and
+reconciliation made betwixt the Benedictins and the fathers of the
+Society , which doth dayly produce good effects ; besyds the conformity
+of others here , who do now dispose them selves to peace and quietnes
+more then in former tymes , as M=r= Doctor your agent doth well see
+FITZHER,69.010.298
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:58
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:61
+LETTER:FITZHER_010:E2:1610:AUTOGRAPH:OTHER
+and my hope ys that he will also conforme him self thereto as he hath
+promised , FITZHER,69.010.299
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:58
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:61
+LETTER:FITZHER_010:E2:1610:AUTOGRAPH:OTHER
+and I dout not but you shall sufficiently see yt by hys letters , so
+that now not only we , here , but also hys holynes and the Cardinals of
+the Inquisition do expect the confirmation of thys good work from you
+and your brethren there ; which me thinks may be the more easily
+granted , and the better performed by you , because there ys nothing
+requyred at your and theyr hands , for ought I see , but that you will
+seeke no innovations , nor to passe the bounds of hys holynes breves ,
+which being observed , I can not see , how there can be any further
+cause of dissention betwixt you , and the fathers , who will not , I am
+well assured , deale with you , or with any matter pertaining to your
+government ; so that it now resteth in your owne hands , both-12 to
+make and conserve peace yf it please you and our brethren with you ,
+whereof I can not but have great hope , knowing your wisdome and
+charity as I doe for the accomplishment whereof , my prayers to god or
+other endevours shall never want : FITZHER,69.010.300
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:58
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:61
+LETTER:FITZHER_010:E2:1610:AUTOGRAPH:OTHER
+and so for thys tyme I take my leave , recommending you to gods holly
+protection , and resting yours in the old manner . FITZHER,69.010.301
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:58
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:61
+LETTER:FITZHER_010:E2:1610:AUTOGRAPH:OTHER
+from my old residence the 6 of February FITZHER,69.010.302
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:58
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:61
+LETTER:FITZHER_010:E2:1610:AUTOGRAPH:OTHER
+Yours as my owne T. Swynnerton . FITZHER,69.010.303
+
+AUTHOR:THOMAS_FITZHERBERT:MALE:_:1552:58
+RECIPIENT:GEORGE_BIRKHEAD:MALE:_:1549:61
+LETTER:FITZHER_010:E2:1610:AUTOGRAPH:OTHER
+{ED:ADDRESSED} To my very good frend Mr George Salvin .
+FITZHER,69.010.304

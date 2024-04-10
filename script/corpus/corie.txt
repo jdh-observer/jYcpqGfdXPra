@@ -1,0 +1,1298 @@
+<B_CORIE>
+
+<Q_COI_A_1666_T_TCORIE> <L_CORIE_001> <A_THOMAS_CORIE> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_JOSEPH_WILLIAMSON> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1633>
+
+<P_24>
+
+{ED:17._TO_JOSEPH_WILLIAMSON}
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:33
+LETTER:CORIE_001:E3:1666:AUTOGRAPH:OTHER
+Deare Sir - An account of my wives dangerous condition comeinge to my
+hand that daie I waited upon my Noble Lord CORIE,24.001.1
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:33
+LETTER:CORIE_001:E3:1666:AUTOGRAPH:OTHER
+and you , made me retorne speedily to Norwich ; soe that I could not
+give his Lordship and your selfe that observance which I intended , nor
+comunicate freely about some publique and private concernes :
+CORIE,24.001.2
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:33
+LETTER:CORIE_001:E3:1666:AUTOGRAPH:OTHER
+but I shall the next terme be in London and pursue what I then hinted .
+CORIE,24.001.3
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:33
+LETTER:CORIE_001:E3:1666:AUTOGRAPH:OTHER
+I pray present my humble services to my Lord with assurance of my
+endeavours to obey his comands punctually in whatsoever he shall please
+{in} to employe me . CORIE,24.001.4
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:33
+LETTER:CORIE_001:E3:1666:AUTOGRAPH:OTHER
+I suppose my not haveinge a letter from you the last tuesday was by
+reason you thought mee sill in London . CORIE,24.001.5
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:33
+LETTER:CORIE_001:E3:1666:AUTOGRAPH:OTHER
+I begg the continuance of your favors , and that our byll of Mortality
+may yet finde roome in the gazet , assureinge you my engagement shall
+be performed . CORIE,24.001.6
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:33
+LETTER:CORIE_001:E3:1666:AUTOGRAPH:OTHER
+I wish oportunities to manifest how much I am Sir , your humble servant
+, Tho: Corie . CORIE,24.001.7
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:33
+LETTER:CORIE_001:E3:1666:AUTOGRAPH:OTHER
+Norwich . CORIE,24.001.8
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:33
+LETTER:CORIE_001:E3:1666:AUTOGRAPH:OTHER
+19 Dec . 66 CORIE,24.001.9
+
+<Q_COI_A_1666_T_TCORIE> <L_CORIE_002> <A_THOMAS_CORIE> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_JOSEPH_WILLIAMSON> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1633>
+
+<P_24>
+
+{ED:18._TO_JOSEPH_WILLIAMSON}
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:33
+LETTER:CORIE_002:E3:1666:AUTOGRAPH:OTHER
+Sir - The post-master for the county of Norfolk and the city beinge in
+a languishinge condition and not like to live longe , I am by severall
+worthie persons requested to use my best endeavors to gaine that
+employment for this Bearer , Captain Robert Lullman <paren> an
+inhabitant of this city </paren> a person of approved loyaltie ,
+singular honesty and integrity , and indeed every waie qualified for
+the execution of a place of that trust . CORIE,24.002.10
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:33
+LETTER:CORIE_002:E3:1666:AUTOGRAPH:OTHER
+Our good freinde Mr Deane of Norwiche hath wrott to my noble Lord
+Arlington , and to your selfe to this purpose , CORIE,24.002.11
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:33
+LETTER:CORIE_002:E3:1666:AUTOGRAPH:OTHER
+and if my poore interest in you be anything significant , I doe
+beeseche you let him be sensible of the effects thereof , by your
+advice and recomends to such persons as may promote his attayning what
+he desires <paren> the succeedinge the present postmaster </paren> .
+CORIE,24.002.12
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:33
+LETTER:CORIE_002:E3:1666:AUTOGRAPH:OTHER
+Sir what favor you shall please to extend towards him heerein will be a
+service to the publique , and a particular obligation upon Your most
+affectionate friende and very humble servant , Tho: Corie .
+CORIE,24.002.13
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:33
+LETTER:CORIE_002:E3:1666:AUTOGRAPH:OTHER
+Norwiche . CORIE,24.002.14
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:33
+LETTER:CORIE_002:E3:1666:AUTOGRAPH:OTHER
+23 Dec . 66 . CORIE,24.002.15
+
+<Q_COI_A_1667_T_TCORIE> <L_CORIE_003> <A_THOMAS_CORIE> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_JOHN_CROFTS> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_--->
+
+<P_26>
+
+{ED:22._TO_DEAN_CROFTS}
+
+{ED:ENDORSED:}
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOHN_CROFTS:MALE:_:_:_
+LETTER:CORIE_003:E3:1667:AUTOGRAPH:OTHER
+Theise for the Reverend Dr John Crofts , Deane of Norwiche , at Mrs
+Dizzens house in Durham-yard in London . CORIE,26.003.16
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOHN_CROFTS:MALE:_:_:_
+LETTER:CORIE_003:E3:1667:AUTOGRAPH:OTHER
+Sir - I doe humbly acknowledge the favor of letters , and the notice
+you gave to the Duke of Monmouths chaplaine of Acworth , whoe I beleive
+will not appeare at the sessions , nor in this city , CORIE,26.003.17
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOHN_CROFTS:MALE:_:_:_
+LETTER:CORIE_003:E3:1667:AUTOGRAPH:OTHER
+for every day fresh informations against him come in . CORIE,26.003.18
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOHN_CROFTS:MALE:_:_:_
+LETTER:CORIE_003:E3:1667:AUTOGRAPH:OTHER
+Mr Burleigh was soe kynde as to let me know the newes in your letter to
+him . CORIE,26.003.19
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOHN_CROFTS:MALE:_:_:_
+LETTER:CORIE_003:E3:1667:AUTOGRAPH:OTHER
+Muddiford {ED:Muddiman} filled us with newes the last post of a more
+pleasinge tast then Mr Williamsons ; as that the Treaty in France did
+proceed hopefully , under the menadge of the E. of St. Albans for us ,
+Monsr. Lione for the French , Beningen for the Dutch and an agent for
+the Dane , and that they had sent to the East India Company heere to
+have memoires of their dampnifications , and that wee insisted much
+upon the delivery of the Isle of Poleroone ; CORIE,26.003.20
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOHN_CROFTS:MALE:_:_:_
+LETTER:CORIE_003:E3:1667:AUTOGRAPH:OTHER
+I write this because you may <paren> if you please </paren> acquaint Mr
+Williamson with it . CORIE,26.003.21
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOHN_CROFTS:MALE:_:_:_
+LETTER:CORIE_003:E3:1667:AUTOGRAPH:OTHER
+I blesse god wee had but 2 {ED:died} of the plague this weeke , one at
+St. Mich. at Thorne <paren> in an old house </paren> and one at the
+pesthouse , but 13 in all . CORIE,26.003.22
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOHN_CROFTS:MALE:_:_:_
+LETTER:CORIE_003:E3:1667:AUTOGRAPH:OTHER
+I am asham'd to tell you how lamentablie the poll businesse is acted
+heere . CORIE,26.003.23
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOHN_CROFTS:MALE:_:_:_
+LETTER:CORIE_003:E3:1667:AUTOGRAPH:OTHER
+Your friends heere salute you , amongst whom Mr Pearse is noe small one
+. CORIE,26.003.24
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOHN_CROFTS:MALE:_:_:_
+LETTER:CORIE_003:E3:1667:AUTOGRAPH:OTHER
+I heartily wishe you with us . CORIE,26.003.25
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOHN_CROFTS:MALE:_:_:_
+LETTER:CORIE_003:E3:1667:AUTOGRAPH:OTHER
+Sir I am Your most faythful friend and very humble servant , Tho: Corie
+. CORIE,26.003.26
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOHN_CROFTS:MALE:_:_:_
+LETTER:CORIE_003:E3:1667:AUTOGRAPH:OTHER
+Norwich . CORIE,26.003.27
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOHN_CROFTS:MALE:_:_:_
+LETTER:CORIE_003:E3:1667:AUTOGRAPH:OTHER
+Martii . 66/7 . CORIE,26.003.28
+
+<Q_COI_A_1667_T_TCORIE> <L_CORIE_004> <A_THOMAS_CORIE> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_JOSEPH_WILLIAMSON> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1633>
+
+<P_26>
+
+{ED:23._TO_JOSEPH_WILLIAMSON}
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_004:E3:1667:AUTOGRAPH:OTHER
+Deare Sir - I am obleig'd to Mr Deane of Norwich for the accounte he
+gives mee of your welfare , then which noe thinge can be more
+acceptable to mee . CORIE,26.004.29
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_004:E3:1667:AUTOGRAPH:OTHER
+I wish I could tell you any newes heere worth your acceptance ,
+CORIE,26.004.30
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_004:E3:1667:AUTOGRAPH:OTHER
+the best is , we have but 2 dead of the plague this weeke .
+CORIE,26.004.31
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_004:E3:1667:AUTOGRAPH:OTHER
+Sir I am ever Yours &c . CORIE,26.004.32
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_004:E3:1667:AUTOGRAPH:OTHER
+Norwich . CORIE,26.004.33
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_004:E3:1667:AUTOGRAPH:OTHER
+Martii . 66/7 . CORIE,26.004.34
+
+<Q_COI_A_1667_T_TCORIE> <L_CORIE_005> <A_THOMAS_CORIE> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_JOSEPH_WILLIAMSON> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1633>
+
+<P_26>
+
+{ED:24._TO_JOSEPH_WILLIAMSON}
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_005:E3:1667:AUTOGRAPH:OTHER
+Deare Sir - It 's our part now to send newes to London ,
+CORIE,26.005.35
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_005:E3:1667:AUTOGRAPH:OTHER
+and I thinke as incertayne as what was sent thence hither by some
+persons , the raunting <P_27> Dutch have given some al'arms to the
+Suffolk coasts , CORIE,27.005.36
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_005:E3:1667:AUTOGRAPH:OTHER
+or rather they have taken them , beinge terrified with every thing that
+had canvasse about it . CORIE,27.005.37
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_005:E3:1667:AUTOGRAPH:OTHER
+The vigilance and activity of our noble Lord Lieutenant and the readie
+appearance of the militia of this county must not be forgotten ;
+CORIE,27.005.38
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_005:E3:1667:AUTOGRAPH:OTHER
+the Head quarters have beene heere this or 11 daies CORIE,27.005.39
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_005:E3:1667:AUTOGRAPH:OTHER
+and indeed it is the most proper place both-1 for the reception of men
+and horse , and receiving intelligence . CORIE,27.005.40
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_005:E3:1667:AUTOGRAPH:OTHER
+I doubt not but you have <paren> before this arrives </paren> some of
+the small politique letters of this towne sent hither retorn'd to you .
+CORIE,27.005.41
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_005:E3:1667:AUTOGRAPH:OTHER
+Oh they are a wretched generation that nothinge will satisfie but what
+is the product of their owne fancy . CORIE,27.005.42
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_005:E3:1667:AUTOGRAPH:OTHER
+I am at present in a scurvy pickle , very feaverish , occasion'd by an
+unhappy fall that hath endanger'd one of myne eyes , CORIE,27.005.43
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_005:E3:1667:AUTOGRAPH:OTHER
+but I hope the worst is past . CORIE,27.005.44
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_005:E3:1667:AUTOGRAPH:OTHER
+It wer too severe to loade you with caresses from friends ,
+CORIE,27.005.45
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_005:E3:1667:AUTOGRAPH:OTHER
+but I must not omitt Mr Deanes . CORIE,27.005.46
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_005:E3:1667:AUTOGRAPH:OTHER
+Sir I am , Yours &c . CORIE,27.005.47
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_005:E3:1667:AUTOGRAPH:OTHER
+Norwich . CORIE,27.005.48
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_005:E3:1667:AUTOGRAPH:OTHER
+24 Junii . 67 . CORIE,27.005.49
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_005:E3:1667:AUTOGRAPH:OTHER
+My Lord Townshend Regiment growes apace . CORIE,27.005.50
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_005:E3:1667:AUTOGRAPH:OTHER
+My most humble services to my noble Lord . CORIE,27.005.51
+
+<Q_COI_A_1667_T_TCORIE> <L_CORIE_006> <A_THOMAS_CORIE> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_JOSEPH_WILLIAMSON> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1633>
+
+<P_27>
+
+{ED:25._TO_JOSEPH_WILLIAMSON}
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_006:E3:1667:AUTOGRAPH:OTHER
+Deare Sir - It is soe long since I heard of or from you that I doe
+begin to doubt I am under some umbrage with you , CORIE,27.006.52
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_006:E3:1667:AUTOGRAPH:OTHER
+if it be for not complyinge with what I formerly signified concerninge
+satisfaction to your servant that caused the bylls of mortality in this
+city to be weekely inserted in the Gazette I doe assure you it is not
+my fault , CORIE,27.006.53
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_006:E3:1667:AUTOGRAPH:OTHER
+for I have mynded the Court of Maioralty therof often , CORIE,27.006.54
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_006:E3:1667:AUTOGRAPH:OTHER
+and they urge their great wants which the plague hath brought upon them
+, CORIE,27.006.55
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_006:E3:1667:AUTOGRAPH:OTHER
+but I will not leave them soe . CORIE,27.006.56
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_006:E3:1667:AUTOGRAPH:OTHER
+My perticular obligations are such to you that I can never sufficiently
+acknowledge and doe earnestly desire to be continued in your memorie
+and good opinion . CORIE,27.006.57
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_006:E3:1667:AUTOGRAPH:OTHER
+I confesse I have of late beene tardie in my wrightinge to you ,
+CORIE,27.006.58
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_006:E3:1667:AUTOGRAPH:OTHER
+but the reason was my indisposition to health by the terrible fitts of
+the stonne I have beene vissited with . CORIE,27.006.59
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_006:E3:1667:AUTOGRAPH:OTHER
+Mr Deane presents you with his most hearty love and services ,
+CORIE,27.006.60
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_006:E3:1667:AUTOGRAPH:OTHER
+so doth Sir , your most faithfull friend and very humble servant , Tho:
+Corie . CORIE,27.006.61
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_006:E3:1667:AUTOGRAPH:OTHER
+Norwich . CORIE,27.006.62
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_006:E3:1667:AUTOGRAPH:OTHER
+16 Aug . 67 . CORIE,27.006.63
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_006:E3:1667:AUTOGRAPH:OTHER
+Be pleased to let your servant renew his intellinge . CORIE,27.006.64
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_006:E3:1667:AUTOGRAPH:OTHER
+If it be feaseable , it is the request of Mr Maior and his brethren
+that the post may come in heere upon Mondaies in the forenoone , as he
+doth at Yarmoth , CORIE,27.006.65
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:34
+LETTER:CORIE_006:E3:1667:AUTOGRAPH:OTHER
+and in order hereunto if you please to consult my noble Lord Arlington
+, you will doe a very acceptable curtesy to this place .
+CORIE,27.006.66
+
+<Q_COI_A_1669_T_TCORIE> <L_CORIE_007> <A_THOMAS_CORIE> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_JOSEPH_WILLIAMSON> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1633>
+
+<P_28>
+
+{ED:26._TO_JOSEPH_WILLIAMSON}
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+Norwich . CORIE,28.007.67
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+18 Oct . 1669 . CORIE,28.007.68
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+Sir - In my retorne hither I stay'd 3 howers at Thetford ,
+CORIE,28.007.69
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+founde Mr Martyn in bedd with a feaver , which I hope hath spent it 's
+furie : CORIE,28.007.70
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+Mr Kendall not in Towne : I deliver'd your letter to Mr Maior , whoe is
+very confident ther will noe opposition be given you in the election ,
+and will take care to provide all things for the enterteyne of you and
+your friends , and expects you thursday next at night . CORIE,28.007.71
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+Both he and Mr Martyn said they had sent to the undersheriffe to be
+there that night , CORIE,28.007.72
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+but at my arrivall heere satterday at 8 at night I could not be
+satisfied till I understood how the undersheriffe was inclyn'd
+CORIE,28.007.73
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+and doe finde that Mr Barber was in this city that day , and had given
+order to Mr Lambert <paren> deputy undersheriffe to him and a very
+honest man </paren> that he should not apeare at Thetforde upon this
+businesse , CORIE,28.007.74
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+for he would make a praecept out himselfe , CORIE,28.007.75
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+but could not doe it upon friday because he had apointed urgent
+businesse upon that day , CORIE,28.007.76
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+yet promised to write to Mr Martyn wher he would be upon Thursday and
+Friday if it should be thought fit to send the writt to him :
+CORIE,28.007.77
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+and this was all that Mr Huby <paren> one of my Lord Howards servants
+heere </paren> could obteyne of him . CORIE,28.007.78
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+And now it is tyme to tell you that Mr Martyn inform'd me that Mr
+Barber was the last weeke at Thetford endeavoringe to make an interest
+for Sir Geo. Vyner , but had not the least encouragement .
+CORIE,28.007.79
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+I will make it my businesse to bringe Mr Lambert with me upon thursday
+, to prevent the worst , CORIE,28.007.80
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+and doe believe it will be a good medium to sett Barber right ; whoe I
+beleive is over greedy of the reward for executinge his office .
+CORIE,28.007.81
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+I have wrot this post to Mr Martyn to send on purpose to Denver <paren>
+wher Barber lives </paren> to prevayle for his beinge upon the place on
+thursday . CORIE,28.007.82
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+I hope Mr Marriot hath beene with you befor this comes to your hande ,
+CORIE,28.007.83
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+he came to London last wednesday CORIE,28.007.84
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+and promissed me he would not fayle to attend my Lord Arlington the
+next day : CORIE,28.007.85
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+Mr Martyn is not inclyn'd to his comeinge , in respect of the picque
+betweene him and Mr Kendall CORIE,28.007.86
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+and desired mee to tell you soe . CORIE,28.007.87
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+I have given order to the Keeper of Croxton parke to have a brace Does
+readie for your service : CORIE,28.007.88
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+be pleased to give order at the post office that your letter to me may
+be sent to me as soone {ED:as} the post comes hither . CORIE,28.007.89
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+My most humble duty and services to my Lord Arlington . CORIE,28.007.90
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_007:E3:1669:AUTOGRAPH:OTHER
+Sir I am Your most faithfull friend and very humble servant , Tho:
+Corie . CORIE,28.007.91
+
+<Q_COI_A_1669_T_TCORIE> <L_CORIE_008> <A_THOMAS_CORIE> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_JOSEPH_WILLIAMSON> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1633>
+
+<P_28>
+
+{ED:27._TO_JOSEPH_WILLIAMSON}
+
+{ED:ENDORSED:}
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_008:E3:1669:AUTOGRAPH:OTHER
+Theise for the ever honoured Joseph Williamson , Esq . at his Lodgeinge
+in White-hall . CORIE,28.008.92
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_008:E3:1669:AUTOGRAPH:OTHER
+Norwich . CORIE,28.008.93
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_008:E3:1669:AUTOGRAPH:OTHER
+24 Dec . 69 . CORIE,28.008.94
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_008:E3:1669:AUTOGRAPH:OTHER
+Sir - Attendinge upon the Lord Arlington at Thetford on Wednesday last
+, I did present a letter to his Lordship from the Maior and Aldermen of
+this city , wherin they prayed his assistance in obteyninge <P_29> his
+Majestys gratious Letters , to authorise them and their successors to
+limitt a tyme to stage-players , actors of comoedies , tragedies ,
+pastoralls , interludes , lotteries , puppet playes , mountebancks ,
+and all other showes whatsoever , whoe by their frequent resorte to
+this city diverted the meaner sort of people from their labors in their
+severall manufactures , therby occasioninge a vaine expence of their
+tyme and monie . CORIE,29.008.95
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_008:E3:1669:AUTOGRAPH:OTHER
+His Lordship was pleased to promise the effectinge therof
+CORIE,29.008.96
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_008:E3:1669:AUTOGRAPH:OTHER
+and comanded me to wright to you by this post to mynde him therof .
+CORIE,29.008.97
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_008:E3:1669:AUTOGRAPH:OTHER
+In obedience to his comands I give you this trouble , CORIE,29.008.98
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_008:E3:1669:AUTOGRAPH:OTHER
+and pray your care in the suddaine dispatch of the Letters ,
+CORIE,29.008.99
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_008:E3:1669:AUTOGRAPH:OTHER
+for I heare that the players intend to be heere within 14 daies .
+CORIE,29.008.100
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_008:E3:1669:AUTOGRAPH:OTHER
+I sende inclosed a coppie of a former letter that my Lord Howard
+obteyned for us , to which if ther be added what is above recyted , and
+a clause to comitt such to prison as shall refuse to obey such
+limitations of tyme , it is hoped wee may receive much good therby .
+CORIE,29.008.101
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_008:E3:1669:AUTOGRAPH:OTHER
+I beseche you to draw the letter as full and with as much advantage to
+us as is possible . CORIE,29.008.102
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_008:E3:1669:AUTOGRAPH:OTHER
+My most humble duty and services to my noble Lord . CORIE,29.008.103
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:36
+LETTER:CORIE_008:E3:1669:AUTOGRAPH:OTHER
+Sir , I am , your most faithfull humble servant , Tho: Corie .
+CORIE,29.008.104
+
+<Q_COI_A_1670_T_TCORIE> <L_CORIE_009> <A_THOMAS_CORIE> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_JOSEPH_WILLIAMSON> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1633>
+
+<P_30>
+
+{ED:29._TO_JOSEPH_WILLIAMSON}
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_009:E3:1670:AUTOGRAPH:OTHER
+Norwich . CORIE,30.009.105
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_009:E3:1670:AUTOGRAPH:OTHER
+5 Jan. 69. <paren> </paren> . CORIE,30.009.106
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_009:E3:1670:AUTOGRAPH:OTHER
+Sir - I wrot you the 24=th= of December by my Lord Arlingtons special
+order , CORIE,30.009.107
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_009:E3:1670:AUTOGRAPH:OTHER
+and doe hope it came safe to you . CORIE,30.009.108
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_009:E3:1670:AUTOGRAPH:OTHER
+The tyme approachinge that the players threatened to vissit us , gives
+you this second trouble about his Majestys letter to limit thier tyme
+of stay heere , to which I beseech you give all imagineable dispatch :
+CORIE,30.009.109
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_009:E3:1670:AUTOGRAPH:OTHER
+the small pox rageth still amongst us , CORIE,30.009.110
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_009:E3:1670:AUTOGRAPH:OTHER
+and poverty dayly invades us like an armed man , soe that want of
+health and wealth makes us in noe condition to entertaine such guests .
+CORIE,30.009.111
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_009:E3:1670:AUTOGRAPH:OTHER
+I begg your pardon for incroachinge upon your more important concernes
+, CORIE,30.009.112
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_009:E3:1670:AUTOGRAPH:OTHER
+and with the tender of my most humble duty and services to my noble
+Lord I remaine , Sir your most faithfull and very humble servant , Tho:
+Corie . CORIE,30.009.113
+
+<Q_COI_A_1670_T_TCORIE> <L_CORIE_010> <A_THOMAS_CORIE> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_JOSEPH_WILLIAMSON> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1633>
+
+<P_30>
+
+{ED:30._TO_JOSEPH_WILLIAMSON}
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_010:E3:1670:AUTOGRAPH:OTHER
+Norwich . CORIE,30.010.114
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_010:E3:1670:AUTOGRAPH:OTHER
+28th Jan. 69. <paren> </paren> . CORIE,30.010.115
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_010:E3:1670:AUTOGRAPH:OTHER
+Sir - If I trespase upon your patience by my third letter about his
+Majestys order to limit the abydinge of players in this city , you will
+please to ascribe it to the importunity of those whoe made thier
+addresse to my Lord Arlington to that purpose when he was last at
+Thetford ; CORIE,30.010.116
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_010:E3:1670:AUTOGRAPH:OTHER
+I am now ingaged by them to acquaint you that accordinge to a
+description in the Gazett of the 27th of December last of a person with
+long browne hayre , <P_31> pale visage , with bow leggs , that was
+suspected to be of the gang of Duval , was apprehended here the 31st of
+the month one Tho: Gill <paren> as he calls himselfe </paren> agreeinge
+much with the description , whoe upon his examination sayth that he
+lives neare Feaversham in Kent , came from thence to Graves-end the
+weeke before X=tmas= , cross'd the Thames , came to Chelmsford , thence
+to Colchester , to Braintree , to Ipswich , to Blythburgh , to Yarmoth
+, to Norwich , confesseth himselfe a gamester , won about $=li=
+{TEXT:20=li=} at Ipswich , the occasion of his journey only for his
+recreation . CORIE,31.010.117
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_010:E3:1670:AUTOGRAPH:OTHER
+It was thought fit to take security for his apeareinge at the sessions
+of this city , CORIE,31.010.118
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_010:E3:1670:AUTOGRAPH:OTHER
+and in the interim he was advised to goe or send into Kent for a
+certificate of his life and conversation , and to repaire with it to
+one of his Majestys Secretaries of State , wherby he might obteyne a
+letter that he was not a person suspected to be of the confederacy .
+CORIE,31.010.119
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_010:E3:1670:AUTOGRAPH:OTHER
+This he promised , CORIE,31.010.120
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_010:E3:1670:AUTOGRAPH:OTHER
+but neglected , CORIE,31.010.121
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_010:E3:1670:AUTOGRAPH:OTHER
+and this weeke apeareinge at the sessions the court thought fit <paren>
+haveing notice that he had not beene out of Norfolk but continued his
+dissolute way of gameinge and debauchinge of young people </paren> to
+comitt him to prison till he gave very good suerties for the good
+behaviour and to apeare at the next sessions . CORIE,31.010.122
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_010:E3:1670:AUTOGRAPH:OTHER
+If you please to give your selfe the trouble to enquire whither he be a
+person suspected for a high way man , or be any of those that are
+accused by $Dudley Widdrington , you will obleidge the Magistrates of
+this city , whoe are very $jealous {ED:?} {ED:...} eiusdem farinae .
+CORIE,31.010.123
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_010:E3:1670:AUTOGRAPH:OTHER
+I begg your pardon heartily for this encroachment upon your <em> more
+important </em> affaires , CORIE,31.010.124
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_010:E3:1670:AUTOGRAPH:OTHER
+and with great truth remaine , Sir , your most faithfull humble servant
+CORIE,31.010.125
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_010:E3:1670:AUTOGRAPH:OTHER
+{ED:...} service to my noble Lord . CORIE,31.010.126
+
+<Q_COI_A_1670_T_TCORIE> <L_CORIE_011> <A_THOMAS_CORIE> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_JOSEPH_WILLIAMSON> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1633>
+
+<P_31>
+
+{ED:32._TO_JOSEPH_WILLIAMSON}
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_011:E3:1670:AUTOGRAPH:OTHER
+Norwich . CORIE,31.011.127
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_011:E3:1670:AUTOGRAPH:OTHER
+21 Dec . . CORIE,31.011.128
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_011:E3:1670:AUTOGRAPH:OTHER
+Sir - The experience I have had of your former favors gives me
+encouragement to applie to you at present for your assistance , that if
+<P_32> ther be any Receivors for the Subsidies granted to his Majesty I
+may be in my noble Lord Arlingtons remembrance for the county of
+Norfolk and city of Norwich . And likewise a commissioner , wherin I
+shall endeavor to doe his Majesty service . CORIE,32.011.129
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_011:E3:1670:AUTOGRAPH:OTHER
+I have wrott twoe or three lynes to my Lord to this purpose , and also
+to my Lord Howard . CORIE,32.011.130
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_011:E3:1670:AUTOGRAPH:OTHER
+Sir , I begg your pardon for this trouble CORIE,32.011.131
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:37
+LETTER:CORIE_011:E3:1670:AUTOGRAPH:OTHER
+and remaine , Sir , your most humble servant , Tho: Corie .
+CORIE,32.011.132
+
+<Q_COI_A_1671_T_TCORIE> <L_CORIE_012> <A_THOMAS_CORIE> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_JOSEPH_WILLIAMSON> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1633>
+
+<P_32>
+
+{ED:33._TO_JOSEPH_WILLIAMSON}
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:38
+LETTER:CORIE_012:E3:1671:AUTOGRAPH:OTHER
+Norwich . CORIE,32.012.133
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:38
+LETTER:CORIE_012:E3:1671:AUTOGRAPH:OTHER
+22 Feb. <paren> 1671 </paren> . CORIE,32.012.134
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:38
+LETTER:CORIE_012:E3:1671:AUTOGRAPH:OTHER
+Honored Sir - This is to pray your favor in myndinge my noble Lord
+Arlington of my humble suite to his Lordship that I may have his
+interest in the Lords Commissioners of the Treasurie to be nominated a
+Commissioner in Norfolk and Norwich for the subsidies and Receiver
+General for both . CORIE,32.012.135
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:38
+LETTER:CORIE_012:E3:1671:AUTOGRAPH:OTHER
+His Lordship was pleased to promise my Lord Howard he would be
+mindefull of me if the Kinge had the disposall of them , which I am now
+informed he hath . CORIE,32.012.136
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:JOSEPH_WILLIAMSON:MALE:_:1633:38
+LETTER:CORIE_012:E3:1671:AUTOGRAPH:OTHER
+I begg your pardon for the frequent troubles you receive from Sir ,
+your most humble servant , Tho: Corie . CORIE,32.012.137
+
+<Q_COI_A_1671_T_TCORIE> <L_CORIE_013> <A_THOMAS_CORIE> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_UNKNOWN_RECIPIENT_3>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_32>
+
+{ED:34._TO_AN_UNKNOWN_CORRESPONDENT_[?_WILLIAMSON]}
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+Norwich . CORIE,32.013.138
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+Oct. 2. 1671 . CORIE,32.013.139
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+Sir - Acordinge to my promise I shall now give you a short narrative of
+the reception of their Majesties here in Norwich , and leave that of
+his Majesty at Yarmoth to a better hand , since I was only present here
+, spectator of all . CORIE,32.013.140
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+I could not send you this account sooner then by this post , in regard
+her Majesty parted hence but yesterday morne . CORIE,32.013.141
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+On Thursday last , beinge Sept. the 28th , about one of the clock
+afternoone , Mr Maior , attended by his bretheren in scarlet , sword ,
+capp of mantenance , maces &c. and young citizen {ED:s} went out on
+horseback to our city confynes on Yarmoth roade at Troas {ED:Trowse}
+bridge to meete , welcome and receive his Majesty : at which same tyme
+and place did likewise attend the Rt. Hon. the Lord Henry Howard with
+his two sonnes and trayne ; wher after about one howres stay ,
+heareinge by the vancourriers and those sent to watch the roade that
+his Majesty was like to be there within an howre after , or thereabouts
+, and feareinge <paren> as it happened </paren> that whilst they wayted
+there , her Majesty , who was comeinge from the Rt. Hon. the Lord
+Arlingtons on London roade , might reach our city limitts that way ere
+Mr Maior and the rest could have first attended his Majesty to the
+Dukes Palace and get afterwards to their other sayd limitts wher her
+Majesty was to passe , it was imediately resolved , first by the Lord
+Henry Howard , to send his sonnes to waite there , serve <P_33> for
+guydes , and make his excuse to the Queene for his not attendinge in
+person , in regard to the necessity of his atending his Majesty , which
+they performed accordingly ; CORIE,33.013.142
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+and in the next place Mr Corie being in like maner dismis'd by the
+Maior and his bretheren with my lords sonnes , made the cities excuse
+and complement to her Majesty , whilst my Lord and Mr Maior with the
+rest above {ED:named} mett his Majesty about 4 of the clock at Troas
+Bridge , and aft {ED:er} a short congratulat {ED:ory} speech and a
+present of guynies , conducted him to my Lord H. Howards house , called
+the Dukes Palace . Imediately after which <paren> though they wer
+already neare through wett </paren> Mr Maior and his atendants made
+what hast they could to meet her Majesty , whoe was already past their
+city limitts at Cringleford Bridge , about halfe a myle , and soe mett
+her upon the broad hill one myle and an halfe hence at Eaton townes end
+, wher the Recorder <paren> as afore to his Majesty </paren> made his
+speeche CORIE,33.013.143
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+and soe all conducted her to the Palace aforesaid ; both their
+Majesties <paren> though at severall tymes </paren> entringe the city
+at St. Stephens gates <paren> where they wer enterteyned with the
+continued shouts and acclamations of joy from all the people </paren> ,
+through a lane all the way of the livery-men <paren> beinge about
+</paren> and the city regiment <paren> of about persons </paren> .
+CORIE,33.013.144
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+The vast number of Dukes , Earls , Lords and young nobility of both
+sexes and persons of quality , besyde such other cheife officers whose
+duty engag'd them to atend the Court this journey , is not to be
+numbred here ; wherfore I content my selfe at present with sendinge you
+this enclosed list of such as I saw lodged within my Lord Howards dors
+, together with all thier respective servantes &c . CORIE,33.013.145
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+It is likewyse easier to be conceived then sett downe here , the vast
+confusion of crowde of people of all sorts which offered to presse into
+the Dukes Palace to see soe noble a sight as Norwich ne're before was
+honored with ; CORIE,33.013.146
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+for indeed I thinke almost halfe of all the people in Norfolk and
+Suffolk were gott together within the city and scarse roome left for
+horse or man to stirr here-about ; CORIE,33.013.147
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+but the great precaution , care and vigilancy of my Lord Howard <paren>
+whose sober and generous character is soe well knowne to all the world
+</paren> had ordered matters soe afore-hand , as that I saw <paren>
+besides their Majesties , the Duke and Grandees of the Court </paren> I
+may say some hundreds of people , all plentifully , noblie and orderly
+served at supper , without the least confusion , disorder or ill
+accident atendinge so greate an undertakeinge as this , which is the
+first that hath ventured ever yet to treat and lodge in his house , his
+Majesty , the Queene and Duke with their traynes at once .
+CORIE,33.013.148
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+$'T $is {TEXT:'Tis} likewise not unworthy your observe that his
+Lordship <paren> though no stranger here </paren> yet has not of late
+lived at this his home , nor has yet the halfe of his house finished or
+in order , and was therfore forced <paren> at less than one months
+warninge </paren> to post hither out of Yorkshire to prepare here for
+all this vast reception ; in which indeed I will be the more spareing
+to say any thing . CORIE,33.013.149
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+First , none who did not see it can well expresse the splendor of it :
+CORIE,33.013.150
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+next , because I am so well knowne to be a partiall neighbour and
+servant of his Lordships , as from me that might looke like flattery or
+exaggeration , which in it selfe indeed needs no other rhethorique but
+the naked truth statinge of matter of fact to sett it forth , soe as $I
+$'ll {TEXT:I'le} only remarke in short how that all the house through
+out was noblie and richlie furnished with bedds , hangings , and the
+apurtenances for lodgeing . CORIE,33.013.151
+
+<P_34>
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+The old Tennis-court turn'd into a kitchin , and the Dukes bowlinge
+alley <paren> which , as you know , is one and thirty foote wyde and
+one hundred and nynety foote long </paren> made into five severall
+roomes for eateinge , wher , after thier Majesties roome being most
+sumptuously adorn'd with all things necessary and parted from the rest
+, the other foure doe likewise help to shew the greatnesse of his heart
+who made this noble preparation and enterteynment . CORIE,34.013.152
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+Next morning in the first place his Majesty was gratiously pleased to
+touch severall persons for the Kings Evill , and then to see the
+Cathedrall , whence he retyred out of the crowd and stept into the Lord
+Bishops Palace adjoyninge to refresh himselfe with a glass of choyce
+wyne and sweet-meates , and atended only by his Roial Highnesse , the
+Duke of Buckingham and the Lord Howard , CORIE,34.013.153
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+and so returninge by the Dukes Palace wente to the Guyld-hall , where
+<paren> followed by a vast nobility , together with the Rt. Hon. the
+Lord Townshend , our Lord Lieutenant of this countie and city </paren>
+he had from the leads a prospect of the city and saw our whole regiment
+in armes with their red-coates , CORIE,34.013.154
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+and wanted not the reiterated acclamations of joy from the people , who
+soe filled the whole market-place as his Majestys coach had scarse
+roome to passe thence to the New-Hall , wher he with his Roial
+Highnesse went to meet the Queene and received a noble treate from the
+city , whence <paren> it being neare eleaven of the clock </paren> both
+their Majesties , to gether with his Roial Highnesse , hasted to Sir
+John Hobarts at Blickling to dinner ; where , although I confesse I was
+no spectator <paren> as I was of all in towne </paren> yet I $can $not
+{TEXT:cannot} but conclude with all that wer that thier Majesties wer
+most noblie and plentifully treated to their full satisfactions : of
+all perticulars wherof I doubt not but you have a more exact account
+from some hand there present . CORIE,34.013.155
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+But here thier Majesties parted after dinner , the Queene returning to
+supp and lie at Norwich in the Dukes Palace as before , whilst his
+Majesty and his Roial Highnesse and divers of the principall lords went
+to Sir Robert Pastons at Oxnead to supper and bedd , and wer anew most
+noblie and plentifully treated there , and lodged to their high content
+. CORIE,34.013.156
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+Next morne <paren> being Saterday </paren> her Majesty parted so early
+from Norwich as to meet the King againe at Oxnead ere noone , Sir
+Robert Paston haveing got a vast dinner so early ready in regard that
+his Majesty was to goe that same afternoone <paren> as he did </paren>
+twenty myles to supper to the Lord Townshends , wher he stayed all
+yesterday , and as I suppose is this evening already return'd to
+New-market , extreamely well satisfied with our Lord Lieutenants
+reception , who no doubt has used {ED:his} utmost endeavors for the
+satisfaction and content of his Majesty , to whome he has ever aproved
+himselfe a most vigilant and faithfully devoted servant .
+CORIE,34.013.157
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+Her Majesty , haveinge but seven myles back to Norwich that night from
+Sir Robert Pastons , was pleased for about two houres after dinner to
+divert her selfe at cards with the court ladies and my Ladie Paston who
+had treated her so well , CORIE,34.013.158
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+and yet returned early to Norwich that eveninge , to the same quarters
+as formerly ; CORIE,34.013.159
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+and on Sunday morne <paren> after her devotions perform'd and a
+plentifull breakefast </paren> shee tooke coach , extreamely satisfied
+with the dutifull observances of all this countie and city ,
+CORIE,34.013.160
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+and was conducted by the Lord Howard and his sonnes as far as
+Attleburrough , where fresh coaches atended to carry her back to the
+Rt. Hon. the Lord Arlingtons at Euston , wher I leave her Majesty to
+such magnificent enterteynment as is suitable to the great and generous
+hearts of that noble Lord and Lady <paren> my most singular patrones
+</paren> . CORIE,34.013.161
+
+<P_35>
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+But ere I close my letter I must not forget how that although we wer
+indeed not so readie as we ought to have beene with our present for her
+Majesty and his Roial Highness at thier first arivalls , yet wee
+supply'd that duty since , with a small present to her Majesty of one
+hundred guinyes and of fifty to his Roial Highness . CORIE,35.013.162
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+I $can $not {TEXT:cannot} likewise here forbeare to let you know how
+infinitely gratious her Majesty was to all our city , being pleas'd to
+condescend so farre as to let allmost all sorts of people <paren> of
+what degree soever </paren> to kisse her hand , even as she past along
+the Gallery , with a most admirable and saintlike charity and patience
+, so as our whole inhabitants within and without doores ring and sing
+of nothing else but her prayses , continuall prayers and teares being
+offer'd up for her temporall and eternall blessings by us whoe all
+conclude that if ther be a saynt of earth , it must undoubtedly be her
+Majesty , since no eye alive did ever see nor eare within the memorie
+of man did ever heare of so much goodnesse , charity , humility ,
+sweetnesse and virtue of all kindes to meet in one earthly creature ,
+as are now lodged in her Majestys saint-like breast : after whose
+generous example , I must no lesse forgett one of the gentlemen wayters
+<paren> called Mr Tours </paren> who waiting at the dore of the drawing
+roome whilst the Maiors and all the Aldermens wives and daughters came
+in on Saterday night to kisse her Majestys hand , one of the companie
+droppinge a pearle neck-lace of very good valew <paren> which in this
+horrible crowd was seene by none but himselfe who tooke it up </paren>
+he imediately found out and called upon the Lord Henry Howard to
+receive and retorne it to the owner , which was such a surprising act
+of generous virtue in a poore cavalier courtier as for ever has gain'd
+him and them immortall fame and reputation in this city .
+CORIE,35.013.163
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+The like example we finde to follow something neare in what my lord did
+this very morninge himselfe assure me to my wonder , that in all this
+hurry his buttlers averre that in about five thousand pounds worth of
+plate they have not lost one ounce , CORIE,35.013.164
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+nor can my lord finde by any other of his servants that ther is lost to
+the valew of three-pence of any of his goods <paren> even not of linnen
+, nor any other particular whatsoever </paren> which I confesse is very
+strange in such horrid crowdes , as I have seene perpetuallie pestringe
+all corners of the house , CORIE,35.013.165
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+nor has man , woman or chylde received the least hurt or
+dissatisfaction in theise crowds . CORIE,35.013.166
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+And now , last of all , his lordship is soe obleidging , even to the
+meanest of us all , as that he keepes up his house all ready furnished
+as it was when the Court was heere and will continue it soe all this
+weeke to satisfy such as have not seene it already , soe as the house
+realy looks now as full and quick as a warren with rabbits .
+CORIE,35.013.167
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+But $'t $is {TEXT:'tis} high tyme I aske your pardon and surcease this
+present tedious trouble given you . CORIE,35.013.168
+
+AUTHOR:THOMAS_CORIE:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_3:MALE:_:_:_
+LETTER:CORIE_013:E3:1671:AUTOGRAPH:OTHER
+Sir , your affectionate freind to serve you , T. C. CORIE,35.013.169

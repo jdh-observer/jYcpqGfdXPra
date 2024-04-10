@@ -1,0 +1,1800 @@
+<B_MARCHAL>
+
+<Q_MAR_A_1440S?_T_TMAYKYN> <L_MARCHAL_001> <A_THOMAS_MAYKYN>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_MARCHALL>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_F35>
+
+{ED:SC_1:xliv,_35._THOMAS_MAYKYN_TO_WILLIAM_MARCHALL.}
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_001:M4:1440S?:AUTOGRAPH:OTHER
+Well by louyd and trusty frende I recomende me to +gow , lykyng yow to
+vnderstonde that Robert Quynarton hath enformyd me how +t=t= Aleyne
+Jonysson hath your brother Richarde and me at exigent ; y=e= wherfor I
+p~y yow , as I may do yow eny s~uyse in tyme comyng , y=t= in all hast
+y=t= ye may dessyre to speke w~ hy~ , and to wete what day of payement
+he woll asyne yow in oure name , MARCHAL,F35.001.1
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_001:M4:1440S?:AUTOGRAPH:OTHER
+for , syr , my parte of +t~ dette ys but xix s viij d And youre brother
+Richarde as myche , the wherfor as my parte comyth to I p~y yow but yyf
+ye may take a day resonable y=t= ye wolle contente hy~ of xix s viijd ,
+MARCHAL,F35.001.2
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_001:M4:1440S?:AUTOGRAPH:OTHER
+for h~ is no more of trowthe . MARCHAL,F35.001.3
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_001:M4:1440S?:AUTOGRAPH:OTHER
+And y=t= may ye p~ve by h~s boke of accompte by twene vs .
+MARCHAL,F35.001.4
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_001:M4:1440S?:AUTOGRAPH:OTHER
+And syr I schall paye to Thom~s Grace your Carpent~r as myche in youre
+name so y=t= he schall be well plesyd w~ goddys grace .
+MARCHAL,F35.001.5
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_001:M4:1440S?:AUTOGRAPH:OTHER
+And syr , as to your brother Richarde , I suppose w~ your good
+entretyse y=t= he wolde yeue hy~ lenger day yanne me .
+MARCHAL,F35.001.6
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_001:M4:1440S?:AUTOGRAPH:OTHER
+And forthermore I deme but for my p~sone y=t= he wolde neu~ take sewte
+ayen Richarde by cause of olde acqueyntawnse , MARCHAL,F35.001.7
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_001:M4:1440S?:AUTOGRAPH:OTHER
+and also ye may sey vn to hy~ y=t= Richarde yafe hy~ x li. of golde in
+a day MARCHAL,F35.001.8
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_001:M4:1440S?:AUTOGRAPH:OTHER
+and y~ for he may y=e= bett~ for yeue xix s viij d . MARCHAL,F35.001.9
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_001:M4:1440S?:AUTOGRAPH:OTHER
+And as to my parte of y=e= costys , I p~y yow maketh hy~ to for yeue at
+your request yyf ye may , MARCHAL,F35.001.10
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_001:M4:1440S?:AUTOGRAPH:OTHER
+yyf not endeth with hym in all wyse y=t= I be harmeles as I truste
+fully in yow . MARCHAL,F35.001.11
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_001:M4:1440S?:AUTOGRAPH:OTHER
+No more at y=s= tyme MARCHAL,F35.001.12
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_001:M4:1440S?:AUTOGRAPH:OTHER
+but how ye spede in y=s= matt~ I p~y yow sendeth me aletter in hast .
+MARCHAL,F35.001.13
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_001:M4:1440S?:AUTOGRAPH:OTHER
+And y=e= holy goost haue yow in h~s kepyng . MARCHAL,F35.001.14
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_001:M4:1440S?:AUTOGRAPH:OTHER
+I wryte at Wodestoke in grete hast y=e= Sonday after Est~ day .
+MARCHAL,F35.001.15
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_001:M4:1440S?:AUTOGRAPH:OTHER
+By Thom~s Maykyn . MARCHAL,F35.001.16
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_001:M4:1440S?:AUTOGRAPH:OTHER
+And syr I sende yow a bylle of y=e= laste accompte y=t= Aleyne Johnson
+, your brother Richard & I made last to ged~ in london in h~s cownt~ .
+MARCHAL,F35.001.17
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_001:M4:1440S?:AUTOGRAPH:OTHER
+{ED:ADDRESSED} To my tresty frende William Marchall Clerke of ye
+Chawnsery . MARCHAL,F35.001.18
+
+<Q_MAR_D_1450S?_FO_WTHAME> <L_MARCHAL_002> <A_WALTER_THAME>
+<A-GENDER_MALE> <A-REL_KIN> <A-DOB_---> <R_THOMAS_DANE> <R-GENDER_MALE>
+<R-REL_KIN> <R-DOB_--->
+
+<P_F43>
+
+{ED:SC_1:xliv,_43._WALTER_THAME_TO_THOMAS_DANE.}
+
+AUTHOR:WALTER_THAME:MALE:KIN:_:_
+RECIPIENT:THOMAS_DANE:MALE:KIN:_:_
+LETTER:MARCHAL_002:M4:1450S?:UNKNOWN:FAMILY_OTHER
+Ry+gt reu~end and worschepefull Cosyn , I cumma~de me on to y+gow
+$desyryng hertely to here of y+gowyr whelfare and good prosperite ,
+y=e= whyche y be seche all myty god to manteyne and incresse to hys
+pleysyng and to y+gouyre hertys desyyre ; MARCHAL,F43.002.19
+
+AUTHOR:WALTER_THAME:MALE:KIN:_:_
+RECIPIENT:THOMAS_DANE:MALE:KIN:_:_
+LETTER:MARCHAL_002:M4:1450S?:UNKNOWN:FAMILY_OTHER
+and yf hyt pleyse y+gowe to here of my wellfare at y=e= maky~g of yis
+lettyr I whasse in good hellte ; MARCHAL,F43.002.20
+
+AUTHOR:WALTER_THAME:MALE:KIN:_:_
+RECIPIENT:THOMAS_DANE:MALE:KIN:_:_
+LETTER:MARCHAL_002:M4:1450S?:UNKNOWN:FAMILY_OTHER
+ferthyr mor gefeyng y+gow knowlege at cristemasse last past I be gan
+Arte , purposyng w~h the grase of all myty god and my good fryndys to
+continu forthe there in , trustyng to god y=t= +ge wyll be on to me
+there yn hensseforward as ye affe byn here a forre , MARCHAL,F43.002.21
+
+AUTHOR:WALTER_THAME:MALE:KIN:_:_
+RECIPIENT:THOMAS_DANE:MALE:KIN:_:_
+LETTER:MARCHAL_002:M4:1450S?:UNKNOWN:FAMILY_OTHER
+& there to y bes eche yyow w~h all my harte ; MARCHAL,F43.002.22
+
+AUTHOR:WALTER_THAME:MALE:KIN:_:_
+RECIPIENT:THOMAS_DANE:MALE:KIN:_:_
+LETTER:MARCHAL_002:M4:1450S?:UNKNOWN:FAMILY_OTHER
+also my fathyr and mothyr and my gransar cumawnd them on to yow hertely
+to here of yyowyr whellffar ; gefeyng yyow knolege that my brothyr Jon
+by the wyllys of hys fry~dys beyng there ny hym hathe gett hym a wyfe
+MARCHAL,F43.002.23
+
+AUTHOR:WALTER_THAME:MALE:KIN:_:_
+RECIPIENT:THOMAS_DANE:MALE:KIN:_:_
+LETTER:MARCHAL_002:M4:1450S?:UNKNOWN:FAMILY_OTHER
+and y~for my fathyr and my mothyr and my gransare and also $my {TEXT:m}
+Maystyr beddford and my Maystras & my brothyr & I bothe pray yyow
+hartely yf hyt pleyse y+gow of y+gowyr goodnes to take y=s= labyr a pon
+y+gow to cu~me thethyr to y=e= Weddyng , all they pray yow hartely the
+whyche shall be to them grete worchepe & joy ; MARCHAL,F43.002.24
+
+AUTHOR:WALTER_THAME:MALE:KIN:_:_
+RECIPIENT:THOMAS_DANE:MALE:KIN:_:_
+LETTER:MARCHAL_002:M4:1450S?:UNKNOWN:FAMILY_OTHER
+also y delyu~yd a peyyr of glouis to my brothyr Jon ,
+MARCHAL,F43.002.25
+
+AUTHOR:WALTER_THAME:MALE:KIN:_:_
+RECIPIENT:THOMAS_DANE:MALE:KIN:_:_
+LETTER:MARCHAL_002:M4:1450S?:UNKNOWN:FAMILY_OTHER
+yf hyt pleyse y+gow to take them I pray y+gow hartely ;
+MARCHAL,F43.002.26
+
+AUTHOR:WALTER_THAME:MALE:KIN:_:_
+RECIPIENT:THOMAS_DANE:MALE:KIN:_:_
+LETTER:MARCHAL_002:M4:1450S?:UNKNOWN:FAMILY_OTHER
+no more to y+gow at thys tyme but y=e= holy gost haue y+gow in h~s
+kepyng ; MARCHAL,F43.002.27
+
+AUTHOR:WALTER_THAME:MALE:KIN:_:_
+RECIPIENT:THOMAS_DANE:MALE:KIN:_:_
+LETTER:MARCHAL_002:M4:1450S?:UNKNOWN:FAMILY_OTHER
+thys lettyr whas wryte at Oxford the morro afftyr syn benedyt ys day ,
+be y+gowyr cosyn & also y+gowyr bed man Wat~ Thame MARCHAL,F43.002.28
+
+AUTHOR:WALTER_THAME:MALE:KIN:_:_
+RECIPIENT:THOMAS_DANE:MALE:KIN:_:_
+LETTER:MARCHAL_002:M4:1450S?:UNKNOWN:FAMILY_OTHER
+{ED:ADDRESSED} To my worchepefull cosyn Maystyr Thomas Dane Be thys
+lett~ deliu~d . MARCHAL,F43.002.29
+
+<Q_MAR_A_1476_FO_JMARCHALL> <L_MARCHAL_003> <A_JOHN_MARCHALL>
+<A-GENDER_MALE> <A-REL_NEPHEW> <A-DOB_---> <R_WILLIAM_MARCHALL>
+<R-GENDER_MALE> <R-REL_UNCLE> <R-DOB_--->
+
+<P_F262>
+
+{ED:SC_1:xlvi,_262._JOHN_MARCHALL_TO_WILLIAM_MARCHALL.}
+
+AUTHOR:JOHN_MARCHALL:MALE:NEPHEW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:UNCLE:_:_
+LETTER:MARCHAL_003:M4:1476:AUTOGRAPH:FAMILY_OTHER
+Right welbylovyd yeme , I comawnnd me vnto you , eu~ mor~ desyring to
+her~ of yo~ good Welfar~ , MARCHAL,F262.003.30
+
+AUTHOR:JOHN_MARCHALL:MALE:NEPHEW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:UNCLE:_:_
+LETTER:MARCHAL_003:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and yeffe hitt pleas you to her~ of my welfar~ {ED:and_CROSSED_OUT} att
+y=e= makyng of this lett~ I was in good hele , blessyd by god ;
+MARCHAL,F262.003.31
+
+AUTHOR:JOHN_MARCHALL:MALE:NEPHEW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:UNCLE:_:_
+LETTER:MARCHAL_003:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and fforthirmor~ I pray you to Recomawnnd me to Cornnewell and his
+wiffe w~ all his housold , to Thom~s hosyar & his wiffe , pyry and his
+wiffe . To gawunt and his wiffe / and to selyte a faf~=ll=... w~h all
+odyr good frendes , as my trust ys in you /; MARCHAL,F262.003.32
+
+AUTHOR:JOHN_MARCHALL:MALE:NEPHEW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:UNCLE:_:_
+LETTER:MARCHAL_003:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and also I p~y you for the Reu~ens of god se well to yo~ selffe
+MARCHAL,F262.003.33
+
+AUTHOR:JOHN_MARCHALL:MALE:NEPHEW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:UNCLE:_:_
+LETTER:MARCHAL_003:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and see +t=t= yo~ lyvelode be in saffegard , fore +tem that shall haue
+hitt aft~ you~ wille , and that +t~ be neu~ Trobyll her~aft~ fore hit ,
+MARCHAL,F262.003.34
+
+AUTHOR:JOHN_MARCHALL:MALE:NEPHEW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:UNCLE:_:_
+LETTER:MARCHAL_003:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and as sone as I com~ home w~ I shall see you sone aftyr ;
+MARCHAL,F262.003.35
+
+AUTHOR:JOHN_MARCHALL:MALE:NEPHEW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:UNCLE:_:_
+LETTER:MARCHAL_003:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and yeffe ye woll do so moche to send me word to london
+MARCHAL,F262.003.36
+
+AUTHOR:JOHN_MARCHALL:MALE:NEPHEW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:UNCLE:_:_
+LETTER:MARCHAL_003:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and whed~ I Come or none
+
+lett me vnd~ stond howe ye do ; MARCHAL,F262.003.38
+
+AUTHOR:JOHN_MARCHALL:MALE:NEPHEW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:UNCLE:_:_
+LETTER:MARCHAL_003:M4:1476:AUTOGRAPH:FAMILY_OTHER
+hitt woll be ner~ all halowun tyde or +t=t= I Com~ home in to ynglond ,
+as I vnd~ stond yete , MARCHAL,F262.003.39
+
+AUTHOR:JOHN_MARCHALL:MALE:NEPHEW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:UNCLE:_:_
+LETTER:MARCHAL_003:M4:1476:AUTOGRAPH:FAMILY_OTHER
+but as sone as I Com~ to london ye shall haue Knowelege w~ godd~ grace
+, Whom haffe you in his blessyd keping ; MARCHAL,F262.003.40
+
+AUTHOR:JOHN_MARCHALL:MALE:NEPHEW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:UNCLE:_:_
+LETTER:MARCHAL_003:M4:1476:AUTOGRAPH:FAMILY_OTHER
+wretyn at Gawunt in fflawund~is , {ED:atte_CROSSED_OUT?} the iij=de=
+day of Julle a laste past a~o lxxvj . etc. {ED:?} By yo~ Cosyn John
+Marchall . MARCHAL,F262.003.41
+
+AUTHOR:JOHN_MARCHALL:MALE:NEPHEW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:UNCLE:_:_
+LETTER:MARCHAL_003:M4:1476:AUTOGRAPH:FAMILY_OTHER
+ye shall vnd~stond +t=t= my ys dessecyd here , MARCHAL,F262.003.42
+
+AUTHOR:JOHN_MARCHALL:MALE:NEPHEW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:UNCLE:_:_
+LETTER:MARCHAL_003:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and nowe I am he~ in his stede and a T~ney for my mast~ Wyndesor~ . etc
+. MARCHAL,F262.003.43
+
+AUTHOR:JOHN_MARCHALL:MALE:NEPHEW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:UNCLE:_:_
+LETTER:MARCHAL_003:M4:1476:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED} To my Ryght welbyloved yonkyll William Marchall at
+Stanlake be sydes Abingdon in hast soyt dd . MARCHAL,F262.003.44
+
+<Q_MAR_A_1440S?_T_TMAYKYN> <L_MARCHAL_004> <A_THOMAS_MAYKYN>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_MARCHALL>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_F263>
+
+{ED:SC_1:xlvi,_263._THOMAS_MAYKYN_TO_WILLIAM_MARCHALL.}
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+Welbylouyd and trusty frende , I r~mende me to yow MARCHAL,F263.004.45
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and for as myche as I haue schewyd to yow my trewe diligense and wryte
+to yow iij lett~ , the whiche ij of hem I sende to yowr brothur Thomas
+MARCHAL,F263.004.46
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and he seyeth that he sende hem to yow by xv dayes beffor mychelmas ,
+of the whiche ij lett~ on was of many dyue~e matters and in speciall of
+the bolde of yowre chamb~ , o~ yowre brother John , and othere c~teyn
+matters co~prehendyd ther~in and now be not all in mynde ,
+MARCHAL,F263.004.47
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and the other lett~ was closyd w=t= the testament of yowre brothur
+Richard , for the whiche testament I haue grete callyng uppon of youre
+Syst~ Mawde , demyng that I restreyne hyt so to ymagyne unto her s~
+fraude , whus colloca~s suche as wher lyke to hynd~ her in tyme co~myng
+. Wherfor I p~y yow in case that ye haue reseyuyd the foreseyd lett~s
+ande testament so sendeth me relac~on of the matters ,
+MARCHAL,F263.004.48
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and yf ye haue not reseyuyd hem so wryteth down unto your brothur
+Thomas in hast to wete whare and whom he delyuy~ hem ,
+MARCHAL,F263.004.49
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+for as thus awysyd , he schall reseyue no mo lett~ of my hondes ne of
+my charge this xx=ti= yere efte sonys trewly , MARCHAL,F263.004.50
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+for and the testament be lost unto , lesse than ye haue eny copye +t~of
+I am lyke to be dangeryd and noysyd for no trewe man ; in the case
+wher=e=of I p~y yow to sende me sum comforte in hast .
+MARCHAL,F263.004.51
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+And Syr as to the byldyng of youre chamb~ I haue putte my labo=r= suche
+as ye desyryd of me in rewarde of your=e= brothur John ,
+MARCHAL,F263.004.52
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and youre brother Thomas wolde neu~ come at Wodestoke seth the worke
+was by gonne , MARCHAL,F263.004.53
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+neu~rtheles seth the monday aft~ my+ghelmas day ye haue had ij
+carpunt~s workyng contynewally and ij sawyers to helpe dyuers dayes as
+the worke nedyd also , MARCHAL,F263.004.54
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and +gut the carpunters abydeth stylle MARCHAL,F263.004.55
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and haue wrought by candell bothe euyn and morne seth x dayes by fore
+all halowyntyde in on of the wollehouse , MARCHAL,F263.004.56
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and there they haue framyd halfe the chamb~ flore and all the p~opatt
+work of the jetey w=t= goodely wyndowys , thatt is to wete in the
+fronte a wyndowe of iiij bayes and in eu~y syde a goodely wyndowe of ij
+bayes , MARCHAL,F263.004.57
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and all the flore and p~opatt tymb~ of that chamb~ is and schall be
+goode trewe hert of oke , MARCHAL,F263.004.58
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and the rafters we p~pose of elme , MARCHAL,F263.004.59
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and hardely doute yow not your=e= chamb~ flore schall be stronge y
+now+g and ye wolde cowche pypys of wyne uppon MARCHAL,F263.004.60
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and than ye schall not bende h=t= w=t= dawnsyng ly+gtly .
+MARCHAL,F263.004.61
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+Syr , there as ye hopyd to haue all the chamb~ made redy by Crystemasse
+, me thenketh youre avayle is the cont~ry as I schall enforme yow ,
+MARCHAL,F263.004.62
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+for the grete hyll wall in to the yerde syde is flowe so that we moste
+othur take h=t= d~n othur ellys drawe h=t= upry+gth a+gen by goode
+crafte , MARCHAL,F263.004.63
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and so men of crafte haueth p~mysyd me w=t= goddys g~ce ;
+MARCHAL,F263.004.64
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and also now the dayes wexeth shorte MARCHAL,F263.004.65
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and god g~te that the chamb~ will not falle d~n hy~ selfe ;
+MARCHAL,F263.004.66
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+I p~pose sauyng your=e= bett~ avyse to lete all thynges contynewe unto
+aft~ the feste of Crystemasse and anon aft~ for doute of fallyng down
+than to take hyt down in the beste tyme of the newe yere .
+MARCHAL,F263.004.67
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+Also I merveyle gretly of a lett~ that I sende yow by a p~son of
+Gloucet~ schyre , MARCHAL,F263.004.68
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and he callyd hy~ selfe a preste of my lordys chapell of Cawnt~bury
+MARCHAL,F263.004.69
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and enformyd me that he knew yow well , MARCHAL,F263.004.70
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and p~mysyd me that ye schulde haue that lett~ uppon all halowynday at
+the ferrust , MARCHAL,F263.004.71
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+for he was loggyd with me the sat~day ny+gt by fore ,
+MARCHAL,F263.004.72
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and the same ny+gt in hast I wrote yow that lett~ and in speciall for
+money , xl s that ye schulde sende me to paye bothe carpunters and
+sawyers as for yowre parte , MARCHAL,F263.004.73
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and of all the tymb~ I haue bou+ght w=t= caryage I haue payd byt a
+parte to plese eu~y man unto more money come to me ,
+MARCHAL,F263.004.74
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and +gut I am not all payd of the money of Blakenale , sauyng I hade
+the rent of youre medys that ys xj s viij d for bothe
+MARCHAL,F263.004.75
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and thus I haue spoke fayr and eu~y day lokyd aft~ money fro yow .
+MARCHAL,F263.004.76
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+And as to Will~m Astell and Mawde youre Syst~ , they haue brou+gt to
+Wodestoke tymber resonable as for here parte bothe oke and elme ,
+MARCHAL,F263.004.77
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+but of money they be strange to p~te w=t= to paye workemen ,
+MARCHAL,F263.004.78
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+for as +gut I cowde neu~ reseyue of hem but xiij s iiij d
+MARCHAL,F263.004.79
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and the got~ at Blakenalys coste xx d and more . MARCHAL,F263.004.80
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+And the worke and tymb~ of the newe chamb~ hath coste at th=s= day more
+than vij nobles MARCHAL,F263.004.81
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and +gut we lakke tymb~ , the whiche I haue bou+gt MARCHAL,F263.004.82
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and haue no money to pay therefore , MARCHAL,F263.004.83
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+so no caryage also unto h=t= come fro yow . MARCHAL,F263.004.84
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+And as to the bede , I haue h=t= home fro Kyrtlyngton
+MARCHAL,F263.004.85
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and haue amendyd hy=t= as nede was MARCHAL,F263.004.86
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and is now sette in her olde forme a+gen in the beste wyse
+MARCHAL,F263.004.87
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and that hath coste all moost iiij s . MARCHAL,F263.004.88
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+And as to the bede ye desyryd to haue bou+gth , hy=t= was solde as that
+I had youre lett~ . MARCHAL,F263.004.89
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+And as touchyng to Thomas Maso~ I sende by worde as ye desyryd me that
+I schulde . MARCHAL,F263.004.90
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+No more unto yow at th=s= tyme , but I p~y yow yf I schall do yow
+seruyse eny more in suche man~ occupacon that I do not care bothe-2 to
+ordeyne money and all other matters that longeth +t~to also ,
+MARCHAL,F263.004.91
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+for that me thenketh is to grete a charge . MARCHAL,F263.004.92
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+And all my+gty Jh~u haue yow in h=s= gou~naunse . MARCHAL,F263.004.93
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+I wryte at Wodestoke in hast the Sat~day aft~ Seynt Hewe day the
+Bysschep . MARCHAL,F263.004.94
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+And Syr I sende yow th~ lett~ by a carry~ of Oxforde , to the whiche I
+p~y yow delyu~ xl s w=t= out more MARCHAL,F263.004.95
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and charge hym to sende h=t= me in hast , MARCHAL,F263.004.96
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+and yf ye wyll bye 1 lb of powd~ pepp~ to carye money surely I will
+paye therfor , other ellys ij lb of Rys MARCHAL,F263.004.97
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+for that makyth grette bolke . MARCHAL,F263.004.98
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+And the cary~ is at Inne in Fryday Strete , at the Belle , other ellys
+at the Saresen hede as I suppose . MARCHAL,F263.004.99
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+By youre owne Thomas Maykyn . MARCHAL,F263.004.100
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+{ED:ADDRESSED} London . MARCHAL,F263.004.101
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_004:M4:1440S?:AUTOGRAPH:OTHER
+Be th~ lett~ delyu~yd unto William Marchall clerke of the Chaunsery
+dwellyng in Seynt Bartholomewys Spytyll w=t= my mayster Sturgeon clerke
+of the Crowne in Smythfelde . MARCHAL,F263.004.102
+
+<Q_MAR_A_1450S?_FO_JCOLLAS> <L_MARCHAL_005> <A_JOHN_COLLAS>
+<A-GENDER_MALE> <A-REL_BROTHER-IN-LAW> <A-DOB_---> <R_WILLIAM_MARCHALL>
+<R-GENDER_MALE> <R-REL_BROTHER-IN-LAW> <R-DOB_--->
+
+<P_F268>
+
+{ED:SC_1:xlvi,_268._JOHN_COLLAS_TO_WILLIAM_MARCHALL.}
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+Jh~u . MARCHAL,F268.005.103
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+Ryght Reverent and Most best be lowyd modyr I Recummaund me on to you
+desyryng hertly eu~ more to here off your well ffar
+MARCHAL,F268.005.104
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+also I p~y hartlly of y~r blessyng both day & nyth .
+MARCHAL,F268.005.105
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+Also my brodyr & Syst~ I recum~aund me on to you as hertly as I cane ,
+thankyng yow eu~ more for y=e= gret cher +t=t= I had vane y=t= I vas
+last att home w~ you . MARCHAL,F268.005.106
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+Also lettyng you vyte at y=e= makyng of thys lett~ my brodyr Wylly~m &
+my Syst~ ys vyfe & halle the howsold & Margery my Syst~ and $her
+hosbond ver in gowde helle & all her howsold MARCHAL,F268.005.107
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+Also Thom~s Marchalle yo~r Sone Recum~awnd hyme hartelley one to you &
+to ys $modyr & to ys goud beldame MARCHAL,F268.005.108
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+& he p~yth you hertly of yo~ blesyng both nyth and day
+MARCHAL,F268.005.109
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+and blesyd be Jh~u he ys in Ryth goude hele . MARCHAL,F268.005.110
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+Also I ondyre stonde y=t= ye haue y send for hyme as be kawse y=t= the
+dy fast att londone , MARCHAL,F268.005.111
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+letyng you vyt bleseyd be Jh~u the do not dy no more .
+MARCHAL,F268.005.112
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+Also I p~y you & my Syst~ & my goud modyre y=t= ye vyle not $take $yth
+{TEXT:takeyth} for no dysplesure y=t= I do not send hym wome
+MARCHAL,F268.005.113
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+for letyng you vyth y=t= the chylld ys Rygth vele hentyrd in to ys
+Songe , y=t= ys say bouth playnsonge & prykyd sounge .
+MARCHAL,F268.005.114
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+Also I vndyrstond and he chuld com to you y=t= he chuld for gete alle
+y=t= he hathe lerned w~ me MARCHAL,F268.005.115
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+& y=t= chuld be to me gret heuynesse MARCHAL,F268.005.116
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+and I p~y you y=t= ye vyll not be dyplesyd w~h me MARCHAL,F268.005.117
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+for w~ y=e= grace of good y=e= nextyme y=t= thom~s yo~r sone comyth
+vome to you I trust to good y=t= he schall be glad & all ys Kyne y=t=
+he vente eu~ to Skolle w~h me , MARCHAL,F268.005.118
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+for now ys hys makyng MARCHAL,F268.005.119
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+& now ys hys maryng ; MARCHAL,F268.005.120
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+nat w~ stondyng and ye vyll haue hyme ye chall ; MARCHAL,F268.005.121
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+y=e= kause y=t= I do note send hym vome I haue vyryth on to you .
+MARCHAL,F268.005.122
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+Also letyng you vyth y=t= I vas neuyr so syke send y=t= ye ver w~h me
+last MARCHAL,F268.005.123
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+for I had vent y=t= I chuld neu~r a lewyd MARCHAL,F268.005.124
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+for I vas takyne Sode~ly att hour lady masse y=t= I koud not stond
+MARCHAL,F268.005.125
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+& then I vent to the barbare MARCHAL,F268.005.126
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+and lett my selfe blod MARCHAL,F268.005.127
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+or ellys I trow y=t= I had be ded , blesyd be Jh~u of a meme~te ,
+MARCHAL,F268.005.128
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+for I vot vell y=t= my god modyr dyde geue me her blesying ,
+MARCHAL,F268.005.129
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+also lettyng you vyt y=t= Wyllyam my brodyr haue gret maruelle y=t= ye
+Do not send hyme no lett~ . MARCHAL,F268.005.130
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+Also letyng you vyte y=t= hellyn valle & hall you~ god frend~ for~th
+Ryght velle . MARCHAL,F268.005.131
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+Thys leter vas made opon Korpuskryste day . MARCHAL,F268.005.132
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_005:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED} Tho Wylly~m Marchall dwellyng att Stanlake be thys lett~
+delywyrd . MARCHAL,F268.005.133
+
+<Q_MAR_D_1440S_FN_RMARCHALL> <L_MARCHAL_006> <A_RICHARD_MARCHALL>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_---> <R_WILLIAM_MARCHALL>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_--->
+
+<P_F71>
+
+{ED:SC_1:li,_71._RICHARD[?]_MARCHALL_TO_WILLIAM_MARCHALL.}
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_006:M4:1440S:UNKNOWN:FAMILY_NUCLEAR
+Reuerent & worchipfull Brodyr I recomawnde me unto yow desyryng to here
+of your wellfar & prosperyte , the wyche god encresse for hys m~cy .
+MARCHAL,F71.006.134
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_006:M4:1440S:UNKNOWN:FAMILY_NUCLEAR
+Also Syr I pray god qwyte yow of your grete gentylies y=t= ye do to me
+. MARCHAL,F71.006.135
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_006:M4:1440S:UNKNOWN:FAMILY_NUCLEAR
+Also Syr I was not at Wodstoke syth I was at london ,
+MARCHAL,F71.006.136
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_006:M4:1440S:UNKNOWN:FAMILY_NUCLEAR
+for wee hawe suche bysnesse y=t= I my+gth not , MARCHAL,F71.006.137
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_006:M4:1440S:UNKNOWN:FAMILY_NUCLEAR
+but I purpose me to goo to Wodstoke y=e= same day y=t= y=e= letter was
+made MARCHAL,F71.006.138
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_006:M4:1440S:UNKNOWN:FAMILY_NUCLEAR
+& +tanne I schall sende +gow word of all +tyng how yt ys .
+MARCHAL,F71.006.139
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_006:M4:1440S:UNKNOWN:FAMILY_NUCLEAR
+Also Syr I wolde pray & I durst y=t= ye wolde speke to y=r= master to
+borrow xxx=li= or els xx=li= un to synt bartolmews day ,
+MARCHAL,F71.006.140
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_006:M4:1440S:UNKNOWN:FAMILY_NUCLEAR
+& truly +tanne +gee schull hawe yt +gayn with y=e= grace god
+MARCHAL,F71.006.141
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_006:M4:1440S:UNKNOWN:FAMILY_NUCLEAR
+& erste for sothe yee schull not fayle +tanne , MARCHAL,F71.006.142
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_006:M4:1440S:UNKNOWN:FAMILY_NUCLEAR
+ffor pegotte owyth hym C=s= , MARCHAL,F71.006.143
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_006:M4:1440S:UNKNOWN:FAMILY_NUCLEAR
+for he schull hadde at Wyytsontyde iij score ss , MARCHAL,F71.006.144
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_006:M4:1440S:UNKNOWN:FAMILY_NUCLEAR
+& I p~y yow sende how we schull spede ; MARCHAL,F71.006.145
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_006:M4:1440S:UNKNOWN:FAMILY_NUCLEAR
+namore I wrytte un to yow at y=s= tyme but ye holy trinete hawe yow yn
+hys kepyng body & sowle . MARCHAL,F71.006.146
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_006:M4:1440S:UNKNOWN:FAMILY_NUCLEAR
+I-wrytte at Kyrtlynton on synt peters day , By your Brodyr R. M.
+MARCHAL,F71.006.147
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_006:M4:1440S:UNKNOWN:FAMILY_NUCLEAR
+{ED:ADDRESSED} To Wylliam Marchall with Sturgeon clerke of the Crowne .
+MARCHAL,F71.006.148
+
+<Q_MAR_A_1440S_FN_RMARCHALL> <L_MARCHAL_007> <A_RICHARD_MARCHALL>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_---> <R_WILLIAM_MARCHALL>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_--->
+
+<P_F72>
+
+{ED:SC_1:li,_72._RICHARD_MARCHALL_TO_WILLIAM_MARCHALL.}
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_007:M4:1440S:AUTOGRAPH:FAMILY_NUCLEAR
+Jhesu . MARCHAL,F72.007.149
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_007:M4:1440S:AUTOGRAPH:FAMILY_NUCLEAR
+Worchipfull Brodyr I comawnde me un yow desyryng to here of y=r= good
+hele the qwyche god encresse for hys m~cy , MARCHAL,F72.007.150
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_007:M4:1440S:AUTOGRAPH:FAMILY_NUCLEAR
+& I pray god qwyte yow of +te g~te byngnesse & grete Cost y=t= yee do
+to my ffader & to me , MARCHAL,F72.007.151
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_007:M4:1440S:AUTOGRAPH:FAMILY_NUCLEAR
+& I pray yow to comawnde me un to Syr Thomas halys MARCHAL,F72.007.152
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_007:M4:1440S:AUTOGRAPH:FAMILY_NUCLEAR
+& I pray yow thonggyth hym myche for me . MARCHAL,F72.007.153
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_007:M4:1440S:AUTOGRAPH:FAMILY_NUCLEAR
+Also Syr I pray yow as myche as ffader and I may y=t= yee woll speke un
+to your master for y=e= summe of money y=t= wee spoke to yow ,
+MARCHAL,F72.007.154
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_007:M4:1440S:AUTOGRAPH:FAMILY_NUCLEAR
+for y=e= encresse shall turne to me as well as to my fad~
+MARCHAL,F72.007.155
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_007:M4:1440S:AUTOGRAPH:FAMILY_NUCLEAR
+& your labor schall be qwytte for y=s= howr ; MARCHAL,F72.007.156
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_007:M4:1440S:AUTOGRAPH:FAMILY_NUCLEAR
+hayth payd eu~y may , MARCHAL,F72.007.157
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_007:M4:1440S:AUTOGRAPH:FAMILY_NUCLEAR
+& men crye on hym for to {ED:shalbe_CROSSED_OUT} bye here woll
+MARCHAL,F72.007.158
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_007:M4:1440S:AUTOGRAPH:FAMILY_NUCLEAR
+& truly yt wowolde be a grete assayle un to my fader & to me
+MARCHAL,F72.007.159
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_007:M4:1440S:AUTOGRAPH:FAMILY_NUCLEAR
+& as euer I may be your s~uant y=t= +gee labor there for ,
+MARCHAL,F72.007.160
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_007:M4:1440S:AUTOGRAPH:FAMILY_NUCLEAR
+or els y=t= wee may not bye no woll MARCHAL,F72.007.161
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_007:M4:1440S:AUTOGRAPH:FAMILY_NUCLEAR
+& y=t= qwere grete herte unto us & schame . MARCHAL,F72.007.162
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_007:M4:1440S:AUTOGRAPH:FAMILY_NUCLEAR
+I wrytte at bursset~ ye sonday a fore Myssom~ day , MARCHAL,F72.007.163
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_007:M4:1440S:AUTOGRAPH:FAMILY_NUCLEAR
+for my Wyffe & I weryn at dyn~ w~h bettes y=e= same sonday
+MARCHAL,F72.007.164
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_007:M4:1440S:AUTOGRAPH:FAMILY_NUCLEAR
+& I pray yow thonggyth hym yer for . MARCHAL,F72.007.165
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_007:M4:1440S:AUTOGRAPH:FAMILY_NUCLEAR
+By y~r Brodyr & s~uant Rychard Marchall . MARCHAL,F72.007.166
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_007:M4:1440S:AUTOGRAPH:FAMILY_NUCLEAR
+{ED:ADDRESSED} Wylyam Marchall & Bel ... MARCHAL,F72.007.167
+
+AUTHOR:RICHARD_MARCHALL:MALE:BROTHER:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER:_:_
+LETTER:MARCHAL_007:M4:1440S:AUTOGRAPH:FAMILY_NUCLEAR
+Smyythfelde at london with Sturgeon clerke of y=e= Crowne .
+MARCHAL,F72.007.168
+
+<Q_MAR_A_1440S_T_TMAYKYN> <L_MARCHAL_008> <A_THOMAS_MAYKYN>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_MARCHALL>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_F73>
+
+{ED:SC_1:li,_73._THOMAS_MAYKYN_TO_WILLIAM_MARCHALL.}
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_008:M4:1440S:AUTOGRAPH:OTHER
+Well by louyd Syr I grete yow well , prayiyng yow +t=t= +ge welle sende
+me redy worde zyf Will~m hethe ffyschemong~ be contente of h~s money ,
+MARCHAL,F73.008.169
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_008:M4:1440S:AUTOGRAPH:OTHER
+for I sende a lett~ to John Ryngefelde D~p~ of Cornehyll y=t= he
+schulde contente hy~ MARCHAL,F73.008.170
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_008:M4:1440S:AUTOGRAPH:OTHER
+and he sende me worde a+gen y=t= he wolde so do but +gyf Nicolas Mundy
+wolde . MARCHAL,F73.008.171
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_008:M4:1440S:AUTOGRAPH:OTHER
+And Syr I pray zow y=t= ze wore wete of Rob~t Quynaton how my mat~
+spedeth MARCHAL,F73.008.172
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_008:M4:1440S:AUTOGRAPH:OTHER
+and sende+t me worde whed~ ye haue payde hym x=s= lyke as I wrote to
+yow , MARCHAL,F73.008.173
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_008:M4:1440S:AUTOGRAPH:OTHER
+and forthermore I pray yow y=t= ye sende+t me by y=e= brynger of y=s=
+bylle y=e= ij golde ryng~ , MARCHAL,F73.008.174
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_008:M4:1440S:AUTOGRAPH:OTHER
+for Richarde y~r brod~ truste+t to yow y=t= ye woll ;
+MARCHAL,F73.008.175
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_008:M4:1440S:AUTOGRAPH:OTHER
+and I pray yow y=t= ye sende me a viij s j d . lyke as ye know y=t= is
+to me dewe , MARCHAL,F73.008.176
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_008:M4:1440S:AUTOGRAPH:OTHER
+for all youre rente is to lytyll to rep~yr y=e= Sclatte and od~ fawtys
+of Rob~t Webbe his house . MARCHAL,F73.008.177
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_008:M4:1440S:AUTOGRAPH:OTHER
+No more at y=s= tyme but I pray yow of all yese mattyrs sende+t me redy
+answeres MARCHAL,F73.008.178
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_008:M4:1440S:AUTOGRAPH:OTHER
+and all my+gtty Jh~u haue yow in h~s gou~nawnse . MARCHAL,F73.008.179
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_008:M4:1440S:AUTOGRAPH:OTHER
+I wryte at Wodestoke uppon Candelmasse day . MARCHAL,F73.008.180
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_008:M4:1440S:AUTOGRAPH:OTHER
+Thomas Maykyn . MARCHAL,F73.008.181
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_008:M4:1440S:AUTOGRAPH:OTHER
+{ED:ADDRESSED} To Will~m Marchall dwellyng with Sturgeon Clerke of y=e=
+Crowne at Seynt Bartolmews Spytyll . MARCHAL,F73.008.182
+
+<Q_MAR_A_1440S_T_TMAYKYN> <L_MARCHAL_009> <A_THOMAS_MAYKYN>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_MARCHALL>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_F74>
+
+{ED:SC_1:li,_74._THOMAS_MAYKYN_TO_WILLIAM_MARCHALL.}
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_009:M4:1440S:AUTOGRAPH:OTHER
+Well by louyd syr I grete +gow well , doyng +gow to undurstonde +t=t= I
+sende +gow a lett~ by Thom~ +gour brother , +t=e= whiche lett~ Thom~s
+Tayllo~ of Wodestoke hadde p~mysyd me to haue brou+gt to +gow +t=e=
+xiiij day of Dece~b~ . MARCHAL,F74.009.183
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_009:M4:1440S:AUTOGRAPH:OTHER
+No+gt w~ stondyng +t=t= I pray +gow take+t credens & considerac~on to
++t=e= seyd lett~ diligently lyke as I haue wryte to +gow , exepte a
+matt~ +t=t= is to sey there as I haue wryte to +gow +t=t= +ge shulde
+sende me xxj s v d , MARCHAL,F74.009.184
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_009:M4:1440S:AUTOGRAPH:OTHER
++g~ moste sende me xl d more +t~ to , MARCHAL,F74.009.185
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_009:M4:1440S:AUTOGRAPH:OTHER
+for +gour Cosyn dan Jon Wodestoke hath payd me but xl d of +t=e= nobyll
+MARCHAL,F74.009.186
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_009:M4:1440S:AUTOGRAPH:OTHER
+& no day he woll sette me of y=e= Re~nawnt . MARCHAL,F74.009.187
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_009:M4:1440S:AUTOGRAPH:OTHER
+fforthermore as towchyng to +gour grete place , at +t=s= day ~it
+stonde+t vacant MARCHAL,F74.009.188
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_009:M4:1440S:AUTOGRAPH:OTHER
+& +t=t= is harme , wherefor me +tynke+t h~t were best and moste
+worschippe to +gow +t=t= Thomas +gour brother my+gt be w~ +gour helpe
+p~ferryd +t~ in . MARCHAL,F74.009.189
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_009:M4:1440S:AUTOGRAPH:OTHER
+{ED:ILLEGIBLE} er +gour brother Richarde is not well wyllyd +t~ to ,
+No+gt w~ stondyng +t=t= +gour brother Thom~s grawntyth to pay +t~ for
+as anoder man wolde and y=er= of to fynde sewrte . The wherfor I pray
+yow wrytey a letter to hym , and anod~ to Sauage & to me , as +t=t= +ge
+hadde no knowlyche of +t=e= mat~ by me but only aft~ +gour goode avyse
+and by +t=e= mocyon of +gour brother Thom~s ; MARCHAL,F74.009.190
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_009:M4:1440S:AUTOGRAPH:OTHER
+and fforthermore +gyf +ge +tynke h~t were to do & buth well y wyllyd in
++t=s= mat~ , +ge may wryte to us in gen~all +t=t= +t=e= bargayne is
+halfe made aft~ iiij noblys +gerely & +ge to bere +t=e= Rep~ac~on
+MARCHAL,F74.009.191
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_009:M4:1440S:AUTOGRAPH:OTHER
+for so od~ men p~feruth +t~ for . MARCHAL,F74.009.192
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_009:M4:1440S:AUTOGRAPH:OTHER
+No more at +t=s= tyme but I p~y +gow sende+t me +t=s= foreseyd money by
+Thom~s +gour brother as secrete as +ge may MARCHAL,F74.009.193
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_009:M4:1440S:AUTOGRAPH:OTHER
+& Jh~u haue +gow in h~s kepyng . MARCHAL,F74.009.194
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_009:M4:1440S:AUTOGRAPH:OTHER
+I wryte at Wodestoke in grete hast +t=e= xxiiij day of Dece~b~ .
+MARCHAL,F74.009.195
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_009:M4:1440S:AUTOGRAPH:OTHER
+Thomas Maykyn . MARCHAL,F74.009.196
+
+AUTHOR:THOMAS_MAYKYN:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_009:M4:1440S:AUTOGRAPH:OTHER
+{ED:ADDRESSED} To William Marchall . MARCHAL,F74.009.197
+
+<Q_MAR_D_1440S_T_JSMYTHE> <L_MARCHAL_010> <A_JOHN_SMYTHE>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_WILLIAM_MARCHALL>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_F83>
+
+{ED:SC_1:li,_83._JOHN_SMYTHE_TO_WILLIAM_MARCHALL.}
+
+AUTHOR:JOHN_SMYTHE:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_010:M4:1440S:UNKNOWN:OTHER
+Worschypfull Syr I recomende me to yow , lykyng yow to vndurstonde that
+as towchyng to y=e= Rep~acion of youre house y=t= I dwelle inne , for
+sothe I haue well and trewly payde your rente in to y=e= laste terme
+day of oure lady vn to Sauage . No+gt w~ stondyng for sothe y~ was neu~
+peny by sette on y=e= place sethe y=e= tyme y=t= ye were at Wodestoke
+last MARCHAL,F83.010.198
+
+AUTHOR:JOHN_SMYTHE:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_010:M4:1440S:UNKNOWN:OTHER
+and y=t= is to me grete harme and dysese in good trouthe , p~ncipally
+of y=e= ende of y=e= Cuch~n towarde Snareston MARCHAL,F83.010.199
+
+AUTHOR:JOHN_SMYTHE:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_010:M4:1440S:UNKNOWN:OTHER
+for +ge sye well your selfe y=t= h~t was feble MARCHAL,F83.010.200
+
+AUTHOR:JOHN_SMYTHE:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_010:M4:1440S:UNKNOWN:OTHER
+but now h~t is myche worse . MARCHAL,F83.010.201
+
+AUTHOR:JOHN_SMYTHE:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_010:M4:1440S:UNKNOWN:OTHER
+And y~ for syr I p~y yow ordeyneth a remedye s~what for my
+{ED:HOLE_IN_MANUSCRIPT} lyke as I haue quytte me trewly unto yow .
+MARCHAL,F83.010.202
+
+AUTHOR:JOHN_SMYTHE:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_010:M4:1440S:UNKNOWN:OTHER
+fforthermore as towchyng y=e= Rep~acion and gou~nawnse of y=e= house
+whan h~t schall be take down , I p~y +gow , lyke as I haue be vnto yow
+goode ten~nt and p~pose to be hereaft~ , y=t= I may haue resonable
+warnyng so y=t= I be not lette of my worke y~by ; MARCHAL,F83.010.203
+
+AUTHOR:JOHN_SMYTHE:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_010:M4:1440S:UNKNOWN:OTHER
+and +gyf I schall be +gour ten~nt aft~ h~t ys newe made I p~y +gow
+sendeth me redy worde how and of what p~se I schall be ten~nt .
+MARCHAL,F83.010.204
+
+AUTHOR:JOHN_SMYTHE:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_010:M4:1440S:UNKNOWN:OTHER
+And syr +ge othur I moste make me a newe chymney for my crafte +gyf I
+schall abyde y=er=inne MARCHAL,F83.010.205
+
+AUTHOR:JOHN_SMYTHE:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_010:M4:1440S:UNKNOWN:OTHER
+and y=er=for ordeyneth how h~t schall be rewlyd MARCHAL,F83.010.206
+
+AUTHOR:JOHN_SMYTHE:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_010:M4:1440S:UNKNOWN:OTHER
+and I woll take h~t for y=e= t~me of vij +gere MARCHAL,F83.010.207
+
+AUTHOR:JOHN_SMYTHE:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_010:M4:1440S:UNKNOWN:OTHER
+and y=er=for syr +gyf I schall haue h~t I pray +gow sendeth me redy
+worde and not to grete a rente , MARCHAL,F83.010.208
+
+AUTHOR:JOHN_SMYTHE:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_010:M4:1440S:UNKNOWN:OTHER
+for syr y=e= worlde w~ us ys harde and scharpe MARCHAL,F83.010.209
+
+AUTHOR:JOHN_SMYTHE:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_010:M4:1440S:UNKNOWN:OTHER
+and ellys I moste p~vey me anod~ . MARCHAL,F83.010.210
+
+AUTHOR:JOHN_SMYTHE:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_010:M4:1440S:UNKNOWN:OTHER
+Also as towchyng to y=e= mowndes aboute my gardeyne for sothe ye moste
+sende worde to Snarestion y=t= be amende y=s= to syde ,
+MARCHAL,F83.010.211
+
+AUTHOR:JOHN_SMYTHE:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_010:M4:1440S:UNKNOWN:OTHER
+and syr I haue spoke to Maykyn MARCHAL,F83.010.212
+
+AUTHOR:JOHN_SMYTHE:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_010:M4:1440S:UNKNOWN:OTHER
+and he hath g~wnte me that h~t p~te schall be made in hast w~h out
+fayle MARCHAL,F83.010.213
+
+AUTHOR:JOHN_SMYTHE:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_010:M4:1440S:UNKNOWN:OTHER
+for he sawe nere y=e= defaute un to Sonday last was .
+MARCHAL,F83.010.214
+
+AUTHOR:JOHN_SMYTHE:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_010:M4:1440S:UNKNOWN:OTHER
+No more un to yow at y=s= tyme but almy+gtty Jh~u haue yow in h~s
+kepyng . MARCHAL,F83.010.215
+
+AUTHOR:JOHN_SMYTHE:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_010:M4:1440S:UNKNOWN:OTHER
+I wryte at Wodestoke in haste y=e= Monday aft~ seynt George day .
+MARCHAL,F83.010.216
+
+AUTHOR:JOHN_SMYTHE:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_010:M4:1440S:UNKNOWN:OTHER
+By your ten~nt , John Smyth~ . MARCHAL,F83.010.217
+
+AUTHOR:JOHN_SMYTHE:MALE:_:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:_:_:_
+LETTER:MARCHAL_010:M4:1440S:UNKNOWN:OTHER
+{ED:ADDRESSED} To my worschypfull syr Willi~m Marchall .
+MARCHAL,F83.010.218
+
+<Q_MAR_A_1450S?_FO_JCOLLAS> <L_MARCHAL_011> <A_JOHN_COLLAS>
+<A-GENDER_MALE> <A-REL_BROTHER-IN-LAW> <A-DOB_---> <R_WILLIAM_MARCHALL>
+<R-GENDER_MALE> <R-REL_BROTHER-IN-LAW> <R-DOB_--->
+
+<P_F49>
+
+{ED:SC_1:lviii,_49._JOHN_COLLAS_TO_WILLIAM_MARCHALL.}
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+Ryth Reu~ant and velbelowyd worschyp ffull modyr and brodyr & Syst~ ,
+wyth all my hart I reco~awnd me to you , desyryng my God modyr hartlly
+off your blessyng both day and nyte , desyryng w=t= all my hart to her
+of yo~ vell far eu~ more , both day and nyte , that I be sech Allmyty
+Jhe~ cep you all in porsperyte and in hel & in long lyffe to goodes
+plesu~ MARCHAL,F49.011.219
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+amen ; MARCHAL,F49.011.220
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+lettyng you vyt hat the makyng of thys lett~ I vas in god hel ;
+MARCHAL,F49.011.221
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+the cawse of my vrytyng to you hat tystyme ys for to let you haue
+cnowlach that I ham in s~uyce with my lord of ely . MARCHAL,F49.011.222
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+I thanke Good ther of hartly MARCHAL,F49.011.223
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+for be my trowt I let you haue hondyrstandyng that I vas neu~ meryer
+nor bett~ hat yef , nor bett~ be lowyd in no plase that yeu~ I dwelld
+in , MARCHAL,F49.011.224
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+& that ys both w=t= my lord and w=t= all the gentyllme~ and all the
+howssold ; MARCHAL,F49.011.225
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+letyng you vyte I haue in vagges be yer iij li . and ij Gownys and as
+for my met and drynke I neu~ fard bett~ in no plase that eu~ I come in
+MARCHAL,F49.011.226
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+and that ys daly ; MARCHAL,F49.011.227
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+lettyng you vyt my lord hath in ys chappell dayly xxvj=ti= serplers and
+viij chylldyrne &c ; MARCHAL,F49.011.228
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+lettyng you vyt as my trobyll that I vas in , I thanke good and my god
+mastyrs yt ys hat a god yend , MARCHAL,F49.011.229
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+& ther for I p~y you , jentyll brodyr , Comfort my god modyr
+MARCHAL,F49.011.230
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+and let not her take no thowgt ther for , MARCHAL,F49.011.231
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+sche schall haue neu~ a cawsse be the g~ce of good ;
+MARCHAL,F49.011.232
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+I vot Ryte vell sche hath take gret thowth that I Repent me full ,
+MARCHAL,F49.011.233
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+for not w=t= stondyng I hame not the furst that a ben be gylyd nor
+schall not be the last , MARCHAL,F49.011.234
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+and has for hyme y=t= dyd be gylle me , I trow at the long Renyng a dyd
+be gyle hymeself MARCHAL,F49.011.235
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+and that I schall hondyrstand MARCHAL,F49.011.236
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+& yevyr a com in my dawnger MARCHAL,F49.011.237
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+thaw I haue lost a lytyll money I trust to good for to get as mych Ryt
+vell ; MARCHAL,F49.011.238
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+and ther for I p~y you hartlly take no thowt ther for ;
+MARCHAL,F49.011.239
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+I p~y you hartlly be Ryt mery eu~y schon , MARCHAL,F49.011.240
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+for good ys ther as a vas MARCHAL,F49.011.241
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+and sondsstt~ myellmasse I truste in good to se yo=ur= vell far , both
+I & my vyff allsso ; MARCHAL,F49.011.242
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+no mor to you at tystyme , MARCHAL,F49.011.243
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+butt , jentyll brodyr and Syst~ , chereth vell my god modyr
+MARCHAL,F49.011.244
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+& to my power I schall ; MARCHAL,F49.011.245
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+I p~y good hartlly cep you and me and hus all for ys blesyd marcy ,
+MARCHAL,F49.011.246
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+Ame~ . MARCHAL,F49.011.247
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+Vrytyn at downam in my lordes plase of ely , the Sonday afft~ Sent
+baroulmess day , Be yo~ brodyr , John Collas . MARCHAL,F49.011.248
+
+AUTHOR:JOHN_COLLAS:MALE:BROTHER_IN_LAW:_:_
+RECIPIENT:WILLIAM_MARCHALL:MALE:BROTHER_IN_LAW:_:_
+LETTER:MARCHAL_011:M4:1450S?:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED} To Wyll~m Marchalle dwellyng in Stanlake be thys lett~
+dyllyu~d I p~y you in hast . MARCHAL,F49.011.249
+
+<Q_MAR_A_1476_FO_JMARCHALL> <L_MARCHAL_012> <A_JOHN_MARCHALL>
+<A-GENDER_MALE> <A-REL_KIN> <A-DOB_---> <R_NICHOLAS_MARCHALL>
+<R-GENDER_MALE> <R-REL_KIN> <R-DOB_--->
+
+<P_F50>
+
+{ED:SC_1:lx,_50/37._JOHN_MARCHALL_TO_NICHOLAS_MARCHALL.}
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+Jh~u . MARCHAL,F50.012.250
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+Ryght welbelouyd Cosyn I recomawund me unto you & to my Cosyn yo~ wyffe
+w~ all my Cosyns yo~ Cheld~yn , w~ all od~ good ffrend~ &c ;
+MARCHAL,F50.012.251
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+fforthyrmor ye shall und~stonde y=t= ye shall ressayve in thys boxe my
+dede of ffeffement y=e= whiche ye vnd~stond Ryght well , of y=e= whiche
+I p~y you to se +t=t= Rob austen may take state ther by ,
+MARCHAL,F50.012.252
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+ffor as I vnd~stond be demynge +t~ woll be Trobyll ther for in shorte
+space be Twyxte my mod~ & me , MARCHAL,F50.012.253
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+ffor I haffe profyrde her all her dewte yeven aft~ her owne axing ,
+MARCHAL,F50.012.254
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+butt she hathe answeryde {ED:she_CROSSED_OUT} me shortly howe +t=t= she
+woll non Resseyve tyll her hosbonde & I haffe Reconyde to gedyrr ,
+MARCHAL,F50.012.255
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+&e whate she men y=r= in I wote neu~ , MARCHAL,F50.012.256
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+butt I hold hytt nott for no good MARCHAL,F50.012.257
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and there for I wolde fayne haffe hytt spede ; MARCHAL,F50.012.258
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and as for myn yem~ ded~ , +tey be nott made , for be Cawse {TEXT:of}
+Thomas my Cosyn hathe bownde hym selffe p~nteyis w=t= outt leue of his
+fad~ or any ffrend +t=t= he hathe , MARCHAL,F50.012.259
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and yeffe his mast~ hade bene any man of Theryffe hytt shold a skelyd
+the lesse , MARCHAL,F50.012.260
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+butt he woll not be Rulyd as I vnd~ stond for no frend +t=t= he hathe
+but be his owne Reson , MARCHAL,F50.012.261
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and that ys full febyll , god knowythe , MARCHAL,F50.012.262
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and +t=t= I am Ryght sory of . MARCHAL,F50.012.263
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+And ye may say to my yeme y=t= as for hys lyffelood lett hym makythe
+sure for , MARCHAL,F50.012.264
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+& yeffe hytt fortune +t=t= he decese w=t= owt any state makyng , Thomas
+& hys mast~ woll make a m~chauntdyce ther w=t= in short space ;
+MARCHAL,F50.012.265
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and I herd my Cosyn Thomas say +t=t= he woll com home +t=is= Crystm~s
+w=t= his mast~ MARCHAL,F50.012.266
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and whan he comethe he woll looke in his fad~is Chest~
+MARCHAL,F50.012.267
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and he woll haue sume of hytt w=t= hym to london , MARCHAL,F50.012.268
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and +t=r= for Take good hede +t=r= of tyll I com MARCHAL,F50.012.269
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and I woll be wt you a bowghte Candelm~s wt godd~ grace or soone aft~ ;
+MARCHAL,F50.012.270
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and her I send you +t=e= old ded~ of my yemys for to make +t=e= Tod~ by
+, MARCHAL,F50.012.271
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+&e as for +te ded~ of Stanlake lett hym make +t=e= wyll aftyr +t=e=
+todyr dede off Wodstok ; MARCHAL,F50.012.272
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
++tey hadde bene made Redy MARCHAL,F50.012.273
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+butt I wyst nott whe+t~ he wold haue hitt so or non ,
+MARCHAL,F50.012.274
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and nowe he may make hitt yevyn as he woll MARCHAL,F50.012.275
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and +t=t= lett hym doo in short space MARCHAL,F50.012.276
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+&e lett Newor~ wryght hem ; MARCHAL,F50.012.277
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and I p~y you Take vpe my Rennt~ as ny as ye can , ayenst I co~ to you
+. MARCHAL,F50.012.278
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+And ye may haue ffleshe of Edmond bochor for Rente MARCHAL,F50.012.279
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+I pray you Take hytt vpe , for my money , MARCHAL,F50.012.280
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+and yeffe he woll nott pay me my money nor ffleshe , I shall swe hym &c
+. MARCHAL,F50.012.281
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+M=rs= Parme a=d= I may haffe his name . MARCHAL,F50.012.282
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+No mor to you at +t=is= tyme , butt god haue you in his kepyng ;
+MARCHAL,F50.012.283
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+wretyn at london in lymestret on Wendynsday last passyd . By yo~ Cosyn
+John Marchall . MARCHAL,F50.012.284
+
+AUTHOR:JOHN_MARCHALL:MALE:KIN:_:_
+RECIPIENT:NICHOLAS_MARCHALL:MALE:KIN:_:_
+LETTER:MARCHAL_012:M4:1476:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED} To my Cosyn Nycolas Marchall of Wodestooke in hast &c.
+MARCHAL,F50.012.285

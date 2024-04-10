@@ -1,0 +1,3543 @@
+<B_SMYTH>
+
+<Q_SMY_D_1581_FO_TMORGAN> <L_SMYTH_001> <A_THOMAS_MORGAN>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_MATTHEW_SMYTH>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1533>
+
+<P_30>
+
+{ED:54._MORGAN_TO_MATTHEW_SMYTH_AT_LONG_ASHTON._TREDEGAR_24_SEPT
+EMBER_1581.}
+
+{COM:INCOMPLETE}
+
+AUTHOR:THOMAS_MORGAN:MALE:_:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:_:1533:48
+LETTER:SMYTH_001:E2:1581:UNKNOWN:FAMILY_OTHER
+Mr Powell hathe keapte hym selffe so close and the most part at the
+Councell of the Marches that I could by no means apprehend hym ,
+SMYTH,30.001.1
+
+AUTHOR:THOMAS_MORGAN:MALE:_:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:_:1533:48
+LETTER:SMYTH_001:E2:1581:UNKNOWN:FAMILY_OTHER
+but one hath promysed to betraye hym unto me this weake , or at the
+farthest at the next Quarter Sessions , SMYTH,30.001.2
+
+AUTHOR:THOMAS_MORGAN:MALE:_:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:_:1533:48
+LETTER:SMYTH_001:E2:1581:UNKNOWN:FAMILY_OTHER
+and assure your selffe that I will do the best that shall lye in me for
+to have his bodye , although his keeping , having no <P_31> gayle ,
+$shall $be {TEXT:shalbe} dangerous unto me , SMYTH,31.001.3
+
+AUTHOR:THOMAS_MORGAN:MALE:_:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:_:1533:48
+LETTER:SMYTH_001:E2:1581:UNKNOWN:FAMILY_OTHER
+and yf I maye not come by his bodye , I will execute your extent
+unfaynedly to the uttermost . SMYTH,31.001.4
+
+{COM:INCOMPLETE}
+
+<Q_SMY_D_1581_FO_TMORGAN> <L_SMYTH_002> <A_THOMAS_MORGAN>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_MATTHEW_SMYTH>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1533>
+
+<P_32>
+
+{ED:57._MORGAN_TO_MATTHEW_SMYTH_AT_LONG_ASHTON._TREDEGAR_1_OCTOB
+ER_1581.}
+
+AUTHOR:THOMAS_MORGAN:MALE:_:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:_:1533:48
+LETTER:SMYTH_002:E2:1581:UNKNOWN:FAMILY_OTHER
+Mr Smythe I have receaved your letter whereby I do understand that I
+have brought my selffe to a greate inconveniens in pleasuringe you ,
+for the taking of Mr Powell , SMYTH,32.002.5
+
+AUTHOR:THOMAS_MORGAN:MALE:_:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:_:1533:48
+LETTER:SMYTH_002:E2:1581:UNKNOWN:FAMILY_OTHER
+I perceave now for my good will all the burthen is like to lye upon my
+backe . SMYTH,32.002.6
+
+AUTHOR:THOMAS_MORGAN:MALE:_:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:_:1533:48
+LETTER:SMYTH_002:E2:1581:UNKNOWN:FAMILY_OTHER
+There were fewe men in Yngland that could have made me to apprehend hym
+but you , SMYTH,32.002.7
+
+AUTHOR:THOMAS_MORGAN:MALE:_:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:_:1533:48
+LETTER:SMYTH_002:E2:1581:UNKNOWN:FAMILY_OTHER
+and what yvell will I have goten by hit in my countre hit is knowen .
+SMYTH,32.002.8
+
+AUTHOR:THOMAS_MORGAN:MALE:_:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:_:1533:48
+LETTER:SMYTH_002:E2:1581:UNKNOWN:FAMILY_OTHER
+I have byn dryven to send xx men to conduct hym from Abergayne where he
+was apprehendyd unto the gayle , and dryven to watche him daye and
+nyght to my greate charges . SMYTH,32.002.9
+
+AUTHOR:THOMAS_MORGAN:MALE:_:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:_:1533:48
+LETTER:SMYTH_002:E2:1581:UNKNOWN:FAMILY_OTHER
+I thynke fewe men in Monmouth Shyere yf they had byn Sheryffes ,
+onlesse hit had byn my cosyn Edward Morgan , would have layed hands on
+hym . SMYTH,32.002.10
+
+AUTHOR:THOMAS_MORGAN:MALE:_:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:_:1533:48
+LETTER:SMYTH_002:E2:1581:UNKNOWN:FAMILY_OTHER
+You have layd down hard condicions for hym the wyche I woulde have been
+glad that that should performe . SMYTH,32.002.11
+
+AUTHOR:THOMAS_MORGAN:MALE:_:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:_:1533:48
+LETTER:SMYTH_002:E2:1581:UNKNOWN:FAMILY_OTHER
+I have no more to wrytt but that you will consider of me as of one that
+hathe put hym selffe to farre in danger for your sake , SMYTH,32.002.12
+
+AUTHOR:THOMAS_MORGAN:MALE:_:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:_:1533:48
+LETTER:SMYTH_002:E2:1581:UNKNOWN:FAMILY_OTHER
+and so I comytt you to God . SMYTH,32.002.13
+
+AUTHOR:THOMAS_MORGAN:MALE:_:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:_:1533:48
+LETTER:SMYTH_002:E2:1581:UNKNOWN:FAMILY_OTHER
+Tredegar SMYTH,32.002.14
+
+AUTHOR:THOMAS_MORGAN:MALE:_:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:_:1533:48
+LETTER:SMYTH_002:E2:1581:UNKNOWN:FAMILY_OTHER
+the 1st October 1581 SMYTH,32.002.15
+
+AUTHOR:THOMAS_MORGAN:MALE:_:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:_:1533:48
+LETTER:SMYTH_002:E2:1581:UNKNOWN:FAMILY_OTHER
+Thomas Morgan . SMYTH,32.002.16
+
+<Q_SMY_D_1580S?_FN_JSMYTH> <L_SMYTH_003> <A_JANE_SMYTH[N.TEWTHER]>
+<A-GENDER_FEMALE> <A-REL_WIFE> <A-DOB_---> <R_MATTHEW_SMYTH>
+<R-GENDER_MALE> <R-REL_HUSBAND> <R-DOB_1533>
+
+<P_40>
+
+{ED:81._TO_MATTHEW_SMYTH_AT_THE_MIDDLE_TEMPLE._ASHTON_COURT,
+_20_APRIL_N.Y.}
+
+AUTHOR:JANE_SMYTH[N.TEWTHER]:FEMALE:WIFE:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:HUSBAND:1533:_
+LETTER:SMYTH_003:E2:1580S?:UNKNOWN:FAMILY_NUCLEAR
+Mr Smyth hoping of your sauffe comyng to London . SMYTH,40.003.17
+
+AUTHOR:JANE_SMYTH[N.TEWTHER]:FEMALE:WIFE:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:HUSBAND:1533:_
+LETTER:SMYTH_003:E2:1580S?:UNKNOWN:FAMILY_NUCLEAR
+You shall understand I prayse God your children remain in helthe ,
+SMYTH,40.003.18
+
+AUTHOR:JANE_SMYTH[N.TEWTHER]:FEMALE:WIFE:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:HUSBAND:1533:_
+LETTER:SMYTH_003:E2:1580S?:UNKNOWN:FAMILY_NUCLEAR
+sythe your departure yew had brought home from Bradwells Downe palls by
+<P_41> 14 plowghs apon Thursday last , whosse names are all set downe
+that brought them . SMYTH,41.003.19
+
+AUTHOR:JANE_SMYTH[N.TEWTHER]:FEMALE:WIFE:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:HUSBAND:1533:_
+LETTER:SMYTH_003:E2:1580S?:UNKNOWN:FAMILY_NUCLEAR
+You shall understand that Thomas Jenycins hath purchased half a tonne
+of Gasscon wyne for yew , SMYTH,41.003.20
+
+AUTHOR:JANE_SMYTH[N.TEWTHER]:FEMALE:WIFE:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:HUSBAND:1533:_
+LETTER:SMYTH_003:E2:1580S?:UNKNOWN:FAMILY_NUCLEAR
+and the prys ys but +L4 13s 4d SMYTH,41.003.21
+
+AUTHOR:JANE_SMYTH[N.TEWTHER]:FEMALE:WIFE:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:HUSBAND:1533:_
+LETTER:SMYTH_003:E2:1580S?:UNKNOWN:FAMILY_NUCLEAR
+and as good as that you had of Mr Salter SMYTH,41.003.22
+
+AUTHOR:JANE_SMYTH[N.TEWTHER]:FEMALE:WIFE:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:HUSBAND:1533:_
+LETTER:SMYTH_003:E2:1580S?:UNKNOWN:FAMILY_NUCLEAR
+and to be partaken up at Lymme Kyllns SMYTH,41.003.23
+
+AUTHOR:JANE_SMYTH[N.TEWTHER]:FEMALE:WIFE:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:HUSBAND:1533:_
+LETTER:SMYTH_003:E2:1580S?:UNKNOWN:FAMILY_NUCLEAR
+yf yew lyke of yt yew must send word presently . SMYTH,41.003.24
+
+AUTHOR:JANE_SMYTH[N.TEWTHER]:FEMALE:WIFE:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:HUSBAND:1533:_
+LETTER:SMYTH_003:E2:1580S?:UNKNOWN:FAMILY_NUCLEAR
+Parker came home apon Thursday nyght from the fayre in Walles
+SMYTH,41.003.25
+
+AUTHOR:JANE_SMYTH[N.TEWTHER]:FEMALE:WIFE:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:HUSBAND:1533:_
+LETTER:SMYTH_003:E2:1580S?:UNKNOWN:FAMILY_NUCLEAR
+and broughte home ix hedd of cattell , iii of them kynne and the rest
+barren as yew had very {ED:WORD_ILLEGIBLE} , which cost ther 5s 6d and
+the charges 5d . SMYTH,41.003.26
+
+AUTHOR:JANE_SMYTH[N.TEWTHER]:FEMALE:WIFE:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:HUSBAND:1533:_
+LETTER:SMYTH_003:E2:1580S?:UNKNOWN:FAMILY_NUCLEAR
+Levyng any further to trowble yew , with my harty commendacyons unto
+yourself and all other my frynds with you , SMYTH,41.003.27
+
+AUTHOR:JANE_SMYTH[N.TEWTHER]:FEMALE:WIFE:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:HUSBAND:1533:_
+LETTER:SMYTH_003:E2:1580S?:UNKNOWN:FAMILY_NUCLEAR
+Ayshton SMYTH,41.003.28
+
+AUTHOR:JANE_SMYTH[N.TEWTHER]:FEMALE:WIFE:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:HUSBAND:1533:_
+LETTER:SMYTH_003:E2:1580S?:UNKNOWN:FAMILY_NUCLEAR
+thys present the xx of Aprill , SMYTH,41.003.29
+
+AUTHOR:JANE_SMYTH[N.TEWTHER]:FEMALE:WIFE:_:_
+RECIPIENT:MATTHEW_SMYTH:MALE:HUSBAND:1533:_
+LETTER:SMYTH_003:E2:1580S?:UNKNOWN:FAMILY_NUCLEAR
+Yours lovying wyff Jane Smyth . SMYTH,41.003.30
+
+<Q_SMY_A_1584_T_CKENN> <L_SMYTH_004> <A_CHRISTOPHER_KENN>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_JANE_SMYTH[N.TEWTHER]>
+<R-GENDER_FEMALE> <R-REL_---> <R-DOB_--->
+
+<P_46>
+
+{ED:96._KENN_TO_JAN.MYTH_AT_LONG_ASHTON._KENN,_5_MARCH_15 84.}
+
+AUTHOR:CHRISTOPHER_KENN:MALE:_:_:_
+RECIPIENT:JANE_SMYTH[N.TEWTHER]:FEMALE:_:_:_
+LETTER:SMYTH_004:E2:1584:AUTOGRAPH:OTHER
+Good Mystris Smethe , For a confirmation of your sute for such land of
+myne as lyeth within the precincts of the parke you sute for such land
+of at this presente sente my Brother to signify unto you my
+determination therein . That ys to saye , so much severall and enclosed
+ground of woodd medowe and pasture of myne , as ys sytuated , lyinge
+and beinge from the este parte of Clarken Lane unto Redyates ,
+extending sowtheward to the nerest highe waye that leadeth towards
+Brystol and the north syde to the common down of Aisheton , I am
+contented you shall have , paying for the same Two hundred and Fifty
+Poundes , and to release by assignment or otherwyse your interest of
+the resedue of the demaynes , which prisse as I do well know to be
+reasonable and Friendly , SMYTH,46.004.31
+
+AUTHOR:CHRISTOPHER_KENN:MALE:_:_:_
+RECIPIENT:JANE_SMYTH[N.TEWTHER]:FEMALE:_:_:_
+LETTER:SMYTH_004:E2:1584:AUTOGRAPH:OTHER
+so yf you shall any way myslike thereof , I will in performance of my
+promys and professed freindshippe to you in the causse , bestowe uppon
+you the Twenty Poundes to by you a geldinge and a sadele , in token of
+my good wyll , which considered I hope you will accepte of my faire
+offer as yt is mente of my parte , and return by this bearer your
+resolute Ansswer her in , and to blame your selffe yf you omytt the
+opportunytye of so Indefferente an offer which now or never ys to be
+obtayned , beinge otherwyse to make my presente commodytie Toward the
+discharge of a waighty causes taken in hand , that $can $not
+{TEXT:cannot} longer bee defferred . SMYTH,46.004.32
+
+AUTHOR:CHRISTOPHER_KENN:MALE:_:_:_
+RECIPIENT:JANE_SMYTH[N.TEWTHER]:FEMALE:_:_:_
+LETTER:SMYTH_004:E2:1584:AUTOGRAPH:OTHER
+My said money , yff you conclude , I must receyve within three dayes
+after our Lady Daye nexte cominge , SMYTH,46.004.33
+
+AUTHOR:CHRISTOPHER_KENN:MALE:_:_:_
+RECIPIENT:JANE_SMYTH[N.TEWTHER]:FEMALE:_:_:_
+LETTER:SMYTH_004:E2:1584:AUTOGRAPH:OTHER
+and I will make you such resonable assurance of my said land as your
+late husband demanded of me when we weare in Comunication for the said
+lands . SMYTH,46.004.34
+
+AUTHOR:CHRISTOPHER_KENN:MALE:_:_:_
+RECIPIENT:JANE_SMYTH[N.TEWTHER]:FEMALE:_:_:_
+LETTER:SMYTH_004:E2:1584:AUTOGRAPH:OTHER
+And thus wyshinge you ever as to my selfe , I send my hartiest
+commendations SMYTH,46.004.35
+
+AUTHOR:CHRISTOPHER_KENN:MALE:_:_:_
+RECIPIENT:JANE_SMYTH[N.TEWTHER]:FEMALE:_:_:_
+LETTER:SMYTH_004:E2:1584:AUTOGRAPH:OTHER
+At Kenn this Vth of Marche 1583 {ED:1584} SMYTH,46.004.36
+
+AUTHOR:CHRISTOPHER_KENN:MALE:_:_:_
+RECIPIENT:JANE_SMYTH[N.TEWTHER]:FEMALE:_:_:_
+LETTER:SMYTH_004:E2:1584:AUTOGRAPH:OTHER
+Yor loving neighbour and friend Christopher Kenn . SMYTH,46.004.37
+
+<Q_SMY_D_1612_FO_FGIFFORD> <L_SMYTH_005> <A_FRANCES_GIFFORD>
+<A-GENDER_FEMALE> <A-REL_STEP-SISTER> <A-DOB_---> <R_HUGH_SMYTH>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_1574>
+
+<P_52>
+
+{ED:107._GYFFARD_TO_SIR_HUGH_SMYTH_AT_LONG_ASHTON._WHITELADIES_
+20_JULY_1612.}
+
+{ED:ADDRESSED_TO}
+
+AUTHOR:FRANCES_GIFFORD:FEMALE:STEP_SISTER:_:_
+RECIPIENT:HUGH_SMYTH:MALE:BROTHER:1574:38
+LETTER:SMYTH_005:E2:1612:UNKNOWN:FAMILY_OTHER
+hir most esteemed loving Brother . SMYTH,52.005.38
+
+AUTHOR:FRANCES_GIFFORD:FEMALE:STEP_SISTER:_:_
+RECIPIENT:HUGH_SMYTH:MALE:BROTHER:1574:38
+LETTER:SMYTH_005:E2:1612:UNKNOWN:FAMILY_OTHER
+Brother , although weomen are often taxed for toe much passion , yet I
+will as much as may be suppresse it , albeit your harshe unkinde letter
+woulde stirr up the same humoure that you your selfe were then guilty
+of . SMYTH,52.005.39
+
+AUTHOR:FRANCES_GIFFORD:FEMALE:STEP_SISTER:_:_
+RECIPIENT:HUGH_SMYTH:MALE:BROTHER:1574:38
+LETTER:SMYTH_005:E2:1612:UNKNOWN:FAMILY_OTHER
+First you seme to distaste my suddayne summons , SMYTH,52.005.40
+
+AUTHOR:FRANCES_GIFFORD:FEMALE:STEP_SISTER:_:_
+RECIPIENT:HUGH_SMYTH:MALE:BROTHER:1574:38
+LETTER:SMYTH_005:E2:1612:UNKNOWN:FAMILY_OTHER
+I hope I may be excusable in that I never used it , but uppon sudden
+inforcements , as to marry my daughter , which was a businesse
+unexpected both-2 for the mariage and the speedy payment of the porcion
+, as in the letter to Mr Claxton is more at large , SMYTH,52.005.41
+
+AUTHOR:FRANCES_GIFFORD:FEMALE:STEP_SISTER:_:_
+RECIPIENT:HUGH_SMYTH:MALE:BROTHER:1574:38
+LETTER:SMYTH_005:E2:1612:UNKNOWN:FAMILY_OTHER
+otherwise it must have bin broken , SMYTH,52.005.42
+
+AUTHOR:FRANCES_GIFFORD:FEMALE:STEP_SISTER:_:_
+RECIPIENT:HUGH_SMYTH:MALE:BROTHER:1574:38
+LETTER:SMYTH_005:E2:1612:UNKNOWN:FAMILY_OTHER
+how dificulte it is to fynde oute convenient maches , and how
+neglectinge may breede inconveniences you yourselfe that have Children
+will in tyme know , SMYTH,52.005.43
+
+AUTHOR:FRANCES_GIFFORD:FEMALE:STEP_SISTER:_:_
+RECIPIENT:HUGH_SMYTH:MALE:BROTHER:1574:38
+LETTER:SMYTH_005:E2:1612:UNKNOWN:FAMILY_OTHER
+that I doubt not SMYTH,52.005.44
+
+AUTHOR:FRANCES_GIFFORD:FEMALE:STEP_SISTER:_:_
+RECIPIENT:HUGH_SMYTH:MALE:BROTHER:1574:38
+LETTER:SMYTH_005:E2:1612:UNKNOWN:FAMILY_OTHER
+when in Coulde bludde you have considered it , you will rather esteme
+of mee as a carefull Mother than in any way to conceypt me for a
+froward sister . SMYTH,52.005.45
+
+AUTHOR:FRANCES_GIFFORD:FEMALE:STEP_SISTER:_:_
+RECIPIENT:HUGH_SMYTH:MALE:BROTHER:1574:38
+LETTER:SMYTH_005:E2:1612:UNKNOWN:FAMILY_OTHER
+Moreover you wrote to me you had rather have mony on hard termes , than
+any way to be ingaged to me , accounting it an unexpected inconvenience
+, SMYTH,52.005.46
+
+AUTHOR:FRANCES_GIFFORD:FEMALE:STEP_SISTER:_:_
+RECIPIENT:HUGH_SMYTH:MALE:BROTHER:1574:38
+LETTER:SMYTH_005:E2:1612:UNKNOWN:FAMILY_OTHER
+yet it stands worse with me , that am not only forced to bee in theire
+bookes , but have harde construccions for my intended kyndnesse .
+SMYTH,52.005.47
+
+AUTHOR:FRANCES_GIFFORD:FEMALE:STEP_SISTER:_:_
+RECIPIENT:HUGH_SMYTH:MALE:BROTHER:1574:38
+LETTER:SMYTH_005:E2:1612:UNKNOWN:FAMILY_OTHER
+My hope is that att the tyme appoynted by Mr Claxton , you will sende
+me the mony SMYTH,52.005.48
+
+AUTHOR:FRANCES_GIFFORD:FEMALE:STEP_SISTER:_:_
+RECIPIENT:HUGH_SMYTH:MALE:BROTHER:1574:38
+LETTER:SMYTH_005:E2:1612:UNKNOWN:FAMILY_OTHER
+for I have not meanes to sende for itt , SMYTH,52.005.49
+
+AUTHOR:FRANCES_GIFFORD:FEMALE:STEP_SISTER:_:_
+RECIPIENT:HUGH_SMYTH:MALE:BROTHER:1574:38
+LETTER:SMYTH_005:E2:1612:UNKNOWN:FAMILY_OTHER
+and I and my freindes heare stande deepely indangered yf wee shulde not
+then receave it . SMYTH,52.005.50
+
+AUTHOR:FRANCES_GIFFORD:FEMALE:STEP_SISTER:_:_
+RECIPIENT:HUGH_SMYTH:MALE:BROTHER:1574:38
+LETTER:SMYTH_005:E2:1612:UNKNOWN:FAMILY_OTHER
+Your letter ending with these woordes <paren> ' your brother ' </paren>
+withoute any addicion caused me to conceypt some unkyndenesse ,
+SMYTH,52.005.51
+
+AUTHOR:FRANCES_GIFFORD:FEMALE:STEP_SISTER:_:_
+RECIPIENT:HUGH_SMYTH:MALE:BROTHER:1574:38
+LETTER:SMYTH_005:E2:1612:UNKNOWN:FAMILY_OTHER
+but hopinge that you intended that the name of brother imparteth in it
+selfe all love , I will leave you and youres to God and in playne sorte
+ende this restinge your loving sister , Frances Gyffard .
+SMYTH,52.005.52
+
+<Q_SMY_A_1620_FO_SSMITH> <L_SMYTH_006> <A_STEPHEN_SMITH>
+<A-GENDER_MALE> <A-REL_GODSON/KIN> <A-DOB_---> <R_HUGH_SMYTH>
+<R-GENDER_MALE> <R-REL_GODFATHER/KIN> <R-DOB_1574>
+
+<P_54>
+
+{ED:112._SMITH_TO_SIR_HUGH_SMYTH_AT_LONG_ASHTON._LINCOLN'S_INN_
+14_June_1620.}
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+Sir , I have sent you your Cassacke and Canves doublet .
+SMYTH,54.006.53
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+Your taylor and I considered that canves was only fit for Summer
+SMYTH,54.006.54
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+and therefore have buttoned it according to the fashion now in request
+, SMYTH,54.006.55
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+it is not only suitable to your scarlet hose SMYTH,54.006.56
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+but will agree as well with any other cloath hose you have .
+SMYTH,54.006.57
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+Canves doublets are now much in request SMYTH,54.006.58
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+and they are all made plaine or trimmed with white lace as this is ,
+SMYTH,54.006.59
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+for it is accounted somwhat pibald to trim a white doublet with
+trimming of different colour . SMYTH,54.006.60
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+If I $could have contrived it soe as to have made the canves doublet
+fit to have beene worne under a Cassacke I had done it :
+SMYTH,54.006.61
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+but it is not a winter wear SMYTH,54.006.62
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+and therefore I shall put you to the charges of a new satten doublet
+against winter . SMYTH,54.006.63
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+I have sent you a paire of Spanish leather bootes in exchaung of your
+russet bootes , SMYTH,54.006.64
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+and have exchaunged alsoe your 2 paire of shoes for one .
+SMYTH,54.006.65
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+You shall receave likewise 2 paire of welted bootehose which I think
+without comparison are the finest and longest for tops in London .
+SMYTH,54.006.66
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+I caused them to be made with long tops bycause I knowe that you have a
+good leg , SMYTH,54.006.67
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+and know alsoe that good legs weare very short hose . SMYTH,54.006.68
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+I saw a new fashioned hanger for you this morning SMYTH,54.006.69
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+but it was not so good as I thought you deserved SMYTH,54.006.70
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+and therefore I imptied it upon him againe , SMYTH,54.006.71
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+and if he keepe his promise with mee I shall have a better within this
+two daies , with which I will send your ruffe . SMYTH,54.006.72
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+I will not trouble you <P_55> with many termes of friendship at this
+time , SMYTH,55.006.73
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+only I will assure you that none respects you more than your poor
+servant Ste. Smith SMYTH,55.006.74
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+Lincoln 's Inn SMYTH,55.006.75
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+14 June SMYTH,55.006.76
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+My old bedfellow Mr George Matthew desired me to present his service
+unto {ED:you}_NP . SMYTH,55.006.77
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_006:E2:1620:AUTOGRAPH:FAMILY_OTHER
+Both he and I must trouble you to present our respects to your lady .
+SMYTH,55.006.78
+
+<Q_SMY_A_1620_FO_SSMITH> <L_SMYTH_007> <A_STEPHEN_SMITH>
+<A-GENDER_MALE> <A-REL_GODSON/KIN> <A-DOB_---> <R_HUGH_SMYTH>
+<R-GENDER_MALE> <R-REL_GODFATHER/KIN> <R-DOB_1574>
+
+<P_55>
+
+{ED:113._SMITH_TO_SIR_HUGH_SMYTH_AT_LONG_ASHTON._LINCOLN'S_INN_
+17_JUNE_1620.}
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_007:E2:1620:AUTOGRAPH:FAMILY_OTHER
+Sir , It is the respect I have often acknowledged that makes mee this
+often trouble you with my letters . SMYTH,55.007.79
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_007:E2:1620:AUTOGRAPH:FAMILY_OTHER
+You knowe my debts are many , SMYTH,55.007.80
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_007:E2:1620:AUTOGRAPH:FAMILY_OTHER
+you will not therfor wonder if by my many salutacons I seeke to
+discharge them . SMYTH,55.007.81
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_007:E2:1620:AUTOGRAPH:FAMILY_OTHER
+I have sent you a ruffe with cufts , a girdle and paire of hangers of
+the newest fashion , and such as are now in use by men of the best
+fashon . SMYTH,55.007.82
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_007:E2:1620:AUTOGRAPH:FAMILY_OTHER
+You shall receave alsoe a hanger for a woodknife according to your
+directions . SMYTH,55.007.83
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_007:E2:1620:AUTOGRAPH:FAMILY_OTHER
+When you have receaved these you have receaved <paren> as I thinke
+</paren> all things you wrote for , SMYTH,55.007.84
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_007:E2:1620:AUTOGRAPH:FAMILY_OTHER
+and I hope to your liking . SMYTH,55.007.85
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_007:E2:1620:AUTOGRAPH:FAMILY_OTHER
+Upon all occasions there shall not be any more ready to do you service
+than your poor servant Ste. Smith SMYTH,55.007.86
+
+<Q_SMY_A_1620_FO_SSMITH> <L_SMYTH_008> <A_STEPHEN_SMITH>
+<A-GENDER_MALE> <A-REL_GODSON/KIN> <A-DOB_---> <R_HUGH_SMYTH>
+<R-GENDER_MALE> <R-REL_GODFATHER/KIN> <R-DOB_1574>
+
+<P_56>
+
+{ED:114._SMITH_TO_SIR_HUGH_SMYTH_AT_LONG_ASHTON._LINCOLN'S_INN,
+_5_JULY_1620.}
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_008:E2:1620:AUTOGRAPH:FAMILY_OTHER
+Sir , Hedges the Carier hath a Scarlet sute for you in a box trimed up
+as plainly as the fashion wold admit , and as neatly as your tailor 's
+invention or my furtherance cold enable him to doe it . SMYTH,56.008.87
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_008:E2:1620:AUTOGRAPH:FAMILY_OTHER
+It had beene with you 3 or 4 daies since if Mr Claxton had beene then
+provided of such a Scarlet as this hee now adventures to commend unto
+you . SMYTH,56.008.88
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_008:E2:1620:AUTOGRAPH:FAMILY_OTHER
+Since you were pleased to approve of my judgement in the choise of a
+beaver and to commaund my paines therein I have sent you one as good
+and fashionable as my credit cold procure . SMYTH,56.008.89
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_008:E2:1620:AUTOGRAPH:FAMILY_OTHER
+Bycause I did not directly knowe the size of your head I have made by
+bargain for that if it fit you not I shall have the money back againe I
+paid for it , which was 2 peeces . SMYTH,56.008.90
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_008:E2:1620:AUTOGRAPH:FAMILY_OTHER
+In regard that our man hath engrossed the whole traffique of Beaver
+into his hands they are grown extraordinarie deare , SMYTH,56.008.91
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_008:E2:1620:AUTOGRAPH:FAMILY_OTHER
+but the King <paren> as the report saith </paren> will take order by
+proclaimation that noe beavers shall be worn but by men of certaine
+quality and that himself , the prince and my Lord of Buckingham will
+give the first example of wearing felts . SMYTH,56.008.92
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_008:E2:1620:AUTOGRAPH:FAMILY_OTHER
+For the certainty of this report I dare not say too much , but that it
+is reported is most certaine . SMYTH,56.008.93
+
+{ED:PASSAGE_In_regard_ENDING_most_certaine_IN_THE_MARGIN_AT_T
+HIS_POINT}
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_008:E2:1620:AUTOGRAPH:FAMILY_OTHER
+I know not whether you desired a band to it or noe , SMYTH,56.008.94
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_008:E2:1620:AUTOGRAPH:FAMILY_OTHER
+and if one whether that gold or silver or one both gold and silver .
+SMYTH,56.008.95
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_008:E2:1620:AUTOGRAPH:FAMILY_OTHER
+Mr Cocks hath discharged all you commaunded him SMYTH,56.008.96
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_008:E2:1620:AUTOGRAPH:FAMILY_OTHER
+and hath alsoe paid mee for your beaver . SMYTH,56.008.97
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_008:E2:1620:AUTOGRAPH:FAMILY_OTHER
+Your old servant Mr Samuell tells me you are too good a customer to
+loose , SMYTH,56.008.98
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_008:E2:1620:AUTOGRAPH:FAMILY_OTHER
+and therefore to continue his credit with you hath willingly exchaunged
+your blacke boots for a russet paire which you shall find in the box .
+SMYTH,56.008.99
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_008:E2:1620:AUTOGRAPH:FAMILY_OTHER
+I intended to have sent paires of Boules to Ashton before mee
+SMYTH,56.008.100
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_008:E2:1620:AUTOGRAPH:FAMILY_OTHER
+but your many invitations of mee thither have soe prevailed with mee
+that unlesse they have a passage cleere from all rubbs I shall be two
+to one to out run them . SMYTH,56.008.101
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_008:E2:1620:AUTOGRAPH:FAMILY_OTHER
+I must not at this time present you with more than my marginall newes
+least I pumpe myselfe so dry as that I be not able to entertaine you
+with any discourse at my coming to Ashton , till when and ever after
+you have the heart and may have the service of your well-wisher Ste.
+Smith SMYTH,56.008.102
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_008:E2:1620:AUTOGRAPH:FAMILY_OTHER
+Lincolns Inne SMYTH,56.008.103
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:46
+LETTER:SMYTH_008:E2:1620:AUTOGRAPH:FAMILY_OTHER
+July 5 SMYTH,56.008.104
+
+<Q_SMY_D_1622_FN_ESMYTH> <L_SMYTH_009> <A_ELIZABETH_SMYTH[N.GORGES]>
+<A-GENDER_FEMALE> <A-REL_MOTHER> <A-DOB_---> <R_THOMAS_SMYTH>
+<R-GENDER_MALE> <R-REL_SON> <R-DOB_1609>
+
+<P_57>
+
+{ED:116._SMITH_TO_THOMAS_SMYTH_AT_OXFORD._ASHTON_14_MAY_1622. }
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_009:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+My deare Tom , I doe expecte this nighte to hire from you , knowing you
+will not forget a mother that longes to hire how you endured to your
+journeyes ende , SMYTH,57.009.105
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_009:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+for the delittes you dayely beholde I pray make the like observation of
+all things worthey note as if you wear a travelor in a foraine countery
+. SMYTH,57.009.106
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_009:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+I hope you will be carefull for your healthe , which I must still put
+you in mynde of . SMYTH,57.009.107
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_009:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+I thanke God wee all hire are in health , SMYTH,57.009.108
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_009:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+but I shall thincke the tyme longer till your father returne , then
+your selfe will doe . SMYTH,57.009.109
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_009:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+If you see any of my Brothers let me be remembered kindely to them ,
+and to my best Cosen french , Sir Edward Gorges , whom I doe imagine by
+this tyme you have seene , SMYTH,57.009.110
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_009:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+and I doute not but he will make much of you . SMYTH,57.009.111
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_009:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+Thus Sweet harte prayeing to God to bless you with his best blessing ,
+to his holy protection I comyte thee , Ever resteing Thy most loveing
+and carefull mother Eliza: Smyth SMYTH,57.009.112
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_009:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+Aishton SMYTH,57.009.113
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_009:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+this 14 of Maye 1622 SMYTH,57.009.114
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_009:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+Remember my love to your good frend . SMYTH,57.009.115
+
+<Q_SMY_D_1622_FN_ESMYTH> <L_SMYTH_010> <A_ELIZABETH_SMYTH[N.GORGES]>
+<A-GENDER_FEMALE> <A-REL_MOTHER> <A-DOB_---> <R_THOMAS_SMYTH>
+<R-GENDER_MALE> <R-REL_SON> <R-DOB_1609>
+
+<P_58>
+
+{ED:117._SMYTH_TO_THOMAS_SMYTH_AT_ST_JOHN'S_COLLEGE,_OXFORD._
+ASHTON_19_MAY_1622.}
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_010:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+Deare Tome , I have at last reseved thy two letters , but the furst
+last , SMYTH,58.010.116
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_010:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+and am glad to hire that you are so stronge a man , able to endure so
+longe wayes and ille weather as you found , but much comforted that the
+Doctors finde no such infermity in you , but may easely be redresed , I
+hope , with your owne care and a lettel of the advise withall which I
+must charge you to follow , hopeinge God hath apointed this meane to
+increasse your health and strength that you may long live to be a
+comfort to your parents and to doe good to others when wee are gonne .
+SMYTH,58.010.117
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_010:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+I $will $be {TEXT:willbe} very carefull in sendeing dayely untel I
+reseve your Globes , SMYTH,58.010.118
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_010:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+and must comend you for bestowing your stoke so well , SMYTH,58.010.119
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_010:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+for this will aford you pleasure of contenuance , when other toyes
+would have soun decayed , and have ben nether-1 use-full long for bodie
+nor minde . SMYTH,58.010.120
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_010:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+I am glad you have seen my frends in the town , SMYTH,58.010.121
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_010:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+and am sure if they wher them selfes they were glad to see you ,
+SMYTH,58.010.122
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_010:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+for my sake , have a great care of over heateing your selfe in your
+journey home . SMYTH,58.010.123
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_010:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+I hope you shall myte this letter on the waye . SMYTH,58.010.124
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_010:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+Thus dear Tom with my harty prayers to God to bless thee , now and ever
+I rest , Thy most loveing Mother Eliza: Smyth SMYTH,58.010.125
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_010:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+Ashton SMYTH,58.010.126
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:13
+LETTER:SMYTH_010:E2:1622:UNKNOWN:FAMILY_NUCLEAR
+this 19 of Maye 1622 SMYTH,58.010.127
+
+<Q_SMY_A_1622_FO_SSMITH> <L_SMYTH_011> <A_STEPHEN_SMITH>
+<A-GENDER_MALE> <A-REL_GODSON/KIN> <A-DOB_---> <R_HUGH_SMYTH>
+<R-GENDER_MALE> <R-REL_GODFATHER/KIN> <R-DOB_1574>
+
+<P_58>
+
+{ED:118._SMITH_TO_SIR_HUGH_SMYTH_AT_LONG_ASHTON._LONDON_3_JUNE_ 1622.}
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:48
+LETTER:SMYTH_011:E2:1622:AUTOGRAPH:FAMILY_OTHER
+Noble Sir , I congratulate your safe returne . SMYTH,58.011.128
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:48
+LETTER:SMYTH_011:E2:1622:AUTOGRAPH:FAMILY_OTHER
+Mr Bettie tells me he hath provided an excellent paire of garters for
+you . SMYTH,58.011.129
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:48
+LETTER:SMYTH_011:E2:1622:AUTOGRAPH:FAMILY_OTHER
+I have bespoke your boothose SMYTH,58.011.130
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:48
+LETTER:SMYTH_011:E2:1622:AUTOGRAPH:FAMILY_OTHER
+but $can $not {TEXT:cannot} be assured of them till this weeke 's end .
+SMYTH,58.011.131
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:48
+LETTER:SMYTH_011:E2:1622:AUTOGRAPH:FAMILY_OTHER
+Sir Thomas Terringham will be cairful to get you a chapman for your
+horses : SMYTH,58.011.132
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:48
+LETTER:SMYTH_011:E2:1622:AUTOGRAPH:FAMILY_OTHER
+and if he might but knowe who it is that seekes soe much commaund over
+you at your Musters , he wold trie his power with my Lord Chamberlaine
+to free you of that service . SMYTH,58.011.133
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:48
+LETTER:SMYTH_011:E2:1622:AUTOGRAPH:FAMILY_OTHER
+The lieutenants <paren> he tells mee </paren> you neede not care for ,
+SMYTH,58.011.134
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:48
+LETTER:SMYTH_011:E2:1622:AUTOGRAPH:FAMILY_OTHER
+the horse belong to the Captaine only . SMYTH,58.011.135
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:48
+LETTER:SMYTH_011:E2:1622:AUTOGRAPH:FAMILY_OTHER
+He disires a word or two in writing of this your desire and against
+whom you desire it . SMYTH,58.011.136
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:48
+LETTER:SMYTH_011:E2:1622:AUTOGRAPH:FAMILY_OTHER
+If the Captaine of the horse be your rurmir he knowes not which way to
+free you from his <P_59> power : SMYTH,59.011.137
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:48
+LETTER:SMYTH_011:E2:1622:AUTOGRAPH:FAMILY_OTHER
+but , for the lieutenants , he {TEX:wee} {ED:SIC} will undertake it .
+SMYTH,59.011.138
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:48
+LETTER:SMYTH_011:E2:1622:AUTOGRAPH:FAMILY_OTHER
+I must crave leave to stile myself , Your humblest servant , Ste. Smith
+SMYTH,59.011.139
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:48
+LETTER:SMYTH_011:E2:1622:AUTOGRAPH:FAMILY_OTHER
+London SMYTH,59.011.140
+
+AUTHOR:STEPHEN_SMITH:MALE:GODSON/KIN:_:_
+RECIPIENT:HUGH_SMYTH:MALE:GODFATHER/KIN:1574:48
+LETTER:SMYTH_011:E2:1622:AUTOGRAPH:FAMILY_OTHER
+June 3 1622 . SMYTH,59.011.141
+
+<Q_SMY_D_1624_FN_ESMYTH> <L_SMYTH_012> <A_ELIZABETH_SMYTH[N.GORGES]>
+<A-GENDER_FEMALE> <A-REL_MOTHER> <A-DOB_---> <R_THOMAS_SMYTH>
+<R-GENDER_MALE> <R-REL_SON> <R-DOB_1609>
+
+<P_67>
+
+{ED:139._SMYTH_TO_THOMAS_SMYTH_AT_ST_JOHN'S_COLLEGE,_OXFORD._
+ASHTON,_24_SEPTEMBER_1624.}
+
+{COM:INCOMPLETE}
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:15
+LETTER:SMYTH_012:E2:1624:UNKNOWN:FAMILY_NUCLEAR
+I understand you have ben a courtier of late , SMYTH,67.012.142
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:15
+LETTER:SMYTH_012:E2:1624:UNKNOWN:FAMILY_NUCLEAR
+it was wonderous well done of you to take the opertunitie of the tyme
+and place to show your selfe thanckful to my brother Terringham for his
+former kindness to you at London {ED:...} SMYTH,67.012.143
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:15
+LETTER:SMYTH_012:E2:1624:UNKNOWN:FAMILY_NUCLEAR
+It semeth that ther was good notice taken of you by the better sorte
+that was ther , SMYTH,67.012.144
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:15
+LETTER:SMYTH_012:E2:1624:UNKNOWN:FAMILY_NUCLEAR
+for the Lord Montgomery tould your father that he saw you ride hard
+SMYTH,67.012.145
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:15
+LETTER:SMYTH_012:E2:1624:UNKNOWN:FAMILY_NUCLEAR
+and him selfe and others speake much good of you , SMYTH,67.012.146
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:15
+LETTER:SMYTH_012:E2:1624:UNKNOWN:FAMILY_NUCLEAR
+by this you may see that beinge in the best company , it will prove
+most advantageous to you , SMYTH,67.012.147
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:15
+LETTER:SMYTH_012:E2:1624:UNKNOWN:FAMILY_NUCLEAR
+and these good partes they note to be in you in this your youthe , will
+make you the better esteemed and observed by them hireafter , if it
+please God you come to live amongest them as I hope you may ,
+SMYTH,67.012.148
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:15
+LETTER:SMYTH_012:E2:1624:UNKNOWN:FAMILY_NUCLEAR
+I $can $not {TEXT:cannot} expresse the joye that I reseve by the good
+reports I hire of you , {ED:...} SMYTH,67.012.149
+
+<Q_SMY_A_1626_FN_TSMYTH> <L_SMYTH_013> <A_THOMAS_SMYTH> <A-GENDER_MALE>
+<A-REL_FATHER> <A-DOB_1609> <R_HUGH_SMYTH> <R-GENDER_MALE> <R-REL_SON>
+<R-DOB_1574>
+
+<P_75>
+
+{ED:158._SMYTH_TO_SIR_HUGH_SMYTH_AT_ASHTON._ST_JOHN'S_COLLEGE,_O
+XFORD._3_MAY_1626.}
+
+{COM:INCOMPLETE}
+
+AUTHOR:THOMAS_SMYTH:MALE:FATHER:1609:17
+RECIPIENT:HUGH_SMYTH:MALE:SON:1574:52
+LETTER:SMYTH_013:E2:1626:AUTOGRAPH:FAMILY_NUCLEAR
+{ED:...} there is not one person sicke , nor house shutt upp in the
+whole towne . SMYTH,75.013.150
+
+AUTHOR:THOMAS_SMYTH:MALE:FATHER:1609:17
+RECIPIENT:HUGH_SMYTH:MALE:SON:1574:52
+LETTER:SMYTH_013:E2:1626:AUTOGRAPH:FAMILY_NUCLEAR
+And yett there are some few in the Cabbines , SMYTH,75.013.151
+
+AUTHOR:THOMAS_SMYTH:MALE:FATHER:1609:17
+RECIPIENT:HUGH_SMYTH:MALE:SON:1574:52
+LETTER:SMYTH_013:E2:1626:AUTOGRAPH:FAMILY_NUCLEAR
+and , as itt is thought if they should not bee pull'd downe , they
+would not want guests this yeare . SMYTH,75.013.152
+
+AUTHOR:THOMAS_SMYTH:MALE:FATHER:1609:17
+RECIPIENT:HUGH_SMYTH:MALE:SON:1574:52
+LETTER:SMYTH_013:E2:1626:AUTOGRAPH:FAMILY_NUCLEAR
+For the poore people <paren> amongst whom the sicknesse hath wholy
+beene </paren> are growne so wickedly cunning , as to feigne themselves
+infected , and to goe to the pesthouses , because they are suer to bee
+there well releived with victualls . SMYTH,75.013.153
+
+AUTHOR:THOMAS_SMYTH:MALE:FATHER:1609:17
+RECIPIENT:HUGH_SMYTH:MALE:SON:1574:52
+LETTER:SMYTH_013:E2:1626:AUTOGRAPH:FAMILY_NUCLEAR
+You may bee confident that longer than I shall see the towne for my
+safety I will not stay ; SMYTH,75.013.154
+
+AUTHOR:THOMAS_SMYTH:MALE:FATHER:1609:17
+RECIPIENT:HUGH_SMYTH:MALE:SON:1574:52
+LETTER:SMYTH_013:E2:1626:AUTOGRAPH:FAMILY_NUCLEAR
+and if itt should prove dangerous , you shall heare itt by a speedy
+messenger . SMYTH,75.013.155
+
+AUTHOR:THOMAS_SMYTH:MALE:FATHER:1609:17
+RECIPIENT:HUGH_SMYTH:MALE:SON:1574:52
+LETTER:SMYTH_013:E2:1626:AUTOGRAPH:FAMILY_NUCLEAR
+In the meane time I will wholly imploy my selfe to those courses which
+$shall $be {TEXT:shallbe} most for my good . SMYTH,75.013.156
+
+AUTHOR:THOMAS_SMYTH:MALE:FATHER:1609:17
+RECIPIENT:HUGH_SMYTH:MALE:SON:1574:52
+LETTER:SMYTH_013:E2:1626:AUTOGRAPH:FAMILY_NUCLEAR
+And whilst I so do I doubt not but I shall reasonably well deserve the
+greate charge you have beene and are now att with mee .
+SMYTH,75.013.157
+
+AUTHOR:THOMAS_SMYTH:MALE:FATHER:1609:17
+RECIPIENT:HUGH_SMYTH:MALE:SON:1574:52
+LETTER:SMYTH_013:E2:1626:AUTOGRAPH:FAMILY_NUCLEAR
+You may be confident of my uncessant prayers for you and of my
+willingnesse in all things to show myselfe Yours truly affectionate and
+obedient Sonne Thomas Smyth SMYTH,75.013.158
+
+<Q_SMY_D_1626_FN_ESMYTH> <L_SMYTH_014> <A_ELIZABETH_SMYTH[N.GORGES]>
+<A-GENDER_FEMALE> <A-REL_MOTHER> <A-DOB_---> <R_THOMAS_SMYTH>
+<R-GENDER_MALE> <R-REL_SON> <R-DOB_1609>
+
+<P_76>
+
+{ED:160._SMYTH_TO_THOMAS_SMYTH_AT_ST_JOHN'S_COLLEGE,_OXFORD._
+ASHTON_19_MAY_1626.}
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_014:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+Deare Tom , Being this morninge in my bed , your father risinge early
+to goe to the well , I could not let this or any messenger pase with
+out some few lines . SMYTH,76.014.159
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_014:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+This is the first day of his goinge to the watter SMYTH,76.014.160
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_014:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+but he hath had it brought home to drincke . SMYTH,76.014.161
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_014:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+He sayth he findes much good by it , SMYTH,76.014.162
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_014:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+and intends if health and strength come apase shortly to see Langford .
+SMYTH,76.014.163
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_014:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+Your sister Rogers is to goe to Canington the nexte weeke .
+SMYTH,76.014.164
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_014:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+If it holde you may imagine what good company wee are like to have hire
+. SMYTH,76.014.165
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_014:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+For hire comes not any but such as are sent for , SMYTH,76.014.166
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_014:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+and coler dothe as much abound with us as ever it ded , God increase my
+patience to endure it stille , whiche for your sake and the hopes I
+have of great comfort in you now and hireafter makes me now sufer .
+SMYTH,76.014.167
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_014:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+Commend me to Mr Atkinson . SMYTH,76.014.168
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_014:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+Thus I leave you to your beste studies , praying God to blese and
+prosper you in all good you shall take in hand , which hopes are the
+only comforte of Yours moste affectionate Mother , E. S.
+SMYTH,76.014.169
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_014:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+Aishton SMYTH,76.014.170
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_014:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+this 19 of May 1626 SMYTH,76.014.171
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_014:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+Your sister Rogers commends her to you and your tutor .
+SMYTH,76.014.172
+
+<Q_SMY_D_1626_FN_ESMYTH> <L_SMYTH_015> <A_ELIZABETH_SMYTH[N.GORGES]>
+<A-GENDER_FEMALE> <A-REL_MOTHER> <A-DOB_---> <R_THOMAS_SMYTH>
+<R-GENDER_MALE> <R-REL_SON> <R-DOB_1609>
+
+<P_78>
+
+{ED:166._SMYTH_TO_THOMAS_SMYTH_AT_ST_JOHN'S_COLLEGE,_OXFORD._
+OCTOBER_1626.}
+
+{COM:INCOMPLETE}
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_015:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+I understande by Mr Atkineson 's letter to me that the tyme of your
+coming hether he desiers may be as soone after Allhalontide as we
+please . SMYTH,78.015.173
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_015:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+Sence it hath pleased your father to refer your stayinge and returning
+to your owne considerations , let me now advise you to sett him downe a
+day certaine when you would have the horses to come for you , that you
+may be the redyer when he sends , and that he may provide to put of
+other such ocations for the use of horses at that tyme , if ther should
+be any . SMYTH,78.015.174
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_015:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+As concerning your Battles , I doe perseve your own carefullness to
+prevent all idel expenses , and yet to live like a gentleman of your
+owne degre , SMYTH,78.015.175
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_015:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+for the avoyding of keepeing company abrode , which would draw on
+charges is the more for your credit and good report with all that are
+good , and your father 's profitt . SMYTH,78.015.176
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_015:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+And in the end what you save to him will be gotten for your selfe , so
+that it be not basely spared {ED:...} SMYTH,78.015.177
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_015:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+I hope Betty toucke measure of you , beinge with you , that when he
+makes you winter clothes they may be bige inoughe . SMYTH,78.015.178
+
+<P_79>
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_015:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+I know you will have care to keepe your selfe as warme as you may when
+the cold weather comes in with such as you have . SMYTH,79.015.179
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_015:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+Remember your necke and feett . SMYTH,79.015.180
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_015:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+Thus prayinge to God to bless you in all your good courses , I reste in
+hast , your most lovinge Mother E. S. SMYTH,79.015.181
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:17
+LETTER:SMYTH_015:E2:1626:UNKNOWN:FAMILY_NUCLEAR
+You sisters commends them to . SMYTH,79.015.182
+
+<Q_SMY_D_1628?_FN_ESMYTH> <L_SMYTH_016> <A_ELIZABETH_SMYTH[N.GORGES]>
+<A-GENDER_FEMALE> <A-REL_MOTHER> <A-DOB_---> <R_THOMAS_SMYTH>
+<R-GENDER_MALE> <R-REL_SON> <R-DOB_1609>
+
+<P_87>
+
+{ED:184._SMYTH_TO_THOMAS_SMYTH_IN_LONDON._ASHTON_N.D._[?_1628 ].}
+
+{ED:ENDORSED}
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_?
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:19?
+LETTER:SMYTH_016:E2:1628?:UNKNOWN:FAMILY_NUCLEAR
+Leave this letter at Mr Betty the taylor 's house without Temple Bare
+neare the signe of ye bleu ancker . SMYTH,87.016.183
+
+{COM:INCOMPLETE}
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_?
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:19?
+LETTER:SMYTH_016:E2:1628?:UNKNOWN:FAMILY_NUCLEAR
+Wee have hard of some of your great bisiness , but diversly reported ,
+SMYTH,87.016.184
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_?
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:19?
+LETTER:SMYTH_016:E2:1628?:UNKNOWN:FAMILY_NUCLEAR
+and many comes to enquier of me . SMYTH,87.016.185
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_?
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:19?
+LETTER:SMYTH_016:E2:1628?:UNKNOWN:FAMILY_NUCLEAR
+I shall now , I thank you , be able to informe my frends truely ,
+whiche you know SMYTH,87.016.186
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_?
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:19?
+LETTER:SMYTH_016:E2:1628?:UNKNOWN:FAMILY_NUCLEAR
+in this place treu news is bothe dainty and , being good , wellcome ,
+which God send us . SMYTH,87.016.187
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_?
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:19?
+LETTER:SMYTH_016:E2:1628?:UNKNOWN:FAMILY_NUCLEAR
+And that the freedome may as well pase above as it dothe in the lower
+house . SMYTH,87.016.188
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_?
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:19?
+LETTER:SMYTH_016:E2:1628?:UNKNOWN:FAMILY_NUCLEAR
+{ED:...} The Red Lodge is presently to be sold SMYTH,87.016.189
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_?
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:19?
+LETTER:SMYTH_016:E2:1628?:UNKNOWN:FAMILY_NUCLEAR
+and Mr Durocke Popely hath ofered for it . SMYTH,87.016.190
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_?
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:19?
+LETTER:SMYTH_016:E2:1628?:UNKNOWN:FAMILY_NUCLEAR
+But it is thought that it will not goe much under , SMYTH,87.016.191
+
+AUTHOR:ELIZABETH_SMYTH[N.GORGES]:FEMALE:MOTHER:_:_?
+RECIPIENT:THOMAS_SMYTH:MALE:SON:1609:19?
+LETTER:SMYTH_016:E2:1628?:UNKNOWN:FAMILY_NUCLEAR
+and yet it is sayd they are to make present sayle both-2 of that and
+other lands for the payment of his debts being . SMYTH,87.016.192
+
+<Q_SMY_A_1628_T_TATKINSON> <L_SMYTH_017> <A_THOMAS_ATKINSON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1600> <R_THOMAS_SMYTH>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1609>
+
+<P_93>
+
+{ED:197._ATKINSON_TO_THOMAS_SMYTH_AT_ASHTON._ST_JOHN'S_COLLEGE,_
+OXFORD,_17_SEPTEMBER_1628.}
+
+{COM:INCOMPLETE}
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+There is one Gill , a brother of {ED:?} Dib of Trinity College , that
+teaches a schoole under his Father att London ; one of a strange ,
+haire-brained , bitter disposition , and yett some of his acquaintance
+make mee believe subject otherwise good enough , who is coming to
+visitt his friends at Oxon on Munday morning was fortnight amongst a
+great company in theire seller , besides many unchristianlike railing ,
+indeed unmanlike speeches against the Duke even to the chalking out his
+individuall place in Hell , burst out att last into these speeches of
+the King ; SMYTH,93.017.193
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+I am sure they are somewhat neere
+
+, I thinke , verbatim : SMYTH,93.017.195
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+That hee was a very weake man and fitter to stand in a shopp with a
+white apron before him then to bee a King of England . SMYTH,93.017.196
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+It is fitt indeed he should be taught another doctrine ,
+SMYTH,93.017.197
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+but I would not have borne the entry of the Informer , because itt was
+in such a company of gentlemen , who knew his nature , and vouchsaft
+him audience only for their mirth 's sake . SMYTH,93.017.198
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+And yett all these are likely to bee summon'd upp . SMYTH,93.017.199
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+Hee is now in the Gatehouse close Prisoner by his owne fault ;
+SMYTH,93.017.200
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+for when he came to bee examined and had confessed the words , one of
+the Privy Counsell told him sure hee was in drinke , or that hee spoke
+not as he thought , and if hee had done itt rashly , itt was only in
+such a place where understanding men heard him , and that hee would bee
+sorry for itt . SMYTH,93.017.201
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+His answere was that hee was not gladd hee had spoke the words ,
+SMYTH,93.017.202
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+but hee was then as sober as now , SMYTH,93.017.203
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+and spoke itt not without deliberation . Upon which he was committed ,
+where Lord have mercy upon him . SMYTH,93.017.204
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+But there is a consequence , which doth a little touch mee as for my
+friend , and I thinke will do you . SMYTH,93.017.205
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+Your cosen Pickring is in trouble about this , SMYTH,93.017.206
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+had his study searcht by the Vicechancellor and a Clerke of the
+Councell , on Saterday night last , SMYTH,93.017.207
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+comes abroad upon baile SMYTH,93.017.208
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+<paren> and you know hee is not made to runne away </paren>
+SMYTH,93.017.209
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+but yett is confined to Oxford . SMYTH,93.017.210
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+The occasion is : That when Mr Gill 's study was search't there was a
+letter found of Pickrings to him , which caused this Inquiry .
+SMYTH,93.017.211
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+Itt had beene well if that were all ; SMYTH,93.017.212
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+but their is a Fellow from London which doth commonly once in a month
+write to him , abuses him and all his friends most grossely , and sends
+the news of the times true enough , but so sawc't with invectives
+against great men and the Parliament that every letter is a most
+dangerous Satyre . SMYTH,93.017.213
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+Hee hath done this above two yeares , but never subscrib'd his name ,
+SMYTH,93.017.214
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+but they are all written in one most dainty hand ; SMYTH,93.017.215
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+yett <P_94> $can $not {TEXT:cannot} himselfe guesse who this should bee
+, nor any of his friends conjecture . SMYTH,94.017.216
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+The last letter which saluted him some month since and was the most
+invective , ended with " Your most unfortunate Friend , Gerardo . "
+SMYTH,94.017.217
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+These letters hee kept by him , to have produced <paren> as hee saies
+</paren> against this lettermonger whenever hee should have found him ;
+SMYTH,94.017.218
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+I would hee had burnt them , SMYTH,94.017.219
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:28
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_017:E2:1628:AUTOGRAPH:OTHER
+they would not have said so much against him att the Counsell table
+whether they are all conveighed . SMYTH,94.017.220
+
+{ED:...}
+
+<Q_SMY_A_1628_T_HBROWNE> <L_SMYTH_018> <A_HOMPHREY_BROWNE>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_SMYTH>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1609>
+
+<P_94>
+
+{ED:198._BROWNE_TO_THOMAS_SMYTH_AT_ASHTON._BRISTOL_26_SEPTEMBE R_1628.}
+
+AUTHOR:HOMPHREY_BROWNE:MALE:_:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_018:E2:1628:AUTOGRAPH:OTHER
+Right worthy Sr , Last yeare you gave mee a Cupple of dooe rabbetts
+which in regard your $keeper toulde me the yeare was so farr spent to
+Take them without great prejudice SMYTH,94.018.221
+
+AUTHOR:HOMPHREY_BROWNE:MALE:_:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_018:E2:1628:AUTOGRAPH:OTHER
+I therefore forbore them ; SMYTH,94.018.222
+
+AUTHOR:HOMPHREY_BROWNE:MALE:_:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_018:E2:1628:AUTOGRAPH:OTHER
+now if yt shall please you to bestow upon me halfe or three quarters of
+a dooe , I will not only release my rabbetts but allsoe acknowledge yt
+amongst the rest of your favours , SMYTH,94.018.223
+
+AUTHOR:HOMPHREY_BROWNE:MALE:_:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_018:E2:1628:AUTOGRAPH:OTHER
+and will strive to deserve yt when soever oportunity $shall $be
+{TEXT:shalbe} offered , and this with remembrance of my service to my
+Lady your mother ; SMYTH,94.018.224
+
+AUTHOR:HOMPHREY_BROWNE:MALE:_:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_018:E2:1628:AUTOGRAPH:OTHER
+the two holde knights , your selfe and all your Ladyes I take my leave
+{ED:...} SMYTH,94.018.225
+
+AUTHOR:HOMPHREY_BROWNE:MALE:_:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:19
+LETTER:SMYTH_018:E2:1628:AUTOGRAPH:OTHER
+Homphrey Browne SMYTH,94.018.226
+
+<Q_SMY_A_1629_T_TATKINSON> <L_SMYTH_019> <A_THOMAS_ATKINSON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1600> <R_THOMAS_SMYTH>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1609>
+
+<P_100>
+
+{ED:213._THOMAS_ATKINSON_TO_THOMAS_SMYTH_AT_ASHTON._28_JUNE_1629.}
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:29
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:20
+LETTER:SMYTH_019:E2:1629:AUTOGRAPH:OTHER
+Tom Gorges hath allotted mee but a minutes time to assure you in , that
+your poore servant is gladd to heare that your selfe and Sir Tho. Smyth
+have resolved to honour mee with your presence att the Act .
+SMYTH,100.019.227
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:29
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:20
+LETTER:SMYTH_019:E2:1629:AUTOGRAPH:OTHER
+Itt beginnes <paren> least you should mistake the time </paren> upon
+Saturday sevennight the 11th of July ; SMYTH,100.019.228
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:29
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:20
+LETTER:SMYTH_019:E2:1629:AUTOGRAPH:OTHER
+And if itt please Sir Francis , Mr Claxton , Dr Costine , Mr Tucker ,
+Mr Eeling , or any other which will attend you , I $will $be
+{TEXT:welbee} ready prest to bidd them welcome . SMYTH,100.019.229
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:29
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:20
+LETTER:SMYTH_019:E2:1629:AUTOGRAPH:OTHER
+Bee pleased to remember my humblest service to my worthy Lady , my Lady
+Rogers , my Lady Smyth , your noble Bedfellow . SMYTH,100.019.230
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:29
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:20
+LETTER:SMYTH_019:E2:1629:AUTOGRAPH:OTHER
+If itt please them to do mee the favour of a visitt I $shall $be
+{TEXT:shalbee} doubly ingaged if they will acquaint mee with itt before
+hand , that they may not be unfurnisht of convenient lodgings .
+SMYTH,100.019.231
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:29
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:20
+LETTER:SMYTH_019:E2:1629:AUTOGRAPH:OTHER
+I am tied to the post hast of the messenger that brings back the horse
+to be bold to brake off with Yours to his uttmost to serve you T.
+Atkinson . SMYTH,100.019.232
+
+<Q_SMY_A_1634_FO_TSMYTH> <L_SMYTH_020> <A_THOMAS_SMYTH> <A-GENDER_MALE>
+<A-REL_NEPHEW> <A-DOB_1609> <R_EDWARD_GORGES> <R-GENDER_MALE>
+<R-REL_UNCLE> <R-DOB_--->
+
+<P_119>
+
+{ED:265._SMYTH_TO_LORD_GORGES_AT_LANGFORD._ASHTON_4_FEBRUARY_163 4.}
+
+AUTHOR:THOMAS_SMYTH:MALE:NEPHEW:1609:25
+RECIPIENT:EDWARD_GORGES:MALE:UNCLE:_:_
+LETTER:SMYTH_020:E2:1634:AUTOGRAPH:FAMILY_OTHER
+My Lorde , Haveing since the receipt of your letter called my owne into
+my memory , I can not finde wherein I gave you ground to believe the
+<P_120> want of imployment for my painter or furniture for my house
+induced mee to supply those defects by obtayning the Lone of the
+picture I writt for . So that from the very beginninge of your
+discourse , I discover more smoke than fire , and fynde you disposed to
+a Quarrell though you bringe it about by the heade and shoulders .
+SMYTH,120.020.233
+
+AUTHOR:THOMAS_SMYTH:MALE:NEPHEW:1609:25
+RECIPIENT:EDWARD_GORGES:MALE:UNCLE:_:_
+LETTER:SMYTH_020:E2:1634:AUTOGRAPH:FAMILY_OTHER
+For had not I made the request unto one possessed with praejudice , I
+see not but unto a reasonable man , such as I have hereunto reputed you
+, it was sufficient argument I could not but really honour the
+substance that would send so farre to obtayne a sight of its shadowe .
+SMYTH,120.020.234
+
+AUTHOR:THOMAS_SMYTH:MALE:NEPHEW:1609:25
+RECIPIENT:EDWARD_GORGES:MALE:UNCLE:_:_
+LETTER:SMYTH_020:E2:1634:AUTOGRAPH:FAMILY_OTHER
+And heere I can not but tell you that though you might have beene so
+observant unto those of your sister 's as to have afforded fayrer
+satisfaction {ED:...} I have called my selfe to a strict accompt , and
+fynde the verdict to bee that in nothinge I have ever yet shewed want
+of Love unto your father or due respect unto your selfe .
+SMYTH,120.020.235
+
+AUTHOR:THOMAS_SMYTH:MALE:NEPHEW:1609:25
+RECIPIENT:EDWARD_GORGES:MALE:UNCLE:_:_
+LETTER:SMYTH_020:E2:1634:AUTOGRAPH:FAMILY_OTHER
+But on your parte , $'t $will {TEXT:twill} appeare , even if your own
+Conscience , bee asked that seven years are almost past since my father
+'s death ; in all which tyme you never tooke notice by any particular
+address unto this place , that hee had hever left or wife or sonne
+beynde him . SMYTH,120.020.236
+
+AUTHOR:THOMAS_SMYTH:MALE:NEPHEW:1609:25
+RECIPIENT:EDWARD_GORGES:MALE:UNCLE:_:_
+LETTER:SMYTH_020:E2:1634:AUTOGRAPH:FAMILY_OTHER
+But God and him bee thanked wee were left as farre from intention as
+necessity to begg your countenance , SMYTH,120.020.237
+
+AUTHOR:THOMAS_SMYTH:MALE:NEPHEW:1609:25
+RECIPIENT:EDWARD_GORGES:MALE:UNCLE:_:_
+LETTER:SMYTH_020:E2:1634:AUTOGRAPH:FAMILY_OTHER
+only wee should have beene gladd to have maintayned freindly exchanges
+, had you not first began the neglect . SMYTH,120.020.238
+
+AUTHOR:THOMAS_SMYTH:MALE:NEPHEW:1609:25
+RECIPIENT:EDWARD_GORGES:MALE:UNCLE:_:_
+LETTER:SMYTH_020:E2:1634:AUTOGRAPH:FAMILY_OTHER
+In a worde , I hope the Picture is not only extant at Langford .
+SMYTH,120.020.239
+
+AUTHOR:THOMAS_SMYTH:MALE:NEPHEW:1609:25
+RECIPIENT:EDWARD_GORGES:MALE:UNCLE:_:_
+LETTER:SMYTH_020:E2:1634:AUTOGRAPH:FAMILY_OTHER
+If all England afforde it I wyll bee Master of a Copy .
+SMYTH,120.020.240
+
+AUTHOR:THOMAS_SMYTH:MALE:NEPHEW:1609:25
+RECIPIENT:EDWARD_GORGES:MALE:UNCLE:_:_
+LETTER:SMYTH_020:E2:1634:AUTOGRAPH:FAMILY_OTHER
+For I professe it my honour to bee Sir Thomas Gorges gransonne , as it
+is my happynesse to be the chylde of those parents hee held worthy of
+his choycest affection . SMYTH,120.020.241
+
+AUTHOR:THOMAS_SMYTH:MALE:NEPHEW:1609:25
+RECIPIENT:EDWARD_GORGES:MALE:UNCLE:_:_
+LETTER:SMYTH_020:E2:1634:AUTOGRAPH:FAMILY_OTHER
+But as the case stands , I esteeme it little addition ,
+SMYTH,120.020.242
+
+AUTHOR:THOMAS_SMYTH:MALE:NEPHEW:1609:25
+RECIPIENT:EDWARD_GORGES:MALE:UNCLE:_:_
+LETTER:SMYTH_020:E2:1634:AUTOGRAPH:FAMILY_OTHER
+and am farre from takeing any pride in that therewithall I am made
+subject to undergoe the title of Your Nephewe SMYTH,120.020.243
+
+AUTHOR:THOMAS_SMYTH:MALE:NEPHEW:1609:25
+RECIPIENT:EDWARD_GORGES:MALE:UNCLE:_:_
+LETTER:SMYTH_020:E2:1634:AUTOGRAPH:FAMILY_OTHER
+Tho. Smyth SMYTH,120.020.244
+
+AUTHOR:THOMAS_SMYTH:MALE:NEPHEW:1609:25
+RECIPIENT:EDWARD_GORGES:MALE:UNCLE:_:_
+LETTER:SMYTH_020:E2:1634:AUTOGRAPH:FAMILY_OTHER
+Ashton SMYTH,120.020.245
+
+AUTHOR:THOMAS_SMYTH:MALE:NEPHEW:1609:25
+RECIPIENT:EDWARD_GORGES:MALE:UNCLE:_:_
+LETTER:SMYTH_020:E2:1634:AUTOGRAPH:FAMILY_OTHER
+Feb. 4th 1633 {ED:1634} SMYTH,120.020.246
+
+<Q_SMY_A_1635_FO_JPOULETT> <L_SMYTH_021> <A_JOHN_POULETT>
+<A-GENDER_MALE> <A-REL_FATHER-IN-LAW> <A-DOB_1586> <R_THOMAS_SMYTH>
+<R-GENDER_MALE> <R-REL_SON-IN-LAW> <R-DOB_1609>
+
+<P_124>
+
+{ED:273._POULETT_TO_THOMAS_SMYTH_AT_ASHTON,_ON_BOARD_[^THE_CONSTAN
+T_REFORMATION^]_,_PLYMOUTH._20_JULY_[1635].}
+
+{COM:INCOMPLETE}
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:49
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:26
+LETTER:SMYTH_021:E2:1635:AUTOGRAPH:FAMILY_OTHER
+I think the French fleete and our's will not meete unless the windes
+bring us togeather agaynst their will , SMYTH,124.021.247
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:49
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:26
+LETTER:SMYTH_021:E2:1635:AUTOGRAPH:FAMILY_OTHER
+yet we learn by a bark wee sent into thare coste that they are saile of
+French and of Dutch togeather and that seaven great shipps more are
+making redy at Brest , so that it is well for us that wee have spent
+our victualls and are now standing back to the downes either to receave
+more or to be turned to grasse . SMYTH,124.021.248
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:49
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:26
+LETTER:SMYTH_021:E2:1635:AUTOGRAPH:FAMILY_OTHER
+But I heare from London that there are more victualls provided and more
+shipps SMYTH,124.021.249
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:49
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:26
+LETTER:SMYTH_021:E2:1635:AUTOGRAPH:FAMILY_OTHER
+but the Amirall hath no certayn advertisement of eather .
+SMYTH,124.021.250
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:49
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:26
+LETTER:SMYTH_021:E2:1635:AUTOGRAPH:FAMILY_OTHER
+I imagine if the winde serve the fleete will be at Portsmouth about the
+end of this month and from thence plie to the east . SMYTH,124.021.251
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:49
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:26
+LETTER:SMYTH_021:E2:1635:AUTOGRAPH:FAMILY_OTHER
+I wish I had some of those mek tenants of Yeaton aboad the fleete ,
+SMYTH,124.021.252
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:49
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:26
+LETTER:SMYTH_021:E2:1635:AUTOGRAPH:FAMILY_OTHER
+another yeare they will be fitt for us , SMYTH,124.021.253
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:49
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:26
+LETTER:SMYTH_021:E2:1635:AUTOGRAPH:FAMILY_OTHER
+in the mean tyme I shall be glad to hear they were more tractable
+though I conceave little hope by your letter of their amendement Tom :
+SMYTH,124.021.254
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:49
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:26
+LETTER:SMYTH_021:E2:1635:AUTOGRAPH:FAMILY_OTHER
+it is a great contentment to me that Mr Poulett 's care in my affares
+is accompanied with your helpe by which you oblige me the more though i
+am yours as surely as may be . SMYTH,124.021.255
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:49
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:26
+LETTER:SMYTH_021:E2:1635:AUTOGRAPH:FAMILY_OTHER
+God of heaven bless you and Florence and all yours , SMYTH,124.021.256
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:49
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:26
+LETTER:SMYTH_021:E2:1635:AUTOGRAPH:FAMILY_OTHER
+so I remayn Your true affectionate father J. Poulett .
+SMYTH,124.021.257
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:49
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:26
+LETTER:SMYTH_021:E2:1635:AUTOGRAPH:FAMILY_OTHER
+Plimouth SMYTH,124.021.258
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:49
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:26
+LETTER:SMYTH_021:E2:1635:AUTOGRAPH:FAMILY_OTHER
+July SMYTH,124.021.259
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:49
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:26
+LETTER:SMYTH_021:E2:1635:AUTOGRAPH:FAMILY_OTHER
+If a myssenger weare with you from us , I suppose you would ask how wee
+did in the rough weather . SMYTH,124.021.260
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:49
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:26
+LETTER:SMYTH_021:E2:1635:AUTOGRAPH:FAMILY_OTHER
+I assure you wee endured the first storm very well SMYTH,124.021.261
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:49
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:26
+LETTER:SMYTH_021:E2:1635:AUTOGRAPH:FAMILY_OTHER
+only Jack was grasy stomakt SMYTH,124.021.262
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:49
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:26
+LETTER:SMYTH_021:E2:1635:AUTOGRAPH:FAMILY_OTHER
+but this last wee endured without a qualme . SMYTH,124.021.263
+
+<Q_SMY_D_1636?_FO_JPOULETT> <L_SMYTH_022> <A_JOHN_POULETT>
+<A-GENDER_MALE> <A-REL_FATHER-IN-LAW> <A-DOB_1586> <R_THOMAS_SMYTH>
+<R-GENDER_MALE> <R-REL_SON-IN-LAW> <R-DOB_1609>
+
+<P_127>
+
+{ED:279._LORD_POULETT_TO_THOMAS_SMYTH._HINTON_N.D._[?_1636].}
+
+{COM:INCOMPLETE}
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:50?
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:27?
+LETTER:SMYTH_022:E2:1636?:UNKNOWN:FAMILY_OTHER
+I receaved letters from the Lord Amirall by which I perceave that
+though they have been a good while at the Court yet the Amirall was not
+called to give account of his employment till the last week and then
+his journalls were called for at the Counsell table when his Majesty
+was present and after the sight of them and scanninge of them the Kinge
+expressed a very good and gratious acceptance of his service and gave
+him thanks for it . SMYTH,127.022.264
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:50?
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:27?
+LETTER:SMYTH_022:E2:1636?:UNKNOWN:FAMILY_OTHER
+The Lord Amirall amongst other things wrote to me that the Prince
+Palatine cominge in the downes and Sir John Penington intending to do
+him honour there by giving him all his gunnes , the ill luck was that
+one of the bullets fell into the Prince 's shippe and killed two of his
+servants and a sailler and hurt others for which unhappy accident Sir
+John Pennington was much afflected . SMYTH,127.022.265
+
+<Q_SMY_A_1637_T_TSMYTH> <L_SMYTH_023> <A_THOMAS_SMYTH> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1609> <R_WILLIAM_BASSETT> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_--->
+
+<P_127>
+
+{ED:280._THOMAS_SMYTH_TO_WILLIAM_BASSETT._ASHTON_15_JANUARY_1637.}
+
+{COM:INCOMPLETE}
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:WILLIAM_BASSETT:MALE:_:_:_
+LETTER:SMYTH_023:E2:1637:AUTOGRAPH:OTHER
+Divers of the inhabitants have repayred unto mee , SMYTH,127.023.266
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:WILLIAM_BASSETT:MALE:_:_:_
+LETTER:SMYTH_023:E2:1637:AUTOGRAPH:OTHER
+and I finde them much discontented . SMYTH,127.023.267
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:WILLIAM_BASSETT:MALE:_:_:_
+LETTER:SMYTH_023:E2:1637:AUTOGRAPH:OTHER
+Soe weare they upon the like taxe in Mr Hodges yeare .
+SMYTH,127.023.268
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:WILLIAM_BASSETT:MALE:_:_:_
+LETTER:SMYTH_023:E2:1637:AUTOGRAPH:OTHER
+$It $'s {TEXT:Its} true that by Hinton rate theis 2 hundreds stand
+liable unto 3 men apeece , SMYTH,127.023.269
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:WILLIAM_BASSETT:MALE:_:_:_
+LETTER:SMYTH_023:E2:1637:AUTOGRAPH:OTHER
+but $'t $is {TEXT:t'is} as true that for this or yeares they have stood
+discharged of one man , and unto all paies as for Musters , Bridges and
+Composicons have onelie levied after 2 men , 1/2 upon each hundred .
+SMYTH,127.023.270
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:WILLIAM_BASSETT:MALE:_:_:_
+LETTER:SMYTH_023:E2:1637:AUTOGRAPH:OTHER
+Howe the abatement came I certenlie know not , more then that Sir
+Edward Rodney tould me at Wells that Sir Edw. Gorges and my Father
+obteyned it at a Sessions long since , and place {ED:d} the man upon
+Winter Stoke and that now they would returne him upon us againe .
+SMYTH,127.023.271
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:WILLIAM_BASSETT:MALE:_:_:_
+LETTER:SMYTH_023:E2:1637:AUTOGRAPH:OTHER
+Mr Hodges repealed his first warrants SMYTH,127.023.272
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:WILLIAM_BASSETT:MALE:_:_:_
+LETTER:SMYTH_023:E2:1637:AUTOGRAPH:OTHER
+and renewed them for from theis 2 hundreds , which was obeyed .
+SMYTH,127.023.273
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:WILLIAM_BASSETT:MALE:_:_:_
+LETTER:SMYTH_023:E2:1637:AUTOGRAPH:OTHER
+I never heard that the other was lost unto the King or raysed any
+dispute whence it lighted . SMYTH,127.023.274
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:WILLIAM_BASSETT:MALE:_:_:_
+LETTER:SMYTH_023:E2:1637:AUTOGRAPH:OTHER
+I desier you will allowe as the like favour or if you maie not doe so
+much ; at least so <P_128> forbeare to {ED:wait}_VB awhile untill
+Winterstoke and us have disputed the case . By which meanes your selfe
+may come the easier by the money and the difference be composed , with
+lesse charge unto the poore inhabitants . SMYTH,128.023.275
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:WILLIAM_BASSETT:MALE:_:_:_
+LETTER:SMYTH_023:E2:1637:AUTOGRAPH:OTHER
+Otherwise I feare you will finde the people rude and addicted unto
+opposicon . SMYTH,128.023.276
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:WILLIAM_BASSETT:MALE:_:_:_
+LETTER:SMYTH_023:E2:1637:AUTOGRAPH:OTHER
+I leave it unto your consideration SMYTH,128.023.277
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:WILLIAM_BASSETT:MALE:_:_:_
+LETTER:SMYTH_023:E2:1637:AUTOGRAPH:OTHER
+and present my service unto your selfe and your Lady .
+SMYTH,128.023.278
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:WILLIAM_BASSETT:MALE:_:_:_
+LETTER:SMYTH_023:E2:1637:AUTOGRAPH:OTHER
+I affectionately remayne Your freind and servant Tho. Smyth .
+SMYTH,128.023.279
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:WILLIAM_BASSETT:MALE:_:_:_
+LETTER:SMYTH_023:E2:1637:AUTOGRAPH:OTHER
+Ashton SMYTH,128.023.280
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:WILLIAM_BASSETT:MALE:_:_:_
+LETTER:SMYTH_023:E2:1637:AUTOGRAPH:OTHER
+Jan 15 1636/7 SMYTH,128.023.281
+
+<Q_SMY_A_1637_T_TATKINSON> <L_SMYTH_024> <A_THOMAS_ATKINSON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1600> <R_THOMAS_SMYTH>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1609>
+
+<P_128>
+
+{ED:281A._ATKINSON_TO_THOMAS_SMYTH_AT_ASHTON._22_JANUARY_1637.}_ @
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:37
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:28
+LETTER:SMYTH_024:E2:1637:AUTOGRAPH:OTHER
+Had I beene onely to sitt in Judgement upon my selfe , I
+{ED:ILLEGIBLE}_CODE_HVD beene brought in Guilty of unthankfullnes if I
+had lett slip {ED:?_this} opportunity of presenting my service in a
+line or two by so convenient a messenger . SMYTH,128.024.282
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:37
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:28
+LETTER:SMYTH_024:E2:1637:AUTOGRAPH:OTHER
+Hee is our manciple , whom both the Colledge occasions and his owne
+have invited to your Faire att Bristol ; the occasion of whose going
+hath farther caused Mr President to remember mee of that which hee was
+pleased to lay downe for mee att the Auditt was 2 years , by vertue of
+which onely I am enabled still to write Fellow of St Johns .
+SMYTH,128.024.283
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:37
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:28
+LETTER:SMYTH_024:E2:1637:AUTOGRAPH:OTHER
+I am not yett able to come out of his debt , SMYTH,128.024.284
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:37
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:28
+LETTER:SMYTH_024:E2:1637:AUTOGRAPH:OTHER
+that little meanes I have <paren> without the Colledge and my
+Fellowshipp </paren> with the best thrift I can use not being of a
+competency to keepe mee within mine owne ranke . SMYTH,128.024.285
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:37
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:28
+LETTER:SMYTH_024:E2:1637:AUTOGRAPH:OTHER
+Yett I am and have beene infinitely beholden to him for his holding my
+head above water , and bestowing the Bursarshipp upon mee this last
+Auditt ; but especially for restoring mee so farre into my Lord 's
+grace his favour , that I have itt under his owne hand <paren> upon the
+relinquishing of my suite for the Parsonage of Creeke unto Mr Harrison
+</paren> that himselfe will become my paymaister , and <paren> to use
+his owne language </paren> requite mee to the full by himselfe , or my
+Lord of London very speedily ; SMYTH,128.024.286
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:37
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:28
+LETTER:SMYTH_024:E2:1637:AUTOGRAPH:OTHER
+Sir , if I were silent , many eies and eares would bring in evidence
+how much I am your debtour for my very subsisting ; SMYTH,128.024.287
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:37
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:28
+LETTER:SMYTH_024:E2:1637:AUTOGRAPH:OTHER
+and yett my unfortunatenesse putts mee againe upon itt to be an
+importunate beggar for this once that you would perfect your owne act ,
+and sett mee upp a Freeman from my ingagement in the suite to Mr
+President , whom if I knew any how to satisfie without an appeale to
+your goodnes , I would not have beene so impudent as to sollicite you ,
+knowing my former ingagements , and your extraordinary occasions for
+disbursing of monies . SMYTH,128.024.288
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:37
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:28
+LETTER:SMYTH_024:E2:1637:AUTOGRAPH:OTHER
+I have not acquainted this bearer with any part of <P_129> this errand
+, but onely enjoyned him to waite upon you for the delivery of this
+letter . SMYTH,129.024.289
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:37
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:28
+LETTER:SMYTH_024:E2:1637:AUTOGRAPH:OTHER
+But if you shall please to doe mee this favour as to give him this
+money , or <paren> if your great occasions will not permitt </paren> to
+signify in a word to Mr President , that I shall not bee accompted
+amongst his desperate debtours , you will by the desobliging of mee to
+him , engage mee everlastingly to strive to appear what I in present
+subscribe my selfe Your most faithfull servant T. Atkinson
+SMYTH,129.024.290
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:37
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:28
+LETTER:SMYTH_024:E2:1637:AUTOGRAPH:OTHER
+<font> Postscript </font> Pray bee pleased to present my humblest
+service to your noble Bedfellow . SMYTH,129.024.291
+
+AUTHOR:THOMAS_ATKINSON:MALE:_:1600:37
+RECIPIENT:THOMAS_SMYTH:MALE:_:1609:28
+LETTER:SMYTH_024:E2:1637:AUTOGRAPH:OTHER
+I have sent you by this bearer , the greatest novelty Oxford can
+affoord , the booke of Verses for the new borne Lady , which was
+brought to the Drs and some private Friends this very day and is not to
+be sold in publique untill Munday . SMYTH,129.024.292
+
+<Q_SMY_A_1637_T_TSMYTH> <L_SMYTH_025> <A_THOMAS_SMYTH> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1609> <R_THOMAS_ATKINSON> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1600>
+
+<P_129>
+
+{ED:281B._THOMAS_SMYTH_TO_THOMAS_ATKINSON._A_DRAFT_REPLY.}
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:THOMAS_ATKINSON:MALE:_:1600:37
+LETTER:SMYTH_025:E2:1637:AUTOGRAPH:OTHER
+I have beene lately at death 's doore my Selfe , SMYTH,129.025.293
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:THOMAS_ATKINSON:MALE:_:1600:37
+LETTER:SMYTH_025:E2:1637:AUTOGRAPH:OTHER
+but I thought you had beene buryed ; SMYTH,129.025.294
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:THOMAS_ATKINSON:MALE:_:1600:37
+LETTER:SMYTH_025:E2:1637:AUTOGRAPH:OTHER
+so long a silence has passed betwixt us . SMYTH,129.025.295
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:THOMAS_ATKINSON:MALE:_:1600:37
+LETTER:SMYTH_025:E2:1637:AUTOGRAPH:OTHER
+{ED:ILLEGIBLE_WORDS} fault not mine , who should have as readily
+answered any other letters as at present I doe this . SMYTH,129.025.296
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:THOMAS_ATKINSON:MALE:_:1600:37
+LETTER:SMYTH_025:E2:1637:AUTOGRAPH:OTHER
+It seemes the restitution unto my Lord 's grace and favour might easily
+persuade you to forgett your poore freinds in this corner ,
+SMYTH,129.025.297
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:THOMAS_ATKINSON:MALE:_:1600:37
+LETTER:SMYTH_025:E2:1637:AUTOGRAPH:OTHER
+else certaynely mee thinkes , or I yet halfe yearely am remembered of
+your former stragglings , SMYTH,129.025.298
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:THOMAS_ATKINSON:MALE:_:1600:37
+LETTER:SMYTH_025:E2:1637:AUTOGRAPH:OTHER
+so you should within that com {ED:ILLEGIBLE} at least if not oftener ,
+SMYTH,129.025.299
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:THOMAS_ATKINSON:MALE:_:1600:37
+LETTER:SMYTH_025:E2:1637:AUTOGRAPH:OTHER
+lett mee knowe you live in hope to preferre your selfe , though
+peradventure not to satisfy my sufferings on your behalfe .
+SMYTH,129.025.300
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:THOMAS_ATKINSON:MALE:_:1600:37
+LETTER:SMYTH_025:E2:1637:AUTOGRAPH:OTHER
+If ought needes say I wondered what was become of you ;
+SMYTH,129.025.301
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:THOMAS_ATKINSON:MALE:_:1600:37
+LETTER:SMYTH_025:E2:1637:AUTOGRAPH:OTHER
+yet am glad to heare you stand so fayrely promised , SMYTH,129.025.302
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:THOMAS_ATKINSON:MALE:_:1600:37
+LETTER:SMYTH_025:E2:1637:AUTOGRAPH:OTHER
+and shall be more to see some taste of performance once light upon you
+. SMYTH,129.025.303
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:THOMAS_ATKINSON:MALE:_:1600:37
+LETTER:SMYTH_025:E2:1637:AUTOGRAPH:OTHER
+As for the Mr President desires you to remember {ED:ILLEGIBLE_WORDS} I
+referre my selfe unto the Covenant given him under my hands , which if
+hee doubt , if I encounter him at London <paren> whether I am likely
+suddenly to goe </paren> I will make it good unto him in the condition
+of a Bond . SMYTH,129.025.304
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:THOMAS_ATKINSON:MALE:_:1600:37
+LETTER:SMYTH_025:E2:1637:AUTOGRAPH:OTHER
+And this is more than my occasions will encourage mee to strayne
+myselfe unto . SMYTH,129.025.305
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:THOMAS_ATKINSON:MALE:_:1600:37
+LETTER:SMYTH_025:E2:1637:AUTOGRAPH:OTHER
+I hope it will satisfy him and secure you , SMYTH,129.025.306
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:THOMAS_ATKINSON:MALE:_:1600:37
+LETTER:SMYTH_025:E2:1637:AUTOGRAPH:OTHER
+if not , I must needds leave you unto his mercy and my selfe to be
+excused fro any other present satisfaction . SMYTH,129.025.307
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:THOMAS_ATKINSON:MALE:_:1600:37
+LETTER:SMYTH_025:E2:1637:AUTOGRAPH:OTHER
+And so in much hast I rest . Your affectionate freind T. S.
+SMYTH,129.025.308
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:THOMAS_ATKINSON:MALE:_:1600:37
+LETTER:SMYTH_025:E2:1637:AUTOGRAPH:OTHER
+Ashton SMYTH,129.025.309
+
+AUTHOR:THOMAS_SMYTH:MALE:_:1609:28
+RECIPIENT:THOMAS_ATKINSON:MALE:_:1600:37
+LETTER:SMYTH_025:E2:1637:AUTOGRAPH:OTHER
+22 January 1636/7 SMYTH,129.025.310
+
+<Q_SMY_A_1638_FO_TSMYTH> <L_SMYTH_026> <A_THOMAS_SMYTH> <A-GENDER_MALE>
+<A-REL_KIN> <A-DOB_1609> <R_ARTHUR_DODINGTON> <R-GENDER_MALE>
+<R-REL_KIN> <R-DOB_--->
+
+<P_138>
+
+{ED:303._SMYTH_TO_ARTHUR_DODINGTON_'AT_THE_COURTE'._ASHTON_22_AU
+GUST_1638.}
+
+AUTHOR:THOMAS_SMYTH:MALE:KIN:1609:29
+RECIPIENT:ARTHUR_DODINGTON:MALE:KIN:_:_
+LETTER:SMYTH_026:E2:1638:AUTOGRAPH:FAMILY_OTHER
+My Good Cousen , It pleases God to proceede in shorting the number of
+the freinds in my family ; having now deprived us of the life of my
+brother Rogers , whose wyfe dyed this day halfe yeare .
+SMYTH,138.026.311
+
+AUTHOR:THOMAS_SMYTH:MALE:KIN:1609:29
+RECIPIENT:ARTHUR_DODINGTON:MALE:KIN:_:_
+LETTER:SMYTH_026:E2:1638:AUTOGRAPH:FAMILY_OTHER
+You may remember I once endeavoured to procure his sonne a Knighthoode
+; fearinge what hath now happned , was not farre from comeing to passe
+. I sending my servant post up , about the wardshipp , which in right
+of bloode , and most hearty affection , belongs unto none but my selfe
+, unlesse my mother may bee joyned in it , which I desire :
+SMYTH,138.026.312
+
+AUTHOR:THOMAS_SMYTH:MALE:KIN:1609:29
+RECIPIENT:ARTHUR_DODINGTON:MALE:KIN:_:_
+LETTER:SMYTH_026:E2:1638:AUTOGRAPH:FAMILY_OTHER
+but I suppose her beinge marryed will hynder any such grant .
+SMYTH,138.026.313
+
+AUTHOR:THOMAS_SMYTH:MALE:KIN:1609:29
+RECIPIENT:ARTHUR_DODINGTON:MALE:KIN:_:_
+LETTER:SMYTH_026:E2:1638:AUTOGRAPH:FAMILY_OTHER
+Pray cousen if neede require the petition to bee presented unto His
+Majesty assist it in the procurement of a gracious answere . For which
+and all other your good offices really and intentionally afforded mee ,
+you shall upon all wayes of returne and by thankefull acknowledgements
+perceive mee to bee , your most affectionate freinde and kinsman to
+serve you , Thos. Smyth SMYTH,138.026.314
+
+AUTHOR:THOMAS_SMYTH:MALE:KIN:1609:29
+RECIPIENT:ARTHUR_DODINGTON:MALE:KIN:_:_
+LETTER:SMYTH_026:E2:1638:AUTOGRAPH:FAMILY_OTHER
+Ashton , SMYTH,138.026.315
+
+AUTHOR:THOMAS_SMYTH:MALE:KIN:1609:29
+RECIPIENT:ARTHUR_DODINGTON:MALE:KIN:_:_
+LETTER:SMYTH_026:E2:1638:AUTOGRAPH:FAMILY_OTHER
+August 22 , 1638 . SMYTH,138.026.316
+
+<Q_SMY_A_1639_FO_JPOULETT> <L_SMYTH_027> <A_JOHN_POULETT>
+<A-GENDER_MALE> <A-REL_FATHER-IN-LAW> <A-DOB_1586> <R_THOMAS_SMYTH>
+<R-GENDER_MALE> <R-REL_SON-IN-LAW> <R-DOB_1609>
+
+<P_142>
+
+{ED:312._POULETT_TO_THOMAS_SMYTH_AT_ASHTON._YORK_5_APRIL_[1639].}_ @
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+Sonne , I was so harte swollen at parting that I made my expressions to
+you more by signes than wordes for which you will excuse mee .
+SMYTH,142.027.317
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+After I went from Ashton I rested not save the Sunday till I came to
+York which I reached by the daye assigned , the first of April ,
+SMYTH,142.027.318
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+and heare found the King accompanyed with some few lordes and his
+servants but without an army or standard displaide the assignment being
+transferred to Newcastel wither the kinge intends to remove as soon as
+he hath given order for his affaires and the preparations are made to
+receive him , SMYTH,142.027.319
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+in the meane tyme the regiment of horse which will make up the number
+of two thousand lye about the toune SMYTH,142.027.320
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+and hear are the officers to exercise them , so that wee shall have the
+sight of the discipline to entertain us hear . SMYTH,142.027.321
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+The Earle of Essex and Sir Jacob Astely are sent to Barwick to put two
+thousand men into the toune and to fortifye it in case the Scotts have
+not possessed it before they come which is doubted they would doe , the
+reste of the Army drawing down that way . SMYTH,142.027.322
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+I doe not hear the Covenanters offer any submission but that they
+possess the strong places and fortify them , banish the Papists , and
+confiscate the goods of those that will not enter into the covenant ,
+uppon which pretence many Scotts have refuge to the kinge dailye of
+which some I think are honest men others I beleeve are spies .
+SMYTH,142.027.323
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+I am of opinion that our western troops of horse and foote will be
+spared unless resolution alter which is very possable in these tymes of
+change . SMYTH,142.027.324
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+I doe not perceave wee are nearer any other busenesse save spending of
+our money these two months at least SMYTH,142.027.325
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+and then to tell what will become of us belongs to Astrologye .
+SMYTH,142.027.326
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+When the Army is framed and the Standard displayed you shall know the
+condition wee are in . SMYTH,142.027.327
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+In the meane tyme I would not have your thoughts nor your body wander
+further than between Ashton and Hinton . SMYTH,142.027.328
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+This cuntry is full of Prophecies , especially of an olde woman which
+lived in tymes passed who foretold of the dearness of victualls in this
+tyme which if wee stay long in it is like to be accomplished .
+SMYTH,142.027.329
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+After I had written this farre a post came to the kinge which brought
+newes that the Lord Deputy of Ireland hath sent five hundred souldiers
+which were landed at Carlisle SMYTH,142.027.330
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+and another post brings word that Sir Jacob Asteley is gone into
+Barwick and the Earle of Essex within twenty-five miles of it with two
+thousand foote and three hundred horse SMYTH,142.027.331
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+and $'t $is {TEXT:t'is} hoped that he will goe in and find the place
+empty , SMYTH,142.027.332
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+thease two townes being fortified the inroad into England is stopped
+and the way opened into Scotland when the kinge pleases .
+SMYTH,142.027.333
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+I am much mended in my health I thank God SMYTH,142.027.334
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+and doe find this cuntry 's ayre and alle to agree very well with mee
+SMYTH,142.027.335
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+and the Phisition in whose house I lye can see nothing in my urinall
+but that I may come home safely after a few months and perhaps kill
+some of the bucks at Ashton yet before the season passe .
+SMYTH,142.027.336
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+In the meane , the God of heaven keep you and all yours
+SMYTH,142.027.337
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+Yr father yt loves you J. Poulett <P_143> SMYTH,143.027.338
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+I commend my service to my Lady your mother and to Sir F. Gorges
+SMYTH,143.027.339
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+and tell him that though I know him to be an olde souldier and an
+expert , yet if he weare heare he would see new discipline .
+SMYTH,143.027.340
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+York SMYTH,143.027.341
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+5th of Aprill SMYTH,143.027.342
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_027:E2:1639:AUTOGRAPH:FAMILY_OTHER
+To my good sonne Mr Thomas Smith At Ashton . SMYTH,143.027.343
+
+<Q_SMY_A_1639_FO_JPOULETT> <L_SMYTH_028> <A_JOHN_POULETT>
+<A-GENDER_MALE> <A-REL_FATHER-IN-LAW> <A-DOB_1586> <R_THOMAS_SMYTH>
+<R-GENDER_MALE> <R-REL_SON-IN-LAW> <R-DOB_1609>
+
+<P_143>
+
+{ED:313._LORD_POULETT_TO_THOMAS_SMYTH._YORK_11_APRIL_[1639].}
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+Sonne , I wrote to you the last weeke SMYTH,143.028.344
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+and sent my letter by the London poste which before thease I hope are
+come to your hands . SMYTH,143.028.345
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+In this toune nothinge is done but takinge counsel and giving out
+orders none of the body of the Army being lodged hear neather horse nor
+foote save those of the Nobilitye and the kinges servants .
+SMYTH,143.028.346
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+At Selbye seven miles hence the horse and foote have their quarters as
+soon as they come up which is but slowlye there being not yet above
+five or six troopes driven togeather and some few foote which as faste
+as they come in are sent away to Newcastele whither $'t $is {TEXT:t'is}
+sayd our next remove will be and shortlye . SMYTH,143.028.347
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+Before the kinge come heather , the Earle of Essex and Sir Jacob
+Asteley weare sent to put men into Barwyck which was done
+SMYTH,143.028.348
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+and the Earle returned heather the last weeke , SMYTH,143.028.349
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+but then uppon farther consideration the town being found to be ill
+fortified and not able to make any great defence agaynst an Army and
+the kinge having some advertisement that the Scotts will not suffer it
+to be fortified , the Earle of Essex was presentlye sent away agayne to
+Barwicke SMYTH,143.028.350
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+and the kinge declared that he would take it well if gentlemen of worth
+would put themselves into Barwyck , whereunto your two brothers were
+assigned which I was not otherwise sorry for but that they went from
+mee in a tyme when I was very sick with the dregges of my Ague and the
+Goute of which I thanked God I am now reasonable well recovered and
+uppon my legges agayn , and hope to he able to follow them shortlye .
+SMYTH,143.028.351
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+The Earle of Lindsey is appoyneted to come into Barwick Easter Eave
+with men more by sea yf the wind will give him leave SMYTH,143.028.352
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+and then they will presentlye fall to work uppon the fortification ,
+the effects whereof you shall hear of shortly . SMYTH,143.028.353
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+The Scotts fired ther beacon uppon the cominge in of our men to Barwick
+SMYTH,143.028.354
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+and this week doe muster SMYTH,143.028.355
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+and have fortified Edinborough , Delketh Castell {ED:WORD_ILLEGIBLE}
+where they took Arms sent in ayde of the <P_144> Marquis Huntley and
+Dunbarre which is within ten miles of Barwick so that wee beginne to
+draw neere . SMYTH,144.028.356
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+There are few volontiers of qualitye in the Army which makes those that
+are heare the better esteemed SMYTH,144.028.357
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+and the most of them are gone to Barwick and not many lords the most
+having ransomed themselves . SMYTH,144.028.358
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+I was 4 or 5 dayes after I came to York very well SMYTH,144.028.359
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+but then the stirringe of my body I found had shaken abrode the Ague
+humors which for 4 or 5 dayes made me very sick SMYTH,144.028.360
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+but having the good happ to be lodged in a doctor 's house with a
+little of his helpe I am abrode agayne . SMYTH,144.028.361
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+There are few Scotts of the kinges servants about the Court ,
+SMYTH,144.028.362
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+many come daily to us out of Scotland but noe persons of qualitye ,
+SMYTH,144.028.363
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+the Duke of Lenox is heare , SMYTH,144.028.364
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+the Marquis Hamilton is not come with the kinge nor my Ld. Chamberlain
+SMYTH,144.028.365
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+but are looked for . SMYTH,144.028.366
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+I heare of Franc: Hawlyes misfortune who after he had had the good happ
+to be named for a Lieutenant Colonell to Mr Jeremy Brett had the ill
+luck to have the regiment broken , all ye captayns displaced and the
+command given to Sir Simon Harcourt and this for some words which Mr
+Brett spak to the Ld. Marshall . SMYTH,144.028.367
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+Whilst I am writinge I am tolde that all the counsell of Scotland and
+the Justeeces are come to the Court their countrymen not permittinge
+them <paren> as they say </paren> to remayne there unless they will
+sign the Covenant . SMYTH,144.028.368
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+To tell what will be the end of this worke belongs to Astrologie .
+SMYTH,144.028.369
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+In the meane wee pray for peace which God Almightie grant may be
+SMYTH,144.028.370
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+and to his protection I committ you and yours . SMYTH,144.028.371
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+Yours affectionate father J. Poulett SMYTH,144.028.372
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+Yeork SMYTH,144.028.373
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_028:E2:1639:AUTOGRAPH:FAMILY_OTHER
+11th of Aprill SMYTH,144.028.374
+
+<Q_SMY_A_1639_FO_JPOULETT> <L_SMYTH_029> <A_JOHN_POULETT>
+<A-GENDER_MALE> <A-REL_FATHER-IN-LAW> <A-DOB_1586> <R_THOMAS_SMYTH>
+<R-GENDER_MALE> <R-REL_SON-IN-LAW> <R-DOB_1609>
+
+<P_144>
+
+{ED:314._POULETT_TO_THOMAS_SMYTH_AT_ASHTON._YORK_19_APRIL_[1639].} _@
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+Sonne In this place every day bringes forth new and various reports of
+Scotland which serve to entertain us with discourse and to make
+conjectures uppon . SMYTH,144.029.375
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+The Scotts are so farre from submitting or disemblinge that they make
+themselves as strong as they can and every day drawe from the kinges
+party to the Covenant , newes being now come that the Marquis Huntley
+who hath hetherto declared himself for the kinge hath now signed the
+Covenant SMYTH,144.029.376
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+by that means those that were of opinion that the kinges drawinge near
+Scotland with an Army would disunite those people and drawe a party to
+the kinge find themselves deceaved . SMYTH,144.029.377
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+$'T $is {TEXT:T'is} true some Scotts come heather pretending they
+forfeit their cuntry for the king 's service SMYTH,144.029.378
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+but neather the number nor qualitye is considerable . SMYTH,144.029.379
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+The king sawe seven of his horse troops yesterday at Selbye , which is
+a toune ten miles hence SMYTH,144.029.380
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+and now all the quarters of horse and foote have orders <P_145> to
+break upp and to march to Newcastle SMYTH,145.029.381
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+and the Court is sayd will remove theather ye 28th of Aprill .
+SMYTH,145.029.382
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+What the private counsells or intentions are is not be dived into
+SMYTH,145.029.383
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+and to conjecture uppon appearances he must be a better Almanack than I
+will profess my selfe to be that can determine what will be this somers
+work . SMYTH,145.029.384
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+The Armyes draw now together as fast as may be SMYTH,145.029.385
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+and will be quartered as neere to Scotland as ther be places agreeable
+to receave it and then as chances . SMYTH,145.029.386
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+The Squier Heale is come to Yeork and ambitious of a captayns place
+amongst the Court troops which my Ld. Chamberlain thinks he hartilye
+meritts by the expense he hath put himself unto <paren> his brigade
+making a great part of a troop </paren> and by being a mighty man so
+that he hath promised him a troop of horse . SMYTH,145.029.387
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+I find Jack Winter in the towne who looks but poorly yet keeps in good
+companye with a buff cote and a feather . SMYTH,145.029.388
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+Sir Ralph Hopton is not yet come to Yeork who is to command a troop of
+horse of the Court Brigade . SMYTH,145.029.389
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+If you saw our men with their feathers and buff cotes and bigg lookes
+you would say the Scotts are like to have but a bad bargeyn in meddling
+with us . SMYTH,145.029.390
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+For my part that am not yet come to my buff cote and feather I pray for
+peace and that the shocke of our arms may not be tried confessinge more
+confidence and benefitt in that than I can expecte by the force of
+swordes for the good of all our interests . SMYTH,145.029.391
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+Heare at Yeork wee have lived easily lazily and fullye
+SMYTH,145.029.392
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+now the Army draws into a {ED:WORD_ILLEGIBLE} wee must not look for the
+accomodations we have had . SMYTH,145.029.393
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+Your brothers are at Barwick SMYTH,145.029.394
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+but will be commanded back to Newcastle being named to some other
+employment , SMYTH,145.029.395
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+this kind of life is able to mak a man lik a solitary one the worse a
+long time after and to think himselfe asleep when he is awak ,
+SMYTH,145.029.396
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+for here is nothing but noise of drums and gunns and trumpets and
+horses and the streets full of Cavaliers SMYTH,145.029.397
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+and yet are there the fewest volontiers that ever I saw in any army .
+SMYTH,145.029.398
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+Yt $can $not {TEXT:cannot} be long before something will happen to
+furnish the kingdom with newes . SMYTH,145.029.399
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+In the meane time I pray God keep you and all yours and preserve us
+heare that wee may have the happiness to meet agayne .
+SMYTH,145.029.400
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+So I remayn Your affectionate father J. Poulett SMYTH,145.029.401
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+Yeork SMYTH,145.029.402
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+19th of April SMYTH,145.029.403
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+Pray let Florence receave my blessings in this postscript .
+SMYTH,145.029.404
+
+AUTHOR:JOHN_POULETT:MALE:FATHER_IN_LAW:1586:53
+RECIPIENT:THOMAS_SMYTH:MALE:SON_IN_LAW:1609:30
+LETTER:SMYTH_029:E2:1639:AUTOGRAPH:FAMILY_OTHER
+To my good sonne Mr Thomas Smith At Ashton SMYTH,145.029.405
+
+<Q_SMY_A_1640_TC_BTHROCKMORTON> <L_SMYTH_030> <A_BAYNHAM_THROCKMORTON>
+<A-GENDER_MALE> <A-REL_FRIEND> <A-DOB_---> <R_THOMAS_SMYTH>
+<R-GENDER_MALE> <R-REL_FRIEND> <R-DOB_1609>
+
+<P_151>
+
+{ED:327._THROCKMORTON_TO_THOMAS_SMYTH._LONDON_11_FEBRUARY_1640. }
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+Honest Tom , I confesse I have bin lazy and idle SMYTH,151.030.406
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+and have not bin soe civill with thee as I ought , SMYTH,151.030.407
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+and I have nothinge to say for my selfe but to aske thy pardon and to
+promise amendment for the time to come . SMYTH,151.030.408
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+And now to entertaine thee with the occurrents here , I shall informe
+thee that the warrant for sendinge out the parliament writts is come
+forth , but not the writts as yet . SMYTH,151.030.409
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+Here is diversity of opinnions in this particular ; SMYTH,151.030.410
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+some say they will come forth speedily , SMYTH,151.030.411
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+others beleeve not till the beginninge of the forty daies
+SMYTH,151.030.412
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+<paren> and that is most probable </paren> , SMYTH,151.030.413
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+others talke that the parliament will be deferred till Michelmas
+<paren> though I beleeve without ground </paren> SMYTH,151.030.414
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+for I am not of that opinion ; SMYTH,151.030.415
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+much bussle we heare of in all countries about elections ,
+SMYTH,151.030.416
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+and it is thought <paren> and not improbably </paren> that the house
+will spend a greate deale of time at the first sittinge to heare and
+determine the disputes of elections . SMYTH,151.030.417
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+One of the Scottish Commissioners <paren> as we call them </paren> is
+here alredy , the other three expected certainly tomorrow night ;
+SMYTH,151.030.418
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+and they will appeare in the condition of humble petitioners <paren> as
+it becomes them </paren> . SMYTH,151.030.419
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+Here are those in the towne that will take upon them <P_152> alredy to
+knowe the effect of their petition and request , SMYTH,152.030.420
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+but it is beeleeved they will strictly stand upon those things agreed
+upon in their last Assembly and assented unto then by his Majesty 's
+Commissioners there , to have them ratified ; SMYTH,152.030.421
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+and they say they will have noe byshops , SMYTH,152.030.422
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+and hope his Majesty will make good his royall word and promise to them
+given at Barwick . SMYTH,152.030.423
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+And it is certaine they have made greate provisions of ammunition of
+all kinds , SMYTH,152.030.424
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+and are much better accomodated for warre than they were the last
+summer ; SMYTH,152.030.425
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+our Counsell of warre here sitts almost every day , beinge the Lord
+Admirall who is generall of the field , and the Lord Conwey Lieftenant
+generall for the horse , and Sir Henry Vane who is now principall
+Secretary of State in Cooke 's place and holds his Tresurers place in
+the Court , and the Lord Newport , and Coronell Goringe who is to be
+Coronell generall of the Army <paren> a new title </paren> , and Sir
+Jacob Ashley who is to hold the place he had , and Sir Nicholas Bicon
+who is to be a Coronell and to commaund Carlile . SMYTH,152.030.426
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+And much amunition is lately and every day sent downe by sea from hence
+to Hull where the Magazen lies , and daily course taken for provision
+of victuall for the Army ; soe that we all apprehend and thinke we
+shall have a boute this summer with the Scotts . SMYTH,152.030.427
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+The Prince Elector remains still a prisoner in Fraunce ,
+SMYTH,152.030.428
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+and refuseth all conditions of imploiment which the French Kinge offers
+him , till he may be at liberty and a free man , SMYTH,152.030.429
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+and it is beleeved that the French Kinge would gladly give him his
+freedome if he did knowe what colour or pretence or excuse to make for
+his Keepinge him prisoner all this time . SMYTH,152.030.430
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+And they say that all the Ambassadors of Christendome that are in
+Fraunce doe complaine very much at the French court in the Prince
+Electors behalfe , as a thinge done contrary to the law of Nations to
+deteine a free Prince in such a manner . SMYTH,152.030.431
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+And it beleeved and reported that the French Kinge doth keepe him in
+durance the longer hopinge to {COM:IN_EDITION_bo} bringe our Kinge to
+conditions of entringe into a firm leauge with the French and the
+States against the Emperour and Kinge of Spaine , SMYTH,152.030.432
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+so they say that the French offer to mainteine twice as many as our
+Kinge shall and to make the Prince Elector generall of them all and soe
+to send him into Germany stronge to regaine his owne countrey .
+SMYTH,152.030.433
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+But they say that our Kinge will hearken to noe treaty or conditions
+till his nephew be first sett at liberty . SMYTH,152.030.434
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+And they say that a greate part of Fraunce is ready to rise up against
+the Kinge by reason of the excessive impositions that are laied upon
+them . SMYTH,152.030.435
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+Baneere hath lately given the Imperialists some defeate as I have bin
+advertized lately out of the Low Countries ; SMYTH,152.030.436
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+and we daily expect the arrivall of a greate don from Spaine .
+SMYTH,152.030.437
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+In the meane time I must tell you doctor Lam of the Arches is made the
+Queenes Chauncelor and was carried yesterday from Somerset house in the
+Queenes owne coach in great state to Westminster accompanied very nobly
+, SMYTH,152.030.438
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+and they say Mr Harry Jermin shall be made a Vicount ;
+SMYTH,152.030.439
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+it is a mad world Tom . SMYTH,152.030.440
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+And now Sir , let me come neerer home and tell you that Sir James Thin
+hath the honour and happiness to be a servant to my Princes my Lady
+Isabella Rich , SMYTH,152.030.441
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+and the match is absolutely concluded ; SMYTH,152.030.442
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+and he hath behaved himselfe like a Cavalier and a man of honour in his
+offers ; SMYTH,152.030.443
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+for he freely of himselfe offered a yeere jointure in present ,
+SMYTH,152.030.444
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+and it will be a yeere more shortly ; SMYTH,152.030.445
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+and he gives her a yeere for her maintenance , SMYTH,152.030.446
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+will buy a house in the towne and another in the countrey <P_153> neere
+the towne SMYTH,153.030.447
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+and will furnish them both nobly and give them to her in jointure ,
+SMYTH,153.030.448
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+and he told my Lord and Lady Holland {TEXT:that} what portion they
+should very well content him , which is , SMYTH,153.030.449
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+and I beleeve we shall shake our heeles ere longe . SMYTH,153.030.450
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+And now I thinke I have made your worship amends for my silence all
+this while , SMYTH,153.030.451
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+and by that time thou hast made an end of readinge this thou wilt I
+beleeve be as weary as I am with writinge it , SMYTH,153.030.452
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+and therefore noe more at this time , but my humble service to Mastris
+to whom I wish a happy good houre , SMYTH,153.030.453
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+and soe farewell Honest Tom , they affectionate freinde and Cousin to
+serve thee B. T. SMYTH,153.030.454
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+London SMYTH,153.030.455
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_030:E3:1640:AUTOGRAPH:FRIEND
+Febr. 11th . SMYTH,153.030.456
+
+<Q_SMY_A_1640_TC_BTHROCKMORTON> <L_SMYTH_031> <A_BAYNHAM_THROCKMORTON>
+<A-GENDER_MALE> <A-REL_FRIEND> <A-DOB_---> <R_THOMAS_SMYTH>
+<R-GENDER_MALE> <R-REL_FRIEND> <R-DOB_1609>
+
+<P_153>
+
+{ED:329._THROCKMORTON_TO_THOMAS_SMYTH._LONDON_22_FEBRUARY_1640. }
+
+{COM:INCOMPLETE}
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_031:E3:1640:AUTOGRAPH:FRIEND
+The Scottish Commissioners <paren> or rather petitioners </paren> have
+bin here some few daies , SMYTH,153.031.457
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_031:E3:1640:AUTOGRAPH:FRIEND
+and upon Thursday last they spake with his Majesty SMYTH,153.031.458
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_031:E3:1640:AUTOGRAPH:FRIEND
+and made a representation of their business to his Majesty ,
+SMYTH,153.031.459
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_031:E3:1640:AUTOGRAPH:FRIEND
+but his Majesty told them that he would let them knowe his roiall will
+and resolution by my Lord Trequare <paren> who is alsoe here </paren>
+SMYTH,153.031.460
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_031:E3:1640:AUTOGRAPH:FRIEND
+and they told his Majesty that they were commaunded by the Parliament
+in Scotland <paren> from whence they have their Commission of
+negotiation here </paren> not to treate with any other body but his
+Majesty himselfe , SMYTH,153.031.461
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_031:E3:1640:AUTOGRAPH:FRIEND
+and therefore they humbly desired that they might receave his Majesty
+'s answere and resolution from himselfe , SMYTH,153.031.462
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_031:E3:1640:AUTOGRAPH:FRIEND
+but <P_154> the Kinge told them that they must follow his way and not
+he theires , SMYTH,154.031.463
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_031:E3:1640:AUTOGRAPH:FRIEND
+and soe went from them . SMYTH,154.031.464
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_031:E3:1640:AUTOGRAPH:FRIEND
+And it is beleeved undoubtedly that unless his Majesty shall please to
+treate with them himselfe and to satisfie them in this particular ,
+they will not stay nor proceede any farther , SMYTH,154.031.465
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_031:E3:1640:AUTOGRAPH:FRIEND
+and then there is nothing to be expected but goinge to Cuffs .
+SMYTH,154.031.466
+
+<Q_SMY_A_1640_TC_BTHROCKMORTON> <L_SMYTH_032> <A_BAYNHAM_THROCKMORTON>
+<A-GENDER_MALE> <A-REL_FRIEND> <A-DOB_---> <R_THOMAS_SMYTH>
+<R-GENDER_MALE> <R-REL_FRIEND> <R-DOB_1609>
+
+<P_162>
+
+{ED:350._THROCKMORTON_TO_THOMAS_SMYTH._LONDON_21_NOVEMBER_1640. }
+
+{COM:INCOMPLETE}
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+Charles Berkley told me yesterday that his uncle doth prosecute the
+petition he hath putt in against the election in your county , soe that
+I beleeve it will come to a new election , SMYTH,162.032.467
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+and then Thomas you must not be too modest againe but endeavour to doe
+your selfe right and satisfie your countrey . SMYTH,162.032.468
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+Since my last I sent you by John Edwards , my Lord Lieutenant hath
+petitioned the upper house for his inlargement expressinge therein his
+greate sense of unhappines by being deprived of the liberty to sitt as
+a member of that house ; SMYTH,162.032.469
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+my Lord Goringe spake modestly <paren> yet affectionatly </paren> to
+the petition in my Lord Lieutenant 's behalfe , SMYTH,162.032.470
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+but was soe strongly opposed and with such reason that his Lordshipp
+was putt to silence , SMYTH,162.032.471
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+and my Lord Lieutenant remains still committed . SMYTH,162.032.472
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+The parliament in Ireland sitts now SMYTH,162.032.473
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+and have committed Ratcliffe , SMYTH,162.032.474
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+but he is sent for hither by Commaund from both houses here and with
+his Majesty 's consent , to be examined in his Lord 's busines .
+SMYTH,162.032.475
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+My Lord Lieutenant 's deputy there would have dissolved the parliament
+SMYTH,162.032.476
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+but they would not obey him SMYTH,162.032.477
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+but doe sitt notwithstandinge ; SMYTH,162.032.478
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+and they have sent over a remonstrance of greevances <paren>
+consistinge of many heads and very foule matter </paren> by way of
+petition to my Lord Lieutenant desiringe redresse in them from him ,
+SMYTH,162.032.479
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+but they have withall presented it to the house of Commons here <paren>
+despairinge I presume of reliefe by his Lordship </paren>
+SMYTH,162.032.480
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+and they trench upon his Lordship . SMYTH,162.032.481
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+Yesterday the house of Commons sent Mr Pim with divers others of the
+house , up to the Lords to crave some things , beinge these :
+SMYTH,162.032.482
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+they declared that they had in that house made an order that such
+members of that house as shall be produced as witnesses in my Lord
+Lieutenant 's cause shall be examined upon oath , SMYTH,162.032.483
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+and they doe desire that those of the upper house as shall be required
+to be witnesses in the same cause may likewise be examined upon oath ;
+SMYTH,162.032.484
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+they desire alsoe that the examinations to be taken against my Lord
+Lieutenant may be kept private till fitt time to publish them , that
+soe justice may not be prevented ; SMYTH,162.032.485
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+and lastly they desire that some of their house may be admitted to be
+present at all the examinations against my Lord Lieutenant at the
+Committee of the upper house appointed for that business , that soe ,
+they may administer <paren> as occasion shall be offered </paren> such
+interogatories and questions as may be for the better discovery of the
+truth . SMYTH,162.032.486
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+To this the Lords have as yet returned them noe resolution <paren>
+being still in debate of the busines </paren> SMYTH,162.032.487
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+but I find that which sticks most with them is the examination of the
+Lords upon oath , beinge that which is conceaved to be an infringement
+of their privilidges , they havinge used in all cases to give their
+testimony upon their honours and not upon oathe , SMYTH,162.032.488
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+but I beleeve they will returne their answere and resolution therein
+this day to the house of Commons . SMYTH,162.032.489
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+Divers are of opinion that my Lord <P_163> Lieutenant will not be
+concerned in his life ; SMYTH,163.032.490
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+but those of the Select Committee in the Lower house that have the
+managinge of that business doe not at all doubt to produce and prove
+abundant matter to make good the accusation of high treason against him
+. SMYTH,163.032.491
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+My Lord Byshop of Lincolne is restored to the upper house and all his
+endowments , SMYTH,163.032.492
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+and is a frequent speaker there , SMYTH,163.032.493
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+but his vote runs in all things point blank against his brethrens' ,
+who doe chatter very little this parliament , being overawed by the
+greater bird of prey , and afraid I beleeve to have their white
+feathers pulled out of their wings if they should flutter too much .
+SMYTH,163.032.494
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+The Lower house have now Sir Harry Spiller and Mr Kilvert in chase
+SMYTH,163.032.495
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+and will I beleeve lash them lustily ; SMYTH,163.032.496
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+and Mr Secretary Windebank stinkes , SMYTH,163.032.497
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+for shrewde matters are come in against him , concerninge warrants
+given by him to protect papists from the penalty of the Lawes made
+against them , SMYTH,163.032.498
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+and other fowle matters are laid to his charge ; SMYTH,163.032.499
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+and Mr Porter will I thinke very shortly be turned out of the Lower
+house as a projector and papist ; SMYTH,163.032.500
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+and I hope to give little Crumpe Dutton a lift about the busines of
+Coate and Conduct money , wherein he hath plaied notable pranks .
+SMYTH,163.032.501
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+The hundred thousand pounds given by the house , is not yet resolved
+which way it shall passe in the house , SMYTH,163.032.502
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+but will I beleeve be speedily determined , because the Scottish Army
+begin to be in necessity , the northerne counties beinge not able to
+raise and pay the contribution any longer , nor have paid the full at
+all . SMYTH,163.032.503
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+The Scottish Commissioners here arrived , have desired that both they
+and our commissioners may be confirmed in their Commission of treaty by
+the approbation of both house of parliament , which is assented to ;
+but with this limitation from the house of Commons {ED:that}_C they
+will not be concluded by anythinge the Commissioners shall doe with
+their free consent first given to it in parliament . SMYTH,163.032.504
+
+AUTHOR:BAYNHAM_THROCKMORTON:MALE:FRIEND:_:_
+RECIPIENT:THOMAS_SMYTH:MALE:FRIEND:1609:31
+LETTER:SMYTH_032:E3:1640:AUTOGRAPH:FRIEND
+This is all that hath passed that is material since my last letter .
+SMYTH,163.032.505
+
+{ED:...}
+
+<Q_SMY_A_1641_FO_TSMYTH> <L_SMYTH_033> <A_THOMAS_SMYTH> <A-GENDER_MALE>
+<A-REL_COUSIN> <A-DOB_1609> <R_EDWARD_PHELIPS> <R-GENDER_MALE>
+<R-REL_COUSIN> <R-DOB_--->
+
+<P_176>
+
+{ED:380._SMYTH_TO_EDWARD_PHELIPS_AT_MONTACUTE._ASHTON,_4_[?]_OCT
+OBER_1641.}
+
+AUTHOR:THOMAS_SMYTH:MALE:COUSIN:1609:32
+RECIPIENT:EDWARD_PHELIPS:MALE:COUSIN:_:_
+LETTER:SMYTH_033:E3:1641:AUTOGRAPH:FAMILY_OTHER
+{ED:ADDRESSED} To my much valewed Kinseman Edward Philipps Esq give
+these at Montague . SMYTH,176.033.506
+
+AUTHOR:THOMAS_SMYTH:MALE:COUSIN:1609:32
+RECIPIENT:EDWARD_PHELIPS:MALE:COUSIN:_:_
+LETTER:SMYTH_033:E3:1641:AUTOGRAPH:FAMILY_OTHER
+In his absence to his Lady . SMYTH,176.033.507
+
+AUTHOR:THOMAS_SMYTH:MALE:COUSIN:1609:32
+RECIPIENT:EDWARD_PHELIPS:MALE:COUSIN:_:_
+LETTER:SMYTH_033:E3:1641:AUTOGRAPH:FAMILY_OTHER
+Sir . I hope the newes that my wyfe was this night delivered of our
+sixt daughter will settle my deare cousens mynde in that wee shall now
+suddenly dispatch away her midwyfe : who hopes to bee with her the end
+or very begineinge of next weeke . SMYTH,176.033.508
+
+AUTHOR:THOMAS_SMYTH:MALE:COUSIN:1609:32
+RECIPIENT:EDWARD_PHELIPS:MALE:COUSIN:_:_
+LETTER:SMYTH_033:E3:1641:AUTOGRAPH:FAMILY_OTHER
+If my yssue had beene masculine , I would have beene revenged on your
+for the journy I tooke this tyme twelve monthe , to see your sonne
+Thomas receive the superstitious signe of the Crosse .
+SMYTH,176.033.509
+
+AUTHOR:THOMAS_SMYTH:MALE:COUSIN:1609:32
+RECIPIENT:EDWARD_PHELIPS:MALE:COUSIN:_:_
+LETTER:SMYTH_033:E3:1641:AUTOGRAPH:FAMILY_OTHER
+But now $I $'ll {TEXT:Ile} forbeare you untill I have once more tried
+my skill for another boy . SMYTH,176.033.510
+
+AUTHOR:THOMAS_SMYTH:MALE:COUSIN:1609:32
+RECIPIENT:EDWARD_PHELIPS:MALE:COUSIN:_:_
+LETTER:SMYTH_033:E3:1641:AUTOGRAPH:FAMILY_OTHER
+I hope wee shall shortly meete at London . SMYTH,176.033.511
+
+AUTHOR:THOMAS_SMYTH:MALE:COUSIN:1609:32
+RECIPIENT:EDWARD_PHELIPS:MALE:COUSIN:_:_
+LETTER:SMYTH_033:E3:1641:AUTOGRAPH:FAMILY_OTHER
+In the meane tyme God send my Gossipp an easy partinge with her fruite
+when $'t $is {TEXT:tis} ripe . SMYTH,176.033.512
+
+AUTHOR:THOMAS_SMYTH:MALE:COUSIN:1609:32
+RECIPIENT:EDWARD_PHELIPS:MALE:COUSIN:_:_
+LETTER:SMYTH_033:E3:1641:AUTOGRAPH:FAMILY_OTHER
+So I rest {ED:SIGNATURE_TORN_AWAY_POSTSCRIPT_ILLEGIBLE}
+SMYTH,176.033.513

@@ -1,0 +1,66 @@
+<B_ROYAL2>
+
+<S_SAMPLE_1>
+
+<Q_RO2_A_1612?_FN_BELIZABETH> <L_ROYAL2_001> <A_ELIZABETH_STUART>
+<A-GENDER_FEMALE> <A-REL_DAUGHTER> <A-DOB_1596> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_FATHER> <R-DOB_1566>
+
+{COM:TO_KING_JAMES_I,_NO_DATE,_ABOUT_1612}
+
+AUTHOR:ELIZABETH_STUART:FEMALE:DAUGHTER:1596:16?
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:46?
+LETTER:ROYAL2_001:E2:1612?:AUTOGRAPH:FAMILY_NUCLEAR
+Most gratious soueraygn and dear father , this gentleman M=r.=
+Haringtons returne to the court gaue mee a well pleasing oportunity to
+present y=or= Ma=ty= w=t= this paper the messenger of my most humble
+duty to your highnes thinking it I confesse infinnitelye long since I
+was so happie as to enioy your presence w=ch= though I dare not presume
+to desire I know nothing I woulld so gladly obtayne . ROYAL2,.001.1
+
+AUTHOR:ELIZABETH_STUART:FEMALE:DAUGHTER:1596:16?
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:46?
+LETTER:ROYAL2_001:E2:1612?:AUTOGRAPH:FAMILY_NUCLEAR
+And so humbly craving y=or= Ma=ties= blessing I will euer continue Your
+Ma=ties= most obedient daughter Elizabeth . ROYAL2,.001.2
+
+AUTHOR:ELIZABETH_STUART:FEMALE:DAUGHTER:1596:16?
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:46?
+LETTER:ROYAL2_001:E2:1612?:AUTOGRAPH:FAMILY_NUCLEAR
+To the kynges most excellent Maiesty . ROYAL2,.001.3
+
+<Q_RO2_A_1614?_FN_BELIZABETH> <L_ROYAL2_002> <A_ELIZABETH_STUART>
+<A-GENDER_FEMALE> <A-REL_DAUGHTER> <A-DOB_1596> <R_JAMES_STUART_I/VI>
+<R-GENDER_MALE> <R-REL_FATHER> <R-DOB_1566>
+
+{COM:TO_KING_JAMES_I,_OCTOBER_20TH_1614?}
+
+AUTHOR:ELIZABETH_STUART:FEMALE:DAUGHTER:1596:18?
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:48?
+LETTER:ROYAL2_002:E2:1614?:AUTOGRAPH:FAMILY_NUCLEAR
+Sr , Being desirous by all the meanes {by} I can to keepe my self still
+in your M. remembrance , I would not lett pass so good an occation as
+this bearer returning for England to present my most humble dutie and
+seruice to your M. by these beseeching your M. to continue me still in
+your gratious fauour it being the greatest comfort I haue to think that
+your M. doth vouchsaf to loue and fauour me , which I shall ever strive
+to deserue , in obeying with all humbleness whatsoever your M. is
+pleased to command her , who shall euer pray to God with all her harte
+for your M happiness and that she may be euer worthy the title Sr of
+your M , Most humble & obedient daughter and seruant Elizabeth .
+ROYAL2,.002.4
+
+AUTHOR:ELIZABETH_STUART:FEMALE:DAUGHTER:1596:18?
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:48?
+LETTER:ROYAL2_002:E2:1614?:AUTOGRAPH:FAMILY_NUCLEAR
+Heidleberg ROYAL2,.002.5
+
+AUTHOR:ELIZABETH_STUART:FEMALE:DAUGHTER:1596:18?
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:48?
+LETTER:ROYAL2_002:E2:1614?:AUTOGRAPH:FAMILY_NUCLEAR
+this October . ROYAL2,.002.6
+
+AUTHOR:ELIZABETH_STUART:FEMALE:DAUGHTER:1596:18?
+RECIPIENT:JAMES_STUART_I/VI:MALE:FATHER:1566:48?
+LETTER:ROYAL2_002:E2:1614?:AUTOGRAPH:FAMILY_NUCLEAR
+Au Roy . ROYAL2,.002.7

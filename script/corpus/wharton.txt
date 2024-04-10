@@ -1,0 +1,3239 @@
+<B_WHARTON>
+
+<Q_WHA_A_1642_T_NWHARTON> <L_WHARTON_001> <A_NEHEMIAH_WHARTON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_GEORGE_WILLINGHAM>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_4>
+
+{ED:I.}
+
+{COM:NEHEMIAH_WHARTON_TO_GEORGE_WILLINGHAM}
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+Alisbury , WHARTON,4.001.1
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+August the 16th , 1642 . WHARTON,4.001.2
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+Worthy Sir , On Monday , August the 8th , we marched to Acton ;
+WHARTON,4.001.3
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+but beinge the Sixth Company , we were belated , WHARTON,4.001.4
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+and many of our soldiers were constrained to lodge in beds whose
+feathers were above a yarde longe . WHARTON,4.001.5
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+Tuesday , early in the morninge , several of our soldiers inhabitinge
+the out parts of the towne sallied out unto the house of one Penruddock
+, a papist , WHARTON,4.001.6
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+and being basely affronted by him <P_5> and his dogge , entred his
+house , WHARTON,5.001.7
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+and pillaged him to the purpose . WHARTON,5.001.8
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+This day , also , the souldiers got into the church , WHARTON,5.001.9
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+defaced the auntient and sacred glased picturs , WHARTON,5.001.10
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+and burned the holy railes . WHARTON,5.001.11
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+Wensday: WHARTON,5.001.12
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+Mr. Love gave us a famous sermon this day ; WHARTON,5.001.13
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+also , the souldiers brought the holy railes from Chissick ,
+WHARTON,5.001.14
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+and burned them <P_6> in our towne . WHARTON,6.001.15
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+At Chissick they also intended to pillage the Lord of Portland 's house
+, and also Dr. Duck 's , WHARTON,6.001.16
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+but by our commanders they were prevented . WHARTON,6.001.17
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+This day our soldiers generally manifested their dislike of our
+Lieftenant Colonell , who is a Godamme blade , and doubtlesse hatche in
+hell , WHARTON,6.001.18
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+and we all desire that ether the Parliament would depose him , or God
+convert him , or the Devill fetch him away quick . WHARTON,6.001.19
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+This day , towards even , our regiment marched to Uxbridge ,
+WHARTON,6.001.20
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+but I was left behinde , to bring up thirty men with ammunition the
+next morning . WHARTON,6.001.21
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+Thursday I marched toward Uxbridge ; WHARTON,6.001.22
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+and at Hillingdon , one mile from Uxbridge , the railes beinge gone ,
+we got the surplesse , to make us handecherchers , WHARTON,6.001.23
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+and one of our soildiers ware it to Uxbridge . WHARTON,6.001.24
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+This day the railes of Uxbridge , formerly removed , was , with the
+service boock , burned . WHARTON,6.001.25
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+This even Mr. Hardinge gave us a worthy sermon . WHARTON,6.001.26
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+Friday , I , with three other commaunders , were sent with one hundred
+musquetteres to bringe the amunition to Amersam in Buckinhamshire ,
+which is the sweetest country that ever I saw , WHARTON,6.001.27
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+and as is countrey so also is the people , WHARTON,6.001.28
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+but wantinge roome for the regiment comminge after us we were
+constrained to marche four miles further unto Greate Missenden , where
+we had noble entertainment from the whole towne , but especially from
+S=r= Brian Ireson and the minister of the towne . WHARTON,6.001.29
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+Satturday morninge , our companies overtoke us WHARTON,6.001.30
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+and we marched together unto Alsbury , WHARTON,6.001.31
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+and after we had marched a longe mile , for so they are all in this
+countrey , wee came to Wendever , where wee refreshed ourselves , burnt
+the railes , and , accidentally , one of Captaine Francis his men ,
+forgettinge he was charged with a bullet , shot a <P_7> maide through
+the head , and she immediately died . WHARTON,7.001.32
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+From hence wee marched very sadlye two miles , where Colonel Hamden ,
+accompanied with many gentlemen well horsed , met us , and with great
+joy saluted and welcomed us , and conducted us unto Alsbury , where we
+have a regiment of foote , and severall troopes of horse to ioyne with
+us . WHARTON,7.001.33
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+In this towne our welcome is such that wee want nothinge but a good
+Leiftenant Colonell . WHARTON,7.001.34
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+Sabath day , August the 15 , in this towne a pulpit was built in the
+market-place , where wee heard two worthy sermons . WHARTON,7.001.35
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+This eveninge our ungodly Lieftenant Colonel , upon an ungrounded
+whimsey , commaunded two of our captaines , namely , Captaine Francis
+and Captaine Beacon , with their companies , to march out of the towne
+, WHARTON,7.001.36
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+but they went not . WHARTON,7.001.37
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+Every day our soildiers by stealth doe visit papists' houses , and
+constraine from them both meate and money . WHARTON,7.001.38
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+They give them whole greate loves and chesses which they triumphantly
+carry away upon the points of their swords . WHARTON,7.001.39
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+I humbly intreate you , as you desire the successe of our just and
+honorable cause , that you would indeavor to roote out our Leiftenant
+Colonell ; WHARTON,7.001.40
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+for , if we march further under his commaund , we feare , upon
+suffitient grounds , wee are all but dead men . WHARTON,7.001.41
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+Monday , August the 16th , Colonel Hamden marched out of Alisbury ,
+with four hundred musqueters and about an hundred horse , towards
+Wattleton , in Oxfordshire , where the Commission of Aray was this day
+to be setled ; WHARTON,7.001.42
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+but they , hearinge of the aproch of our troopes , fled ,
+WHARTON,7.001.43
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+and our horse persued them so close that S=r= John Cursam was taken ,
+and the Lord of Bartie was constrained to take hynte hom , sometime the
+Lord of Carnarvan 's , where our companies have at this present beset
+him . WHARTON,7.001.44
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+And thus much for the present . WHARTON,7.001.45
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+Touchinge Leiftenant Colonell Biddeman formentioned , I once more
+humbly beseech you - and not I alone , but many others , both
+commaunders , officers , and common souldiers - that you would endeavor
+to rout him . WHARTON,7.001.46
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+There are severall other circumstances which I want time to expresse ,
+WHARTON,7.001.47
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+for the office assigned mee is very troublesome , WHARTON,7.001.48
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+and continually takes up my whole time ; WHARTON,7.001.49
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+and , therefore , for the present let these satisfie . WHARTON,7.001.50
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+To conclude , I presentt you and mistris with my humble service ,
+WHARTON,7.001.51
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+and doe give you humble and hartie thankes for all your former and late
+favors ; WHARTON,7.001.52
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+and do intreate you to remember my humble service to Mr. Molloyne and
+wife ; WHARTON,7.001.53
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+my service also to Elizabeth , Anne , John , and Sammuell , which I
+often think upon ; WHARTON,7.001.54
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+and also my love to all my fellow servants . WHARTON,7.001.55
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_001:E3:1642:AUTOGRAPH:OTHER
+In extreme hast , I rest , Your poore , auntient , humble , and
+affectionate servant to commaund , Nehemiah Wharton . WHARTON,7.001.56
+
+<Q_WHA_A_1642_T_NWHARTON> <L_WHARTON_002> <A_NEHEMIAH_WHARTON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_GEORGE_WILLINGHAM>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_8>
+
+{ED:II.}
+
+{COM:NEHEMIAH_WHARTON_TO_GEORGE_WILLINGHAM}
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+Coventry , WHARTON,8.002.57
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+Aug. 26 , 1642 . WHARTON,8.002.58
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+Worthy Sir , August the 17 , our companies , after they had taken sixe
+delinquents and sent them to London , returned to Alesbury this day ;
+WHARTON,8.002.59
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+we retained two feild pieces and two troopes of horse , with other
+necessaries for warre . WHARTON,8.002.60
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+Wensday morning a Warwickshire minister , which the Calualleres had
+pillaged to the skin , gave us a sermon . WHARTON,8.002.61
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+After noone our regiment marched into the feild WHARTON,8.002.62
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and skirmished . WHARTON,8.002.63
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+Thursday morning another sermon was given us . WHARTON,8.002.64
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+After noone our regiment marched into the feild , WHARTON,8.002.65
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+but by reason of foule weather were immediately definished .
+WHARTON,8.002.66
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+This night our regiment was commaunded to march the next morninge by
+four of the clock under our Leiftenant Colonell , WHARTON,8.002.67
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+but our sargeants refused to surrender their halberts , and the
+souldiers their armes , and not to march . WHARTON,8.002.68
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+Friday , very early in the morninge , our Leiftenant Colonell was
+cashiered , for which I give you hearty thankes , and Sergeant-Major
+Quarles imployed in his roome , wherat both commaunders , officers ,
+and souldiers exceedingly rejoysed . WHARTON,8.002.69
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+This morninge wee cherfully marched towards Buckingham in the rear of
+Colonell Chomley 's regiment , by reason whereof we could get no
+quarter there , WHARTON,8.002.70
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+but were constrained to quarter ourselves about the countrey , wherupon
+I and three gentlemen of my company visited that thrice noble gentleman
+S=r= Richard Inglisby , where his owne table was our quarter , and
+Serjeant-Major Burrif , and his sonne Captaine Inglisby , and several
+other noble gentlemen were our comrades . WHARTON,8.002.71
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+Saturday , early in the morning , I departed hence WHARTON,8.002.72
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and gathered a compliete file of my owne men about the countrey ,
+WHARTON,8.002.73
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and marched to Sir Alexander Denton 's parke , who is a malignant
+fellow , WHARTON,8.002.74
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and killed a fat buck , WHARTON,8.002.75
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+fastened his head upon my halbert , WHARTON,8.002.76
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and commaunded two of my pickes to bring the body after me to
+Buckingham , with a guard of musquetteers comminge theither .
+WHARTON,8.002.77
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+With part of it I feasted my captaine , Captaine Parker , Captaine
+Beacon , and Colonell Hamden 's sonne , and with the rest severall
+leiftenants , enseignes , and serjeants , WHARTON,8.002.78
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and had much thankes for my paines . WHARTON,8.002.79
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+This day Sergeant Major our Generall came unto us , WHARTON,8.002.80
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and declared the commaund given him over our regiments .
+WHARTON,8.002.81
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+Sunday morninge wee marched from Buckingham into Northamptonshire , a
+longe and tedious jorney , wantinge both bread and water ,
+WHARTON,8.002.82
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and about ten at night came unto Byfeild in dispight of our enemies ,
+at which towne we could get no quarter , neither meate , drinke , nor
+lodginge , WHARTON,8.002.83
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and had we not bin suplyed with ten cart loade of provision and beare
+from Banbury , many of us had perished . WHARTON,8.002.84
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+This night our company was commanded to guard the towne all night ,
+whiche after a longe and <P_9> tedious marche , unto me was very
+grevious . WHARTON,9.002.85
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+Monday morninge wee marched into Warwick-shere with aboute three
+thousand foote and four hundred horse , until we came to Southam .
+WHARTON,9.002.86
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+In the way we tooke two Calvalleres spies . WHARTON,9.002.87
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+This is a very malignant towne , both minister and people .
+WHARTON,9.002.88
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+We pillaged the minister , WHARTON,9.002.89
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and tooke from him a drum and severall armes . WHARTON,9.002.90
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+This night our soildiers , wearied out , quartered themselves about the
+towne for foode and lodginge , WHARTON,9.002.91
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+but before we could eate or drinke an alarum cryed " arme ,
+WHARTON,9.002.92
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+arme , WHARTON,9.002.93
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+for the enemy is commenge , " WHARTON,9.002.94
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and in halfe an hower all our soildiers , though dispersed , were
+cannybals in armes , ready to encounter the enemy , cryinge out for a
+dish of Calvellaers to supper . WHARTON,9.002.95
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+Our horse were quartered about the countrey , WHARTON,9.002.96
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+but the enemy came not , whereupon our soildiers cryed out to have a
+breakefast of Cauallers . WHARTON,9.002.97
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+We barecaded the towne , WHARTON,9.002.98
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and at every passage placed our ordinance WHARTON,9.002.99
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and watched it all night , our soildiers contented to lye upon hard
+stones . WHARTON,9.002.100
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+In the morninge early our enemise , consistinge of about eight hundred
+horse and three hundred foote , with ordinance , led by the Earle of
+Northampton , the Lord of Carnarvan , and the Lord Compton and Capt=n=
+Legge , and other , intended to set upon us before wee could gather our
+companies together , WHARTON,9.002.101
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+but beinge ready all night , early in the morninge wee went to meete
+them with a few troopes of horse and sixe feild peeces ,
+WHARTON,9.002.102
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and beinge on fier to be at them wee marched thorow the corne
+WHARTON,9.002.103
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and got the hill of them , wherupon they played upon us with their
+ordinances , WHARTON,9.002.104
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+but they came short . WHARTON,9.002.105
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+Our gunner tooke their owne bullet , WHARTON,9.002.106
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+sent it to them againe , WHARTON,9.002.107
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and killed a horse and a man . WHARTON,9.002.108
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+After we gave them eight shot more , whereupon all their foote
+companies fled and offered ther armes in the townes adjacent for twelve
+pence a peece . WHARTON,9.002.109
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+Ther troopes , whelinge about , toke up their dead bodies
+WHARTON,9.002.110
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and fled ; WHARTON,9.002.111
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+but the horse they left behind , some of them having ther guts beaten
+out on both sides . WHARTON,9.002.112
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+The number of men slaine , as themselves report , was fifty besides
+horse . WHARTON,9.002.113
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+One drumner , beinge dead at the bottome of the hill , our knapsack
+boyes rifled to the shirt , which was very lowzy . WHARTON,9.002.114
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+Another drummer wee found two miles of , with his arme shot of ,
+WHARTON,9.002.115
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and lay a dieinge . WHARTON,9.002.116
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+Severall dead corps wee found in corne feilds , and amongst them a
+trumpeter , whose trumpet our horsemen sounded into Coventry .
+WHARTON,9.002.117
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+Wee tooke severall prisoners , and amongst them Capt. Legge and
+Captaine Clarke . WHARTON,9.002.118
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+From thence wee marched valiantly after them toward Coventry ,
+WHARTON,9.002.119
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and at Dunsmore Heath they threatned to give us battaile ,
+WHARTON,9.002.120
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+but we got the hill of them , WHARTON,9.002.121
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+ordered our men , WHARTON,9.002.122
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and cryed for a messe of Calualleres to supper , as wee had to
+breakefast ; WHARTON,9.002.123
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+but they all fled , WHARTON,9.002.124
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and we immediately marched into Coventry , where the countrey met us in
+armes and wellcommed us , and gave us good quarter both-2 for horse and
+foote . WHARTON,9.002.125
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+In this battell I met with your horseman Davey , WHARTON,9.002.126
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and he and I present you and my Mistris with <P_10> our most humble
+sarvice , desiringe you to pray for us , WHARTON,10.002.127
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and doubt not but both of {ED:us}_NP will valiantly fight the Lord 's
+battaile . WHARTON,10.002.128
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+Thus , with my service to Mrs. Elizabeth , Anne , John , and Samuell ,
+and my love to all my fellow servants , I rest , Yours , in all good
+services , Nehemiah Wharton . WHARTON,10.002.129
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+I pray present the humble servises of Gregory Kent and myselfe unto Mr.
+Molloyne , with my best respects to Mr. Henry Hickman ,
+WHARTON,10.002.130
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and inform him that I have received his booke , and shall acknowledge
+my selfe engaged for the same . WHARTON,10.002.131
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+I would have written unto him and others , my kindred and frends ,
+WHARTON,10.002.132
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+but I want time , WHARTON,10.002.133
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+and therefore must humbly intreate you to inform them thereof .
+WHARTON,10.002.134
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_002:E3:1642:AUTOGRAPH:OTHER
+I earnestly desire to heare from you whether you received a letter
+dated August 17th , or no . WHARTON,10.002.135
+
+<Q_WHA_A_1642_T_NWHARTON> <L_WHARTON_003> <A_NEHEMIAH_WHARTON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_GEORGE_WILLINGHAM>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_10>
+
+{ED:III.}
+
+{COM:NEHEMIAH_WHARTON_TO_GEORGE_WILLINGHAM}
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+Coventry , WHARTON,10.003.136
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+August the , 1642 . WHARTON,10.003.137
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+Noble Sir , As time permits , I desire to acquaint you with the
+passages of my pilgrimage . WHARTON,10.003.138
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+My last unto you was from Coventry , August the 26th , which place is
+still our quarter ; a City invironed with a wall co-equal , if not
+exceedinge , that of London for breadth and height ; WHARTON,10.003.139
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+the compass of it is neare three miles , all of free stone .
+WHARTON,10.003.140
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+It hath four strong gates , stronge battlements stored with towers ,
+bulwarks , courts of guard , and other necessaries . WHARTON,10.003.141
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+This city hath magnificent churches and stately streets ;
+WHARTON,10.003.142
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+within it ther are also several sweete and pleasant springes of water
+built of free stone , very large , sufficient to supply many thousand
+men . WHARTON,10.003.143
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+The City gates are guarded day and night with four hundred armed men ,
+WHARTON,10.003.144
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+and no man entreth in or out but opon examination . WHARTON,10.003.145
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+It is also very sweetly situate . WHARTON,10.003.146
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+Thursday , August the 26th , our soildiers pillaged a malignant
+fellowes house in this City , WHARTON,10.003.147
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+and the Lord Brooke immediately proclaimed that whosoever should for
+the future offend in that kind should have martiall law .
+WHARTON,10.003.148
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+This day command was given that all soildiers should attend their
+colors every morne by sixe of the clock to march into the feilde to
+practise , which is done accordingly . WHARTON,10.003.149
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+Fryday several of our soildiers , both horse and foote , sallyed out of
+the City unto the Lord Dunsmore 's parke , WHARTON,10.003.150
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+and brought from thence great store of venison , which is as good as
+ever I tasted , WHARTON,10.003.151
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+and ever since they make it their dayly practise , so that venison is
+almost as common with us as beefe with you . WHARTON,10.003.152
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+This day our horse-men sallyed out , as their dayly custom is ,
+WHARTON,10.003.153
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+and brought in with them two Cavaleeres , and with them an <P_11> old
+base priest , the parson of Sowe , near us , WHARTON,11.003.154
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+and led him ridiculously about the City unto the chiefe commaunders .
+WHARTON,11.003.155
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+This day I againe met with Davy , your horseman , WHARTON,11.003.156
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+and both are in good case , horse and man . WHARTON,11.003.157
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+Saturday I met with your auntient maide servant Lydea , with her father
+and her brethren , who all wept for joy when they saw mee an officer in
+this deseigne , WHARTON,11.003.158
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+for the day wee marched into Coventry the rebels had command to pillage
+Anstey , the habitation of her father , and Bromagam , the place of her
+and her husband 's dwellinge ; both which are but three miles from
+Coventry . WHARTON,11.003.159
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+She hath been maried three yeares , WHARTON,11.003.160
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+and presents her service unto you and my mistris , and your children .
+WHARTON,11.003.161
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+Her father invited mee and twenty of the cheife of my company to dinner
+at Anstey , WHARTON,11.003.162
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+but time would not suffer us to accept it . WHARTON,11.003.163
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+This day a whore , which had followed our campe from London , was taken
+by the soildeirs , and first led about the city , then set in the
+pillory , after in the cage , then duckt in a river , and at the last
+banisht the City . WHARTON,11.003.164
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+Sunday morne the Lord of Essex his chaplaine , M=r= Kemme , the cooper
+'s sonne , preached unto us , WHARTON,11.003.165
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+and this was the first sermon we heard since we came from Alisbury ;
+WHARTON,11.003.166
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+but before he had ended his first prayer newes was brought into the
+church unto our commanders that Noneaton , some sixe miles from us ,
+was fired by the enemy , WHARTON,11.003.167
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+and forthwith our Generall and several captaines issued forth ,
+WHARTON,11.003.168
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+but I and many others stayed untill sermon was ended , after which wee
+were commanded to march forth with all speed , namely , my captaine
+with Captain Beacon and Captain Francis of our regiment , and of other
+regiments , in all to the number of one thousand foote and one troope
+of horse ; WHARTON,11.003.169
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+but before we came at them they ran all away , not having done much
+harm ; whereupon we returned to Coventry again with a command to be
+ready in arms by five in the morning next upon pain of death .
+WHARTON,11.003.170
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+Our men are very courageous , WHARTON,11.003.171
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+and that they may so continue we desire , according to promise , a
+supply of faithfull able ministers , which we exceedingly want .
+WHARTON,11.003.172
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+This morning we are marching forth to pursue the rebels ,
+WHARTON,11.003.173
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+and that we may obtaine victory we againe desire your earnest and
+constant prayers . WHARTON,11.003.174
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+Thus , with my humble service to your selfe and my mistris , and also
+unto all your children , and also my love to all my fellow servants ,
+whether with you or from you , for the present , in extreme hast , I
+rest but not to remaine till death , Your humble , lovinge , and
+thankfull servant , Nehemiah Wharton . WHARTON,11.003.175
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+I humbly intreate you favorably to accept these rude lines ,
+WHARTON,11.003.176
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+for I want time either-1 to write or compose them in a more comely
+forme . WHARTON,11.003.177
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_003:E3:1642:AUTOGRAPH:OTHER
+I earnestly desire to heare of the occurrantes of London .
+WHARTON,11.003.178
+
+<Q_WHA_A_1642_T_NWHARTON> <L_WHARTON_004> <A_NEHEMIAH_WHARTON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_GEORGE_WILLINGHAM>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_12>
+
+{ED:IV.}
+
+{COM:NEHEMIAH_WHARTON_TO_GEORGE_WILLINGHAM}
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+Northampton , WHARTON,12.004.179
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+September the 3 , 1642 . WHARTON,12.004.180
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+Noble Sir , Monday , August the 29 , before we had marched two miles
+towards the Cavalleeres , we were informed by the post that sixty of
+them were taken and imprisoned in Northampton , and the rest fled ,
+whereupon we returned unto Coventry ; WHARTON,12.004.181
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+and our company were immediately commanded to guard part of the city ,
+and a gate called Newgate . WHARTON,12.004.182
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+About midnight our souldiers on the wall discovered fier in the City ,
+neare St. Mary Hall , our magazine , which accidentally began at a
+baker 's house , and in three or four hours was quenched , and no great
+harm done , WHARTON,12.004.183
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+but the citizens were much affrighted . WHARTON,12.004.184
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+Tuesday morning we officers weet our halberts with a barrell of strong
+beere , called ould Hum , which we gave our soldiers .
+WHARTON,12.004.185
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+This day Mr. Jephcot feasted me and several of my company in Coventry .
+WHARTON,12.004.186
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+This even our soildiers brought a cart loade of armes from Sir Robert
+Fisher 's , some six miles from Coventry , with his owne picture
+standing very stately in the cart . WHARTON,12.004.187
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+Wensday wee kept the Fast WHARTON,12.004.188
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+and heard two sermons , WHARTON,12.004.189
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+but before the third was ended we had an alarm to march presently .
+WHARTON,12.004.190
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+By ten of the clock we gat our regiments together , WHARTON,12.004.191
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+and kept our randevow in the City until midnight , WHARTON,12.004.192
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+and about two in the morning marched out of this City towards
+Northampton . WHARTON,12.004.193
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+This City hath four steeples , three churches , two parishes , and not
+long since but one preist : WHARTON,12.004.194
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+but now the world is well amended with them . WHARTON,12.004.195
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+This morne I was exceeding sick , WHARTON,12.004.196
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+and the pallet of my mouth fell down ; WHARTON,12.004.197
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+but Captain Beacon , my loving friend , upon our march sent a mile for
+a little pepper WHARTON,12.004.198
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+and put it up again . WHARTON,12.004.199
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+This day our souldiers brought with them three asses which they had
+taken out of the Lord Dunsmore 's park , which they loaded with their
+knapsacks , WHARTON,12.004.200
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+and dignified them with the name of the Lord Dunsmore .
+WHARTON,12.004.201
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+This day being Thursday we marched over Dunsmoore Heath , near twelve
+miles , without any sustenance , insomuch that many of our soildiers
+drank stinking water ; until we came to Barby , in Northamptonshire ,
+where the country , according to their ability , relieved as many of us
+as they could . WHARTON,12.004.202
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+Our soldiers pillaged the parson of this town , WHARTON,12.004.203
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+and brought him away prisoner , with his surplice and other relics .
+WHARTON,12.004.204
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+From hence we marched four miles further unto Longe Bugby , where we
+had very hard quarter , insomuch that many of our captaines could get
+no lodginge , and our soildiers were glad to despossesse the very swine
+, WHARTON,12.004.205
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+and as many as could quartered in the church ; WHARTON,12.004.206
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+but here , your man Davy , ridinge before our foote companies , gat mee
+both foode and lodginge . WHARTON,12.004.207
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+This towne hath , for two <P_13> Sundayes together , bin so abused by
+the rebels , that both men , women and children were glad to leave the
+towne and hide themselves in ditches and corn fields .
+WHARTON,13.004.208
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+Friday , early in the morning , a messenger came to our Colonell , that
+in the King 's house , called Homby , three miles distant , there were
+musketters to cut of all our stragling soldiers , whereby wee prevented
+them . WHARTON,13.004.209
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+This morninge our soildiers sallyed out about the cuntrey ,
+WHARTON,13.004.210
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+and returned in state clothed with a surplisse , hood , and cap ,
+representing the Bishop of Canterbury . WHARTON,13.004.211
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+From hence we marched three miles , wher Homby House stands very
+stately upon a hill , and the Lord of Northampton 's house and parke
+neare unto it ; WHARTON,13.004.212
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+but we could not restraine our soildiers from entringe his park and
+killinge his deer , WHARTON,13.004.213
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+and had not the Lord Gray and our Sargent Major Generall withstood them
+they had pillaged his house . WHARTON,13.004.214
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+This even we marched unto Northampton , where the townesmen hearinge of
+our coming marched out into the country to prevent the Commission of
+Array intended to be settled by the Lord Mountagu and others , which
+Mountagu they brought prisoner unto Northampton , and prevented his
+deseigne . WHARTON,13.004.215
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+This evening seven troopes of horse came unto us . WHARTON,13.004.216
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+This night the Lord of Northampton , by stealth , came into the towne ,
+WHARTON,13.004.217
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+viewed our horse forces , WHARTON,13.004.218
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+and in the morning discovered , WHARTON,13.004.219
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+but immediately escaped . WHARTON,13.004.220
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+Saturday morning the Lord Munioz and his son were taken ridinge through
+the towne . WHARTON,13.004.221
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+This eveninge all the serjeants of our regiment met together ,
+WHARTON,13.004.222
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+and out of twenty-three chose two for stewards for a supper , and other
+more weighty affaires , WHARTON,13.004.223
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+and chose me for one of them , which place is exceedinge troublesome
+unto me . WHARTON,13.004.224
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+This day came S Arthur Hasleriges , and other troopes , into our towne
+. WHARTON,13.004.225
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+This day our souldiers brought in much venison , and other pillage ,
+from the malignants about the country . WHARTON,13.004.226
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+This evening we feasted all our sargeants , with some other superior
+officers , which is very troublesome and chargeable and I $can $not
+{TEXT:cannot} avoide . WHARTON,13.004.227
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+This night I invited your man Davy and his comrade , WHARTON,13.004.228
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+and made them welcome . WHARTON,13.004.229
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+Thus with my humble service to you , my mistris , and your children ,
+and my love to all my fellow-servants , in extreme hast I rest Your
+servant till death , N. W. WHARTON,13.004.230
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_004:E3:1642:AUTOGRAPH:OTHER
+I pray let me heare from you by this bearer . WHARTON,13.004.231
+
+<Q_WHA_A_1642_T_NWHARTON> <L_WHARTON_005> <A_NEHEMIAH_WHARTON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_GEORGE_WILLINGHAM>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_14>
+
+{ED:V.}
+
+{COM:NEHEMIAH_WHARTON_TO_GEORGE_WILLINGHAM}
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+Northampton , WHARTON,14.005.232
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+September the 7th , 1642 . WHARTON,14.005.233
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+Worthy Sir , I present you and my Mrs. with my humble service ,
+wishinge you and all yours the constant fruition of all hapinesse .
+WHARTON,14.005.234
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+This is my fifth letter unto you , WHARTON,14.005.235
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+but I question whether ever you received one of them , because you
+never yet honoured mee with a peece of paper . WHARTON,14.005.236
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+I have , therefore , once more sent unto you by this bearer ,
+Lieutenant Wade , who hath promised to deliver these with his owne
+hands . WHARTON,14.005.237
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+Our place of rendevoues is still at Northampton , which , for situation
+, circuit , and statelynese of buildinge , exceeds Coventry ;
+WHARTON,14.005.238
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+but the walls are miserably ruined , though the country abounds in
+mines of stone . WHARTON,14.005.239
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+From hence I have nothinge remarkable to present you with ,
+WHARTON,14.005.240
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+neither will time permit me to acquaint you with circumstances .
+WHARTON,14.005.241
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+This morninge our regiment being drawne into the fielde to exercise ,
+many of them discovered their base ends in undertaking this designe ,
+WHARTON,14.005.242
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+and demaunded five shillings a man , which , they say , was promised
+them monthly by the Committee , WHARTON,14.005.243
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+or they would surrender their armes . Whereupon Colonell Hamden , and
+other commaunders , laboured to appease them , but could not : so that
+if they have not the forenamed supply , we feare a very great faction
+amongst us . WHARTON,14.005.244
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+There is also great desention betweene our troopers and foot companies
+, WHARTON,14.005.245
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+for the footmen are much abused and sometimes pillaged and wounded .
+WHARTON,14.005.246
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+I myselfe have lately experimentally found it , WHARTON,14.005.247
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+for they tooke from me about the worth of three pounds ;
+WHARTON,14.005.248
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+but I am not discouraged by any of these , WHARTON,14.005.249
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+but by God 's assistance will undauntedlye proceede ,
+WHARTON,14.005.250
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+for God is able to reconcile all our diferences . WHARTON,14.005.251
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+Sir , I humbly entreate you to send me small feather , white and one
+tip of black , by one Gregory Kent , knowne unto Mr. Molloyne , and
+livinge neare him ; WHARTON,14.005.252
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+he will be with mee on Saturday , at night . WHARTON,14.005.253
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+I shall be very joyfull at the last to heare of the welfare of you all
+. WHARTON,14.005.254
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+Thus committynge you into the custody of the most Heigh , for the
+present I rest Your humble servant till death , Nehemiah Wharton .
+WHARTON,14.005.255
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_005:E3:1642:AUTOGRAPH:OTHER
+The bearer stayed the writing thereof , which is the cause of my
+rustick scriblinge and inditinge . WHARTON,14.005.256
+
+<Q_WHA_A_1642_T_NWHARTON> <L_WHARTON_006> <A_NEHEMIAH_WHARTON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_GEORGE_WILLINGHAM>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_15>
+
+{ED:VI.}
+
+{COM:NEHEMIAH_WHARTON_TO_GEORGE_WILLINGHAM}
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+Northampton , WHARTON,15.006.257
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+Sept. the 13th , 1642 . WHARTON,15.006.258
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+Thrice worthy Sir , Accordinge to custome I present you with our
+particular circumstances . WHARTON,15.006.259
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+My last unto you of this nature was Sept. the 2nd , being Saturday .
+WHARTON,15.006.260
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+Sabath day , Sept. the 3d , wee peaceably injoyed . WHARTON,15.006.261
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+Munday morning I was informed by a countryman of a base priest , six
+miles distant , which had set out horse for the Commission of Aray and
+had arms in his house , WHARTON,15.006.262
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+and I immediately got twenty musketteers WHARTON,15.006.263
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+and marched out to search the house . WHARTON,15.006.264
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+The countryman I clothed with a soildier 's red coate ,
+WHARTON,15.006.265
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+gave him arms , WHARTON,15.006.266
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+and made him my guide : WHARTON,15.006.267
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+but having marched two miles , certain gentlemen of the country
+informed mee that Justice Edmonds , a man of good conversation , but
+since I hear of the Aray , was plundered by the base blew coats of
+Colonell Cholmley 's regiment , and bereaved of his very beeds ,
+whereupon I immediately devided my men into three squadrons ,
+surrounded them , and forced them to bring their pillage upon their own
+backs unto the house againe : for which service I was welcomed with the
+best varieties in the house , and had given me a scarlet coate lined
+with plush , and several excellent bookes in folio of my own chusinge ;
+WHARTON,15.006.268
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+but returning , a troope of horse belonging unto Colonel Foynes met me
+, WHARTON,15.006.269
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+pillaged me of all , WHARTON,15.006.270
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+and robbed mee of my very sword , for which cause I told them I would
+other have my sword or dye in the field , commaunded my men to charge
+with bullet , and by devisions to fier upon them , which made them with
+shame return me my sword , WHARTON,15.006.271
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+and it being towards night I returned to Northampton , threatninge
+revenge upon the base troopers . WHARTON,15.006.272
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+This night and the day following our company by lot watched the south
+gate , where I searched every horseman of that troop to the skin , took
+from them a fat buck , a venison pasty ready baked , but lost my own
+goods . WHARTON,15.006.273
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+Wensday morning we had tidings that Prince Robert , that diabolical
+Cavaleere , had surrounded Lester and demaunded two thousand pounds ,
+or else threatned to plunder the towne : whereupon our soldiers were
+even madde to be at them , but wanted commission . WHARTON,15.006.274
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+All the venison belonging to malignants in the country are destroyed .
+WHARTON,15.006.275
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+Thursday our soildiers marched in to the feilde to exercise ,
+WHARTON,15.006.276
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+and there declared their basenes , specified in a former letter
+composed in part , and intended to be sent by Leiftenant Wade ,
+WHARTON,15.006.277
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+but he could not stay the wrighting of it . WHARTON,15.006.278
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+This day most of the Ministers nominated in your letter came unto me .
+WHARTON,15.006.279
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+Friday morning worthy Mr. Obadiah Sedgewick gave us a worthy sermon ,
+WHARTON,15.006.280
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+and my company in particular marched to hear him in <P_16> rank and
+file . WHARTON,16.006.281
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+Mr. John Sedgwick was appointed to preach in the afternoone ;
+WHARTON,16.006.282
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+but we had newes that Prince Robert had plundered Harbrough and fired
+some adjacent townes , WHARTON,16.006.283
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+and our regiment were immediately drawn into the field ,
+WHARTON,16.006.284
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+but being informed of ther flying away we returned . WHARTON,16.006.285
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+Saturday morning Mr. John Sedgwick gave us a famous sermon .
+WHARTON,16.006.286
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+After noone our regiments marched forth to meet his Excellency , who
+was in great state welcomed into the town , WHARTON,16.006.287
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+and the watch word this night was " Welcome . " WHARTON,16.006.288
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+This night and the day following our company watched the north gate .
+WHARTON,16.006.289
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+Sabbath day morning Mr. Marshall , that worthy champion of Christ ,
+preached unto us . WHARTON,16.006.290
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+After noone Mr. Ash , by relation , WHARTON,16.006.291
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+but as yet I have not seen him . WHARTON,16.006.292
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+These with their sermons have already subdued and satisfied more
+malignante spirits amongst us than a thousand armed men could have done
+, so that we have great hope of a blessed union . WHARTON,16.006.293
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+Monday morning I received your letter , dated Septr. the 8th , with my
+mistresses scarfe and Mr. Molloyne 's hatband , both which came very
+seasonably , WHARTON,16.006.294
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+for I had gathered a little money together , WHARTON,16.006.295
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+and had this day made me a soildier 's sute for winter , edged with
+gold and silver lace . WHARTON,16.006.296
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+These gifts I am unworthy of . WHARTON,16.006.297
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+I have nothing to tender you for them but humble and harty thanks .
+WHARTON,16.006.298
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+I will wear them for your sakes , WHARTON,16.006.299
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+and I hope I shall never staine them but in the blood of a Cavaleere .
+WHARTON,16.006.300
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+Your letter , being a pitthy , sollid , brief , and reall relation , I
+presented to my captain and all the captaines of our regiment together
+at dinner with Mr. Obadiah Sedgwick , who rejoysid at the newes and
+gave me much thankes . WHARTON,16.006.301
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+My captain greets you with his best respects . WHARTON,16.006.302
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+Tuesday ; WHARTON,16.006.303
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+this day his Excellency intends to view our forces . WHARTON,16.006.304
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+Wensday we expect the celebration of a fast . WHARTON,16.006.305
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+Thursday we expect to march with all our forces towards Lester ,
+WHARTON,16.006.306
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+and I doubt not but we shall scowre the Cavalleers . WHARTON,16.006.307
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+Your man Davy remembers his service unto you , WHARTON,16.006.308
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+and gives humble thanks for your kind remembrance of him .
+WHARTON,16.006.309
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+I have not any other thinge for the present to acquaint you with ;
+WHARTON,16.006.310
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+therefore , with my humble service to your selfe , my mistris , Mr.
+Molloyne , and his wife , and unto all yours and their children , and
+my love to the servants of both houses , I conclude , until death
+remaininge , Your humble , thankefull , and deeply ingaged servant at
+command , Nehemiah Wharton . WHARTON,16.006.311
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+Every Wensday you may find a post that serveth our army at the Saracen
+'s Head , in Carter Lane . WHARTON,16.006.312
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_006:E3:1642:AUTOGRAPH:OTHER
+His name is Thomas Weedon , who is with us once a week constantly .
+WHARTON,16.006.313
+
+<Q_WHA_A_1642_T_NWHARTON> <L_WHARTON_007> <A_NEHEMIAH_WHARTON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_GEORGE_WILLINGHAM>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_17>
+
+{ED:VII.}
+
+{COM:NEHEMIAH_WHARTON_TO_GEORGE_WILLINGHAM}
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Noble Sir , September the 13th was my last unto you ;
+WHARTON,17.007.314
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+this even wee had tidings that Killingworth Castle , in Warwickshire ,
+six miles from Coventry , was taken , with store of ammunition and
+money , and some prisoners , their number uncertain ;
+WHARTON,17.007.315
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+the rest fled , WHARTON,17.007.316
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and the country pursued them , WHARTON,17.007.317
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and wanted but the assistance of Coventry to destroy them all .
+WHARTON,17.007.318
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Wednesday , Sept. 14th , our forces , both foot and horse , marched
+into the field , WHARTON,17.007.319
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and the Lord General viewed us , both front , rear , and flank , when
+the drums beating and the trumpets sounding made a harmony delectable
+to our friends , but terrible to our enemies . WHARTON,17.007.320
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+This even , contrary to expectation , our regiment marched five miles
+north-east unto Stratton , where we , and as many as could , billited
+in the town ; WHARTON,17.007.321
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+the rest quartered thro' the country . WHARTON,17.007.322
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Thursday our regiment met again , when those famous lawes for our army
+were read and expounded . WHARTON,17.007.323
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+This day we received and accepted Serjt. Major Neale .
+WHARTON,17.007.324
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Friday our regiment were commanded to meet here again to be mustered ,
+where we exercised in the field the whole day , and the muster master
+came not , whereat we were all much displeased . WHARTON,17.007.325
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+This night our company by lot watched the town . WHARTON,17.007.326
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Saturday our regiment met again WHARTON,17.007.327
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and were mustered . WHARTON,17.007.328
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+This even Captain Francis , returning from London , informed me of the
+couragiousness and constancy of the City of London , and also of their
+constant supply of money and plate ; WHARTON,17.007.329
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and also told me that the whole city were now either real or
+constrained Roundheads . WHARTON,17.007.330
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Sabbath day wee peaceably injoyed with Mr. Obadiah Sedgwick , who gave
+us two heavenly sermons . WHARTON,17.007.331
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Munday morning our regiment began to march towards Warwickshire
+WHARTON,17.007.332
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and passed through Wes-Haddon , Creeke , and Hill Morton , where we had
+a supply of drink , which upon a march is very rare and extraordinary
+welcome , WHARTON,17.007.333
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and at the end of ten miles we came to Rugby , in Warwickshire , where
+we had good quarter . WHARTON,17.007.334
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+At this town Mr. Norton formerly preached . WHARTON,17.007.335
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+This town also was lately disarmed by the Cavaliers on the Sabbath day
+, the inhabitants being at church . WHARTON,17.007.336
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Tuesday morning our regiment marched two miles unto Dunsmore Heath ,
+where the Lord General and his regiment met us , as also the Lord of
+Stanford , Colonel Cholmley , and Colonel Hampden , with many troops of
+horse and eighteen field pieces , where we kept our rendesvouz until
+even , when we had tidings that all the malignants in Worcestershire ,
+with the Cavaliers , were got into Worcester and fortified themselves ,
+whereupon we marched six miles unto Baggington , within two miles of
+Coventry . WHARTON,17.007.337
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+This night the rest of our regiments quartered about the <P_18> country
+. WHARTON,18.007.338
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Wednesday morning we marched towards Warwick , leaving Killingworth
+Castle upon the right , WHARTON,18.007.339
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and after we had marched six miles our forces met again
+WHARTON,18.007.340
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and quartered before Warwick , until forty pieces of ordnance , with
+other carriages , passed by , in which time I viewed the antiquities on
+this side Warwick , as S=r= Guy 's Cave , his chapel , and his picture
+in it ; his stables all hewed out of the main rock , as also his garden
+and two springing wells whereat he drank , as is reported .
+WHARTON,18.007.341
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+From hence our regiment marched through Warwick in such haste that I
+could not view the town , but had only a sight of the castle , which is
+very strong , built upon a mighty rock , whereof there are store in
+this country . WHARTON,18.007.342
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+This night we marched two miles further unto Burford , where our
+quarter was as constantly since his Excellency 's coming .
+WHARTON,18.007.343
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+It is very poor , WHARTON,18.007.344
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+for many of our soldiers can get neither beds , bread , nor water ,
+which makes them grow very strong , WHARTON,18.007.345
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+for backbiters have been seen to march upon some of them six on breast
+and eight deep at their open order , WHARTON,18.007.346
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and I fear I shall be in the same condition e'er long ,
+WHARTON,18.007.347
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+for we can get no carriage for officers , so that my trunk is more
+slighted than any other , which is occasioned , as I conceive , partly
+by the false informations of Lieut.-Col. Briddeman and our late
+Serjeant Major General Ballard , profane wretches ; but chiefly for
+want of our Colonel , who should be one of the Council of War , at
+which Council we have none to plead for us or remove false aspersions
+cast upon us , in so much that I have heard some of our captains repent
+their coming forth , and all for want of a Colonel . WHARTON,18.007.348
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Thursday morning we marched in the front four miles towards Worcester ,
+where we met one riding post from Worcester , informing us that our
+troops and the cavaliers were there in fight ; WHARTON,18.007.349
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+but it was false , only to hast the captains from Warwick .
+WHARTON,18.007.350
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Upon this report our whole regiment ran shouting for two miles together
+, and crying " To Worcester , to Worcester , " WHARTON,18.007.351
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and desired to march all night : WHARTON,18.007.352
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+but after we had marched two miles further we were commanded to stand
+until our forces passed by , WHARTON,18.007.353
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and then marched two miles further unto Assincantlo , where we could
+get no quarter , neither bread nor drink , by reason of the Lord
+Compton 's late being there . WHARTON,18.007.354
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Friday we marched four miles on this side Worcester ,
+WHARTON,18.007.355
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+but our soldiers cried out for one hour together to go forward to set
+upon the enemy , WHARTON,18.007.356
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+but could get no commission . WHARTON,18.007.357
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+This day we had such foul weather that before I had marched one mile I
+was wet to the skin . WHARTON,18.007.358
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+This day our horse forces , namely , Sir William Belford , Col. Sands ,
+Col. Vines , Col. Clarke , Major Duglas , kept all the passages over
+Severne , WHARTON,18.007.359
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and by that means kept in the Cavaliers , who often assayed to fly ,
+but were repelled . WHARTON,18.007.360
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Those commanders sent to His Excellency for three field pieces ,
+WHARTON,18.007.361
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and offered with them to keep them in on that side untill we had
+surrounded them : WHARTON,18.007.362
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+but they were denied this day . WHARTON,18.007.363
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Towards even <P_19> Prince Robert entered the city at a bye passage
+with eighteen troops of horse , most of the city crying " Welcome ,
+welcome , " but principally the mayor , who desired to entertain him ;
+WHARTON,19.007.364
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+but he answered , " God damn him , WHARTON,19.007.365
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+he would not stay , WHARTON,19.007.366
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+but would go wash his hands in the blood of the Roundheads , "
+WHARTON,19.007.367
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and immediately set some to lye in ambush , WHARTON,19.007.368
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and with the rest sallied out upon our forces ; WHARTON,19.007.369
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and immediately Col. Sands came on bravely , even unto the breast of
+their chief commander , WHARTON,19.007.370
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and discharged . WHARTON,19.007.371
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+The rest undauntedly followed , WHARTON,19.007.372
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+but their forces immediately fled , WHARTON,19.007.373
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and ours followed them , WHARTON,19.007.374
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and by the ambushment were beset before and behind , so that the battle
+was very hot , and many fell on both sides . WHARTON,19.007.375
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Some of our chief commanders , as Col. Sands and Duglas , was wounded ,
+WHARTON,19.007.376
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and are since both dead . WHARTON,19.007.377
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+The chief amongst the Cavaliers were Prince Robert , who , I hear , was
+wounded , the Lord Craven , and the Lord of Northampton .
+WHARTON,19.007.378
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Our wounded men they brought into the city , WHARTON,19.007.379
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and stripped , stabbed , and slashed their dead bodies in a most
+barbarous manner , WHARTON,19.007.380
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and imbrued their hands in their blood . WHARTON,19.007.381
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+They also at their return met a young gentleman , a Parliament man , as
+I am informed -_- his name I $can $not {TEXT:cannot} learn -_-
+WHARTON,19.007.382
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and stabbed him on horseback with many wounds , WHARTON,19.007.383
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and trampled upon him , WHARTON,19.007.384
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and also most maliciously shot his horse . WHARTON,19.007.385
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+This even , our general 's troop of gentlemen , going to quarter
+themselves about the country , were betrayed and beset by the enemy ,
+WHARTON,19.007.386
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and , overmuch timorous , immediately fled so confusedly that some
+broke their horses' necks , others their own ; WHARTON,19.007.387
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+some were taken , others slain ; WHARTON,19.007.388
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and scarce half of them escaped ; which is such a blot upon them as
+nothing but some desperate exploit will wipe off . WHARTON,19.007.389
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Hearing this news , we immediately cried out to march unto them ,
+WHARTON,19.007.390
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and forthwith drew out a forlorn hope - some out of every company -
+WHARTON,19.007.391
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and sent them before , intending to march after them ;
+WHARTON,19.007.392
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+but about eleven of the clock , the enemies fled , WHARTON,19.007.393
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and our hope returned . WHARTON,19.007.394
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Here we abode all night , where we had small comfort ,
+WHARTON,19.007.395
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+for it rained hard . WHARTON,19.007.396
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Our food was fruit , for those who could get it ; our drink , water ;
+our beds , the earth ; our canopy , the clouds ; WHARTON,19.007.397
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+but we pulled up the hedges , pales , and gates , WHARTON,19.007.398
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and made good fires : his Excellency promising us that , if the country
+relieved us not the day following , he would fire their towns .
+WHARTON,19.007.399
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Thus we continued singing of psalms until the morning .
+WHARTON,19.007.400
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Saturday morning we marched into Worcester - our regiment in the rear
+of the waggons - the rain continuing the whole day , and the way so
+base that we went up to the ancles in thick clay ; WHARTON,19.007.401
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and , about four of the clock after noon , entred the city , where we
+found twenty-eight dead men , which we buried - some of them Cavaliers
+- WHARTON,19.007.402
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and these were all that we can find slain on our side .
+WHARTON,19.007.403
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+This even , by lot , our company watched one of the gates , and also
+the day following , until even . WHARTON,19.007.404
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+This even his Excellency 's guard entred the mayor 's house ,
+WHARTON,19.007.405
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and toke him prisoner , <P_20> who is now more guarded than regarded .
+WHARTON,20.007.406
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Sabbath day morning our soldiers entered a vault of the Colledge ,
+where his Excellency was to hear a sermon , WHARTON,20.007.407
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and found eleven barrels of gunpowder and a pot of bullets .
+WHARTON,20.007.408
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+This day Mr. Marshall Sedgewick , &c. preached about the city ,
+WHARTON,20.007.409
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+but I , being upon the court of guard , could not heare them .
+WHARTON,20.007.410
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+This even his Excellency proclaimed that no soldier should plunder
+either church or private house , upon pain of death .
+WHARTON,20.007.411
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+We shortly expect a pitched battle , which , if the Cavaliers will but
+stand , will be very hot ; WHARTON,20.007.412
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+for we are all much enraged against them for their barbarisms ,
+WHARTON,20.007.413
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and shall shew them little mercy . WHARTON,20.007.414
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+But I want time to enlarge myself . WHARTON,20.007.415
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+To conclude , I humbly entreat you to present my humble service to my
+Mrs. , as also Mr. Edgerton 's , our quartermaster , and mine to Mr.
+Molloyne and his wife ; WHARTON,20.007.416
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+my service also to my aunt , Mr. Priaux , Mr. Simpson and his wife ,
+Mr. Hawkins , Mr. Starkey ; WHARTON,20.007.417
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and I humbly intreate , let me hear from you of your welfare , my
+mistress , and your family . WHARTON,20.007.418
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Sir , it is extreme hast that makes me compose so confusedly ;
+WHARTON,20.007.419
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and , therefore , with my service to Mrs. Elizabeth , Anna , John , and
+little Samuel , and my love to all my fellow servants , I rest yours in
+all good services , until death , Nehemiah Wharton . WHARTON,20.007.420
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+My captain presents you with his best respects , WHARTON,20.007.421
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+and drinks to you every day we sit at table together .
+WHARTON,20.007.422
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+I have received your feather , for which I give you humble thanks .
+WHARTON,20.007.423
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Worcester , WHARTON,20.007.424
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_007:E3:1642:AUTOGRAPH:OTHER
+Sept. 26 , 1642 . WHARTON,20.007.425
+
+<Q_WHA_A_1642_T_NWHARTON> <L_WHARTON_008> <A_NEHEMIAH_WHARTON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_GEORGE_WILLINGHAM>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_20>
+
+{ED:VIII.}
+
+{COM:NEHEMIAH_WHARTON_TO_GEORGE_WILLINGHAM}
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+My much honored Mr. I humbly greete you . WHARTON,20.008.426
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+My last unto you was Sept. 26th , in which there were some errors ,
+occasioned partly by my over hastinesse in wrightinge ,
+WHARTON,20.008.427
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+for the bearer promised me to deliver it on Wensday , Sept. the 28th ,
+partly by the various relations dyspersed , but chiefly by reason I was
+upon the guard , and upon paine of death durst not stir from it to se
+or heare any occurrences ; WHARTON,20.008.428
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+but I had as good intelligence as the city then afforded ,
+WHARTON,20.008.429
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+for the trueth of thinges was not then knowne . WHARTON,20.008.430
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+The errors are these . WHARTON,20.008.431
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+First , I wrote that the Earle of Northampton and the Lord Craven were
+with the Prince , WHARTON,20.008.432
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+but they were not ; WHARTON,20.008.433
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+but upon sufficient information they were these , Prince Robert , Duke
+Mawrice , the Lord Digby , Commissary Wilmot , Sir Lewes Dives , Sir
+William <P_21> Russell , and Mr. Hastings . WHARTON,21.008.434
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+A second was , that most of the curoseers , his Excellencies trope ,
+were cut off , WHARTON,21.008.435
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+but they are since returned and but few lost , WHARTON,21.008.436
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+but doe still beare the aspersion of cowards . WHARTON,21.008.437
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+The third was , that Colonell Sands was dead ; WHARTON,21.008.438
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+but both he and Captain Sands , though both wounded , yet are still
+livinge . WHARTON,21.008.439
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+But , that I may not trouble you with common relations , which commonly
+are fictions , I have conferred with commaunders , the best
+intelligencers , WHARTON,21.008.440
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+and have also veiwed the place where the battaile was fought , but
+briefly . WHARTON,21.008.441
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+Worcestershire is a pleasaunt , fruitfull , and rich countrey ,
+aboundinge in corne , woods , pastures , hills , and valleyes ,
+WHARTON,21.008.442
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+every hedge and heigh way beset with fruits , but especially with
+peares , whereof they make that pleasant drinke called perry , w=ch=
+they sell for a penny a quart , though better then ever you tasted at
+London . WHARTON,21.008.443
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+Touchinge the city , it is more large than any I have seene since I
+left London , WHARTON,21.008.444
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+and like London it abounds in outward thinges of all kinds ,
+WHARTON,21.008.445
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+but for want of the Word the people perrish . WHARTON,21.008.446
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+It is pleasantly seated , exceedingly populous , and doubtles very rich
+. WHARTON,21.008.447
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+It is situate on the east bank of that famous river Severne .
+WHARTON,21.008.448
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+The wall in the forme of a triangle , WHARTON,21.008.449
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+the gates seaven , WHARTON,21.008.450
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+the bulwarkes five , but much decayed : WHARTON,21.008.451
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+no castle , WHARTON,21.008.452
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+only a mount of earth . WHARTON,21.008.453
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+In this citty there is a very stately cathedrall , called S=t=. Maries
+, in which there are many stately monuments ; WHARTON,21.008.454
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+but amongst the rest , in the middle of the quire , is the monument of
+Kinge John , all of white marble , with his picture thereon to the life
+. WHARTON,21.008.455
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+On the south side , Kinge Arthur 's tombe , of jette ,
+WHARTON,21.008.456
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+but no picture thereon . WHARTON,21.008.457
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+This citty hath also a stronge stone bridge over Severne , consistinge
+of sixe arches , with a gate in the middle of the bridge , as stronge
+as that on London Bridge , with a percullis . WHARTON,21.008.458
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+Five miles upon the left of this is Maluern Hills , which , for height
+and length and breadth , doe many degrees exceede all that ever I see .
+WHARTON,21.008.459
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+I nominate them because they are famous , WHARTON,21.008.460
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+for on the top of them there is a very brave chase for many miles
+together , a large ditch , and springs also , all on the very top .
+WHARTON,21.008.461
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+Betweene these hills and the river was the late skirmish , about one
+mile from the city , which was in this manner :- WHARTON,21.008.462
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+Our troopes on that side were devided to keepe the severall passages ,
+WHARTON,21.008.463
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+and Colonell Sands , Colonell Vines , and Sergeant-Major Duglas , with
+their troopes , were set to keep this passage , which was at the end of
+a narrow lane , which the treacherous inhabitants neare them discovered
+to the Prince , WHARTON,21.008.464
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+and he forthwith set some troopes to lye in ambush , who brake downe a
+hedge and lay in a feild on the right of them ; the treacherous
+citizens attending them in multitudes with muskets , who lay on each
+side the hedge . WHARTON,21.008.465
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+This done , the Prince with other forces went <P_22> to meete them ,
+WHARTON,22.008.466
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+but first sent a false alarum , informinge them that the Cavalleeres
+weere all fled and had left the citty , and also that his Excellency
+was come even to the gates , WHARTON,22.008.467
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+and immediately these three troopes poasted away to meet his Excellency
+, WHARTON,22.008.468
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+for Sir William Belfore , Colonell Clarke , and our other commaunders ,
+heard not of it , WHARTON,22.008.469
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+but hastinge downe a narrow lane the Prince met them .
+WHARTON,22.008.470
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+Colonell Sands beinge in the front , the Prince asked him whom he was
+for , WHARTON,22.008.471
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+he answered " For Kinge and Parliament . " WHARTON,22.008.472
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+He replyed , " Not for the Kinge alone ? " WHARTON,22.008.473
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+He answered , " No . " WHARTON,22.008.474
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+Then said the Prince , " For the King have at you . "
+WHARTON,22.008.475
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+The Colonell answered , " For the Parliament have at you . "
+WHARTON,22.008.476
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+And so they discharged each at other . WHARTON,22.008.477
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+The rest followed them , WHARTON,22.008.478
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+and presently those in ambush fired upon them , as also the musqetteers
+behind the hedges . WHARTON,22.008.479
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+The horsemen charged not the second time , WHARTON,22.008.480
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+but immediately fell to their swords , so that for the space of almost
+an hour the skirmishe was excedinge hot . WHARTON,22.008.481
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+This relation I had from an gentleman that was in the front of the
+battel , and was wounded with the sword and bullets in seaven severall
+places , was stripped naked , and yet liveth . WHARTON,22.008.482
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+He affermeth that , though there were ten for one , yet there were more
+slaine and wounded of them then of us ; WHARTON,22.008.483
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+and I spake with one that heard the Prince , at his returne , say ,
+that our men fought more like lions then men . WHARTON,22.008.484
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+Our wounded commaunders he brought into the city , WHARTON,22.008.485
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+and gave commaund that they should be carefully looked unto ,
+WHARTON,22.008.486
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+and with all speed gathered his forces together WHARTON,22.008.487
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+and fled , leavinge all their reconinge to pay ; in some places twenty
+pounde , in others ten , in some more , some lesse , pretendinge and
+also promising to returne . WHARTON,22.008.488
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+Since their departure we heare that the Prince is wounded ,
+WHARTON,22.008.489
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+but it is certaine Duke Maurice is mortally wounded .
+WHARTON,22.008.490
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+They report unto the Kinge that they have slaine eight hundred of our
+men , when there were but twenty-eight slaine in all , and some of them
+were Cavalleeres ; WHARTON,22.008.491
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+of this I am certaine , WHARTON,22.008.492
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+for I told all their gunnes , WHARTON,22.008.493
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+and searched the register of St. Jones parrish , where they were all
+buried . WHARTON,22.008.494
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+They boast wonderfully and sweare most hellishly , that the next time
+they meete us they will make but a mouthfull of us ; WHARTON,22.008.495
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+but I am persuaded the Lord hath given them this small victory , that
+they may , in the day of battell , come on more presumptuously to thir
+owne destruction , in which battell , though I and many thousand more
+may be cut off , yet I am confident the Lord of Hoasts will in the end
+triumph gloriously over these horses and all their cursed riders .
+WHARTON,22.008.496
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+They left , at their flight , in the city , some horses , truncks , and
+other thinges , all which his Excellency hath seized on .
+WHARTON,22.008.497
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+Colonell Essex is made governor of this citty , WHARTON,22.008.498
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+and his regiment shall be garisons here . WHARTON,22.008.499
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+Sir , our army did little thinke ever to have seene Worcester ,
+WHARTON,22.008.500
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+but the providence of God hath brought us heither , WHARTON,22.008.501
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+and had it not , the city is so vile , and the country <P_23> so base ,
+papisticall , and atheisticall and abominable , that it resembles Sodom
+, and is the very embleme of Gomorrah , and doubtlesse it would have
+ben worse than either Algiers or Malta , a very den of thieves , and
+refuge for all the hel-hounds in the countrey ; I should have said in
+the land ; WHARTON,23.008.502
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+but we have handsomely handled some of them , WHARTON,23.008.503
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+and doe cull out the rest as fast as we can , who verbally cry peccavi
+, but cordially iterum faciam , WHARTON,23.008.504
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+and indeed they do as they are taught by Dr. Prediux , late madd By
+Shop , and other popish priests , who are all run awaye .
+WHARTON,23.008.505
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+To conclude , Monday , Sept. 26th , one of Prince Robert 's trumpeters
+came to our gates and sounded a point of warre , who was presently
+taken and led blindfold through the city unto his Excellency .
+WHARTON,23.008.506
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+This night Sargeant Major Duglas was nobly buried . WHARTON,23.008.507
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+Tuesday our soildiers , by commission from his Excellency , marched
+seven miles to Sir William Russell 's house , WHARTON,23.008.508
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+and pillaged it unto the bare walls . WHARTON,23.008.509
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+Wensday we fasted , WHARTON,23.008.510
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+and Mr. Obbadiah Sedgwick preached unto us , whom the Lord
+extraordinarily assisted , so that his doctrine wrought wonderfully
+upon many of us , and doubtless hath fitted many of us for death ,
+which we all shortly expect . WHARTON,23.008.511
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+Thursday his Excellency proclaimed that whosoever had any goods of the
+Cavalleers in custody should forthwith surrender them this day .
+WHARTON,23.008.512
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+I met with your servant Barry , who is in good health , with his horse
+. WHARTON,23.008.513
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+He was on the west of Severne , near the battell , WHARTON,23.008.514
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+but untill it was ended heard not of it . WHARTON,23.008.515
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+Wee joyntly present you and my Mrs. with our humble service , as also
+Mr. Willingham , your brother , with his family . WHARTON,23.008.516
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+Mr. Chappel 's man and I do present our service to Mr. Chappell and his
+wife , Mr. Felton and his wife , WHARTON,23.008.517
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+and desire to heare of their welfare . WHARTON,23.008.518
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+Fryday morninge our drummes beat for our regiment to march away ,
+WHARTON,23.008.519
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+but wheither I know not . WHARTON,23.008.520
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+Wee should bee very glad to see our colonell . WHARTON,23.008.521
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+Sir , I humbly intreate to excuse my late errours , and to accept these
+my pore indeavors , beinge the last I suppose that ever I shall present
+unto you . WHARTON,23.008.522
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+Thus , with my dearest love to all your children and my fellow servants
+, wheither with you or from you , beinge to march away in hast , I must
+conclude your everlovinge , humble , thankfull , and antient servant ,
+Nehemiah Wharton . WHARTON,23.008.523
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+Worcester , WHARTON,23.008.524
+
+AUTHOR:NEHEMIAH_WHARTON:MALE:_:_:_
+RECIPIENT:GEORGE_WILLINGHAM:MALE:_:_:_
+LETTER:WHARTON_008:E3:1642:AUTOGRAPH:OTHER
+Sept. the , 1642 . WHARTON,23.008.525

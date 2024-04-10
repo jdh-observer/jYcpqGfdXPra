@@ -1,0 +1,1237 @@
+<B_CLERK>
+
+<Q_CLE_D_1458?_T_WCLERK> <L_CLERK_001> <A_WALTER_CLERK> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_WILLIAM_WAINFLEET> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1400?>
+
+<P_16>
+
+{ED:8._20TH_[1458_OR_1459]._W._CLERK,_MAYOR_OF_SOUTHAMPTON,_T
+O_THE_BISHOP_OF_[WINCHESTER]._ROUGH_DRAFT_OF_LETTER.}
+
+
+{COM:SIGN_OF_CROSS}
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_?
+RECIPIENT:WILLIAM_WAINFLEET:MALE:_:1400?:58?
+LETTER:CLERK_001:M4:1458?:UNKNOWN:OTHER
+Ihs . CLERK,16.001.1
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_?
+RECIPIENT:WILLIAM_WAINFLEET:MALE:_:1400?:58?
+LETTER:CLERK_001:M4:1458?:UNKNOWN:OTHER
+Right worshipfull and $Reuerend {TEXT:Reuend} ffader in god and my most
+especal goode lord I $recomaund {TEXT:recoaund} me vnto yo=r= goode
+lordeship . CLERK,16.001.2
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_?
+RECIPIENT:WILLIAM_WAINFLEET:MALE:_:1400?:58?
+LETTER:CLERK_001:M4:1458?:UNKNOWN:OTHER
+Plesyng yo=r= goode lordeship that by force of a preve seal fro the
+kyng our $souerayn {TEXT:souayn} lorde to me late directid amongst
+other I haue arrestid a carak of Jene leying w=t= yn the porte and
+ffraunchise of the town of Suth . And haue a londe the Scriuen of the
+said carrak as principal leying ther yn fore as muche as the patron of
+the said carak wasse absent in fflaunders . CLERK,16.001.3
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_?
+RECIPIENT:WILLIAM_WAINFLEET:MALE:_:1400?:58?
+LETTER:CLERK_001:M4:1458?:UNKNOWN:OTHER
+And not withstonding that they $promytted {TEXT:pmytted} me feithfulli
+to obbey and abide the seide arrest acordyng to the kynge our Souereyn
+lordes $commaundement {TEXT:comaundement} . And to weye none anker yn
+no wise . they haue sethyn $presomptuosli {TEXT:psomptuosli} done the
+$contrari {TEXT:cotrari} and abalid them vtter $purposyng
+{TEXT:pposyng} to myn vnderstandyng to haue departid forthwith yf the
+wynde and wedder wolde haue $seruyd {TEXT:suyd} them . dysobeyeng the
+$commandement {TEXT:comandeme} of our seid Souereyn lorde . Aft=r=
+which tyme w=t= suche diligens and power as I had & myght I did entrete
+them and wolde haue taken the pylot leying in the said carak alonde and
+other of their apparell . which sholde nedis haue caused them to haue
+beeyn yn case that I myght ther yn haue had my $purpose {TEXT:ppose} .
+CLERK,16.001.4
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_?
+RECIPIENT:WILLIAM_WAINFLEET:MALE:_:1400?:58?
+LETTER:CLERK_001:M4:1458?:UNKNOWN:OTHER
+And they yn no wise wolde sufferr me so to do . so that other wise I
+may not do . CLERK,16.001.5
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_?
+RECIPIENT:WILLIAM_WAINFLEET:MALE:_:1400?:58?
+LETTER:CLERK_001:M4:1458?:UNKNOWN:OTHER
+but yf I and other sholde put our lyffes in jepardie and lose them for
+nougth . Wherfore hit may plese yo=r= goode lordeship the $premysses
+{TEXT:pmysses} considerd a remedy to be $prouyded {TEXT:puyded} to the
+hono=r= and $obseruyng {TEXT:obsuyng} of the $commandement
+{TEXT:comandement} of our seide $Souerayn {TEXT:Souayn} <P_17> lorde
+the Kynge yn this be halfe . CLERK,17.001.6
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_?
+RECIPIENT:WILLIAM_WAINFLEET:MALE:_:1400?:58?
+LETTER:CLERK_001:M4:1458?:UNKNOWN:OTHER
+And the blessid Trinite $preserue {TEXT:presue} you $euer {TEXT:eu}
+aft=r= your hertes desir CLERK,17.001.7
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_?
+RECIPIENT:WILLIAM_WAINFLEET:MALE:_:1400?:58?
+LETTER:CLERK_001:M4:1458?:UNKNOWN:OTHER
+wreten at Suth the xxday of Septembr CLERK,17.001.8
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_?
+RECIPIENT:WILLIAM_WAINFLEET:MALE:_:1400?:58?
+LETTER:CLERK_001:M4:1458?:UNKNOWN:OTHER
+your $seruant {TEXT:sunt} & bedman w. clerk mair of Suth CLERK,17.001.9
+
+<Q_CLE_D_1458_T_WCLERK> <L_CLERK_002> <A_WALTER_CLERK> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_NAMES_UNKNOWN_18> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_--->
+
+<P_17>
+
+{ED:9._2ND,_1458._W._CLERK,_MAYOR_OF_SOUTHAMPTON,_T0_THE_AUDIT
+ORS_OF_SOUTHAMPTON.}
+
+{COM:SIGN_OF_CROSS}
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+Ihs . CLERK,17.002.10
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+m iiij=c= lviij . CLERK,17.002.11
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+Right Worshipfull and $Reuerend {TEXT:Reuend} $sires {TEXT:ses} and my
+right trusti and hertli welbelouyd ffrendes I $commaund {TEXT:comaund}
+me vnto you in alle hertli wyse / prayenge you as hertli as I can that
+ye wol calle to yo=r= remembraunce the state that we stand yn at this
+day . and that ye wol as diligentli as ye can or may . <P_18> w=t= one
+hert / one wille / and one thought effectualli to labo=r=. that anende
+be had of the bookes of the Bayliffs and brokers yn all haste goodeli .
+and to warne the Steward that wasse to make his booke redi a yenste my
+comynge hom . CLERK,18.002.12
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+ffore we moste w=t= alle the diligens that we can or may make provision
+money to be had in short tym . CLERK,18.002.13
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+ore we be like to be to sore hurte CLERK,18.002.14
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+and that god defend CLERK,18.002.15
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+fore we haue had to moche - CLERK,18.002.16
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+And as fore John Tyer . he cam not yn the corte sith he com by thauyse
+of Ingoldesby by cause of callyng fore money . CLERK,18.002.17
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+ffore he seith that he most haue yet xxx li . & more to fenysch
+thacompte of Walt=r= ffetplace . the which ys to me right straunge so
+moche money {COM:so_moche_money_REPEATED}
+
+as he receyued the laste yere / and this yere to / CLERK,18.002.19
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+I can not vnderstond hit / CLERK,18.002.20
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+y remytte hit to youre wysedomys . CLERK,18.002.21
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+and as fore thacompte of $William {TEXT:Willm} Nedam there ys yet no
+peny paide but the bare fees by John Tyer now . Wherefore Sires these
+materis moste be thought apon right $specialli {TEXT:spalli} .
+CLERK,18.002.22
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+And yn goode feith Sires I doute not but and ye wol w=t= goode herte
+and wille vndevided and w=t= oute eny Ambiguyte $euery {TEXT:euy} man
+hertili and diligentli putte his hande we shal onys be brought oute of
+thraldom - CLERK,18.002.23
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+Therle of Wiltshir wasse made Tresorier of Inglond on Sonday laste
+paste . CLERK,18.002.24
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+And vnder tresorier ys one Grymesby that wasse Clerk of the Jowell the
+which made grete attendaunce aboute the Kynge in his Siknes .
+CLERK,18.002.25
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+As fore chaunge of any othir officeris ther ys none yet .
+CLERK,18.002.26
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+And as fore the Janeis apon Tuysday they had ther counsell assigned
+vnto them . bothe Sergentts and prentises of corte CLERK,18.002.27
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+and so moche to do wol be amongs them CLERK,18.002.28
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+god spede the right . CLERK,18.002.29
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+the lordis be wroth w=t= them as hit ys seide - CLERK,18.002.30
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+As fore John Tyer by thauyse of Ingoldesby hit wasse thought better to
+be at hom than here . CLERK,18.002.31
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+fore his lyenge here sholde but putte vs yn coste and none availe tille
+the siluer be redi . CLERK,18.002.32
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+and x d. a day ys not a litel coste ye know welle / CLERK,18.002.33
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+I can no more CLERK,18.002.34
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+but I beseche god gyde vs yn alle oure werkis and haue you $euer
+{TEXT:eu} yn his graciouse $gouernauns {TEXT:gounauns} CLERK,18.002.35
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+Amen CLERK,18.002.36
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+wreten hasteli at london the ij=de= day of Nouembre - A=o= 37 $Regis
+{TEXT:Rs} $Henrici {TEXT:He} =vi= . CLERK,18.002.37
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+By your own W. Clerk mair . CLERK,18.002.38
+
+AUTHOR:WALTER_CLERK:MALE:_:_:_
+RECIPIENT:NAMES_UNKNOWN_18:MALE:_:_:_
+LETTER:CLERK_002:M4:1458:UNKNOWN:OTHER
+To the Right Worshipfull and $Reuerend {TEXT:Reuend} Sires and my right
+trusti and welbelouyd ffrendis John dun . Walt=r= ffetplace and to alle
+the oth=r= auditors of the town of Suthampton . CLERK,18.002.39
+
+<Q_CLE_D_1459_T_RGRYME> <L_CLERK_003> <A_RICHARD_GRYME> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_JOHN_INGOLDESBY> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_--->
+
+<P_19>
+
+{ED:10._17TH_[1459]._RICHARD_GRYME,_MAYOR_OF_SOUTHAMPTON,_HIS_B
+RETHREN,_TO_JOHN_INGOLDESBY,_RECORDER_OF_SOUTHAMPTON.}
+
+AUTHOR:RICHARD_GRYME:MALE:_:_:_
+RECIPIENT:JOHN_INGOLDESBY:MALE:_:_:_
+LETTER:CLERK_003:M4:1459:UNKNOWN:OTHER
+Right Worshipfull $Sire {TEXT:Se} we comaunde vs vnto you
+CLERK,19.003.40
+
+AUTHOR:RICHARD_GRYME:MALE:_:_:_
+RECIPIENT:JOHN_INGOLDESBY:MALE:_:_:_
+LETTER:CLERK_003:M4:1459:UNKNOWN:OTHER
+and for asmoche as we be credibly enfourmed this same daye that the
+Estchekyr & all other courtes ben enjourned as for this tyme we $praye
+{TEXT:pye} you hertely to sende vs redy worde by the brynger herof what
+day that the mayer most come vp for his accomptes of lesse than he
+myght be excused by youre good <P_20> helpe & mene / CLERK,20.003.41
+
+AUTHOR:RICHARD_GRYME:MALE:_:_:_
+RECIPIENT:JOHN_INGOLDESBY:MALE:_:_:_
+LETTER:CLERK_003:M4:1459:UNKNOWN:OTHER
+Also se as yesterday her was on Richard parker secretarye w=t= my lord
+of Exeter and brought with hym acquytaunce vnder my lordes sele & his
+signe manuele for the last half yere . And seide vn to vs that my lord
+$prayde {TEXT:pyde} vs so fayre to be payde here & seide he had never
+so grete myster ne nede that he is payde / Wherefor We alle $praye
+{TEXT:pye} you in case ye can in any wyse $delyuere {TEXT:delyue} the
+sele to eny of my lords counseill theyre & to helpe that we wer
+$delyuered {TEXT:delyued} of th=t= office / CLERK,20.003.42
+
+AUTHOR:RICHARD_GRYME:MALE:_:_:_
+RECIPIENT:JOHN_INGOLDESBY:MALE:_:_:_
+LETTER:CLERK_003:M4:1459:UNKNOWN:OTHER
+And the seide Richard parker tellith vs that he will move my lorde
+theryn and helpe therto all that he can CLERK,20.003.43
+
+AUTHOR:RICHARD_GRYME:MALE:_:_:_
+RECIPIENT:JOHN_INGOLDESBY:MALE:_:_:_
+LETTER:CLERK_003:M4:1459:UNKNOWN:OTHER
+for we tolde hym what hurte & lost hit was vnto vs / CLERK,20.003.44
+
+AUTHOR:RICHARD_GRYME:MALE:_:_:_
+RECIPIENT:JOHN_INGOLDESBY:MALE:_:_:_
+LETTER:CLERK_003:M4:1459:UNKNOWN:OTHER
+And as for the bille of x li. x s. that ye have yf ye seme hit be to do
+to take x li. of hit & to paye Vmfray Hayford Res of hym the acquitance
+th=t= ye knowe of . We remitte hit hoolly to youre discrecion .
+CLERK,20.003.45
+
+AUTHOR:RICHARD_GRYME:MALE:_:_:_
+RECIPIENT:JOHN_INGOLDESBY:MALE:_:_:_
+LETTER:CLERK_003:M4:1459:UNKNOWN:OTHER
+Also I $praye {TEXT:pye} you to sende home a note of the Inquisicion
+for the Aliens siller that hit may be made vp clere ayenst I come to
+myn accomptes . CLERK,20.003.46
+
+AUTHOR:RICHARD_GRYME:MALE:_:_:_
+RECIPIENT:JOHN_INGOLDESBY:MALE:_:_:_
+LETTER:CLERK_003:M4:1459:UNKNOWN:OTHER
+Also we all $praye {TEXT:pye} you hertely to sende vs home by the
+brynger herof a bille of all youre receytes and the employng of the
+same . CLERK,20.003.47
+
+AUTHOR:RICHARD_GRYME:MALE:_:_:_
+RECIPIENT:JOHN_INGOLDESBY:MALE:_:_:_
+LETTER:CLERK_003:M4:1459:UNKNOWN:OTHER
+And we will vpon that devyde hit in the Stywardes bokes as nede is .
+CLERK,20.003.48
+
+AUTHOR:RICHARD_GRYME:MALE:_:_:_
+RECIPIENT:JOHN_INGOLDESBY:MALE:_:_:_
+LETTER:CLERK_003:M4:1459:UNKNOWN:OTHER
+And make a redy all the money that we maye in all hast possible .
+Whatsom evyr byfall by the grace of Allmyghty $Jhesu {TEXT:Jhu} Whiche
+have you & all youres nowe & ever in his blessed $gouernaunce
+{TEXT:gounaunce} . CLERK,20.003.49
+
+AUTHOR:RICHARD_GRYME:MALE:_:_:_
+RECIPIENT:JOHN_INGOLDESBY:MALE:_:_:_
+LETTER:CLERK_003:M4:1459:UNKNOWN:OTHER
+Writen in hast at Suthampton the xvij daye of $October {TEXT:Octobr} .
+At ix $at $te {TEXT:atte} clokke in the nyght . By Richard Gryme mayer
+and his Bretheryn . To oure right trusty & welbelouyd John Ingoldesby
+Recorder of Suth . CLERK,20.003.50
+
+<Q_CLE_A_1471_T_RRATCLYF> <L_CLERK_004> <A_ROBERT_RATCLYF>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_JOHN_WILLIAMS_1>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_26>
+
+{ED:14._DECEMBER_11TH_[1471]._ROBERT_RATCLYF_TO_JOHN_WILLIAM.}
+
+AUTHOR:ROBERT_RATCLYF:MALE:_:_:_
+RECIPIENT:JOHN_WILLIAMS_1:MALE:_:_:_
+LETTER:CLERK_004:M4:1471:AUTOGRAPH:OTHER
+Trusty and welbelouid I $commaunde {TEXT:comaunde} me vnto you
+$marvelyng {TEXT:mvelyng} greetly that ye ded not content and paye to
+Thomas Avan nowe beyng Sheryf of youre Town xxo=s=. the whiche I wrote
+vnto you fore . Consideryng the speciall $lettres {TEXT:lres} to you
+directid by my lord of Worcestre that tyme beyng Tresorer of England
+Whous soule god $pardon {TEXT:pdon} . that ye shold vnto me & vnto
+William Wade Squyer of the kynges hous $deliuere {TEXT:deliue} such
+vitell for the kynges Shippis as I shold thenke nedefull and necessary
+to the seid Shippis . CLERK,26.004.51
+
+AUTHOR:ROBERT_RATCLYF:MALE:_:_:_
+RECIPIENT:JOHN_WILLIAMS_1:MALE:_:_:_
+LETTER:CLERK_004:M4:1471:AUTOGRAPH:OTHER
+I chargid you w=t= noo more but only w=t= the bill of xxo=s=. the
+whiche I vndrestand is vnpaide as yet Wherfore I will that ye paye the
+seid xxo=s=. vnto the seid Thomas Avan as that ye will eschewe a
+grettir inconuenience CLERK,26.004.52
+
+AUTHOR:ROBERT_RATCLYF:MALE:_:_:_
+RECIPIENT:JOHN_WILLIAMS_1:MALE:_:_:_
+LETTER:CLERK_004:M4:1471:AUTOGRAPH:OTHER
+Wretyn in london the xj day of the moneth of Decembre By Robert Ratclyf
+Portoure of Caleys CLERK,26.004.53
+
+AUTHOR:ROBERT_RATCLYF:MALE:_:_:_
+RECIPIENT:JOHN_WILLIAMS_1:MALE:_:_:_
+LETTER:CLERK_004:M4:1471:AUTOGRAPH:OTHER
+{ED:ADDRESS} To John William of Suthampton $merchaunt {TEXT:mchaunt} be
+this lettir $deliuered {TEXT:deliued} CLERK,26.004.54
+
+<Q_CLE_D_1589_T_TFLEMING> <L_CLERK_005> <A_THOMAS_FLEMING>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1544> <R_PETER_STONOR>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_160>
+
+{ED:93._30TH,_1589._THOMAS_FLEMING,_RECORDER_OF_WINCHESTER,_T O_MAYOR.}
+
+AUTHOR:THOMAS_FLEMING:MALE:_:1544:45
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_005:E2:1589:UNKNOWN:OTHER
+Aft=r= my harte $commendacions {TEXT:comendacions} , where this Bearer
+John Quallett hath ben robbed of $diuerse {TEXT:diuse} peeces of his
+goodes by one Stephen Bennett now $imprisonid {TEXT:impsonid} , against
+whome this Bearer standeth bond to $preseynte {TEXT:pseynte} the Lawe
+by recognizaunce taken before my selfe , And as he informeth me , some
+$part {TEXT:pt} of his goodes stollen are in the Custodie of m=r=
+Bullacer or in some others w=th=in you=r= Towne by his order , my
+request unto you is that for so much as this Bearer standeth bound to
+$presente {TEXT:psente} against the ffelon as afore said , that you
+will vouchsaffe to cause that goodes w=ch= by proffe shall appear vnto
+you to be suche stollen from him , to be $deliuerid {TEXT:deliuid} vnto
+him wherein you shall do that $apperteyneth {TEXT:appteyneth} to
+Justice : CLERK,160.005.55
+
+AUTHOR:THOMAS_FLEMING:MALE:_:1544:45
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_005:E2:1589:UNKNOWN:OTHER
+And so I Bid you most hartely ffarewell CLERK,160.005.56
+
+AUTHOR:THOMAS_FLEMING:MALE:_:1544:45
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_005:E2:1589:UNKNOWN:OTHER
+this las=t= of Septeber 1589 CLERK,160.005.57
+
+AUTHOR:THOMAS_FLEMING:MALE:_:1544:45
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_005:E2:1589:UNKNOWN:OTHER
+you=r= very loving ffrend Tho: fflemyng CLERK,160.005.58
+
+AUTHOR:THOMAS_FLEMING:MALE:_:1544:45
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_005:E2:1589:UNKNOWN:OTHER
+{ED:ADDRESS} To the wo=r= my verie Loving ffrend m=r= Peter Stoner
+Maio=r= of the Towne of Southampton CLERK,160.005.59
+
+<Q_CLE_D_1589_T_GSWIFT> <L_CLERK_006> <A_GARRATT_SWIFT> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_PETER_STONOR> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_--->
+
+<P_172>
+
+{ED:104._DECEMBER_25TH,_1589._GARRATT_SWIFT_TO_MAYOR.}
+
+{ED:My}
+
+AUTHOR:GARRATT_SWIFT:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_006:E2:1589:UNKNOWN:OTHER
+dutie humblie remembrid vnto yo=r= wo , Theisse may be to crave yo=r=
+ffavoure in a matter nowe dependinge in yo=r= towne betwene one
+Nicholas Harris a maryner & liuinge in John Adeanes housse & my selfe /
+w=ch= Nicholas harris did forceably take away from a man of myne certen
+of my Aparell to the valew of a iij or iiij <font> =li= </font>
+CLERK,172.006.60
+
+AUTHOR:GARRATT_SWIFT:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_006:E2:1589:UNKNOWN:OTHER
+and ffor that I was loathe for so smalle a matter to attache him vppon
+ffellony ; I caused him to be arrested by way of action
+CLERK,172.006.61
+
+AUTHOR:GARRATT_SWIFT:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_006:E2:1589:UNKNOWN:OTHER
+and so according to yo=r= ordenarie course of yo=r= towne sought for
+the recouery of what was myne : CLERK,172.006.62
+
+AUTHOR:GARRATT_SWIFT:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_006:E2:1589:UNKNOWN:OTHER
+and nowe by the said Harris bade and shifting dealinge I am not only
+like to lose what he hathe of myne CLERK,172.006.63
+
+AUTHOR:GARRATT_SWIFT:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_006:E2:1589:UNKNOWN:OTHER
+but shall be condemnid to pay his chardges in laue / CLERK,172.006.64
+
+AUTHOR:GARRATT_SWIFT:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_006:E2:1589:UNKNOWN:OTHER
+The reason is that he denyes the name whereby I arrestid him ,
+notw=th=standinge sence he was arrestid he came vnto me in my father in
+laues howse m=r= Janverin ; and in his presence before halfe a dozen
+more confessid the matter , and offerid me compossission / wherefore I
+haue noe other course to come by my one ; but I must aprehend him vppon
+suspicion of ffellony ; wherein I must requier yo=r= wo. warrant for
+the aprehending of him ; CLERK,172.006.65
+
+AUTHOR:GARRATT_SWIFT:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_006:E2:1589:UNKNOWN:OTHER
+he is nowe at this presence in the towne CLERK,172.006.66
+
+AUTHOR:GARRATT_SWIFT:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_006:E2:1589:UNKNOWN:OTHER
+& resteth at John Adeanes /. CLERK,172.006.67
+
+AUTHOR:GARRATT_SWIFT:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_006:E2:1589:UNKNOWN:OTHER
+I haue good cause to vse him & oth=r= of his coparteners hardly
+CLERK,172.006.68
+
+AUTHOR:GARRATT_SWIFT:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_006:E2:1589:UNKNOWN:OTHER
+for there doinges hathe brought me to muche troble /. CLERK,172.006.69
+
+AUTHOR:GARRATT_SWIFT:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_006:E2:1589:UNKNOWN:OTHER
+And so hopinge to find yo=r= wo. my frendes herein , as otherwise I
+haue done / I moste humbly comit yo=r= good wo. to the protection of
+thalmightie CLERK,172.006.70
+
+AUTHOR:GARRATT_SWIFT:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_006:E2:1589:UNKNOWN:OTHER
+ffrom Sallesburie this 25 of december 1589 CLERK,172.006.71
+
+AUTHOR:GARRATT_SWIFT:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_006:E2:1589:UNKNOWN:OTHER
+yo=r= good wo. most humble to comand Garratt Swift CLERK,172.006.72
+
+AUTHOR:GARRATT_SWIFT:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_006:E2:1589:UNKNOWN:OTHER
+{ED:ADDRESS} To the Right wo. M=r= $Peter {TEXT:P} Stonere Maio=r= of
+the $towne {TEXT:t} of Sowthampton d ... CLERK,172.006.73
+
+<Q_CLE_D_1590_T_OHOPTON> <L_CLERK_007> <A_OWYN_HOPTON> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_PETER_STONOR> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_--->
+
+<P_173>
+
+{ED:105._-,_1589-90._SIR_OWYN_HOPTON,_LIEUTENANT_OF_THE_TOWER,_
+TO_MAYOR.}
+
+AUTHOR:OWYN_HOPTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_007:E2:1590:UNKNOWN:OTHER
+After my hartie $comendacions {TEXT:comendacons} &c. Whereas I am given
+to vnderstand by credible $informacion {TEXT:informacon} , That one
+Rauffe Norrice late of Lymehowse in the Countye of Midd'x Marryner ,
+beinge abowte the age of xxx=ti= yeres w=th= a yellowe bearde ,
+wantinge twoe fingers on one hand , and one on the other , beinge put
+in Credit w=th= the custodie of certen gunne powder for her Ma=tes=
+provision , hath in moste subtill manner ymbesaled and conveyed awaye
+greate quantaties thereof , and exempted himself into vnknowne places ,
+And nowe I beinge given to vnderstande that the saide Rauffe Norrice is
+lurckinge in some places in the Weast Countries : Theis are therefore
+to will and require yo=u= , and every of yo=u= to whome in this case it
+shall apperteine , That vppon the sighte hereof yo=u= make diligent
+searche and inquyrie w=th=in yo=r= Bayliwickes aswell w=th=in liberties
+as w=th=owte ; for the said Rauffe Norrice and to apprehend and take
+his body , <paren> if he be there to be founde </paren> and to sende
+him in safe custodie Soe that he be reddy to answere before me , and
+other of her Ma=tes= Justices of Peace , at the Tower of London , to
+all suche matters as $shall $be {TEXT:shalbe} obiected againste him on
+her Ma=tes= behalfe , CLERK,173.007.74
+
+AUTHOR:OWYN_HOPTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_007:E2:1590:UNKNOWN:OTHER
+Thus hopeing yo=u= will haue a care of the matter , as yo=u= tendo=r=
+her Ma=tes= $service {TEXT:svice} I committ yo=u= to god
+CLERK,173.007.75
+
+AUTHOR:OWYN_HOPTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_007:E2:1590:UNKNOWN:OTHER
+from the Tower of London this - of Januarye Anno dm' 1589 .
+CLERK,173.007.76
+
+AUTHOR:OWYN_HOPTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_007:E2:1590:UNKNOWN:OTHER
+yo=r= assured frend Owyn Hopton CLERK,173.007.77
+
+AUTHOR:OWYN_HOPTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_007:E2:1590:UNKNOWN:OTHER
+To the Maio=r= of Southampton CLERK,173.007.78
+
+<P_174>
+
+{ED:BELOW}
+
+AUTHOR:OWYN_HOPTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_007:E2:1590:UNKNOWN:OTHER
+m=r= maio=r= if it please yo=u= to release this prisoner <paren> who
+hath susteyned longe imprisoment w=th=out any evedence for th=e=
+offence more then this $warraunte {TEXT:warrunte} of apprehencion w=ch=
+I will vndertake ; the matter beinge called in question for her ma=tie=
+in Thoffice of $Thordnaunce {TEXT:Thordnunce} & vppon due examynacion ,
+the offendo=rs= knowen , who haue receaved the lawe . CLERK,174.007.79
+
+AUTHOR:OWYN_HOPTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_007:E2:1590:UNKNOWN:OTHER
+this vppon great intreatie haue I certefied vnto yo=u= my knowledge .
+CLERK,174.007.80
+
+AUTHOR:OWYN_HOPTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_007:E2:1590:UNKNOWN:OTHER
+Southampton CLERK,174.007.81
+
+AUTHOR:OWYN_HOPTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_007:E2:1590:UNKNOWN:OTHER
+this xxiiij=th= of marche 1589 CLERK,174.007.82
+
+AUTHOR:OWYN_HOPTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_007:E2:1590:UNKNOWN:OTHER
+yo=r= verie loving and assured frinde Jo: Powell CLERK,174.007.83
+
+AUTHOR:OWYN_HOPTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_007:E2:1590:UNKNOWN:OTHER
+{ED:ADDRESS} To his Worr=ll= freind the mayer of Southampton and to his
+Worr=ll= freind m=r= Harrington esquire at Southampton yeave this
+CLERK,174.007.84
+
+<Q_CLE_D_1590_T_EHAYES> <L_CLERK_008> <A_EDWARD_HAYES> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_PETER_STONOR> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_--->
+
+<P_183>
+
+{ED:114._FEBRUARY_18TH,_1589-90._EDWARD_HAYES_TO_MAYOR.}
+
+AUTHOR:EDWARD_HAYES:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_008:E2:1590:UNKNOWN:OTHER
+S=r= my lo. Admyralls deputie hath sent veary importunatly for my lord
+hys tenthes . CLERK,183.008.85
+
+AUTHOR:EDWARD_HAYES:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_008:E2:1590:UNKNOWN:OTHER
+my answer is absolutly that when we have sequestration for the goods ,
+the tenthes $shall $be {TEXT:shalbe} delyuered . CLERK,183.008.86
+
+AUTHOR:EDWARD_HAYES:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_008:E2:1590:UNKNOWN:OTHER
+And yf my lo. through delayes , shall happen also to loose his due w=t=
+us : the fawlt must be layed whear it is . CLERK,183.008.87
+
+AUTHOR:EDWARD_HAYES:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_008:E2:1590:UNKNOWN:OTHER
+Thear is great reason of thys second praysment of th=e= goods . becawse
+the same are , and $will $be {TEXT:wylbe} impayred in goodnes & sale .
+CLERK,183.008.88
+
+AUTHOR:EDWARD_HAYES:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_008:E2:1590:UNKNOWN:OTHER
+And further it $shall $be {TEXT:shalbe} an euydence for you to haue
+kept th=e= goods so long as you myght conueniently , w=t=owt spoyle &
+hyndrance to th=e= proprietaries . CLERK,183.008.89
+
+AUTHOR:EDWARD_HAYES:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_008:E2:1590:UNKNOWN:OTHER
+Neuertheles yf you wyll deall so stryctly w=t= us , that beare
+good-wyll to you and yo=r= town , As to dryue men to make prayse upon
+theyr oathes , <paren> the contrary part not requyring the same :
+</paren> it $shall $be {TEXT:shalbe} a $president {TEXT:psident} not
+before sene , and thought an iniury to us . CLERK,183.008.90
+
+AUTHOR:EDWARD_HAYES:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_008:E2:1590:UNKNOWN:OTHER
+I beseche yow therfore to accept of thys last praysment , and so to
+deall , as we may thynke our selues behoulding unto you .
+CLERK,183.008.91
+
+AUTHOR:EDWARD_HAYES:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_008:E2:1590:UNKNOWN:OTHER
+I am dryuen to kepe my lodging a whyle , being entred into physyck .
+CLERK,183.008.92
+
+AUTHOR:EDWARD_HAYES:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_008:E2:1590:UNKNOWN:OTHER
+therefore I require you to pardon my absence . CLERK,183.008.93
+
+AUTHOR:EDWARD_HAYES:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_008:E2:1590:UNKNOWN:OTHER
+thys 18 February 1589 CLERK,183.008.94
+
+AUTHOR:EDWARD_HAYES:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_008:E2:1590:UNKNOWN:OTHER
+yo=rs= to comaund . Edward Hayes CLERK,183.008.95
+
+AUTHOR:EDWARD_HAYES:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_008:E2:1590:UNKNOWN:OTHER
+{ED:ADDRESS} To the ryght worshyppfull M=r= Maior of Southampton gyue
+these CLERK,183.008.96
+
+<Q_CLE_D_1590_T_MLEEMAN> <L_CLERK_009> <A_MICHAEL_LEEMAN>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_PETER_STONOR>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_189>
+
+{ED:120._MARCH_7TH,_1589-90._MICHAEL_LEEMAN_TO_MAYOR.}
+
+AUTHOR:MICHAEL_LEEMAN:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_009:E2:1590:UNKNOWN:OTHER
+In London The 7 of march CLERK,189.009.97
+
+AUTHOR:MICHAEL_LEEMAN:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_009:E2:1590:UNKNOWN:OTHER
+M=r= Mayor I comende me moost haertlye vnto your wourship
+CLERK,189.009.98
+
+AUTHOR:MICHAEL_LEEMAN:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_009:E2:1590:UNKNOWN:OTHER
+wheeras Ther is In yowr costodye by order of the loord Admerall
+saertain quantite of Bastards and figgs Taeken By captain edwaerd haese
+and his comp=e= apartaining vnto sundrye march=ts= of amsterdam to
+witch goeds I haeue laede claeme vnto as lawfoll procurator for the
+saide march=ts= and haeue maide complainde of that spoill booth to the
+loords of the counsell and to the lord admerall as lyke wyse The
+estaetz generall of the vnytid prouincis and The count mowritcius who
+haeue writtin verye aernestlye onto thes loords In the behalf of thes
+marchands The lords of her mag=ts= moost honneraebel priuye counsell
+booth opon the afoors=d= complaint as aelsoo opon the defens of m=r=
+brown m=r= uicks and m=r= charles evins so to avoide forder
+Inconvenientz and lossis haeue thoocht It miet that thes gentelmen
+schould haeue the posession of the on moytie of all thes comodites ,
+and that the maester clais cornelis schowld haeue his schip and all her
+ferniteur deliurid vnto him and that I or my asigne to the yeuse of the
+saide marchands schould haeue the pocession of the other moytie of all
+The goeds witch waer deliurid vnto yowr costodye as doet apaier by a
+letter daetid the 6 of This month written by the loord admeral vnto
+yowr wourschip CLERK,189.009.99
+
+AUTHOR:MICHAEL_LEEMAN:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_009:E2:1590:UNKNOWN:OTHER
+Tell sutch tyme That the propriete of thes goeds schaell be known to
+Belong vnto , And wheeras somtyms som saeemen Be somwhat Riewd
+speciallye when thaye most maek Restitution of goeds witch thaye hadde
+In pocession , $It $is {TEXT:Tise} lere {ED:?} to praye yow To doe yowr
+wourschips Indevor to see thes goeds eequallye devydid and The on
+moytie saeflye deliuerid vnto adriaen leeman my saruant and vnto The
+maester clais cornelis or to ether of them as aelsoo vnto thes maester
+his schip and fornitior acording To the tenior of the loord admerals
+letter , CLERK,189.009.100
+
+AUTHOR:MICHAEL_LEEMAN:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_009:E2:1590:UNKNOWN:OTHER
+and By cause that booth whe the partys did finde this Repertition to be
+The will and plaisior of the ll=s= whe thoocht goed for the better
+$perfoorming {TEXT:pfoorming} of the loords plaisior To maeke
+Indentiors of couenantz betwickst vs witch It maye plaise yow to se
+them <P_190> and as afoors=d= booth In the equall Repartition as In the
+deliurye thaierof To putt yowr helping hand because the captains and we
+micht paert frinds aellwais ower quarell Reseruid for the propriete
+hier after CLERK,190.009.101
+
+AUTHOR:MICHAEL_LEEMAN:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_009:E2:1590:UNKNOWN:OTHER
+And what plaesior yowr wourschip doeth schowe vs hier In to the behoef
+of Te Interesstid march=ts= will not be onrecompenst CLERK,190.009.102
+
+AUTHOR:MICHAEL_LEEMAN:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_009:E2:1590:UNKNOWN:OTHER
+althoch The maester and my man doe It not I would doe It my self
+because I knowe better what belongs vnto It then thaye
+CLERK,190.009.103
+
+AUTHOR:MICHAEL_LEEMAN:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_009:E2:1590:UNKNOWN:OTHER
+And this my letter schaell be my warant for the saeme -
+CLERK,190.009.104
+
+AUTHOR:MICHAEL_LEEMAN:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_009:E2:1590:UNKNOWN:OTHER
+And haeuing no other ocasion at this $present {TEXT:psent} I wil eende
+CLERK,190.009.105
+
+AUTHOR:MICHAEL_LEEMAN:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_009:E2:1590:UNKNOWN:OTHER
+and comit yowr wourschip to the tuition of good allmichtye
+CLERK,190.009.106
+
+AUTHOR:MICHAEL_LEEMAN:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_009:E2:1590:UNKNOWN:OTHER
+yowr loving frinde to comande Michiel leeman CLERK,190.009.107
+
+AUTHOR:MICHAEL_LEEMAN:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_009:E2:1590:UNKNOWN:OTHER
+{ED:ADDRESS} To The Richt wourschipfull m=r= pieter Stooner Mayor of
+Hamton CLERK,190.009.108
+
+<Q_CLE_D_1590_T_JTHOMS> <L_CLERK_010> <A_JOHN_THOMS> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_PETER_STONOR> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_--->
+
+<P_195>
+
+{ED:125._MARCH_10TH,_1589-90._JOHN_THOMS_TO_MAYOR.}
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_010:E2:1590:UNKNOWN:OTHER
+After my harti Comendations . S=r=. this are to praye you ffor the
+better preferment of her ma=tis= $servis {TEXT:svis} to take ssutche
+order w=th= the cappetens or w=th= the ouners or ostes / that the
+maryners that Are prest to serve the quen that they maye have that
+shares w=ch= is dew to them / CLERK,195.010.109
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_010:E2:1590:UNKNOWN:OTHER
+and then they shall have no cawse to stey be hind the ship I mean the
+Victory . CLERK,195.010.110
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_010:E2:1590:UNKNOWN:OTHER
+ffor it is a order that my Lo admerall and all the officers of the
+admeraltie dothe take <P_196> ffor the better servis of her ma=ti= /
+where ffore I trust you beinge maior will have great care of the same
+CLERK,196.010.111
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_010:E2:1590:UNKNOWN:OTHER
+ffor yfe you should not and men not make ther aperance to adtend ffor
+want of good order taken in this casse I $can $not {TEXT:cannot} tell
+how you will awnser it / CLERK,196.010.112
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_010:E2:1590:UNKNOWN:OTHER
+The serves requieres great hast / CLERK,196.010.113
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_010:E2:1590:UNKNOWN:OTHER
+you must beare w=th= me you beinge my old ffreind CLERK,196.010.114
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_010:E2:1590:UNKNOWN:OTHER
+but in this case I will dischardge my selfe / CLERK,196.010.115
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_010:E2:1590:UNKNOWN:OTHER
+so I dow not dowt but you will have great care of this servis & that
+the bearer heerof be dispatchd a way w=th= all hast CLERK,196.010.116
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_010:E2:1590:UNKNOWN:OTHER
+So ffare you well CLERK,196.010.117
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_010:E2:1590:UNKNOWN:OTHER
+ffrom her ma=tis= howse at the dock nere portes mouthe
+CLERK,196.010.118
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_010:E2:1590:UNKNOWN:OTHER
+the x=th= day of marche 1589 CLERK,196.010.119
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_010:E2:1590:UNKNOWN:OTHER
+Yo=r= Louinge ffrend John Thoms CLERK,196.010.120
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_010:E2:1590:UNKNOWN:OTHER
+{ED:NOTE_ADDED} I have susteynd this CLERK,196.010.121
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_010:E2:1590:UNKNOWN:OTHER
+{ED:ADDRESS} To the worshipffull . & my good frend the maior of of
+hamptonn : m=r= Stonner . CLERK,196.010.122
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_010:E2:1590:UNKNOWN:OTHER
+geve this hast CLERK,196.010.123
+
+<Q_CLE_D_1590_T_FCOTTON> <L_CLERK_011> <A_FRANCIS_COTTON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_PETER_STONOR>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_197>
+
+{ED:126._MARCH_12TH,_1589-90._FRANCIS_COTTON_TO_MAYOR.}
+
+AUTHOR:FRANCIS_COTTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_011:E2:1590:UNKNOWN:OTHER
+M=r= maiore I $commende {TEXT:comende} me verye hartelie vnto yo=u=
+requestinge yo=u= verye ernestlie that the poore $accion {TEXT:accon} I
+have befor yo=u= for the Lewis ; as Admerall of that place , may By
+yo=r= favor have that reasonable and quicke dispatche $vpon {TEXT:vpo}
+the knoledge of my right as that I maye therbie have caus so to
+acknoledge vnto yo=u= my Thankefullnes , w=ch= I will not fayle to doe
+yf I maye in anye sort speedd yo=u= , CLERK,197.011.124
+
+AUTHOR:FRANCIS_COTTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_011:E2:1590:UNKNOWN:OTHER
+my right therin is so well knowne vnto manye , as I thynk I shall not
+nede of moche $profe {TEXT:pfe} more then publick acknoledge ,
+CLERK,197.011.125
+
+AUTHOR:FRANCIS_COTTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_011:E2:1590:UNKNOWN:OTHER
+my mane Ed: Leake who this night is falen verye sycke , w=ch= on wadden
+of yo=r= Towne , cane well testyfye CLERK,197.011.126
+
+AUTHOR:FRANCIS_COTTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_011:E2:1590:UNKNOWN:OTHER
+for m=r= Leake receyving the possession of her , by the handes of w=m=
+ffynes , who had a letter of Attornye $from {TEXT:fro} my brother to
+delyver hyr , CLERK,197.011.127
+
+AUTHOR:FRANCIS_COTTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_011:E2:1590:UNKNOWN:OTHER
+yf any thynge cane be shewede , that my brother had $from {TEXT:fro} me
+anye aucthorytie to sell her , I will avowe hyt , wherin his owne
+letter vnto me may be yo=r= satisfyinge w=ch= this bearer my servant
+shall showe vnto yo=u= CLERK,197.011.128
+
+AUTHOR:FRANCIS_COTTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_011:E2:1590:UNKNOWN:OTHER
+my meanninge is not to deale w=th= Extreamytie w=th= m=r= hayes , who I
+know for an honest gentillmane , CLERK,197.011.129
+
+AUTHOR:FRANCIS_COTTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_011:E2:1590:UNKNOWN:OTHER
+but as I $shall $be {TEXT:shalbe} saved my brother had of me in readie
+. mony for her , CLERK,197.011.130
+
+AUTHOR:FRANCIS_COTTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_011:E2:1590:UNKNOWN:OTHER
+yf yt may like yo=u= to sende the $gentillman {TEXT:gentillma} ovar
+vnto me , yf he be not verye unreasonable , I doubt not of o=r= good
+agrem=t= CLERK,197.011.131
+
+AUTHOR:FRANCIS_COTTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_011:E2:1590:UNKNOWN:OTHER
+I praye yo=u= lette me knowe $from {TEXT:fro} yo=u= what is requysyt
+for me to doe for my farther triall of my right / and the dayes when
+w=ch= I wold not wyshe wer in hast , CLERK,197.011.132
+
+AUTHOR:FRANCIS_COTTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_011:E2:1590:UNKNOWN:OTHER
+for the sicknes of my mane , that tooke the possession of her , I leave
+hyt unto yo=r= discretion and frendlie $consideracion
+{TEXT:consideracon} CLERK,197.011.133
+
+AUTHOR:FRANCIS_COTTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_011:E2:1590:UNKNOWN:OTHER
+and even so doe bydde yo=u= hartelie fare well CLERK,197.011.134
+
+AUTHOR:FRANCIS_COTTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_011:E2:1590:UNKNOWN:OTHER
+the xij=th= of marche . 1589 CLERK,197.011.135
+
+AUTHOR:FRANCIS_COTTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_011:E2:1590:UNKNOWN:OTHER
+yo=r= very lovinge frende fr Cotton CLERK,197.011.136
+
+AUTHOR:FRANCIS_COTTON:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_011:E2:1590:UNKNOWN:OTHER
+{ED:ADDRESS} To the $worshyp=ll= {TEXT:wshyp=ll=} my very frende m=r=
+Stoner mayor of South'ton yeve theise CLERK,197.011.137
+
+<Q_CLE_D_1590_T_JWILLIAMS> <L_CLERK_012> <A_JOHN_WILLIAMS_1>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_PETER_STONOR>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_200>
+
+{ED:129._MARCH_16TH_[1590]._JOHN_WILLIAMS_TO_MAYOR.}
+
+AUTHOR:JOHN_WILLIAMS_1:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_012:E2:1590:UNKNOWN:OTHER
+Sir , I have sent down a man to witness what Goods Willm Gilbert did
+take from me and in what sorte he vsid me Both at his first meeting and
+after in the harbor . CLERK,200.012.138
+
+AUTHOR:JOHN_WILLIAMS_1:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_012:E2:1590:UNKNOWN:OTHER
+I pray you to hear him and let him be deposid vpon Both .
+CLERK,200.012.139
+
+AUTHOR:JOHN_WILLIAMS_1:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_012:E2:1590:UNKNOWN:OTHER
+When I com my selfe I will Bring another witness except I Bring order
+from the counsell . CLERK,200.012.140
+
+AUTHOR:JOHN_WILLIAMS_1:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_012:E2:1590:UNKNOWN:OTHER
+he hath made it known vnto his m=r= Who I hope to fynd my Good frind ,
+CLERK,200.012.141
+
+AUTHOR:JOHN_WILLIAMS_1:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_012:E2:1590:UNKNOWN:OTHER
+my petition is acceptid CLERK,200.012.142
+
+AUTHOR:JOHN_WILLIAMS_1:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_012:E2:1590:UNKNOWN:OTHER
+and do stay for Awnswer , CLERK,200.012.143
+
+AUTHOR:JOHN_WILLIAMS_1:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_012:E2:1590:UNKNOWN:OTHER
+m=r= ashlye Clerk of the Counsell hath certefyed my Complaynt in the
+west contry CLERK,200.012.144
+
+AUTHOR:JOHN_WILLIAMS_1:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_012:E2:1590:UNKNOWN:OTHER
+and Sir Georde Careye is my very Good frind in the cause w=ch= is so
+iust as any man will say he used me <P_201> very hardly
+CLERK,201.012.145
+
+AUTHOR:JOHN_WILLIAMS_1:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_012:E2:1590:UNKNOWN:OTHER
+I way not what smooth talle he tells except his m=r= stand his very
+good frind CLERK,201.012.146
+
+AUTHOR:JOHN_WILLIAMS_1:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_012:E2:1590:UNKNOWN:OTHER
+I hope to Recouer all he took from me . CLERK,201.012.147
+
+AUTHOR:JOHN_WILLIAMS_1:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_012:E2:1590:UNKNOWN:OTHER
+I crave your frendship and favou=r= in my sute for that I could not
+fynd the witnesses at my first coming , CLERK,201.012.148
+
+AUTHOR:JOHN_WILLIAMS_1:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_012:E2:1590:UNKNOWN:OTHER
+and now stay only vpon m=r= Secretary his letter , or order from th=e=
+counsell for the Goods . CLERK,201.012.149
+
+AUTHOR:JOHN_WILLIAMS_1:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_012:E2:1590:UNKNOWN:OTHER
+thus Desiring you=r= furtherance I Rest this xxvj=th= martch Your
+Worships to $command {TEXT:comand} John $Williams {TEXT:Willms}
+CLERK,201.012.150
+
+AUTHOR:JOHN_WILLIAMS_1:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_012:E2:1590:UNKNOWN:OTHER
+{ED:ADDRESS} To the worshipfull m=r= mayor of Southampto=n= Be thes
+geven with all speed CLERK,201.012.151
+
+<Q_CLE_D_1590_T_JTHOMS> <L_CLERK_013> <A_JOHN_THOMS> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_---> <R_PETER_STONOR> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_--->
+
+<P_201>
+
+{ED:130._MARCH_27TH,_1590._JOHN_THOMS_TO_MAYOR.}
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_013:E2:1590:UNKNOWN:OTHER
+S=r= the berer here of m=r= Rideldall is Attereyssed by the verteu of
+her ma=tis= comyssion ffrom me to p=r=esse iij or iiij good men and
+sufficent to goo in the Victory to $lonndon {TEXT:lonndo} / where ffoer
+I p=r=aye you to ayd and assist hem as thoughe I were p=r=esent
+CLERK,201.013.152
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_013:E2:1590:UNKNOWN:OTHER
+ffor the Victory her men dothe ronne a waye every day .//
+CLERK,201.013.153
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_013:E2:1590:UNKNOWN:OTHER
+and ffor that man whome I comytted ssend hem to me CLERK,201.013.154
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_013:E2:1590:UNKNOWN:OTHER
+and I wyll derect hem or any that you have ffound sethens my
+$departtynge {TEXT:depttynge} last w=th= you . CLERK,201.013.155
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_013:E2:1590:UNKNOWN:OTHER
+the m=r= g=r= of the victory wold ffayne have the company of Richerd
+Sissly and $Thomas {TEXT:Thoms} Jacoxke CLERK,201.013.156
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_013:E2:1590:UNKNOWN:OTHER
+ffare you well CLERK,201.013.157
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_013:E2:1590:UNKNOWN:OTHER
+ffrom her ma=tis= house at the Dock new portes mouthe the xxvij=th= day
+of $marche {TEXT:mche} An=o= CLERK,201.013.158
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_013:E2:1590:UNKNOWN:OTHER
+yo=r= Louinnge ffrend John Thoms CLERK,201.013.159
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_013:E2:1590:UNKNOWN:OTHER
+I pray comend me to my cossen m=r= gad a marchant of $london
+{TEXT:londo} CLERK,201.013.160
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_013:E2:1590:UNKNOWN:OTHER
+I p=r=ay all the men yfe you thinke good to save ther lyves that
+<P_202> ar absent to take ther mony ; CLERK,202.013.161
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_013:E2:1590:UNKNOWN:OTHER
+as w=m= winters p=r=ese CLERK,202.013.162
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_013:E2:1590:UNKNOWN:OTHER
+and now fr the victorys prese CLERK,202.013.163
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_013:E2:1590:UNKNOWN:OTHER
+ffor yfe I shuld send them to winchester they must arainge be ffor the
+Judge CLERK,202.013.164
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_013:E2:1590:UNKNOWN:OTHER
+and no way but deth in ffor sakinge the quens $servis {TEXT:svis} .
+CLERK,202.013.165
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_013:E2:1590:UNKNOWN:OTHER
+this is to mytch favor shewd CLERK,202.013.166
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_013:E2:1590:UNKNOWN:OTHER
+but let it not be knowen yt come from me CLERK,202.013.167
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_013:E2:1590:UNKNOWN:OTHER
+{ED:ADDRESS} To the worshipffull m=r= maior of hampton or his deput
+geve this in hast CLERK,202.013.168
+
+AUTHOR:JOHN_THOMS:MALE:_:_:_
+RECIPIENT:PETER_STONOR:MALE:_:_:_
+LETTER:CLERK_013:E2:1590:UNKNOWN:OTHER
+hast CLERK,202.013.169

@@ -1,0 +1,1595 @@
+<B_PORY>
+
+<Q_POR_A_1610_T_JPORY> <L_PORY_001> <A_JOHN_PORY> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1572> <R_RALPH_WINWOOD> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1563?>
+
+<P_65>
+
+{ED:A_ABOUT_PARLIAMENT._JOHN_PORY_TO_SIR_RALPH_WINWOOD,_17_JULY_
+161O,_DUKE_OF_BUCCLEUCH,_DRUMLANRIG_CASTLE,_THORNHILL,_DUMFRIESSHIR E.}
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+Right honourable my very good lord My letters dated yesterday being
+Monday the 16. of July , I supposed , should have bene delivered by
+Captain Conway ; PORY,65.001.1
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+but his journey being putt off till Thursday , my lady your best friend
+hath recommended them to this bearer . By whom <paren> because this day
+in the successe may proove either the happiest or the unhappiest
+parliament day since his Majesties coming in </paren> I $can $not
+{TEXT:cannot} but advertise your lordship what hath passed .
+PORY,65.001.2
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+This morning my lord Treasurer , who together with my lord Privy Seal ,
+my lord Chamberlain , & my lord of Worcester went yester night to
+<P_66> Thebalds to know his Majesties pleasure returned this answere to
+our 6. last demandes which we presented as additions to be putt into
+the bargain which we are now to make with his Majesty . PORY,66.001.3
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+To the first & second , <paren> which were that in case of 1.
+outlawries & 2. attaindours the debte of the delinquent should first be
+payd before his Majesty should make any seisure </paren> it was
+answered his Majesty was well pleased to graunt them . PORY,66.001.4
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+To the third and fourth , <paren> namely 3. that it might be lawful to
+arrest the kings servante without leave ; and 4. that no man should be
+inforced to lende mony to the king , nor to give a reason why he would
+not </paren> his Majesty sent us an answere , that because we brought
+presidentes of antiquity to strengthen these demandes he allowed not of
+any presidents drawn from the times of usurping or decaying princes or
+of people too bold & wanton ; that he desired not to governe in that
+commonwealth , where subjects should be assured of all thinges and hope
+for nothing , it was one thing submittere principatu~ legibus , and
+another thing submittere principatu~ subditis ; that he would not leave
+to posterity such a mark of weaknes upon his reigne : PORY,66.001.5
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+and therfore his conclusion was : Non placet petitio : non placet
+exemplum : yet with this mittigation , that in Matters of lones he
+would refuse no reasonable excuse ; nor should my lord Chamberlaine
+deny the arresting of any of his Majesties servantes if just cause were
+shewed . PORY,66.001.6
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+The fifte , 5. that in cases criminal the party accused might bring in
+witnesses to clear himselfe , was denyed by his Majesty ; because it
+would be a manie occasion of perjury . PORY,66.001.7
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+For <paren> said he </paren> if Men will forswear themselves for an oxe
+or a Sheep , how much more for to save the life of a friend .
+PORY,66.001.8
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+That it was a matter of conscience , PORY,66.001.9
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+and therfore his Majesty could not part with it for mony .
+PORY,66.001.10
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+The 6.th his Majesty granted which was the repealing of a clause of a
+statute in 34.th of Hen. 8. wherby the King had power to make arbitrary
+lawes over the Welchmen : PORY,66.001.11
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+their loyalty , faith & obedience was well knowen , PORY,66.001.12
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+and he would not leave a marke of separation upon them in point of
+freedome . PORY,66.001.13
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+From hence my lord <P_67> Tresurer came to the price , PORY,67.001.14
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+and here he said , that the King would no more rise and fall like a
+marchant ; that he would not have a flower of his crowne <paren>
+meaning the court of wards </paren> so much tossed , that it was too
+dainty to be so handled ; PORY,67.001.15
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+and then he said he must deliver the very countenance and character of
+the kings minde out of his own handwriting . Which before he read , he
+said he would acquaint us with a pleasant conceipt of his Majesty as
+concerning the numbers : PORY,67.001.16
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+9. skore M. pounds which was our number he could not affect , because
+9. was the number of the poets who were alwayes beggars though they
+served so many muses ; PORY,67.001.17
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+and eleven was the number of the Apostles when the traytour Judas was
+away PORY,67.001.18
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+and therfore might best be affected by his Majesty , PORY,67.001.19
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+but there was a mean number which might accord us both & that was ten ,
+which <paren> said my lord Tres~ </paren> is a sacred number ;
+PORY,67.001.20
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+for so many were gods commandments which tend to vertue and edification
+. PORY,67.001.21
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+This his lordship read a very short letter directed from his Majesty to
+the lordes ; some fragmentes wherof I remember to be these :
+PORY,67.001.22
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+It shall now <paren> saith his Majesty </paren> appeare , in whose hart
+sincerity is lodged , PORY,67.001.23
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+you may now be confident , saith hee , what to impart to your fellowes
+. PORY,67.001.24
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+I am loath to contract for all things . PORY,67.001.25
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+My cheef Strength I must derive from my subjects love , PORY,67.001.26
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+And because the lower house would reduce me to a more maiorum , we
+meane not to vary from that antient greatness of our predecessours .
+PORY,67.001.27
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+My demand for all together must be +L . PORY,67.001.28
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+Hereupon my lord Treasurer inferred that the King being come lower by
++L and that since he had granted sundry demands of importance never
+dreamt on , when he made his last stoupe from 14. skore to 11. skore
+thousand pounds that it would beseem us to meet with our soveraigne
+halfe way . PORY,67.001.29
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+And for my selfe <paren> saith that noble lorde </paren> no subject
+offers to his country as I have offered ; PORY,67.001.30
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+for in thus relinquishing the court of Wardes , I am robbed of my right
+arme , and of the greatest strength I have to merit the love of many :
+PORY,67.001.31
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+And therfore although as Treasurer I have pressed very far for his
+Majesties advantage , yet as Master of the Wardes I have deserved no
+imputation : PORY,67.001.32
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+what should hinder us from so eminent a good ? PORY,67.001.33
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+If poverty , it is but paupertas imaginari ! PORY,67.001.34
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+Though we go not all uno gradu , yet lett us go una via PORY,67.001.35
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+if this be refused , inter peritura vivimus , &c. PORY,67.001.36
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+And now for a close , to have <P_68> all sowernes and all jelousies
+buried at our parting , I must crave excuse & pardon of you gentlemen
+of the lower house , if any of you have conceived any mistaking to
+proceed this session out of these lipps . PORY,68.001.37
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+And the like loving opinion I treasure up concerning the generality of
+your house and of every particular person therof . PORY,68.001.38
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+And so as we were departing he called us back againe , PORY,68.001.39
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+& told us that now he had delivered his Majesties final & peremptory
+resolution , that the distance was little & the bargain advantagious if
+we now refused , his Majesty would instantly dissolve the parlament &
+would never make the like offer to this assembly . PORY,68.001.40
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+So we all returned to the house , PORY,68.001.41
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+we instantly putt it to the question , PORY,68.001.42
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+and yielded to give his Majesty a perpetual revenue of +L a yeare ;
+mary upon these conditions : First , that the court of Wardes be
+dissolved <paren> together with the dependances , which are Respite of
+Homage , Restraint of Alienation , the Prefines and the Post fines pro
+lincentia concordandi </paren> Item that Purveiance be quite taken away
+& to that ende , that the offices
+{COM:offices_CROSSED_OUT_IN_THE_EDITION} autority {ED:SIC} of the
+greencloth be putt downe ; Item that Informers be banished Item that
+his Majesty shall claime no old debts ; Item that he shall lay claime
+to no lands which have bene 3. score yeares out of his possession .
+Item that contrary to the present use , all his Majesties patentes be
+strictly interpreted against the King & benighe for the Subject . Item
+that Lessees be not turned out of possession for nonpayment ; Item that
+the subject may be permitted to plead a general plea against his
+Majesty , &ct And divers other particulars of great moment .
+PORY,68.001.43
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+Now remaines there to be resolved on the assurance , & with what cordes
+we shall binde Sampsons handes that is to say his Majesties
+prerogatives ; and secondly the maner and means of levy , which will
+proove a busines of great intricacy , PORY,68.001.44
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+and these two branches are referred till the next session of parlament
+which will be in October at the farthest . PORY,68.001.45
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+And so for this time the King and Commons are like to part in the
+lovingest termes , that {in}_P ever any subjects of England did rise
+from parlament . PORY,68.001.46
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+And here I must acquaint your lordship with a bill that is now passing
+in the higher house for his Majesties and the Princes safety inflicting
+the most Exquisite torturs upon any that attempt his Majesties death ,
+&ct PORY,68.001.47
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+What should I say more , PORY,68.001.48
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+that Sir Ferdinando Dudley heyre to the lord Dudley , was yesterday
+married to my lord Beauchamp 's only daughter , who hath +L in <P_69>
+present to her marriage , & shall have +L more . PORY,69.001.49
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+I do imagine I have perfectly tyred your lordship because I have
+wearied my selfe . PORY,69.001.50
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+Therfore here I will make a stand . PORY,69.001.51
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+To Sir Hatton Cheek I humbly desire to be remembered . PORY,69.001.52
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+God have you in his holy protection . PORY,69.001.53
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+Your lordships most humbly at commande PORY,69.001.54
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+{ED:POSTSCRIPT} Sir W. Cope , my Lady & my Mistress are all in good
+health , PORY,69.001.55
+
+AUTHOR:JOHN_PORY:MALE:_:1572:38
+RECIPIENT:RALPH_WINWOOD:MALE:_:1563?:47?
+LETTER:PORY_001:E2:1610:AUTOGRAPH:OTHER
+& remember their affectionat love & service to your lordship .
+PORY,69.001.56
+
+<Q_POR_A_1618_T_JPORY> <L_PORY_002> <A_JOHN_PORY> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1572> <R_DUDLEY_CARLETON> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1573>
+
+<P_69>
+
+{ED:A_ABOUT_THE_DEATH_OF_SIR_WALTER_RALEIGH._JOHN_PORY_TO_SIR_DU
+DLEY_CARLETON,_31_OCTOBER_1618.}
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+Right honorable and my singular good lorde , Albeit I make no doubte ,
+but your lordship shall from diverse of your friends be advertised of
+the manner of Sir Walter Raleghs death ; yet being a matter of so muche
+marke & renowne , it is fitt , that all tounges & pennes both good &
+bad shoulde be employed about it . PORY,69.002.57
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+This day Senenight therefore , as I was writing my last letter to your
+lordship Sir Walter Ralegh being sent for from the tower to come to the
+lordes at Whitehall , was there tolde by their lordships that it was
+his Majestyes pleasure he should dye upon the olde sentence ,
+PORY,69.002.58
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+and therfore willed him within three dayes to provide himselfe .
+PORY,69.002.59
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+His Majesties pleasure being resolutely so , Sir Walter became an
+humble suitour , that his Majesty would dispense with the ordinary
+punishment , and would permitte him to be beheaded . PORY,69.002.60
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+On Wednesday he was by the headsman of the Tower brought to the kinges
+benche upon a writt of Scire facias . PORY,69.002.61
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+There my lord Cheife Justice having made a shorte speache , demanded of
+Sir Walter Ralegh what he could saye for himselfe , why he <P_70>
+should not be executed upon the former sentence . PORY,70.002.62
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+His answere was , his Majesty had suffered him nowe to live 15. years
+since the pronouncing therof , and besides had given him a commission
+to be his lieutenant general over an army at sea , wherein he styled
+him , our beloved & trusty subjecte , &c gave him power of life and
+death ; which his Majesty would never have done to the man he should
+esteeme a Traytour ; PORY,70.002.63
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+Ergo this commission was equivalent to a Pardon . PORY,70.002.64
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+Mr Atturny replyed that this without a speciall pardon would not serve
+his turne ; and that if his Majesty had spared his life 15. yeares he
+was the more bounde to his clemency ; might still have continued till
+his dying day , had not he since that time have committed some things ,
+which had given his Majesty just cause of displeasure . PORY,70.002.65
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+Sir Walter Ralegh desired those things might be specified , and he
+would give satisfaction . PORY,70.002.66
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+No , said Mr Atturny , we must not enter into particulars .
+PORY,70.002.67
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+Then added my lord Chiefe Justice , that if Sir Walter had none other
+thing to alledge for himselfe , that the formere sentence must stand
+good , and that the lieutenant by vertue of a writte ought to deliver
+him to the Sheriffs of Middlesex . PORY,70.002.68
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+At the stayer foot coming downe from the kinges benche stood the clerke
+of the Crowne with the same writte directed to the lieutenant to
+deliver him , and another to the Sheriff to receive him , and to carry
+him thence to the Gatehouse , and the next morning from the gatehouse
+to the place of his beheading , which was the Parliament yarde .
+PORY,70.002.69
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+On Thursday morning therfore being my lord Mayours feast-day , before
+eight of the clock the sheriffs brought him upon the Scaffolde .
+PORY,70.002.70
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+Spectators there were besides knights & gentlemen of good quality , the
+Earle of Arondell , the Earle of Oxforde , the Earle of Nothampton , my
+lord of Doncaster , my lord Sheffeilde , my lord Percy , & some others
+. PORY,70.002.71
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+The first <P_71> words he uttered were , I give god thankes , I am come
+to dye in the light , and not in the darknes . PORY,71.002.72
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+Then because his voice was but weake , he besought their lordships to
+come out of Sir Randal Crewes windowe where they stood , and to mount
+upon the Scaffolde , which they did . PORY,71.002.73
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+Then he asked my lord of Arondel whither he had not kept touche with
+him , in not turning Pirate when he was abroad , and in coming home
+notwithstanding his ill success ? PORY,71.002.74
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+His lordship answered : yes . PORY,71.002.75
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+Then he cleared my lord Carewe & my lord of Doncaster from ever
+persuading him to goe serve the French kinge or from being acquainted
+with any suche busines , as Stukley had accused them , PORY,71.002.76
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+and besides , that he never tolde Stukely any suche thinge .
+PORY,71.002.77
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+He then denyed that ever he spoke to Mannering Sir Lewys Stukelies
+French Apothecary , any disloyal or dishonourable worde concerning the
+kinge , which seems to have bene the chief incentive of his death .
+PORY,71.002.78
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+He said farther that he never sawe any commission , letter , nor seale
+from the Frenche king . PORY,71.002.79
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+He had a desire indeed to have gone into France , to have saved his
+life & liberty & to have renewed his voyage . PORY,71.002.80
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+But he had never any plott with the Frenche king or his Agent .
+PORY,71.002.81
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+He confessed he blistered himselfe at Sir Edward Parhams and that it
+was a faulte & a weaknes , but for the saveguarde of his life ;
+PORY,71.002.82
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+and this he had $learned from a wiser man then himselfe , even Daniel
+the lordes annointed , whoe for the same ende $founde himselfe mad .
+PORY,71.002.83
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+He protested , that although he were of the Contrary faction to my lord
+of Essex , and had helped to plucke him downe , yet never had he a
+hande in his bloud , that is to saye , he was none of them that
+procured his death ; nor <paren> as he had long time bene accused
+</paren> did he rejoice or smyle at it . PORY,71.002.84
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+Hee besides affirmed that his voyage was upon no fained projecte , but
+that there is a true golde-mine within three miles of Saint Tome~ , the
+towne which his people burnte . PORY,71.002.85
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+All these & diverse other thinges <paren> which in my next I will write
+</paren> he affirmed upon his salvation , as a man that had but halfe
+an hower to live , by which time he was confident , his soule should
+peirce
+
+the <P_72> {COM:the_REPEATED} cloudes , and that nowe he was not to
+flatter even kinges , nor to feare any mortall man , PORY,72.002.87
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+and now to lye he said or to dissemble , was to affront the heavens , &
+to skorne the deity . PORY,72.002.88
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+Then the Deane of Westminster asked him in what faith or religion he
+meant to day {ED:die} ; PORY,72.002.89
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+he said in the faith professed by the Churche of Englande , and that he
+hoped to be saved , & to have his Sinnes washed away by the pretious
+bloud and Merits of our Saviour Christ . PORY,72.002.90
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+Then , before he shoulde say his prayers , because the morning was
+sharpe , the sheriff offered him to bring him downe off the scaffolde
+to warme him by a fire . PORY,72.002.91
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+No , good Mr Sheriff <paren> said he </paren> lett us dispatche ;
+PORY,72.002.92
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+for within this quarter of this hower mine ague will come upon me ,
+PORY,72.002.93
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+and if I be not dead before then mine enemies will saye that I quake
+for feare . PORY,72.002.94
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+So he made a most divine & admirable prayer , PORY,72.002.95
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+and then he rose up , PORY,72.002.96
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+clapped his handes PORY,72.002.97
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+& saide , Nowe I am going to god . PORY,72.002.98
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+He then bid the hangman shewe him his axe , which having poized in his
+hand , he felte upon the edge , saying , here is a medicin will cure me
+of all my diseases , and so delivered it the hangman againe .
+PORY,72.002.99
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+Then he putt off his gowne , PORY,72.002.100
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+untrussed himselfe , PORY,72.002.101
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+and put off his band & doublett , PORY,72.002.102
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+and most gracefully took his leave at all 4. sides of the Scaffolde .
+PORY,72.002.103
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+Laying his head downe the block , he was angry with the hangman that
+would have blindfolded his eyes , saying you thinke I feare the shadowe
+of the axe , when I fear not the axe itself . PORY,72.002.104
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+And so when he should holde up his handes saying his last prayer he bad
+him strike . PORY,72.002.105
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+Many other circumstances , and pointes of substance there were bothe
+before and at the time of his execution , which were very memorable ;
+PORY,72.002.106
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+but nowe mine other occasions will not suffer me to recount all .
+PORY,72.002.107
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+The rest I must of force leave till the next Satturday .
+PORY,72.002.108
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+Meane while & ever wishing your lordship and my most honoured lady all
+imaginable felicity , I reste Your lordships ever most humbly at your
+service PORY,72.002.109
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+{ED:POSTSCRIPT} This night the king is said to be come to Whitehall .
+PORY,72.002.110
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+The Queene at Hampton court is prettily recovered of her sickness ,
+PORY,72.002.111
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+she eates her meat PORY,72.002.112
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+& sleeps well , PORY,72.002.113
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+onely hath some debility in her feet . PORY,72.002.114
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+Mr Richard Martin the newe Recorder lyes a dying . PORY,72.002.115
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+Our East India Company have contracted with the king of Persia to bring
+all the silkes of that Empire by way of the Persian Gulfe , paying one
+third in mony , & the other two thirdes in comodity . PORY,72.002.116
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+So <P_73> shall they undoe the Turke bring that for +L by the yeare ,
+which costeth Christendome +L PORY,73.002.117
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+and unspeakably inriche our kingdome , themselves at leaste .
+PORY,73.002.118
+
+AUTHOR:JOHN_PORY:MALE:_:1572:46
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:45
+LETTER:PORY_002:E2:1618:AUTOGRAPH:OTHER
+{ED:MARGINAL_NOTE} Every man that sawe Sir Walter Ralegh dye sayd it
+was impossible for any man to shewe more Decorum , courage , or piety ;
+and that his death will doe more hurte to the faction that sought it ,
+then ever his life could have done . PORY,73.002.119
+
+<Q_POR_A_1619_T_JPORY> <L_PORY_003> <A_JOHN_PORY> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1572> <R_DUDLEY_CARLETON> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1573>
+
+<P_106>
+
+{ED:A_ABOUT_VIRGINIA._JOHN_PORY_TO_SIR_DUDLEY_CARLETON,_30_SEPTE
+MBER_1619.}
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+Right honorable and my singular good lorde , Having mett with so fitt a
+messenger as this man of warre of Flushing , I could not but imparte
+with your lordship <paren> to whom I am so everlastingly bounde
+</paren> these poore fruites of our labours here ; wherein though your
+lordship will espie many errors & imperfections , and matters of lowe
+esteeme ; yet withall you $will $be {TEXT:wilbe} contente to observe
+the very principle and rudiments of our Infant-Comonwealth ; which
+though nowe contemptible , your lordship may live to see a flourishing
+Estate ; maugre both Spaniards & Indians . PORY,106.003.120
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+The occasion of this ships coming hither was an accidental consortship
+in the West Indies with the Tresurer an English man of warre also ,
+licensed by a Comission from the Duke of Savoye to take Spaniards as
+lawfull prize . PORY,106.003.121
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+This ship the Treasurer wente out of England in Aprill was twelvemoneth
+, about a moneth , I thinke , before any peace was concluded between
+the king of Spaine & that prince . PORY,106.003.122
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+Hither shee came to Captaine Argall then governor of this Colony ,
+being parte-owner of her . PORY,106.003.123
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+Hee more for love of gaine the root of all evill , then for any true
+love he bore to this Plantation , victualled & manned her anewe ,
+PORY,106.003.124
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+and sente her with the same Comission to raunge the Indies . The evente
+whereof <paren> we may misdoubte </paren> will proove some attempte of
+the Spaniard upon us , either by waye of revenge , or by way of
+prevention ; least we might in time make this place sedem belli against
+the West Indies . PORY,106.003.125
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+But our Governor being a soldier truly bred in that university of warre
+<P_107> the lowe Countries , purposeth at a place or two upon the river
+fortifiable to provide for them , animating in the meane while this
+warlike people <paren> then whom for their small number , no prince can
+be served with better </paren> by his example to prepare their courages
+. PORY,107.003.126
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+Both those of our nation and the Indians also have this Torride sommer
+bene visited with great sicknes & mortality ; which our good God
+<paren> his name be blessed for it </paren> hath recompensed with a
+marvelous plenty , suche as hath not bene seen since our first coming
+into the lande . PORY,107.003.127
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+For my selfe I was partly at land & partly at sea vexed with a
+Calenture of some 4. or 5. moneths . PORY,107.003.128
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+But <paren> praised be god </paren> I am nowe as healthfull as ever I
+was in my life . PORY,107.003.129
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+Here <paren> as your lordship $can $not {TEXT:cannot} be ignorant
+</paren> I am , for faulte of a better , Secretary of Estate , the
+first that ever was chosen and appointed by Commission from the
+Counsell and Company in England , under their handes & common seale .
+PORY,107.003.130
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+By my fees I must maintaine my selfe ; which the Governor telles me ,
+may this yeare amounte to a matter of +L sterling ; wherof fifty I doe
+owe to himselfe , PORY,107.003.131
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+and I pray God the remainder may amounte to a hundred more .
+PORY,107.003.132
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+As yet I have gotten nothing , save onely <paren> if I may speak it
+without boasting , </paren> a general reputation of integrity , for
+having spoken freely to all matters , according to my conscience ; and
+as neare as I could discerne , done every man right . PORY,107.003.133
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+As touching the quality of this country , three thinges there bee ,
+which in fewe yeares may bring this Colony to perfection ; the English
+plough , Vineyards , & Cattle . PORY,107.003.134
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+For the first , there be many grounds here cleared by the Indians to
+our handes , which requireth an extraordinary deale of sappe &
+substance to nourish it : PORY,107.003.135
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+but of our graine of all sortes it will beare great abundance .
+PORY,107.003.136
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+We have had this yeare a plentifull cropp of English wheat , tho the
+last harvest 1618. was onely shed upon the stubble , and so selfe-sowne
+, without any other manurance . PORY,107.003.137
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+In July last so soon as we had reaped this selfe-sowne wheate , we sett
+Indian corne upon the same grounde , which is come up in great
+abundance ; PORY,107.003.138
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+and so by this meanes we are to enjoye two crops in one yeare from off
+one & the same fielde . PORY,107.003.139
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+The greattest labour we have yet bestowed upon English wheate , hath
+bene , upon newe broken up groundes , one ploughing onely & one
+harrowing , far shorte of the Tilthe used in Christendome , which when
+we shall have ability enough to performe we shall produce miracles out
+of this earthe . PORY,107.003.140
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+Vines here are in suche abundance , as wheresoever a man treads , they
+are ready to embrace his foote . PORY,107.003.141
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+I have tasted here of a great black grape as big as a Damascin <P_108>
+that hath a true Muscatell-taste ; the vine wherof now spending itselfe
+even to the topps of high trees , if it were reduced into a vineyard ,
+and there domesticated , would yeild incomparable fruite .
+PORY,108.003.142
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+The like or a better taste have I founde in a lesser sorte of black
+grapes . PORY,108.003.143
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+White grapes also of great excellency I have hearde to be in the
+country ; PORY,108.003.144
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+but they are very rare , PORY,108.003.145
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+nor did I ever see or taste of them . PORY,108.003.146
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+For cattle , they do mightily increase here , both kine , hogges , &
+goates , PORY,108.003.147
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+and are much greater in stature , then the race of them first brought
+out of England . PORY,108.003.148
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+No lesse are our horses and mares likely to multiply , which proove of
+a delicate shape , & of as good spirite & metall . PORY,108.003.149
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+All our riches for the present doe consiste in Tobacco , wherein one
+man by his own labour hath in one yeare , raised to himselfe to the
+value of +L sterling ; and another by the meanes of sixe servants hath
+cleared at one crop a thousand pound English . PORY,108.003.150
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+These be true , yet indeed rare examples , yet possible to be done by
+others . PORY,108.003.151
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+Our principall wealth <paren> I should have said </paren> consisteth in
+servants : PORY,108.003.152
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+but they are chardgeable to be furnished with armes , apparell , &
+bedding , and for their transportation , and casuall both at sea , &
+for their first yeare commonly at lande also : PORY,108.003.153
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+but if they escape , they proove very hardy , and sound able men .
+PORY,108.003.154
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+Nowe that your lordship may knowe , we are not the veriest beggers in
+the worlde , PORY,108.003.155
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+our Cowe-keeper here of James citty on Sundayes goes acowtered all in
+freshe flaming silkes PORY,108.003.156
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+and a wife of one that in England had professed the black arte not of a
+scholler but of a collier of Croydon , weares her rough bever hatt with
+a faire perle hattband , and a silken suite thereto correspendent .
+PORY,108.003.157
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+But to leave the Populace , and to come higher , the Governor here ,
+who at his first coming , besides a great deale of worth in his person
+, brought onely his sworde with him , was at his late being in London ,
+together with his lady , out of his meer gettings here , able to
+disburse very near three thousand pounde to furnishe himselfe for his
+voiage . PORY,108.003.158
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+And once within seven yeares , I am persuaded <paren> absit invidia
+verbo </paren> that the Governors place here may be as proffitable as
+the lord Depuities of Irland . PORY,108.003.159
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+All this not withstanding , I may say of my selfe , that when I was the
+last yeare with your lordship at Middleborough , si mens non laeua
+fuisset , I might have gone to the Hagh with you , and founde my selfe
+there now in far better company , which indeed is the soule of this
+life , and might have bene deeply ingrafted <P_109> into your lordships
+service , which since I have a thousand times affected in vaine .
+PORY,109.003.160
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+And therfore seing I have missed that singular happines , I must for
+what remaines , depend upon Gods providence , who , my hope is , $will
+$be {TEXT:wilbe} so merciful towards me , as once more before I dye ,
+to vouchsafe me the sight of your countenance , wherein , I speak
+unfainedly , I shall enjoye as muche happines as in any other thing I
+can imagine in this worlde . PORY,109.003.161
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+At my first coming hither the solitary uncouthnes of this place ,
+compared with those partes of Christendome or Turky where I had bene ;
+and likewise my being sequestred from all occurrents and passages which
+are so rife there , did not a little vexe me . PORY,109.003.162
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+And yet in these five moneths of my continuance here , there have come
+at one time or another eleven saile of ships into this river , but
+fraighted with ignorance , then with any other marchandize .
+PORY,109.003.163
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+At length being hardned to this custome of abstinence from curiosity ,
+I am resolved wholly to minde my busines here , and nexte after my
+penne , to have some good book alwayes in store , being in solitude the
+best and choicest company . PORY,109.003.164
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+Besides among these Christall rivers , & odoriferous woods I doe escape
+muche expense , envye , contempte , vanity , and vexation of minde .
+PORY,109.003.165
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+Yet Good my lorde , have a little compassion upon me , PORY,109.003.166
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+and be pleased to sende me , what pamphletts and relations of the
+Interim since I was with you , as your lordship shall thinke good ,
+directing the same <paren> if you please </paren> in a boxe to Master
+Ralfe Yeardley Apothecary <paren> brother to Sir George Yeardley our
+governour </paren> dwelling at the signe of the Hartychoke in great
+Woodstreet , to be sente to me by the first , together with his
+brothers thinges . PORY,109.003.167
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+This pacquett I delivered to one Marmaduke Rayner , an Englishman , who
+goes intertained as Pilott in this Flemishe man of warre .
+PORY,109.003.168
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+If he come to your lordship , as he hath promised , he $will $be
+{TEXT:wilbe} the fittest messenger . PORY,109.003.169
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+All possible happines I wishe to your lordship , and to my most
+honoured lady ; PORY,109.003.170
+
+AUTHOR:JOHN_PORY:MALE:_:1572:47
+RECIPIENT:DUDLEY_CARLETON:MALE:_:1573:46
+LETTER:PORY_003:E2:1619:AUTOGRAPH:OTHER
+and though remote in place , yet neare in affection , doe reste Your
+lordships ever most humbly at your commaunde PORY,109.003.171
+
+<Q_POR_A_1632_T_JPORY> <L_PORY_004> <A_JOHN_PORY> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1572> <R_JOHN_SCUDAMORE> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1601>
+
+<P_126>
+
+{ED:A_OF_LONDON_NEWS._JOHN_PORY_TO_JOHN_SCUDAMORE,_4_FEBRUARY_16 32.}
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Right Honorable : Since my last unto your lordship I understand that
+Doctor Freewin having about a yeare agon erected an altar with a Canopy
+over it , in Magdalen Colledge chappell in Oxford where hee is
+president , hath nowe this winter caused a faire Crucifixe to be
+painted above the same altar with the pictures of the Virgin Mary and
+Mary Magdalen sitting weeping at the foot thereof , as the use is at
+Rome , Madrid , Brussells , or any other place where the Roman
+Catholique religion most prevaileth . PORY,126.004.172
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Likewise in the East chancell-window of St. Gregories church newly
+repaired , which leaneth upon the Southwest corner of Paules one Mr
+Hart a Proctor hath caused another Crucifixe <P_127> to be painted ,
+whereat some of the Parishe doe repine , but knowe not yet how to mende
+themselves . PORY,127.004.173
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+On Munday the lord high Constables Court for tryall of the two
+Scottishmen was a thirde time adjourned untill Munday next :
+PORY,127.004.174
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+for I heare their lordships at the Counsell board $can $not
+{TEXT:cannot} yet agree , whether the busines shall ende in a combat ,
+or bee referred to the Common lawe . PORY,127.004.175
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Upon Wedensday one Mr Carrier a Minister was censured in the Starr
+chamber at +L fine , and imprisonment during the kinges pleasure , and
+referred over to the high Commission for Royots , oppressions ,
+extorsions , Champerties , &ct and for prophane speaking , so that they
+haste but a payer of shires between our Religion and Popery , and that
+it skill'd not which of the twoe a man professed . That whether there
+were a Purgatory or noe was a disputable question and a man might holde
+the affirmative as safely as the negative . That so the Clergy might
+fetche their meanes and maintenance out of the Layty , it made no
+matter if the Layty went to the Divell . Upon which point my lord
+Bishop of Winchester said among other thinges , that one Doctor Carrier
+<paren> who afterward turned Papist , and fled beyond sea </paren>
+preaching in the chappell before King James some pointes of Popery ,
+after the sermon ended a reverend Judge then present said to his
+lordship If you have any letters to sende to Rome here is a Carrier
+going that waye . PORY,127.004.176
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+But <paren> said his lordship </paren> this second Carrier will not
+perhaps goe to Rome , PORY,127.004.177
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+but will goe by Rome to the Divell . PORY,127.004.178
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Also his lordship wish't that the old prayer of K. Ed. the 6th his time
+might be inserted againe into the Litany , to this or the like effect
+From the Tyranny of the Pope , and from his Idolatry and Superstition :
+good lord deliver us . PORY,127.004.179
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Three of the lordes fined him at +L PORY,127.004.180
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+but the major part stood for +L PORY,127.004.181
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+and therefore he escaped so good cheap . PORY,127.004.182
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Some thinges well chardg'd against him in the bill were but weakly
+proov'd , PORY,127.004.183
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+and other thinges well proov'd were but weakly charg'd , which was the
+chief cause why his punishment was so light . PORY,127.004.184
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Yesterday Sir Richard Grenvill of the west was in the same court
+censured at +L <paren> +L fine to the king , and <P_128> +L damages to
+my lord of Suffolke </paren> for calling his lordship a base lorde .
+PORY,128.004.185
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Within the compasse of this week also Mr Walter Steward having mett
+with Sir Miles Fleetwood Treasurer of the Court of Wardes at my lord
+Treasurers , said he was a briber and hee would proove him so , and
+would lay him flatt on his back as hee had done the Earle of Middlesexe
+; yea more , that he was a base knave , and that hee went to twoe
+sermons on a Sunday , and that on Munday morning hee would sell his
+friend for twoe shillings . PORY,128.004.186
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Of this affronte Sir Miles complaining to the lordes , their lordships
+enjoined Mr Steward to give him in their presence such satisfaction as
+they thought reasonable . PORY,128.004.187
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Their lordships made my lord Thurles of Irland also to doe the like
+satisfaction to Captaine Essex . PORY,128.004.188
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+The occasion was this . PORY,128.004.189
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+This Captaine attending and accompanying my Lady of Essex in a boxe in
+the playhouse at the black fryers , the said lord coming upon the stage
+, stood before them and hindred their sight . PORY,128.004.190
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Captain Essex told his lordship they had payd for their place as well
+as hee , PORY,128.004.191
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+and therfore intreated him not to deprive them of the benefitt of it .
+Whereupon the lord stood up yet higher and hindred more their sight .
+PORY,128.004.192
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Then Capt. Essex with his hand putt him a little by . PORY,128.004.193
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+The lord then drewe his sword PORY,128.004.194
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+and ran full butt at him , though he missed him , PORY,128.004.195
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+and might have slaine the Countesse as well as him . PORY,128.004.196
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Another quarrell was between the lord Edward Paulet brother to the
+Marques of Winchester and Mr Frederick Cornwalleis <P_129> of the Court
+. PORY,129.004.197
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Hee kickt Mr Cornwalleis out of a report or Jelousy , PORY,129.004.198
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+he should have said , his lordship had the poxe . PORY,129.004.199
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Their lordships at the bourd enjoining his lordship to doe some
+satisfaction to Mr Cornwalleis , and he refusing , hee was sent to the
+Marshallseyes . PORY,129.004.200
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Mr Walter Long being redelivered by the sheriff back into the Tower
+meeting with the Lieutenant tolde him : I am come back with my head on
+my shoulders . PORY,129.004.201
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+What mean you by that , said Mr Lieutenant . PORY,129.004.202
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+I tell you this <paren> quoth Mr Long </paren> because the last man
+whom the sheriff carried hence was brought hither again head lesse .
+PORY,129.004.203
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+The Barons of the Exchequer have given the same Mr Long respitt till
+next Wedensday to bring in his answere to Sir Robert Heaths bill ,
+which if he doe not they will then take it pro confesso , and send for
+the Extents upon his lande . PORY,129.004.204
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+One that dwelles in the Tower tolde me yesterday , that Sir John Elyot
+, when he was remooved out of the kinges lodging was putt to a place
+called Coleharbour , being part of the great square tower , and one of
+the vilest lodgings in all the house . Where when his eyes were almost
+smoak'd out , praying the Lieutenant he might have a lodging where he
+might live at least , Mr Lieutenant borrowed the house of my lord Vere
+Master of the Ordinance , which next unto the privy lodginges is the
+best in all the Tower , and standes upon the highest ground .
+PORY,129.004.205
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Sir John Heydon , Lieutenant of the Ordinance there , hath called all
+the officers that are under him to an account , what hath bene issued ,
+of Ordinance , munitions , &ct , out of the kinges stores , since the
+yeare . PORY,129.004.206
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+And it is like to cost somebody the setting on . PORY,129.004.207
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+He hath also a project inhande to have armes of all kindes to be made
+here in England , sufficient for the use of the kingdome , that we may
+not be beholding to strangers for them . PORY,129.004.208
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+And to finde out where any man that should have armes , doe want them ,
+hee is about to obtaine of his Majesty that a generall muster may be
+made throughout all England & Wales in one & the same daye ; so that
+none of the <P_130> divers parishes may lend or borrow armes .
+PORY,130.004.209
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Sir Francis Nethersall Secretary to the Queen of Bohemia is newly
+returned from her , saying , he thinkes veryly ere this , that both
+kinges are mett , the king of Bohemia having sett forth from the Hagh
+on Tuesday was fortnight . PORY,130.004.210
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+At his departure the states presented him +L in money , and the Prince
+of Orange with +L and eight goodly coach-horses . PORY,130.004.211
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+And the States tolde him , that whatsoever his brother of Great Britain
+would doe for him , they would doe as muche . PORY,130.004.212
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+If he would send him men into the Palatinat , they would send also :
+PORY,130.004.213
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+and if he would send ten thousand , they would send as many .
+PORY,130.004.214
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Besides the people of Holland shewed more affection toward him at his
+departure , then ever they did before , honouring him with acclamations
+, farewells , and benedictions , as if he had bene their naturall
+Prince . PORY,130.004.215
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Three things of late have bene muche agitated here in mens mouths .
+PORY,130.004.216
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+First the relief of Magdenburg by Count Papenheim . PORY,130.004.217
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Secondly that the king of Sweden should be taken prisoner .
+PORY,130.004.218
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+And 3dly that the French king & hee should be fallen out .
+PORY,130.004.219
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+As touching the first , I am tolde out of letters from Leipsig and from
+Hamburgh , that Papenheim being too strong for Bannier the kinges
+General which layd siedge to the Towne , Bannier suffred him to enter
+it without any resistance . <paren> Where some say , he burnt the
+Cathedrall church and all the houses remaining , and blewe up some of
+the chief Bulwarkes , and so brought all the Emperors garrison & their
+baggage out of the towne : others that he onely took out the sick which
+he carried away in carts & waggons and left strong men in their places
+. </paren> PORY,130.004.220
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+But all agree that Oxenstierne great Chancelour of Sweden coming luckly
+that way with brave horse did adde such strength & countenance to the
+kinges army , as when Papenheim was come clear out of the towne , they
+charg'd him on the reare , routed all his troupes , in so much as with
+15. horse he was forced to flee into Wolfenbuttle . PORY,130.004.221
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+That the king of Sweden was taken prisoner is a fable ; the morall
+wherof is this . PORY,130.004.222
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+When hee went to visit and welcome his Queen , shee embraced him with
+this Salutation : PORY,130.004.223
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Sir , nowe you are my prisoner nowe . PORY,130.004.224
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+And for the French king , I heard Sir D. A. late Agent in the lowe
+countries say , it was very dangerous for the French king at this time
+be at Jarres with the king of Sweden , not onely because Monsieur
+<paren> who aspires at his Crowne </paren> is nowe regaled like a king
+in Brussells with men in his traine ; <P_131> but also for that the
+Emperor laboureth now might and maine with the king of Sweden for a
+peace , suche as might be honorable to him , and safe for the German
+Protestants his friends . So that in case the French king might have
+the courage and power to impeach any of that kinges designes , he might
+then abandon him , and leave him to the mercie of the house of Austria
+. PORY,131.004.225
+
+AUTHOR:JOHN_PORY:MALE:_:1572:60
+RECIPIENT:JOHN_SCUDAMORE:MALE:_:1601:31
+LETTER:PORY_004:E2:1632:AUTOGRAPH:OTHER
+Your lordships most humble servant PORY,131.004.226

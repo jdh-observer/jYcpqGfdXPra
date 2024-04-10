@@ -1,0 +1,4855 @@
+<B_SIGNET>
+
+<Q_SIG_C_1410S?_T_HENRY5> <L_SIGNET_001> <A_HENRY_V_SIGNET?[HAMOND_EX]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_PRIVY_COUNCIL>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_84>
+
+{ED:1}
+
+{ED:EARLY_DATE?_C81/1326:36_SIGNET_OF_HENRY_V?_[EXEMPLAR]}
+
+AUTHOR:HENRY_V_SIGNET?[HAMOND_EX]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_001:M3:1410S?:COPY:OTHER
+By the Kyng SIGNET,84.001.1
+
+AUTHOR:HENRY_V_SIGNET?[HAMOND_EX]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_001:M3:1410S?:COPY:OTHER
+Trusty and welbeloued . ffor asmuche as in certain matiers +tat gretely
+touchen and concernen +te good / weele / and worship of vs our Landes
+lordships and subgittes We haue willed our Comissaries berers herof to
+commen with you : We woll / desire / and pray you +terfore hertely /
++tat in suche +tinges as +tat +tei or eny of +teim woll shewe declare /
+and sey vnto you on our behalf : ye woll yeue vnto hem / and to eche of
+hem full feith and credence : SIGNET,84.001.2
+
+AUTHOR:HENRY_V_SIGNET?[HAMOND_EX]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_001:M3:1410S?:COPY:OTHER
+And we pray you +tat ye leue not +tis as ye woll +te good weele / and
+worship abouesaid : SIGNET,84.001.3
+
+AUTHOR:HENRY_V_SIGNET?[HAMOND_EX]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_001:M3:1410S?:COPY:OTHER
+Yeuen vndre our priue seel at westminstre +te .xx. day of Iuyll
+SIGNET,84.001.4
+
+AUTHOR:HENRY_V_SIGNET?[HAMOND_EX]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_001:M3:1410S?:COPY:OTHER
+This style of trusty and welbeloued may be direct to oon persone / or
+to as many to gider as shal lyke +te said Commissioners :
+SIGNET,84.001.5
+
+AUTHOR:HENRY_V_SIGNET?[HAMOND_EX]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_001:M3:1410S?:COPY:OTHER
+And it may serue for all maner men yif nede be except Bisshops :
+SIGNET,84.001.6
+
+AUTHOR:HENRY_V_SIGNET?[HAMOND_EX]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_001:M3:1410S?:COPY:OTHER
+Item +te said style of Trusty and welbeloued may serue for Citees
+Tovneships and Cominaltees after +tis tennour in +te taile of +te
+lettre : SIGNET,84.001.7
+
+AUTHOR:HENRY_V_SIGNET?[HAMOND_EX]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_001:M3:1410S?:COPY:OTHER
+To our trusty and welbeloued +te thrifty men notable persones and
+Cominalte of our Citee of . A. or of the Tovne of . B. and to eueriche
+of +teim . SIGNET,84.001.8
+
+AUTHOR:HENRY_V_SIGNET?[HAMOND_EX]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_001:M3:1410S?:COPY:OTHER
+To +te Right Dere in god / and Dere in god eueriche of +tees styles may
+serue for Abbottes / Prioures / Denes Archediacones . And for nede for
+thrifty Persons SIGNET,84.001.9
+
+AUTHOR:HENRY_V_SIGNET?[HAMOND_EX]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_001:M3:1410S?:COPY:OTHER
+Hamond SIGNET,84.001.10
+
+{ED:HAMMOND'S_HAND}
+
+<Q_SIG_C_1417_T_HENRY5> <L_SIGNET_002> <A_HENRY_V_SIGNET[SHIRYNGTON?]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_84>
+
+{ED:2}
+
+{ED:1417_C81/1364:34_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_002:M3:1417:COPY:OTHER
+By +te kyng : SIGNET,84.002.11
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_002:M3:1417:COPY:OTHER
+S SIGNET,84.002.12
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_002:M3:1417:COPY:OTHER
+Worshipful fader yn god . We sende yow closed wi+tin +tis lettre a
+cedule contenyng +te names of certein maistres / for owr owne grete
+shippes Carrakes Barges and Balyngers to +te whiche maistres we haue
+granted annuitees / suche as is appointed vpon eche of hem : in +te
+same cedule / to take yerely of owre grante while +tat vs lust : at owr
+Eschequer of westminstre / atte +te termes of Michelmasse and Ester by
+Euen porcions . Wherfore we wol and charge yow +tat vnto eche of +te
+said maistres / ye do make / vnder owr grete seel beyng in yowre <P_85>
+warde owr lettres patentes sauerales en due forme after +teffect and
+pourport of owr said $grante . SIGNET,85.002.13
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_002:M3:1417:COPY:OTHER
+yeuen vnder owr signet atte owr Castel of Touque +te xij. day of Aoust
+: SIGNET,85.002.14
+
+{ED:HAND_POSSIBLY_SHIRYNGTON'S}
+
+<Q_SIG_C_1417_T_HENRY5> <L_SIGNET_003> <A_HENRY_V_SIGNET[HAND_X]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_85>
+
+{ED:3}
+
+{ED:1417_C81/1364:36_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HAND_X]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_003:M3:1417:COPY:OTHER
+By +te kyng SIGNET,85.003.15
+
+AUTHOR:HENRY_V_SIGNET[HAND_X]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_003:M3:1417:COPY:OTHER
+Worshipful fader in god . ffor as muche as We haue ordeined and
+assigned our Welbeloued seruant Robert Rodyngton . to be surueour of
++te makyng of our toures at Portesmouth . We wil +tat ye do make vnder
+our greet seel a Commission to +te same Robert . suche as ye +tenke
+resonable and necessarie for +te goode and hastie spede . of our werkes
+forsaid . during while vs lust . SIGNET,85.003.16
+
+AUTHOR:HENRY_V_SIGNET[HAND_X]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_003:M3:1417:COPY:OTHER
+Yeuen in oure Towne of Caen +te .ve. day of Septembre vnder our signet
+SIGNET,85.003.17
+
+{ED:HAND_X}
+
+<Q_SIG_C_1417_T_HENRY5> <L_SIGNET_004> <A_HENRY_V_SIGNET[CHANCERY1]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_PRIVY_COUNCIL>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_86>
+
+{ED:5}
+
+{ED:1417_SC1/43:157_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY1]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_004:M3:1417:COPY:OTHER
+By +te Kyng : SIGNET,86.004.18
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY1]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_004:M3:1417:COPY:OTHER
+Trusty and Welbeloued . By a supplicacion of greuouse compleinte .
+putte vnto vs yn name of +te Priour and Couent of oure cathedrale
+chirche of Bathe . We haue vnderstande how albeit +tat of tyme passed
+mynde it hath be vsed and acustumed +tat ye of +te Cite of Bathe .
+shulde ryng no belle / no day <em> in +te week </em> til +tey of +te
+<em> said chirche </em> hadden first rong +tair belles . Neither at
+night aftir +te tyme +tat +tey had rong / yit {ED:...} a+geinstonding
++te long continuance of +te same vsag and custume . ye of late tyme
+haue do +te contrary and wilfully do fro day to day . yn greet disese
+and preiudice of +te forseide Priour and Couent . but if remede
+couenable be ordeined +ter vppon . Wharfor we wol if it so be . and
+charge you expressely +tat ye cesse of al suche manere newe and
+wilfulle gouernance yn +te matire forsaide . and conforme yn to +te
+gode custume of olde tyme vsed and continued here a fore . vnto oure
+comyng with +te grace of god ynto our Realme of Englond . +tat we may
+haue ful knowloche of +te matire and to ordeine suche remede +ter vppon
+as we shal be +tan auised . by wey of trouthe and of right .
+SIGNET,86.004.19
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY1]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_004:M3:1417:COPY:OTHER
+Yeuen vnder our signet at oure towne of Caen +te xxiij. day of
+Septembre SIGNET,86.004.20
+
+{ED:CHANCERY_HAND}
+
+<Q_SIG_C_1417_T_HENRY5> <L_SIGNET_005> <A_HENRY_V_SIGNET[SHIRYNGTON?]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_86>
+
+{ED:6}
+
+{ED:1417_C81/1364:38_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_005:M3:1417:COPY:OTHER
+By +te Kyng SIGNET,86.005.21
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_005:M3:1417:COPY:OTHER
+S SIGNET,86.005.22
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_005:M3:1417:COPY:OTHER
+Worshipful fader in god / ryght trusty and welbeloued / yf +ter be eny
+trewes to be taken now +tis wynter / betwene vs and +te Scottes . We
+Wold +tat owr vncle of Excetre my+gt come to vs wi+t his good heelp
+SIGNET,86.005.23
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_005:M3:1417:COPY:OTHER
+and pray yow / +tat after yowre good auis and discrecion / ye ordeyne
+for +tis in +te best wise / +tat {in}_P ye can / SIGNET,86.005.24
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_005:M3:1417:COPY:OTHER
+for +tat doon . we wold / owr said vncle were wi+t us wi+t his good
+heelp als sone as he mi+gt +tow hit were yitte wi+t the fewer meyne .
+SIGNET,86.005.25
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_005:M3:1417:COPY:OTHER
+Also we send a lettre to owr cosin +te Bysshop of Excetre for maistre
+Iohn Copthorn to <em> come to </em> vs / and a no+ter to +te Bysshop of
+Lincoln / for maistre Thomas Brounce in +te same wise the whiche
+lettres we pray yow / +tat +tey <P_87> be redely send for+te . and +tat
+in al haast / as we trust to you / SIGNET,87.005.26
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_005:M3:1417:COPY:OTHER
+And +te holy Trinite haue yow alwey in his kepyng . SIGNET,87.005.27
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_005:M3:1417:COPY:OTHER
+Wreten vnder owr signet atte owr Towne of Caen +te xxv day of Septembre
+. SIGNET,87.005.28
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_005:M3:1417:COPY:OTHER
+ffer+termore we wol +tat to +te chirche of hambury +tat is voide by
+maistre William Corff / +tat is passed to god . as hit is said and
+longe+t to owr yifte / be presented $in
+{ED:EMENDED_WORD_SUPERIOR_INSERT} owr name Iohn woborne oon of +te
+prestes of owr Chapelle +tat soiourneth at wyndesore by owr lettres
++terof to be maad in due forme : Also +tat ye do make lettres patente
+vnto maistre Richard holme to be maistre of owr College of Cambrigg /
+as maistre Ricard Derham was . SIGNET,87.005.29
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_005:M3:1417:COPY:OTHER
+Also we haue yeuen to Will. hayton +tempension of Saresbury , +tat whan
+tyme is ye do him haue suche lettres +ter upon / as +te cas asketh
+SIGNET,87.005.30
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_005:M3:1417:COPY:OTHER
+G G SIGNET,87.005.31
+
+{ED:HAND_POSSIBLY_SHIRYNGTON'S}
+
+<Q_SIG_C_1417_T_HENRY5> <L_SIGNET_006> <A_HENRY_V_SIGNET[HAND_X]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_87>
+
+{ED:7}
+
+{ED:1417_C81/1364:39_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HAND_X]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_006:M3:1417:COPY:OTHER
+By +te Kyng SIGNET,87.006.32
+
+AUTHOR:HENRY_V_SIGNET[HAND_X]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_006:M3:1417:COPY:OTHER
+Worshipful fader in god . ffor as moche as we haue granted to our
+welbeloued clerc of +toffice of our signet Robert Shiryngton . +te
+prebende whiche maistre Richard Derham had yn +te chirche of Chichestre
+. And is now voide by +te deces of +te same maistre Richard . as it is
+said . and longeth to oure gifte by reson of +te temporaltees of +te
+saide chirche beyng yn oure handes . by cause of +te voidance +ter of :
+we wol +tat +teruppon . ye do haue to +te forsaid Robert . our lettres
+patentes vnder our greet seel beyng yn youre Warde . SIGNET,87.006.33
+
+AUTHOR:HENRY_V_SIGNET[HAND_X]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_006:M3:1417:COPY:OTHER
+Yeuen vnder our signet at oure towne of Caen +te laste day of Septembre
+. SIGNET,87.006.34
+
+{ED:HAND_X}
+
+<Q_SIG_C_1417_T_HENRY5> <L_SIGNET_007> <A_HENRY_V_SIGNET[HAND_Y]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_87>
+
+{ED:8}
+
+{ED:1417_C81/1364:40_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_007:M3:1417:COPY:OTHER
+By +te kyng SIGNET,87.007.35
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_007:M3:1417:COPY:OTHER
+Worshipful fader yn god We wol +tat to oure clerc Robert Shiryngton
+<P_88> ye do haue our lettres patentes vnder owr grete seal en due
+forme / of +te prebende +tat was maistre Richard Derehams in +te
+chirche of Chichestre / +te whiche is voide by his dee+t and longe+g to
+owr yifte be cause of +te temporaltees of +te bisshoprich of Chichestre
+/ of whiche matere we haue writen to yow afore +tis tyme /
+SIGNET,88.007.36
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_007:M3:1417:COPY:OTHER
+yeuen vnder oure signet at oure Chastel of Alencon +te second day of
+Nouembre SIGNET,88.007.37
+
+{ED:HAND_Y}
+
+<Q_SIG_C_1417_T_HENRY5> <L_SIGNET_008> <A_HENRY_V_SIGNET[TOLY]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_88>
+
+{ED:9}
+
+{ED:1417_C81/1364:41_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_008:M3:1417:COPY:OTHER
+By the kyng SIGNET,88.008.38
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_008:M3:1417:COPY:OTHER
+Worshipful fader in god Right trusty and Welbeloued . We grete yow ofte
+tymes Wel . SIGNET,88.008.39
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_008:M3:1417:COPY:OTHER
+And for as muche as we haue vnderstande that maistre Iohan Chaundeler
+that was Deen of Salesbury is chosen bisshop of the same chirche /
+Wherof we hald vs wel agreed / SIGNET,88.008.40
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_008:M3:1417:COPY:OTHER
+and therto we yeue our assent Roial SIGNET,88.008.41
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_008:M3:1417:COPY:OTHER
+and we wol wel / that after the Consecracion of the said Elit he haue
+liueree of his temporaltees / SIGNET,88.008.42
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_008:M3:1417:COPY:OTHER
+And the holy goost haue yow in his keping : SIGNET,88.008.43
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:57?
+LETTER:SIGNET_008:M3:1417:COPY:OTHER
+yeuen vnder our signet in our hoost afor ffaloise . the .xvij. day of
+Decembre SIGNET,88.008.44
+
+{ED:TOLY'S_HAND}
+
+<Q_SIG_C_1417_T_HENRY5> <L_SIGNET_009> <A_HENRY_V_SIGNET[TOLY]>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_---> <R_JOHN_OF_LANCASTER>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_1389>
+
+<P_88>
+
+{ED:10}
+
+{ED:1417_C81/1542:9_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:28
+LETTER:SIGNET_009:M3:1417:COPY:OTHER
+By the kyng SIGNET,88.009.45
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:28
+LETTER:SIGNET_009:M3:1417:COPY:OTHER
+Right trusty and Welbeloued brother / We grete yow often tymes Wel /
+SIGNET,88.009.46
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:28
+LETTER:SIGNET_009:M3:1417:COPY:OTHER
+And for as moche as We haue vnderstande that maistre Iohan Chaundeler
+that was Deen of Salesbury is chosen Bisshop of the same chirche . Wher
+of we hald vs wel agreed / SIGNET,88.009.47
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:28
+LETTER:SIGNET_009:M3:1417:COPY:OTHER
+and therto we yeue oure assent Roial / SIGNET,88.009.48
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:28
+LETTER:SIGNET_009:M3:1417:COPY:OTHER
+and we wol wel that after the consecracion of the said Elit / he haue
+liueree of his temporaltees / SIGNET,88.009.49
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:28
+LETTER:SIGNET_009:M3:1417:COPY:OTHER
+And the holy gost haue yow in his keping / SIGNET,88.009.50
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:28
+LETTER:SIGNET_009:M3:1417:COPY:OTHER
+yeuen vnder our signet in oure hoost afor ffaloise / the .xvij. day of
+Decembre / SIGNET,88.009.51
+
+{ED:TOLY'S_HAND}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_010> <A_HENRY_V_SIGNET[CHANCERY2]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_90>
+
+{ED:14}
+
+{ED:1418_COTTON_VESP._C._XII._FOL._155_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY2]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_010:M3:1418:COPY:OTHER
+Worshipful fader in god / Right trusty and Welbeloued / ffor as moche
+as oure welbeloued squier Iohn Hull haath long tyme be in oure
+ambassiat and seruice in the parties of Spaigne for the whiche as he
+haath compleined to vs he is endaungerd gretly / and certein goodys of
+his leyd to wedde / Wherfor we wol / that ye see / that theer be taaken
+dewe accomptes of the said Iohn . how many dayes he haath stande in
+oure said ambassiat and seruice / and thervpon that he be contented and
+agreed in the best wyse as longeth vn to hym in this cas .
+SIGNET,90.010.52
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY2]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_010:M3:1418:COPY:OTHER
+yeuen vnder oure Signet in oure hoost beside oure toun of ffaloise :
+the :x. day of ffeuerer SIGNET,90.010.53
+
+{ED:CHANCERY_HAND}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_011> <A_HENRY_V_SIGNET[HETHE?]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_90>
+
+{ED:15}
+
+{ED:1418_C81/1364:45_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HETHE?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_011:M3:1418:COPY:OTHER
+By +te Kyng SIGNET,90.011.54
+
+AUTHOR:HENRY_V_SIGNET[HETHE?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_011:M3:1418:COPY:OTHER
+$Worshipful fader in god Ryht trusty and wel beloued . For as moche as
+we haue granted of oure grace speciale to $oure welbeloued Esquier
+Piers Gerueys +te londes and tenementes +tat weren hugh ffastolfs
+knyght as ye may se moore cleerly by +te supplicacion whiche +te saide
+Piers putte vnto vs closed wi+tinne +tis lettre : We wole +tat ye $do
+{ED:EMENDED_WORD_SUPERIOR_INSERT} make vpon +te same supplicacion by vs
+graunted . lettres patentes vnto +te said Piers Garueys vnder oure
+greet seel beynge in youre kepynge in due forme . SIGNET,90.011.55
+
+AUTHOR:HENRY_V_SIGNET[HETHE?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_011:M3:1418:COPY:OTHER
+Yeven vnder oure signet in oure Castel of Caen +te xxviij. day of
+ffeuerer : SIGNET,90.011.56
+
+{ED:HAND_POSSIBLY_HETHE'S}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_012> <A_HENRY_V_SIGNET[CHANCERY3]>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_---> <R_JOHN_OF_LANCASTER>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_1389>
+
+<P_91>
+
+{ED:16}
+
+{ED:1418_SC1/43:158_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY3]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:29
+LETTER:SIGNET_012:M3:1418:COPY:OTHER
+By +te kyng SIGNET,91.012.57
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY3]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:29
+LETTER:SIGNET_012:M3:1418:COPY:OTHER
+Ri+gt trusty and welbeloued bro+ter / We haue resceyued youre lettres /
+by +te whiche ye desire to knawe our entent as touching +te deliuerance
+of +te temporeltees of saint dauid / vnto Benet Bisshop of +te same
+chirche of saint dauid / +tat was of Bangore / In +te whiche matere we
+wol +tat +te said Benet haue +te Issues of +te said temporeltees / from
++te deces of his predecessour / +tat was our Confessour / so +tat ye /
+and our Chanceller trete wi+t him / in suche wyse / +tat seurtee taaken
+/ as yow seme+t after youre discrecion he aske ne taake for no
+reparacion of our said Confessour / $consideryng +tat he hadde nowht
+for reparacion / whanne he was maad bisshop +tere / SIGNET,91.012.58
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY3]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:29
+LETTER:SIGNET_012:M3:1418:COPY:OTHER
+And elles it were our entent / +tat our said Confessour shuld haue +te
+prouffit+g of +te forsaid temporaltees vnto +te date of +tees lettres /
+SIGNET,91.012.59
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY3]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:29
+LETTER:SIGNET_012:M3:1418:COPY:OTHER
+And if ye may nat wel trete +te said Benet +ter to / speke+t
+effectuelly vnto +tarchebishop / +tat he do his deuoire / as touching
++te forsaid reparacion / +tat he agree resonably +te said Benet /
+Consideryng +tat +tarchebishop maade noon vnto our Confessour abouesaid
+/ SIGNET,91.012.60
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY3]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:29
+LETTER:SIGNET_012:M3:1418:COPY:OTHER
+Yeuen vnder our signet at oure Cite of Baieux +te .xvij. day of marche
+SIGNET,91.012.61
+
+{ED:CHANCERY_HAND}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_013> <A_HENRY_V_SIGNET[HAND_Y]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_91>
+
+{ED:17}
+
+{ED:1418_C81/1364:47_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_013:M3:1418:COPY:OTHER
+By +te kyng : SIGNET,91.013.62
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_013:M3:1418:COPY:OTHER
+Worshipful <em> fader in </em> god / ri+gt trusty and welbeloued / We
+wol / +tat to sir Nichol Wynbush clerc of our petit bagge / ye do haue
+/ oure lettres of collacion Vnder oure grete seel in due forme / of a
+prebende in Chichestre / +tat voided now late and longe+t vnto $oure
+yifte / by cause of +te temporaltees of +te bishopriche of Chichestre /
+in like wise as {in}_P oure Chamberlain wrote vnto yow now late fro
+faloi+ge / for +te said sir Nichol / vnto +te prebende a forsaid /
+SIGNET,91.013.63
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_013:M3:1418:COPY:OTHER
+Yeuen vnder our signet in oure Cite of Baieux +te xxij. day of Marche .
+SIGNET,91.013.64
+
+{ED:HAND_Y}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_014> <A_HENRY_V_SIGNET[HAND_Z]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_92>
+
+{ED:19}
+
+{ED:1418_C81/1364:48_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HAND_Z]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_014:M3:1418:COPY:OTHER
+By +te Kyng : SIGNET,92.014.65
+
+AUTHOR:HENRY_V_SIGNET[HAND_Z]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_014:M3:1418:COPY:OTHER
+Worshipful fader in god . We sende you closed herewi+tynne . two
+supplicacions taken vnto vs +tetoone yn name of Thomas Brounflet knight
+Robert Wiclyff clerc / and Iohn Ellerker / and +te to+ter in name of
+Robert Wiclyff person of +te chirche of Rudby and William Reson
+chaplein . to +tat eende / +tat we wolde yeue hem licence to enfeffe
+Iohn hohom knight / william ake and Robert Constable Escuier yn +te
+Manoirs of Baynton . Birdsale . Doncastre . Rosyngton & Bramham in
+yorkshire with +tappertenances so +tat +tey beyng in possession /
++terof might enfeffe Maude somtyme wife $of Pierres Mauley knight yn
++te forme more fully $specified with in +te supplicacions aforsaide .
++Te whiche we haue granted : Whar fore we wol +tat vppon +te teneur of
++te same supplicacions ye doo $make oure lettres patentes . Vnder our
+greet seel of oure saide licence after +te cours and forme of oure
+Chancellerie vsed in like cas afore +tis tyme . SIGNET,92.014.66
+
+AUTHOR:HENRY_V_SIGNET[HAND_Z]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_014:M3:1418:COPY:OTHER
+Yeuen vnder our signet at Baieux +te .iiij. day of Auril
+SIGNET,92.014.67
+
+<P_93>
+
+{ED:HAND_Z}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_015> <A_HENRY_V_SIGNET[TOLY]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_93>
+
+{ED:20}
+
+{ED:1418_C81/1364:49_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_015:M3:1418:COPY:OTHER
+By +te Kyng SIGNET,93.015.68
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_015:M3:1418:COPY:OTHER
+Worshipful fader yn god ri+gt trusty and welbeloued / We grete yow wel
+/ SIGNET,93.015.69
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_015:M3:1418:COPY:OTHER
+And for as muche as we haue vnderstande / +tat +te prebende of Swerdys
+yn oure chirche of Deuelyn ys voyde yn lawe / and longe+t to oure
+collacion we have yeue to oure trusty and welbeloued clerc maister
+Thomas Bolton bringer of +tis +te same prebende / wherfor we wol +tat
+ye maake lettres of oure collacion of +te saide prebende vnder oure
+greet seel to oure said clerc yn due fourme / SIGNET,93.015.70
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_015:M3:1418:COPY:OTHER
+yeuen vnder oure signet yn oure cite of Baieux +te .vj. day of Auerill
+SIGNET,93.015.71
+
+{ED:TOLY'S_HAND}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_016> <A_HENRY_V_SIGNET[TOLY?]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_93>
+
+{ED:22}
+
+{ED:1418_C81/1364:51_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_016:M3:1418:COPY:OTHER
+By +te kyng SIGNET,93.016.72
+
+AUTHOR:HENRY_V_SIGNET[TOLY?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_016:M3:1418:COPY:OTHER
+$Worshipful fader yn god right trusty and Welbeloued / We sende <P_94>
+yow closed wi+t ynne +tees a supplicacion put vnto vs yn +te nam of
+oure welbeloued Roger Waltham / by +te whiche he ha+t prayd vs for
+certein causes contened yn +te saide supplicacion / SIGNET,94.016.73
+
+AUTHOR:HENRY_V_SIGNET[TOLY?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_016:M3:1418:COPY:OTHER
+we wold graunte hym to be oon of +te barons of oure Eschequer / yn +te
+stede of Robert Sandford +tat is god betaght / Considering +tat he
+might be of power to doo vs +te better seruice yn o+ter occupacion as
+we haue sette hym ynne for oure prouffit / as ye may be more clerly
+enfourmed by +te saide supplicacion / SIGNET,94.016.74
+
+AUTHOR:HENRY_V_SIGNET[TOLY?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_016:M3:1418:COPY:OTHER
+So we wol +tat ye see and vnderstande clerely al +te matere contened
++ter ynne / SIGNET,94.016.75
+
+AUTHOR:HENRY_V_SIGNET[TOLY?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_016:M3:1418:COPY:OTHER
+and +tervpon ordeine suche prouision as hit seme+t best to youre
+Discrecion for oure prouffit and auantage yn +tis cas :
+SIGNET,94.016.76
+
+AUTHOR:HENRY_V_SIGNET[TOLY?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_016:M3:1418:COPY:OTHER
+yeuen vnder oure signet yn oure Castel of Caen +te furst day of May /
+SIGNET,94.016.77
+
+{ED:HAND_POSSIBLY_TOLY'S}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_017> <A_HENRY_V_SIGNET[HAND_Y]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_94>
+
+{ED:23}
+
+{ED:1418_C81/1364:52_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_017:M3:1418:COPY:OTHER
+By +te kyng SIGNET,94.017.78
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_017:M3:1418:COPY:OTHER
+Worshipful fader yn god ri+gt trusty and welbeloued We grete yow wel /
+SIGNET,94.017.79
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_017:M3:1418:COPY:OTHER
+And for asmuche as we haue Receyued a bulle direct vnto vs / whiche we
+sende yow closed vnder oure signet by +te bringer of +tis / touching
++te promocion of maistre William Barowe to +te bisshopriche of Bangore
+: we wol +tat he haue liueree of +te temporaltees of +te said
+bisshopriche of Bangore / and do his feaulte in suche cas duely
+accustumed / SIGNET,94.017.80
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_017:M3:1418:COPY:OTHER
+Yeuen vnder oure signet in oure Castel of Caen +te xv. day of May
+SIGNET,94.017.81
+
+{ED:HAND_Y}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_018> <A_HENRY_V_SIGNET[HAND_Y]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_94>
+
+{ED:24}
+
+{ED:1418_C81/1364:53_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_018:M3:1418:COPY:OTHER
+By the kyng : SIGNET,94.018.82
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_018:M3:1418:COPY:OTHER
+Worshipful fader yn god . ri+gt trusty and welbeloued . we grete yow
+wel / SIGNET,94.018.83
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_018:M3:1418:COPY:OTHER
+And for asmuche as we haue vnderstande by yowre lettre wreten in oure
+Cite of London +te iiij. day of May / how +tat +te bisshop of saint
+Dauid ha+t founden seurte in oure Chancellerie / +tat he shal <P_95>
+neuer vexe ne inquiete +texecutours of +te testament of his last
+predecessour / +tat was our Confessour +te whiche god assoille / but
+for asmuche as +te said bisshop of saint Dauid ha+t $not
+{ED:EMENDED_WORD_SUPERIOR_INSERT} brawt into oure said Chancellerie +te
+bulles of his translacion dirett vnto vs / +tat +tees bulles +ter seen
+he mighte make certein renunciacion in suche cas accustumed in
+conseruacion of oure Regalie / +te deliuerance of his temporaltees as
+yit been deferret . wherfore we sende yow by +te berer of +tis +te said
+bulle / and wol +tat +te said bisshop haue lyueree of his temporaltees
+/ and do his fewte / as hit ha+t been vsed duely in suche cas afore
++tis tyme . SIGNET,95.018.84
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_018:M3:1418:COPY:OTHER
+and god haue yow in his kepyng / SIGNET,95.018.85
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_018:M3:1418:COPY:OTHER
+ffer+termore / for asmuche as we haue granted to oure clerc Robert
+Shiryngton +te prebende whiche sir Laurence haukyn +tat is god betaght
+hadde now late in oure Chirche of Chichestre . we wol +tat ye do make
+vnto +te said Robert oure lettres patentes vnder oure grete seel beyng
+in yowre warde in due forme . Considering +tat he lost by oure
+comandement . a no+ter prebende in +te same chirche / to +te vse of
+oure trusty and welbeloued clerc maistre henry ware / keper of oure
+priue seel and eslit of oure chirche abouesaid / SIGNET,95.018.86
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_018:M3:1418:COPY:OTHER
+yeuen vnder oure signet in oure Castel of Caen +te xv day of May
+abouesaid : SIGNET,95.018.87
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_018:M3:1418:COPY:OTHER
+Also we do yow to witte +tat we haue granted vnto oure welbeloued clerc
+William Toly +te pension of +te abbot of Bataille . wher vpon we wol
++tat oure said clerc haue suche lettres vnder oure grete $seel
+{ED:EMENDED_WORD_SUPERIOR_INSERT} as +te cas aske+t SIGNET,95.018.88
+
+{ED:HAND_Y}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_019> <A_HENRY_V_SIGNET[HETHE?]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_95>
+
+{ED:25}
+
+{ED:1418_C81/1364:54_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HETHE?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_019:M3:1418:COPY:OTHER
+By +te Kyng : SIGNET,95.019.89
+
+AUTHOR:HENRY_V_SIGNET[HETHE?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_019:M3:1418:COPY:OTHER
+Worshipful fader in god . Ryght trusty and Welbeloued : For as moche as
+we haue granted to our wel beloued Chapellain Maistre Iohan Cruche
+Comenceour and licenced in diuinitee : +te prebende of west wythryng in
++te Cathedrale chirche of Chichestre +tat is voide . be +te de+t of
+maistre Richard Alkeryngton and belongynge to oure collacion / be reson
+of +te temporalitees . of +te Bysshopriche of Chichestre . now beynge
+in oure handes . to haue it wi+t alle +te ryghtes and appurtennances
++terof : and also +tat we haue granted to Thomas ffeltewell preest :
+presentacion to +te chirche parochiele of Rademeld voide and belongynge
+also to our yefte be +te reson abouesaid : We wol +tat vnto <P_96> +te
+saide persones : ye do make her vpon oure lettres seueral vnder oure
+greet seal beynge in your warde in due forme . SIGNET,96.019.90
+
+AUTHOR:HENRY_V_SIGNET[HETHE?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_019:M3:1418:COPY:OTHER
+Yeven vnder oure signet in oure Castel of Caen +te xix. day of May :
+SIGNET,96.019.91
+
+{ED:HAND_POSSIBLY_HETHE'S}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_020> <A_HENRY_V_SIGNET[CAUD?]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_96>
+
+{ED:26}
+
+{ED:1418_C81/1364:55_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[CAUD?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_020:M3:1418:COPY:OTHER
+By +te king SIGNET,96.020.92
+
+AUTHOR:HENRY_V_SIGNET[CAUD?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_020:M3:1418:COPY:OTHER
+Worshipful fader yn god . right trusty and welbeloued / We sende to yow
+closed wi+tynne +tees oure lettres a supplicacion putte vnto vs yn +te
+name of +te priour and Conuent of oure house of Ihesu of Bethleem at
+Shene of +tordre of Chartuse makyng mencion how +tat +te barons of oure
+Eschequer at Westminstre wol not discharge hem of certeine sommes of
+moneye rennyng on hem at oure saide Eschequer for diuerses dimes and
+quin+gimes granted vnto vs by +te clergie and comunes of oure Reaume of
+Englond . SIGNET,96.020.93
+
+AUTHOR:HENRY_V_SIGNET[CAUD?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_020:M3:1418:COPY:OTHER
+we wol +tat +te saide supplicacion seyen / and vnderstanden by yow /
+and oure lettres patentes $made vnto hem +terevpon / ye doo ordeine and
+see / +tat +tai be discharged of +te saide dymes and quin+gimes after
++teffect of oure saide lettres patentes SIGNET,96.020.94
+
+AUTHOR:HENRY_V_SIGNET[CAUD?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_020:M3:1418:COPY:OTHER
+and if +tat +te said priour and couent may not be discharged by +te
+vertue of oure same lettres patentes +tanne we wol / +tat ye ordeine yn
++te best wyse +tat {in}_P ye can / +tat +tai be discharged as for +tis
+tyme of +te dymes and quin+gimes abouesaid / SIGNET,96.020.95
+
+AUTHOR:HENRY_V_SIGNET[CAUD?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_020:M3:1418:COPY:OTHER
+Also we pray yow / speke+t vnto +tarchebisshop of Canterbury / +tat
+oure lettres patentes made vnto +te saide priour and Conuent touching
++te discharge of +te saide dymes and quin+gimes be entred in his
+Registre / if ye +tinke hit goodly to be doon / SIGNET,96.020.96
+
+AUTHOR:HENRY_V_SIGNET[CAUD?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_020:M3:1418:COPY:OTHER
+yeuen under oure signet yn oure Castel of Caen +te xx. day of May :
+SIGNET,96.020.97
+
+{ED:HAND_POSSIBLY_CAUD}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_021> <A_HENRY_V_SIGNET[HAND_Z]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_96>
+
+{ED:27}
+
+{ED:1418_C81/1364:56_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HAND_Z]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_021:M3:1418:COPY:OTHER
+By +te king : SIGNET,96.021.98
+
+AUTHOR:HENRY_V_SIGNET[HAND_Z]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_021:M3:1418:COPY:OTHER
+Worshipful fader in god and right trusty and welbeloued . We sende
+<P_97> you closed wi+tynne +tis / a supplicacion putte vnto vs . by
+william holand of Glatton . by +te whiche he hath besoght vs to foryeue
+vnto him . and to Margerie his wife +te suite of oure pees +tat to vs
+longe+t ayeins hem for +te causes specified in +te saide supplicacion .
+as it is more fully contened +terynne and in acopie of +tenditement
+take +tervppon . closed in +te same supplicacion / and forto grante
+vnto hem also al her goodis and catels . to vs for +te same cause
+forfait and beyng in oure handes . Wherfore we wol +tat seene by you
+and vnderstande +te saide supplicacion . Whiche of oure grace especiale
+. We haue fully granted . after +teffect +ter of : ye do haue to +te
+saide william and Margerie +ter vppon . oure lettres patentes vnder
+oure greet seel . in due forme . SIGNET,97.021.99
+
+AUTHOR:HENRY_V_SIGNET[HAND_Z]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_021:M3:1418:COPY:OTHER
+yeuen vnder oure signet at oure Cite of Lisieux +te xxvij. day of May
+SIGNET,97.021.100
+
+{ED:HAND_Z}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_022> <A_HENRY_V_SIGNET[HETHE?]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_97>
+
+{ED:28}
+
+{ED:1418_C81/1364:58_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HETHE?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_022:M3:1418:COPY:OTHER
+By +te kyng SIGNET,97.022.101
+
+AUTHOR:HENRY_V_SIGNET[HETHE?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_022:M3:1418:COPY:OTHER
+Worshipful fader yn god right trusty and welbeloued . ffor asmuche as
+we be fully auysed to make oure maistre mason as maistre $Steven was :
+oon +tat hyght Colchestre / whiche is maistre mason bo+te of +te
+Chirche of york / and of westminstre <em> we wol </em> +tat ye sende
+for +te said Colchestre / and +tat ye yeue him his charge / and do make
+him a patent vnder oure grete seel / suche as han been accustumed afore
++tis tyme in +tat caas / SIGNET,97.022.102
+
+AUTHOR:HENRY_V_SIGNET[HETHE?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_022:M3:1418:COPY:OTHER
+Yeuen vnder oure signet in oure Town of Barnay in Normandie +te second
+day of Iuyn : SIGNET,97.022.103
+
+{ED:HAND_POSSIBLY_HETHE'S}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_023> <A_HENRY_V_SIGNET[HETHE]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_97>
+
+{ED:29}
+
+{ED:1418_C81/1364:57_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_023:M3:1418:COPY:OTHER
+By +te Kyng SIGNET,97.023.104
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_023:M3:1418:COPY:OTHER
+Worshipful fader in god ryht trusty and wel be loued . We grete you wel
+. SIGNET,97.023.105
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_023:M3:1418:COPY:OTHER
+And for as moche as our trusty and wel beloued knyght . william Bowys
++tat is of Retenue of our Ryht trusty and entierly wel beloued <P_98>
+bro+ter +te Duke of Clarence . is continuelly abydynge here in oure
+seruice . We wol and charge you . +tat vpon oure lettres patentes of
+confirmacion maad vnto +te said william of +te grantes of certaine
+annuitees granted vnto hym afore +tis tyme . ye do make our writtes of
+liberate and allocate necessaires vpon our saide lettres patentes .
+Notwithstondynge +te preferrement of xml. li. granted vnto vs afore
++tis tyme <em> as ye knowe </em> {ED:EMENDED_WORDS_SUPERIOR_INSERT} .
+SIGNET,98.023.106
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_023:M3:1418:COPY:OTHER
+Yeven vnder oure signet at oure Town of Bernay +te second day of Iuyn
+SIGNET,98.023.107
+
+{ED:HETHE'S_HAND}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_024> <A_HENRY_V_SIGNET[TOLY]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_98>
+
+{ED:30}
+
+{ED:1418_C81/1364:59_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_024:M3:1418:COPY:OTHER
+By +te kyng . SIGNET,98.024.108
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_024:M3:1418:COPY:OTHER
+Worshipful fader yn god / right trusty and welbeloued We grete yow wel
+/ SIGNET,98.024.109
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_024:M3:1418:COPY:OTHER
+And we wol +tat yn al haste possible ye doo ordeyne / +tat out of oure
+port of Bristowe be sent to Waterford in Irland as many shippes as wol
+suffice for +te shippyng of +te priour of Kylmaynan / wi+t .CC. horsmen
+and .CCC. footemen to come to vs yn al hast wi+t goddes grace / And
++tat +tis be not left yn no wyse / as oure trust ys to yow /
+SIGNET,98.024.110
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_024:M3:1418:COPY:OTHER
+Yeuen vnder oure signet / at oure town of Bernay / +te .iije. day . of
+Iuyn : SIGNET,98.024.111
+
+{ED:ANOTHER_HAND}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_024:M3:1418:COPY:OTHER
+ffer+termore we wol and prey yow +tat for any +ting ye haste +te said
+shipping for +te same Priour and +tey +tat shal come to vs wi+t him
+taryen for noon o+tir but for lacke of shipping / SIGNET,98.024.112
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_024:M3:1418:COPY:OTHER
+yeuen vnder oure signet at oure Abbaye of Beekhelwyn +te iii+te day of
++te said mone+t SIGNET,98.024.113
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_024:M3:1418:COPY:OTHER
+{ED:SIGNED} Stone SIGNET,98.024.114
+
+{ED:TOLY'S_HAND._SIGNATURE_IN_A_DIFFERENT_HAND.}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_025> <A_HENRY_V_SIGNET[HETHE?]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_98>
+
+{ED:31}
+
+{ED:1418_C81/1364:60_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HETHE?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_025:M3:1418:COPY:OTHER
+By +te Kyng SIGNET,98.025.115
+
+AUTHOR:HENRY_V_SIGNET[HETHE?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_025:M3:1418:COPY:OTHER
+Worshipful fader in god . ryht trusty and wel beloued / ffor as moche
+<P_99> as we haue vnderstande by a supplicacion put vnto vs . +tat
+Robert haburgeham Sqwyer beynge heere in our seruice on +tis syde of
++te See in +te compaignie of our trusty and wel beloued +te lord
+ffi+ghugh oure Chamberlein . is pursued and empleted in our Royaume of
+Engeland in certaine cause personneles . whiles +tat he is heere in our
+said seruice . wher by he ha+t lost and is in poynt to leese many of
+his goodes fro day to day . We wol +tat ye do ordeyne vn to +te said
+Robert oure lettres of protection in +te commune forme . whiche may be
+soufficeante and vaillable vnto hym duringe +te tyme +tat he is in our
+said seruice on +tis syde of +te See . SIGNET,99.025.116
+
+AUTHOR:HENRY_V_SIGNET[HETHE?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_025:M3:1418:COPY:OTHER
+Yeven vnder oure signet in oure Abbaye of Beekhelwyn . +te .v. day of
+Iuyn : SIGNET,99.025.117
+
+{ED:HAND_POSSIBLY_HETHE'S}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_026> <A_HENRY_V_SIGNET[HETHE]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_99>
+
+{ED:32}
+
+{ED:1418_C81/1364:61_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_026:M3:1418:COPY:OTHER
+By +te kyng : SIGNET,99.026.118
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_026:M3:1418:COPY:OTHER
+$Worshipful fader in god Ryht trusty and welbeloued we grete yow wel
+SIGNET,99.026.119
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_026:M3:1418:COPY:OTHER
+And sende you closed wi+tinne +tees lettres . a copie of certaine
+lettres sent vnto vs from oure Bro+ter +te Duc of Bretaigne . for to
+haue Restitucion of certaine goodes of Hamon Martyn breton and o+tere
+of his sougittes of Bretaigne specified in +te same lettres whiche
+shulde haue be taken vpon +te See by certaine of our sougettes . of
+Cornewaille . as ye may se moore cleerly by +te saide copie . +te
+whiche . seen and vnderstanden and hauynge ful knowleche whe+ter +te
+sugestion comprehended in +te same lettres be trewe . we wol and charge
+you . +tat ye se and ordeyne +tat hasty restitucion of +te forsaide
+goodes be maad and +tat ye do compelle our saide sougettes to make
+restitucion abouesaid in obseruynge duely for our partie +te trewes
+taken betwix vs and our said Bro+ter of Bretaigne /. SIGNET,99.026.120
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_026:M3:1418:COPY:OTHER
+And knowe+t wel +tat our wil and desire is +tat +te saide trieues be
+kept as Iustly for oure partie . as we wolde +tat +tey wer kept
+towardes vs for his partie and in suche wyse +tat nouther he ne his
+saide sougettes haue no cause raisounable to compleyne vnto vs her
+after for +tis cause ne for non o+ter semblable for defaute of Ryght as
+we haue write to our Ryht trusty and welbeloued bro+ter of Bedeford by
+oure o+tere lettres . SIGNET,99.026.121
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_026:M3:1418:COPY:OTHER
+And also in wyse as we wol +tat restitucion be maad of +te forsaide
+goodes . yn lychwyse / we wol +tat deliuerance of +te Barge and
+persones specified in +te saide copie be maad wi+t +te saide goodes .
+so +tat <P_100> no defaute be founde on our partie . SIGNET,100.026.122
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_026:M3:1418:COPY:OTHER
+And we wol +tat ye do +tis +tyng by +tauys of our said bro+ter . to
+whom we write semblablely at +tis tyme for +te same matire .
+SIGNET,100.026.123
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_026:M3:1418:COPY:OTHER
+Yeven vnder our signet in our hoost afore Louiers +te viij. day of Iuyn
+. SIGNET,100.026.124
+
+{ED:HETHE'S_HAND}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_027> <A_HENRY_V_SIGNET[HETHE]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_100>
+
+{ED:33}
+
+{ED:1418_C81/1364:62_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_027:M3:1418:COPY:OTHER
+By +te Kyng . SIGNET,100.027.125
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_027:M3:1418:COPY:OTHER
+Worshipful fader in god Ryht trusty and wel beloued . We grete you wel
+. SIGNET,100.027.126
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_027:M3:1418:COPY:OTHER
+And do you to wite +tat we haue seen a supplicacion directe vnto vs +te
+whiche was closed in your lettre and sent vnto oure ryht trusty and wel
+beloued Clerc maister henri Ware for +te Priour and +te Couent of +te
+Priorie of Seint Osewoldes of Gloucestre touchinge +tappropriacion of
++te Chirche of Mynstreworth in our Shire of Gloucestre / and +te whiche
+supplicacion we sende to you closed wi+tinne +tes our lettres .
+SIGNET,100.027.127
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_027:M3:1418:COPY:OTHER
+and haue granted it fully vpon +tis condicion : +tat +te saide Priour
+and Couent . do appropre +te forsaide Chirche wi+tinne a yeer next
+folwynge after +te date of +tes lettres . SIGNET,100.027.128
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_027:M3:1418:COPY:OTHER
+So we wol +tat vpon +te contenue of +te same supplicacion / ye do maake
+vnto +te said Priour and Couent our lettres patentes vnder oure greet
+seel . beynge in youre warde in due forme . SIGNET,100.027.129
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_027:M3:1418:COPY:OTHER
+Yeven vnder our signet in our hoost afore Louiers . +te xxij. day of
+Iuyn : SIGNET,100.027.130
+
+{ED:HETHE'S_HAND}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_028> <A_HENRY_V_SIGNET[HETHE]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_100>
+
+{ED:34}
+
+{ED:1418_C81/1364:63_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_028:M3:1418:COPY:OTHER
+By +te kyng SIGNET,100.028.131
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_028:M3:1418:COPY:OTHER
+Worshipful fader in god Ryht trusty and wel beloued : We grete you wel
+. SIGNET,100.028.132
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_028:M3:1418:COPY:OTHER
+And we wol +tat vnto oure wel beloued Sqwyer Ianico Dartas . which +tat
+is abydyng wi+t vs in oure seruice heer in +tes parties : ye do make
+vpon +te lettres patentes by +te whiche he take+t of vs a certaine
+annuitee durynge his lyf of +te issues of our Citee of london : our
+writtes of liberate and allocate vnder oure greet seel for +te terme
+<P_101> of Pascques last passed . notwithstondynge +te preferrement of
+xml. li. granted vnto vs afore this tyme SIGNET,101.028.133
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_028:M3:1418:COPY:OTHER
+Yeven vnder our signet at oure town of Louiers . +te .xxvj. day of Iuyn
+: SIGNET,101.028.134
+
+{ED:HETHE'S_HAND}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_029> <A_HENRY_V_SIGNET[HETHE?]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_101>
+
+{ED:35}
+
+{ED:1418_C81/1364:64_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HETHE?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_029:M3:1418:COPY:OTHER
+By +te kyng SIGNET,101.029.135
+
+AUTHOR:HENRY_V_SIGNET[HETHE?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_029:M3:1418:COPY:OTHER
+Worshipful fader in god . Ryght trusty and wel beloued . ffor as muche
+as oure ryht trusty and welbeloued Clerc maistre henri ware . Elit to
++te Bysshopriche of Chichestre ha+t deliuered to vs +te bulles of
+prouision maad vnto hym by oure holy fader +te pope of +te said
+$Bysshopriche . and +te same Elit ha+t maad renunciacion of alle +te
+wordes contened in +te said bulles of prouision +tat myghte be
+preiudiciel vnto vs and to oure corowne : And also maad his feawte .
+vnto vs for +te temporalitees . +tat longen to +te forsaid bysshopriche
+. We wol +tat by oure lettres to be maad in due forme vnder oure greet
+seel : ye do make to +te said Elit restitucion and liueree of +te
+temporalitees +tat longen to +te same Bysshopriche : oure saide lettres
+vnder oure greet seal beringe +te date of +te .xiij. day of +te mone+t
+of May last passed . SIGNET,101.029.136
+
+AUTHOR:HENRY_V_SIGNET[HETHE?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_029:M3:1418:COPY:OTHER
+Yeuen vnder oure signet in oure hoost beside our town of Pont de larche
+. +te .x. day of Iuill : SIGNET,101.029.137
+
+{ED:HAND_POSSIBLY_HETHE'S}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_030> <A_HENRY_V_SIGNET[CAUD?]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_102>
+
+{ED:37}
+
+{ED:1418_C81/1364:66_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[CAUD?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_030:M3:1418:COPY:OTHER
+By +te kyng SIGNET,102.030.138
+
+AUTHOR:HENRY_V_SIGNET[CAUD?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_030:M3:1418:COPY:OTHER
+$Worshipful fadre yn god / ri+gt trusty and welbeloued / We grete yow
+wel / SIGNET,102.030.139
+
+AUTHOR:HENRY_V_SIGNET[CAUD?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_030:M3:1418:COPY:OTHER
+And we sende yow closed wy+tinne +tees oure lettres a supplicacion $put
+vn to vs yn the name of oure welbeloued yn god +te Prieur and Couent of
+oure Cathedrale chirche of Bathe the whiche supplicacion vs seme+t
+resonable / SIGNET,102.030.140
+
+AUTHOR:HENRY_V_SIGNET[CAUD?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_030:M3:1418:COPY:OTHER
+So we wol +tat +te same supplicacion seen / and +te matere +terinne
+contened pleinly vnderstanden by yow / ye do ful execucion of right
+vpon +te same supplicacion / aftre youre discrecion /
+SIGNET,102.030.141
+
+AUTHOR:HENRY_V_SIGNET[CAUD?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_030:M3:1418:COPY:OTHER
+And god haue yow yn his keping SIGNET,102.030.142
+
+AUTHOR:HENRY_V_SIGNET[CAUD?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_030:M3:1418:COPY:OTHER
+yeuen vnder oure signet yn oure hoost afore Roan +te xxx day of Aougst
+SIGNET,102.030.143
+
+{ED:HAND_POSSIBLY_CAUD}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_031> <A_HENRY_V_SIGNET[HETHE]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_102>
+
+{ED:38}
+
+{ED:1418_C81/1364:67_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_031:M3:1418:COPY:OTHER
+By +te kyng SIGNET,102.031.144
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_031:M3:1418:COPY:OTHER
+Worshipful fader in god . Ryht trusty and wel beloued We grete you wel
+. SIGNET,102.031.145
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_031:M3:1418:COPY:OTHER
+And for asmoche as Thomas Toky which +tat ha+t an annuitee of x li. to
+take yeerly by +te handes of +te fermours of +te subside and aulnage of
+saale clo+tes . of our Citee of York : is heer wi+t vs in our duchie of
+Normandie abydynge continuelly in our seruice : We wol +tat vnto +te
+same Thomas vpon his lettres patentes maad vnto hym of +te same
+annuitee : ye do maake our writtes of liberate and allocate vnder our
+greet seal beynge in your warde in due forme : wi+t +tis clause /
+notwi+tstandynge +te preferrement of .xml. li. granted vn to vs in oure
+parlement SIGNET,102.031.146
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_031:M3:1418:COPY:OTHER
+Yeven vnder our signet in oure hoost afore Roan +te xiij. day of
+Septembre : SIGNET,102.031.147
+
+{ED:HETHE'S_HAND}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_032> <A_HENRY_V_SIGNET[SHIRYNGTON?]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_103>
+
+{ED:39}
+
+{ED:1418_C81/1364:68_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_032:M3:1418:COPY:OTHER
+By +te king SIGNET,103.032.148
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_032:M3:1418:COPY:OTHER
+Worshipful fader yn god right trusty and welbeloued . We grete yow wel
+/ SIGNET,103.032.149
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_032:M3:1418:COPY:OTHER
+And we sende yow closed wi+tin +tis / a copie of a Lettre sent now late
+vnto vs by +tabbot and Conuent of oure hows of Graces beside oure towre
+of London / SIGNET,103.032.150
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_032:M3:1418:COPY:OTHER
+So we wol $+tat ye shewe al +te fauour and ese +tat may be don by lawe
+and conscience vnto oure said hows so +tat hit be nat spoilled of noon
+of +te possessions +tat Longeth +terto yn no wyse / SIGNET,103.032.151
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_032:M3:1418:COPY:OTHER
+Vnto +tat we nowe ordeyne at oure comyng hoom wi+t goddes grace / to
+put hit yn Reste and quiete / yn asmuche as hit is of oure fundaccion /
+for whiche cause we haue hit moche +te more yn chierte as reson is /
+SIGNET,103.032.152
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_032:M3:1418:COPY:OTHER
+Yeuen vnder oure signet yn oure hoost afore Roan +te xxj day of
+Septembre SIGNET,103.032.153
+
+{ED:HAND_POSSIBLY_SHIRYNGTON'S}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_033> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_104>
+
+{ED:41}
+
+{ED:1418_C81/1364:70_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_033:M3:1418:COPY:OTHER
+By +te kyng SIGNET,104.033.154
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_033:M3:1418:COPY:OTHER
+Worshipful fader in god right trusty and welbeloued / We grete yow wel
+/ SIGNET,104.033.155
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_033:M3:1418:COPY:OTHER
+And for asmuche as we haue comanded oure welbeloued seruant and squier
+. maistre Robert Bonsergeant : to go hoom at +tis time / Considering
++tat he is so biset wi+t sekenesse / +tat he may do vs no seruice on
++tis side +te see / we wol +tat of suche annuitees as he ha+t of oure
+grante for terme of his lyf . ye ordeine +tat he haue oure <P_105>
+writtes of liberate and allocate / fro terme to terme as hit shal nede
+/ by +te whiche he may be redely paid at eche terme of his annuitees
+aforsaid / SIGNET,105.033.156
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_033:M3:1418:COPY:OTHER
+Yeuen vnder oure signet in oure hoost afore Roan +te
+{ED:SPACE_LEFT_FOR_DATE} day of Septembre : SIGNET,105.033.157
+
+{ED:HAND_POSSIBLY_SHIRYNGTON'S}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_034> <A_HENRY_V_SIGNET[HETHE]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_105>
+
+{ED:42}
+
+{ED:1418_C81/1364:71_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_034:M3:1418:COPY:OTHER
+By +te kyng SIGNET,105.034.158
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_034:M3:1418:COPY:OTHER
+Worshipful fader in god . Ryht trusty and welbeloued We grete you wel .
+SIGNET,105.034.159
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_034:M3:1418:COPY:OTHER
+And we sende you closed wi+tinne +tes Lettres a supplicacion put vnto
+vs . by our beloued seruant William Cursun . by +te whiche he desire+t
++tat we should write vnto you for a certaine matire +tat is contened in
++te said supplicacion as ye may se more plainly by +te same .
+SIGNET,105.034.160
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_034:M3:1418:COPY:OTHER
+So we wol +tat +te same supplicacion seyen . and +te matire contened
++ter in . wel vnderstanden by you . +tat ye do ordeyne so +ter vpon by
+your good avys . +tat our said seruant haue non hindrynge +terof now in
+his absence . but +tat ye se +te more tendrely +terto be cause +tat he
+is heer continuelly abydinge wi+t vs in our seruice .
+SIGNET,105.034.161
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_034:M3:1418:COPY:OTHER
+Yeven vnder our signet in oure hoost afore Roan +te .v day of Octobre :
+SIGNET,105.034.162
+
+{ED:HETHE'S_HAND}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_035> <A_HENRY_V_SIGNET[HAND_Y]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_PRIVY_COUNCIL>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_105>
+
+{ED:43}
+
+{ED:1418_COTTON_GALBA_B.I._FOL._164_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_035:M3:1418:COPY:OTHER
+By +te kyng SIGNET,105.035.163
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_035:M3:1418:COPY:OTHER
+Right worshipful and worshipful faders yn god / right trusty and
+welbeloued / We grete yow wel / SIGNET,105.035.164
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_035:M3:1418:COPY:OTHER
+And wol ye wite / +tat +tambassiatours of oure bro+tir +te Duc of Baire
+/ bringers of +tis / haue been here wi+t vs / and doon +teire ambassiat
+in suche wyse / as we halde vs wel apaide / SIGNET,105.035.165
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_035:M3:1418:COPY:OTHER
+And among o+tir +tinges declared vnto vs / +tei haue desired to knowe /
+how it standeth bitwix vs / and +te princes of Duchelond and in what
+wise +tei gouerne hem towardes vs / and in especial how Duc Iohan of
+Baire sumtyme Elit of Lieges gouerne+t him anenst vs <P_106> /
+SIGNET,106.035.166
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_035:M3:1418:COPY:OTHER
+for as +tei sey / +tereafter wol oure bro+tir of Baire gouerne him / to
++te same Iohan / SIGNET,106.035.167
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_035:M3:1418:COPY:OTHER
+And for asmuche as ye knowe better +tanne we doo / how +te said Duc
+Iohan gouerne+t him towardes vs / and oure Rewme of Englande / and oure
+suggettes . we remitte hem to haue ful declaracion and verrai
+knaweleche of you in +tat matere . Wherefore we wol +tat ye comune wi+t
++taim of +tis matere / latyng hem haue knoweleche +terof / and how yow
++tenke +tat oure brothir of Baiere shulde gouerne him anenst +te same
+Duc Iohan / SIGNET,106.035.168
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_035:M3:1418:COPY:OTHER
+for ye mowe trustely anogh comun wi+t +taim of suche materes / as vs
++tenke+t by +te gouernance +tat +tei haue shewed to vs /
+SIGNET,106.035.169
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_035:M3:1418:COPY:OTHER
+Moreouer +tei haue desired of vs / to be counseilled be what weye /
++tai might best and most seurly Retourne hoom ayen into +taire cuntre /
+owt of oure Rewme of Englande . SIGNET,106.035.170
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_035:M3:1418:COPY:OTHER
+Consideryng +tat +te trewes whiche were bitwix vs / and +te Duc of
+Bourgoine . expired at Mighelmasse last passed / wherfore In asmuche as
+ye knowe better +tanne we / how +tai of fflandres and also of hollande
+gouerne +taim towardes vs / and oure soubgettes . we desiryng in al
+wise +te sauf Retournyng hoom of +te said Ambassiatours / wol +tat ye
+counseille and aduise hem in +te best wyse +tat {in}_P ye can for +te
+seurete of +taire Retournyng / SIGNET,106.035.171
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_035:M3:1418:COPY:OTHER
+And whiles +tai tarie yn oure land / we wol +tat +tere be shewed vnto
+hem / al +te fee fauor and chere / +tat may be doon yn goodly wyse .
+And also +tat ye oure Chanceller doo make vnto +taim / soufficeant
+writtes of passage . In suche wyse as +tai may haue redy passage owt of
+oure land / from what port +tai come too / vnto what port +tayme is
+Leuest to drawe to by yowre aduis / SIGNET,106.035.172
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_035:M3:1418:COPY:OTHER
+And almighty god haue yow in his kepyng . SIGNET,106.035.173
+
+AUTHOR:HENRY_V_SIGNET[HAND_Y]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_035:M3:1418:COPY:OTHER
+yeven vnder oure signet in oure hoost afore Roan the xxj day of Octobre
+SIGNET,106.035.174
+
+{ED:HAND_Y}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_036> <A_HENRY_V_SIGNET[SHYRYNGTON?]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_106>
+
+{ED:44}
+
+{ED:1418_C81/1364:72_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHYRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_036:M3:1418:COPY:OTHER
+S SIGNET,106.036.175
+
+AUTHOR:HENRY_V_SIGNET[SHYRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_036:M3:1418:COPY:OTHER
+Worshipful fader yn god right trusty and welbeloued . We grete yow wel
+. SIGNET,106.036.176
+
+AUTHOR:HENRY_V_SIGNET[SHYRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_036:M3:1418:COPY:OTHER
+And sende yow closed wi+tin +tees / a supplicacion $direct vnto yow /
+and by +te whiche . oon Marke william of Bristow merchant . desireth to
+haue remedie of certain $wronges and iniuries doon to him / aswel as to
++tospital of +te trinite beside Bristow / touching +te manoir of
+Ruggewey by $Robert Russell maire of Bristow / and william Burgh /
+SIGNET,106.036.177
+
+AUTHOR:HENRY_V_SIGNET[SHYRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_036:M3:1418:COPY:OTHER
+as ye may haue more pleine knawleche <P_107> by +te said supplicacion .
+So we wol +tat ye se +te said supplicacion . SIGNET,107.036.178
+
+AUTHOR:HENRY_V_SIGNET[SHYRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_036:M3:1418:COPY:OTHER
+and if +te matere contened +terin oughte to be examined by oure conseil
+hit be do / SIGNET,107.036.179
+
+AUTHOR:HENRY_V_SIGNET[SHYRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_036:M3:1418:COPY:OTHER
+and +tervpon ye ordeine +tat Right be doon / as Lawe and conscience
+wollen / +tat +tere be no more compleinte ne poursuite maad vnto vs on
++tis side +te see / touching +tat matere . SIGNET,107.036.180
+
+AUTHOR:HENRY_V_SIGNET[SHYRYNGTON?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_036:M3:1418:COPY:OTHER
+Yeuen vnder oure signet in oure hoost afore Roan +te xxiij day of
+$Octobre SIGNET,107.036.181
+
+{ED:HAND_POSSIBLY_SHIRYNGTON'S}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_037> <A_HENRY_V_SIGNET[HETHE?]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_107>
+
+{ED:45}
+
+{ED:1418_C81/1364:73_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HETHE?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_037:M3:1418:COPY:OTHER
+Worshipful fader yn god / oure right trusty and welbeloued We grete yow
+wel / SIGNET,107.037.182
+
+AUTHOR:HENRY_V_SIGNET[HETHE?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_037:M3:1418:COPY:OTHER
+And we wol / +tat nat wi+tstandyng +te preferrement +tat we haue of .x.
+ml. li as ye knawe wel / ye ordeyne +tat oure welbeloued squier Iohan
+Ascow : $haue oure $writtes of Liberate and allocate vnder oure grete
+seal in due forme . by +te vertue of +te whiche : he may haue paiement
+of +tat / +tat is due vnto him of suche annuitees as he haa+t of oure
+grante by oure lettres patentes And +tat ye se +te better to him / by
+cause he is here wi+t vs continuely in oure seruice /
+SIGNET,107.037.183
+
+AUTHOR:HENRY_V_SIGNET[HETHE?]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:58?
+LETTER:SIGNET_037:M3:1418:COPY:OTHER
+Yeuen vnder oure signet in oure hoost afore Roan +te xxvij day of
+Octobre : SIGNET,107.037.184
+
+{ED:HAND_POSSIBLY_HETHE'S}
+
+<Q_SIG_C_1418_T_HENRY5> <L_SIGNET_038> <A_HENRY_V_SIGNET[TOLY]>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_---> <R_JOHN_OF_LANCASTER>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_1389>
+
+<P_107>
+
+{ED:46}
+
+{ED:1418_COTTON_JULIUS_B.VI._FOL._97[35]_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:29
+LETTER:SIGNET_038:M3:1418:COPY:OTHER
+By +te king SIGNET,107.038.185
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:29
+LETTER:SIGNET_038:M3:1418:COPY:OTHER
+Right trusty and welbeloued / brother / We grete yow wel /
+SIGNET,107.038.186
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:29
+LETTER:SIGNET_038:M3:1418:COPY:OTHER
+And as we suppose / It is not out of youre Remembrance in what wise and
+how ofte we haue charged yow by oure lettres / +tat good and hasty
+reparacion and restitucion were ordeined and maade at altymes of suche
+attemptates as hapned to be made by oure sugettes / ayenst +te trewes
+taken betwix vs and oure brother +te duc of Bretaigne / And <P_108> not
+withstanding oure saide lettres diuers compleintes be maad and sent
+vnto vs / for defaulte of reparacion and restitucion of suche
+attemptates as be made by certein of oure subgettes and lieges as ye
+may vnderstand by a supplicacion sent to vs by +te said duc / whiche
+supplicacion we sende to yow closed wi+t ynne +tees lettres for to haue
++te more pleine knoweleche of +te trouthe / wherfor we wol and charge
+yow / +tat ye calle to yow oure Chanceller to haue knowelache of +te
+same supplicacion : SIGNET,108.038.187
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:29
+LETTER:SIGNET_038:M3:1418:COPY:OTHER
+and +tat doon / we wol / +tat ye doo sende to vs in al hast al +too
+personnes / +tat been oure sugettes contened in +te supplicacion
+abouesaid / And +tat also in alle other semblable materes / ye doo
+ordeine so hasty and Iuste Remede / restitucion / and reparacion vpon
+suche attemptates doon by oure sugettes in conseruacion of oure trewes
+/ +tat noman haue cause hereafter to compleine in suche wyse as {in}_P
+thai doon for defaute of right doyng / ner we cause to write to yow
+alweys as we doon for suche causes / Considered +te gret occupacion
++tat we haue otherwyse / SIGNET,108.038.188
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:29
+LETTER:SIGNET_038:M3:1418:COPY:OTHER
+And god haue yow in his keping / SIGNET,108.038.189
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:29
+LETTER:SIGNET_038:M3:1418:COPY:OTHER
+yeuen vnder oure signet in oure hoost afor Roan . +te .xxix. day of
+Nouembre SIGNET,108.038.190
+
+{ED:TOLY'S_HAND}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_039> <A_HENRY_V_SIGNET[TOLY]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_108>
+
+{ED:47}
+
+{ED:1419_C81/1366:8_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_039:M3:1419:COPY:OTHER
+By +te king SIGNET,108.039.191
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_039:M3:1419:COPY:OTHER
+Worshipful fader <em> in god </em> / right trusty and welbeloued / We
+grete yow wel / SIGNET,108.039.192
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_039:M3:1419:COPY:OTHER
+And we sende yow closed wi+t ynne +tis a $supplicacion put vnto vs in
++te names of william ffowler of +te contee of Bukinghamshire $gentilman
+william Buktoft / and Richart Brount / +te whiche supplicacion seen and
+vnderstanden by yow / wi+t +te circumstances / yif ye can be trewely
+enfourmed +tat +te suggestion be trewe +tat is contened in +te said
+supplicacion / we wol +tat +te same william : william : and Richard
+haue pardon in due fourme / of +te somme specified in +te saide
+supplicacion / SIGNET,108.039.193
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_039:M3:1419:COPY:OTHER
+yeuen vnder oure signet / in oure town of Rouen / +te .xxviij. day of
+Ianuer / SIGNET,108.039.194
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_039:M3:1419:COPY:OTHER
+{ED:SIGNED} Toly SIGNET,108.039.195
+
+{ED:TOLY'S_HAND}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_040> <A_HENRY_V_SIGNET[CHANCERY4]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_109>
+
+{ED:48}
+
+{ED:1419_C81/1364:74_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY4]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_040:M3:1419:COPY:OTHER
+By +te king SIGNET,109.040.196
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY4]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_040:M3:1419:COPY:OTHER
+Worshipful fader in god / right trusty and welbeloued / we grete yow
+wel / SIGNET,109.040.197
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY4]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_040:M3:1419:COPY:OTHER
+And for asmuche as +te trewes bitwix vs / and $oure bro+tir +te duc of
+Bretaigne been proroged vnto +te feste of alhalowmesse next comyng /
+and for {ED:...} wekes after / in +te same fourme as {in}_P +tei were
+taken +te last yere at Alencon / we wol +tat in al hast ye do proclame
+in due fourme +te said prorogacion in al places nedeful and accustumed
+in suche cas / SIGNET,109.040.198
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY4]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_040:M3:1419:COPY:OTHER
+And god haue yow in his keping SIGNET,109.040.199
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY4]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_040:M3:1419:COPY:OTHER
+Yeuen vnder oure signet in oure Castel of Rouen +te xxx day of Ianuer
+SIGNET,109.040.200
+
+{ED:CHANCERY_HAND}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_041> <A_HENRY_V_SIGNET[TOLY]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_109>
+
+{ED:49}
+
+{ED:1419_C/81/1366:10_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_041:M3:1419:COPY:OTHER
+By +te king . SIGNET,109.041.201
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_041:M3:1419:COPY:OTHER
+Worshipful fader in god right trusty and welbeloued / We grete yow wel
+/ SIGNET,109.041.202
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_041:M3:1419:COPY:OTHER
+And doo yow to wite +tat we haue yeuen vnder oure greet seel here / +te
+chirche of Morton / whiche as we were enfourmed voyded be +te deces of
+oon maister Richard Penelles and longed to oure yift / be cause of +te
+beyng of oure Cousin Courrenays landes yn oure handes / the whiche oure
+yift we signiffie vnto yow to +tat ende / +tat ye witt / we wol hit
+take effect / SIGNET,109.041.203
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_041:M3:1419:COPY:OTHER
+yeuen vnder oure signet / in . oure town of Rouen . +te .xxx. day of
+Ianuer SIGNET,109.041.204
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_041:M3:1419:COPY:OTHER
+{ED:SIGNED} Toly SIGNET,109.041.205
+
+{ED:TOLY'S_HAND}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_042> <A_HENRY_V_SIGNET[TOLY]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_109>
+
+{ED:50}
+
+{ED:1419_C81/1366:5_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_042:M3:1419:COPY:OTHER
+By +te king . SIGNET,109.042.206
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_042:M3:1419:COPY:OTHER
+Worshipful fader in god . right trusty and welbeloued / We grete yow
+<P_110> wel / SIGNET,110.042.207
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_042:M3:1419:COPY:OTHER
+And we wol / +tat ye doo make / vnto Thomas Cochare of oure town of
+Douorre / whiche ha+t doon vs seruice here on +tis side +te see /
+writtes of liberate and Allocate / in due fourme / for +tat +tat is
+behynde and due vnto hym . of .iiij. d <em> +te day </em>
+{ED:EMENDED_WORDS_SUPERIOR_INSERT} granted vnto hym by certein lettres
+patentes / confermed by vs / to Receiue hem of +te fee ferme of oure
+Cite of Canterbury . by +te handes of oure baillifs of +te same place /
+Not wi+tstandyng +te preferrement of .x. ml. pound . graunted vnto vs /
+by parlement as ye knowe / SIGNET,110.042.208
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_042:M3:1419:COPY:OTHER
+And god haue yow in his keping / SIGNET,110.042.209
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_042:M3:1419:COPY:OTHER
+yeuen vnder oure signet / in oure Castel of Rouen / +te .xj. day of
+ffeuerer SIGNET,110.042.210
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_042:M3:1419:COPY:OTHER
+{ED:SIGNED} Toly SIGNET,110.042.211
+
+{ED:TOLY'S_HAND}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_043> <A_HENRY_V_SIGNET[NON-CHANCERY]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_110>
+
+{ED:51}
+
+{ED:1419_SC1/43:162_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[NON_CHANCERY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_043:M3:1419:COPY:OTHER
+Worshipful fader in god right trusti and welbeloued we grete you wel
+SIGNET,110.043.212
+
+AUTHOR:HENRY_V_SIGNET[NON_CHANCERY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_043:M3:1419:COPY:OTHER
+And witeth yat we been enformed yat ye kyng of Castel maketh a grete
+armee of vesselx whiche shuld be redy / in short tyme as is sayde for
+to doo ye harme ayeinst vs and oures yat yay may / whiche god defende .
+and in especiale yat yaire purpos is to doo yaire powaire for to brynne
+and destrue oure shippes and ye nauie of oure lande and namely oure
+shippes at Hampton SIGNET,110.043.213
+
+AUTHOR:HENRY_V_SIGNET[NON_CHANCERY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_043:M3:1419:COPY:OTHER
+And also yaire ordinance is to lande in $oure Reaume for to doo
+thannoye yat yay may / Wherefore we wol and charge you / yat by yauys
+of oure brothre of Bedford and of othir suche as semeth to youre
+discrecion : ye ordenne in alle haste for ye gouernance of oure lande
+And for ye saufwarde of seurkepyng of oure saide vesselx at Hampton and
+in othir places where as eure yay bee And yat yay of ye portes and of
+ye see coost al abowte be warned here of in alle haste and charged to
+be wel awaytyng and redy at al tymes if any suche thyng happen :
+SIGNET,110.043.214
+
+AUTHOR:HENRY_V_SIGNET[NON_CHANCERY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_043:M3:1419:COPY:OTHER
+yeuen vnder oure signet in oure Castel of Rouen ye xij day of ffeuerer
+SIGNET,110.043.215
+
+{ED:NON-CHANCERY_HAND}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_044> <A_HENRY_V_SIGNETRIEU>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_111>
+
+{ED:52}
+
+{ED:1419_C81/1366:9_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNETRIEU:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_044:M3:1419:COPY:OTHER
+By the King : SIGNET,111.044.216
+
+AUTHOR:HENRY_V_SIGNETRIEU:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_044:M3:1419:COPY:OTHER
+Worshipful fader in god oure trusty and welbeloued / We wol and charge
+yow +tat vnto oure Welbeloued clerc Iohn Hethe / ye doo make out
+writtes of Liberate and Allocate / from terme to terme / wi+t the
+clause / non obstante / +te $preferrement / of +tannuite of xx Marc /
+which we haue granted hym by oure lettres patentes / of the fee ferme /
+of oure town of Iarnemouthe / to take hit by +te handes of oure
+baillifs of the saide toun $for the tyme beyng / SIGNET,111.044.217
+
+AUTHOR:HENRY_V_SIGNETRIEU:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_044:M3:1419:COPY:OTHER
+And see+t +tat +tis be doon / notwi+tstandyng / any commandement /
+yeuen vnto yow / to +te contrary here afore / SIGNET,111.044.218
+
+AUTHOR:HENRY_V_SIGNETRIEU:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_044:M3:1419:COPY:OTHER
+Yeuen vnder oure signet / at oure town of Rouen +te xxviije day of
+ffeuerer SIGNET,111.044.219
+
+AUTHOR:HENRY_V_SIGNETRIEU:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_044:M3:1419:COPY:OTHER
+{ED:SIGNED} Andrieu SIGNET,111.044.220
+
+{ED:ANDRIEU'S_HAND}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_045> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_112>
+
+{ED:54}
+
+{ED:1419_C81/1366:6_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_045:M3:1419:COPY:OTHER
+By +te king : SIGNET,112.045.221
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_045:M3:1419:COPY:OTHER
+Worshipful fader yn god . oure right trusty and welbeloued . We grete
+yow wel . SIGNET,112.045.222
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_045:M3:1419:COPY:OTHER
+And we wol . +tat vpon +te contenue of +te supplicacion . whiche we
+sende yow closed here wi+tin : ye ordeine suche writtes of liberate and
+allocate vnto oure welbeloued knight william Cromewell . as haue be
+maade to o+ter afore +tis tyme in like cas . Notwi+tstanding +te
+preferrement of .x. . ml. li . SIGNET,112.045.223
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_045:M3:1419:COPY:OTHER
+And god haue yow in his keping . SIGNET,112.045.224
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_045:M3:1419:COPY:OTHER
+Yeuen vnder oure signet in oure Castel of Rouen +te xvij. day of Marche
+: SIGNET,112.045.225
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_046> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_112>
+
+{ED:55}
+
+{ED:1419_C81/1365:1_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_046:M3:1419:COPY:OTHER
+By +te king SIGNET,112.046.226
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_046:M3:1419:COPY:OTHER
+S SIGNET,112.046.227
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_046:M3:1419:COPY:OTHER
+$Worshipful fader yn god / oure right trusty and welbeloued . We grete
+yow wel / SIGNET,112.046.228
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_046:M3:1419:COPY:OTHER
+And we wol +tat seyen and vnderstande by yow +te matere contened in +te
+supplicacion / whiche we sende yow closed here wi+tin / touching
+certain +tinges granted vnto oure welbeloued squier . Ianico dartasse :
+as ye may se more pleinly . by +te saide supplicacion : ye doo ordeine
++tat he haue suche writtes as may Lawefully be hadde / and suche as yow
++tenke+t resounable in +te cas . SIGNET,112.046.229
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_046:M3:1419:COPY:OTHER
+And god haue yow in his keping . SIGNET,112.046.230
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_046:M3:1419:COPY:OTHER
+Yeuen vnder oure signet in oure town of vernon +te vj. day of Aueril
+SIGNET,112.046.231
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_046:M3:1419:COPY:OTHER
+S SIGNET,112.046.232
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_046:M3:1419:COPY:OTHER
+{ED:SIGNED} Shiryngton {ED:SHIRYNGTON'S_HAND} SIGNET,112.046.233
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_047> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_112>
+
+{ED:56}
+
+{ED:1419_C81/1365:2_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_047:M3:1419:COPY:OTHER
+S SIGNET,112.047.234
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_047:M3:1419:COPY:OTHER
+By +te king SIGNET,112.047.235
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_047:M3:1419:COPY:OTHER
+S SIGNET,112.047.236
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_047:M3:1419:COPY:OTHER
+Worshipful fader in god / oure Right trusty and welbeloued . We grete
+yow wel / SIGNET,112.047.237
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_047:M3:1419:COPY:OTHER
+And we wol +tat after +te teneur of a supplicacion . whiche <P_113> we
+sende yow closed wi+t ynne +tis / ye do make oure lettres of
+saufconduit . vnder oure grete seel in due forme / duryng for a yere /
+SIGNET,113.047.238
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_047:M3:1419:COPY:OTHER
+And god haue yow in his keping / SIGNET,113.047.239
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_047:M3:1419:COPY:OTHER
+Yeuen vnder oure signet in oure towne of vernon +te xxthe. day of Auril
+SIGNET,113.047.240
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_047:M3:1419:COPY:OTHER
+S SIGNET,113.047.241
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_047:M3:1419:COPY:OTHER
+{ED:SIGNED} Shiryngton SIGNET,113.047.242
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_048> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_---> <R_JOHN_OF_LANCASTER>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_1389>
+
+<P_113>
+
+{ED:57}
+
+{ED:1419_COTTON_GALBA_B.I_FOL._157_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:30
+LETTER:SIGNET_048:M3:1419:COPY:OTHER
+By +te king SIGNET,113.048.243
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:30
+LETTER:SIGNET_048:M3:1419:COPY:OTHER
+S SIGNET,113.048.244
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:30
+LETTER:SIGNET_048:M3:1419:COPY:OTHER
+Right trusty and welbeloued bro+ter / We grete yow wel /
+SIGNET,113.048.245
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:30
+LETTER:SIGNET_048:M3:1419:COPY:OTHER
+And we lete yow wite / how +tat +tei of .iiij. membres of flandres
+desiren by +taire lettres sent to vs / +tat we wolde continue and
+prorogue +te seurtees and prouisions ordeined afore +tis time for +te
+cours of marchandise . betwix oure Rewme of England and +te cuntre of
+flandres +te whiche prouisions and seurtees expired at Ester last / as
+ye may se more plainly by +te copie closed wi+tin +tis of +te said
+iiij. membres lettres SIGNET,113.048.246
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:30
+LETTER:SIGNET_048:M3:1419:COPY:OTHER
+S SIGNET,113.048.247
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:30
+LETTER:SIGNET_048:M3:1419:COPY:OTHER
+Also we send yow closed wi+tin +tis / a copie of oure lettre Responsiue
+vnto +te lettres abouesaid / and +te forme of an Instruccion of certain
+prouisions / whiche we wol / be added to +tat o+tir seurtees and
+prouisions afore tyme / at +te next taking newe of +te forsaid seurtees
+and prouisions by oure Commissaires / suche as by yow / wi+t avis of
+oure $Chancellor and o+tir of oure conseil shul be deputed and ordeined
+for to goo to Calais for +tat cause SIGNET,113.048.248
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:30
+LETTER:SIGNET_048:M3:1419:COPY:OTHER
+S SIGNET,113.048.249
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:30
+LETTER:SIGNET_048:M3:1419:COPY:OTHER
+ffer+termore whan +tat ye haue seyen and vnderstande +tees oure lettres
+and copies closed +terin . we wol +tat ye write vnto +te said .iiij.
+membres / certifieng hem . how +tat by oure comandement . ye write vnto
+hem / to be certified at what tyme +taire Ambassiatours . shullen be
+redy at oure towne of Calais . for +te said cause / ayein +te whiche
+tyme / we wolde oure Commissaires were +tere also . SIGNET,113.048.250
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:30
+LETTER:SIGNET_048:M3:1419:COPY:OTHER
+And god haue yow in his keping . SIGNET,113.048.251
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:30
+LETTER:SIGNET_048:M3:1419:COPY:OTHER
+Yeuen vnder oure signet in oure towne of vernon +te xxviij day of
+Auerill SIGNET,113.048.252
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:30
+LETTER:SIGNET_048:M3:1419:COPY:OTHER
+S SIGNET,113.048.253
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:30
+LETTER:SIGNET_048:M3:1419:COPY:OTHER
+{ED:SIGNED} Shiryngton SIGNET,113.048.254
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_049> <A_HENRY_V_SIGNET[TOLY]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_114>
+
+{ED:58}
+
+{ED:1419_C81/1365:4_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_049:M3:1419:COPY:OTHER
+By +te king . SIGNET,114.049.255
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_049:M3:1419:COPY:OTHER
+Worshipful fader yn god oure right trusty and welbeloued / We grete yow
+wel / SIGNET,114.049.256
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_049:M3:1419:COPY:OTHER
+And we sende yow closed wi+t ynne +tees oure lettres . a supplicacion
+of greuous compleynt / put vnto vs by . sir Rogier wodehill person of
+Strete / as ye may see more clerely by +te same supplicacion / wherfor
+we wol +tat +te forsaide supplicacion wel vnderstanden and considered
+by yow / ye doo calle before yow bothe parties speciffied in +te same
+supplicacion / and +taire causes herd / +tat ye doo vnto hem boothe /
+right and equite / and in especial +tat ye see +tat +te porer partye
+suffre no wrong / but +tat ye make suche an ende in +tis matiere / +tat
+$we {ED:EMENDED_WORD_SUPERIOR_INSERT} be nomore vexed hereafter wi+t
+taire complaintes / SIGNET,114.049.257
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_049:M3:1419:COPY:OTHER
+And god haue yow in his keping / SIGNET,114.049.258
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_049:M3:1419:COPY:OTHER
+yeuen vnder oure signet / at oure town of Vernon +te .xxviij. day of
+Auerill SIGNET,114.049.259
+
+{ED:TOLY'S_HAND}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_050> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_114>
+
+{ED:59}
+
+{ED:1419_C81/1365:3_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_050:M3:1419:COPY:OTHER
+By +te king SIGNET,114.050.260
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_050:M3:1419:COPY:OTHER
+S SIGNET,114.050.261
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_050:M3:1419:COPY:OTHER
+Worshipful fader yn god oure right trusty and welbeloued . We grete yow
+wel SIGNET,114.050.262
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_050:M3:1419:COPY:OTHER
+And for asmuche as we be enfourmed / +tat oure lettres patentes by +te
+whiche we haue granted vnto oure welbeloued squier Pierres Garueys .
++te warde of +te landes and tenement+g +tat were hugh ffastolfs knight
++tat is $god $betaght {TEXT:godbetaght} : be nat vaillable . by cause .
++te value is nat expressed . in oure saide lettres / and also . for
+suche wardes been assigned for +te despenses of oure howsholde . we wol
+. +tat ye do make vnto oure said squier oure lettres patentes vnder
+oure grete seel in due forme / of +te said warde beryng +te date of
+oure furst grante . nat wi+tstanding +tat mencion is nat maade of +te
+verraye value yerly / and also natwi+tstandyng +tat suche wardes been
+assigned for +te despenses of oure howshold . SIGNET,114.050.263
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_050:M3:1419:COPY:OTHER
+for hit is oure wille +tat he $haue {ED:EMENDED_WORD_SUPERIOR_INSERT}
+suche lettres patentes as may be vaillable <em> and resonabe </em>
+{ED:EMENDED_WORDS_SUPERIOR_INSERT} to him in +tis caas .
+SIGNET,114.050.264
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_050:M3:1419:COPY:OTHER
+Yeuen vnder oure signet in oure towne of vernon +te xxviij day of
+Auerill SIGNET,114.050.265
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_050:M3:1419:COPY:OTHER
+S SIGNET,114.050.266
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_050:M3:1419:COPY:OTHER
+{ED:SIGNED} Shiryngton SIGNET,114.050.267
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_051> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_115>
+
+{ED:60}
+
+{ED:1419_C81/1366:13_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_051:M3:1419:COPY:OTHER
+By +te king SIGNET,115.051.268
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_051:M3:1419:COPY:OTHER
+Worshipful fader yn god oure right trusty and welbeloued . We grete yow
+wel / SIGNET,115.051.269
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_051:M3:1419:COPY:OTHER
+And for asmuche as we haue ordeined oure trusty and welbeloued knyght
+Iohn of Radclif . to be oure Conestable of Bourdeux And also to be
+Captaine of oure Castel of fronsac for +te grete trust +tat we haue to
+his trewthe and discrecion . we wol and charge yow +tat by +tauis of
+oure bro+ter of Bedford and o+ter of oure conseil +tere in Englande .
+ye trete and accorde wi+t +te said Iohn for his abidyng +tere . And so
++tat he may do vs good seruice . as hit seme+t best to youre
+discrecions for oure auantage and proffit of +te cuntree And +tat ye
+spede him in al +te haste +tat {in}_P ye may . And se +tat he tarye not
++tere : as oure trust is to yow SIGNET,115.051.270
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_051:M3:1419:COPY:OTHER
+And god <em> haue yow </em> in his keping SIGNET,115.051.271
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_051:M3:1419:COPY:OTHER
+Yeuen vnder oure signet in oure Castel of Rouen +te {ED:...}
+SIGNET,115.051.272
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_051:M3:1419:COPY:OTHER
+{ED:SIGNED} $Shiryngton SIGNET,115.051.273
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_052> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_115>
+
+{ED:61}
+
+{ED:1419_C81/1365:5_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_052:M3:1419:COPY:OTHER
+Worshipful fader yn god / oure right trusty and welbeloued . We grete
+yow wel SIGNET,115.052.274
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_052:M3:1419:COPY:OTHER
+And we wol +tat vpon +te contenu of +te supplicacion closed wi+tin +tis
+/ ye do make vnto oure welbeloued seruant Piers Logge / yeman of oure
+Chambre oure writtes of liberate and allocate vnder oure grete seal in
+due fourme / by vertue of +te whiche / he may haue paiement of al +tat
+is behinde and due vnto him of vj. d a day / by +te handes of +te
+visconte of Wilton . not wi+tstanding +te preferrement of x. ml. li .
++tat we haue as ye knowe wel / SIGNET,115.052.275
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_052:M3:1419:COPY:OTHER
+And god haue yow in his keping . SIGNET,115.052.276
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_052:M3:1419:COPY:OTHER
+yeuen vnder oure signet in oure towne of Mante +te xix. day of Iuyn
+SIGNET,115.052.277
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_052:M3:1419:COPY:OTHER
+S SIGNET,115.052.278
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_052:M3:1419:COPY:OTHER
+{ED:SIGNED} Shiryngton SIGNET,115.052.279
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_053> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_116>
+
+{ED:62}
+
+{ED:1419_C81/1365:6_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_053:M3:1419:COPY:OTHER
+By +te king SIGNET,116.053.280
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_053:M3:1419:COPY:OTHER
+Worshipful fader yn god : oure right trusty and welbeloued / We grete
+yow wel / SIGNET,116.053.281
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_053:M3:1419:COPY:OTHER
+And for asmuche as we haue a manere of dowte / whether kynwolmersh
+occupie clerely and wi+towte scrupule / +tospital of saint Antony by
+oure yifte or noo / for to eschewe +te peril yn conscience / +tat myght
+be vnto vs by +te yeuyng / and to hym $by +te resceyuyng of +te said
+hospital / +tat god defende / on lasse +tan +te title wher clere yn
+lawe and conscience . We wol ye do make a patent vnder oure greet seel
+vnto +te said kynwolmersh of +te Deanee of saint $martines grande yn
+London . Takyng furst of him souffissante seurtee +tat he shal be redy
+al tymes to resigne +te said hospital / whan vs like+t to commande hym
+/ SIGNET,116.053.282
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_053:M3:1419:COPY:OTHER
+And yf hit be $found +tat noo scrupule be yn oure yifte . +tat we made
+vnto hym of +te said hospital / wherof we wolde ye sent vs worde yn al
+goodely haste . +tan we wol +tat kynwolmersh chese to kepe / stille
+whether hym ha+t leuer +te forsaid $Deanee or hospital /
+SIGNET,116.053.283
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_053:M3:1419:COPY:OTHER
+And If hym ha+t leuer +te Deanee / and to leue +tospital we holde vs
+content / SIGNET,116.053.284
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_053:M3:1419:COPY:OTHER
+but +tan hit is oure wille / +tat +tow he kepe stille +tospital wi+t te
+Deanee for a tyme / to +tat we haue disposed +terfore / +tat he
+dispende not +te Reuenues and comoditees of +te said hospital / but
+kepe +taym stille hooly vnto oure comyng hoom with goddes grace .
+SIGNET,116.053.285
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_053:M3:1419:COPY:OTHER
+And If he wol perauanture holde stille +tospital if hit stande clere .
+we wol he fynde semblable seurte to resigne +te Deanee ayein into oure
+handes SIGNET,116.053.286
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_053:M3:1419:COPY:OTHER
+And god haue yow in his keping . SIGNET,116.053.287
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_053:M3:1419:COPY:OTHER
+Yeuen vnder oure signet in oure town of Mante +te xx. day of Iuyn
+SIGNET,116.053.288
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_053:M3:1419:COPY:OTHER
+S SIGNET,116.053.289
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_053:M3:1419:COPY:OTHER
+{ED:SIGNED} $Shiryngton SIGNET,116.053.290
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_054> <A_HENRY_V_SIGNET[CAUD]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_116>
+
+{ED:63}
+
+{ED:1419_C81/1365:7_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[CAUD]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_054:M3:1419:COPY:OTHER
+By +te kyng SIGNET,116.054.291
+
+AUTHOR:HENRY_V_SIGNET[CAUD]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_054:M3:1419:COPY:OTHER
+Worshipful fadre in god / and oure Ri+gt trusty and welbeloued : We
+grete you wel / SIGNET,116.054.292
+
+AUTHOR:HENRY_V_SIGNET[CAUD]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_054:M3:1419:COPY:OTHER
+And for asmuche as by $+te $expresse {TEXT:+texpresse} and especiale
+avyse and consent of oure Ri+gt trusty and welbeloued vncle +te Duc of
+Excestre / to whome we had granted by oure lettres patentes +te keping
+<P_117> of alle +te landes +tat shul longe by heritage vnto oure trusty
+and welbeloued Cousin Iohn son and heire to william Roos of hamelak
++tat helde of vs in chief +te day he deyed on / durynge +te non age of
++te said Iohn : we of oure speciale grace haue granted vnto oure said
+Cousin plein lyuere of alle +te landes +tat longen / or may longe vnto
+him by heritage wy+tynne oure Reaume of Engeland / or elleswhere aftre
++te fourme of a copie of a patent annexed to a supplicacion take to vs
+: +te whiche we sende you closed wy+tynne +tees oure lettres : we wol
+and charge you +tat in al +te goodely hast +tat {in}_P ye may ye make
+vpon oure said grant to oure said Cousin oure lettres patentes aftre
++te fourme of +te said copie +tat we sende you and also suche wryttes
+of lyuere / and yn suche fourme and nombre as is necessarie and
+vaylable for him wi+t al +te h {ED:...} and fauour +tat {with}_P ye may
+. So +tat +tis be not take to non euel example : notwy+tstandyng +tat
+of oure grace we wol hit SIGNET,117.054.293
+
+AUTHOR:HENRY_V_SIGNET[CAUD]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_054:M3:1419:COPY:OTHER
+$And god haue you in his keping : SIGNET,117.054.294
+
+AUTHOR:HENRY_V_SIGNET[CAUD]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_054:M3:1419:COPY:OTHER
+Yeuen vnder oure signet at oure towne of Mant +te xxiij. day of Iuyne
+SIGNET,117.054.295
+
+AUTHOR:HENRY_V_SIGNET[CAUD]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_054:M3:1419:COPY:OTHER
+{ED:SIGNED} Caud ... SIGNET,117.054.296
+
+{ED:HAND_CAUD}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_055> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_117>
+
+{ED:64}
+
+{ED:1419_C81/1365:8_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_055:M3:1419:COPY:OTHER
+By +te kyng SIGNET,117.055.297
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_055:M3:1419:COPY:OTHER
+S SIGNET,117.055.298
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_055:M3:1419:COPY:OTHER
+Worshipful fader yn god / oure right trusty and welbeloued / We grete
+yow wel SIGNET,117.055.299
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_055:M3:1419:COPY:OTHER
+And forasmuche / as we lete sende for maistre Richard garsedale oon of
++te contendentes of +te prouoste of +te Oriell to +tat ende +tat for
+his partie / shulde no thyng be poursuyd neither at +te Courte of Rome
+ne elles $where {ED:EMENDED_WORD_SUPERIOR_INSERT} but +tat / +tat
+controuersie shulde be put in Respit vnto oure comyng hoom wi+t goddes
+grace / for oure occupacion is suche +tat we mow nat wel entende to
+suche materes here / Wherefore we wol +tat ye make boo+te +te said
+garsdale whiche come+t now hoom be oure leue / and also Lentwardyn /
+com afore yow / and +tat ye take seurte soufficeant of bothe +te
+parties / +tat neither of hem shal make fer+ter poursuyt of appelle at
+Courte of Rome / ner no manere of poursuyt +tere or elles where / as
+touching +te said contrauersie vnto oure comyng as before / at whiche
+tyme oure entent ys / to put +te same controuersie to a goode and
+rightwyse conclusion <P_118> and +te said partie yn Rest . And yf any
+of hem haue +te saide poursuyt of apelle hangyng yn Court +tat +tey
+abate hit / and sende to Revoke hit yn al haste / and +tat +tay make al
+suche as been +taire attornes or doers yn Court spirituel or temporel
+to surcesse . SIGNET,118.055.300
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_055:M3:1419:COPY:OTHER
+And we wol fer+termore as touching oure said College of +toriell / +tat
+ye put hit yn suche gouernance / as semeth to yowre Discrecion for to
+doo vnto oure Comyng . SIGNET,118.055.301
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_055:M3:1419:COPY:OTHER
+And god haue yow yn his keping / SIGNET,118.055.302
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_055:M3:1419:COPY:OTHER
+Yeuen vnder oure signet in oure town of Mante +te vij day of Iuill
+SIGNET,118.055.303
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_055:M3:1419:COPY:OTHER
+S SIGNET,118.055.304
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_055:M3:1419:COPY:OTHER
+{ED:SIGNED} Shiryngton SIGNET,118.055.305
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_056> <A_HENRY_V_SIGNET[TOLY]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_118>
+
+{ED:65}
+
+{ED:1419_C81/1365:9_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_056:M3:1419:COPY:OTHER
+By +te kyng SIGNET,118.056.306
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_056:M3:1419:COPY:OTHER
+Worshipful fader yn god / oure right trusty and welbeloued / We grete
+yow wel / SIGNET,118.056.307
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_056:M3:1419:COPY:OTHER
+And we sende yow closed wi+t yn +tees / $a supplicacion put vnto vs /
+by oure poure ligeman Iohan Bone . vpon whiche supplicacion / we wol
++tat ye doo hym haue +tat that right and lawe wollen yn +te cas / but
++tat o+tersyde beeth wel avysed or to grete duresse be shewed vnto hym
+/ or to any of oure suggettes yn persone or yn goodes / for +te
+suggestions or appechementes of $him {ED:EMENDED_WORD_SUPERIOR_INSERT}
++tat calleth hym self person of wortham . vnto +te tyme +te verray
+trow+te be clerely examined and knowen / of his accusacions / o+ter
+elles +too +tat he accuseth . han be noted afore tyme of suche
+defaultes . SIGNET,118.056.308
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_056:M3:1419:COPY:OTHER
+for +te forsaid person is holden to besy in suche maters /
+SIGNET,118.056.309
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_056:M3:1419:COPY:OTHER
+And god haue yow in his keping / SIGNET,118.056.310
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_056:M3:1419:COPY:OTHER
+Yeuen vnder oure signet in oure town of Mante +te xj. day of Iuill
+SIGNET,118.056.311
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_056:M3:1419:COPY:OTHER
+S SIGNET,118.056.312
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_057> <A_HENRY_V_SIGNET[TOLY]>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_---> <R_JOHN_OF_LANCASTER>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_1389>
+
+<P_118>
+
+{ED:66}
+
+{ED:1419_E28/33:5_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:30
+LETTER:SIGNET_057:M3:1419:COPY:OTHER
+By +te king . SIGNET,118.057.313
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:30
+LETTER:SIGNET_057:M3:1419:COPY:OTHER
+Right trusty and welbeloued bro+ter / We grete yow wel /
+SIGNET,118.057.314
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:30
+LETTER:SIGNET_057:M3:1419:COPY:OTHER
+And we <P_119> sende yow closed wi+t ynne +tees oure lettres / a
+supplicacion putte vnto vs / on +te behalue of will Godard and Agneis
+his wyf / Wolnyng / +tat knowelache hadde of +te trouthe of +te matere
+contened in +te same supplicacion / ye calle vnto yow oure Iustices /
+And by +taire aduis / ordeineth +tat bothe parties nempned in +te
+forsaide supplicacon haue right / soo +tat nouther of +taim haue cause
+to compleine hereafter for defaute of Iustice / SIGNET,119.057.315
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:30
+LETTER:SIGNET_057:M3:1419:COPY:OTHER
+And god haue yow in his keping / SIGNET,119.057.316
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:30
+LETTER:SIGNET_057:M3:1419:COPY:OTHER
+yeuen vnder oure signet at oure toun of Mante . +te .xij. day of Iuill
+: SIGNET,119.057.317
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:BROTHER:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:BROTHER:1389:30
+LETTER:SIGNET_057:M3:1419:COPY:OTHER
+{ED:SIGNED} Toly SIGNET,119.057.318
+
+{ED:TOLY'S_HAND}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_058> <A_HENRY_V_SIGNET[TOLY]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_JOHN_OF_LANCASTER>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1389>
+
+<P_119>
+
+{ED:67}
+
+{ED:1419_C81/1365:10_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_058:M3:1419:COPY:OTHER
+By +te king SIGNET,119.058.319
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_058:M3:1419:COPY:OTHER
+Worshipful fader in god / oure right trusty and welbeloued / We grete
+yow wel / SIGNET,119.058.320
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_058:M3:1419:COPY:OTHER
+And we wol ye wyte / +tat +te priour of oure hows of saint Bartholomew
+/ in Westsmythfeld of London haa+t poursued vnto vs here on +tis side
++te see / for confirmacion of alle +te yiftes grantes / priuileges /
+franchises and libertees graunted vnto oure saide hows by oure
+progenitours and predecessours / SIGNET,119.058.321
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_058:M3:1419:COPY:OTHER
+And for asmuche : as ye might by vertue of youre office haue doo maad
+hym oure lettres of confirmacion wi+toute +tat hym shulde haue neded to
+poursue ferther vnto vs / we suppose +tere bee sum cause resounable /
+why ye haue not doo hit / in cas +tat he haue poursued vnto yow +terfor
+/ wherfor if ye knowe any suche cause why ye aught not to make hym oure
+forsaide lettres / we wol +tat ye certiffie vs what hit is And if +tere
+noon bee / +tat +tanne ye doo maake vnto +te forsaide priour and to +te
+conuent of oure saide hows of seint Bertholomew / oure lettres patentes
+of confirmacion vnder oure greet seel in due fourme of alle +te yiftes
+/ grantes / priuileges / franchises and libertes / whiche +tay haue /
+as is abouesaid of +te yifte or grant of oure progenitours and
+predecessours / leuyng out +te clause licet / SIGNET,119.058.322
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_058:M3:1419:COPY:OTHER
+And god haue yow in his keping / SIGNET,119.058.323
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_058:M3:1419:COPY:OTHER
+yeuen vnder oure signet / at oure town of Mante . +te .xxij. Day of
+Iuyll SIGNET,119.058.324
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_058:M3:1419:COPY:OTHER
+{ED:SIGNED} Toly SIGNET,119.058.325
+
+{ED:TOLY'S_HAND}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_059> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_JOHN_OF_LANCASTER>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1389>
+
+<P_120>
+
+{ED:68}
+
+{ED:1419_C81/1365:11_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_059:M3:1419:COPY:OTHER
+By +te kyng SIGNET,120.059.326
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_059:M3:1419:COPY:OTHER
+S SIGNET,120.059.327
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_059:M3:1419:COPY:OTHER
+Worshipful fader yn god / oure Right trusty and welbeloued / we grete
+yow wel / SIGNET,120.059.328
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_059:M3:1419:COPY:OTHER
+And for asmuche as we haue granted vnto oure welbeloued clerc of oure
+Chapelle / Thomas Gyles / +te prebende whiche / Iohn Cooke late clerc
+of oure saide Chapelle / hadde wi+tin oure free Chapelle of hastynges .
+We wol +tat +tervpon ye do make oure lettres patentes in due fourme .
+vnder oure grete seel / as +te cas asketh / SIGNET,120.059.329
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_059:M3:1419:COPY:OTHER
+Yeuen vnder oure signet in oure town of Mante +te xxv. Day of Iuill
+SIGNET,120.059.330
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_059:M3:1419:COPY:OTHER
+S SIGNET,120.059.331
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_059:M3:1419:COPY:OTHER
+{ED:SIGNED} Shiryngton SIGNET,120.059.332
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_060> <A_HENRY_V_SIGNET[CHANCERY5]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_JOHN_OF_LANCASTER>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1389>
+
+<P_120>
+
+{ED:69}
+
+{ED:1419_COTTON_VESP._F.I._FOL._104_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY5]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_060:M3:1419:COPY:OTHER
+Worshipful fader in god oure right trusty and welbeloued . We grete yow
+wel / SIGNET,120.060.333
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY5]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_060:M3:1419:COPY:OTHER
+And wol ye wete / yat we haue Receiued youre lettres whiche ye sent vs
+last by hugh of oure chambre / by whiche we conceive / yat among other
+yinges whiche ye write vn to vs of / ye desire to knawe oure entent
+touchyng ye trewes taken vn to Alhalwen tyde betwix vs and flaundres /
+of whiche trewes writtes of proclamacion been passed vnder oure grete
+seel . whervpon we wol ye wete / yat we hald vs agreed of ye
+proclamacion / after as in ye writtes be contened / SIGNET,120.060.334
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY5]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_060:M3:1419:COPY:OTHER
+And in cas yat yay of flaundres wol here after desire prorogacion of ye
+said trewes / we wolde yay were halden in hand wiy tretee / vn to ye
+tyme ye haue certiffied vs yerof / and knowe oure entent ayeinward /
+SIGNET,120.060.335
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY5]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_060:M3:1419:COPY:OTHER
+And of o thing we wold ye were wel aduised / yat in any trewes takyng
+<em> with hem </em> {ED:EMENDED_WORDS_SUPERIOR_INSERT} hereafter yere
+were put yn / alle oure suggettes as wel of oure duchie of Normandie /
+and of oure other lordshippes / as of oure Reaume of Englond
+SIGNET,120.060.336
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY5]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_060:M3:1419:COPY:OTHER
+And as touchyng ye tretee wiy yembassiatours of Gene / of whiche ye
+haue send vs a cedule / sent vn to yowe be Escourt / In whiche cedule
+the merchantes of oure Reaume of England asken after ye vttermast
+estimacion of yayre godes yat were taken be ye Ianeuoys .x ml. li . And
+ye same Ianevoys maken estimacion of ye same goodes at vii. <P_121> ml.
+Cxxiiij. li . wolnyng for to stand in oure goode grace et beniuolence
+paye wiy oute any excepcion / iiij. ml. li . at Resonable termes /
+SIGNET,121.060.337
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY5]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_060:M3:1419:COPY:OTHER
+oure subgettes and oure merchandes of oure land hauyng hereaftre fre
+commyng and goyng to Gene / as yay of Gene desire to haue in to oure
+Reaume of England / witteth yat consideryng ye vnese yat ye merque of
+hem of Gene haay / doon : as wel in strengthyng of oure ennemys / as in
+hindryng of ye cours of marchandise betwix oure Reaume and yaym / and
+tourneth to noon neer ende for hom yat han ye merque . yan {to}_P hit
+did / at bygynnyng / vs yenkey SIGNET,121.060.338
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY5]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_060:M3:1419:COPY:OTHER
+and we wold / yat such somme as yay profer were accepted / yf no
+gretter myght be haad in short tyme / wiy ye condicion yat we
+vnderstond / yay profre / yat is / yat oure sugettes of Englond
+etcetera : may be fre in alle yaire portes <em> to which we wold were
+put yat oure subgit+g shuld be free in alle yaire portes </em>
+{ED:THE_TEXT_IN_BRACKETS_SUPERIOR_INSERT} as wel as to passe by hem to
+what other portes {to}_P yaim lust by waye of marchandise / if this
+myght be haad . SIGNET,121.060.339
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY5]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_060:M3:1419:COPY:OTHER
+And alle this we committe to yow and to ye Remenant of oure counseil to
+be wroght after youre discrecions and comun aduis / SIGNET,121.060.340
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY5]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_060:M3:1419:COPY:OTHER
+for as $of {ED:EMENDED_WORD_SUPERIOR_INSERT} ye somme al ying
+considered / we halde hit Resounable o lasse yenne more may be geten /
+wiy oute taryeng of yaccord / SIGNET,121.060.341
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY5]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_060:M3:1419:COPY:OTHER
+And if yis matere myght be concluded in oure Reaume of England before
+yow / hit were oure entent / SIGNET,121.060.342
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY5]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_060:M3:1419:COPY:OTHER
+And ellis if yat may not bee / we wol wel yat yeende be maade at Calais
+wyt a goode Instruccion And yat it be seyn / yat yay be wel bounden /
+not to {ED:holde_CANCELLED} $helpe {ED:EMENDED_WORD_SUPERIOR_INSERT}
+nor suffre non of yaires to helpe noon of oure ennemys ayeines vs ner
+noon of oures / nouther be land ner water / And yat in ye best wise yat
+may be haade . SIGNET,121.060.343
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY5]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_060:M3:1419:COPY:OTHER
+Also as touchyng yat now late ye saide Ambassiatours of Gene haue
+writen vn to oure Ambassiatours sharpely / yat {ED:Awe_CANCELLED} <em>
+al be </em> {ED:EMENDED_WORDS_SUPERIOR_INSERT} hit / yat yaire vessell
+and marchandes haan been late taken be oure suggettes / ye tretee of
+pees so nigh concluded / neuer ye later yay wol a byde an answar after
+as was accorded whiche haad from vs / yay wol send to Gene / Not
+wolnyng other wise yanne as before trete ner conclude / but yf yay haue
+other in commandement from yaire souueraines / The answar may be wel
+maad yat til yai be ful thorogh wiy vs / yat yay shal no thyng haue but
+werre / SIGNET,121.060.344
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY5]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_060:M3:1419:COPY:OTHER
+And yerfor desire of hem to make ye sonner ende / SIGNET,121.060.345
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY5]:MALE:_:_:_
+RECIPIENT:JOHN_OF_LANCASTER:MALE:_:1389:30
+LETTER:SIGNET_060:M3:1419:COPY:OTHER
+for in oure partie / and yay wol be Resounable hit shal not halde / but
+yat good Rest and frensship shal be / SIGNET,121.060.346
+
+{ED:CHANCERY_HAND_EXCEPT_y_FOR_+t}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_061> <A_HENRY_V_SIGNET[HENRY5?]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_UNKNOWN_RECIPIENT_2>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_122>
+
+{ED:70}
+
+{ED:1419[?]_VESP._F._III._FOL._8._AUTOGRAPH_DRAFT_BY_HENRY_V?}_C ODE
+
+AUTHOR:HENRY_V_SIGNET[HENRY5?]:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_2:MALE:_:_:_
+LETTER:SIGNET_061:M3:1419:COPY:OTHER
+Furthremore I wole that ye comend with my brothre with the chanceller
+with my cosin of northumbrelond and my cosin of $Westmerland and that
+ye set a gode ordinance for my north marches and specialy for the Duc
+of $Orlians . and for alle the remanant of my prisoners of France . and
+also for the king of Scotelond . SIGNET,122.061.347
+
+AUTHOR:HENRY_V_SIGNET[HENRY5?]:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_2:MALE:_:_:_
+LETTER:SIGNET_061:M3:1419:COPY:OTHER
+for as I am secrely enfourmed by a man of ryght notable estate in this
+lond that there hath ben a man of the Ducs of Orliance in scotland and
+accorded with the Duc of albany . that this next somer he shal bryng in
+the maumet of Scotland to sturre what he may . and also that ther
+schold be founden weys to the havyng awey specialy of the Duc of
+Orlians . and also of the king as welle as of the remanant of my
+forsayd prysoners that god do defende . wherfore I wolle that the Duc
+of Orliance be kept $stille withyn the castil of pontfret with owte
+goyng to robertis place or to any othre disport . SIGNET,122.061.348
+
+AUTHOR:HENRY_V_SIGNET[HENRY5?]:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_2:MALE:_:_:_
+LETTER:SIGNET_061:M3:1419:COPY:OTHER
+for it is bettre he lak his $disport $then we were disceyued .
+SIGNET,122.061.349
+
+AUTHOR:HENRY_V_SIGNET[HENRY5?]:MALE:_:_:_
+RECIPIENT:UNKNOWN_RECIPIENT_2:MALE:_:_:_
+LETTER:SIGNET_061:M3:1419:COPY:OTHER
+of alle the remanant dothe as ye thenketh SIGNET,122.061.350
+
+{ED:NON-CHANCERY_HAND;_HENRY_V'S_OWN_HAND_?}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_062> <A_HENRY_V_SIGNET[CHANCERY6]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_PRIVY_COUNCIL>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_122>
+
+{ED:71}
+
+{ED:1419_E28/33:13_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY6]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_062:M3:1419:COPY:OTHER
+By the king SIGNET,122.062.351
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY6]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_062:M3:1419:COPY:OTHER
+Trusty and welbeloued We grete you wel . SIGNET,122.062.352
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY6]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_062:M3:1419:COPY:OTHER
+And as touching youre credence to declare to +te Lordes esperituel and
+temporel and also to al +te gentilmen and comunes of oure contree of
+guyenne aftre +tat ye haue presented to ham oure Lettre the copie of
++te whiche we sende vnto you closed in +tees to +tat ende +tat +ter
+vpon ye may grounde youre saide credence +te better to oure entencion
+and desir / the whiche been +tees +tat for the seuretee and
+conseruacion of oure saide contree we wol and desire +tat +te saide
+estat+g gentilmen and communes by general assent grante vs a fuage
++torow oute al oure forsaide contree and +tat aswel vpon esperituel
+persones as temporel for +te sauuacion of oure contree and harmyng of
+oure enemis And also if nede be +tat more be granted +tan +te same
+fuage we wol +tat by +te good auys <P_123> of oure trusty and
+welbeloued +terle of Longuille Captal de buch and +tat ye see also in
+youre good auys and discrecion what +tat yow semeth best and +tat ye
+laboure it by +te best deliberacion and diligence +tat ye can and may
+as oure trust is to you and as ye desire oure lordship
+SIGNET,123.062.353
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY6]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_062:M3:1419:COPY:OTHER
+God haue <em> you in </em> his kepyng SIGNET,123.062.354
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY6]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_062:M3:1419:COPY:OTHER
+yeuen vnder oure signet at oure toune of Mante +te xj day of Octobre
+SIGNET,123.062.355
+
+{ED:CHANCERY_HAND}
+
+<Q_SIG_C_1419_T_HENRY5> <L_SIGNET_063> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_123>
+
+{ED:72}
+
+{ED:1419_C81/1365:12_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_063:M3:1419:COPY:OTHER
+By +te king SIGNET,123.063.356
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_063:M3:1419:COPY:OTHER
+Worshipful fader in god oure right trusty and welbeloued We wol +tat ye
+sende hedir vnto vs sir Thomas Suthwell preste / in al resonable haste
+. SIGNET,123.063.357
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_063:M3:1419:COPY:OTHER
+And fer+termore we wol and also charge you +tat ye ordeyne +tat +tat be
+effectuelly doon in dede . +tat we wrote vnto you as touching +te Duc
+of Orliens as oure trust is to you . SIGNET,123.063.358
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_063:M3:1419:COPY:OTHER
+for the cas is so grete +tat ye ne couthe not ymagyn hit gretter .
+SIGNET,123.063.359
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_063:M3:1419:COPY:OTHER
+And as touching +te chirche of Lughtbourgh in contie of Lercestre
+longyng to oure yift : we wol wel +tat oure welbeloued clerc Robert
+ffry remembred to vs by youre lettres haue +te saide chirche / So +tat
+he be preste or atte leste infra sacros wi+t yn +tis yere aftre +te
+tenour of +te comun lawe SIGNET,123.063.360
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:59?
+LETTER:SIGNET_063:M3:1419:COPY:OTHER
+Yeuen vnder oure signet at oure toune of Mante +te first day of
+Nouember . SIGNET,123.063.361
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1420_T_HENRY5> <L_SIGNET_064> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_---> <R_HUMPHREY_OF_LANCASTER>
+<R-GENDER_MALE> <R-REL_BROTHER> <R-DOB_1390>
+
+<P_123>
+
+{ED:73}
+
+{ED:1420-21_SC1/43:160_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_OF_LANCASTER:MALE:BROTHER:1390:30
+LETTER:SIGNET_064:M3:1420:COPY:OTHER
+By +te kyng SIGNET,123.064.362
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_OF_LANCASTER:MALE:BROTHER:1390:30
+LETTER:SIGNET_064:M3:1420:COPY:OTHER
+Right trusty and Welbeloued bro+ter . We sende yow closed wi+t ynne
++tees / a supplicacion put vnto vs : by William Mynours . yeman
+huissher of oure Chambre . SIGNET,123.064.363
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_OF_LANCASTER:MALE:BROTHER:1390:30
+LETTER:SIGNET_064:M3:1420:COPY:OTHER
+And hit ys oure wille : +tat ye be as fauorable to him yn +tis matere :
+as ye may resounably : And +tat al +te fauour be doon vnto him / bothe
+afore oure chief Iustice of oure benche / and also afore oure
+Chaunceller : that may be doon / by Lawe <P_124> conscience and reson .
+SIGNET,124.064.364
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_OF_LANCASTER:MALE:BROTHER:1390:30
+LETTER:SIGNET_064:M3:1420:COPY:OTHER
+And bro+ter see ye +terto . Consideryng his beyng here in oure seruice
+. yn wyse as ye wote . SIGNET,124.064.365
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_OF_LANCASTER:MALE:BROTHER:1390:30
+LETTER:SIGNET_064:M3:1420:COPY:OTHER
+Yeuen vnder oure signet in oure towne of Rouen +te .v. day of Ianuier
+SIGNET,124.064.366
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_OF_LANCASTER:MALE:BROTHER:1390:30
+LETTER:SIGNET_064:M3:1420:COPY:OTHER
+S SIGNET,124.064.367
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_OF_LANCASTER:MALE:BROTHER:1390:30
+LETTER:SIGNET_064:M3:1420:COPY:OTHER
+{ED:SIGNED} Shiryngton SIGNET,124.064.368
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1420_T_HENRY5> <L_SIGNET_065> <A_HENRY_V_SIGNETRIEU?>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_124>
+
+{ED:74}
+
+{ED:1420_C81/1365:13_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNETRIEU?:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_065:M3:1420:COPY:OTHER
+By the King SIGNET,124.065.369
+
+AUTHOR:HENRY_V_SIGNETRIEU?:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_065:M3:1420:COPY:OTHER
+Worshipful fader in god oure right trusty and welbeloued . We wol +tat
+ye doo al the fauour and ese +tat ye may lawfully vnto Iohan Spendeloue
+bringer of +tees touchyng +te bille whiche we sende vnto yow closed
+wi+tynne +tees oure lettres . SIGNET,124.065.370
+
+AUTHOR:HENRY_V_SIGNETRIEU?:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_065:M3:1420:COPY:OTHER
+And if ye may lawfully doo al +tat +te same bille conteneth / we wolde
+ye dide hit . SIGNET,124.065.371
+
+AUTHOR:HENRY_V_SIGNETRIEU?:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_065:M3:1420:COPY:OTHER
+And we wol +tat ye doo delyuere vnto maistre Roger Whelpdale Elit of
+Karlell +te temporaltees of +te bisshopriche / as sone as his bulles
+bee comen / not withstandyng +tat he hath not made homage +terfore to
+vs / SIGNET,124.065.372
+
+AUTHOR:HENRY_V_SIGNETRIEU?:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_065:M3:1420:COPY:OTHER
+Yeuen vnder oure signet at oure town of Rouen +te xxj day of Ianuer :
+SIGNET,124.065.373
+
+{ED:HAND_POSSIBLYRIEU'S}
+
+<Q_SIG_C_1420_T_HENRY5> <L_SIGNET_066> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_124>
+
+{ED:75}
+
+{ED:1420_C81/1366:1_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_066:M3:1420:COPY:OTHER
+By the Kyng SIGNET,124.066.374
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_066:M3:1420:COPY:OTHER
+Worshipful fader yn god / oure Right trusty and Welbeloued / ffor
+asmuche as oure seruant Iohn Bayll barbour hauyng of oure confirmacion
+.x. marc yerly for terme of his lif at oure Eschequer : ys behinde and
+vnpaide +terof .vj. yere at Ester next comyng as he sayth : We wol /
++tat ye ordeine / +tat he haue oure writtes of liberate and allocate /
+by +te whiche he may be paide of +te saide annuitee / Notwi+tstandyng
++te preferrement +tat we haue as ye knowe / SIGNET,124.066.375
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_066:M3:1420:COPY:OTHER
+Yeuen vnder oure signet yn oure towne of Rouen +te x day of ffeuerer /
+SIGNET,124.066.376
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_066:M3:1420:COPY:OTHER
+{ED:SIGNED} Shiryngton SIGNET,124.066.377
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1420_T_HENRY5> <L_SIGNET_067> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_125>
+
+{ED:76}
+
+{ED:1420_C81/1365:15_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_067:M3:1420:COPY:OTHER
+S SIGNET,125.067.378
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_067:M3:1420:COPY:OTHER
+By the Kyng . SIGNET,125.067.379
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_067:M3:1420:COPY:OTHER
+Worshipful fader in god / oure Right trusty and welbeloued / We wol
++tat ye doo make vnto oure welbeloued kny+gt Iohn saint Iohn oure
+writtes of liberate and allocate / by vertue of +te whiche he may be
+paide of +tat / that is due vnto hym of +tannuite +tat he take+t at
+oure Eschequer by oure lettres patentes / Natwi+tstandyng +te
+$preferrement +tat we haue / as ye knowe / SIGNET,125.067.380
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_067:M3:1420:COPY:OTHER
+Yeuen vnder oure signet in oure town of Rouen +te xxviij day of Marche
+/ SIGNET,125.067.381
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_067:M3:1420:COPY:OTHER
+{ED:SIGNED} Shiryngton SIGNET,125.067.382
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1420_T_HENRY5> <L_SIGNET_068> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_--->
+<R_HUMPHREY_OF_LANCASTER[&_PRIVY_COUNCIL]> <R-GENDER_MALE>
+<R-REL_BROTHER> <R-DOB_1390>
+
+<P_125>
+
+{ED:77}
+
+{ED:1420_SC1/43:161_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_068:M3:1420:COPY:OTHER
+By +te kyng SIGNET,125.068.383
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_068:M3:1420:COPY:OTHER
+Right trusty and welbeloued bro+ter Ri+gt worshipful and worshipful
+faders in god / and trusty and welbeloued we sende vnto yow wi+t +tees
+oure lettres a Rolle vnder oure signet contenyng certain articles
+aduised by oure welbeloued kny+gt Iohn Tiptoft Seneschal of oure duchie
+of guyenne / for +te gouernance of oure said duchie And +tansweres
+yeuen by oure conseil here / vpon +te same articles . Wherfore we wol
++tat ye execute +te said answeres as fer as to yow may apparteyne And
++tat +tis be doon in suche wyse / +tat oure said Seneschal and maire of
+Bourdeux / be nat taried yn oure Rewme of England / but hasted al +tat
+is possible as oure truste is to yow / SIGNET,125.068.384
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_068:M3:1420:COPY:OTHER
+for hit is grete necessite / +tat +taire goyng be hasted al +tat may be
+doon / SIGNET,125.068.385
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_068:M3:1420:COPY:OTHER
+Yeuen vnder oure signet in oure Town of Rouen +te xxx. day of Marche .
+SIGNET,125.068.386
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1420_T_HENRY5> <L_SIGNET_069> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_125>
+
+{ED:78}
+
+{ED:1420_C81/1365:16_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_069:M3:1420:COPY:OTHER
+By the kyng SIGNET,125.069.387
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_069:M3:1420:COPY:OTHER
+Worshipful fader in god oure Right trusty and welbeloued . We late
+<P_126> yow wite lyke as we haue doo or +tis +tat we haue granted $vnto
+oure welbeloued clerc Iohn Stopyndon +tempension +tat longe+t to oure
+nominacion by +te vacacion of oure chirche Cathedrale of Excestre . +te
+whiche oure grant / we wol take effect / Albe hit : +tat sithe we
+wroote last vnto yow $+terof {ED:EMENDED_WORD_SUPERIOR_INSERT} haue
+falle a new vacacion of oure saide chirche / by +te deces of hym / +tat
+was before of Chestre SIGNET,126.069.388
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_069:M3:1420:COPY:OTHER
+for elles shulde oure said clerc beer no proffit by oure furst graunt /
+SIGNET,126.069.389
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_069:M3:1420:COPY:OTHER
+And semblably we wol / +tat oure welbeloued clerc William Toly haue +te
+pension of +te bisshopriche of Chestre . notwi+tstanding +te chaunge &c
+as ye wote . SIGNET,126.069.390
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_069:M3:1420:COPY:OTHER
+And thridly we haue granted vnto oure clerc of oure signet Thomas
+Andrew / +tempension +tat longeth to oure nominacion by +tauoidance of
+oure chirche cathedrale of hereford . Wherfore we wol / +tat as soone
+as due tyme Requireth : ye doo make oure writtes in due fourme vpon
+oure said grantes : SIGNET,126.069.391
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_069:M3:1420:COPY:OTHER
+Yeuen vnder oure signet in oure town of Rouen +te x. Day of Auerill
+SIGNET,126.069.392
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_069:M3:1420:COPY:OTHER
+S SIGNET,126.069.393
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1420_T_HENRY5> <L_SIGNET_070> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_126>
+
+{ED:79}
+
+{ED:1420_C81/1365:17_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_070:M3:1420:COPY:OTHER
+By +te kyng SIGNET,126.070.394
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_070:M3:1420:COPY:OTHER
+S SIGNET,126.070.395
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_070:M3:1420:COPY:OTHER
+Worshipful fader in god oure Right trusty and welbeloued / And lat yow
+wite / +tat +te worshipful fader yn god +te bisshop of wircestre / ha+t
+doon his feaultee to vs here / as for +te temporaltees +tat longen vnto
+his bisshopriche . and also maade Renunciacion aftir +te fourme +tat ye
+sent vs . whiche we signiffie vnto yow : to +tat ende +tat ye haue
+knowlege +terof wolnyng +tat ye shewe him and his proctours al +tese
+and fauour +tat ye may goodely : and +te more specialy by cause of his
+beyng here in our seruice : SIGNET,126.070.396
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_070:M3:1420:COPY:OTHER
+Yeuen vnder oure signet in oure town of Rouen +te xiiij day of Auerill
+/ SIGNET,126.070.397
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1420_T_HENRY5> <L_SIGNET_071> <A_HENRY_V_SIGNETRIEU>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_126>
+
+{ED:80}
+
+{ED:1420_C81/1365:18_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNETRIEU:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_071:M3:1420:COPY:OTHER
+By the king SIGNET,126.071.398
+
+AUTHOR:HENRY_V_SIGNETRIEU:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_071:M3:1420:COPY:OTHER
+Worshipful fader in god right trusty and welbeloued / For asmuche
+<P_127> as of oure special grace we haue granted to +telit of Chestre
+late Abbot of saint Albons / to haue +te temporalitees of +te
+bisshopriche of Chestre not withstanding +tat he is not yit sacred
+bisshop +tere We wol and charge yow / +tat in al goodly haste after +te
+Recepcion of +tees oure lettres ye ordeyne +tat deliuerance bee maad
+vnto +te said elit of +te said temporalitees and that ye make hym out
+oure lettres patentes +tere vppon / such as +te cas Requireth .
+SIGNET,127.071.399
+
+AUTHOR:HENRY_V_SIGNETRIEU:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_071:M3:1420:COPY:OTHER
+Yeuen vnder oure signet at oure town of Rouen +te .xv. day of Aueril
+SIGNET,127.071.400
+
+AUTHOR:HENRY_V_SIGNETRIEU:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_071:M3:1420:COPY:OTHER
+{ED:SIGNED} Andrieu SIGNET,127.071.401
+
+{ED:ANDRIEU'S_HAND}
+
+<Q_SIG_C_1420_T_HENRY5> <L_SIGNET_072> <A_HENRY_V_SIGNET[CHANCERY7]>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_--->
+<R_HUMPHREY_OF_LANCASTER[&_PRIVY_COUNCIL]> <R-GENDER_MALE>
+<R-REL_BROTHER> <R-DOB_1390>
+
+<P_127>
+
+{ED:81}
+
+{ED:1420_C54/270/M17D_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY7]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_072:M3:1420:COPY:OTHER
+Ri+gt trusty and welbeloued bro+ter Ri+gt worschipfull and worschipfull
+faders in god and trusty and welbeloued ffor as muche as we wote wele
++tat youre desire were to here Ioyfull tydinges of oure goode spede
+touching +te conclusion of pees betwix +te two Rewmes et cetera we
+signiffie vnto yow +tat worschipped be oure lorde +tat of oure labour
+ha+t sent vs a goode conclusion vpon moneday +te xx day of +tis present
+mone+t of May we arriued in +tis town of Troyes / SIGNET,127.072.402
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY7]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_072:M3:1420:COPY:OTHER
+And on +te moro we haddeyn a conuencion betwix oure moder +te quene of
+ffrance and oure brother +te duc of Burgoigne as Commissairs of +te
+king of france oure fader for his partie / and vs in oure $owne
+{ED:EMENDED_WORD_SUPERIOR_INSERT} personne for oure partie /
+SIGNET,127.072.403
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY7]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_072:M3:1420:COPY:OTHER
+and +taccorde of +te said pees perpetuelle was +tere sworne $by bo+te
++te saide Commissaires / yn name of oure forsaide fader / And semblably
+by vs in oure owne name / And +te lettres $+tervpon forwi+t enseled
+vnder +te grete seel of oure saide fader to vs warde / and vnder oures
+to hym warde +te copie of whiche lettres we sende you closed yn +tees
+to +tat ende : +tat ye doo +te saide accorde to be proclamed yn oure
+Citee of london / and +torowe al oure Rewme +tat al oure pueple may
+haue verray knowlege +terof for +tare consolacion / as wel as kepe hit
+aftir as longe+t vnto +tayme SIGNET,127.072.404
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY7]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_072:M3:1420:COPY:OTHER
+Also at +te saide conuencion was mariage betrowthed betwix vs and oure
+wyf doghter of oure forsaid fader +te kyng of france /
+SIGNET,127.072.405
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY7]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_072:M3:1420:COPY:OTHER
+And fer+termore for asmuch as we must by vertue of +te saide accorde
+vse a newe stile duryng +te lyf of oure saide fader / we sende yow in a
+cedule wi+tin +tees oure stille +tat we wol vse herafter bo+te in
+latine in englyssh and in ffrenssh . Chargeyng yow +tat in al thing
++tat passe+t duryng the tyme aforesaide aswel vnder oure grete seel as
+al oure o+ter seeles <P_128> wher euer hit bee and in proclamacions ye
+ordeyne +tat oure stille be vsed after +te contenue of +te saide cedule
+And +tat +te scripture of all oure seeles be amended +terafter yn al
+haste / SIGNET,128.072.406
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY7]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_072:M3:1420:COPY:OTHER
+And so charge+t by oure writtes all oure officers / +tat +tis may long
+vnto aswel yn England as yn Irlande and yn guyenne SIGNET,128.072.407
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY7]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_072:M3:1420:COPY:OTHER
+for so wol we ordeyne +tat $shall $be {TEXT:shalbe} doon heere /
+SIGNET,128.072.408
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY7]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_072:M3:1420:COPY:OTHER
+yeuen vnder oure signet in +te saide Town of Troyes +te xxij day of May
+abouesaide / SIGNET,128.072.409
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY7]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_072:M3:1420:COPY:OTHER
+And as touching +te scripture of +te seeles vs semeth / +tat +tis worde
+Regent may be owte wel ynogh SIGNET,128.072.410
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY7]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_072:M3:1420:COPY:OTHER
+To oure Right trusty and welbeloued brother +te duc of Gloucestre
+wardein in oure Rewme of Englande and to all +te remanent of oure
+conseil +tere SIGNET,128.072.411
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY7]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_072:M3:1420:COPY:OTHER
+henricus dei gracia Rex Angliae heres & Regens regni ffranciae &
+Dominus hiberniae SIGNET,128.072.412
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY7]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_072:M3:1420:COPY:OTHER
+henry by +te grace of god kyng of England heire and Regent of +te Rewme
+of ffrance and lorde of Irlande SIGNET,128.072.413
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY7]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_072:M3:1420:COPY:OTHER
+henry par la grace de dieu Roy dengleterre heritier & Regent du Royaume
+de ffrance & seigneur dirlande SIGNET,128.072.414
+
+AUTHOR:HENRY_V_SIGNET[CHANCERY7]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_072:M3:1420:COPY:OTHER
+Et memorandum quod promissa sunt irrotulata virtute litteris de priuato
+sigillo domini Regis Cancellar Angliae directi & infilactis Cancellar
+in primis
+
+domini Regis de hoc anno residentis SIGNET,128.072.416
+
+{ED:CHANCERY_HAND}
+
+<Q_SIG_C_1420_T_HENRY5> <L_SIGNET_073> <A_HENRY_V_SIGNET[TOLY]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_128>
+
+{ED:82}
+
+{ED:1420_C81/1365:19_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_073:M3:1420:COPY:OTHER
+By the king SIGNET,128.073.417
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_073:M3:1420:COPY:OTHER
+Worshipful fader in god right trusty and welbeloued / We sende yow
+closed wi+t ynne thees a supplicacion putte vnto vs by a poure tenant
+of oures / Rauf atte Ree . which compleineth hym of certain grete
+wronges and griefs doon vnto hym as ye may more clerely parceiue by the
+same supplicacion / Wherfor we wol and charge yow / +tat the saide
+supplicacion seen and wel understanden by yow / and had pleine
+Informacion of the trouthe of +tat +tat is contened therein / ye see
+and ordeyne +tat oure saide tenant haue al +tat he aught to haue of
+right in this partie / SIGNET,128.073.418
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_073:M3:1420:COPY:OTHER
+and suffreth no man to doo hym $wrong in no $wyse touching the matere
+contened in his saide supplicacion asmuche as ye may lette hit / ner
++tat he be not <em> wrongfully ouerlad </em> by maintenance of lordship
+ner other wyse / SIGNET,128.073.419
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_073:M3:1420:COPY:OTHER
+for as we been enfourmed <P_129> beside +tat +tat is contened in the
+saide supplicacion / the personnes whiche he compleineth hym vpon / be
+gretely maintened ayenst hym / SIGNET,129.073.420
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_073:M3:1420:COPY:OTHER
+And therfor we wol that ye take hede / the more tenderly to his matere
+And so +tat he haue no cause for lak of right to Retourne hider ayein
+vnto vs compleyning / SIGNET,129.073.421
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_073:M3:1420:COPY:OTHER
+And god haue yow in his keping SIGNET,129.073.422
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_073:M3:1420:COPY:OTHER
+yeuen vnder oure signet at Monsirtan ou Sault yonne the .iiije. day of
+Iuill SIGNET,129.073.423
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_073:M3:1420:COPY:OTHER
+{ED:SIGNED} Toly SIGNET,129.073.424
+
+{ED:TOLY'S_HAND}
+
+<Q_SIG_C_1420_T_HENRY5> <L_SIGNET_074> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_129>
+
+{ED:83}
+
+{ED:1420_C81/1365:20_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_074:M3:1420:COPY:OTHER
+By +te kyng SIGNET,129.074.425
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_074:M3:1420:COPY:OTHER
+Worshipful fader in god oure Right trusty and welbeloued . For asmuche
+as we bee enfourmed +tat +tabot of Gloucestre is passed to god : we
+haue granted vnto oure welbeloued clerc william Toly +tempension .
+whiche longe+t vnto oure yifte : by cause of +te creacion of hym +tat
+shal be next Abbot of +te same place : wollyng +tat ye doo make
++tervpon oure lettres vnder oure gret seel in due fourme as +te cas
+Requireth . SIGNET,129.074.426
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_074:M3:1420:COPY:OTHER
+Yeuen vnder oure signet at +te siege before Meleun +te .xx. day of
+Iuill SIGNET,129.074.427
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_074:M3:1420:COPY:OTHER
+{ED:SIGNED} Shiryngton SIGNET,129.074.428
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1420_T_HENRY5> <L_SIGNET_075> <A_HENRY_V_SIGNET[TOLY]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_129>
+
+{ED:84}
+
+{ED:1420_C81/1365:21_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_075:M3:1420:COPY:OTHER
+By the king SIGNET,129.075.429
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_075:M3:1420:COPY:OTHER
+Worshipful fader in god / right trusty and welbeloued / We sende yow
+closed wi+t ynne +tees a supplicacion putte $vnto vs by Thomas Gray /
+grocier and marchant of oure Cite of London making mencion of certain
+dettes whiche the lord Talbot / +tat is god betaught shuld owe to hym
+and to his wyf as is more pleinely contened in the same supplicacion /
+Wherefor we wol and charge yow / +tat +tees oure lettres with the saide
+supplicacion seen by yow / ye doo comme tofore yow / the enfeffours /
++tat +te same supplicacion maketh mencion <P_13O> of / and seeth / +tat
++tay contente +te forsaide Thomas : of al that thay been bounde by
+right and Reson to contente hym of touching the Dettes abouesaide
+SIGNET,13O.075.430
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_075:M3:1420:COPY:OTHER
+And god haue yow in his kepyng SIGNET,13O.075.431
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_075:M3:1420:COPY:OTHER
+yeuen vnder oure signet in oure hoost afore Meleun : the .xvj. day of
+Septembre SIGNET,13O.075.432
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_075:M3:1420:COPY:OTHER
+{ED:SIGNED} Toly SIGNET,13O.075.433
+
+{ED:TOLY'S_HAND}
+
+<Q_SIG_C_1420_T_HENRY5> <L_SIGNET_076> <A_HENRY_V_SIGNET[TOLY]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_130>
+
+{ED:85}
+
+{ED:1420_C81/1365:22_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_076:M3:1420:COPY:OTHER
+By the king SIGNET,130.076.434
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_076:M3:1420:COPY:OTHER
+Worshipful fader in god : oure right trusty and welbeloued / for
+asmuche as we haue granted vnto oure welbeloued clerc Robert Rolleston
+oure warderober the chirche of warton in oure Conte of Lancastre /
+whiche standeth voide in lawe / as we been enfourmed / and longeth to
+oure yift / we wol and charge yow / +tat ye doo make vnto oure saide
+clerc / oure lettres of collacion of +te saide chirche / in due fourme
+/ SIGNET,130.076.435
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_076:M3:1420:COPY:OTHER
+And god haue yow in his kepyng / SIGNET,130.076.436
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_076:M3:1420:COPY:OTHER
+Yeuen vnder oure signet in oure hoost / afore Meleun / the / xxij. day
+of Septembre / SIGNET,130.076.437
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_076:M3:1420:COPY:OTHER
+{ED:SIGNED} Toly SIGNET,130.076.438
+
+{ED:TOLY'S_HAND}
+
+<Q_SIG_C_1420_T_HENRY5> <L_SIGNET_077> <A_HENRY_V_SIGNET[TOLY]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_130>
+
+{ED:86}
+
+{ED:1420_C81/1365:23_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_077:M3:1420:COPY:OTHER
+By the king SIGNET,130.077.439
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_077:M3:1420:COPY:OTHER
+Worshipful fader in god / right trusty and welbeloued / For asmuche as
+hit is doon vs to vnderstande that the vicaire general of the bisshop
+of Chestre that last was / before hym that now is / maad collacion of
+the prebende of hondesacre in oure Cathedral chirche of Lichefeld
+whiche voided by the deces of Iohn aullforth / vnto Robert ffit+ghugh
+soon vnto the lord ffit+ghugh oure Chamberlain / And hit is soo / that
+before that the saide Robert was put in possession of the saide
+prebende as hit is saide / oure saide chirche fel voide and so be cause
+of the temporaltees thereof beyng in oure handes the disposicion of the
+saide prebende longeth clerely vnto vs / we wol and charge yow <P_131>
+/ +tat ye doo make oure lettres of Ratifficacion vpon his title and
+possession that he hath now / or elles of newe / if nede bee / doo make
+hym oure lettres of collacion of the same prebende in due fourme / so
+that he may haue the same benefice by oure title / in caas ye haue maad
+collacion to noon other / SIGNET,131.077.440
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_077:M3:1420:COPY:OTHER
+for oure entente is / that he haue hit / If there bee no thing passed
+oure seel of the contraire / SIGNET,131.077.441
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_077:M3:1420:COPY:OTHER
+And god haue yow in his keping / SIGNET,131.077.442
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_077:M3:1420:COPY:OTHER
+yeuen vnder oure signet / in oure hoost afore meleun / the last day of
+Septembre / SIGNET,131.077.443
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_077:M3:1420:COPY:OTHER
+{ED:SIGNED} Toly SIGNET,131.077.444
+
+{ED:TOLY'S_HAND}
+
+<Q_SIG_C_1420_T_HENRY5> <L_SIGNET_078> <A_HENRY_V_SIGNET[HETHE]>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_--->
+<R_HUMPHREY_OF_LANCASTER[&_PRIVY_COUNCIL]> <R-GENDER_MALE>
+<R-REL_BROTHER> <R-DOB_1390>
+
+<P_131>
+
+{ED:87}
+
+{ED:1420_C81/1543:21_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_078:M3:1420:COPY:OTHER
+By +te kyng SIGNET,131.078.445
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_078:M3:1420:COPY:OTHER
+<em> Ryht trusty </em> and welbeloued bro+ter . We grete you wel .
+SIGNET,131.078.446
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_078:M3:1420:COPY:OTHER
+and we do you to wite +tat it is oure wil and entente +tat ye $declare
+a parlement to be holde monday +te second day of Decembre $next
+{ED:EMENDED_WORD_SUPERIOR_INSERT} for certaine causes +te whiche we wol
+do you to haue knowlech of in al haste . SIGNET,131.078.447
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_078:M3:1420:COPY:OTHER
+And also $we {ED:EMENDED_WORD_SUPERIOR_INSERT} wol and charge you +tat
+ye se +tat Iustices of pees . Shereues . Eschetours . Coroners and
+suche officers as shul be maad . be suche persones as ben able & worthy
++terto & +tat ben no troublers in +taire contrees . and +tat +tey be
+chose wi+toute brocage or fauour of persones or any o+tere vnleeful .
+meenes . after +testatut & ordennances maad +tervpon .
+SIGNET,131.078.448
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_078:M3:1420:COPY:OTHER
+Yeuen vnder oure signet in oure hoost afore Meleun +te viij day of
+Octobre : SIGNET,131.078.449
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:BROTHER:_:_
+RECIPIENT:HUMPHREY_LANCASTER[&_PRIVY_COUNCIL]:MALE:BROTHER:1390:30_CODE
+LETTER:SIGNET_078:M3:1420:COPY:OTHER
+{ED:SIGNED} I hethe SIGNET,131.078.450
+
+{ED:HETHE'S_HAND}
+
+<Q_SIG_C_1420_T_HENRY5> <L_SIGNET_079> <A_HENRY_V_SIGNET[HETHE]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_131>
+
+{ED:88}
+
+{ED:1420_C81/1365:24_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_079:M3:1420:COPY:OTHER
+By +te Kyng SIGNET,131.079.451
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_079:M3:1420:COPY:OTHER
+Worshipful fader in god Ryht trusty and Welbeloued . we grete you wel .
+SIGNET,131.079.452
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_079:M3:1420:COPY:OTHER
+And we wol and charge you +tat as soone as ye ben certain +tat <P_132>
++te bulles of oure holy fader +te pope : ben come for +te translacion
+of +te Bysshop of hereford vnto +te chirche of Excestre : +tat be oure
+lettres to be maad vnder oure greet seal : ye do make Restitucion of
++te temporalitees of +te said Bysshopriche of Excestre . vnto +te said
+Bysshop in forme as +taym oughte to be wi+toute taryinge .
+SIGNET,132.079.453
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_079:M3:1420:COPY:OTHER
+Yeven vnder oure signet in oure hoost afore Meleun +te viij. day of
+Octobre : SIGNET,132.079.454
+
+AUTHOR:HENRY_V_SIGNET[HETHE]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_079:M3:1420:COPY:OTHER
+{ED:SIGNED} I. hethe SIGNET,132.079.455
+
+{ED:HETHE'S_HAND}
+
+<Q_SIG_C_1420_T_HENRY5> <L_SIGNET_080> <A_HENRY_V_SIGNET[TOLY]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_132>
+
+{ED:89}
+
+{ED:1420_C81/1365:26_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_080:M3:1420:COPY:OTHER
+By the king SIGNET,132.080.456
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_080:M3:1420:COPY:OTHER
+Worshipful fader in god Right trusty and welbeloued . We grete yow wel
+/ SIGNET,132.080.457
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_080:M3:1420:COPY:OTHER
+And for asmuche as oure seruant Iohan $Hertishille hath shewed vnto vs
+by supplicacion / that sir Richard Stanhapp knight / letteth and
+destourbeth hym and his attourne / wrongfully / and ayenst lawe and
+conscience / to Reioisse and occupie a place with certaine Rentes /
+with ynne the toun of Claworth in the Conte of Notyngham / whiche by
+the deces of Robert hertishil his Cousin / been descended vnto oure
+saide seruant by waye of heritage as to the Right heire of the saide
+place and Rentes Of whiche thing If hit soo bee / we be no thing wel
+plesed / we wol and charge yow / considering +tat oure saide seruant
+hath continuelly abiden in oure seruice sith oure commyng in to this
+land / +tat ye see and ordenne / +tat he haue no wrong by the said
+Stanhapp / ner by noon other / in his absence / but that he may pesibly
+Reioisse and occupie his saide heritage / and his Attourne Receiue the
+proffit+g thereof to his vse / and $algates
+{ED:EMENDED_WORD_SUPERIOR_INSERT} vnto oure commyng hoom with goddes
+grace in to oure Reaume of England so +tat we may / If nede bee . doo
+entende to the same matere oureself / wittyng +tat we write semblably
+vnto oure brother of Gloucestre / vpon this same matere /
+SIGNET,132.080.458
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_080:M3:1420:COPY:OTHER
+And god haue yow in his keping / SIGNET,132.080.459
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_080:M3:1420:COPY:OTHER
+Yeuen vnder oure signet / in oure oost afore Meleun / the v. Day of
+Nouembre SIGNET,132.080.460
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:60?
+LETTER:SIGNET_080:M3:1420:COPY:OTHER
+{ED:SIGNED} Toly SIGNET,132.080.461
+
+{ED:TOLY'S_HAND}
+
+<Q_SIG_C_1421_T_HENRY5> <L_SIGNET_081> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_133>
+
+{ED:91}
+
+{ED:1421_C81/1365:29_SIGNET_OF_HENRY_V_[RIGHT_MARGIN_TORN]}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_081:M3:1421:COPY:OTHER
+By +te kyng SIGNET,133.081.462
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_081:M3:1421:COPY:OTHER
+S SIGNET,133.081.463
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_081:M3:1421:COPY:OTHER
+Worshipful fader in god / Right trusty and welbeloued . we consideryng
++te goode and agreable seruice / +tat +te worshipful $fader in god +te
+bisshop of hereford oure proctour in +te popes court / ha+t doon to vs
+/ and yit doo+t dayly as ye knowe : haue of our special grace Respited
+his hommage / +tat he shulde make vnto vs / by cause of his
+bisshopriche : vnto his comyng hoom from $court wolnyng +tat vpon +tis
+oure grante ye doo make vnto hym / or to his proctours in his name .
+suche lettres as +te cas axeth $vnder oure grete seel in due fourme .
+SIGNET,133.081.464
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_081:M3:1421:COPY:OTHER
+Yeuen vnder oure signet of +tegle in absence of oure o+ter . at oure
+towne of $Shrouesbury +te xj. day of Marche : SIGNET,133.081.465
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_081:M3:1421:COPY:OTHER
+{ED:SIGNED} Shiryngton SIGNET,133.081.466
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1421_T_HENRY5> <L_SIGNET_082> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_134>
+
+{ED:92}
+
+{ED:1421_C81/1365:30_SIGNET_OF_HENRY_V_[TOP_TORN]}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_082:M3:1421:COPY:OTHER
+$Worshipful fader in god / oure Right trusty and welbeloued we sende
+yow closed wi+tin thees . a supplicacion put vnto vs by $Margerye Deye
+/ touching certain extorcions and harmes doon vnto hir howsbond and hir
+/ by maistre Iohn Armesby Notarye of Leycestre / as in +te same
+supplicacion hit is more clerely contened . SIGNET,134.082.467
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_082:M3:1421:COPY:OTHER
+So we {TEXT:we_REPEATED} wol +tat ye doo sende for +te saide maistre
+Iohn by writte / And examineth +te matere / And +tervpon ordeyneth +tat
+Right be doon to +te partie compleignant . wi+towte any long delaye /
+And +te more fauorably . consideryng +te pourete of +te saide Margerye
+: SIGNET,134.082.468
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_082:M3:1421:COPY:OTHER
+Yeuen vnder oure signet at Lambhithe the .ix. day of May
+SIGNET,134.082.469
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_082:M3:1421:COPY:OTHER
+S SIGNET,134.082.470
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_082:M3:1421:COPY:OTHER
+{ED:SIGNED} Shiryngton SIGNET,134.082.471
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1421_T_HENRY5> <L_SIGNET_083> <A_HENRY_V_SIGNET[TOLY]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_134>
+
+{ED:93}
+
+{ED:1421_SC1/43:159_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_083:M3:1421:COPY:OTHER
+By the king SIGNET,134.083.472
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_083:M3:1421:COPY:OTHER
+Chanceller there is oon Thomas walweynes wyf which hath maad a greuous
+compleynt vnto vs vpon sir Iohn Skydmore SIGNET,134.083.473
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_083:M3:1421:COPY:OTHER
+And for asmuche as we had ordenned bothe parties for to bee before vs
+or oure conseil for to $haue had knowlache of the matere +tat +tay
+stande in debat fore / and for to haue made an ende +tereof / And hit
+is soo now / +tat we may nat $goodly ende +tere to at this tyme / as ye
+wot considered oure hasty departyng hens / we <em> wol nat </em> nat
+wi+tstandyng / +tat we suppose she standeth not in the right / be cause
+<em> she is </em> sumwhat a $desclaunderouse womman / and also +tat we
+kepe nomore to be wexed wi+t hir encombrous poursuites / +tat ye doo
+sende for bothe the saide parties to comme before yow at suche day as
+yow semeth Resounable / for to here the saide matere of controuersie /
+and make an ende therein / as we shal telle yow to morwe more pleinly
+by mouthe SIGNET,134.083.474
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_083:M3:1421:COPY:OTHER
+But algates / yeueth hem to morwe here day / whanne thay shal be with
+yow / SIGNET,134.083.475
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_083:M3:1421:COPY:OTHER
+yeuen vnder oure signet of the Egle at lambehith / this day / +te
+.xxij. day of may SIGNET,134.083.476
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_083:M3:1421:COPY:OTHER
+{ED:SIGNED} Toly SIGNET,134.083.477
+
+{ED:TOLY'S_HAND}
+
+<Q_SIG_C_1421_T_HENRY5> <L_SIGNET_084> <A_HENRY_V_SIGNET[DEPEDEN]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_135>
+
+{ED:94}
+
+{ED:1421_C81/1365:31_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[DEPEDEN]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_084:M3:1421:COPY:OTHER
+By the kyng SIGNET,135.084.478
+
+AUTHOR:HENRY_V_SIGNET[DEPEDEN]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_084:M3:1421:COPY:OTHER
+Wurshipful fader in god our right trusty and welbeloued / ffor as muche
+as we be enfourmed +tat +te Corrodie of our abbeye of hyde in
+hamptshire . is voide now by the deth of Thomas Meweys +tat last
+occupied and hadde hit / which corrodie of our speciale grace we haue
+yiuen to our welbeloued Clerc of our Chapele Iohan hunte / We wol and
+charge yow . +tat yee do maake oure lettres patentes in due fourme vn
+to our said Clerc of +te corrodie forsaid / SIGNET,135.084.479
+
+AUTHOR:HENRY_V_SIGNET[DEPEDEN]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_084:M3:1421:COPY:OTHER
+yeuen vnder our signet of +te egle in absence of our oothir at our town
+of Douorre +te .viij. day of Iuyn : SIGNET,135.084.480
+
+AUTHOR:HENRY_V_SIGNET[DEPEDEN]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_084:M3:1421:COPY:OTHER
+{ED:SIGNED} Depeden SIGNET,135.084.481
+
+{ED:DEPEDEN'S_HAND}
+
+<Q_SIG_C_1421_T_HENRY5> <L_SIGNET_085> <A_HENRY_V_SIGNET[DEPEDEN]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_135>
+
+{ED:95}
+
+{ED:1421_C81/1365:32_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[DEPEDEN]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_085:M3:1421:COPY:OTHER
+By the kyng SIGNET,135.085.482
+
+AUTHOR:HENRY_V_SIGNET[DEPEDEN]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_085:M3:1421:COPY:OTHER
+Worshipful <em> fader in </em> god our trusty and welbeloued / We haue
+receyued a supplicacion put vn to vs be our trusty and welbeloued
+knyght henry Brounflete that is with vs in our seruice $in +tees
+parties / to whech supplicacion we haue take but litel heed /
+SIGNET,135.085.483
+
+AUTHOR:HENRY_V_SIGNET[DEPEDEN]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_085:M3:1421:COPY:OTHER
+Neueretheles we wol and charge yow / +tat +te said supplicacion be yow
+seen / and +te matere +terinne comprised discretly considered / ye do
+hym +te ese +tat yee may as ferfoorth as right and lawe wol / So that
+by cause of his beynge heere in our said seruice he be not wrongfully
+hyndred ne harmed in no wyse / SIGNET,135.085.484
+
+AUTHOR:HENRY_V_SIGNET[DEPEDEN]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_085:M3:1421:COPY:OTHER
+And god haue yow in hys keepinge / SIGNET,135.085.485
+
+AUTHOR:HENRY_V_SIGNET[DEPEDEN]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_085:M3:1421:COPY:OTHER
+yeuen vnder our signet in our hoost at seint Denys of Moronval beside
+Dreux . the .xviij day of Iuyll . SIGNET,135.085.486
+
+AUTHOR:HENRY_V_SIGNET[DEPEDEN]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_085:M3:1421:COPY:OTHER
+{ED:SIGNED} Depeden SIGNET,135.085.487
+
+{ED:DEPEDEN'S_HAND}
+
+<Q_SIG_C_1421_T_HENRY5> <L_SIGNET_086> <A_HENRY_V_SIGNET[DEPEDEN]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_PRIVY_COUNCIL>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_136>
+
+{ED:96}
+
+{ED:1421_E101/188:10/2_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[DEPEDEN]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_086:M3:1421:COPY:OTHER
+By the kyng SIGNET,136.086.488
+
+AUTHOR:HENRY_V_SIGNET[DEPEDEN]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_086:M3:1421:COPY:OTHER
+Trusty and welbeloued : ffor as muche as we be enfourmed / Thomas de la
+Croix hath sent hors and certain Armerers and hernois for vs vn to our
+town of Caleys We wol and charge yow expresly +tat ye ordeine +tat +te
+saide hors and +te men +tat ar comen wi+t hem come to vs in al seur
+haste / and send sum trusty man for to go wi+t hem / +tat may haue +te
+ouersighte and gouernance of hem alle / And +tat be seurly and saufly
+conduyed fro thens to Seintomere / and so to Arras / And fro thens to
+Amyas / there abiding vn to +te tyme they haue seur conduyt from our
+brothir of Burgoigne or fro sir Iohan de Luxemburgh . to +te whiche we
+haue writen for her sauf passage fro thens to Aubiualle fro whens our
+garnisons wi+t goddes grace shullen conduit hem to Parys where we wol
+they abyde til +tey haue woord of our wille / SIGNET,136.086.489
+
+AUTHOR:HENRY_V_SIGNET[DEPEDEN]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_086:M3:1421:COPY:OTHER
+And +tey comen to Parys we wol he +tat shal come fro yow with hem /
+sende vs woord of their comyng thider . SIGNET,136.086.490
+
+AUTHOR:HENRY_V_SIGNET[DEPEDEN]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_086:M3:1421:COPY:OTHER
+yeuen vnder our signet in our Oost at seint Denys de Moronval beside
+Dreux the laste day of Iuyll : SIGNET,136.086.491
+
+AUTHOR:HENRY_V_SIGNET[DEPEDEN]:MALE:_:_:_
+RECIPIENT:PRIVY_COUNCIL:MALE:_:_:_
+LETTER:SIGNET_086:M3:1421:COPY:OTHER
+{ED:SIGNED} Depeden SIGNET,136.086.492
+
+{ED:DEPEDEN'S_HAND}
+
+<Q_SIG_C_1421_T_HENRY5> <L_SIGNET_087> <A_HENRY_V_SIGNET[TOLY]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_136>
+
+{ED:97}
+
+{ED:1421_C81/1365:33_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_087:M3:1421:COPY:OTHER
+By the king SIGNET,136.087.493
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_087:M3:1421:COPY:OTHER
+Worshipful fader in god / oure right trusty and welbeloued / For
+asmuche as hit is doon vs to vnderstande that the bisshop of London is
+passed to god / we lat yow wite / that we haue granted vnto oure
+welbeloued seruant Iohan Hanham . clerc of oure Caterye the pension of
+hym that shal be next bisshop of the same place $wolnyng & chargyng yow
+/ that there vpon whanne tyme commeth ye doo make hym oure lettres
+vnder <em> oure greet </em> seel in due fourme / SIGNET,136.087.494
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_087:M3:1421:COPY:OTHER
+Yeuen vnder oure signet in oure oost at Laigny sur marne / the xiij.
+day of Octobre SIGNET,136.087.495
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_087:M3:1421:COPY:OTHER
+{ED:SIGNED} Toly SIGNET,136.087.496
+
+{ED:TOLY'S_HAND}
+
+<Q_SIG_C_1421_T_HENRY5> <L_SIGNET_088> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_137>
+
+{ED:98}
+
+{ED:1421_C81/1365:25_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_088:M3:1421:COPY:OTHER
+By the king SIGNET,137.088.497
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_088:M3:1421:COPY:OTHER
+Worshipful fader in $god / oure Ri+gt trusty and welbeloued ffor
+asmuche as we haue vnderstande by youre lettres late sent vnto vs +tat
+oure wyf +te quene hath spoke vnto yow . and desireth +tat hir
+phisicien myght haue sum benefice wi+towte cure of oure collacion / in
++te whiche matere ye desire to haue knowlege of oure wil we signiffie
+vnto yow / +tat hit is wel oure entent whanne any suche benefice
+voydeth of oure yifte +tat ye make collacion to him +terof / And after
+certiffieth vs what hit is +tat he hat SIGNET,137.088.498
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_088:M3:1421:COPY:OTHER
+Yeuen vnder oure signet in oure oost beside Meaulx +te xxix. day of
+Octobre : SIGNET,137.088.499
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_088:M3:1421:COPY:OTHER
+{ED:SIGNED} Shiryngton SIGNET,137.088.500
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1421_T_HENRY5> <L_SIGNET_089> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_137>
+
+{ED:99}
+
+{ED:1421_C81/1365:27_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_089:M3:1421:COPY:OTHER
+By the kyng SIGNET,137.089.501
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_089:M3:1421:COPY:OTHER
+Worshipful fader in god / oure Right trusty and welbeloued We wol and
+charge yow . that at what tyme / oure welbeloued knight Iohan
+Cornewaille / bringeth vnto yow / oon called Mareschal Des Rues . for
+to swere +te pees that is made <em> between oure </em> fader of france
+and vs : ye take his ooth and lat him swere tofore yow +te same pees /
+after +te $fourme of +te copie whiche we sende yow closed wi+tin thees
+/ SIGNET,137.089.502
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_089:M3:1421:COPY:OTHER
+Yeuen vnder oure signet in oure hoost at Ruthueil $beside Meaulx +te
+xiiij. day of Nouembre . SIGNET,137.089.503
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:61?
+LETTER:SIGNET_089:M3:1421:COPY:OTHER
+{ED:SIGNED} Shiryngton SIGNET,137.089.504
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1422_T_HENRY5> <L_SIGNET_090> <A_HENRY_V_SIGNET[TOLY]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_138>
+
+{ED:101}
+
+{ED:1422_C81/1365:35_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:62?
+LETTER:SIGNET_090:M3:1422:COPY:OTHER
+By the king SIGNET,138.090.505
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:62?
+LETTER:SIGNET_090:M3:1422:COPY:OTHER
+Worshipful fader in god / oure right trusty and welbeloued / for
+asmuche as we be enfourmed that maister William Kentwode is elite to
+the deanee of oure chriche of london / the whiche eleccion / he
+assentyng / is confermed and by the same confirmacion / the
+Archedeaknee of london in oure saide Chirche / the which the saide
+maister william last occupied / is voide / and longeth clerely to oure
+yifte / the temporaltees of the bisshopriche beyng at this tyme in oure
+handes / We haue yeuen the saide Archedeaknee / to oure welbeloued
+clerc / sir Iohn / Snell oure Aulmosner Wherfore we wol and charge yow
+/ that ye doo make $hym {ED:EMENDED_WORD_SUPERIOR_INSERT} oure lettres
+necessaire therevpon / in fourme accoustumd SIGNET,138.090.506
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:62?
+LETTER:SIGNET_090:M3:1422:COPY:OTHER
+And god haue yow in his keping / SIGNET,138.090.507
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:62?
+LETTER:SIGNET_090:M3:1422:COPY:OTHER
+yeuen vnder oure signet in oure oost at Seintfaron / beside Meaulx the
+.viij. day of Marche SIGNET,138.090.508
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:62?
+LETTER:SIGNET_090:M3:1422:COPY:OTHER
+{ED:SIGNED} Toly SIGNET,138.090.509
+
+{ED:TOLY'S_HAND}
+
+<Q_SIG_C_1422_T_HENRY5> <L_SIGNET_091> <A_HENRY_V_SIGNET[SHIRYNGTON]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_138>
+
+{ED:102}
+
+{ED:1422_C81/1365:36_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:62?
+LETTER:SIGNET_091:M3:1422:COPY:OTHER
+By the kyng SIGNET,138.091.510
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:62?
+LETTER:SIGNET_091:M3:1422:COPY:OTHER
+Worshipful fader in god / oure Right trusty and welbeloued / We sende
+you closed wi+tin thees oure lettres a supplicacion put vnto <P_139> vs
+by marchantes of Paris / Rouen / Troyes / and Brugees / as ye may see
++terby / SIGNET,139.091.511
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:62?
+LETTER:SIGNET_091:M3:1422:COPY:OTHER
+And wol and charge yow / +tat ye enfourmed of +te matere contened in
++te same supplicacion / ordeineth that Right be doon vnto +te saide
+marchantes after +te lawes and coustumes of oure Rewme of England /
+wi+towte any long delay / SIGNET,139.091.512
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:62?
+LETTER:SIGNET_091:M3:1422:COPY:OTHER
+Yeuen vnder oure signet in oure ost at +te toun of Meaulx . +te xxviij.
+day of Marche / SIGNET,139.091.513
+
+AUTHOR:HENRY_V_SIGNET[SHIRYNGTON]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:62?
+LETTER:SIGNET_091:M3:1422:COPY:OTHER
+{ED:SIGNED} Shiryngton SIGNET,139.091.514
+
+{ED:SHIRYNGTON'S_HAND}
+
+<Q_SIG_C_1422_T_HENRY5> <L_SIGNET_092> <A_HENRY_V_SIGNET[TOLY]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_139>
+
+{ED:103}
+
+{ED:1422_C81/1365:37_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:62?
+LETTER:SIGNET_092:M3:1422:COPY:OTHER
+By the king SIGNET,139.092.515
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:62?
+LETTER:SIGNET_092:M3:1422:COPY:OTHER
+Worshipful fader in god oure right trusty and welbeloued For asmuche as
+we haue yeuen and granted vnto maister Iames Cole / proctour vnto oure
+hous of Syon at Shene / the prebende whiche is voyde in oure chirche of
+London by the deces of maister Iohn Maluern / and longeth vnto oure
+yifte and disposicion at this tyme / be cause of the temporaltees of
+the bisshopriche of London beyng in oure handes by waye of the voidance
+of the same chirche / we wol / that there vpon ye doo make vnto the
+saide maister Iames Cole oure lettres patentes vnder oure $greet seel
+in dew fourme / SIGNET,139.092.516
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:62?
+LETTER:SIGNET_092:M3:1422:COPY:OTHER
+yeuen vnder oure signet / at Meaulx / the. last day of Aueril /
+SIGNET,139.092.517
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:62?
+LETTER:SIGNET_092:M3:1422:COPY:OTHER
+{ED:SIGNED} Toly SIGNET,139.092.518
+
+{ED:TOLY'S_HAND}
+
+<Q_SIG_C_1422_T_HENRY5> <L_SIGNET_093> <A_HENRY_V_SIGNET[TOLY]>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_---> <R_THOMAS_LANGLEY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1360?>
+
+<P_140>
+
+{ED:105}
+
+{ED:1422_C81/1366:12_SIGNET_OF_HENRY_V}
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:62?
+LETTER:SIGNET_093:M3:1422:COPY:OTHER
+By the king SIGNET,140.093.519
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:62?
+LETTER:SIGNET_093:M3:1422:COPY:OTHER
+Worshipful fader in god / oure right trusty and welbeloued / We wol and
+charge yow / that ye make oute oure writtes to oure viconte of
+hamptshire / for to make Proclamacion in oure saide vicontee / in alle
+place accoustumed / that alle manere men that haue any grond or land
+with ynne oure toun of Portesmouth / with ynne suche a certein day as
+ye shal $limit by youre discrecion / comme and chalenge / eche man his
+owen grond / So that hit may be knowen sekirly what $grond is longing
+to euerych of hem / SIGNET,140.093.520
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:62?
+LETTER:SIGNET_093:M3:1422:COPY:OTHER
+And that grond that is not chalenged / with ynne the saide day limited
+/ we wol ye ordeine / that hit be saised in to oure handes /
+SIGNET,140.093.521
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:62?
+LETTER:SIGNET_093:M3:1422:COPY:OTHER
+yeuen vnder oure signet / at Saint li+g the .xviij. day of Iuyn /
+SIGNET,140.093.522
+
+AUTHOR:HENRY_V_SIGNET[TOLY]:MALE:_:_:_
+RECIPIENT:THOMAS_LANGLEY:MALE:_:1360?:62?
+LETTER:SIGNET_093:M3:1422:COPY:OTHER
+{ED:SIGNED} Toly SIGNET,140.093.523
+
+{ED:TOLY'S_HAND}

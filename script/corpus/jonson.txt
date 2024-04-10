@@ -1,0 +1,1286 @@
+<B_JONSON>
+
+<Q_JOS_C_1605_T_BJONSON> <L_JONSON_001> <A_BEN_JONSON> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1572> <R_THOMAS_HOWARD_IV> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1561>
+
+<P_193>
+
+{ED:I_[TO_AN_UNNAMED_LORD,_PROBABLY_THE_EARL_OF_SUFFOLK,_1605.]}
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:THOMAS_HOWARD_IV:MALE:_:1561:44
+LETTER:JONSON_001:E2:1605:COPY:OTHER
+Most honorable Lord : Although I $can $not {TEXT:cannot} but know yo=r=
+Lo: to be busied w=th= far greater and higher affaires , then to haue
+leysure to discend sodainlye on an estate so lowe , and remou'd as myne
+; yet , since the cause is in vs wholie mistaken <paren> at least
+misconstrued </paren> and y=t= eurie noble and iust man , is bound to
+defend the Innocent , I doubt not but to finde yo=r= Lordshipp full of
+y=t= woonted vertue , & fauoure ; whenwith you haue euer abounded
+toward the truth . JONSON,193.001.1
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:THOMAS_HOWARD_IV:MALE:_:1561:44
+LETTER:JONSON_001:E2:1605:COPY:OTHER
+And though the Imprisonment itselfe can not but grieue mee <paren> in
+respect of his Maiesties high displeasure , from whence it proceedes
+</paren> yet the Manner of it afflicts me more , being commytted hether
+, vnexamyned , nay vnheard <paren> a Rite , not commonlie denyed to the
+greatest Offenders </paren> and I made a guiltie man , longe before I
+am one , or euer thought to bee : JONSON,193.001.2
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:THOMAS_HOWARD_IV:MALE:_:1561:44
+LETTER:JONSON_001:E2:1605:COPY:OTHER
+God , I call to testimonye what my thoughts are , and euer heue bene of
+his Maiestie ; JONSON,193.001.3
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:THOMAS_HOWARD_IV:MALE:_:1561:44
+LETTER:JONSON_001:E2:1605:COPY:OTHER
+& so may <P_194> I thryue when he comes to be my Iudge and my Kinges ,
+as they are most sincere : JONSON,194.001.4
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:THOMAS_HOWARD_IV:MALE:_:1561:44
+LETTER:JONSON_001:E2:1605:COPY:OTHER
+And I appeale to posteritie that will hearafter read and Iudge my
+writings <paren> though now neglected </paren> whether it be possible ,
+I should speake of his Maiestie as I haue done , without the affection
+of a most zealous and good subiect . JONSON,194.001.5
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:THOMAS_HOWARD_IV:MALE:_:1561:44
+LETTER:JONSON_001:E2:1605:COPY:OTHER
+It hath euer bene my destenye to be misreported , and condemn'd on the
+first tale ; JONSON,194.001.6
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:THOMAS_HOWARD_IV:MALE:_:1561:44
+LETTER:JONSON_001:E2:1605:COPY:OTHER
+but I hope there is an Eare left for mee , JONSON,194.001.7
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:THOMAS_HOWARD_IV:MALE:_:1561:44
+LETTER:JONSON_001:E2:1605:COPY:OTHER
+and by youre honor I hope it , who haue alwaies bene frend to Iustice ;
+a vertue that Crownes youre Nobilitie . JONSON,194.001.8
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:THOMAS_HOWARD_IV:MALE:_:1561:44
+LETTER:JONSON_001:E2:1605:COPY:OTHER
+So with my most humble prayer of your Pardon , and all aduanced wishes
+for yo=r= honor , I begin to know my dutie , which is to forbeare to
+trouble yo=r= Lo: till my languishinge estate may drawe free breath
+from youre Comfortable worde . JONSON,194.001.9
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:THOMAS_HOWARD_IV:MALE:_:1561:44
+LETTER:JONSON_001:E2:1605:COPY:OTHER
+Ben: Johnson . JONSON,194.001.10
+
+<Q_JOS_A_1605_T_BJONSON> <L_JONSON_002> <A_BEN_JONSON> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1572> <R_ROBERT_CECIL> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1563?>
+
+<P_194>
+
+{ED:II}
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_002:E2:1605:AUTOGRAPH:OTHER
+To the most nobly vertuous and thrice honor'd Earle of Salisbury .
+JONSON,194.002.11
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_002:E2:1605:AUTOGRAPH:OTHER
+Most truely honorable , It hath still bene the Tyranny of my Fortune so
+to oppresse my endeuors , that before I can shew my selfe gratefull
+<paren> in the least </paren> for former benefitts , I am enforc'd to
+prouoke yo=r= Bountyes , for more . JONSON,194.002.12
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_002:E2:1605:AUTOGRAPH:OTHER
+May it not seeme greiuous to yo=r= Lordship , that , now , my Innocence
+calls vpon you <paren> next the Deity </paren> to her defence ;
+JONSON,194.002.13
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_002:E2:1605:AUTOGRAPH:OTHER
+God himselfe is not auerted at iust mens Cries ; JONSON,194.002.14
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_002:E2:1605:AUTOGRAPH:OTHER
+And you , y=t= approach that diuine goodnesse , and supply it here on
+Earth in yo=r= place and honors , $can $not {TEXT:cannot} employ yo=r=
+Aydes more worthely , then to the commune succour of honesty , and
+vertue , how humbly soeuer it be plac'd . JONSON,194.002.15
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_002:E2:1605:AUTOGRAPH:OTHER
+I am here <paren> my most honor'd Lord </paren> vnexamined , <P_195> or
+vnheard , committed to a vile prison , and <paren> w=th= mee </paren> a
+Gentleman , <paren> whose Name may perhaps haue come to yo=r= Lo:
+</paren> one M=r=. <font> George Chapman </font> , a learned , and
+honest Man ; JONSON,195.002.16
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_002:E2:1605:AUTOGRAPH:OTHER
+The Cause <paren> would I could name some worthier </paren> though I
+wish we had knowne none worthy o=r= Imprisonment </paren> is , a
+<paren> the word yrkes mee , that o=r= Fortune hath necessitated vs to
+so despisd a Course </paren> {COM:a_REPEATED} Play , my Lord ; wherof ,
+we hope , there is no Man can iustly complayne , that hath the vertue
+to thinke but fauorably of himselfe , if o=r= Iudge bring an aequall
+Eare ; JONSON,195.002.17
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_002:E2:1605:AUTOGRAPH:OTHER
+mary , if w=t=h praeiudice wee bee made guilty , afore o=r= Time , we
+must embrace the Asinine vertue , Patience ./ JONSON,195.002.18
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_002:E2:1605:AUTOGRAPH:OTHER
+My noble Lord , they deale not charitably , Who are too witty in
+another mans Workes , and vtter , some times , they=re= owne malicious
+Meanings , vnder o=r= Wordes . JONSON,195.002.19
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_002:E2:1605:AUTOGRAPH:OTHER
+I protest to yo=r= Honor , JONSON,195.002.20
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_002:E2:1605:AUTOGRAPH:OTHER
+and call God to Testemony <paren> since my first Error , w=c=h <paren>
+yet </paren> is punish'd in mee more w=t=h my shame , than it was then
+w=t=h my Bondage </paren> I haue so attempred my stile , that I haue
+giuen no cause to any good Man of Greife ; and , if to any ill , by
+touching at any generall vice , it hath alwayes bene w=t=h a reguard ,
+and sparing of perticular persons : JONSON,195.002.21
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_002:E2:1605:AUTOGRAPH:OTHER
+I may be otherwise reported , JONSON,195.002.22
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_002:E2:1605:AUTOGRAPH:OTHER
+but if all , that be accusd , should be presently guilty , there are
+few Men would stand in the state of Innocence ./ JONSON,195.002.23
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_002:E2:1605:AUTOGRAPH:OTHER
+I beseech yo=r= most ho: Lordship , suffer not othermens Errors , or
+Falts past , to be made my Crimes ; JONSON,195.002.24
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_002:E2:1605:AUTOGRAPH:OTHER
+but let Mee be examind , both-1 by all my workes past , and this
+present , and not trust to <font> Rumor </font> , but my Bookes <paren>
+for she is an vniust deliuerer both of great , and small Actions
+</paren> whether , I haue euer <paren> in any thing I haue written
+priuate , or publique </paren> giuen offence to a Nation , to any
+publique order or state , or any person of honor , or Authority , but
+haue aequally labord to keepe they=re= Dignity , as mine owne person
+safe ; JONSON,195.002.25
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_002:E2:1605:AUTOGRAPH:OTHER
+If others haue transgressd , let not me bee entitled to they=re=
+Follyes . JONSON,195.002.26
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_002:E2:1605:AUTOGRAPH:OTHER
+But least in being too diligent for my excuse , I may incurre the
+suspicion of being guilty : I become a most humble sutor to yo=r= Lo:
+that w=t=h the ho: Lord <font> Chamberlayne </font> <paren> to <P_196>
+whome I haue in like manner petition'd </paren> you $will $be
+{TEXT:wilbe} pleasd to be the gratefull meanes of ou=r= comming to
+answere ; JONSON,196.002.27
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_002:E2:1605:AUTOGRAPH:OTHER
+or if in yo=r= Wisdomes it shall be thought vnnecessary , that yo=r=
+LLo: will be the most honor'd Cause of o=r= Liberty , where freing vs
+from one prison , you shall remoue vs to another , w=c=h is aeternally
+to bind vs and o=r= Muses , to the thankfull honoring of you and yo=rs=
+to Posterity ; as your owne vertues haue by many descents of Ancestors
+ennobled you to time ./ JONSON,196.002.28
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_002:E2:1605:AUTOGRAPH:OTHER
+Yo=r= Honors most deuoted in heart as wordes ./ JONSON,196.002.29
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_002:E2:1605:AUTOGRAPH:OTHER
+Ben. Ionson JONSON,196.002.30
+
+<Q_JOS_C_1605_T_BJONSON> <L_JONSON_003> <A_BEN_JONSON> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1572> <R_LUCY_RUSSEL[N.HARRINGTON][?]>
+<R-GENDER_FEMALE> <R-REL_---> <R-DOB_1582>
+
+<P_197>
+
+{ED:IV_[TO_UNNAMED_LADY,_PROBABLY_THE_COUNTESS_OF_BEDFORD,_1605.]}_C
+ODE
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:LUCY_RUSSEL[N.HARRINGTON][?]:FEMALE:_:1582:23
+LETTER:JONSON_003:E2:1605:COPY:OTHER
+Excellentest of Ladies . And most honor'd of the Graces , Muses , and
+mee ; if it be not a sinne to prophane yo=r= free hand with prison
+polluted Paper , I wolde intreate some little of your Ayde , to the
+defence of my Innocence , w=ch= is as cleare as this leafe was <paren>
+before I staind it </paren> of any thinge halfe-worthye this violent
+infliction ; JONSON,197.003.31
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:LUCY_RUSSEL[N.HARRINGTON][?]:FEMALE:_:1582:23
+LETTER:JONSON_003:E2:1605:COPY:OTHER
+I am commytted and w=th= mee , a worthy Friend , one M=r=. Chapman , a
+man , I can not say how knowne to yo=r= Ladishipp , but I am sure
+knowne to mee to honor you ; JONSON,197.003.32
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:LUCY_RUSSEL[N.HARRINGTON][?]:FEMALE:_:1582:23
+LETTER:JONSON_003:E2:1605:COPY:OTHER
+And our offence a Play , so mistaken , so misconstrued , so misapplied
+, as I do wonder whether their Ignorance , or Impudence be most , who
+are our aduersaries . JONSON,197.003.33
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:LUCY_RUSSEL[N.HARRINGTON][?]:FEMALE:_:1582:23
+LETTER:JONSON_003:E2:1605:COPY:OTHER
+It is now not disputable , JONSON,197.003.34
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:LUCY_RUSSEL[N.HARRINGTON][?]:FEMALE:_:1582:23
+LETTER:JONSON_003:E2:1605:COPY:OTHER
+for we stand on vneuen bases , JONSON,197.003.35
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:LUCY_RUSSEL[N.HARRINGTON][?]:FEMALE:_:1582:23
+LETTER:JONSON_003:E2:1605:COPY:OTHER
+and our cause <P_198> so vnequally carried as we are without examyninge
+, without hearinge , or without any proofe , but malicious <font> Rumor
+</font> , hurried to bondage and fetters ; JONSON,198.003.36
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:LUCY_RUSSEL[N.HARRINGTON][?]:FEMALE:_:1582:23
+LETTER:JONSON_003:E2:1605:COPY:OTHER
+The cause we vnderstand to be the Kinges indignation , for which we are
+hartelye sorie , and the more , by how much the less we haue deseru'd
+it . JONSON,198.003.37
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:LUCY_RUSSEL[N.HARRINGTON][?]:FEMALE:_:1582:23
+LETTER:JONSON_003:E2:1605:COPY:OTHER
+What our sute is , the worthy employde soliciter , and equall Adorer of
+youre vertues , can best enforme you . JONSON,198.003.38
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:LUCY_RUSSEL[N.HARRINGTON][?]:FEMALE:_:1582:23
+LETTER:JONSON_003:E2:1605:COPY:OTHER
+Ben: Jhonson . JONSON,198.003.39
+
+<Q_JOS_C_1605_T_BJONSON> <L_JONSON_004> <A_BEN_JONSON> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1572> <R_ESME_STUART[?]> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1579?>
+
+<P_198>
+
+{ED:V_[TO_ESME,_LORD_D'AUBIGNY?_1605]}
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ESME_STUART[?]:MALE:_:1579?:26?
+LETTER:JONSON_004:E2:1605:COPY:OTHER
+The Noble fauoures you haue done vs , Most worthy Lord: can not be so
+conceald or remou'd : but that they haue broke in vpon vs , euen where
+we lye double bound to their Comforts ; JONSON,198.004.40
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ESME_STUART[?]:MALE:_:1579?:26?
+LETTER:JONSON_004:E2:1605:COPY:OTHER
+Nor can we doubt , but he who hath so farre , and freelie aduentur'd to
+the reliefe of our vertue , will goe on to the vtmost release of it ;
+JONSON,198.004.41
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ESME_STUART[?]:MALE:_:1579?:26?
+LETTER:JONSON_004:E2:1605:COPY:OTHER
+And though I know yo=r= Lo: hath bene far from doinge any thinge herein
+to youre owne Ambition ; yet be pleas'd to take this protestation ,
+that <paren> Next his Maiesties fauoure </paren> I shall not couet that
+thinge more in the worlde , than to expresse the lastinge Gratitude , I
+haue conceiu'd in soule towards yo=r= Lordshipp . JONSON,198.004.42
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ESME_STUART[?]:MALE:_:1579?:26?
+LETTER:JONSON_004:E2:1605:COPY:OTHER
+Ben: Johnson . JONSON,198.004.43
+
+<Q_JOS_C_1605_T_BJONSON> <L_JONSON_005> <A_BEN_JONSON> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1572> <R_PHILIP_HERBERT> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1584>
+
+<P_199>
+
+{ED:VI}
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:PHILIP_HERBERT:MALE:_:1584:21
+LETTER:JONSON_005:E2:1605:COPY:OTHER
+{ED:To_the_Earl_of} Mongomerie . JONSON,199.005.44
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:PHILIP_HERBERT:MALE:_:1584:21
+LETTER:JONSON_005:E2:1605:COPY:OTHER
+Most worthely honor'd , For mee not to solicite or call you to succoure
+in a tyme of such neede , were no lesse a sinne of dispaire , than a
+neglect of youre honor ; JONSON,199.005.45
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:PHILIP_HERBERT:MALE:_:1584:21
+LETTER:JONSON_005:E2:1605:COPY:OTHER
+Yo=r= Power , youre Place , and readinesse to do good inuite mee ;
+JONSON,199.005.46
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:PHILIP_HERBERT:MALE:_:1584:21
+LETTER:JONSON_005:E2:1605:COPY:OTHER
+and myne owne cause <paren> which shall neuer discreditt the least of
+yo=r= fauours </paren> is a mayne encouragement ; JONSON,199.005.47
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:PHILIP_HERBERT:MALE:_:1584:21
+LETTER:JONSON_005:E2:1605:COPY:OTHER
+If I lay here on my desert , I should be the more backward to importune
+you ; JONSON,199.005.48
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:PHILIP_HERBERT:MALE:_:1584:21
+LETTER:JONSON_005:E2:1605:COPY:OTHER
+But as it is <paren> Most worthy Earle </paren> our offence beinge our
+misfortune , not our malice ; I challenge yo=r= ayde , as to the common
+defence of Vertue ; But more peculiarlye to mee , who haue always in
+hart so perticularly honor'd you . JONSON,199.005.49
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:PHILIP_HERBERT:MALE:_:1584:21
+LETTER:JONSON_005:E2:1605:COPY:OTHER
+I know it is now no Tyme to boast affections , least while I sue for
+fauours I should be thought to buy them ; JONSON,199.005.50
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:PHILIP_HERBERT:MALE:_:1584:21
+LETTER:JONSON_005:E2:1605:COPY:OTHER
+But if the future seruices of a man so remou'd to you , and low in
+Meritt , may aspire any place in yo=r= Thoughts , let it lye vpon the
+forfayture of my humanitie , if I omitt the least occasion to expresse
+them . JONSON,199.005.51
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:PHILIP_HERBERT:MALE:_:1584:21
+LETTER:JONSON_005:E2:1605:COPY:OTHER
+And so not doubtinge of your Noble endeuors , to reflect his Maiesties
+most repented on oure partes & sorrow'd for displeasure . I commytt my
+fortune , Reputation , and Innocence into youre most happie handes ,
+and reiterated protestation of being euer most gratefull .
+JONSON,199.005.52
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:PHILIP_HERBERT:MALE:_:1584:21
+LETTER:JONSON_005:E2:1605:COPY:OTHER
+Ben: Johnson . JONSON,199.005.53
+
+<Q_JOS_C_1605_T_BJONSON> <L_JONSON_006> <A_BEN_JONSON> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1572> <R_WILLIAM_HERBERT> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1580>
+
+<P_199>
+
+{ED:VII}
+
+{ED:To_the_Earl_of}
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:WILLIAM_HERBERT:MALE:_:1580:25
+LETTER:JONSON_006:E2:1605:COPY:OTHER
+Pembrooke . JONSON,199.006.54
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:WILLIAM_HERBERT:MALE:_:1580:25
+LETTER:JONSON_006:E2:1605:COPY:OTHER
+Most Noble Earle : Neither am I or my cause so much vnknowne to youre
+Lordshipp , as it should driue mee to seeke a second meanes , or
+dispaire of this to youre fauoure . JONSON,199.006.55
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:WILLIAM_HERBERT:MALE:_:1580:25
+LETTER:JONSON_006:E2:1605:COPY:OTHER
+You haue euer been free and Noble to mee , JONSON,199.006.56
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:WILLIAM_HERBERT:MALE:_:1580:25
+LETTER:JONSON_006:E2:1605:COPY:OTHER
+and I doubt not the same proportion of youre Bounties , if I can but
+answere it with preseruation of my vertue , <P_200> and Innocence ;
+JONSON,200.006.57
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:WILLIAM_HERBERT:MALE:_:1580:25
+LETTER:JONSON_006:E2:1605:COPY:OTHER
+when I faile of those , let me not onlye be abandon'd of you , but of
+Men . JONSON,200.006.58
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:WILLIAM_HERBERT:MALE:_:1580:25
+LETTER:JONSON_006:E2:1605:COPY:OTHER
+The Anger of the Kinge is death <paren> saith the wise man </paren>
+JONSON,200.006.59
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:WILLIAM_HERBERT:MALE:_:1580:25
+LETTER:JONSON_006:E2:1605:COPY:OTHER
+and in truth it is little lesse with mee and my frend ,
+JONSON,200.006.60
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:WILLIAM_HERBERT:MALE:_:1580:25
+LETTER:JONSON_006:E2:1605:COPY:OTHER
+for it hath buried vs quick . JONSON,200.006.61
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:WILLIAM_HERBERT:MALE:_:1580:25
+LETTER:JONSON_006:E2:1605:COPY:OTHER
+And though we know it onelie the propertie of men guiltie , and worthy
+of punishment to inuoke <font> Mercye </font> ; yet now it might
+relieue vs , who haue onlie our Fortunes made our fault : and are
+indeede vexed for other mens licence . JONSON,200.006.62
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:WILLIAM_HERBERT:MALE:_:1580:25
+LETTER:JONSON_006:E2:1605:COPY:OTHER
+Most honor'd Earle , be hastie to our succoure . JONSON,200.006.63
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:WILLIAM_HERBERT:MALE:_:1580:25
+LETTER:JONSON_006:E2:1605:COPY:OTHER
+And , it shall be our care and studye , not to haue you repent the
+tymely benefit you do vs ; which we will euer gratefullye receiue and
+Multiplye in our acknowledgment . JONSON,200.006.64
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:WILLIAM_HERBERT:MALE:_:1580:25
+LETTER:JONSON_006:E2:1605:COPY:OTHER
+Ben: Johnson . JONSON,200.006.65
+
+<Q_JOS_C_1610S?_T_BJONSON> <L_JONSON_007> <A_BEN_JONSON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1572> <R_JOHN[?]_LEECH>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_200>
+
+{ED:VIII}
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:JOHN[?]_LEECH:MALE:_:_:_
+LETTER:JONSON_007:E2:1610S?:COPY:OTHER
+To my worthy & honord frend : M=r=. Leech . JONSON,200.007.66
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:JOHN[?]_LEECH:MALE:_:_:_
+LETTER:JONSON_007:E2:1610S?:COPY:OTHER
+M=r=. Leech I do not offend vsually this way : JONSON,200.007.67
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:JOHN[?]_LEECH:MALE:_:_:_
+LETTER:JONSON_007:E2:1610S?:COPY:OTHER
+and therefore one Importunacye may be the better suffred .
+JONSON,200.007.68
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:JOHN[?]_LEECH:MALE:_:_:_
+LETTER:JONSON_007:E2:1610S?:COPY:OTHER
+I pray you to be careful of this Gent=s=: necessitie , and succoure it
+willingly , JONSON,200.007.69
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:JOHN[?]_LEECH:MALE:_:_:_
+LETTER:JONSON_007:E2:1610S?:COPY:OTHER
+and in tyme , you shall make me euer beholden to you ;
+JONSON,200.007.70
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:JOHN[?]_LEECH:MALE:_:_:_
+LETTER:JONSON_007:E2:1610S?:COPY:OTHER
+he y=t= helpes in a busines of so great charitie as this , doth not
+more succor the needers want , than he increaseth his own good name :
+JONSON,200.007.71
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:JOHN[?]_LEECH:MALE:_:_:_
+LETTER:JONSON_007:E2:1610S?:COPY:OTHER
+I pray you S=r=. to write very effectually , JONSON,200.007.72
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:JOHN[?]_LEECH:MALE:_:_:_
+LETTER:JONSON_007:E2:1610S?:COPY:OTHER
+and so I leaue to troble you : least I should do Iniurie to your nature
+in solliciting you to that , to which of your self , you are so prompt
+and willing . JONSON,200.007.73
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:JOHN[?]_LEECH:MALE:_:_:_
+LETTER:JONSON_007:E2:1610S?:COPY:OTHER
+Your true louer & frend Ben: Jonson . JONSON,200.007.74
+
+<Q_JOS_C_1600S?_T_BJONSON> <L_JONSON_008> <A_BEN_JONSON>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1572> <R_THOMAS_BOND>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_201>
+
+{ED:IX}
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:THOMAS_BOND:MALE:_:_:_
+LETTER:JONSON_008:E2:1600S?:COPY:OTHER
+To my honord & vertuous frend M=r.= Tho: Bond Secretary to my ho: Lord
+the Lord Chauncellor of England . JONSON,201.008.75
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:THOMAS_BOND:MALE:_:_:_
+LETTER:JONSON_008:E2:1600S?:COPY:OTHER
+S=r=. I am bold , out of my trust in your frendship , to request your
+help to the furdering this Gentleman 's suite , the bearers , with my
+lords fauor : who <paren> of my knowledge </paren> is a most honest man
+, & worthie of a much better fortune , than that he sues for :
+JONSON,201.008.76
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:THOMAS_BOND:MALE:_:_:_
+LETTER:JONSON_008:E2:1600S?:COPY:OTHER
+what it is , he himselfe will best acquaint you with , and the
+circumstances that should perswade to it , To which I pray you giue
+credit in all , JONSON,201.008.77
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:THOMAS_BOND:MALE:_:_:_
+LETTER:JONSON_008:E2:1600S?:COPY:OTHER
+for I know his Modestie will not vtter any thing subiect to suspition .
+JONSON,201.008.78
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:THOMAS_BOND:MALE:_:_:_
+LETTER:JONSON_008:E2:1600S?:COPY:OTHER
+You binde me to you to be euer thankfull : JONSON,201.008.79
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:THOMAS_BOND:MALE:_:_:_
+LETTER:JONSON_008:E2:1600S?:COPY:OTHER
+And they are not the least curtesies , that make more than one beholden
+. JONSON,201.008.80
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:THOMAS_BOND:MALE:_:_:_
+LETTER:JONSON_008:E2:1600S?:COPY:OTHER
+Let him finde I pray you that I haue credit with you by your
+undertaking what you can for him chearfully : JONSON,201.008.81
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:THOMAS_BOND:MALE:_:_:_
+LETTER:JONSON_008:E2:1600S?:COPY:OTHER
+And I will take care you shall not repent you : If it be any thing to
+hold Your poore vnprofitable louer Ben: Jonson . JONSON,201.008.82
+
+<Q_JOS_A_1605_T_BJONSON> <L_JONSON_009> <A_BEN_JONSON> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1572> <R_ROBERT_CECIL> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1563?>
+
+<P_202>
+
+{ED:X}
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_009:E2:1605:AUTOGRAPH:OTHER
+To the most honorable and honour'd Earle of Salisbury .
+JONSON,202.009.83
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_009:E2:1605:AUTOGRAPH:OTHER
+My most honorable Lord ./ May it please yo=r= Lo: to vnderstand , there
+hath bene no Want in mee , eyther-3 of labor or sincerity in the
+discharge of this busines , to the satisfaction of yo=r= Lo: and the
+state . JONSON,202.009.84
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_009:E2:1605:AUTOGRAPH:OTHER
+And wheras , yesterday , vpon the first Mention of it , I tooke the
+most ready course <paren> to my present thought </paren> by the <font>
+Venetian </font> Ambassadors Chaplin , who not only apprehended it well
+, but was of mind w=t=h mee , that no Man of Conscience , or any
+indifferent Loue to his Countrey would deny to doe it ; and w=t=hall
+engaged himselfe to find out one , absolute in all Numbers , for the
+purpose ; w=c=h he will'd me <paren> before a Gent: of good Credit ,
+who is my Testemony </paren> to signifie to yo=r= Lo: in his Name : It
+falls out since , that that Party will not be found , <paren> for soe
+he returnes answere . </paren> Vpon w=c=h I haue made attempt in other
+Places , but can speake w=t=h no one in Person <paren> all being eyther
+remoou'd , or so conceal'd , vpon this present Mischeife </paren> but
+by second Meanes , JONSON,202.009.85
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_009:E2:1605:AUTOGRAPH:OTHER
+I haue receau'd answere of doubts , and difficulties , that they will
+make it a Question to the Archpriest , w=t=h other such like
+suspensions : So that to tell yo=r= Lo: playnly my heart , I thinke
+they are All so enweau'd in it , as it will make Gent: lesse of the
+Religion w=t=hin this weeke , if they carry they=r= vnderstanding about
+them . JONSON,202.009.86
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_009:E2:1605:AUTOGRAPH:OTHER
+For my selfe , if I had bene a Preist , I would haue put on wings to
+such an Occasion , and haue thought it no aduenture , where I might
+haue done <paren> besides his <font> Maiesty </font> , and my Country
+</paren> all Christianity so good seruice . JONSON,202.009.87
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_009:E2:1605:AUTOGRAPH:OTHER
+And so much I haue sent to some of them ./ JONSON,202.009.88
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_009:E2:1605:AUTOGRAPH:OTHER
+If it shall please yo=r= Lordsh: I shall yet make farder triall ,
+JONSON,202.009.89
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_009:E2:1605:AUTOGRAPH:OTHER
+and that you $can $not {TEXT:cannot} in the meane time be prouided :
+JONSON,202.009.90
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_009:E2:1605:AUTOGRAPH:OTHER
+I do not only w=t=h all readynesse offer my seruice , JONSON,202.009.91
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_009:E2:1605:AUTOGRAPH:OTHER
+but will p~forme it w=t=h as much integrity , as yo=r= particular Fauor
+, or his Maiesties Right in any Subiect he hath , can exact ./
+JONSON,202.009.92
+
+AUTHOR:BEN_JONSON:MALE:_:1572:33
+RECIPIENT:ROBERT_CECIL:MALE:_:1563?:42?
+LETTER:JONSON_009:E2:1605:AUTOGRAPH:OTHER
+Yo=r= Ho: most perfect seruant and Louer Ben: Ionson JONSON,202.009.93
+
+<Q_JOS_C_1619_TC_BJONSON> <L_JONSON_010> <A_BEN_JONSON> <A-GENDER_MALE>
+<A-REL_FRIEND> <A-DOB_1572> <R_WILLIAM_DRUMMOND> <R-GENDER_MALE>
+<R-REL_FRIEND> <R-DOB_1585>
+
+<P_207>
+
+{ED:XIV}
+
+AUTHOR:BEN_JONSON:MALE:FRIEND:1572:47
+RECIPIENT:WILLIAM_DRUMMOND:MALE:FRIEND:1585:34
+LETTER:JONSON_010:E2:1619:COPY:FRIEND
+<font> To my Worthy , Honoured and Beloved Friend Mr. </font> William
+Drummond , JONSON,207.010.94
+
+AUTHOR:BEN_JONSON:MALE:FRIEND:1572:47
+RECIPIENT:WILLIAM_DRUMMOND:MALE:FRIEND:1585:34
+LETTER:JONSON_010:E2:1619:COPY:FRIEND
+Edinburgh . JONSON,207.010.95
+
+AUTHOR:BEN_JONSON:MALE:FRIEND:1572:47
+RECIPIENT:WILLIAM_DRUMMOND:MALE:FRIEND:1585:34
+LETTER:JONSON_010:E2:1619:COPY:FRIEND
+<font> Most Loving and Beloved Sir </font> , Against which Titles I
+should most knowingly offend , if I made you not at length some Account
+of my self , to come even with your Friendship . I am arrived safely ,
+with a most Catholick Welcome , and my Reports not unacceptable to His
+Majesty : JONSON,207.010.96
+
+AUTHOR:BEN_JONSON:MALE:FRIEND:1572:47
+RECIPIENT:WILLIAM_DRUMMOND:MALE:FRIEND:1585:34
+LETTER:JONSON_010:E2:1619:COPY:FRIEND
+He professed <paren> I thank God </paren> some Joy to see me ,
+JONSON,207.010.97
+
+AUTHOR:BEN_JONSON:MALE:FRIEND:1572:47
+RECIPIENT:WILLIAM_DRUMMOND:MALE:FRIEND:1585:34
+LETTER:JONSON_010:E2:1619:COPY:FRIEND
+and is pleased to hear of the Purpose of my Book : To which I most
+earnestly sollicit you for your Promise of the Inscriptions at <font>
+Pinky </font> , some Things concerning the Loch of <font> Lomound
+</font> , touching the Government of <font> Edinburgh </font> , to urge
+Mr. <font> James Scot </font> ; and what else you can procure for me
+with all speed : JONSON,207.010.98
+
+AUTHOR:BEN_JONSON:MALE:FRIEND:1572:47
+RECIPIENT:WILLIAM_DRUMMOND:MALE:FRIEND:1585:34
+LETTER:JONSON_010:E2:1619:COPY:FRIEND
+Especially I make it my Request , that you will enquire for me ,
+whether the Students Method at St. <font> Andrew </font> 's be the same
+with that at <font> Edinburgh </font> , JONSON,207.010.99
+
+AUTHOR:BEN_JONSON:MALE:FRIEND:1572:47
+RECIPIENT:WILLIAM_DRUMMOND:MALE:FRIEND:1585:34
+LETTER:JONSON_010:E2:1619:COPY:FRIEND
+and so to assure me , or wherein they differ . JONSON,207.010.100
+
+AUTHOR:BEN_JONSON:MALE:FRIEND:1572:47
+RECIPIENT:WILLIAM_DRUMMOND:MALE:FRIEND:1585:34
+LETTER:JONSON_010:E2:1619:COPY:FRIEND
+Though these Requests be full of Trouble , I hope they shall neither
+burden nor weary such a Friendship , whose Commands to me I will ever
+interpret a Pleasure . JONSON,207.010.101
+
+AUTHOR:BEN_JONSON:MALE:FRIEND:1572:47
+RECIPIENT:WILLIAM_DRUMMOND:MALE:FRIEND:1585:34
+LETTER:JONSON_010:E2:1619:COPY:FRIEND
+News we have none here , but what is making against the Queen 's
+Funeral , whereof I have somewhat in hand , which shall look upon you
+with the next . JONSON,207.010.102
+
+AUTHOR:BEN_JONSON:MALE:FRIEND:1572:47
+RECIPIENT:WILLIAM_DRUMMOND:MALE:FRIEND:1585:34
+LETTER:JONSON_010:E2:1619:COPY:FRIEND
+Salute the beloved <font> Fentons </font> , the <font> Nisbets </font>
+, the <font> Scots </font> , the <font> Levingstons </font> , and all
+the Honest and Honoured Names with you ; especially Mr. <font> James
+Writh </font> , his Wife , your Sister , &c . JONSON,207.010.103
+
+AUTHOR:BEN_JONSON:MALE:FRIEND:1572:47
+RECIPIENT:WILLIAM_DRUMMOND:MALE:FRIEND:1585:34
+LETTER:JONSON_010:E2:1619:COPY:FRIEND
+And if you forget your self , you believe not in <font> Your most true
+Friend and Lover </font> , Ben. Johnson . JONSON,207.010.104
+
+AUTHOR:BEN_JONSON:MALE:FRIEND:1572:47
+RECIPIENT:WILLIAM_DRUMMOND:MALE:FRIEND:1585:34
+LETTER:JONSON_010:E2:1619:COPY:FRIEND
+<font> London , JONSON,207.010.105
+
+AUTHOR:BEN_JONSON:MALE:FRIEND:1572:47
+RECIPIENT:WILLIAM_DRUMMOND:MALE:FRIEND:1585:34
+LETTER:JONSON_010:E2:1619:COPY:FRIEND
+of May 1619 . </font> JONSON,207.010.106
+
+<Q_JOS_C_1631_T_BJONSON> <L_JONSON_011> <A_BEN_JONSON> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1572> <R_WILLIAM_CAVENDISH> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1593?>
+
+<P_210>
+
+{ED:XVI}
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_011:E2:1631:COPY:OTHER
+To the Right Hon:=ble= the Earle of Newcastle : JONSON,210.011.107
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_011:E2:1631:COPY:OTHER
+My Noblest Lord ./ and my Patron , by excellence ./ I haue here obeyed
+your com~aunds , and sent you a packet of mine owne praises , w=ch= I
+should not haue done , if I had any stock of modestie in store .
+JONSON,210.011.108
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_011:E2:1631:COPY:OTHER
+But obedience is better then Sacrifice ; JONSON,210.011.109
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_011:E2:1631:COPY:OTHER
+And you com~anded it . JONSON,210.011.110
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_011:E2:1631:COPY:OTHER
+I am now like an old bankerupt in witt , that am driuen to pay debts ,
+on my freinds creditts . and for want of satisfieing letters , to
+subscribe bills of Exchange ./ JONSON,210.011.111
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_011:E2:1631:COPY:OTHER
+4=to=. Febr: 1631 JONSON,210.011.112
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_011:E2:1631:COPY:OTHER
+Your Lo: Deuoted . Ben: Ionson . JONSON,210.011.113
+
+<Q_JOS_C_1631_T_BJONSON> <L_JONSON_012> <A_BEN_JONSON> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1572> <R_WILLIAM_CAVENDISH> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1593?>
+
+<P_211>
+
+{ED:XVII}
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_012:E2:1631:COPY:OTHER
+A Letter to the Earle of New Castle ./ JONSON,211.012.114
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_012:E2:1631:COPY:OTHER
+My Lord The faith of a fast friend , with the duties of an humble
+seruant , and the hearty prayers of a Religious Beadsman , all kindled
+vpon this Altar , to your Hon=r=: , my Hono=ble=: La: , the hopefull
+issue , and your right Noble Brother , bee euer my sacrifice ./
+JONSON,211.012.115
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_012:E2:1631:COPY:OTHER
+It is the Lewd Printers fault , that I can send yo=r= Lo=p= , no more
+of my Booke done . JONSON,211.012.116
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_012:E2:1631:COPY:OTHER
+I sent you one peice before , the fayre , by M=r= Withrington ,
+JONSON,211.012.117
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_012:E2:1631:COPY:OTHER
+and now I send you this other morcell , the fine Gentleman that walkes
+in Towne ; the Fiend , JONSON,211.012.118
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_012:E2:1631:COPY:OTHER
+but before hee will perfect the rest , I feare , hee will come himselfe
+to be a part , vnder the title of the absolute knaue , w=ch= he hath
+play'd w=th= mee ; JONSON,211.012.119
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_012:E2:1631:COPY:OTHER
+My Printer , and I , shall afford subiect enough for a Tragi-Comoedy .
+JONSON,211.012.120
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_012:E2:1631:COPY:OTHER
+for w=th= his delayes and vexation , I am almost become blind ,
+JONSON,211.012.121
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_012:E2:1631:COPY:OTHER
+and if Heaven be so iust in the Metamorphosis , to turne him into that
+Creature hee most assimilates , a Dog w=th= a Bell to lead mee betweene
+Whitehall and my lodging , I may bid the world good Night .
+JONSON,211.012.122
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_012:E2:1631:COPY:OTHER
+And so I doo Ben: Ionson . JONSON,211.012.123
+
+<Q_JOS_C_1631?_T_BJONSON> <L_JONSON_013> <A_BEN_JONSON> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1572> <R_WILLIAM_CAVENDISH> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1593?>
+
+<P_211>
+
+{ED:XVIII}
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59?
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_013:E2:1631?:COPY:OTHER
+An other Lett~ {ED:to_the_Earl_of_Newcastle} . JONSON,211.013.124
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59?
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_013:E2:1631?:COPY:OTHER
+My Noblest Lo: and best Patron . I send no borrowing Epistle to prouoke
+yo=r= Lo=p= , JONSON,211.013.125
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59?
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_013:E2:1631?:COPY:OTHER
+for I haue neither Fortune to repay ; or securitie to engage , that
+$will $be {TEXT:wilbe} taken : JONSON,211.013.126
+
+<P_212>
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59?
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_013:E2:1631?:COPY:OTHER
+but I make a most humble petition to your Lo=ps= bounty , to succour my
+present necessities this good time of Easter , JONSON,212.013.127
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59?
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_013:E2:1631?:COPY:OTHER
+and it shall conclude all begging requests hereafter , on the behalfe
+Of Yo=r= truest beadsman & most thankefull seruant B: I :
+JONSON,212.013.128
+
+<Q_JOS_C_1630S_T_BJONSON> <L_JONSON_014> <A_BEN_JONSON> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1572> <R_WILLIAM_CAVENDISH> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1593?>
+
+<P_212>
+
+{ED:XIX}
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:_
+LETTER:JONSON_014:E2:1630S:COPY:OTHER
+An other Letter {ED:to_the_Earl_of_Newcastle} . JONSON,212.014.129
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:_
+LETTER:JONSON_014:E2:1630S:COPY:OTHER
+My Noblest Lo: and my best Patron . I haue done your busines , as your
+Lo=p= trusted mee w=th= , JONSON,212.014.130
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:_
+LETTER:JONSON_014:E2:1630S:COPY:OTHER
+and the morneing after I receiued by my beloued friend M=r= Payne your
+Lo=ps= timely gratuity . JONSON,212.014.131
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:_
+LETTER:JONSON_014:E2:1630S:COPY:OTHER
+I stile it such ; JONSON,212.014.132
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:_
+LETTER:JONSON_014:E2:1630S:COPY:OTHER
+for it fell like the dewe of heauen on my necessities , it came so
+oportunely and in season . JONSON,212.014.133
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:_
+LETTER:JONSON_014:E2:1630S:COPY:OTHER
+I pray to God , my worke haue deseru'd it , JONSON,212.014.134
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:_
+LETTER:JONSON_014:E2:1630S:COPY:OTHER
+I meant it should in the workeing it . JONSON,212.014.135
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:_
+LETTER:JONSON_014:E2:1630S:COPY:OTHER
+and I haue hope the performance will conclude it . JONSON,212.014.136
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:_
+LETTER:JONSON_014:E2:1630S:COPY:OTHER
+In the meane time I tell your Lo=p= what I seriously thinke ,
+JONSON,212.014.137
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:_
+LETTER:JONSON_014:E2:1630S:COPY:OTHER
+God sends You those chargeable and magnificent honors of makeing feasts
+, to mixe w=th= your charitable succors , dropt vpon mee , your seruant
+: Who haue nothing to claime by of meritt , but a cheerefull
+vndertakeing whatsoeuer your Lo=ps= iudgm=t= thinkes mee able to
+performe . JONSON,212.014.138
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:_
+LETTER:JONSON_014:E2:1630S:COPY:OTHER
+I am in the number of your humblest seru=ts= : my Lo: and the most
+willing ; JONSON,212.014.139
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:_
+LETTER:JONSON_014:E2:1630S:COPY:OTHER
+and doe ioy in the good friendship and fellowship of my right learned
+friend M=r= Payne , then whom your Lo=p=: could not haue imployed a
+more diligent & iudicious Man , or that hath treated mee w=th= more
+humanitie , w=ch= makes mee cheerfully to insert my selfe into yo=r=
+lo:=ps= com~ands , and so sure a Clientele Wholly & onely Yo=r= Lo=ps=
+: JONSON,212.014.140
+
+AUTHOR:BEN_JONSON:MALE:_:1572:_
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:_
+LETTER:JONSON_014:E2:1630S:COPY:OTHER
+B: Ionson . JONSON,212.014.141
+
+<Q_JOS_C_1631_T_BJONSON> <L_JONSON_015> <A_BEN_JONSON> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1572> <R_WILLIAM_CAVENDISH> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_1593?>
+
+<P_213>
+
+{ED:XX}
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+An other Lr~e {ED:to_the_Earl_of_Newcastle} . JONSON,213.015.142
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+My Noble and most honor'd Lord . I my selfe beeing no substance , am
+faine to trouble You with shaddowes ; or <paren> what is less </paren>
+an Apologue , or Fable in a dreame . JONSON,213.015.143
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+I being strucken with the Palsey in the Yeare 1628. had by S=r= Thomas
+Badger some few monthes synce , a Foxe sent mee for a present ; w=ch=
+Creature , by handling , I endeauored to make tame , aswell for the
+abateing of my disease , as the delight I tooke in speculation of his
+Nature . JONSON,213.015.144
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+It happen'd this present year 1631 , and this verie weeke , being the
+weeke Vshering Christmas , and this Tuesday morneing in a dreame ,
+<paren> and morneing dreames are truest </paren> to haue one of my
+seruants come vp to my Bed-side , and tell mee , Master , Master the
+Foxe speakes . Whereat , <paren> mee thought </paren> I started , and
+troubled , went downe into the Yard , to witnes the wonder ;
+JONSON,213.015.145
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+There I found my Reynard , in his Tenement the Tubb , I had hyr'd for
+him , cynically expressing his owne lott , to be condemn'd to the house
+of a Poett , where nothing was to bee seene but the bare walls , and
+not any thing heard but the noise of a Sawe , diuiding billatts all the
+weeke long , more to keepe the family in exercise , then to comfort any
+person there with fire , saue the Paralytick master ;
+JONSON,213.015.146
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+and went on in this way as so the Foxe seem'd the better Fabler , of
+the two . JONSON,213.015.147
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+I , his Master , began to giue him good words , and stroake him :
+JONSON,213.015.148
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+but Reynard barking , told mee ; those would not doe ,
+JONSON,213.015.149
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+I must giue him meate ; JONSON,213.015.150
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+I angry , call'd him stinking Vermine . JONSON,213.015.151
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+Hee reply'd , looke into <P_214> your Cellar , w=ch= is your Larder too
+, JONSON,214.015.152
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+$You $'ll {TEXT:You'le} find a worse vermin there . JONSON,214.015.153
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+When presently calling for a light , mee thought , I went downe , &
+found all the floore turn'd vp , as if a Colony of Moles had beene
+there , or an army of Salt-Peter men ; Wherevpon I sent presently into
+Tuttle-Street , for the Kings most Excellent Mole-chatcher to releiue
+mee , & hunt them : JONSON,214.015.154
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+But hee when hee came and veiw'd the Place ; and had well marked the
+Earth turn'd vp , tooke a handfull , JONSON,214.015.155
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+smelt to it , JONSON,214.015.156
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+And said , Master it is not in my power to distroy this vermine ;
+JONSON,214.015.157
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+the K: or some good Man of a Noble Nature must helpe you .
+JONSON,214.015.158
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+This kind of Mole is call'd a <font> Want </font> , w=ch= will distroy
+you , and your family , if you preuent not the workeing of it in tyme ,
+JONSON,214.015.159
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+And therefore god keepe you JONSON,214.015.160
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+and send you health . JONSON,214.015.161
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+The interpretation both-1 of the Fable , and Dreame is , that I wakeing
+doe find Want the worst , and most workeing Vermine in a house .
+JONSON,214.015.162
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+and therefore my Noble lord , and next the King , my best Patron : I am
+necessitated to tell it you . JONSON,214.015.163
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+I am not so impudent to borrow any sum~e of your Lo=p= ,
+JONSON,214.015.164
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+for I haue no faculty to pay : JONSON,214.015.165
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+but my needs are such , and so vrging , as I doe beg , what your bounty
+can giue mee , in the name of good Letters , and the bond of an
+euer-gratefull and acknowledging seruant To your honour B. Ionson
+JONSON,214.015.166
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+Westminst=r= . JONSON,214.015.167
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+Dec=bris= 1631 JONSON,214.015.168
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+Yesterday the barbarous Court of Aldermen haue withdrawne their
+Chander-ly Pension , for Veriuice , & Mustard . JONSON,214.015.169
+
+AUTHOR:BEN_JONSON:MALE:_:1572:59
+RECIPIENT:WILLIAM_CAVENDISH:MALE:_:1593?:38?
+LETTER:JONSON_015:E2:1631:COPY:OTHER
+33=li= - 6=s= - 8=d= . JONSON,214.015.170
+
+<Q_JOS_A_1630?_T_BJONSON> <L_JONSON_016> <A_BEN_JONSON> <A-GENDER_MALE>
+<A-REL_---> <A-DOB_1572> <R_ROBERT_COTTON> <R-GENDER_MALE> <R-REL_--->
+<R-DOB_1571>
+
+<P_215>
+
+{ED:XXI_[TO_SIR_ROBERT_COTTON.]}
+
+AUTHOR:BEN_JONSON:MALE:_:1572:58?
+RECIPIENT:ROBERT_COTTON:MALE:_:1571:59?
+LETTER:JONSON_016:E2:1630?:AUTOGRAPH:OTHER
+S=r= , as seriously , as a man but fayntly returning to his despayr'd
+health , can ; I salute you . JONSON,215.016.171
+
+AUTHOR:BEN_JONSON:MALE:_:1572:58?
+RECIPIENT:ROBERT_COTTON:MALE:_:1571:59?
+LETTER:JONSON_016:E2:1630?:AUTOGRAPH:OTHER
+And by these few lines request you , that you would by this bearer ,
+lend me some booke , that would determinately $satisfy mee , of the
+true site , & distance betwixt Bauli or portus Baiaru~ , and Villa
+Augusta into w=c=h <paren> if I erre not </paren> runnes Lacus lucrinus
+. JONSON,215.016.172
+
+AUTHOR:BEN_JONSON:MALE:_:1572:58?
+RECIPIENT:ROBERT_COTTON:MALE:_:1571:59?
+LETTER:JONSON_016:E2:1630?:AUTOGRAPH:OTHER
+They are neare by my historical ayme to Cumae Chalcidensium Misenu~ ,
+Auernus , in <font> Campania </font> . JONSON,215.016.173
+
+AUTHOR:BEN_JONSON:MALE:_:1572:58?
+RECIPIENT:ROBERT_COTTON:MALE:_:1571:59?
+LETTER:JONSON_016:E2:1630?:AUTOGRAPH:OTHER
+Good S=r= adde this to many other Courtesies you haue done mee that
+though I chance to suruiue now , I may hereafter dye more in yo=r= Debt
+. JONSON,215.016.174
+
+AUTHOR:BEN_JONSON:MALE:_:1572:58?
+RECIPIENT:ROBERT_COTTON:MALE:_:1571:59?
+LETTER:JONSON_016:E2:1630?:AUTOGRAPH:OTHER
+The Booke shall be returned this night w=t=hout excuse .
+JONSON,215.016.175
+
+AUTHOR:BEN_JONSON:MALE:_:1572:58?
+RECIPIENT:ROBERT_COTTON:MALE:_:1571:59?
+LETTER:JONSON_016:E2:1630?:AUTOGRAPH:OTHER
+You=r= infirme Ben. now ./ JONSON,215.016.176

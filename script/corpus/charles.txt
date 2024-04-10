@@ -1,0 +1,1141 @@
+<B_CHARLES>
+
+<S_SAMPLE_1>
+
+<Q_CHA_A_1657?_FN_CHARLES2> <L_CHARLES_001> <A_CHARLES_STUART_II>
+<A-GENDER_MALE> <A-REL_SON> <A-DOB_1630> <R_HENRIETTA_MARIA_STUART>
+<R-GENDER_FEMALE> <R-REL_MOTHER> <R-DOB_1609>
+
+<P_5>
+
+{ED:I._KING_CHARLES_II._TO_QUEEN_HENRIETTA_MARIA.}
+
+AUTHOR:CHARLES_STUART_II:MALE:SON:1630:27?
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:MOTHER:1609:48?
+LETTER:CHARLES_001:E3:1657?:AUTOGRAPH:FAMILY_NUCLEAR
+Antwerp , CHARLES,5.001.1
+
+AUTHOR:CHARLES_STUART_II:MALE:SON:1630:27?
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:MOTHER:1609:48?
+LETTER:CHARLES_001:E3:1657?:AUTOGRAPH:FAMILY_NUCLEAR
+26 July {ED:1657?} . CHARLES,5.001.2
+
+AUTHOR:CHARLES_STUART_II:MALE:SON:1630:27?
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:MOTHER:1609:48?
+LETTER:CHARLES_001:E3:1657?:AUTOGRAPH:FAMILY_NUCLEAR
+Madame , I hope your Majestie hath that good opinion of me , as to
+beleeue <P_6> that your commandes carries euer so much waight with me ,
+that at any time when I doe not comply with them , your Majestie may
+conclude the inconveniences on my parte are so greate , as I am
+confident you would be troubled if I should obay you , CHARLES,6.001.3
+
+AUTHOR:CHARLES_STUART_II:MALE:SON:1630:27?
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:MOTHER:1609:48?
+LETTER:CHARLES_001:E3:1657?:AUTOGRAPH:FAMILY_NUCLEAR
+and the truth is , this businesse of my Lord Balcarres is of that
+nature ; CHARLES,6.001.4
+
+AUTHOR:CHARLES_STUART_II:MALE:SON:1630:27?
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:MOTHER:1609:48?
+LETTER:CHARLES_001:E3:1657?:AUTOGRAPH:FAMILY_NUCLEAR
+for your Majestie may be confident , that , after haueing giuen him so
+good a carrecter as I did at his first comming to Paris , I would not
+call my iudgement so farre in question , or run the venture of being
+thought apte to change my opinion of men vpon light groundes , if I had
+not those proofes against him of duble dealing and dishonesty as would
+iustifie me to all the world , though I had proceeded against him with
+a much seuerer sentence then hetherto I haue declared ; CHARLES,6.001.5
+
+AUTHOR:CHARLES_STUART_II:MALE:SON:1630:27?
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:MOTHER:1609:48?
+LETTER:CHARLES_001:E3:1657?:AUTOGRAPH:FAMILY_NUCLEAR
+and , because your Majestie shall not take my single worde for it , I
+will sende you , as soone as I come where the papers are , the proofes
+of what I say vnder his owne hande , which , if your Majestie will
+consider with an indifferent eye , you will at least conclude him not
+very fitt to put obligations vpon ; CHARLES,6.001.6
+
+AUTHOR:CHARLES_STUART_II:MALE:SON:1630:27?
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:MOTHER:1609:48?
+LETTER:CHARLES_001:E3:1657?:AUTOGRAPH:FAMILY_NUCLEAR
+and , for the promise your Majestie and my sister are ingaged in , can
+be of no waite in this particular , CHARLES,6.001.7
+
+AUTHOR:CHARLES_STUART_II:MALE:SON:1630:27?
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:MOTHER:1609:48?
+LETTER:CHARLES_001:E3:1657?:AUTOGRAPH:FAMILY_NUCLEAR
+for certainly at the same time the person misbehaues him selfe he
+forfetts also the engagement , CHARLES,6.001.8
+
+AUTHOR:CHARLES_STUART_II:MALE:SON:1630:27?
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:MOTHER:1609:48?
+LETTER:CHARLES_001:E3:1657?:AUTOGRAPH:FAMILY_NUCLEAR
+and I am confident your Majestie thinkes whosoeuer is faulty to me is
+so to you ; CHARLES,6.001.9
+
+AUTHOR:CHARLES_STUART_II:MALE:SON:1630:27?
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:MOTHER:1609:48?
+LETTER:CHARLES_001:E3:1657?:AUTOGRAPH:FAMILY_NUCLEAR
+I am sure it shall euer be so on my parte towardes your Majestie .
+CHARLES,6.001.10
+
+AUTHOR:CHARLES_STUART_II:MALE:SON:1630:27?
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:MOTHER:1609:48?
+LETTER:CHARLES_001:E3:1657?:AUTOGRAPH:FAMILY_NUCLEAR
+I should say much more to your Majestie but that I deferre it till I
+can sende you the papers I mention , CHARLES,6.001.11
+
+AUTHOR:CHARLES_STUART_II:MALE:SON:1630:27?
+RECIPIENT:HENRIETTA_MARIA_STUART:FEMALE:MOTHER:1609:48?
+LETTER:CHARLES_001:E3:1657?:AUTOGRAPH:FAMILY_NUCLEAR
+and will only now assure your Majestie that I am and ever will be ,
+Madame , Your Majesties most humble and most obedient sone and seruant
+, Charles R. CHARLES,6.001.12
+
+{ED:NEITHER_ADDRESSED_NOR_SEALED.}
+
+<Q_CHA_A_1656?_T_CHARLES2> <L_CHARLES_002> <A_CHARLES_STUART_II>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1630> <R_HENRY_JERMYN>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1605?>
+
+<P_7>
+
+{ED:II._KING_CHARLES_II._TO_LORD_JERMYN.}
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_002:E3:1656?:AUTOGRAPH:OTHER
+Bruges , CHARLES,7.002.13
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_002:E3:1656?:AUTOGRAPH:OTHER
+21 July {ED:1656?} . CHARLES,7.002.14
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_002:E3:1656?:AUTOGRAPH:OTHER
+I haue three of yours vpon my handes , one of the 7 , an other of the
+14 , of this month , and that of the 24 of the last which Tom Talbott
+brought me yesterday . CHARLES,7.002.15
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_002:E3:1656?:AUTOGRAPH:OTHER
+I must tell you there is a mistake <P_8> in your bill for the pistols ,
+CHARLES,8.002.16
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_002:E3:1656?:AUTOGRAPH:OTHER
+for Tom Blagge shewes me your letter wherein you tell him you haue
+returned him crowns , for which he is to receaue 465 gilders out of my
+bill , whereas I am informed by the marchant whome I haue imployd to
+receaue the mony for me , that there is but 21 poundes Flemish <paren>
+which amounts but to gilders and some odd shillings </paren> more then
+is due to me vpon the exchange for the pistols , CHARLES,8.002.17
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_002:E3:1656?:AUTOGRAPH:OTHER
+therfore you must returne to him what is due ouer and aboue that summe
+. CHARLES,8.002.18
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_002:E3:1656?:AUTOGRAPH:OTHER
+I hope you haue before this time receaued an order for the six monthes
+that are due , which I pray returne with all possible speede to me ,
+CHARLES,8.002.19
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_002:E3:1656?:AUTOGRAPH:OTHER
+for I want it very much , though the ratification be come to me from
+Spayne as fully as I could expect , of which I hope to receaue frute
+very shortly , to which purpose I intende to send to Brusselles within
+few dayes ; CHARLES,8.002.20
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_002:E3:1656?:AUTOGRAPH:OTHER
+there greate worke of Valancienes being as you know well ouer , I shall
+be very glade that a treaty betweene the two crownes may follow .
+CHARLES,8.002.21
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_002:E3:1656?:AUTOGRAPH:OTHER
+Now , concerning what you write to me by Tom Talbot , I am of your
+opinion that I must be advised by these ministers heere in the
+conducting that businesse , there creditt and authority being likly to
+be of most vse to me in that place . CHARLES,8.002.22
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_002:E3:1656?:AUTOGRAPH:OTHER
+I haue seald the Earle of Inchequin 's pattent , which I had signed so
+<P_9> longe since , CHARLES,9.002.23
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_002:E3:1656?:AUTOGRAPH:OTHER
+therfore I pray lett notice be taken of it that he may enioy all his
+rights . CHARLES,9.002.24
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_002:E3:1656?:AUTOGRAPH:OTHER
+{ED:POSTSCRIPT.} I would haue you pay to S=r= R. Foster liuers out of
+the first mony you receaue for me . CHARLES,9.002.25
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_002:E3:1656?:AUTOGRAPH:OTHER
+{ED:ADDRESSED} - For my Lord Jermin . CHARLES,9.002.26
+
+<Q_CHA_A_1656?_T_CHARLES2> <L_CHARLES_003> <A_CHARLES_STUART_II>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1630> <R_HENRY_JERMYN>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1605?>
+
+<P_10>
+
+{ED:III._KING_CHARLES_II._TO_LORD_JERMYN.}
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_003:E3:1656?:AUTOGRAPH:OTHER
+Bruges , CHARLES,10.003.27
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_003:E3:1656?:AUTOGRAPH:OTHER
+October {ED:1656?} . CHARLES,10.003.28
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_003:E3:1656?:AUTOGRAPH:OTHER
+I haue receaued yours of the 13 , CHARLES,10.003.29
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_003:E3:1656?:AUTOGRAPH:OTHER
+and am so farre from being vnsatisfied with the Cardinall 's
+retrenching my pention , that I am sure I haue tould you before , if he
+had inclined to haue continued it , I would absolutly haue refused it .
+CHARLES,10.003.30
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_003:E3:1656?:AUTOGRAPH:OTHER
+I pray therfore sende me worde to what time they haue pay'd it , and so
+how much I haue receaued from them , as likewise how much is in truth
+in arreare to that time , that I may be able as well to say how much
+they haue failed of making good what they promised , as to acknowledge
+what I haue receaued . CHARLES,10.003.31
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_003:E3:1656?:AUTOGRAPH:OTHER
+You say the Cardinall preserues one equality towards me , that is , if
+here be any thing attempted vpon England , he shall complayne of
+nothing that is done ; CHARLES,10.003.32
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_003:E3:1656?:AUTOGRAPH:OTHER
+and yett , whilst he hath much more reason to beleeue that will be the
+case then the contrary , he complayns more then would become him
+whateuer the case shall be , CHARLES,10.003.33
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_003:E3:1656?:AUTOGRAPH:OTHER
+and in all companyes talkes of establishing Cromwell ,
+CHARLES,10.003.34
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_003:E3:1656?:AUTOGRAPH:OTHER
+and vses other expressions then I expected from his discretion , when I
+gaue ouer expecting any thing from his kindenesse . CHARLES,10.003.35
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_003:E3:1656?:AUTOGRAPH:OTHER
+I wish you should tell him , that a man who hath thought a necessity of
+his owne making warrant enough for such proceedings against me as no
+necessity could in truth excuse , should allowe a reall visible
+necessity , which he $can $not {TEXT:cannot} but decerne , a good
+iustification of my doeing what all the world would laugh at me if I
+should not do ; CHARLES,10.003.36
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_003:E3:1656?:AUTOGRAPH:OTHER
+and you shall do well to put him in minde that I am not yett so low ,
+but that I may returne both the courtisyes and the iniuryes I haue
+receaued . CHARLES,10.003.37
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:26?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:51?
+LETTER:CHARLES_003:E3:1656?:AUTOGRAPH:OTHER
+{ED:ADDRESSED} - For my Lord Jermin . CHARLES,10.003.38
+
+<Q_CHA_A_1657?_T_CHARLES2> <L_CHARLES_004> <A_CHARLES_STUART_II>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1630> <R_HENRY_JERMYN>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1605?>
+
+<P_13>
+
+{ED:IV._KING_CHARLES_II._TO_LORD_JERMYN.}
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:27?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:52?
+LETTER:CHARLES_004:E3:1657?:AUTOGRAPH:OTHER
+Brusselles , CHARLES,13.004.39
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:27?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:52?
+LETTER:CHARLES_004:E3:1657?:AUTOGRAPH:OTHER
+2 August {ED:1657?} . CHARLES,13.004.40
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:27?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:52?
+LETTER:CHARLES_004:E3:1657?:AUTOGRAPH:OTHER
+I was very sorry to heare that the Queene had forbiden Dr. Cosins the
+exercise of our religion , as he was wont to do ; CHARLES,13.004.41
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:27?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:52?
+LETTER:CHARLES_004:E3:1657?:AUTOGRAPH:OTHER
+you will see what I have written to her vpon the matter ,
+CHARLES,13.004.42
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:27?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:52?
+LETTER:CHARLES_004:E3:1657?:AUTOGRAPH:OTHER
+and I do coniure you to vse your vtmost endeauors that her Majestie
+would withdraw her commandes , and permitt the deane to officiat as he
+hath done formerly , CHARLES,13.004.43
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:27?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:52?
+LETTER:CHARLES_004:E3:1657?:AUTOGRAPH:OTHER
+for otherwise it will produce those inconveniences which are so visible
+as I thinke I neede not put you in minde of them . CHARLES,13.004.44
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:27?
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:52?
+LETTER:CHARLES_004:E3:1657?:AUTOGRAPH:OTHER
+{ED:ADDRESSED} - For my Lord Jermin . CHARLES,13.004.45
+
+<Q_CHA_A_1660_T_CHARLES2> <L_CHARLES_005> <A_CHARLES_STUART_II>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1630> <R_HENRY_JERMYN>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_1605?>
+
+<P_14>
+
+{ED:V._KING_CHARLES_II._TO_THE_EARL_OF_ST._ALBAN'S.}
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:30
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:55?
+LETTER:CHARLES_005:E3:1660:AUTOGRAPH:OTHER
+Brusselles , CHARLES,14.005.46
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:30
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:55?
+LETTER:CHARLES_005:E3:1660:AUTOGRAPH:OTHER
+3 April , . CHARLES,14.005.47
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:30
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:55?
+LETTER:CHARLES_005:E3:1660:AUTOGRAPH:OTHER
+I haue little to say to you , the post being not yett arriued from
+England , which comes very vnseasonably , CHARLES,14.005.48
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:30
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:55?
+LETTER:CHARLES_005:E3:1660:AUTOGRAPH:OTHER
+for we did expect by these letters some thing of consequence ,
+CHARLES,14.005.49
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:30
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:55?
+LETTER:CHARLES_005:E3:1660:AUTOGRAPH:OTHER
+and the winde continues so full east , as no ships can stirre from
+thence . CHARLES,14.005.50
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:30
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:55?
+LETTER:CHARLES_005:E3:1660:AUTOGRAPH:OTHER
+There is reports heere that come from Calais as if they should haue
+past a vote in the house for king , lords , and commons , the truth of
+which you know by this time . CHARLES,14.005.51
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:30
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:55?
+LETTER:CHARLES_005:E3:1660:AUTOGRAPH:OTHER
+Pray hasten all you can my comming to you ; CHARLES,14.005.52
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:30
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:55?
+LETTER:CHARLES_005:E3:1660:AUTOGRAPH:OTHER
+for , <P_15> besides the passion I haue to wayte on the Queene , I
+thinke it the properest place for my publique concernes .
+CHARLES,15.005.53
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:30
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:55?
+LETTER:CHARLES_005:E3:1660:AUTOGRAPH:OTHER
+There is a gunn which I bespoke of the Turenes ; CHARLES,15.005.54
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:30
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:55?
+LETTER:CHARLES_005:E3:1660:AUTOGRAPH:OTHER
+if it be finished pray send it to me , CHARLES,15.005.55
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:30
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:55?
+LETTER:CHARLES_005:E3:1660:AUTOGRAPH:OTHER
+and I {ED:will}_MD returne you what it costs . CHARLES,15.005.56
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:30
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:55?
+LETTER:CHARLES_005:E3:1660:AUTOGRAPH:OTHER
+God keepe you . CHARLES,15.005.57
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:30
+RECIPIENT:HENRY_JERMYN:MALE:_:1605?:55?
+LETTER:CHARLES_005:E3:1660:AUTOGRAPH:OTHER
+{ED:ADDRESSED} - For the Earle of St. Alban 's . CHARLES,15.005.58
+
+<S_SAMPLE_2>
+
+<Q_CHA_A_1634_FN_CHARLES1> <L_CHARLES_006> <A_CHARLES_STUART_I>
+<A-GENDER_MALE> <A-REL_BROTHER> <A-DOB_1600> <R_ELIZABETH_STUART>
+<R-GENDER_FEMALE> <R-REL_SISTER> <R-DOB_1596>
+
+<P_6>
+
+{ED:I._KING_CHARLES_I._TO_ELIZABETH_QUEEN_OF_BOHEMIA.}
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:34
+RECIPIENT:ELIZABETH_STUART:FEMALE:SISTER:1596:38
+LETTER:CHARLES_006:E2:1634:AUTOGRAPH:FAMILY_NUCLEAR
+My onlie deare Sister , I hope shortlie to make a full dispatche to you
+by my Agent Boswell , CHARLES,6.006.59
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:34
+RECIPIENT:ELIZABETH_STUART:FEMALE:SISTER:1596:38
+LETTER:CHARLES_006:E2:1634:AUTOGRAPH:FAMILY_NUCLEAR
+therfore I shall say littell to you at this tyme , but that I hope ye
+beliue that it is not my want of affection to your affaires , but
+Oxensternes want of instructions , that hes made him haue so ill
+successe hithertoo in his negotiations , of which I hope alreddie you
+haue had some accounte ; CHARLES,6.006.60
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:34
+RECIPIENT:ELIZABETH_STUART:FEMALE:SISTER:1596:38
+LETTER:CHARLES_006:E2:1634:AUTOGRAPH:FAMILY_NUCLEAR
+& so I rest Your louing Brother to serue you , Charles R.
+CHARLES,6.006.61
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:34
+RECIPIENT:ELIZABETH_STUART:FEMALE:SISTER:1596:38
+LETTER:CHARLES_006:E2:1634:AUTOGRAPH:FAMILY_NUCLEAR
+Greenewiche CHARLES,6.006.62
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:34
+RECIPIENT:ELIZABETH_STUART:FEMALE:SISTER:1596:38
+LETTER:CHARLES_006:E2:1634:AUTOGRAPH:FAMILY_NUCLEAR
+the 13. of May , 1634 . CHARLES,6.006.63
+
+AUTHOR:CHARLES_STUART_I:MALE:BROTHER:1600:34
+RECIPIENT:ELIZABETH_STUART:FEMALE:SISTER:1596:38
+LETTER:CHARLES_006:E2:1634:AUTOGRAPH:FAMILY_NUCLEAR
+I hope the haste of the bearer will excuse the abruptness of my letter
+. CHARLES,6.006.64
+
+{ED:NO_ADDRESS_OR_SEAL.}
+
+<Q_CHA_A_1643_T_OCROMWELL> <L_CHARLES_007> <A_OLIVER_CROMWELL>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1599> <R_EDMUND_BACON_&>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_8>
+
+{ED:II._CROMWELL_TO_SIR_EDMUND_BACON,_SIR_WILLIAM_SPRING,_SIR_TH
+OMAS_BARNARDISTON,_MAURICE_BARROW.}
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+Gentlemen ,- Noe man desires more to praesent you with incoragments
+then my selfe , because of the forwardnesse I finde in you <paren> to
+your honor bee it spoken </paren> to promote this great cause ,
+CHARLES,8.007.65
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+and truly God followes you w=th= incoragments , whoe is the God of
+blessinges , CHARLES,8.007.66
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+and I beseech you lett him not loose his blessings vpon vs ;
+CHARLES,8.007.67
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+they come in season , and with all the aduantages of hartninge , as if
+God should say , " Up CHARLES,8.007.68
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+and bee doeinge ! CHARLES,8.007.69
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+and I will helpe you and stand by you . " CHARLES,8.007.70
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+There is nothinge to bee feared but our owne sinn and sloath .
+CHARLES,8.007.71
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+It hath pleased the Lord to giue your seruant and souldiers a notable
+victorie now att Gainsbrowe . CHARLES,8.007.72
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+I marched , after the takinge of Burlye house , vpon Wedensday to
+Grantham , where mett mee about horse and dragoones of Notingham .
+CHARLES,8.007.73
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+With theise , by agreement with the Linconers , wee mett att North
+Scarle , w=ch= is about tenn miles from Gainsbrowe , vpon Thursday in
+the eueninge , where wee tarried vntill two of the clocke in the
+morninge , CHARLES,8.007.74
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+and then , with our whole body , aduanced towards Gainsbrowe .
+CHARLES,8.007.75
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+About a mile and halfe from y=e= towne wee mett a forlorne hope of y=e=
+enimie of neere horse . CHARLES,8.007.76
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+Our dragoones labored to beate them backe ; CHARLES,8.007.77
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+but , not alightinge off their horses , the enemie charged them ,
+CHARLES,8.007.78
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+and beate some 4. or fiue of them off their horses . CHARLES,8.007.79
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+Our horse charged them , CHARLES,8.007.80
+
+<P_9>
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+and made them retyer vnto their maine body . CHARLES,9.007.81
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+Wee aduanced CHARLES,9.007.82
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+and came to the bottom of a steepe hill vpon w=ch= the enimie stood .
+CHARLES,9.007.83
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+Wee could not well gett vp but by some tracts , w=ch= our men assayinge
+to doe , a body of the enimie indeauored to hinder , wherein wee
+praeuailed , and gott the top of the hill . CHARLES,9.007.84
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+This was donn by the Linconers , whoe had the vantgaurd .
+CHARLES,9.007.85
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+When wee all recouered the top of the hill , wee saw a great body of
+the enimies horse facinge of vs att about muskitt shott or lesse
+distance , and a good reserue of a full regiment of horse behinde itt .
+CHARLES,9.007.86
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+Wee indeauored to putt our men into as good order as {into}_P wee could
+, the enimie in the meane tyme aduancinge towards vs to take vs att
+disaduantage , CHARLES,9.007.87
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+but in such order as {in} wee were wee charged their great body .
+CHARLES,9.007.88
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+I hauinge the right winge , wee came vp horse to horse , where wee
+disputed itt with our swords and pistolls a pretty tyme , all keepinge
+close order , soe that one could not breake the other .
+CHARLES,9.007.89
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+Att last they a little shrinkinge , our men perceauinge itt pressed in
+vpon them , CHARLES,9.007.90
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+and immediately routed this whole body , some flyinge on one side ,
+others on the other , of the enimies reserue , CHARLES,9.007.91
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+and our men persuinge them had chase and execution about 5. or 6. miles
+. CHARLES,9.007.92
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+I perceauinge this body , w=ch= was the reserue , standinge still
+vnbroken , kept backe my maior Whaley from the chase , CHARLES,9.007.93
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+and with my owne troupe and one other of my regiment , in all beinge 3.
+troupes , wee gott into a body . CHARLES,9.007.94
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+In this reserue stood Generall Cavendish , whoe one while faced mee ,
+another while faced 4. of the Lincolne troopes , w=ch= were all of ours
+that stood vpon the place , the rest beinge ingaged in the chase .
+CHARLES,9.007.95
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+Att last the Generall charged the Linconers , CHARLES,9.007.96
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+and routed them . CHARLES,9.007.97
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+I immediately fell on his reere with my three troupes , w=ch= did soe
+astonish him that hee gaue ouer the chase , and would fayne haue
+deliuered himselfe from mee , CHARLES,9.007.98
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+but I pressing onn forced them downe a hill , hauinge good execution of
+them , CHARLES,9.007.99
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+and belowe the hill droue the generall w=th= some of his souldiers into
+a quagmier , where my Capt. Leiuetennant slew him with a thrust vnder
+his short ribbs . CHARLES,9.007.100
+
+<P_10>
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+The rest of the body was wholly routed , not one man stayinge vpon the
+place . CHARLES,10.007.101
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+Wee then , after this defeat , w=ch= was soe totall , releiued the
+towne w=th= such powder and prouisions as wee brought ; w=ch= donn ,
+wee had notice that there were 6. troupes of horse and foote on the
+other side of the towne , about a mile off vs . CHARLES,10.007.102
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+Wee desired some foote of my Lord Willoghby , about ,
+CHARLES,10.007.103
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+and with our horse and theise foote marched towards them .
+CHARLES,10.007.104
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+When wee came towards the place where their horse stood , wee beate
+backe with my troupes about 2. or 3. troupes of the enimie , whoe
+retyred into a smale <P_11> village att the bottom of the hill .
+CHARLES,11.007.105
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+When wee recouered the hill , wee sawe in the bottom , about a quarter
+of a mile from vs , a regiment of foote , after that another , after
+that Newcastles owne regiment , consistinge in all of about foote
+colours , and a great body of horse , w=ch= indeed was Newcastles armie
+, w=ch= cominge soe vnexpectedlye putt vs to new consultations .
+CHARLES,11.007.106
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+My Lord Willoghby and I , beinge in the towne , agreed to call off our
+foote . CHARLES,11.007.107
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+I went to bringe them off ; CHARLES,11.007.108
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+but before I returned diuerse of the foote were ingaged , the enimie
+aduancinge with his whole body . CHARLES,11.007.109
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+Our foote retraited in some disorder , CHARLES,11.007.110
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+and with some losse gott the towne , where now they are .
+CHARLES,11.007.111
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+Our horse alsoe came off with some trouble , beinge wearied w=th= the
+longe fight , and their horses tyred ; CHARLES,11.007.112
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+yett faced the enimies fresh horse , CHARLES,11.007.113
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+and by severall remoues got off without the losse of one man , the
+enimie followinge in the reere with a great body . CHARLES,11.007.114
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+The honor of this retrait is due to God , as alsoe all the rest .
+CHARLES,11.007.115
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+Maior Whaley did in this carry himselfe with all gallantrie becominge a
+gentleman and a Christian . CHARLES,11.007.116
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+Thus haue you this true relation , as short as I could .
+CHARLES,11.007.117
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+What you are to doe vpon it is next to bee considered .
+CHARLES,11.007.118
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+If I could speake words to peirce your harts , with the sence of our
+and your condition , I would . CHARLES,11.007.119
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+If you will raise foote att the present , to encounter this armie of
+Newcastles , to raise the seige , and to inable vs to fight him , wee
+doubt not by the grace of God but that wee $shall $be {TEXT:shalbe}
+able to releiue the towne and beate the enimie onn the other side Trent
+; whereas if somwhat bee not donn in this , you will see Newcastles
+armie march vp into your bowells , beinge now as it is on this side
+Trent . CHARLES,11.007.120
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+I know it $will $be {TEXT:wilbe} difficult to raise thus many in soe
+short tyme , CHARLES,11.007.121
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+but lett mee assuer you $it $'s {TEXT:its} necessarie , and therfore to
+bee donn . CHARLES,11.007.122
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+Att least doe what you may , with all possible expedition .
+CHARLES,11.007.123
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+I would I had the happinesse to speake w=th= one of you .
+CHARLES,11.007.124
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+Truly I $can $not {TEXT:cannot} come ouer , CHARLES,11.007.125
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+but must attend my charge , CHARLES,11.007.126
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+our enimie is vigilant . CHARLES,11.007.127
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+The Lord direct you what to doe . CHARLES,11.007.128
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+Gentlemen , I am Your faythfull servant , Oliuer Cromwell .
+CHARLES,11.007.129
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+July 31. 1643 . CHARLES,11.007.130
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+Huntington . CHARLES,11.007.131
+
+<P_12>
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+Giue this gentleman credence . CHARLES,12.007.132
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+Hee is worthy to bee trusted . CHARLES,12.007.133
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+Hee knowes the vrgency of our affaires better then my selfe .
+CHARLES,12.007.134
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+If hee giue you intelligence in point of tyme of hast to bee made ,
+beleiue him . CHARLES,12.007.135
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+Hee will aduise for your good . CHARLES,12.007.136
+
+AUTHOR:OLIVER_CROMWELL:MALE:_:1599:44
+RECIPIENT:EDMUND_BACON_&:MALE:_:_:_
+LETTER:CHARLES_007:E3:1643:AUTOGRAPH:OTHER
+{ED:ADDRESSED} - To my noble friend's S=r= Edmon Bacon , k=t=. &
+barronet , S=r= Will'm Springe , knights and barronetts , S=r= Thomas
+Bernardiston , kg=t=. , Maurice Barrowe , esq . , present theise .
+CHARLES,12.007.137
+
+<Q_CHA_A_1669_T_CHARLES2> <L_CHARLES_008> <A_CHARLES_STUART_II>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1630> <R_JOHN_MAITLAND>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_21>
+
+{ED:V._CHARLES_II._TO_THE_EARL,_AFTERWARDS_DUKE_OF_LAUDERDALE.}_CO DE
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:39
+RECIPIENT:JOHN_MAITLAND:MALE:_:_:_
+LETTER:CHARLES_008:E3:1669:AUTOGRAPH:OTHER
+Whithall , CHARLES,21.008.138
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:39
+RECIPIENT:JOHN_MAITLAND:MALE:_:_:_
+LETTER:CHARLES_008:E3:1669:AUTOGRAPH:OTHER
+2 Nouember 1669 . CHARLES,21.008.139
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:39
+RECIPIENT:JOHN_MAITLAND:MALE:_:_:_
+LETTER:CHARLES_008:E3:1669:AUTOGRAPH:OTHER
+Though Robin Moray has by my derections answerd your letters , and
+tould you how well I am satisfied with your proceedings in Scotland ,
+yett I $can $not {TEXT:cannot} forbeare the repeating it to you my
+selfe , and <P_22> withall to tell you the true sence I have of your
+industry and dexterity in the whole proceedings . CHARLES,22.008.140
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:39
+RECIPIENT:JOHN_MAITLAND:MALE:_:_:_
+LETTER:CHARLES_008:E3:1669:AUTOGRAPH:OTHER
+I shall not say any thing particularly now concerning the vnion ,
+because Robin has at large tould you my thoughts in order to what is to
+be done on your parts , which I thinke you will aprooue of when you
+consider the length of our Parlament deliberations heere , and how
+inconvenient a long sessions there would be in all respects .
+CHARLES,22.008.141
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:39
+RECIPIENT:JOHN_MAITLAND:MALE:_:_:_
+LETTER:CHARLES_008:E3:1669:AUTOGRAPH:OTHER
+I shall say no more to you now but to assure you of my kindnesse and
+constant frindship . CHARLES,22.008.142
+
+AUTHOR:CHARLES_STUART_II:MALE:_:1630:39
+RECIPIENT:JOHN_MAITLAND:MALE:_:_:_
+LETTER:CHARLES_008:E3:1669:AUTOGRAPH:OTHER
+{ED:ADDRESSED} - For my Lord Commissioner . CHARLES,22.008.143
+
+<Q_CHA_C_1678_T_NGWYNNE> <L_CHARLES_009> <A_NELL[ELEANOR]_GWYNNE>
+<A-GENDER_FEMALE> <A-REL_---> <A-DOB_1650> <R_MR_HYDE> <R-GENDER_MALE>
+<R-REL_---> <R-DOB_--->
+
+<P_25>
+
+{ED:VII._NELL_GWYNNE_TO_MR._HYDE.}
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+pray Deare Mr. Hide forgive me for not writeing to you before now
+CHARLES,25.009.144
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+for the reasone is I have bin sick thre months CHARLES,25.009.145
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+& sinse I recoverd I have had nothing to intertaine you withall
+CHARLES,25.009.146
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+nor have nothing now worth writing but that I can holde no longer to
+let you know I never have ben in any companie wethout drinking your
+health CHARLES,25.009.147
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+for I loue you with all my soule . CHARLES,25.009.148
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+the pel mel is now to me a dismale plase sinse I have uterly lost S=r=
+Car Scrope never to be recourd agane CHARLES,25.009.149
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+for he tould me he could not live allwayes at this rate
+CHARLES,25.009.150
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+& so begune to be a littel uncivil , which I could not sufer from an
+uglye baux garscon . CHARLES,25.009.151
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+M=s= Knights Lady $mother $'s {TEXT:mothers} dead CHARLES,25.009.152
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+& she has put up a scutchin no beiger then my Lady grins scunchis .
+CHARLES,25.009.153
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+My lord Rochester is gon in the cuntrei . CHARLES,25.009.154
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+M=r= Savil has got a misfortune , CHARLES,25.009.155
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+but is upon recovery CHARLES,25.009.156
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+& is to mary an hairres , who I thinke $wo $n't {TEXT:wont}
+{TEXT:wont_repeated} {ED:SIC} have an ill time ont if he holds up his
+thumb . CHARLES,25.009.157
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+My lord of <P_26> Dorscit apiers wonse in thre munths ,
+CHARLES,26.009.158
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+for he drinkes aile with Shadwell & M=r= Haris at the Dukes house all
+day long . CHARLES,26.009.159
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+my Lord Burford remimbers his sarvis to you . CHARLES,26.009.160
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+my Lord Bauclaire is {TEXT:is} {ED:SIC} goeing into france .
+CHARLES,26.009.161
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+we are a goeing to supe with the king at whithall & my lady Harvie .
+CHARLES,26.009.162
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+the King remembers his sarvis to you . CHARLES,26.009.163
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+now $let $'s {TEXT:lets} talke of state affairs , CHARLES,26.009.164
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+for we never caried things so cunningly as <P_27> now
+CHARLES,27.009.165
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+for we $do $n't {TEXT:dont} know whether we shall have pesce or war ,
+CHARLES,27.009.166
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+but I am for war and for no other reason but that you may come home .
+CHARLES,27.009.167
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+I have a thousand merry conseets , CHARLES,27.009.168
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+but I $can $n't {TEXT:cant} make her write um CHARLES,27.009.169
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+& therfore you must take the will for the deed . CHARLES,27.009.170
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+god bye . CHARLES,27.009.171
+
+AUTHOR:NELL[ELEANOR]_GWYNNE:FEMALE:_:1650:28
+RECIPIENT:MR_HYDE:MALE:_:_:_
+LETTER:CHARLES_009:E3:1678:COPY:OTHER
+your most loueing obedunt faithfull & humbel sarvant E. G .
+CHARLES,27.009.172

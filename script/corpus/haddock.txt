@@ -1,0 +1,2237 @@
+<B_HADDOCK>
+
+<Q_HAD_A_1657_FN_RHADDOCK> <L_HADDOCK_001> <A_RICHARD_HADDOCK>
+<A-GENDER_MALE> <A-REL_SON> <A-DOB_1629?> <R_WILLIAM_HADDOCK>
+<R-GENDER_MALE> <R-REL_FATHER> <R-DOB_1607?>
+
+<P_1>
+
+{ED:CAPTAIN_RICHARD_HADDOCK_TO_HIS_FATHER.}
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+Dragon frig=t= in the Downes , HADDOCK,1.001.1
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+this May , a=o= 1657 . HADDOCK,1.001.2
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+Hon=d= Father , Sir , these I hope will congratulate yo=r= safe
+arrivall at Leghorne , w=ch= God graunt may be with yo=r= health and
+well fare , for the continuation whereof I shall ever pray .
+HADDOCK,1.001.3
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+I $can $not {TEXT:cannot} yet forgett my unhapynes y=t= soe short a
+tyme and small distance hindred me the inioym=t= of seeing yo=u= before
+you gote out y=e= Channell , seeing I made it my aime and bussines to
+performe it , HADDOCK,1.001.4
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+but pleased God to frustrate me of my intended hapynes .
+HADDOCK,1.001.5
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+I hope y=t= our next interview may be with the greater ioy and comfort
+. HADDOCK,1.001.6
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+Indeed , when I returned to Dover , which was the Sonday following
+yo=r= departure , I was not a little greived when Major Gen=ll= Kelsey
+tould me y=e= unwellcome news of yo=r= being past by ; HADDOCK,1.001.7
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+and himselfe was very sory when I gave him an acc=t= y=t= I mett yo=u=
+not , HADDOCK,1.001.8
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+and tould me , if I had in y=e= least desired not to have gone for
+Zeinhead , he would have ordered an other ship in o=r= roome .
+HADDOCK,1.001.9
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+I was very thankfull for his respect he exprest towards yo=u= ,
+HADDOCK,1.001.10
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+but I knew not before y=t= I might be soe bould w=th= him as to desire
+such a favor . HADDOCK,1.001.11
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+Yo=u= saild hence y=e= Fryday evening ; HADDOCK,1.001.12
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+and Satuarday , by in y=e= forenoone , we were soe neare y=e= head of
+Beachy y=t= noe shipp could or did passe <P_2> by us , but we spake
+w=th= in hopes of meeting yo=u= . HADDOCK,2.001.13
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+Surely the wind blew the harder to deny me y=t= hapynes .
+HADDOCK,2.001.14
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+God in mercy goe alongst with yo=u= HADDOCK,2.001.15
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+and preserve yo=u= from the rage of unreasonable men . HADDOCK,2.001.16
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+I shall not be wanting , as I am bound in duty , to make it my earnest
+request to God for yo=r= preservation . HADDOCK,2.001.17
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+My wife , in good health , presents her humble duty to yo=u= ,
+HADDOCK,2.001.18
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+and hath ever since bine very sorrowfull she stayed not behind to
+present her duty and respects to yo=u= at yo=r= departure .
+HADDOCK,2.001.19
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+Sir , litle of novelty ofers at present , only of great preparations
+for y=e= fitting out seavrall great shipps , as y=e= Resolution ,
+Naiesby , and Andrew , from Portsm=o= ; y=e= Tryomph , Victory ,
+Vantguard , and Entrance , from Chatham . HADDOCK,2.001.20
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+I $can $not {TEXT:cannot} give you an acc=t= , y=e= occasion or upon
+w=t= designe y=e= shipps are prepared ; HADDOCK,2.001.21
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+only suppose it may be to be in a readynes to defend our selves if any
+treachorus act should be ofered by the Hollander , who will have saile
+men of warr out very sodainely , as is certainely reported .
+HADDOCK,2.001.22
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+I hope noe act of hostillity against us is intended . HADDOCK,2.001.23
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+We have iust cause to feare y=e= worst ; HADDOCK,2.001.24
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+and I think , as farr as I am able to aprehend , yo=u= will have little
+occasion to trust or put any confidence in them abroad .
+HADDOCK,2.001.25
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+God send us peace at home and abroad ; HADDOCK,2.001.26
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+but , if these faile us , peace w=th= God will beare up our spirits in
+the greatest dificulties y=t= doe atend our earthly pilgrimage .
+HADDOCK,2.001.27
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+Sir , my wife desires yo=u= please , at yo=r= arrivall at Ven , to buy
+for her a foiled stone of the measure I conseave was given by her
+sisters to Brother Andrew at Leigh ; as alsoe a pott ketle and 2 stue
+panns , one lesser than the other ; as alsoe a jarr from Leghorne ,
+with w=t= other things nessesary for a howse , to y=e= value of +L3 in
+fower pound in all , which shall be thankfully repayed .
+HADDOCK,2.001.28
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+I intend to wright yo=u= to Ven , when $I conseave you may ataine
+thither , and what ofers shall not be wanting of advizeing yo=u= .
+HADDOCK,2.001.29
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+My Lord Protector hath denyed y=e= governm=t= of the Comonwealth under
+y=e= title of King , HADDOCK,2.001.30
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+and since , $it $'s {TEXT:its} established to him in the title he now
+beares . HADDOCK,2.001.31
+
+<P_3>
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+I have not heard from home since yo=r= departure . HADDOCK,3.001.32
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+My intire love with my wives remembred to our 3 brothers w=th= all o=r=
+freinds on bord yo=u= . HADDOCK,3.001.33
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+Brother Wm. , in health , pres=ts= his humble duty to yo=u= , w=th= his
+love to his Bro=r= . HADDOCK,3.001.34
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+My saluts to Mr. Holder ; HADDOCK,3.001.35
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+and , with my most humble duty presented to yo=r= self , I remayne ,
+Sir , yo=r= ever lo. and obedient sonne till death , Richard Haddock .
+HADDOCK,3.001.36
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+My wife being present desires , w=th= y=e= presenting her humble duty
+to yo=u= , to subscribe herselfe yo=r= lo. daughter till death , Lydia
+Haddocke . HADDOCK,3.001.37
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+Since y=e= wrighting y=e= above lynes I have rec=d= order to goe over
+and ryde before Dunkerk , and to take y=e= comand of y=t= squadron now
+riding there . HADDOCK,3.001.38
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+This day is arrived hapy news , Gen=ll= Blake 's burneing and sinking
+16 saile of the K. of Spaine 's gallions and shipps at S=ta= Cruse ,
+most welcome and true . HADDOCK,3.001.39
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+R. H . HADDOCK,3.001.40
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+To his hon=d=. father , Capt. Wm. Haddock , Comander of the shipp
+Hanniball , these present , HADDOCK,3.001.41
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_001:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+Livorno . HADDOCK,3.001.42
+
+<Q_HAD_A_1657_FN_RHADDOCK> <L_HADDOCK_002> <A_RICHARD_HADDOCK>
+<A-GENDER_MALE> <A-REL_SON> <A-DOB_1629?> <R_WILLIAM_HADDOCK>
+<R-GENDER_MALE> <R-REL_FATHER> <R-DOB_1607?>
+
+<P_3>
+
+{ED:THE_SAME_TO_THE_SAME.}
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_002:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+Dragon frig=t= in Dunkirk Road , HADDOCK,3.002.43
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_002:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+this 15=th= June , a=o= 1657 . HADDOCK,3.002.44
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_002:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+Hon=d= Father , S=r= , my most humble duty w=th= Bro. Wms. presented
+unto you w=th= o=r= intire loves to o=r= loveing brothers and freinds
+w=th= you . HADDOCK,3.002.45
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_002:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+These only serve to advize yo=u= of our wellfare , hopeing and
+earnestly praying to the Lord that y=e= like good health atends you
+y=t= , blessed <P_4> be God , we injoy . HADDOCK,4.002.46
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_002:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+These I hope will find yo=u= safe arrived at Leghorne .
+HADDOCK,4.002.47
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_002:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+My last from the Downes gave yo=u= an acc=t= y=t= we were ordered over
+hither to take the command of this squadron that now lyes w=th= us
+before this place . HADDOCK,4.002.48
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_002:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+Since o=r= arrivall heere , w=ch= is 14 dayes since , not anything of
+action hath ofered worth yo=r= advice ; HADDOCK,4.002.49
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_002:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+the good we doe heere is only to keepe there men of warr in y=t= are in
+, and prevent those comeing in w=th= there prisses y=t= are abroad .
+HADDOCK,4.002.50
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_002:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+But they want not harbours in Holland to secure them and w=t= they
+ketch from us . HADDOCK,4.002.51
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_002:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+I conseave yo=u= want not letters of caution from yo=r= owners to be
+carefull of trusting the Hollanders . HADDOCK,4.002.52
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_002:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+I feare they will prove treacherous to there ingagem=ts= w=th= us in
+the peace agreed betwixt us . HADDOCK,4.002.53
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_002:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+They are almost ready to saile w=th= or upward men of warr , besides 16
+saile now in o=r= Channell . HADDOCK,4.002.54
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_002:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+My Lord Protector is not wanting to prevent there treacherous actions ,
+if any intended against us . HADDOCK,4.002.55
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_002:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+I conseave in 14 dayes we may have upwards of saile , considerable men
+of warr , in the Downes , to answer any atempt may be ofered by them ;
+HADDOCK,4.002.56
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_002:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+and doe beleive both we and the squadron before Ostend may be called of
+, as soone as we have any intelligence of there redynes to saile .
+HADDOCK,4.002.57
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_002:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+All o=r= freinds in England , I heare , are in health .
+HADDOCK,4.002.58
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_002:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+My wife still at Deall , HADDOCK,4.002.59
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_002:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+and stayes to accomp=a= Aunt Morgan to London ; my unkle now being in
+the Downes , and conseave may saile very sodainely , the wind
+presenting faire at present . HADDOCK,4.002.60
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_002:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+Sir , please at yo=r= arrival at Ven=a= to present my service and
+respects to my Mr. and Mrs. Hobson , with Mr. Jno. Hobson , jun=r=. my
+saluts ; as also to Mr. Jones and his wife . HADDOCK,4.002.61
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_002:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+Sir , I have not else at present worth yo=r= advice . HADDOCK,4.002.62
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_002:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+With my earnest prayers to Almighty God to preserve you out of the
+hands of yo=r= mercyles enemyes , and send yo=u= a safe returne to the
+injoym=t= of yo=r= <P_5> relations , for the happy accomplishm=t=
+whereof itt shall be the earnest request of , Sir , yo=r= most
+affetionate and obedient sonne till death , Richard Haddock .
+HADDOCK,5.002.63
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:28?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:50?
+LETTER:HADDOCK_002:E3:1657:AUTOGRAPH:FAMILY_NUCLEAR
+To his hon=d= freind Capt. Wm Haddock , Comander of the ship Hanniball
+, these present , at Livorno . HADDOCK,5.002.64
+
+<Q_HAD_A_1658_FN_RHADDOCK> <L_HADDOCK_003> <A_RICHARD_HADDOCK>
+<A-GENDER_MALE> <A-REL_SON> <A-DOB_1629?> <R_WILLIAM_HADDOCK>
+<R-GENDER_MALE> <R-REL_FATHER> <R-DOB_1607?>
+
+<P_5>
+
+{ED:THE_SAME_TO_THE_SAME.}
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_003:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+Dragon frig=t= in Dunkirke Road , HADDOCK,5.003.65
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_003:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+this 26 Aprill , 1658 ; Monday . HADDOCK,5.003.66
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_003:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+Hon=d= Father , S=r= , my most humble duty presented unto yo=u= w=th=
+my deare Mother , Grandfather , and Grandm=o= , w=th= my loveing saluts
+to my wife , bro=s= , sisters , and freinds . HADDOCK,5.003.67
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_003:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+My last , of 18 instant , I sent by my Bro=r= Wm. , whome I gave leave
+to goe to London ; w=ch= hope is safely arrived with you . Since w=ch=
+, litle of acction here in these parts . HADDOCK,5.003.68
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_003:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+The 21 instant , about midnight , heere escaped out a small pickeron of
+4 or 6 guns out this habo=r= , notw=th=standing our vigilancy and
+indeavors for his surprizall , haveing o=r= boates in w=th= the shore
+and a small frig=t= , who gave him chase and fired seavrall guns at him
+; HADDOCK,5.003.69
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_003:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+but the darknes of the night prevented there long keepeing sight of him
+, HADDOCK,5.003.70
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_003:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+and , notw=th=standing they made after him to the best of there
+understanding , yet he got away and noe sight of him at day light .
+HADDOCK,5.003.71
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_003:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+Last Saturday heere went from Mardike Marshall d'Aumon , Duke of
+Bouligne , w=th= 13 hundred French souldiers , imbarqued in seaverall
+vessells , and gone to Oastend , before w=ch= place they arrived that
+night w=th= the Vice Admirall . HADDOCK,5.003.72
+
+<P_6>
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_003:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+If the intelligence given me be true , we shall see a sodaine
+alteration in Flaunders . HADDOCK,6.003.73
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_003:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+$It $'s {TEXT:Its} said y=t= , for a considerable summe of mony , the
+towne of Ostend is to be delivered up to y=e= King of Fraunce by the
+Governor and inhabitants of s=d= place , they being in such a sad
+condition by reasone of the extreame burden y=t= lyes upon them .
+HADDOCK,6.003.74
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_003:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+For security of performance there is a considerable man , who hath
+confirmed the accord w=th= the K. of Fraunce , now w=th= Marshall
+d'Aumon , that belongs to Ostend , who hath ingaged his life for
+performance . HADDOCK,6.003.75
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_003:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+I pray God they faile not in there undertakeings ; HADDOCK,6.003.76
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_003:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+and , although treachery be hateful and odious throughout the world ,
+yet doubtles $'t $will {TEXT:'twill} prove hapye for our poore traders
+when such a considerable place as y=t= is , a neast of roages , shall
+be routed . HADDOCK,6.003.77
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_003:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+If it proves efectuall , farwell most p=ts= of Flaunders this sumer .
+HADDOCK,6.003.78
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_003:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+S=r= , please to keepe this intelligence to yo=r= selfe , least it
+should come from me , being privately advized me . HADDOCK,6.003.79
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_003:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+I hope , when our victualling is out , we shall come over to tallow ;
+w=ch= God graunt , that I may not fayle of my earnest desire of seeing
+you before you goe forth . HADDOCK,6.003.80
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_003:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+I intend sodaynly to send to the Vice Admirall to know where we shall
+be disposed by him or otherwise from the Comiss=rs= of Admiralty .
+HADDOCK,6.003.81
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_003:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+S=r= , I have not other at present . HADDOCK,6.003.82
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_003:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+W=th= my humble request to y=e= Allmighty for yo=r= preservation , I
+remayne Yo=r= most loveing and obedient son till death , Richard
+Haddock . HADDOCK,6.003.83
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_003:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+To his hon=d= freind Capt. Wm. Haddock , at his howse nere the
+Newstaires in Wapping , these present , in London . HADDOCK,6.003.84
+
+<Q_HAD_A_1658_FN_RHADDOCK> <L_HADDOCK_004> <A_RICHARD_HADDOCK>
+<A-GENDER_MALE> <A-REL_SON> <A-DOB_1629?> <R_WILLIAM_HADDOCK>
+<R-GENDER_MALE> <R-REL_FATHER> <R-DOB_1607?>
+
+<P_6>
+
+{ED:THE_SAME_TO_THE_SAME.}
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_004:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+Dragon frig=t= in Dunkirke Road , HADDOCK,6.004.85
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_004:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+this prim=o= May , 1658 ; Satuarday . HADDOCK,6.004.86
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_004:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+Hon=d= Father , S=r= , my last from this place was of 26th past , since
+w=ch= not anything hath ofered . HADDOCK,6.004.87
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_004:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+The great Mons=r= with the soldiers I gave yo=u= acc=t= of are yet
+before Oastend with the Vice Admirall HADDOCK,6.004.88
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_004:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+have efected <P_7> nothing , not haveing had opertunity , these out
+winds preventing there landing . HADDOCK,7.004.89
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_004:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+God sending us shore winds , we shall quicklie see the result of the
+action in hand . HADDOCK,7.004.90
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_004:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+I sent to the Vice Admirall to desire he would order us into the river
+to tallow and revictuall ; HADDOCK,7.004.91
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_004:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+but he wrights me , in regard he hath noe ship with him to place in our
+roome , he will not w=th=out order from the Adm=ty= . HADDOCK,7.004.92
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_004:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+Soe this day I have wrote to them , advizeing the neere expiration of
+our victualling , also makeing it my humble request that we may come to
+Chatham to tallow and revictuall ; w=ch= I hope they will graunt ,
+HADDOCK,7.004.93
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_004:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+but am dubious of my desired hapynesse of seeing yo=u= before yo=u= goe
+forth . HADDOCK,7.004.94
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_004:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+My humble duty presented to my deare Mother , Grandfather , and
+Grandm=o= , Father and Mother Steevens , w=th= my loveing saluts to my
+wife , brothers , sisters , and freinds in gen=ll= ; HADDOCK,7.004.95
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_004:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+and , w=th= my most humble duty to yo=r= selfe , w=th= prayers to the
+Allmighty for yo=r= continued preservation , I remaine , S=r= , your
+most loveing and dutyfull sonne till death , Richard Haddock .
+HADDOCK,7.004.96
+
+AUTHOR:RICHARD_HADDOCK:MALE:SON:1629?:29?
+RECIPIENT:WILLIAM_HADDOCK:MALE:FATHER:1607?:51?
+LETTER:HADDOCK_004:E3:1658:AUTOGRAPH:FAMILY_NUCLEAR
+Being hast , y=e= frig=t= under saile with a lee tyde , my wife must
+excuse my not wrighting her at present . HADDOCK,7.004.97
+
+<Q_HAD_C_1666_T_RHADDOCK> <L_HADDOCK_005> <A_RICHARD_HADDOCK>
+<A-GENDER_MALE> <A-REL_---> <A-DOB_1629?> <R_WILLIAM_COVENTRY>
+<R-GENDER_MALE> <R-REL_---> <R-DOB_--->
+
+<P_7>
+
+{ED:THE_SAME_TO_SIR_WILLIAM_COVENTRY.}
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+Portland frig=tt= in Oasely Bay , HADDOCK,7.005.98
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+11=th= Sept . 1666 ; Tuesday , 8 at night . HADDOCK,7.005.99
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+Right Hon=ble= , Yours of 8th instant , w=th= his R. Highnesse order
+inclosed , I received this afternoone ; w=ch= shall put in execution to
+morrow morning , wind and weather permiting . HADDOCK,7.005.100
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+Sonday last , in comp=a= w=th= the Adventure and a fire ship , we
+sayled out of Oasely bay through the Slade Way , intending for the
+North Forland , and soe unto the <P_8> Downes , in search of our fleet
+. HADDOCK,8.005.101
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+About noone we gote sight of the Forland , HADDOCK,8.005.102
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+and within one hower after we espied a fleet of shipps on the back of
+the Goodwin sand , w=ch= we deemed to be our fleet ; HADDOCK,8.005.103
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+but , standing w=th= them , we found them to be the Dutch fleet ,
+consisting of in 75 sayle . HADDOCK,8.005.104
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+Two ships of the fleet makeing us bore downe w=th= us ,
+HADDOCK,8.005.105
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+and presantly after two more followed them . HADDOCK,8.005.106
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+We stood away from them to the eastwards , towards a ship then to
+leewards , w=ch= we suposed to be a Hollander , but proved a Sweed
+bound for Burdaix Light ; HADDOCK,8.005.107
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+and , finding two of the men of warr spring there luffs againe and only
+2 bore downe w=th= us , we clapt upon a wind HADDOCK,8.005.108
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+and stood towards them , haveing gote them about 5 or 6 miles to
+leewards of y=e= body of there fleet . HADDOCK,8.005.109
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+But , when they came w=th=in neere shote of us , they keept there wind
+, HADDOCK,8.005.110
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+would not come neere to fight us , HADDOCK,8.005.111
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+but kept fireing guns to windwards and makeing a waft w=th= there
+ensignes for more assistance ; whereupon 7 or 8 sayle more bore away
+w=th= us . HADDOCK,8.005.112
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+Night comeing on , we thought it not convenient to lye by for them ,
+HADDOCK,8.005.113
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+but stood away for our owne coast , not being able to keep our lower
+tire of guns out to windwards , and but 32 br=lls= powder on bord .
+HADDOCK,8.005.114
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+Yesterday we got into Alborough bay , when I gave acc=t= to the
+Comiss=r= at Harw=ch= by an expresse from Alborough of our proceedings
+, desireing him to send the said letter to yo=r= Hon=r= , if he thought
+it convenient . HADDOCK,8.005.115
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+I have now rec=d= from Harw=ch= an aditionall suply of sixty barills of
+powder . HADDOCK,8.005.116
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+The Adventure intends alongst w=th= us . HADDOCK,8.005.117
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+The Litle Mary , I understand , will not be ready in 3 or 4 dayes .
+HADDOCK,8.005.118
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+To conclud , Sonday night proved such a hard galle of wind y=t= I iudge
+the Dutch fleet either drove or bore away towards there owne coast ,
+HADDOCK,8.005.119
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+for we saw them all under sayle before $'t $was {TEXT:twas} dark .
+HADDOCK,8.005.120
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+I shall not be wanting to give yo=r= Hon=r= an acc=t= of our
+proceedings , w=ch= is w=t= ofers at present from , R=t= Hon=ble= ,
+y=r= humble serv=t= att Com=d= , Richard Haddock . HADDOCK,8.005.121
+
+AUTHOR:RICHARD_HADDOCK:MALE:_:1629?:37?
+RECIPIENT:WILLIAM_COVENTRY:MALE:_:_:_
+LETTER:HADDOCK_005:E3:1666:COPY:OTHER
+{ED:ENDORSED:} " Copie of lett=r= to S=r= Wm. Coventry , from S=r= R=d=
+Haddock . " HADDOCK,8.005.122
+
+<Q_HAD_A_1672_FN_RHADDOCK> <L_HADDOCK_006> <A_RICHARD_HADDOCK>
+<A-GENDER_MALE> <A-REL_HUSBAND> <A-DOB_1629?> <R_ELIZABETH_HADDOCK>
+<R-GENDER_FEMALE> <R-REL_WIFE> <R-DOB_--->
+
+<P_10>
+
+{ED:CAPTAIN_RICHARD_HADDOCK_TO_HIS_WIFE.}
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_006:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+On bord y=e= R. James , at anchor 4 miles w=th=out St. Hellens , this
+5=th= May , 1672 ; Sonday night . HADDOCK,10.006.123
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_006:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+My deare Betty , This afternoone we arrived this place w=th= our noble
+fleet . HADDOCK,10.006.124
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_006:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+W=th=in , at Spitthead , we see y=e= French fleet gote heere before us
+$will $be {TEXT:wilbe} good company . HADDOCK,10.006.125
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_006:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Tomorrow I doubt not but we shall joyne w=th= them . HADDOCK,10.006.126
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_006:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+A few daies will prepare us to goe to seeke y=e= Hollanders , who are
+out . HADDOCK,10.006.127
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_006:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+We saw some of there scouts that day we sailed out y=e= river .
+HADDOCK,10.006.128
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_006:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I have no other news to write thee at present . HADDOCK,10.006.129
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_006:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I hope these will find y=e= at London , where I advize thee to stay
+that I may the more certainely direct my letters to the .
+HADDOCK,10.006.130
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_006:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I shall not be wanting to give the advice by all opertunities how itt
+fares with us . HADDOCK,10.006.131
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_006:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+God Almighty preserve and keepe the and us in good health ,
+HADDOCK,10.006.132
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_006:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+and in his good tyme send us a ioyfull meeteing . HADDOCK,10.006.133
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_006:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+My deere love to all myne and thy loveing relations .
+HADDOCK,10.006.134
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_006:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+W=th= intire saluts to thy selfe and my daughter , I remayne thyne ,
+whilst I am Richard Haddock . HADDOCK,10.006.135
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_006:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+My love to my deare Coz Goodlad at Wapping . HADDOCK,10.006.136
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_006:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Pray venture a letter or two to Portsm=o= to me . HADDOCK,10.006.137
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_006:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+R. H. HADDOCK,10.006.138
+
+<Q_HAD_A_1672_FN_RHADDOCK> <L_HADDOCK_007> <A_RICHARD_HADDOCK>
+<A-GENDER_MALE> <A-REL_HUSBAND> <A-DOB_1629?> <R_ELIZABETH_HADDOCK>
+<R-GENDER_FEMALE> <R-REL_WIFE> <R-DOB_--->
+
+<P_10>
+
+{ED:THE_SAME_TO_THE_SAME.}
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+On bord the Royall James , this 14=th= May , 1672 ; HADDOCK,10.007.139
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Tuesday evening , at anchor neere Dungenesse . HADDOCK,10.007.140
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+My dearest Love , These are to give the an acc=t= of my wellfare and
+good health , w=ch= I blesse God I doe injoy . HADDOCK,10.007.141
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+We are now at anchor neere Dungenesse w=th= our whole fleet ,
+consisting of men of warr , English and French , about or 22 fireships
+, and many small vessells besides . HADDOCK,10.007.142
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+We have bine tydeing it up from the Isle of Wind {ED:SIC} .
+HADDOCK,10.007.143
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Ever since <P_11> Wedensday last the winds have hung easterly .
+HADDOCK,11.007.144
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+The Dutch fleet , we heard yesterday , were at y=e= North Forland .
+HADDOCK,11.007.145
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+We doe our utmost endeavor to get to them , if they have a mind to
+fight us . HADDOCK,11.007.146
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+To y=e= westwards of y=e= Downes they may easely be w=th= us ;
+HADDOCK,11.007.147
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+but we judge there designe is to ingage us amongst the sands , w=ch=
+posibly they may be deceaved in there expectation . HADDOCK,11.007.148
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+God Almighty goe along w=th= us HADDOCK,11.007.149
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+and give us victory over our enemyes . HADDOCK,11.007.150
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I know I shall not want thy prayers and the well wishes of all my deare
+relations for my preservation . HADDOCK,11.007.151
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+We have a brave fleet and , in the maine , well mand .
+HADDOCK,11.007.152
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+For our parts we doe not complayn , haveing neere men on bord us ;
+HADDOCK,11.007.153
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+y=e= Duke , I beleive , and upwards . HADDOCK,11.007.154
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+It is probable , before we ingage , we may have y=e= ships in the river
+ioyne w=th= us , w=ch= are or 11 men of warr and 4 fire ships .
+HADDOCK,11.007.155
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I desire we may put our strength in God Almighty ; HADDOCK,11.007.156
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+but soe noble a brave fleet have not bine seene together in our dayes .
+HADDOCK,11.007.157
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+My deare , speake to my bro=r= Joseph for the ballence of the mony I
+desired him to rec=e= for me of Mr. Forth and Mr. Beare , and to pay
+out of it severall debts w=ch= at present I doe not remember the
+perticulars . HADDOCK,11.007.158
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I know not how to direct the to answer these , nor where you may send
+to meet us . HADDOCK,11.007.159
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+If this arrive yo=u= on Thursday , you may venture a lyne or two to
+Dover Road , where posibly we may stop 24 houres to watter , and next I
+supose for Sowle Bay or the coast of Holland . HADDOCK,11.007.160
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Desire my Coz Goodlad , the draper , to rec=e= three pounds for the of
+Cozen Boys , w=ch= is due April last ; HADDOCK,11.007.161
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+and pray , when the bond is due of Mr. Welsted and Temple , goe to them
+HADDOCK,11.007.162
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+and rec=e= the interest +L9 , HADDOCK,11.007.163
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+and desire them to lett me have or more , if posible , to suply my
+occasions . HADDOCK,11.007.164
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Thou knowest the imploym=t= I am in is very expencive ,
+HADDOCK,11.007.165
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+and therfore let me not faile of haveing at least of them .
+HADDOCK,11.007.166
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+$'T $was {TEXT:Twas} Mr. Welsted 's promise in a month ,
+HADDOCK,11.007.167
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+but I have stayd neere weeks . HADDOCK,11.007.168
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Pray let me know w=t= is done w=th= the mony in bro=r= Hurleston 's
+hands and brother Thornburgh . HADDOCK,11.007.169
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I know they will be very kind . HADDOCK,11.007.170
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I have heere inclosed sent the my will , w=ch= have made for all good
+respects . HADDOCK,11.007.171
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I desire the to keepe it by the , sealed as it is . HADDOCK,11.007.172
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+If God Almighty in His providence should take me <P_12> out this life ,
+you will find I have not failed of my promise to thee , though I have
+some reason to lament the kindnes done me by thy freinds ;
+HADDOCK,12.007.173
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+but that shall not trouble me at this tyme . HADDOCK,12.007.174
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+God Almighty , I doubt not , will preserve me , that I may live to see
+the againe w=th= ioy and comfort . HADDOCK,12.007.175
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Pray lett me know by some meanes or other of the receipt of these .
+HADDOCK,12.007.176
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+My deare love to my sister Jessen , bro=r= and sister Thornburgh ,
+bro=r= Hurlestone . HADDOCK,12.007.177
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+My respects to my Unckle Moyer ; all of them . HADDOCK,12.007.178
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+My kind saluts to my dear Coz Goodlad at Wapping . HADDOCK,12.007.179
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+To all my loveing freinds comend me . HADDOCK,12.007.180
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+My deare , I have only to add my prayers to God for thy wellfare .
+HADDOCK,12.007.181
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+W=th= my intire love and saluts to thee and my daughter , I remaine
+Thyne , till death us p=t= , Richard Haddock . HADDOCK,12.007.182
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_007:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+These I send to Dover by our kitch , who is goeing to watter for us ,
+HADDOCK,12.007.183
+
+<Q_HAD_A_1672_FN_RHADDOCK> <L_HADDOCK_008> <A_RICHARD_HADDOCK>
+<A-GENDER_MALE> <A-REL_HUSBAND> <A-DOB_1629?> <R_ELIZABETH_HADDOCK>
+<R-GENDER_FEMALE> <R-REL_WIFE> <R-DOB_--->
+
+<P_12>
+
+{ED:THE_SAME_TO_THE_SAME.}
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+R. James , neare Sowle Bay , HADDOCK,12.008.184
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+this 21 May , 1672 ; HADDOCK,12.008.185
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Tuesday evening . HADDOCK,12.008.186
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+My deare Betty , The 18th instant , w=ch= was Satuarday last , I wrote
+the by one of the yachts , and as thou advised . HADDOCK,12.008.187
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Y=e= next day we saw the Dutch fleet . HADDOCK,12.008.188
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+We drew ours into a lyne of bataile , the French leading , we in the
+reare , all prepared to fight , haveing stav'd and heft over bord all
+ours , and I think all the cabins of the whole fleet .
+HADDOCK,12.008.189
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+The Hollanders stood over for y=e= Flaunders Banks and y=e= Weelings .
+HADDOCK,12.008.190
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+About 7 at night we were up w=th= them in a lyne , as they lay in the
+same posture very orderly to rec=e= us ; HADDOCK,12.008.191
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+but , finding it would have bine darke before we could have well began
+with them , being about 4 or 5 miles to leewards of us , y=e= wind at
+W. S. W. , we thought it not convenient to ingage them .
+HADDOCK,12.008.192
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Y=e= night following , upon there tacking of , we tackt in y=e= reare ,
+y=e= whole fleet following to keep them to <P_13> leewards of us , as
+we did y=t= night by our twice tacking againe . HADDOCK,13.008.193
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Yesterday morning it proved a very thick fogge . HADDOCK,13.008.194
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+We w=th= our division anchored , standing in w=th= the Banks of
+Flaunders of Oostend . HADDOCK,13.008.195
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+About in y=e= morning , upon cleareing up , we wayed anchor , y=e=
+Dutch fleet 3 miles to leewards of us . HADDOCK,13.008.196
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+We stood of HADDOCK,13.008.197
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+and mett our fleet standing in . HADDOCK,13.008.198
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Y=e= Dutch stood of w=th= us . HADDOCK,13.008.199
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+This day it proved much wind , that we could not fight them ; whereupon
+we stood in to our shore N. W. , and about 1 : HADDOCK,13.008.200
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+2 seas over we anchored all night . HADDOCK,13.008.201
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+This morneing we saw y=e= fleet again . HADDOCK,13.008.202
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+We stood of towards them , expecting they would have stood w=th= us ;
+HADDOCK,13.008.203
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+but they stood of intending to draw us over amongst those shoulds , to
+fight them there . HADDOCK,13.008.204
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+We keeping our wind , and they bearing away , as we suposed , from y=e=
+wind , we lost sight of them . HADDOCK,13.008.205
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+It blowing hard we tackt , HADDOCK,13.008.206
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+and now come neare to Sowle Bay , where I supose we may stay a day or
+two to watter our fleet . HADDOCK,13.008.207
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+This day came into us the Katherine , Princes , and Advice , w=th= 2
+fire ships more ; soe y=t= I supose we are neerer then fowerscore men
+of warr , upwards 25 fireships , amongst w=ch= my unckle R. H. is come
+. HADDOCK,13.008.208
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+The Dutch fleet not soe many men of warr as we , I beleive , by 8 or
+saile , many small vessells and fire ships . HADDOCK,13.008.209
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+but doe beleive we may get thither ourselves as soone .
+HADDOCK,13.008.210
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+our men briske and brave and very ready and willing to fight .
+HADDOCK,13.008.211
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+The Earle of Bristow on bord w=th= us . HADDOCK,13.008.212
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I thinke a fourth part the nobles of England in the fleett .
+HADDOCK,13.008.213
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+This I send on shore to Sowle , to take its fortune towards thee .
+HADDOCK,13.008.214
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Being in hast , have not tyme to wright any body else .
+HADDOCK,13.008.215
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+If my bro=r= Bradenham be in towne , shew him this letter .
+HADDOCK,13.008.216
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I two dayes since rec=d= a letter from Mr. Clarke , y=e= apothecary ,
+w=th= a case of spiritts , come very opertunely <paren> as he wrights
+me </paren> to raise my courage , HADDOCK,13.008.217
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+but I have not yet tasted them . HADDOCK,13.008.218
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Pray returne him my kind thanks . HADDOCK,13.008.219
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I hope shall survive this warr to make him amends . HADDOCK,13.008.220
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+My deare , I should be glad to heare from the , HADDOCK,13.008.221
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+but I know not how . HADDOCK,13.008.222
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I shall not be wanting to give the a constant advice , as opertunity
+presents , of my <P_14> wellfare and our actions . HADDOCK,14.008.223
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+$You $'ll {TEXT:Youl} excuse me to my loveing relations y=t= I wright
+none of them . HADDOCK,14.008.224
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+At present it is fowle weather . HADDOCK,14.008.225
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Am glad we gote hither , HADDOCK,14.008.226
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+for stormy weather may shatter us and disable us more then a bataile .
+HADDOCK,14.008.227
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Had it pleased God yesterday to have given us faire weather , God
+assisting , we had given a good acc=t= of o=r= actions ;
+HADDOCK,14.008.228
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+God Almighty be our guard and defence , HADDOCK,14.008.229
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+and give us victory over our enemyes . HADDOCK,14.008.230
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+His providence hath hitherto prevented our ingageing twice .
+HADDOCK,14.008.231
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+My deare and loveing saluts to all my loveing relations at Rederif ,
+and to my lo: Coz. Goodlad at Wapping and London , &c.
+HADDOCK,14.008.232
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+W=th= intire love and saluts to thyselfe w=th= my daughter , I remaine
+Thy loveing husband till death us part , Richard Haddock .
+HADDOCK,14.008.233
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+His Royal Highnes the Duke of Yorke is very zeolus to ingage y=e= Dutch
+, God sending a good opertunity and watter enough under our keels .
+HADDOCK,14.008.234
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I had almost forgot to desire the to returne my thanks to Capt.
+Grantham for y=e= barill of Muscadine he brought me from Mr. Wilkinson
+, of Messina , and for a chest of Florence he sent me from himselfe ,
+w=th= seavrall other things , all w=ch= I rec=ed= , w=th= a chest of
+Florence for my Lord Sandw=ch=. HADDOCK,14.008.235
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Pray pay him three pound for itt . HADDOCK,14.008.236
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I shall rec=e= it heere of Mr. Lowe , my Lord 's serv=t=.
+HADDOCK,14.008.237
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_008:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Thyne , R. Haddock . HADDOCK,14.008.238
+
+<Q_HAD_A_1672_FN_RHADDOCK> <L_HADDOCK_009> <A_RICHARD_HADDOCK>
+<A-GENDER_MALE> <A-REL_HUSBAND> <A-DOB_1629?> <R_ELIZABETH_HADDOCK>
+<R-GENDER_FEMALE> <R-REL_WIFE> <R-DOB_--->
+
+<P_14>
+
+{ED:THE_SAME_TO_THE_SAME.}
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+R. James , in Southold Bay , HADDOCK,14.009.239
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+this 25th May , 1672 ; HADDOCK,14.009.240
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Saturday evening . HADDOCK,14.009.241
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+My dearest love , These I send by Capt. Poole , who w=th= the Garland
+frig=tt= in comp=a= , hath leave to goe his former intended voaidge for
+Barbados . HADDOCK,14.009.242
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Pray advize my bro=r= Bradenham of itt . HADDOCK,14.009.243
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+They will be good convoy for Mr. Naufan's ship w=th= masts , &c. ,
+w=ch= lyes at Gravesend , to goe thorough the Channell w=th= them .
+HADDOCK,14.009.244
+
+<P_15>
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+This day I gote two protections from the Duke , one for Mr. Naufan's
+ship at Lancaster for men , y=e= other for y=e= ship w=th= stores for
+men , w=ch= is speciall protections , y=t= the men will not be molested
+. HADDOCK,15.009.245
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Tell my Bro=r= Bradenham I have given them to Mr. Sam. Hawkes , who is
+comeing w=th= them . HADDOCK,15.009.246
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I am sory to heare poore Sam Lane was prest into y=e= French Victory ,
+and since caryed into Holland . HADDOCK,15.009.247
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I pitty the losse of the men in her , HADDOCK,15.009.248
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+but y=e= Capt. will have his reward for looseing her soe basely .
+HADDOCK,15.009.249
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+The Dutch fleet lye now neare the Gallaper in expectation of us ;
+HADDOCK,15.009.250
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+we are very neere , ready to waite on them . HADDOCK,15.009.251
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+2 or 3 days must not breake square w=th= us ; HADDOCK,15.009.252
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+but they are deceaved to think we intend to fight them amongst the
+sands . HADDOCK,15.009.253
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I supose our martch $will $be {TEXT:wilbe} over for y=e= coast of
+Holland into sea roome and deepe watter . HADDOCK,15.009.254
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+We are , notwithstanding Capt. Poole and his consarts leaveing us , men
+of warr , 26 fire ships , many small vessells . HADDOCK,15.009.255
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I supose the Dutch daylie add to ther strength as well as wee .
+HADDOCK,15.009.256
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+God Allmighty be our defence . HADDOCK,15.009.257
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+My deare , I am sory that my first letter from Southold , w=ch= went by
+land , advized the of our 2 days stay , whereas we have bine heere 4
+days , and shall stay 3 or 4 longer . HADDOCK,15.009.258
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+Then we shall have wattered our whole fleet for one month , and
+victualld compleat for 2 months , and mand I beleive thoroughout y=e=
+fleet , not wanting . HADDOCK,15.009.259
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I rather think , in a day or two longer , we may have supernumeraryes .
+HADDOCK,15.009.260
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+A very worthy brave fleet , I think , as ever were together .
+HADDOCK,15.009.261
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+God give us couragious hearts , HADDOCK,15.009.262
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+and then I beleive they may be ventured . HADDOCK,15.009.263
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I hope all my loveing relations at Rederif and Wapping are in health ,
+to whome present my love and saluts . HADDOCK,15.009.264
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I expect to heare from the by the yacht w=ch= I sent my last letter by
+, Captain Burstow , Comander . HADDOCK,15.009.265
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I blesse God I am now in good health , though 5 or 6 days since , and
+when we were going to fight the Dutch , I had such a paine in my right
+arme that could not use it but very litle ; HADDOCK,15.009.266
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+but now , thanke God , am very well . HADDOCK,15.009.267
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+My deare Betty , I have only to <P_16> add my saluts to thyselfe w=th=
+my daughter ; HADDOCK,16.009.268
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+doe remaine thyne till death us part , Richard Haddock
+HADDOCK,16.009.269
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+This I intended thee by Capt. Poole , HADDOCK,16.009.270
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+but was gone ere I could put it on bord him ; HADDOCK,16.009.271
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+therfore doe send it by the post . HADDOCK,16.009.272
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I rec=d= last night bro=r= Thornbrugh's letter , 23 instant , by y=e=
+Dreadnought's Leiveten=t= . HADDOCK,16.009.273
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+He wrights me of thy health , and y=t= I shall rec=e= a letter from the
+by y=e= Hatton ketch . HADDOCK,16.009.274
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+I am thyne , R. Haddock . HADDOCK,16.009.275
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:43?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_009:E3:1672:AUTOGRAPH:FAMILY_NUCLEAR
+26 May , '72 . HADDOCK,16.009.276
+
+<Q_HAD_A_1673_FN_RHADDOCK> <L_HADDOCK_010> <A_RICHARD_HADDOCK>
+<A-GENDER_MALE> <A-REL_HUSBAND> <A-DOB_1629?> <R_ELIZABETH_HADDOCK>
+<R-GENDER_FEMALE> <R-REL_WIFE> <R-DOB_--->
+
+<P_19>
+
+{ED:CAPTAIN_RICHARD_HADDOCK_TO_HIS_WIFE.}
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+On bord the R. Charles , this 29th May , 1673 ; 7 leagues of Oostend .
+HADDOCK,19.010.277
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+My dearest Love , These are to give the an acc=t= of God's goodnes to
+me . HADDOCK,19.010.278
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+I am very well and in health , praised be His name therfore .
+HADDOCK,19.010.279
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+Yesterday , the 28th instant <paren> y=e= same day twelve month they
+atacqued us in Sowle bay </paren> , we atacqued the Dutch fleet ,
+consisting of 74 or 76 men of warr and fire ships , as the Dutch
+prisoners informe us . HADDOCK,19.010.280
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+We set upon them in the Schoon Velt , the wind at W. N. W=t=. ,
+HADDOCK,19.010.281
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+but changed to y=e= N. N. E. in the bataile towards evening .
+HADDOCK,19.010.282
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+We buoyed the outward banks w=th= our smacks and ketches ,
+HADDOCK,19.010.283
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+and had a smart brush with them from 12 at noone as long as day light
+lasted . HADDOCK,19.010.284
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+The damage we have done them we certainly know not . HADDOCK,19.010.285
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+Severall of ther ships we disabled , w=ch= we forced into leewards :
+HADDOCK,19.010.286
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+Trump , whose squadron we ingaged w=th= ours , shifted his ship once ,
+if not twice . HADDOCK,19.010.287
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+What number of men we have lost in the fleet not yet $known {TEXT:know}
+; HADDOCK,19.010.288
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+I believe not . HADDOCK,19.010.289
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+In our ship not above , as I can learne ; HADDOCK,19.010.290
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+some $mortally {TEXT:mortality} wounded , others dismembred .
+HADDOCK,19.010.291
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+Amongst our dead men is poore Capt. Wasey , who first lost his arme
+close to his shoulders and about 6 howers after dyed of his wounds .
+HADDOCK,19.010.292
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+My brother Joseph very well ; HADDOCK,19.010.293
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+was w=th= me last night after y=e= bataile . HADDOCK,19.010.294
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+My unckle Richard very well : HADDOCK,19.010.295
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+he hath burnt his ship ; HADDOCK,19.010.296
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+was faire to burne De Rutter within his length , when they shote his
+masts about his eares ; for w=ch= indeavoured service y=e= Prince hath
+given him one hundred pounds , and gratified <P_20> also his oficers ,
+&c . HADDOCK,20.010.297
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+I supose we shall not atacque them in that place againe .
+HADDOCK,20.010.298
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+Our greatest care was to keepe cleere of the sands in that narrow hole
+. HADDOCK,20.010.299
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+Our ship , so tender with a saile that we fought w=th= the watter some
+tymes comeing into our lower tire of ports , w=ch= was very
+disadvantagious , could not do that service intended by us .
+HADDOCK,20.010.300
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+There is severall Cap=ts= killed that we have already an account of ;
+HADDOCK,20.010.301
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+I hope no more . HADDOCK,20.010.302
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+Capt. Finch in the Yorke , Capt. Tempest in the Sweepestakes , Capt.
+Fowles in the Lyon ; and Capt. Werden , in the Heneretta , $mortally
+{TEXT:mortality} wounded . HADDOCK,20.010.303
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+We have severall of our ships shattered , not above two disabled , and
+none , as I heare of , lost , but 2 or 2 {COM:sic} fire ships burnt .
+HADDOCK,20.010.304
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+We ride now w=th=in 3 leagues of the Dutch fleete ; HADDOCK,20.010.305
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+they ride in the place we atacqued them in , and we in our former birth
+, only about 2 leagues further of the shore . HADDOCK,20.010.306
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+How soone we shall fight them againe $can $not {TEXT:cannot} resolve ,
+HADDOCK,20.010.307
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+but in y=e= place they now ride I iudge we shall not atacque them a
+second tyme . HADDOCK,20.010.308
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+I beleive the Prince may shift his ship and goe into some other ;
+HADDOCK,20.010.309
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+but of y=t= in my next . HADDOCK,20.010.310
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+I desire that thanks and prayes may be returned to Almighty God for his
+preservation of me . HADDOCK,20.010.311
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+My humble duty to my deare mother ; HADDOCK,20.010.312
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+loving saluts to my brothers and sisters , and all my deare relations .
+HADDOCK,20.010.313
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+God in mercy blesse and preserve them all , HADDOCK,20.010.314
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+and send us a joyfull meeteing . HADDOCK,20.010.315
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+W=th= my intire love and saluts to thee w=th= my daughter and litle
+Dickee , I remaine Thine , till death us part , Richard Haddock
+HADDOCK,20.010.316
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+We have a rumor that Capt. Trevanion is killed , comd=g= the
+Dreadnought ; HADDOCK,20.010.317
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_010:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+but I hope it is not true . HADDOCK,20.010.318
+
+<Q_HAD_A_1673_FN_RHADDOCK> <L_HADDOCK_011> <A_RICHARD_HADDOCK>
+<A-GENDER_MALE> <A-REL_HUSBAND> <A-DOB_1629?> <R_ELIZABETH_HADDOCK>
+<R-GENDER_FEMALE> <R-REL_WIFE> <R-DOB_--->
+
+<P_21>
+
+{ED:THE_SAME_TO_THE_SAME.}
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+R. Charles , rideing N=o= , 7 leagues from Oostend , HADDOCK,21.011.319
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+this 1st June , 1673 ; HADDOCK,21.011.320
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+Sonday . HADDOCK,21.011.321
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+My deare Betty , Wee ride in sight of our neighbours the Dutch , not
+above 3 $or {TEXT:in} 4 leagues distant . HADDOCK,21.011.322
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+This morning they were under saile ; HADDOCK,21.011.323
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+we thought <P_22> they would have come of to us . HADDOCK,22.011.324
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+We put ourselves in a posture to rec=e= them . HADDOCK,22.011.325
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+They have now the wind of us , being easterly ; HADDOCK,22.011.326
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+and may come out if they please . HADDOCK,22.011.327
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+This morning we have acc=t= from a good hand from Oostend y=t= they
+sent in 6 or 7 disabled ships to Flushing , two whereof sunck in going
+in . HADDOCK,22.011.328
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+They likewise sent on shore or wounded men , HADDOCK,22.011.329
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+and , as they advize from Oostend , com=d= was given not to speake of
+the fight at Flushing . HADDOCK,22.011.330
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+So doe beleive , till they recrute ther strength , we shall not heare
+of them ; HADDOCK,22.011.331
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+however , we are not wanting to prepare ourselves ag=t= they come .
+HADDOCK,22.011.332
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+The Swiftsure is this day come to us ; HADDOCK,22.011.333
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+had like to have bine snapt Tuesday last by the Amsterdam squadron y=t=
+came into the Schoom Velt tyme enough to fight . HADDOCK,22.011.334
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+I have but little else to write to thee . HADDOCK,22.011.335
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+S=r= Roger Strickland sends his hoy to Deptford for watter ;
+HADDOCK,22.011.336
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+and these goe by S=r= Ed. Spragg's yacht , who carves up one Coll.
+Hambliton into the River , who lost his legg on bord us .
+HADDOCK,22.011.337
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+Pray lett me heare from thee by one or both of them .
+HADDOCK,22.011.338
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+My humble duty to my deare mother ; HADDOCK,22.011.339
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+love and saluts to all freinds in gen=ll= . HADDOCK,22.011.340
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_011:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+Wth my deare love to thy selfe , my daughter , and little Richard , I
+remayne Thyne , till death us part , Richard Haddock .
+HADDOCK,22.011.341
+
+<Q_HAD_A_1673_FN_RHADDOCK> <L_HADDOCK_012> <A_RICHARD_HADDOCK>
+<A-GENDER_MALE> <A-REL_HUSBAND> <A-DOB_1629?> <R_ELIZABETH_HADDOCK>
+<R-GENDER_FEMALE> <R-REL_WIFE> <R-DOB_--->
+
+<P_21>
+
+{ED:THE_SAME_TO_THE_SAME.}
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_012:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+Yet on bord y=e= R. Charles , this 31 May , 1673 . HADDOCK,21.012.342
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_012:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+My deare Betty , I wrote the two dayes since of God's goodnes to mee in
+o=r= late bataile . HADDOCK,21.012.343
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_012:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+I gave the acc=t= of Capt. Trevanions suposed to be killed ,
+HADDOCK,21.012.344
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_012:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+but he is well ; HADDOCK,21.012.345
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_012:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+and allso Capt. Courtney , w=ch= was reported to be killed , is alive
+and well . HADDOCK,21.012.346
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_012:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+Capt. Worden is since dead of his wounds . HADDOCK,21.012.347
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_012:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+We are now shifting ships , goeing on bord the London ;
+HADDOCK,21.012.348
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_012:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+the reason I gave in my last . HADDOCK,21.012.349
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_012:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+S=r= Jn=o= Harman goes from the London into the Sovraigne , and Capt.
+Hayward out y=e= Sovraigne into this ship . HADDOCK,21.012.350
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_012:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+It is no smal trouble to me to part from this brave ship ;
+HADDOCK,21.012.351
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_012:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+her only fault is she is tender sided , in all respects otherwayes the
+best ship in the world . HADDOCK,21.012.352
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_012:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+My deare , I am very well ; My bro=r= Joseph and unckle Richard
+likewise . HADDOCK,21.012.353
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_012:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+The Prince in good health , HADDOCK,21.012.354
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_012:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+and our fleet prepareing for another incounter , if the Dutch comes out
+. HADDOCK,21.012.355
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_012:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+My deare , I am thyne till death , Richard Haddock . HADDOCK,21.012.356
+
+AUTHOR:RICHARD_HADDOCK:MALE:HUSBAND:1629?:44?
+RECIPIENT:ELIZABETH_HADDOCK:FEMALE:WIFE:_:_
+LETTER:HADDOCK_012:E3:1673:AUTOGRAPH:FAMILY_NUCLEAR
+Pray , if Com=r= Deane be not in towne , send forward the inclosed to
+Portsm=o= . HADDOCK,21.012.357

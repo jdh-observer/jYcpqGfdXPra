@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdh-observer/jYcpqGfdXPra/main?filepath=article.ipynb)
+
 # The secularisation of future expectations in practise
 ### An empirical study of divine appeals in Early Modern English letters
 

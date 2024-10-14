@@ -1,7 +1,9 @@
 # Report for article.ipynb ❤ 
 
+Look at the corrections you need to do, if not clear, contact jdh.admin@uni.lu
+
 ## Cell Counts   
-**all cells: 139 **  
+**all cells: 139**  
 code_empty: 0   
 markdown: 112   
 code: 27   
@@ -13,8 +15,8 @@ code: 27
 ## Kernel Checks: 
 
 > [!CAUTION]
- > Error: Python versions don't match. The notebook is using **python-3.7.13**, when **python-3.7
-** is required.
+ > Error: Python versions don't match. The notebook is using **python-3.7.10**, when **python-3.7** is required.
+
 > [!TIP]
  > Try changing **runtime.txt** to resolve the error above.
 
@@ -24,25 +26,56 @@ code: 27
 ### Check Output Sizes and Rules
 - Table found in output of cell 44
 > First words of input cell: df_social = pd.read_csv("./script/PCEEC_metadata.csv",sep="\t") df_social
-- Table found in output of cell 48
-> First words of input cell: df_social
-  - No valid tags found for image output  [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZqWWNwcUdmZFhQcmElMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=49)  - Valid tag: figure-timeline-* for image output in cell 50
 - Table found in output of cell 55
 > First words of input cell: query_map = {"almighty":"ALMIGHTY", "christ":"CHRIST", "dicu":"DIEU",
 - Table found in output of cell 61
 > First words of input cell: df_body = df_annotations[df_annotations["LABEL"] == "BODY"]
-  - Valid tag: figure-opening_body_closing-* for image output in cell 71
-  - Valid tag: figure-mean_std-* for image output in cell 74
-  - No valid tags found for image output  [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZqWWNwcUdmZFhQcmElMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=83)  - No valid tags found for image output  [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZqWWNwcUdmZFhQcmElMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=84)  - No valid tags found for image output  [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZqWWNwcUdmZFhQcmElMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=85)  - No valid tags found for image output  [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZqWWNwcUdmZFhQcmElMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=86)  - Valid tag: figure-communities-* for image output in cell 89
-  - Valid tag: figure-agency-* for image output in cell 101
 - Output cell 101 size: 1159.64 KB
 > First words of input cell: display(Image("./media/agency.png"))
 - Table found in output of cell 123
 > First words of input cell: # Compute normalised frequency of
-  - No valid tags found for image output  [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZqWWNwcUdmZFhQcmElMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=124)
-Total output size: 3324.98 KB
+
+Total output size: 3703.01 KB
 Total number of images: 11
 Total number of tables: 5
+Total number of audios: 5
+
+> [!WARNING]
+> Notebook's output contains **text/plain** which is deprecated.
+
+| Mimetype | Presence |
+| --- | --- |
+| text/html | True |
+| text/plain | True |
+| image/png | True |
+| audio | False |
+
+| Output type | Presence |
+| --- | --- |
+| display_data | True |
+| execute_result | True |
+
+| Tag | Cell | Remark |
+| --- | --- | --- |
+| text/plain | 4 | Should be replaced |
+| text/plain | 40 | Should be replaced |
+| text/html | 44 | Table is not tagged properly |
+| text/html | 48 | Tags are not defined for the cell |
+| image/png | 49 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZqWWNwcUdmZFhQcmElMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=49) |
+| image/png | 50 | Correct tagging |
+| text/html | 55 | Table is not tagged properly |
+| text/html | 61 | Table is not tagged properly |
+| image/png | 71 | Correct tagging |
+| image/png | 74 | Correct tagging |
+| image/png | 83 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZqWWNwcUdmZFhQcmElMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=83) |
+| image/png | 84 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZqWWNwcUdmZFhQcmElMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=84) |
+| image/png | 85 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZqWWNwcUdmZFhQcmElMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=85) |
+| image/png | 86 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZqWWNwcUdmZFhQcmElMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=86) |
+| image/png | 89 | Correct tagging |
+| image/png | 101 | Correct tagging |
+| text/html | 123 | Table is not tagged properly |
+| image/png | 124 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZqWWNwcUdmZFhQcmElMkZtYWluJTJGYXJ0aWNsZS5pcHluYg==?idx=124) |
+
 
 ### Check HTML
 - Cell 2 - Encountered a start tag: author\
@@ -56,8 +89,6 @@ Total number of tables: 5
 
 ### Check JavaScript
 No JavaScript code found in output cells.
-### Check JavaScript (plotly)
-**plotly** library is not present in **requirements.txt**
 
 
 ### Check Tags
@@ -95,7 +126,9 @@ No JavaScript code found in output cells.
 - Cell 68: Tags: ['anchor-divine-appeals']
   - Invalid tag: anchor-divine-appeals
 - Cell 71: Tags: ['figure-opening_body_closing-*']
+  - Invalid tag: figure-opening_body_closing-*
 - Cell 74: Tags: ['figure-mean_std-*']
+  - Invalid tag: figure-mean_std-*
 - Cell 81: Tags: ['hermeneutics']
 - Cell 82: Tags: ['hermeneutics']
 - Cell 83: Tags: ['hermeneutics']
@@ -107,31 +140,31 @@ No JavaScript code found in output cells.
 - Cell 89: Tags: ['anchor-figure-communities', 'figure-communities-*']
   - Invalid tag: anchor-figure-communities
 - Cell 90: Tags: ['hermeneutics']
-- Cell 101: Tags: ['figure-agency-*', 'anchor-agency']
-  - Invalid tag: anchor-agency
+- Cell 101: Tags: ['figure-agency-*']
 - Cell 123: Tags: ['hermeneutics']
 - Cell 124: Tags: ['hermeneutics']
-
-**WARNING: The following tags are missing or invalid:**
+> [!WARNING]
+> The following tags are missing or invalid
 
 #### Invalid Tags:
 - anchor-figure-timeline
 - anchor-table-overview
 - anchor-table-domains
 - anchor-divine-appeals
+- figure-opening_body_closing-*
+- figure-mean_std-*
 - anchor-communities
 - anchor-figure-communities
-- anchor-agency
+> Make sure to fill this template document [license_to_publish_JDH.dotx](https://github.com/C2DH/journal-of-digital-history-ipynb-preflight-action/blob/master/license_to_publish_JDH.dotx) and send it to jdh.admin@uni.lu
 
 
 ### Check URLs
 
-**Invalid URLs (404 - 1):**
 
-Invalid URL (404): https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/
+**Valid URLs (200 - 4):**
 
-**Valid URLs (200 - 1):**
-
-Valid URL (200): https://creativecommons.org/licenses/by/4.0/
-
+1. https://licensebuttons.net/l/by/4.0/88x31.png
+2. https://creativecommons.org/licenses/by/4.0/
+3. https://grants.fnl.org.uk/paston-letters
+4. https://artuk.org/discover/artworks/trompe-loeil-letter-rack-138390
 

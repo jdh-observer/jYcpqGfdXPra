@@ -530,7 +530,7 @@ This procedure resulted in a total of 20 281 hits, which was then subjected to a
 [Table 1](#anchor-table-overview) shows an overview of the resulting dataset, broken down per query and letter part. As is apparent, the mentions of "God" outnumber the others by a large margin. Most terms were attested most frequent in the body of the letters, except for "Jesus" and "Almighty", which were more common in the closing parts. 
 <!-- #endregion -->
 
-<!-- #region jdh={"module": "object", "object": {"source": [“LABEL TO ADD"]}} tags=["table-overview-*", "anchor-table-overview"] -->
+<!-- #region jdh={"module": "object", "object": {"source": ["LABEL TO ADD"]}} tags=["table-overview-*", "anchor-table-overview"] -->
 | query_standardised   |   BODY |   CLOSING |   NOISE |   OPENING |
 |:---------------------|-------:|----------:|--------:|----------:|
 | ALMIGHTY             |     89 |       120 |       0 |         6 |
@@ -593,7 +593,7 @@ domain_overview
 
 ```
 
-<!-- #region jdh={"module": "object", "object": {"source": [“LABEL TO ADD"]}} tags=["table-domains-*", "anchor-table-domains", "hermeneutics"] -->
+<!-- #region jdh={"module": "object", "object": {"source": ["LABEL TO ADD"]}} tags=["table-domains-*", "anchor-table-domains", "hermeneutics"] -->
 | DOMAIN_STANDARDISED                 |   hit |
 |:------------------------------------|------:|
 | SOCIAL LIFE                         |   258 |

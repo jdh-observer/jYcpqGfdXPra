@@ -849,8 +849,7 @@ metadata={
         "module": "object",
         "object": {
             "type":"image",
-            "source": ["LABEL TO ADD"
-            ]
+            "source": ["LABEL TO ADD"]
         }
     }
 }
@@ -896,8 +895,7 @@ metadata={
         "module": "object",
         "object": {
             "type":"image",
-            "source": ["LABEL TO ADD"
-            ]
+            "source": ["LABEL TO ADD"]
         }
     }
 }

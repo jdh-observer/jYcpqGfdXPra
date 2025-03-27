@@ -1,0 +1,144 @@
+
+#####################
+ANNOTATION GUIDELINES
+#####################
+
+This document explains the annotation procedure that underpins the analyis in the accompanying paper. 
+
+In a first round of annotation, I separated the divine appeals (where God is invoked) from the cases where God was mentioned but not appealed to. The divine appeals where subsequently provided with annotations for the following parameters:
+
+	- part of the letter they occurred in (dateline, opening section, body, closing section)
+	- temporal orientation (past, present, future)
+	- domain of life that the divine entity is invoked for:
+			- disease and death
+			- law, politics and warfare
+			- money, work and finances
+			- religion
+			- social life
+			- travel, transport and communication
+			- general
+
+Because this paper focuses in particular on those appeals that are oriented towards the future, these were separated from the ones that dealt with the past. Because agency appeared to be the most important factor to distinguish between various types of future-oriented appeals, I annotated all hits for the variable "control", indicating whether the action involved was portrayed within the sphere of control of:
+	- a human (the writer, the addressee or a third party)
+	- a divine entity
+	- no one at all
+	- a combination of these actors 
+
+Based on this variable, the attestations were then classified as "divine approval" (human and God in control), "confidence" (God in control, but human pretends to know the outcome), "prayer" (God in control, but human asks God to take care of it to their own benefit) or "resignation" (God in control, human does not try to influence Him in His decisions). As such, these categories have been developed in close interaction with the data at hand and emanate from a (lower-level) annotation scheme that required less interpretation and more tagging of objective discursive phenomena.
+
+The remainder of this document contains the actual annotation scheme that was compiled during and used for the analysis.
+
+________________
+NO DIVINE APPEAL
+________________
+
+NOISE
+
+* no divine entity present *
+Typical markers:
+	- Human "Lord"
+	- Human "Father"
+
+FIXED PHRASE
+
+* formulaic uses/expressions that contain a divine entity *
+Typical markers:
+	- Occurrence in Dateline
+	- GOD, ETC.
+	- CAPTAIN UNDER GOD
+	- GODS GIFT
+	- FOR GODS SAKE
+	- FOR GODS LOVE
+	- WOULD TO GOD
+	- GOD KNOWS (MEANING "I SPEAK THE TRUTH")
+
+GOD AS OBJECT
+
+* God is mentioned, but not called upon or invoked *
+
+_______________
+PAST
+_______________
+
+
+PRESUPPOSED/PAST DIVINE ACTIONS
+
+* Divine actions in if-clauses or in the past: no modality possible anymore *
+* Annotate for:
+	* Past, conditional, temporal, concession, complement clause, ...
+
+GRATITUDE
+
+* Writer thanks god for an intervention advantageous to him *
+Typical markers:
+	- THANKS
+	- BE PRAISED
+
+_______________
+FUTURE
+_______________
+
+DIVINE APPROVAL
+
+* Subject asks for God's assistance to carry out his own intentions (which he also has control over) -> joint agency *
+Typical markers:
+	- WILLING
+	- GRACE
+	- HELP
+	- ASSISTENCE
+	- GRANT
+	- IF IT PLEASE GOD
+
+	* Annotate for presence of: 
+		- volition/intention markers: intend, purpose will
+		- explicit temporal markers (dates, holidays, other indications of time)
+
+
+CONFIDENCE
+
+* Writer is confident that God will take care of their wish: agency is technically with God, but writer is relatively sure about the outcome anyway*
+Typical markers:
+	- I TRUST
+
+
+PRAYER
+
+* Writer prays to God for something beneficial to happen (beyond writer's own sphere of control) *
+Typical markers:
+	- BESEECH
+	- BE MERCIFUL
+	- COMFORT
+	- FORBID
+	- PRAY
+	- PARDON
+	- TAKE MERCY
+	- SOUL
+	- SEND
+
+	* Annotate for presence of:
+		- "send" as a complement verb
+
+PRESERVATION
+
+* Writer prays to God that the addressee might remain healty/safe/well/...". More formulaic subset of prayers. *
+Typical markers:
+	- BE WITH YOU
+	- BLESS
+	- BLESSING
+	- COMMIT
+	- CONTINUE
+	- DESIRE
+	- HAVE YOU IN HIS KEEPING
+	- KEEP
+	- PROSPER
+	- PRESERVE
+	- TRUST
+	- TUITION
+
+RESIGNATION
+
+* Writer's plea that ultimately God is in control *
+Typical markers:
+	- WILL
+	- KNOWITH
+	- PLEASE

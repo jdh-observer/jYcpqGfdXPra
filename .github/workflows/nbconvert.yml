@@ -30,7 +30,7 @@ jobs:
       - name: Python setup
         uses: actions/setup-python@v5
         with:
-          python-version: '3.7.10'
+          python-version: '3.8'
       - name: installing nbconvert & other required libraries
         run: |
           pip install -r requirements.txt

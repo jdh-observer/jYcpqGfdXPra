@@ -624,7 +624,7 @@ domain_overview
 <!-- #endregion -->
 
 <!-- #region tags=["hermeneutics"] -->
-The second and third parameter that was annotated for, temporal orientation and agency, interact with each other. The temporal orientation of a divine appeal simply indicates whether a letter writer invokes or presupposes divine intervention for an event or situation that is yet to come (future-oriented) or one that has already happened (past-oriented). As the scope of this paper is limited to future-oriented events, only these events have been subjected to further annotation. The four different agency relations that have been discerned will be illustrated at the start of [Human and divine agency over the future](#anchor-chapter-agency), which then proceeds to discuss the semantic and pragmatic features of each of these agency relations in turn.
+The second and third parameter that was annotated for, temporal orientation and agency, interact with each other. The temporal orientation of a divine appeal simply indicates whether a letter writer invokes or presupposes divine intervention for an event or situation that is yet to come (future-oriented) or one that has already happened (past-oriented). As the scope of this paper is limited to future-oriented events, only these events have been subjected to further annotation. The four different agency relations that have been discerned will be illustrated at the start of [Section 1.5](#anchor-chapter-agency), which then proceeds to discuss the semantic and pragmatic features of each of these agency relations in turn.
 <!-- #endregion -->
 
 <!-- #region tags=["hermeneutics"] -->

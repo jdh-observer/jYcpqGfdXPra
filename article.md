@@ -624,10 +624,10 @@ domain_overview
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
-The second and third parameter that was annotated for, temporal orientation and agency, interact with each other. The temporal orientation of a divine appeal simply indicates whether a letter writer invokes or presupposes divine intervention for an event or situation that is yet to come (future-oriented) or one that has already happened (past-oriented). As the scope of this paper is limited to future-oriented events, only these events have been subjected to further annotation. The four different agency relations that have been discerned will be illustrated at the start of [Section 1.5](#anchor-chapter-agency), which then proceeds to discuss the semantic and pragmatic features of each of these agency relations in turn.
+The second and third parameter that was annotated for, temporal orientation and agency, interact with each other. The temporal orientation of a divine appeal simply indicates whether a letter writer invokes or presupposes divine intervention for an event or situation that is yet to come (future-oriented) or one that has already happened (past-oriented). As the scope of this paper is limited to future-oriented events, only these events have been subjected to further annotation. The four different agency relations that have been discerned will be illustrated at the start of [Human and divine agency over the future](#anchor-chapter-agency), which then proceeds to discuss the semantic and pragmatic features of each of these agency relations in turn.
 <!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 While this approach is excellent at combining qualitative and qualitative insights, its labour-intensiveness matches poorly with the size of the database, especially so with the 4454 hits yielded by "God" query. To decrease the labour intensiveness, we exhaustively analysed all hits obtained by means of the other queries and took a random sample of the divine appeals with "God". To ensure analytical rigour, we stratified our sample so that at least 50% of the hits for each correspondence, decade of writing, author and author gender had been analysed. We then extrapolated all in-sample counts for the "God" part of the database proportionally to obtain estimated for all "God" hits, which we then subjected to the same statistical analysis as the hits yielded by the other queries.
 <!-- #endregion -->
 
@@ -906,7 +906,7 @@ To investigate to what extent early modern people perceived their future to be c
 
 The plots in [Figure X](#figure-agency) show how these four types of human-divine agency distribution, stratified by correspondence, evolved through time. As the data indicate, the number of divine appeals in the correspondences appears to go down as time progresses: all types of divine appeals apart from resignation have lower rates of use in the late seventeenth century than in the late fifteenth. 
 
-```python tags=["figure-agency-*", "anchor-agency"]
+```python editable=true slideshow={"slide_type": ""} tags=["figure-agency-*", "anchor-chapter-agency"]
 metadata={
     "jdh": {
         "module": "object",

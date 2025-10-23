@@ -892,9 +892,7 @@ Apart from the lack of puritans among them, it is hard to find a common denomina
 In sum, the exploration of the rate of divine appeal in the openings, bodies and closings of the letters in the CEEC has drawn our attention to three observations. 1) The formulaic divine appeals in opening and closing statements were slowly petering out, and the opening statements did so faster than the closing statements. 2) The variation between correspondences increases with time, but variation within correspondences decreases: as more (groups of) people stopped making divine appeals, the ones that did still make them, used them more than ever. This holds especially true for the first half of the seventeenth century, when the political tension was building up towards the Civil war. 3) The communities with the highest rates of divine appeal were puritans, whose elevated need for divine intervention can be due either to intrinsic, religious factors or to the political repercussions they faced because of their religious denomination. More generally then, it looks like the secularisation of letter writing is attested straightforwardly only in the formulaic opening and closing sequences of the letters, but not in their bodies. While there does appear to be a general trend towards fewer divine appeals, it is compensated for by the rapid surge in divine appeals in the correspondences of other communities, most notably puritans in times of extreme distress.
 
 
-<!-- #region tags=["#anchor-chapter-agency"] -->
 ## Human and divine agency over the future
-<!-- #endregion -->
 
 
 The previous section has demonstrated that the overall rate to which people appeal to divine entities in their letters is highly dependent on their social profile and the (writing) community they are part of. The current section zooms in on the semantics of the divine appeals themselves, with a special focus on the ones that deal with the future. How much agency did the letter writers think they had about their own future? For which aspects of their envisioned future did they appeal to divine powers? Did they ask God for assistance, did they simply assume that God would grant them whatever they wanted, or did they take a step back and trust the path that God had in mind for them?
@@ -905,7 +903,7 @@ To investigate to what extent early modern people perceived their future to be c
 
 The plots in [Figure X](#figure-agency) show how these four types of human-divine agency distribution, stratified by correspondence, evolved through time. As the data indicate, the number of divine appeals in the correspondences appears to go down as time progresses: all types of divine appeals apart from resignation have lower rates of use in the late seventeenth century than in the late fifteenth. 
 
-```python tags=["figure-agency-*", "anchor-agency"]
+```python tags=["figure-agency-*", "anchor-chapter-agency"]
 metadata={
     "jdh": {
         "module": "object",

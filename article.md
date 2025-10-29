@@ -6,14 +6,14 @@ jupyter:
       extension: .md
       format_name: markdown
       format_version: '1.3'
-      jupytext_version: 1.17.3
+      jupytext_version: 1.18.1
   kernelspec:
-    display_name: Python 3 (ipykernel)
+    display_name: Python [conda env:base] *
     language: python
-    name: python3
+    name: conda-base-py
 ---
 
-<!-- #region citation-manager={"citations": {"": []}} tags=["title"] -->
+<!-- #region citation-manager={"citations": {"": []}} editable=true slideshow={"slide_type": ""} tags=["title"] -->
 # The secularisation of future expectations in practice.
 ### An empirical study of divine appeals in Early Modern English letters
 <!-- #endregion -->
@@ -536,11 +536,11 @@ dataset_overview.drop(["0","DUBBEL"],axis=1,inplace=True)
 dataset_overview
 ```
 
-<!-- #region tags=["hermeneutics"] -->
-This procedure resulted in a total of 20,281 hits, which was then subjected to a round of filtering to remove the attestations that did not actually refer to divine entities (i.e. "noise" in [Table 1](#anchor-table-overview)) . This includes, for instance, human lords and fathers, the partial matches of "Christ" in "Christmas" or "god" in "godfather", and the uses "merry" as the present-day adjective. In cases where the divine appeal consisted of several, consecutive queries (e.g. "Almighty God" or "Lord Jesus"), we preserved the first hit (respectively "Almighty" and "Lord") but discarded the others. This round of data cleaning reduced the size of the dataset to 7536 instances. Following Rutten and Van der Wal (<cite data-cite="9104992/CBNLU6T4"></cite>), we then labelled each attestation according to the part of the letter they were drawn from, distinguishing the (more formulaic) opening and closing statements from the letter body. 
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+This procedure resulted in a total of 20,281 hits, which was then subjected to a round of filtering to remove the attestations that did not actually refer to divine entities (i.e. "noise" in [table 1](#anchor-table-overview)) . This includes, for instance, human lords and fathers, the partial matches of "Christ" in "Christmas" or "god" in "godfather", and the uses "merry" as the present-day adjective. In cases where the divine appeal consisted of several, consecutive queries (e.g. "Almighty God" or "Lord Jesus"), we preserved the first hit (respectively "Almighty" and "Lord") but discarded the others. This round of data cleaning reduced the size of the dataset to 7536 instances. Following Rutten and Van der Wal (<cite data-cite="9104992/CBNLU6T4"></cite>), we then labelled each attestation according to the part of the letter they were drawn from, distinguishing the (more formulaic) opening and closing statements from the letter body. 
 <!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
+<!-- #region jdh={"object": {"source": ["Overview of the results in data broken down per query and letter part."], "type": "table"}} editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 [Table 1](#anchor-table-overview) shows an overview of the resulting dataset, broken down per query and letter part. As is apparent, the mentions of "God" outnumber the others by a large margin. Most terms were attested most frequent in the body of the letters, except for "Jesus" and "Almighty", which were more common in the closing parts. 
 <!-- #endregion -->
 
@@ -619,29 +619,31 @@ domain_overview
 | GENERAL                             |     8 |
 <!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 [Table 2](#anchor-table-domains) lists the domains of life in relation to which divine appeals have been attested. "Social life", the most frequent category attested in our dataset, covers fragments that relate to domestic family life in the broadest sense, including among others births, romances or marriages, health wishes, housekeeping issues and the more general and formulaic promises to be at someone's service. "Law, politics and warfare" includes, quite straightforwardly, all cases concerned with local, national or international politics, with conflicts and warfare or legal issues. "Travel, transport and communication" covers cases where people travel, objects are being transported, meetings are being arranged or letters are being sent back and forth. "Religion" comprises fragments where someone's relation with God or the divine is explicitly discussed apart from the divine reference itself. "Disease and death" includes all attestations where people are struck by, recovering from or succumbing to diseases or epidemics, or have deceased in another way. The category "Money, work and finance" collects the fragments that involve financial transactions, like payments and loans, or professional life more generally. The "general" category, finally, subsumes all attestations in which writers wish other people well without mentioning a specific context or sphere of life.
 <!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
-The second and third parameter that was annotated for, temporal orientation and agency, interact with each other. The temporal orientation of a divine appeal simply indicates whether a letter writer invokes or presupposes divine intervention for an event or situation that is yet to come (future-oriented) or one that has already happened (past-oriented). As the scope of this paper is limited to future-oriented events, only these events have been subjected to further annotation. The four different agency relations that have been discerned will be illustrated at the start of [Section 1.5](#anchor-chapter-agency), which then proceeds to discuss the semantic and pragmatic features of each of these agency relations in turn.
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+The second and third parameter that was annotated for, temporal orientation and agency, interact with each other. The temporal orientation of a divine appeal simply indicates whether a letter writer invokes or presupposes divine intervention for an event or situation that is yet to come (future-oriented) or one that has already happened (past-oriented). As the scope of this paper is limited to future-oriented events, only these events have been subjected to further annotation. The four different agency relations that have been discerned will be illustrated at the start of [Human and divine agency over the future](#anchor-chapter-agency), which then proceeds to discuss the semantic and pragmatic features of each of these agency relations in turn.
 <!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 While this approach is excellent at combining qualitative and qualitative insights, its labour-intensiveness matches poorly with the size of the database, especially so with the 4454 hits yielded by "God" query. To decrease the labour intensiveness, we exhaustively analysed all hits obtained by means of the other queries and took a random sample of the divine appeals with "God". To ensure analytical rigour, we stratified our sample so that at least 50% of the hits for each correspondence, decade of writing, author and author gender had been analysed. We then extrapolated all in-sample counts for the "God" part of the database proportionally to obtain estimated for all "God" hits, which we then subjected to the same statistical analysis as the hits yielded by the other queries.
 <!-- #endregion -->
 
 ## Quantitative analysis of divine appeals
 
+<!-- #region editable=true slideshow={"slide_type": ""} -->
+This section explores the distribution of divine appeals in our letters throughout the entire early modern period. First ([Divine appeals in letter opening, body and closing statements](#anchor-divine-appeals)), their dispersion through the letters is charted. Did the relative number of divine appeals increase or decrease as time progressed? Were they more common in the rather formulaic opening and closing statements of the letters? Second ([The centrality of (writing) communities](#anchor-communities)), we look at the social distribution of the appeals. Does every correspondence in the corpus yield the same (relative) number of divine appeals, or do some correspondents employ them more than others? If that is the case, what is their social profile?
+<!-- #endregion -->
 
-This section explores the distribution of divine appeals in our letters throughout the entire early modern period. First ([4.1](#anchor-divine-appeals)), their dispersion through the letters is charted. Did the relative number of divine appeals increase or decrease as time progressed? Were they more common in the rather formulaic opening and closing statements of the letters? Second ([4.2](#anchor-communities)), we look at the social distribution of the appeals. Does every correspondence in the corpus yield the same (relative) number of divine appeals, or do some correspondents employ them more than others? If that is the case, what is their social profile?
-
-<!-- #region tags=["anchor-divine-appeals"] -->
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["anchor-divine-appeals"] -->
 ###  Divine appeals in letter opening, body and closing statements
 <!-- #endregion -->
 
+<!-- #region editable=true slideshow={"slide_type": ""} -->
 As the leftmost plot in [Figure X](@figure-opening_body_closing-*) indicates, the practice of appealing to a divine entity in a letter’s heading or greeting (1a) or even its first paragraph (1b) is clearly on its way out. While the earliest correspondence in our corpus (the Signet letters of Henry V) contains divine appeals in about 40% of all letters, the amount systematically decreases and even virtually disappears by 1600, barring a few exceptions. 
-
+<!-- #endregion -->
 
 - (1a)  _**Jesus, Maria** , &c. Ryte reuerent sire, after dv recommendacyon, we sey in this cuntre that Heydon is for Barkschire in the Comon Hows._ (PASTON,II,210.365.9662; John Brackley to John Paston I; 1460)
 - (1b)  _Right worshipfull Sir, in my best manner my dutie remembrid , I komend me vnto your good mastershippe , trustyng in **Almighty God** that you be in good helth & soo long to contynewe to Goddes pleasure, & your hartes desire ys, and shalbe, my dayle prayer._ (BRERETO,92.025.406; Richard Thomas to William Brereton; 1534)
@@ -851,13 +853,13 @@ for df in [df_decade,df_correspondence]:
 plt.subplots_adjust(wspace=0.5,top=0.8)
 ```
 
-<!-- #region tags=["anchor-communities"] -->
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["anchor-communities"] -->
 ### The centrality of (writing) communities
 <!-- #endregion -->
 
 To gain more detailed insight in the behaviour of various communities, we looked into the social profile of the five correspondences that boasted the highest and the lowest rate of divine appeals per 10K words (put names of correspondences in footnote), marked respectively in green and red on the plots in [Figure X](#figure-communities).
 
-```python tags=["anchor-figure-communities", "figure-communities-*"]
+```python editable=true slideshow={"slide_type": ""} tags=["anchor-figure-communities", "figure-communities-*"]
 metadata={
     "jdh": {
         "module": "object",
@@ -891,19 +893,20 @@ Apart from the lack of puritans among them, it is hard to find a common denomina
 
 In sum, the exploration of the rate of divine appeal in the openings, bodies and closings of the letters in the CEEC has drawn our attention to three observations. 1) The formulaic divine appeals in opening and closing statements were slowly petering out, and the opening statements did so faster than the closing statements. 2) The variation between correspondences increases with time, but variation within correspondences decreases: as more (groups of) people stopped making divine appeals, the ones that did still make them, used them more than ever. This holds especially true for the first half of the seventeenth century, when the political tension was building up towards the Civil war. 3) The communities with the highest rates of divine appeal were puritans, whose elevated need for divine intervention can be due either to intrinsic, religious factors or to the political repercussions they faced because of their religious denomination. More generally then, it looks like the secularisation of letter writing is attested straightforwardly only in the formulaic opening and closing sequences of the letters, but not in their bodies. While there does appear to be a general trend towards fewer divine appeals, it is compensated for by the rapid surge in divine appeals in the correspondences of other communities, most notably puritans in times of extreme distress.
 
-
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["anchor-chapter-agency"] -->
 ## Human and divine agency over the future
+<!-- #endregion -->
 
-
+<!-- #region editable=true slideshow={"slide_type": ""} -->
 The previous section has demonstrated that the overall rate to which people appeal to divine entities in their letters is highly dependent on their social profile and the (writing) community they are part of. The current section zooms in on the semantics of the divine appeals themselves, with a special focus on the ones that deal with the future. How much agency did the letter writers think they had about their own future? For which aspects of their envisioned future did they appeal to divine powers? Did they ask God for assistance, did they simply assume that God would grant them whatever they wanted, or did they take a step back and trust the path that God had in mind for them?
-
+<!-- #endregion -->
 
 To investigate to what extent early modern people perceived their future to be controlled by divine entities, we annotated all future-oriented divine appeals by the distribution of agency between the letter writer and the divine entity that is appealed to. Four such types are distinguished. _Divine approval phrases_ frame an event as under the control of the letter writer, as long as God approves of its good outcome. _Confidence phrases_ attribute control to God, but at the same express that the writer is confident that the desired outcome will be realised. In _prayers_, the letter writers ask God to nudge a future event in their favour: they do not just assume that God will take care of it to their advantage, but they explicitly ask him to do so. The lowest degree of human agency, finally, is found in _resignation phrases_, where the letter writer resigns in whatever outcome God has in store for them, whether it be to their advantage or disadvantage.
 
 
 The plots in [Figure X](#figure-agency) show how these four types of human-divine agency distribution, stratified by correspondence, evolved through time. As the data indicate, the number of divine appeals in the correspondences appears to go down as time progresses: all types of divine appeals apart from resignation have lower rates of use in the late seventeenth century than in the late fifteenth. 
 
-```python tags=["figure-agency-*", "anchor-agency"]
+```python editable=true slideshow={"slide_type": ""} tags=["figure-agency-*", "anchor-chapter-agency"]
 metadata={
     "jdh": {
         "module": "object",
@@ -916,22 +919,22 @@ metadata={
 display(Image("./media/agency.png"), metadata=metadata)
 ```
 
-In addition, the general declines in divine appeals are interrupted by brief surges of requests for religious favours in the early seventeenth century. This indicates that the more general increase in divine references in the period leading up to the civil war in the 1640s, as attested in [section X](#anchor-communities) of this paper, holds for virtually the entire range of use that such divine appeals cover: it is replicated a little bit in confidence statements, somewhat more in divine approval statements and most clearly in prayers. Interestingly, the only type of divine appeal that deviates from this pattern are the resignation statements, which appear to be consistently on the rise throughout the early modern period. 
+In addition, the general declines in divine appeals are interrupted by brief surges of requests for religious favours in the early seventeenth century. This indicates that the more general increase in divine references in the period leading up to the civil war in the 1640s, as attested in [The centrality of (writing) communities](#anchor-communities) of this paper, holds for virtually the entire range of use that such divine appeals cover: it is replicated a little bit in confidence statements, somewhat more in divine approval statements and most clearly in prayers. Interestingly, the only type of divine appeal that deviates from this pattern are the resignation statements, which appear to be consistently on the rise throughout the early modern period. 
 
 
 To gain more insight in the nature of these changes, the four following sections zoom in on one type of divine appeal each, ordered by decreasing human control. For each type, the sections will discuss the type’s most common linguistic expressions, the domains of life they pertain to as well as their social and diachronic variation.
 
-
+<!-- #region editable=true slideshow={"slide_type": ""} -->
 ### Divine approval phrases
-
+<!-- #endregion -->
 
 Divine approval phrases appear when a letter writer expresses their desire to perform an action as well as their expectation to succeed in their endeavour, as long as God permits them to do so. They are not only the type of divine appeal that imply the largest share of human agency, they also are the most consistent type from a linguistic point of view: they usually appear either as _“by the grace of \<divine entity\>”_ (3a) or _“(\<divine entity\> willing)”_ (3b) and often show up in contexts of travel (3b) or expressions of the writer’s intentions (3a) more generally. In fact, this phrase seems to be tied to the presence of explicit intention markers (e.g. "purposeth" in (3b)) rather than to a specific domain of life.
 
-
+<!-- #region editable=true slideshow={"slide_type": ""} -->
 - (3a)  _"And as I have more enknowliche of this mater, or of any other perteynyng unto you, y shal **by the grace of Jhesu** sende you worde, who kepe you, Amen."_ (STONOR_092.336; Richard Germyn to William Stonor; 1480)
 
 - (3b)  _"My sonne Harrie came downe higher with his Lady about x daies agoe, verie well, and he purposeth **(God willinge)** about some busines of importance to set forward towards London againe uppon Tewsday or Wednesday next."_ (WENTWORTH_014.213; Francis Clifford to William Wentworth I; 1612)
-
+<!-- #endregion -->
 
 In terms of social variation, two clusters of particularly frequent use can be discerned. The earliest one, dated ca. 1500, consists of the Willough, Stonor and Plumpton correspondences and predominantly featured divine approval phrases in context related to either travel or intention. The second cluster appeared around 1630 in the writings of Wentworth, Harley, Barrington and Ferrar, who seemed to use the phrase much less for intention purposes and strongly tied it to travel. This increasing association with the domain of travel holds true for the other correspondences as well. Overall, it looks like the divine approval phrase – which was highly formulaic from the very start – gradually became restricted to contexts of travel, which probably solidified its status as a fixed phrase even more and as such caused its frequency to drop, along with those of the other fixed phrases.
 
@@ -944,12 +947,12 @@ Confidence phrases express the writer’s assured beliefs that the divine entity
 
 Apart from one early outlier, the Shilling correspondence in the mid fifteenth century (5a), all letter writers in the corpus tend to use confidence phrases in similar frequencies and contexts. It mainly serves interpersonal functions, where trust in a divine entity is used as a rhetorical device to give instructions to other people in a face-saving manner, in political affairs (4a) or in relation to business (4b).
 
-
+<!-- #region editable=true slideshow={"slide_type": ""} -->
 - (4a)   _“My lorde conjoured me to make an ende of this mater and yf y so didde y shoulde be cronycled. Y seyde, ‘My lorde, y have don my part **as y truste to God** ye shall knawe and wolle reporte as fer as y can may and thar do after youre commaundement.’”_ (SHILLING_004.1251; John Shillingford to an unidentified addressee; 1447)
 - (4b)   _“**I tryste in God** ye schall be at the packyng of the sayd woll in Cottyswolde”._ (CELY_047.259; Richard Cely Senior to George Cely; 1479)
 - (4c)   _“I beleeve you will fall to drawing, and besides faces, it may be Pleasent to the inhabitents as well as yr self, if you draw any thing elce in the Island. Tom wishes himself with you for some days. **God I trust** will support and Bless you;”_ (BROWNE_048.291;Thomas Browne Senior to Elizabeth Lyttelton (née Browne); 1681)
 
-
+<!-- #endregion -->
 
 Interestingly, these interpersonal uses of the construction grow less frequent over time, making room for a more literal reading instead (4c). From a historical linguistic point of view, the shift from an interpersonal meaning to a literal one is highly odd: it is much more common for words and phrases to develop in exactly the opposite way, through a combination of processes called grammaticalisation, subjectification and intersubjectification (see, e.g. <cite data-cite="9104992/35CQ9WFH"></cite> and <cite data-cite="9104992/UNTBF5P5"></cite>).
 

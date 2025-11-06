@@ -14,8 +14,7 @@ jupyter:
 ---
 
 <!-- #region citation-manager={"citations": {"": []}} editable=true slideshow={"slide_type": ""} tags=["title"] -->
-# The secularisation of future expectations in practice
-### An empirical study of divine appeals in Early Modern English letters
+# The secularisation of future expectations in practice: An empirical study of divine appeals in Early Modern English letters
 <!-- #endregion -->
 
 <!-- #region tags=["contributor"] -->

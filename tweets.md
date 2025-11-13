@@ -1,0 +1,17 @@
+Post thread:
+
+1. “God willing,” “By the grace of the God“, “May the lord keep you”: they’re still familiar phrases, but what did they mean 400 years ago?
+By tracing these phrases across thousands of letters, Sara Budts shows that early modern people used such words not just out of habit, but as ways to balance faith, agency, and uncertainty in an unpredictable world. Her study reveals how people learned to see the future as both divinely guided and humanly shaped — a mindset that still echoes in how we talk about the future today.
+Through a computational analysis of nearly 5000 letters,  Sara Budts charts how people between 1450 and 1700 shifted from trusting in Providence to trusting themselves, though never entirely abandoning the divine. This was the case in partular among puritans: while others turned toward a more secular language of control and agency, puritan communities appealed to God more than ever during the English Civil Wars. The result is a picture of pluritemporal coexistence — a world where divine will and human action were still deeply intertwined.
+
+2. From “God willing” to “I trust in God” : early modern letter writers used divine appeals to navigate uncertainty, illness, and war.
+Through a corpus linguistic analysis of private correspondence, Sara Budts traces the winding course of secularisation in early modern England. While people gradually refrained from invoking God for routine actions that they were in control of, they began to use religious discourse more and more to express their personal faith and signal surrender to the divine in moments of genuine crisis like the English Civil War. Even when public expressions of belief waned, personal letters reveal the emergence of a deeper, more introspective spirituality in seventeenth-century England.
+
+3.What can 7,500 divine references in early modern letters tell us about how people imagined their futures? And how do you measure something as elusive as belief?
+Using the Corpus of Early English Correspondence, Sara Budts combines digital text analysis and historical interpretation to measure how often—and in what ways—letter writers invoked God when talking about what was to come. Through careful cleaning, annotation and contextual study,  she compiled a datase tof 7,500 references to divine entities like “God,” “Lord,” and “Jesus.” When combined, these fragments reveal how divine appeals declined unevenly - fading from everyday formulas, but persisting in moments of personal crisis, illness, or war.
+
+4. How did early modern people think about the future—and who did they think was in charge of it?
+This new study in the Journal of Digital History takes a deep dive into more than 4,900 English letters written between 1410 and 1695 to trace how people appealed to God in their everyday writing. It reveals how divine language — “God willing,” “by His grace,” “I trust in God” — gradually faded from correspondence, marking a subtle but profound shift from a world governed by Providence to one shaped by human action and uncertainty.
+In “The Secularisation of the Future in Practise, Sara Budts searched over 70 private correspondences (1410–1695) to trace how appeals to God in English letters reveal a gradual shift from divine to human agency.
+
+

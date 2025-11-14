@@ -8,12 +8,12 @@ jupyter:
       format_version: '1.3'
       jupytext_version: 1.18.1
   kernelspec:
-    display_name: Python [conda env:base] *
+    display_name: Python 3 (ipykernel)
     language: python
-    name: conda-base-py
+    name: python3
 ---
 
-<!-- #region citation-manager={"citations": {"": []}} editable=true slideshow={"slide_type": ""} tags=["title"] -->
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["title"] -->
 # The secularisation of future expectations in practice: An empirical study of divine appeals in Early Modern English letters
 <!-- #endregion -->
 
@@ -36,6 +36,10 @@ display(Image("./media/glorification_of_st_ursula.jpg"))
 #https://artuk.org/discover/artworks/trompe-loeil-letter-rack-138390
 ```
 
+<!-- #region tags=["disclaimer"] -->
+This publication is part of a project that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme. Grant agreement No. 851053
+<!-- #endregion -->
+
 <!-- #region tags=["keywords"] -->
 secularisation, future, providence, letters, Early Modern England
 <!-- #endregion -->
@@ -48,12 +52,13 @@ We address these questions by querying nearly 5000 early modern letters for divi
 
 ## Introduction
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 The future is not doing well. The widespread optimism that characterised the years after the Second World War has made room for bleak prospects of climate disasters (<cite data-cite="9104992/565MC34S"></cite>) and fears of an artificial intelligence apocalypse (<cite data-cite="9104992/HAMQDNSD"></cite>). These bleak scenarios are not just passively anticipated, but they have sparked calls for action to undo existing damage and prevent further aggravations. Groups like Extinction Rebellion are advocating for immediate actions to cut fossil fuels (<cite data-cite="9104992/NLQ2BSM2"></cite>), and some founding fathers of AI are pleading for their inventions to be regulated more strongly (<cite data-cite="9104992/UJZPFUSC"></cite>). Although the idea that we can influence events in the future through our actions in the present seems quite obvious and incontestable to us now, this mindset is a product of its time just like any other cultural construct. The way in which people perceive their own agency in relation to the future is culturally (and therefore temporally) contingent and even has a history of its own.
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 In his "Futures Past", the German historian Reinhart Koselleck famously argued that our current understanding of the future dates back to the period between 1500 and 1800 (<cite data-cite="9104992/V7FP9RYF"></cite>). The medieval, Christian conception of time was largely cyclical in nature; the future was, above all, in the hands of God. By 1800 however, in the so-called _Sattelzeit_, West-European societies had witnessed a series of socio-political changes that had manifested themselves at an unprecedented pace. Scientific progress had gained ground at the expense of religion and the enlightenment had installed a firm belief that the condition humaine could be improved: the future had become open, uncertain and constructible; people were left with the feeling that time had not only been accelerating, it had also become secularised.
-
+<!-- #endregion -->
 
 The present study zooms in on English letter writers in the three centuries leading up to Koselleck's _Sattelzeit_, a period characterised by unprecedented change in both political and religious terms. Against this backdrop of crisis and reform, we study the mindscapes of early modern English (wo)men by charting the evolution of religious future thinking in the personal correspondence of over 70 letter writers from roughly 1450 to 1700. Did sixteenth-century people appeal to God more often than their seventeenth-century descendants? In which domains of their lives was religious future thinking the strongest? Did the secularization of their future prospects proceed at the same pace across all writing communities, despite their differences in religious practices and beliefs?
 
@@ -63,91 +68,106 @@ The present study zooms in on English letter writers in the three centuries lead
 
 ### History/Histories of the future
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 Since Koselleck first provided the field with a theoretical basis and a terminological framework, the lion’s share of subsequent research on the history of the future has followed in his footprints, either expanding or adapting his  (for an overview, see <cite data-cite="9104992/II3MITMT"></cite>). While this has resulted in a large and valuable body of historical knowledge, it has inevitably left out other aspects that are essential for a profound understanding of how people in the past perceived (their grasp on) the future.
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 First, most research that has explicitly been embedded in the historiography of future thinking has focused on the distant future. From prophesies (<cite data-cite="9104992/T4P65SU6"></cite>) and predicted apocalypses (<cite data-cite="9104992/HCHHABPR"></cite>, <cite data-cite="9104992/D72XVHBJ"></cite>) over utopias (<cite data-cite="9104992/DXWHJ7J2"></cite>) and the new, statistically inspired economic models developed during the French Revolution (<cite data-cite="9104992/D4X2Y3H9"></cite>), what is at stake is “The Future” of humankind as a whole. The short-term future, by contrast, has only very recently been brought into the limelight of scholarly scrutiny. One notable example of this is Baker's study of the future perceptions of merchants in Renaissance Italy, which zooms in on the merchants' eschatological expectations just as well as on the short-term futures of their everyday life – planning for the next meal, travelling to a meeting, anticipating how a political event might affect one's business (<cite data-cite="9104992/4MVVYNRR"></cite>).
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 A second and related aspect pertains to the empirical foundations of the _Sattelzeit_ narrative. Many analyses, either by Koselleck himself or written in his aftermath, are underpinned by sources that were created explicitly with the future in mind. While the range of consulted sources is very broad (poetic literature (<cite data-cite="9104992/343VU3R4"></cite>), prophesies (<cite data-cite="9104992/T4P65SU6"></cite>), projects (<cite data-cite="9104992/WCST6SSF"></cite>), utopian literature (<cite data-cite="9104992/DXWHJ7J2"></cite>), testaments and wills (<cite data-cite="9104992/6N7JY7I6"></cite>) etc.), they poorly reflect the full range of people's attitudes towards their futures. The futures of daily life, for example, can be reconstructed more easily through a systematic analysis of source material that contains implicit references to people’s future perceptions, but that has not been developed with an eye on the future per se. Some, very recent works that do just that include Baker’s survey of Italian merchants (<cite data-cite="9104992/4MVVYNRR"></cite>), Dekker’s analysis of epidemics in chronicles (<cite data-cite="9104992/U4YDTWUS"></cite>) and Van Eijnatten and Huijnen’s digital study on the uses of the future in Dutch parliamentary debates (<cite data-cite="9104992/T46TCSEE"></cite>).
-
+<!-- #endregion -->
 
 A third aspect that has been relatively unexplored so far is the social variation in future thinking. Even though the various textual sources that have been studied had been written with potentially very different audiences in mind, the future perceptions of  learned men have gained significantly more scholarly attention than the future thoughts and practices of everyone else.
 
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 Fourthly and finally, the Sattelzeit has been criticised for its (overly) strict timing. Recent studies have predominantly emphasised the gradual nature of this shift. The inescapability of the future in Marxist theory, for instance, clearly shows that millenarist and apocalyptic ideas lingered until well into the nineteenth century, even if they are secular ones (<cite data-cite="9104992/QKCHY66H"></cite>). Similarly, upon realising that the scientific innovations of the eighteenth century did not significantly reduce natural disasters, statisticians and scientists kept a religious faith in their work (<cite data-cite="9104992/KGBC99VK"></cite>). In the early modern period too, the majority of early modern chronicles reported both natural and divine explanations for epidemics, comfortably mixing religious and non-religious factors (<cite data-cite="9104992/U4YDTWUS"></cite>). In Alexandra Walsham’s words, "accepting a providential explanation for a devastating blaze or flood did not preclude the development of formal preventive measures, building by-laws, fire-fighting equipment, and other damage-limitation techniques. 'Religious' interpretations and ‘rationalist’ reactions were by no means incompatible (<cite data-cite="9104992/K6PCJNWF"></cite>, 148)."
 
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 On a theoretical level, this co-existence of a secular and religious understanding of the world ties in with the notion of pluritemporality, a concept that frames time as a constellation of coexisting and interpenetrating layers of temporal experience and, as such, urges the historian to study and chart the temporal experiences of people holistically, in all their variation (<cite data-cite="9104992/RE4HRMCE"></cite>, <cite data-cite="9104992/WBGD9IXK"></cite>). This approach underpins, for instance, Baker’s finding that the future orientation of merchants in renaissance Italy was an amalgam of various layers of future thinking (<cite data-cite="9104992/4MVVYNRR"></cite>).
 
-
+<!-- #endregion -->
 
 ### Secularisation and Reformation in early modern England
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 Few processes have been studied as extensively as secularisation, by sociologists, theologians and historians alike. While the concept of secularisation as a universal and linear movement towards less religiosity has been contested (<cite data-cite="9104992/CM8W4WS2"></cite>, <cite data-cite="9104992/DJG7VL7G"></cite>, <cite data-cite="9104992/KJY6LFDX"></cite> and <cite data-cite="9104992/6IX9C7NU"></cite>), a weaker version of the concept is indispensable to anyone who studies the future perceptions of early modern people and those of their medieval ancestors. 
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 Following Somerville, this paper understands secularisation as a process that operates at various layers of granularity, targeting societies as a whole as much as the individuals within them. The secularisation of a whole society involves a “process of institutional differentiation” (<cite data-cite="9104992/ZAW8JW29"></cite>, 5) whereby religion gets restricted to only a few domains of life. Quite paradoxically, societal secularisation generally begins with the creation of separate religious institutions: “marking off an area of the sacred - dramatising the fact that the sacred is something out of the ordinary" (<cite data-cite="9104992/ZAW8JW29"></cite>, 12-13). The secularisation of an institute takes place when an originally religious institution receives a more temporal purpose, like for instance the laicisation of government in late medieval England (13). Activities secularise when they are transferred from a more religious institution to a less religious one, like charity (5) or warfare (9). 
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 When applied to beliefs, mentalities or thoughts, secularisation involves a shift in focus from “ultimate ends” to “proximate, instrumental ones" (<cite data-cite="9104992/ZAW8JW29"></cite>, 5). This type of secularisation is particularly closely linked with the future outlook of individuals – it is even defined in temporal terms – and is therefore the one adhered to in this paper. A similar view of the process is adopted by Burke, whose pluritemporal take on Koselleck’s _Sattelzeit_ characterises the early modern period as one that saw a rise in “the number of pragmatic approaches to the future, reinforcing the idea of a secularisation of thought \[...\]. 'Secularisation', be it said, not in the strong sense of the replacement of religious by secular ideas but in the weaker sense of the coexistence of religious attitudes with an increasing variety of secular ones (<cite data-cite="9104992/QKCHY66H"></cite>, xiv)."
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 The secularisation of time in the early modern period can only be studied in relation to the Reformation. Although Henry VIII's dispute with the Pope over the annulment of his marriage famously culminated in the 1534 Act of Supremacy, it was only afterwards that the King's break with Rome  got tangled up with the reformation (<cite data-cite="9104992/QFIRD3FU"></cite>, 153). Henry VIII’s early Anglican regime was maintained by Edward VI (1547-1553), forcefully reverted under Mary I (1553-1558) and reinstalled in a lay-dominated form by Elizabeth I (1558-1603). Along with the Stuarts’ reign – James I (1602-1625) and Charles I (1625-1649) – came an officially protestant but catholicly inclined regime so heavily contested that a series of civil wars broke out between the king’s supporters and the puritan parliamentarians in the 1640s. The unrest culminated in the execution of Charles I in 1649 and the instalment of the 10-year interregnum under the puritan leader Oliver Cromwell. Although the return of the monarchy under Charles II (1660-1685) restored the previous, more moderately protestant/Anglican regime, the political power of the restored church had suffered a great blow. When the regime was consolidated by the Glorious Revolution in 1688, government had become essentially laicised (<cite data-cite="9104992/ZAW8JW29"></cite>, 15).
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 Like the process of secularisation, the English reformation too has received a great deal of scholarly attention. While twentieth century historiography on the matter was dominated by the debate on whether the reformation was eagerly awaited by a lay population tired of catholic excesses (e.g. <cite data-cite="9104992/5UGP4SIX"></cite>) or characterised above all by a high degree of continuity backed up by government support (e.g. <cite data-cite="9104992/CFHKDQHU"></cite>), the past three decades of research have reframed the reformation as a process rather than an event and subsequently shifted the emphasis away from its onset and towards its unfolding on the long term. Subsequent research has not shed more light on the relations between English Protestantism and a variety of continental flavours of Christianity (e.g. <cite data-cite="9104992/YHPIDHJP"></cite>, <cite data-cite="9104992/8CXEXVPY"></cite>), it has also unveiled the process itself as an oscillating rather than teleological one, characterised by accidents, rupture and setbacks for both parties rather than a carefully planned and implemented programme, which in turn has left more room for an exploration of catholic or otherwise dissenting voices instead (<cite data-cite="9104992/P7VW4LHD"></cite>, 350-352).
 
 
 
 
 
-
+<!-- #endregion -->
 
 ### Time and future in a reformed and/or secularised world
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 Processes like reformation and secularisation not only affect one's religious beliefs, they also impact the way in which people experienced and interacted with the fabric of time and, as a result, the extent to which they believed they could control their own future. Perhaps the best illustration of the close relation between temporality and secularisation is the word’s etymology: “secularisation” has been derived from the Latin “secularis”, a term that qualifies the progress of time as linear, as opposed to “aeturnus” or eternal. Even in the order of creation, time comes relatively late, eternity being the primordial state (<cite data-cite="9104992/ZAW8JW29"></cite>, 33).
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 A central concept that ties together religion and future thinking is the doctrine of providence. While providence already existed in pre-reformation Catholicism, it had become a highly politicised element of Protestantism too (<cite data-cite="9104992/K6PCJNWF"></cite>, 6). In Walsham’s view, providence is a combination of knowledge and power through which God determines what happens on Earth. The first aspect – power – points to God’s proclaimed ability to intervene with life on Earth, directly or indirectly, an aspect that distinguishes the early modern theology from the “watchmaker-god” of the Enlightenment era (<cite data-cite="9104992/K6PCJNWF"></cite>, 6). The second aspect – knowledge – refers to God’s programme for the evolution of the world and everyone in it, a “blueprint of human history drawn up in the beginning” (<cite data-cite="9104992/K6PCJNWF"></cite>, 9) where past, present and future are one.
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 In pre-reformation Catholicism, major divine interventions were thought of as rather common. God could intervene directly, through miracles (<cite data-cite="9104992/G8U2CWIU"></cite>, 93), or indirectly, in the shape of bizarre natural phenomena, epidemics or other kinds of catastrophes (130). Importantly though, providence was not the only explaining factor for bad luck: the misfortunes of everyday life were most commonly attributed to Fortuna instead (<cite data-cite="9104992/G8U2CWIU"></cite>, 130), both by lay people and the prominent theologians of the time. 
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 This belief changed with the Reformation. Protestant scholars believed that everything in the world was determined by God and wholly dismissed concepts like luck, fortune or chance: "Whereas Aquinas had stressed that the notion of Divine Providence did not exclude the operation of chance or luck, a sixteenth-century writer like Bishop Pilkington could declare categorically that there was no such thing as chance. Medieval Christians from Boethius to Dante had maintained the pagan tradition of the goddess Fortuna side by side with the belief in God's omnipotence, but for Tudor theologians the very idea of Fortune was an insult to God's sovereignty (<cite data-cite="9104992/G8U2CWIU"></cite>, 91)." The prevalent idea among the clergy was that miracles were mostly a phenomenon of the past, but that sinful behaviour could (and would) still be punished by indirect divine interventions like epidemics, which were intended as a wake-up call to live more pious lives (<cite data-cite="9104992/G8U2CWIU"></cite>, 93, 112-113).
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 Interestingly, however, when faced with actual crises, many early modern people, both lay and members of the clergy, responded in a much more eclectic way than the doctrine of providence warrants. The plague, for instance, was explained by Tudor and Stuart scholars with arguments drawn interchangeably from theology, astrology and galenic humour theory, a seemingly incongruent combination of explanatory frames that made sense only with providence as a binding agent (<cite data-cite="9104992/G8U2CWIU"></cite>, 156). Preachers stressed that the plague was a punishment for the community, but nevertheless that intermediary mechanisms like sanitary measures could help too. After all, such measures were part of the divine plan as much as the diseases themselves: medical cures worked because (or rather: if) God had written them into his blueprint of history (<cite data-cite="9104992/G8U2CWIU"></cite>, 158).
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 Other natural phenomena too were attributed at once to chance (or Fortuna), Providence, the planets or witchcraft.  "Certainly many parish registers, private diaries and journals record gale-force winds and hailstones 'as bigge as walnottes', tennis balls, or turkey's eggs without any pious comments whatsoever. Such entries are hardly evidence that an agnostic and morally neutral view of climatic anomalies prevailed, though they do beg questions about how many educated - and uneducated - people acknowledged a general providence without subscribing to the view that the hand of the Almighty could be traced in every particular terrestrial disaster" (<cite data-cite="9104992/G8U2CWIU"></cite>, 125).
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 This eclectic attitude towards misfortune and randomness ties in with a more general undercurrent rooted in (mythological) folk culture, science that had existed alongside and even in interaction with pre-reformation Christianity for centuries. The reformation, with its renewed interest in providence, did not replace these alternative frames of interpretation altogether, much to the chagrin of Tudor and Stuart clergy (<cite data-cite="9104992/K6PCJNWF"></cite>, 20-29). They complained, for instance, about a widespread belief in heathenish concepts like “fate”, “fortune” and “chance”, often personified in the goddess Fortuna. While medieval theology still embedded Fortuna as a subordinate figure to providence and God, protestant scholars strongly refuted her existence and explained randomness as humanity’s inability to see the full divine plan (<cite data-cite="9104992/K6PCJNWF"></cite>, 21-22). Other explanatory forces were based on a belief in (Dame) nature (23), in witches (26), in mythological creatures like ghosts, fairies, hobgoblins, elves and other spirits (28), in fortune tellers and almanacks (25) or judicial astrology. While it was recognised that celestial bodies were instruments of God, protestant clergy feared that too strong a belief in the influence of the stars and the moon would reduce moral responsibility (24-25).
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 While the belief the doctrine of providence as a whole started to fade from the seventeenth century onwards, providential explanations would linger on for centuries. Despite evolutions in natural sciences, many people would not believe, for instance, that the pestilence was by no means a divine punishment. In that respect: the difference between the sixteenth and the eighteenth or even nineteenth century was at most one of degree. "In the sixteenth and early seventeenth centuries we are confronted by a coherent theory to which most educated members of the community subscribed. In the nineteenth we meet only the survival of earlier assumptions, no longer fully compatible with the scientific principles of the day, and no longer accepted by many of the clergy themselves (<cite data-cite="9104992/G8U2CWIU"></cite>, 129)." Eighteenth century preachers argued that God had included such disasters in his original plans for the world because he knew that people would be sinful. In the seventeenth century, such argumentation is barely attested: the divine origin and punitive nature of catastrophes was simply so compatible with the prevalent world view that a rational defence – or even logical consistency - was hardly called for.
-
+<!-- #endregion -->
 
 ### Research questions
 
 
 This study offers an empirical take on the secularisation of the future in Early Modern England, the period leading up to Koselleck's _Sattelzeit_. Most research carried out so far on providence or the history of the future more generally, has looked into sources that explicitly deal with people’s future expectations. Common sources are, for example, theological treatises, sermons, and pamphlets. While these are great sources to study an individual's providential and apocalyptic beliefs about the (distant) future, they reveal little about everyday hopes, worries and expectations. What is lacking, therefore, is a long-term, systematic study of divine control over future orientations in all its variety. 
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 A similar critique holds for studies into writing as a form of religous practice, a habit that held a particularly prominent place in puritan communities (<cite data-cite="9104992/S3LDXA42"></cite>, 298). Even before spiritual journalling was prescribed by preachers, puritans had long been keeping diaries in order to "learn to know oneself and therefore to learn to know religions" (<cite data-cite="9104992/ABCVJC7F"></cite>, 2). Many such diaries that have survived the period have later received a fair deal of attention in scholarly circles (e.g. <cite data-cite="9104992/SHZ9YPHS"></cite>, <cite data-cite="9104992/M7YH5R5F"></cite>). While this provides an excellent insight into the contemplations of the writers, they fail to capture the communal nature of religious practice. As previous research on letter-writing has emphasised, the rapid blooming of devotional identities in the sixteenth and seventeenth centuries (<cite data-cite="9104992/ABCVJC7F"></cite>, 3-4) had created a situation where people with similar beliefs were not necessarily geographically close to one another (<cite data-cite="9104992/7FR7VCTW"></cite>, 196). In such situations, letter-writing served the double purpose of strengthening the ties between people of the same denomination and jointly reworking or giving shape to religious concepts like piety and salvation. Following Fiona Counsell, this paper seeks to shift the emphasis from the contemplative to the interactive nature of religious practice in writing "by focusing on a collaborative genre as letter writing, which stresses the communal nature of piety and belief" (<cite data-cite="9104992/7FR7VCTW"></cite>, 197).
 
 
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 As religiosity is notoriously hard to get a grip on, let alone measure, the secularisation of thought and mentality among early modern people can only be studied by proxy, through religious practices (<cite data-cite="9104992/6IX9C7NU"></cite>, 180-182). One of these is like letter writing. Because personal letters have been produced in large quantities by people of various backgrounds throughout the period, a systematic search for divine appeals is hypothesised to get insight in the way the letter writers perceived their futures, big and small, far away and nearby, as well as the degree to which divine entities had control over it. The present study addresses this broad research question in two parts. 
-
+<!-- #endregion -->
 
 First, the number of divine appeals in the correspondences as a whole is studied. To what extent did they think they think their lives were in the hands of God? Did that diminish over time – as the secularisation of time would suggest – or not? Were some people more likely than others to ascribe all agency in their lives to God? If so, what was their social profile. In the second part, we will zoom in on the divine appeals that are specifically concerned with future events or actions. Did people perceive these events as within their own sphere of control, or did they believe all agency rested in the hands of God? Which domains of their lives were they least in control of? Did these appeals for divine assistance or control show clear diachronic trends?
 
@@ -157,7 +177,7 @@ First, the number of divine appeals in the correspondences as a whole is studied
 
 ### Corpus
 
-<!-- #region -->
+<!-- #region citation-manager={"citations": {"": []}} -->
 To chart the religious practices of a varied population - laypeople and religious professionals alike - in letter writing, we made use of the Parsed Corpus of Early English Correspondence, commonly abbreviated as PCEEC (<cite data-cite="9104992/IDVB5BT9"></cite>, available at https://ota.bodleian.ox.ac.uk/repository/xmlui/handle/20.500.12024/2510). This 2.2 million word corpus consists of 4970 personal letters, drawn from the edited publications of 84 different correspondences that took place between ca. 1410 and 1695. For a visual overview, we refer to our [timeline](#anchor-figure-timeline). Even though the wide-spread illiteracy at the time of writing restricts the corpus to the upper echelons of society, care has been taken to draw from as broad a pool of letter writers as possible. Nearly a fifth of the writers, for example, were women, and much effort has been spent on the collection and correction of the corpus' metadata, including biographical information on all letter writers and addressees.
 
 
@@ -535,11 +555,11 @@ dataset_overview.drop(["0","DUBBEL"],axis=1,inplace=True)
 dataset_overview
 ```
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+<!-- #region citation-manager={"citations": {"": []}} editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 This procedure resulted in a total of 20,281 hits, which was then subjected to a round of filtering to remove the attestations that did not actually refer to divine entities (i.e. "noise" in [table 1](#anchor-table-overview)) . This includes, for instance, human lords and fathers, the partial matches of "Christ" in "Christmas" or "god" in "godfather", and the uses "merry" as the present-day adjective. In cases where the divine appeal consisted of several, consecutive queries (e.g. "Almighty God" or "Lord Jesus"), we preserved the first hit (respectively "Almighty" and "Lord") but discarded the others. This round of data cleaning reduced the size of the dataset to 7536 instances. Following Rutten and Van der Wal (<cite data-cite="9104992/CBNLU6T4"></cite>), we then labelled each attestation according to the part of the letter they were drawn from, distinguishing the (more formulaic) opening and closing statements from the letter body. 
 <!-- #endregion -->
 
-<!-- #region jdh={"object": {"source": ["Overview of the results in data broken down per query and letter part."], "type": "table"}} editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
+<!-- #region editable=true jdh={"object": {"source": ["Overview of the results in data broken down per query and letter part."], "type": "table"}} slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 [Table 1](#anchor-table-overview) shows an overview of the resulting dataset, broken down per query and letter part. As is apparent, the mentions of "God" outnumber the others by a large margin. Most terms were attested most frequent in the body of the letters, except for "Jesus" and "Almighty", which were more common in the closing parts. 
 <!-- #endregion -->
 
@@ -560,8 +580,9 @@ This procedure resulted in a total of 20,281 hits, which was then subjected to a
 
 ### Annotation
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 While the occurrences of divine entities in the opening and closing parts of the letters were highly formulaic, the ones in the letter bodies did display a large amount of variation. To gain insight in the contexts of and motivations for the divine appeals in the letter bodies, they were subjected to a structured discourse analysis by labelling them according to (1) the domain of the writers' lives to which the appeal pertains, (2) the temporal orientation of the appeal (past or future) and (3) the writers' perception of their own agency in the matter. It is important to note that this annotation scheme, which the next paragraphs expound on and is discussed in more detail in the appendix, did not exist prior to the analysis, but has been constructed along the way, in close interaction with the dataset. As this annotation procedure, known as Quantitizing Design (<cite data-cite="9104992/KXKA2IFT"></cite>, 3) has been carried out by a single annotator, its accuracy cannot be assessed by means of inter-annotator agreement scores. To overcome this limitation, however, the entire dataset has been made publically available along with this paper to enable the curious (or critical) readers to inspect the annotations, play around with the data and/or explore additional examples of the categories of divine appeals discussed here. 
+<!-- #endregion -->
 
 ```python tags=["hermeneutics"]
 df_body = df_annotations[df_annotations["LABEL"] == "BODY"]
@@ -877,15 +898,15 @@ The red and green marks, lines and labels have been added to the plots manually 
 
 Perhaps the most striking feature of these plots is that there is a clear imbalance in the degree to which the correspondences at both ends of the scale diverge from the average: the positive outliers are much more marked than the negative ones. Moreover, none of these outliers is attested before the 1550s. The six correspondences with the most divine appeals predominantly stem from the (period leading up to) the Civil Wars in 1640 (Barrington, Ferrar and Harley). The five correspondences with the lowest rate of divine appeals are to be found more during the Interregnum in the 1650s (Chamberlaine and Edmondes) and in the aftermath of the Restoration in 1660 (Osborne, Marvell and Essex). Despite these temporal clusters however, neither group of correspondences has a designated period in time where the other does not feature, corroborating earlier evidence that the seventeenth century saw a diversification in the rates of divine appeals among letter writing communities rather than wholesale shifts in a single direction.
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 Regarding the social profile of the communities concerned, the common denominator among those with many divine appeals readily emerges to be puritanism. The Harleys were a prominent part of the Herefordshere gentry whose devoutly puritan convictions and parliamentarian support brought them in serious trouble during the civil wars (<cite data-cite="9104992/F8V9WGK2"></cite>, <cite data-cite="9104992/8NSJGSDV"></cite>). Especially the letters of Brianna Harley have been studied extensively in their relationship to puritan beliefs (e.g. <cite data-cite="9104992/IX2FY2UI"></cite>, <cite data-cite="9104992/XYB8PWVG"></cite>). John Jones Maesygarnedd, Oliver Cromwell's brother in law and one of the commissioners to sign King Charles I's death warrant, was a puritan Welsh politician who got executed after the Restoration (<cite data-cite="9104992/CDTZVSLN"></cite>). Sir William Masham, son-in-law of the wealthy Essex puritan Sir Francis Barrington, similarly was a puritan politician and active parliamentarian during the First Civil War, before being taken hostage by royalists in the Second Civil War (<cite data-cite="9104992/NCXLC5J3"></cite>, <cite data-cite="9104992/LI7U2LJZ"></cite>). Sir Francis Hastings was a puritan reformer and politician with a special interest for the interplay between religion and politics (<cite data-cite="9104992/5QRYMRF3"></cite>). The Ferrar correspondence is centered around Nicholas Ferrar, a son of a wealthy London merchant that became deacon in the Church of England before founding his own religious community in Liddle Gidding famous for its devotional discourse (<cite data-cite="9104992/9MECKTVA"></cite>, <cite data-cite="9104992/JPQDS7B3"></cite>). While the precise denomination of this community is not entirely clear, the importance of religion in Ferrar's life can hardly be contested.
-
+<!-- #endregion -->
 
 The openly puritan convictions of these communities might also explain their temporal clustering in the first half of the seventeenth century: the (political tension preceding) the civil wars in the 1640s made this period a particularly perilous time to be puritan. The Harleys, Jones and Barringtons all faced severe persecution because of their religious inclination. This evidently increased their exposure to uncontrollable situations, which could have boosted the number of divine appeals. In that respect, it is unclear whether the elevated rate of divine appeals among these communities is of theological nature and caused directly by their religious convictions, or whether it has a more pragmatic cause and stems from the real-world hazards they faced because of these convictions.
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 The communities that used the fewest divine appeals vary considerably more in social profile. Thomas Edmondes was active as a diplomat in France under Elizabeth I and subsequently secured the position of Treasurer of the Royal Household under James I and Charles I (<cite data-cite="9104992/Y9J33D4W"></cite>). The Essex correspondence revolves around Arthur Capell, who was appointed Privy Councillor and Lord Lieutenant of Ireland in 1672, but got convicted for attempted regicide out of anti-catholic sentiments ten years later (<cite data-cite="9104992/YFZCRRNC"></cite>). Andrew Marvell was a protestant (though not puritan) poet and politician who pragmatically steered away from his republican views after the restoration (<cite data-cite="9104992/AGFPXITS"></cite>). John Chamberlain was the son of a well-to-do London ironmonger whose 71 letters with political news and gossip are considered highly representative of the late Elizabethan and early Stuart gentry (<cite data-cite="9104992/KABMSWCW"></cite>), and Dorothy Osborne, the youngest daughter in a committed royalist family, is known for the witty letters she wrote to her later husband, William Temple, during their courtship in the 1650s (<cite data-cite="9104992/AB9HZJ9D"></cite>).
-
+<!-- #endregion -->
 
 Apart from the lack of puritans among them, it is hard to find a common denominator in the social profiles of these people. This ties in with their position in [Figure X](#figure-communities): even though they represent the endpoint of the continuum, their means were twice as close to the average as the outliers in the positive direction. Perhaps their rates of divine appeal were not that eccentric after all, and neither was their social background.
 
@@ -953,8 +974,9 @@ Apart from one early outlier, the Shilling correspondence in the mid fifteenth c
 
 <!-- #endregion -->
 
+<!-- #region citation-manager={"citations": {"": []}} -->
 Interestingly, these interpersonal uses of the construction grow less frequent over time, making room for a more literal reading instead (4c). From a historical linguistic point of view, the shift from an interpersonal meaning to a literal one is highly odd: it is much more common for words and phrases to develop in exactly the opposite way, through a combination of processes called grammaticalisation, subjectification and intersubjectification (see, e.g. <cite data-cite="9104992/35CQ9WFH"></cite> and <cite data-cite="9104992/UNTBF5P5"></cite>).
-
+<!-- #endregion -->
 
 The construction’s violation of these general mechanisms of language change draws attention to what motivated the shift. In particular, it increases the likelihood that this emergence of literal uses is a consequence of a genuine shift in the letter writers’ perceived relation to God. Indeed, while fifteenth-century writers saw no objections in a more gratuitous use of divine confidence phrases for social purposes, the later attestations appear to be a reflex of a more personal, solemn and genuine faith in the power of divine entities. While it cannot be excluded that the more solemn use of the phrase is a discursive strategy or a genre convention of letter writing too, it remains the case that there is a qualitative difference with the earlier (conventional) uses of the pattern and that the direction of the change is so marked in linguistic terms that the motivating factor is likely to be social or religious in nature.
 
@@ -1129,10 +1151,10 @@ What does this systematic survey of divine appeals tell us about the self-percei
 First of all, our analysis indicates that it is very likely that an early modern person’s self-perceived agency has changed throughout the early modern period. In most writing communities, we see a decrease in the relative number of divine appeals as time progresses. Moreover, the divine appeals to wither first were typically the most formulaic ones: those in the opening and closing parts of the letters gradually disappeared throughout the period. A similar pattern is attested in all types of future-oriented divine appeals except for resignation.
 
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 In order to assess the relevance of these findings within the broader framework of secularisation, we first need to figure out to what extent the use of such formulae in letters reflects genuine faith. Did early modern people complement the announcement of their travel plans with “God willing” because they genuinely believed that God could (or would) interfere with their travels, or did they use that phrase simply because it was the conventional way to express reservation, similar to “touch wood” or “if all goes well” in present-day language? Perhaps unsurprisingly, this question leads right back to Clark’s distinction between religious practice and religious faith, and the heuristic impossibility to reliably deduce the latter from the former (<cite data-cite="9104992/6IX9C7NU"></cite>). Like all others, this study too fails to provide definite answers to the question how early modern people experienced faith, and how this experience fluctuated between people and across time.
 
-
+<!-- #endregion -->
 
 When we shift the emphasis from the individual believer to the community as a whole, however, this study does provide some relevant insights. Regardless of whether a sixteenth-century author opened their letter with a divine appeal out of genuine faith or out of habit, the mere observation that this convention was discontinued in the sixteenth century indicates that such practices are not set in stone. Even if divine appeals were mere writing conventions, their fluctuation through time highlights their interplay with the culture they were embedded in. If we hypothesise that there was no change whatsoever in the religious experience of letter writers in the early modern period, it is highly unlikely that we would have found the fluctuations we attested, especially the ones that are at odds with the general direction of linguistic change. In that respect, the gradual decrease in virtually all divine appeals except for resignation can be thought of as an indication that secularisation first got hold of the domains in people’s lives that were already in their control.
 
@@ -1141,21 +1163,22 @@ When we shift the emphasis from the individual believer to the community as a wh
 At the same time, we also observe the emergence of new types of divine appeals, like the more solemn subtypes of confidence phrases, interpersonal prayers and resignation statements. In no way do these testify to a decrease in religiosity: the rise in resignation statements, for instance, presuppose one’s total surrender to the divine plan. In line with Sommerville’s (1992) conclusions on secularisation in early modern England, our results too hint at a qualitative change from religious culture to religious faith. The medieval concept of religion as a set of rituals, conventions and practices had made room for a more internalised belief centred around one’s personal relationship with God. Around the turn of the sixteenth century, it had become at once less common to implore divine assistance for all minor challenges one is faced with, but more common to acquiesce in the divine plan for the least controllable domains but most fundamental domains of life, like epidemics and warfare.
 
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 A second major conclusion of our study is that the shift described above did not take place to the same extent among all social groups. Where some seventeenth-century communities – above all puritan ones – appealed to God at a higher rate than ever before, a fair number of their contemporary letter writers barely used any divine appeals. In that respect, our corpus data clearly show just how much the reformation impacted the lives of early modern English people. While the fifteenth-century correspondences all used divine appeals in a moderate, uniform and quite formulaic manner, the seventeenth-century data seems to be divided into, on the one hand, a rather small group of correspondences that show elevated rates of solemn, specific divine appeals and on the other hand a majority of letter writers whose use of divine appeals had significantly dropped. This observation may serve as quantitative evidence that the reformation - viewed here as a process rather than an event - caused the English religious landscape to scatter into communities of different denominational identities, the members of which jointly created their own devotional practices through letter writing (cf. <cite data-cite="9104992/ABCVJC7F"></cite>, 3-4), which may be seen as a communal counterpart to more contemplative and individual spiritual diaries (<cite data-cite="9104992/7FR7VCTW"></cite>).
 
-
+<!-- #endregion -->
 
 The exceptionally high rate of divine appeals in puritan communities in the first half of the seventeenth century warrants further research. It is unclear, for instance, whether their divergent behaviour is due to their religious persuasions as such, or to the precarious political circumstances that their puritan persuasion had placed them in. Whatever the cause be, the increase in calls for divine intervention in the first half of the seventeenth century curiously coincides with previous findings that the period of the civil war and the interregnum was an exceptionally fertile ground for apocalyptic and millenarian prophesies. 
 
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 Millenarist ideologies stem from the idea that the apocalypse would be preceded by a series of spectacular events. Inspired by a literal interpretation of the (vernacular) Bible, many people in early modern England interpreted the religious troubles and civil wars of their time - in particular the unprecedented execution of the king - as a clear sign that the apocalypse was on its way.  While it is unclear why the shift from passive to active millenarism took place precisely during the Interregnum. In Thomas's words, the Interregnum was characterised by above all by "a conviction held by so many of the Civil War sects that the period in which they lived was somehow the climax of human history, the era for which all previous events had been a mere preparation (<cite data-cite="9104992/G8U2CWIU"></cite>, 169)". While it remains to be seen whether the coinciding surge in millenarist prophesies and the peak in divine appeals are related, they do emphasise just how profound the imprints were that this turbulent passage of history has left in the minds of the people that lived through them.
 
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 A third take-away of this paper is related to its embedding in the historiography of the future. Koselleck's hypothesis that the coming of the _Sattelzeit_ in the late eighteenth century was characterised by a shift in people's perception of not just the future but even time itself, from being God-given and determined to being open and constructible. While Koselleck himself doesn't explicitly discuss the arrival of the _Sattelzeit_ in relation to the process of secularisation, the narrative he puts forward presupposes a process of this kind to have taken place around the mid-eighteenth century at the latest. In this light, the findings of the present paper can be seen as early empirical evidence of this shift. Even if the future became only truly open and constructible around the turn of the eighteenth century, the change was gradual rather than cataclysmic and had been building up for at least two centuries. The religious confusion that followed the Reformation had lasting impacts on people's relation with the future. Some of them saw their own agency diminished even further and fully resigned to the divine plan. Other people, however, took the opposite stance and had started to reclaim the more controllable domains of their lives as early as the 1550s, as witnessed by the steady decline in formulaic divine appeals, especially in contexts where human agency was already fairly high. In that respect, the quantitative analysis presented here clearly shows that the increasing demarcation of the sacred and the profane did not result in a linear decrease in divine appeals across the board. While some people did appeal less to divine entities than their ancestors did, the same demarcation caused members of devotional groups to develop an increasingly personal bond with the divine entities they implored (<cite data-cite="9104992/WE6MDB8W"></cite>).
-
+<!-- #endregion -->
 
 ## Conclusion
 
